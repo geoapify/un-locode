@@ -7,6 +7,7 @@
   "minimized": "dist/index.min.js",
   "module": "dist/index.min.esm.js",
   "scripts": {
+    "generate-files": "ts-node src/utility.ts",
     "test": "jest",
     "test-coverage": "jest --coverage",
     "build": "tsc",
@@ -45,6 +46,7 @@
     "jsdom": "^25.0.0",
     "rollup": "^4.21.2",
     "ts-jest": "^29.2.5",
+    "ts-node": "^10.9.2",
     "tslib": "^2.7.0",
     "typescript": "^5.5.4"
   }
