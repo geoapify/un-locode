@@ -1,32 +1,53 @@
 const fs = require('fs');
 const path = require('path');
 const readline = require('readline');
+const xlsx = require('xlsx');
 
-class Utility {
+export class Utility {
    static directoryPath = 'data-source';
    static outputDirectory = 'json-data';
+   static formatCSV = ".csv";
+   static formatXLS = ".xls";
+   static acceptedFormats = [Utility.formatXLS, Utility.formatCSV];
 
    static async generateFiles() {
-      let files = this.loadFiles();
-      for (const fileContent of files) {
-         let data = await this.generateJSON(fileContent);
-         await this.saveToFiles(data);
+      let loadedFiles = this.loadFiles();
+      for (const loadedFile of loadedFiles) {
+         if(this.isFileFormatAccepted(loadedFile)) {
+            let data = await this.generateJSON(loadedFile);
+            await this.saveToFiles(data);
+         } else {
+            console.log('File format not accepted fileName:' + loadedFile.name);
+         }
       }
    }
 
-   static loadFiles(): Array<string> {
+   static loadFiles(): Array<LoadedFile> {
       const files = fs.readdirSync(this.directoryPath);
       const allFiles = files.filter((file: any) => fs.statSync(path.join(this.directoryPath, file)).isFile());
       console.log('Files:', allFiles);
 
-      let result: Array<string> = [];
+      let result: Array<LoadedFile> = [];
       allFiles.forEach((file: string) => {
-         result.push(fs.createReadStream(this.directoryPath + "/" + file));
+         result.push({
+            fileContent: fs.createReadStream(this.directoryPath + "/" + file),
+            name: file
+         });
       })
       return result;
    }
 
-   static async generateJSON(fileStream: string): Promise<Map<string, Array<UnlocodeItem>>> {
+   static async generateJSON(file: LoadedFile): Promise<Map<string, Array<UnlocodeItem>>> {
+      if(this.isFileExtensionMatching(file, this.formatCSV)) {
+         return this.generateJSONFromCSV(file);
+      }
+      if(this.isFileExtensionMatching(file, this.formatXLS)) {
+         return this.generateJSONFromXLS(file);
+      }
+   }
+
+   static async generateJSONFromCSV(file: LoadedFile): Promise<Map<string, Array<UnlocodeItem>>> {
+      let fileStream = file.fileContent;
       const rl = readline.createInterface({
          input: fileStream,
          crlfDelay: Infinity
@@ -39,7 +60,7 @@ class Utility {
             if (!firstRow) {
                firstRow = line;
             } else {
-               let item = this.convertToJSON(line);
+               let item = this.convertCSVLineToJSON(line);
                this.addRow(result, item);
             }
          });
@@ -49,12 +70,46 @@ class Utility {
          });
 
          rl.on('error', (error: any) => {
+            console.error('Error reading the file:', error);
             reject(error);
          });
       });
    }
 
-   static convertToJSON(line: string) {
+   static async generateJSONFromXLS(file: LoadedFile): Promise<Map<string, Array<UnlocodeItem>>> {
+      const fileStream = file.fileContent;
+      return new Promise((resolve, reject) => {
+         let result = new Map();
+
+         const chunks: Buffer[] = [];
+
+         fileStream.on('data', (chunk: any) => {
+            chunks.push(chunk);
+         });
+
+         fileStream.on('end', () => {
+            const buffer = Buffer.concat(chunks);
+
+            const workbook = xlsx.read(buffer, { type: 'buffer' });
+
+            const sheetName = workbook.SheetNames[0];
+            const sheet = workbook.Sheets[sheetName];
+
+            const data = xlsx.utils.sheet_to_json(sheet);
+            data.forEach((line: any) => {
+               let item = this.convertXLSLineToJSON(line);
+               this.addRow(result, item);
+            })
+            resolve(result);
+         });
+
+         fileStream.on('error', (err: any) => {
+            console.error('Error reading the file:', err);
+         });
+      });
+   }
+
+   static convertCSVLineToJSON(line: string) {
       let lineParsed = line.split(",");
       return {
          change: lineParsed[0],
@@ -69,6 +124,23 @@ class Utility {
          iata:lineParsed[9],
          coordinates: lineParsed[10],
          remarks:lineParsed[11]
+      };
+   }
+
+   static convertXLSLineToJSON(line: any) {
+      return {
+         change: line["Change"],
+         country: line["Country"],
+         location: line["Location"],
+         name: line["Name"],
+         nameWoDiacritics: line["NameWoDiacritics"],
+         subdivision: line["Subdivision"],
+         status: line["Status"],
+         function: line["Function"],
+         date: line["Date"],
+         iata: line["IATA"],
+         coordinates: line["Coordinates"],
+         remarks: line["Remarks"]
       };
    }
 
@@ -92,6 +164,14 @@ class Utility {
          console.log(`File saved: ${filename}`);
       }
    }
+
+   static isFileFormatAccepted(file: LoadedFile): boolean {
+      return this.acceptedFormats.includes(path.extname(file.name));
+   }
+
+   static isFileExtensionMatching(file: LoadedFile, format: string): boolean {
+      return path.extname(file.name) === format;
+   }
 }
 
 interface UnlocodeItem {
@@ -107,6 +187,11 @@ interface UnlocodeItem {
    iata: string
    coordinates: string;
    remarks: string;
+}
+
+interface LoadedFile {
+   fileContent: any;
+   name: string;
 }
 
 Utility.generateFiles();
