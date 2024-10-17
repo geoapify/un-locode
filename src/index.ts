@@ -1,1 +1,2 @@
-export {Utility} from './utility';
+export {Unlocode} from './unlocode';
+export type * from './models/unlocode.interface';

@@ -1,3 +1,5 @@
+import { UnlocodeJsonItem } from "../models/unlocode.interface";
+
 const fs = require('fs');
 const path = require('path');
 const readline = require('readline');
@@ -37,7 +39,7 @@ export class Utility {
       return result;
    }
 
-   static async generateJSON(file: LoadedFile): Promise<Map<string, Array<UnlocodeItem>>> {
+   static async generateJSON(file: LoadedFile): Promise<Map<string, Array<UnlocodeJsonItem>>> {
       if(this.isFileExtensionMatching(file, this.formatCSV)) {
          return this.generateJSONFromCSV(file);
       }
@@ -46,7 +48,7 @@ export class Utility {
       }
    }
 
-   static async generateJSONFromCSV(file: LoadedFile): Promise<Map<string, Array<UnlocodeItem>>> {
+   static async generateJSONFromCSV(file: LoadedFile): Promise<Map<string, Array<UnlocodeJsonItem>>> {
       let fileStream = file.fileContent;
       const rl = readline.createInterface({
          input: fileStream,
@@ -76,7 +78,7 @@ export class Utility {
       });
    }
 
-   static async generateJSONFromXLS(file: LoadedFile): Promise<Map<string, Array<UnlocodeItem>>> {
+   static async generateJSONFromXLS(file: LoadedFile): Promise<Map<string, Array<UnlocodeJsonItem>>> {
       const fileStream = file.fileContent;
       return new Promise((resolve, reject) => {
          let result = new Map();
@@ -144,14 +146,14 @@ export class Utility {
       };
    }
 
-   static addRow(result: Map<string, Array<UnlocodeItem>>, item: UnlocodeItem) {
+   static addRow(result: Map<string, Array<UnlocodeJsonItem>>, item: UnlocodeJsonItem) {
       if(!result.has(item.country)) {
          result.set(item.country, []);
       }
       result.get(item.country).push(item);
    }
 
-   static async saveToFiles(result: Map<string, Array<UnlocodeItem>>): Promise<void> {
+   static async saveToFiles(result: Map<string, Array<UnlocodeJsonItem>>): Promise<void> {
       if (!fs.existsSync(this.outputDirectory)) {
          fs.mkdirSync(this.outputDirectory);
       }
@@ -174,24 +176,7 @@ export class Utility {
    }
 }
 
-interface UnlocodeItem {
-   change: string;
-   country: string;
-   location: string;
-   name: string;
-   nameWoDiacritics: string;
-   subdivision: string;
-   status: string;
-   function: string;
-   date: string;
-   iata: string
-   coordinates: string;
-   remarks: string;
-}
-
 interface LoadedFile {
    fileContent: any;
    name: string;
 }
-
-Utility.generateFiles();

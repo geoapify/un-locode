@@ -7,7 +7,7 @@
   "minimized": "dist/index.min.js",
   "module": "dist/index.min.esm.js",
   "scripts": {
-    "generate-files": "ts-node src/utility.ts",
+    "generate-files": "ts-node src/utility/execute-utility.ts",
     "test": "jest",
     "test-coverage": "jest --coverage",
     "build": "tsc",
