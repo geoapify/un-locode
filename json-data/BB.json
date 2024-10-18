@@ -1,198 +1,219 @@
 [
   {
-    "change": "",
     "country": "BB",
-    "location": "",
     "name": ".BARBADOS",
-    "nameWoDiacritics": "",
-    "subdivision": "",
-    "status": "",
-    "function": "",
-    "date": "",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [],
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BB",
     "location": "BGI",
     "name": "Bridgetown",
     "nameWoDiacritics": "Bridgetown",
-    "subdivision": "",
     "status": "AI",
-    "function": "1--45---",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0,
+      3,
+      4
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BB",
     "location": "G5B",
     "name": "Brighton",
     "nameWoDiacritics": "Brighton",
-    "subdivision": "10",
+    "subdivision": 10,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "1307N 05931W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 13.116666666666667,
+      "lon": 6.55
+    }
   },
   {
-    "change": "",
     "country": "BB",
     "location": "CCH",
     "name": "Christ Church",
     "nameWoDiacritics": "Christ Church",
-    "subdivision": "01",
+    "subdivision": 1,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "1305N 05932W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": 13.083333333333334,
+      "lon": 6.55
+    }
   },
   {
-    "change": "",
     "country": "BB",
     "location": "H9G",
     "name": "Edge Hill",
     "nameWoDiacritics": "Edge Hill",
-    "subdivision": "08",
+    "subdivision": 8,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1701",
-    "iata": "",
-    "coordinates": "1309N 05936W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1701,
+    "coordinates": {
+      "lat": 13.15,
+      "lon": 6.55
+    }
   },
   {
-    "change": "",
     "country": "BB",
     "location": "HLT",
     "name": "Holetown",
     "nameWoDiacritics": "Holetown",
-    "subdivision": "04",
+    "subdivision": 4,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "1311N 05938W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 13.183333333333334,
+      "lon": 6.55
+    }
   },
   {
-    "change": "",
     "country": "BB",
     "location": "JCK",
     "name": "Jackson",
     "nameWoDiacritics": "Jackson",
-    "subdivision": "08",
+    "subdivision": 8,
     "status": "RL",
-    "function": "-----6--",
-    "date": "1801",
-    "iata": "",
-    "coordinates": "1309N 05936W",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 1801,
+    "coordinates": {
+      "lat": 13.15,
+      "lon": 6.55
+    }
   },
   {
-    "change": "",
     "country": "BB",
     "location": "NES",
     "name": "Nesfield",
     "nameWoDiacritics": "Nesfield",
-    "subdivision": "07",
+    "subdivision": 7,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1501",
-    "iata": "",
-    "coordinates": "1317N 05937W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1501,
+    "coordinates": {
+      "lat": 13.283333333333333,
+      "lon": 6.55
+    }
   },
   {
-    "change": "",
     "country": "BB",
     "location": "OST",
     "name": "Oistins",
     "nameWoDiacritics": "Oistins",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "1304N 05932W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": 13.066666666666666,
+      "lon": 6.55
+    }
   },
   {
-    "change": "",
     "country": "BB",
     "location": "STM",
     "name": "Saint Michael",
     "nameWoDiacritics": "Saint Michael",
-    "subdivision": "08",
+    "subdivision": 8,
     "status": "RL",
-    "function": "1----6--",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "1307N 05936W",
-    "remarks": ""
+    "function": [
+      0,
+      5
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": 13.116666666666667,
+      "lon": 6.55
+    }
   },
   {
-    "change": "",
     "country": "BB",
     "location": "SPR",
     "name": "Saint Peter",
     "nameWoDiacritics": "Saint Peter",
-    "subdivision": "09",
+    "subdivision": 9,
     "status": "RL",
-    "function": "-23-----",
-    "date": "1307",
-    "iata": "",
-    "coordinates": "1315N 05937W",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 1307,
+    "coordinates": {
+      "lat": 13.25,
+      "lon": 6.55
+    }
   },
   {
-    "change": "",
     "country": "BB",
     "location": "SAP",
     "name": "Saint Philip",
     "nameWoDiacritics": "Saint Philip",
-    "subdivision": "10",
+    "subdivision": 10,
     "status": "RL",
-    "function": "-----6--",
-    "date": "1107",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 1107,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BB",
     "location": "SLC",
     "name": "Sam Lords Castle",
     "nameWoDiacritics": "Sam Lords Castle",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "1307N 05926W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 13.116666666666667,
+      "lon": 6.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "BB",
     "location": "SPT",
     "name": "Speightstown",
     "nameWoDiacritics": "Speightstown",
-    "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
-    "date": "0907",
-    "iata": "",
-    "coordinates": "1315N 05939W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 907,
+    "coordinates": {
+      "lat": 13.25,
+      "lon": 6.55
+    }
   }
 ]

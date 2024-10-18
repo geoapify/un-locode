@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Akranes",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,15 @@
     "nameWoDiacritics": "Akureyri",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -49,10 +62,15 @@
     "nameWoDiacritics": "Akureyri Apt",
     "subdivision": "",
     "status": "AC",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -63,10 +81,15 @@
     "nameWoDiacritics": "Arskogssandur",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "6556N 01822W",
+    "coordinates": {
+      "lat": 65.93333333333334,
+      "lon": 2.3666666666666667
+    },
     "remarks": ""
   },
   {
@@ -77,10 +100,15 @@
     "nameWoDiacritics": "Bakkafjordur",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "6602N 01448W",
+    "coordinates": {
+      "lat": 66.03333333333333,
+      "lon": 1.7333333333333334
+    },
     "remarks": ""
   },
   {
@@ -91,10 +119,15 @@
     "nameWoDiacritics": "Bildudalur - hofn",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -105,10 +138,15 @@
     "nameWoDiacritics": "Bildudalur Apt",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -119,10 +157,16 @@
     "nameWoDiacritics": "Blonduos",
     "subdivision": "",
     "status": "AC",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -133,10 +177,17 @@
     "nameWoDiacritics": "Bolungarvik",
     "subdivision": "",
     "status": "AC",
-    "function": "1-34----",
+    "function": [
+      0,
+      2,
+      3
+    ],
     "date": "0207",
     "iata": "",
-    "coordinates": "6608N 02315W",
+    "coordinates": {
+      "lat": 66.13333333333334,
+      "lon": 2.5166666666666666
+    },
     "remarks": ""
   },
   {
@@ -147,10 +198,15 @@
     "nameWoDiacritics": "Bordeyri",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -161,10 +217,15 @@
     "nameWoDiacritics": "Borgarfjordur eystri",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9703",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -175,10 +236,15 @@
     "nameWoDiacritics": "Borgarnes",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -189,10 +255,15 @@
     "nameWoDiacritics": "Breiddalsvik",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "BXV",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -203,10 +274,15 @@
     "nameWoDiacritics": "Brjanslakur",
     "subdivision": "3",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "6532N 02312W",
+    "coordinates": {
+      "lat": 65.53333333333333,
+      "lon": 2.5166666666666666
+    },
     "remarks": ""
   },
   {
@@ -217,10 +293,16 @@
     "nameWoDiacritics": "Budardalur",
     "subdivision": "3",
     "status": "AC",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "6507N 02146W",
+    "coordinates": {
+      "lat": 65.11666666666666,
+      "lon": 2.2333333333333334
+    },
     "remarks": ""
   },
   {
@@ -231,10 +313,15 @@
     "nameWoDiacritics": "Dalvik",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "6558N 01832W",
+    "coordinates": {
+      "lat": 65.96666666666667,
+      "lon": 2.3833333333333333
+    },
     "remarks": ""
   },
   {
@@ -245,10 +332,15 @@
     "nameWoDiacritics": "Djupavik",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -259,10 +351,16 @@
     "nameWoDiacritics": "Djupivogur",
     "subdivision": "",
     "status": "AC",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "6439N 01417W",
+    "coordinates": {
+      "lat": 64.65,
+      "lon": 1.6833333333333333
+    },
     "remarks": ""
   },
   {
@@ -273,10 +371,15 @@
     "nameWoDiacritics": "Drangsnes",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -287,10 +390,15 @@
     "nameWoDiacritics": "Egilsstadir",
     "subdivision": "",
     "status": "AC",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -301,10 +409,15 @@
     "nameWoDiacritics": "Eskifjordur - hofn",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -315,10 +428,15 @@
     "nameWoDiacritics": "Eskifjordur Apt",
     "subdivision": "",
     "status": "AC",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -329,10 +447,15 @@
     "nameWoDiacritics": "Fagurholsmyri",
     "subdivision": "",
     "status": "AC",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -343,10 +466,16 @@
     "nameWoDiacritics": "Faskrudsfjordur",
     "subdivision": "",
     "status": "AC",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -357,10 +486,15 @@
     "nameWoDiacritics": "Flatey",
     "subdivision": "3",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "6522N 02256W",
+    "coordinates": {
+      "lat": 65.36666666666666,
+      "lon": 2.4166666666666665
+    },
     "remarks": ""
   },
   {
@@ -371,10 +505,15 @@
     "nameWoDiacritics": "Flateyri",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "FLI",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -385,10 +524,15 @@
     "nameWoDiacritics": "Flateyri Apt",
     "subdivision": "",
     "status": "AC",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -399,10 +543,15 @@
     "nameWoDiacritics": "Gardabaer",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "6405N 01256W",
+    "coordinates": {
+      "lat": 64.08333333333333,
+      "lon": 1.4166666666666667
+    },
     "remarks": ""
   },
   {
@@ -413,10 +562,15 @@
     "nameWoDiacritics": "Gardur",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -427,10 +581,15 @@
     "nameWoDiacritics": "Gjogur",
     "subdivision": "",
     "status": "AC",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -441,10 +600,15 @@
     "nameWoDiacritics": "Grenivik",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "6557N 01811W",
+    "coordinates": {
+      "lat": 65.95,
+      "lon": 2.35
+    },
     "remarks": ""
   },
   {
@@ -455,10 +619,15 @@
     "nameWoDiacritics": "Grimsey",
     "subdivision": "",
     "status": "AC",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -469,10 +638,15 @@
     "nameWoDiacritics": "Grindavik",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "6350N 02226W",
+    "coordinates": {
+      "lat": 63.833333333333336,
+      "lon": 2.3666666666666667
+    },
     "remarks": ""
   },
   {
@@ -483,10 +657,15 @@
     "nameWoDiacritics": "Grundarfjordur",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "GUU",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -497,10 +676,15 @@
     "nameWoDiacritics": "Grundartangi",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -511,10 +695,15 @@
     "nameWoDiacritics": "Gufunes/Reykjavik",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -525,10 +714,15 @@
     "nameWoDiacritics": "Hafnarfjordur",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -539,10 +733,15 @@
     "nameWoDiacritics": "Hafnir",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "6355N 02241W",
+    "coordinates": {
+      "lat": 63.916666666666664,
+      "lon": 2.4
+    },
     "remarks": ""
   },
   {
@@ -553,10 +752,15 @@
     "nameWoDiacritics": "Helguvik",
     "subdivision": "",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "6402N 02233W",
+    "coordinates": {
+      "lat": 64.03333333333333,
+      "lon": 2.3833333333333333
+    },
     "remarks": ""
   },
   {
@@ -567,10 +771,15 @@
     "nameWoDiacritics": "Hella",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "6350N 02024E",
+    "coordinates": {
+      "lat": 63.833333333333336,
+      "lon": 2.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -581,10 +790,15 @@
     "nameWoDiacritics": "Hjalteyri",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -595,10 +809,13 @@
     "nameWoDiacritics": " Hornafj�rdur\"",
     "subdivision": "\"Hofn",
     "status": " Hornafjordur\"",
-    "function": "",
+    "function": [],
     "date": "AC",
     "iata": "1--4----",
-    "coordinates": "1101",
+    "coordinates": {
+      "lat": 11.016666666666667,
+      "lon": null
+    },
     "remarks": ""
   },
   {
@@ -609,10 +826,15 @@
     "nameWoDiacritics": "Hofsos",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "6554N 01926W",
+    "coordinates": {
+      "lat": 65.9,
+      "lon": 2.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -623,10 +845,15 @@
     "nameWoDiacritics": "Holmavik",
     "subdivision": "",
     "status": "AC",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "6543N 02141W",
+    "coordinates": {
+      "lat": 65.71666666666667,
+      "lon": 2.2333333333333334
+    },
     "remarks": ""
   },
   {
@@ -637,10 +864,15 @@
     "nameWoDiacritics": "Hrisey",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -651,10 +883,15 @@
     "nameWoDiacritics": "Husavik - hofn",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "HZK",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -665,10 +902,15 @@
     "nameWoDiacritics": "Hvammstangi",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -679,10 +921,15 @@
     "nameWoDiacritics": "Hveragerdi",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "6400N 02112W",
+    "coordinates": {
+      "lat": 64,
+      "lon": 2.183333333333333
+    },
     "remarks": ""
   },
   {
@@ -693,10 +940,15 @@
     "nameWoDiacritics": "Hvolsvollur",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "6344N 02014W",
+    "coordinates": {
+      "lat": 63.733333333333334,
+      "lon": 2.0166666666666666
+    },
     "remarks": ""
   },
   {
@@ -707,10 +959,15 @@
     "nameWoDiacritics": "Isafjordur - hofn",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "IFJ",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -721,10 +978,15 @@
     "nameWoDiacritics": "Keflavik",
     "subdivision": "",
     "status": "AC",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "6401N 02234W",
+    "coordinates": {
+      "lat": 64.01666666666667,
+      "lon": 2.3833333333333333
+    },
     "remarks": ""
   },
   {
@@ -735,10 +997,15 @@
     "nameWoDiacritics": "Keflavikurkaupstadur",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -749,10 +1016,15 @@
     "nameWoDiacritics": "Kirkjubajarklaustur",
     "subdivision": "8",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "6347N 01804W",
+    "coordinates": {
+      "lat": 63.78333333333333,
+      "lon": 2.333333333333333
+    },
     "remarks": ""
   },
   {
@@ -763,10 +1035,15 @@
     "nameWoDiacritics": "Kopasker - hofn",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "OPA",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -777,10 +1054,15 @@
     "nameWoDiacritics": "Kopavogur",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "6406N 02155W",
+    "coordinates": {
+      "lat": 64.1,
+      "lon": 2.25
+    },
     "remarks": ""
   },
   {
@@ -791,10 +1073,15 @@
     "nameWoDiacritics": "Krokfjardarnes",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -805,10 +1092,15 @@
     "nameWoDiacritics": "Landeyjahofn",
     "subdivision": "8",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "6131N 02007W",
+    "coordinates": {
+      "lat": 61.516666666666666,
+      "lon": 2
+    },
     "remarks": ""
   },
   {
@@ -819,10 +1111,15 @@
     "nameWoDiacritics": "Litli Sandur",
     "subdivision": "",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "6424N 02127W",
+    "coordinates": {
+      "lat": 64.4,
+      "lon": 2.2
+    },
     "remarks": ""
   },
   {
@@ -833,10 +1130,15 @@
     "nameWoDiacritics": "Midsandur",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -847,10 +1149,18 @@
     "nameWoDiacritics": "Mjoeyrarhofn",
     "subdivision": "7",
     "status": "RQ",
-    "function": "1-3--67-",
+    "function": [
+      0,
+      2,
+      5,
+      6
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "6455N 01357W",
+    "coordinates": {
+      "lat": 64.91666666666667,
+      "lon": 1.5833333333333335
+    },
     "remarks": ""
   },
   {
@@ -861,10 +1171,15 @@
     "nameWoDiacritics": "Mjofjordur",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -875,10 +1190,16 @@
     "nameWoDiacritics": "Mosfellsbaer",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "6410N 02143W",
+    "coordinates": {
+      "lat": 64.16666666666667,
+      "lon": 2.2333333333333334
+    },
     "remarks": ""
   },
   {
@@ -889,10 +1210,15 @@
     "nameWoDiacritics": "Myvatn",
     "subdivision": "",
     "status": "AC",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -903,10 +1229,15 @@
     "nameWoDiacritics": "Neskaupstadur",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -917,10 +1248,15 @@
     "nameWoDiacritics": "Njardvik",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -931,10 +1267,15 @@
     "nameWoDiacritics": "Nordurfjordur",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "NOR",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -945,10 +1286,15 @@
     "nameWoDiacritics": "Olafsfjordur",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "OFJ",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -959,10 +1305,15 @@
     "nameWoDiacritics": "Olafsvik",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "OLI",
-    "coordinates": "6453N 02343W",
+    "coordinates": {
+      "lat": 64.88333333333334,
+      "lon": 2.5666666666666664
+    },
     "remarks": ""
   },
   {
@@ -973,10 +1324,15 @@
     "nameWoDiacritics": "Ospakseyri",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "6527N 02126W",
+    "coordinates": {
+      "lat": 65.45,
+      "lon": 2.2
+    },
     "remarks": ""
   },
   {
@@ -987,10 +1343,15 @@
     "nameWoDiacritics": "Patreksfjordur - hofn",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "PFJ",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1001,10 +1362,16 @@
     "nameWoDiacritics": "Raufarhofn",
     "subdivision": "",
     "status": "AC",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "0212",
     "iata": "RFN",
-    "coordinates": "6627N 01557W",
+    "coordinates": {
+      "lat": 66.45,
+      "lon": 1.9166666666666665
+    },
     "remarks": ""
   },
   {
@@ -1015,10 +1382,15 @@
     "nameWoDiacritics": "Reydarfjordur",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1029,10 +1401,15 @@
     "nameWoDiacritics": "Reykholar",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "6527N 02212W",
+    "coordinates": {
+      "lat": 65.45,
+      "lon": 2.35
+    },
     "remarks": ""
   },
   {
@@ -1043,10 +1420,15 @@
     "nameWoDiacritics": "Reykjabesbaer",
     "subdivision": "2",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "6400N 02233W",
+    "coordinates": {
+      "lat": 64,
+      "lon": 2.3833333333333333
+    },
     "remarks": ""
   },
   {
@@ -1057,10 +1439,15 @@
     "nameWoDiacritics": "Reykjavik",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "REK",
-    "coordinates": "6409N 02157W",
+    "coordinates": {
+      "lat": 64.15,
+      "lon": 2.25
+    },
     "remarks": ""
   },
   {
@@ -1071,10 +1458,16 @@
     "nameWoDiacritics": "Rif-Hellisandur",
     "subdivision": "",
     "status": "AC",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1085,10 +1478,15 @@
     "nameWoDiacritics": "Sandgerdi",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1099,10 +1497,15 @@
     "nameWoDiacritics": "Saudarkrokur - hofn",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "SAK",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1113,10 +1516,15 @@
     "nameWoDiacritics": "Selfoss",
     "subdivision": "",
     "status": "AC",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1127,10 +1535,15 @@
     "nameWoDiacritics": "Selfoss - Apt",
     "subdivision": "",
     "status": "AC",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1141,10 +1554,15 @@
     "nameWoDiacritics": "Seydisfjordur",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "SEJ",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1155,10 +1573,15 @@
     "nameWoDiacritics": "Siglufjordur - hofn",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "SIJ",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1169,10 +1592,15 @@
     "nameWoDiacritics": "Skaftafell",
     "subdivision": "8",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "6401N 01700W",
+    "coordinates": {
+      "lat": 64.01666666666667,
+      "lon": 2.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -1183,10 +1611,15 @@
     "nameWoDiacritics": "Skagastrond",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "6550N 02019W",
+    "coordinates": {
+      "lat": 65.83333333333333,
+      "lon": 2.0166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1197,10 +1630,15 @@
     "nameWoDiacritics": "Skerjafjordur",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1211,10 +1649,15 @@
     "nameWoDiacritics": "Stodhvarfjordur",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1225,10 +1668,15 @@
     "nameWoDiacritics": "Stokkseyri",
     "subdivision": "0",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "6350N 02103W",
+    "coordinates": {
+      "lat": 63.833333333333336,
+      "lon": 2.1666666666666665
+    },
     "remarks": ""
   },
   {
@@ -1239,10 +1687,15 @@
     "nameWoDiacritics": "Straumsvik",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1253,10 +1706,15 @@
     "nameWoDiacritics": "Stykkisholmur - hofn",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "SYK",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1267,10 +1725,15 @@
     "nameWoDiacritics": "Sudavik",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1281,10 +1744,15 @@
     "nameWoDiacritics": "Sudureyri/Sugandafjord",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "SUY",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1295,10 +1763,15 @@
     "nameWoDiacritics": "Svalbardseyri",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1309,10 +1782,15 @@
     "nameWoDiacritics": "Talknafjordur/Sveinseyri",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "TLK",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1323,10 +1801,15 @@
     "nameWoDiacritics": "Theistareykir",
     "subdivision": "6",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "6554N 01658W",
+    "coordinates": {
+      "lat": 65.9,
+      "lon": 2.083333333333333
+    },
     "remarks": ""
   },
   {
@@ -1337,10 +1820,16 @@
     "nameWoDiacritics": "Thingeyri",
     "subdivision": "",
     "status": "AC",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1351,10 +1840,15 @@
     "nameWoDiacritics": "Thorlakshofn",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1365,10 +1859,16 @@
     "nameWoDiacritics": "Thorshofn",
     "subdivision": "",
     "status": "AC",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1379,10 +1879,15 @@
     "nameWoDiacritics": "Tjorneshofn",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1393,10 +1898,15 @@
     "nameWoDiacritics": "Vestmannaeyjar - hofn",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9601",
     "iata": "VEY",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1407,10 +1917,15 @@
     "nameWoDiacritics": "Vik",
     "subdivision": "8",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "6325N 01901W",
+    "coordinates": {
+      "lat": 63.416666666666664,
+      "lon": 2.5
+    },
     "remarks": ""
   },
   {
@@ -1421,10 +1936,15 @@
     "nameWoDiacritics": "Vogar",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "6359N 02223W",
+    "coordinates": {
+      "lat": 63.983333333333334,
+      "lon": 2.3666666666666667
+    },
     "remarks": ""
   },
   {
@@ -1435,10 +1955,15 @@
     "nameWoDiacritics": "Vopnafjordur",
     "subdivision": "",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "6545N 01450W",
+    "coordinates": {
+      "lat": 65.75,
+      "lon": 1.75
+    },
     "remarks": ""
   }
 ]

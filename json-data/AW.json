@@ -1,156 +1,165 @@
 [
   {
-    "change": "",
     "country": "AW",
-    "location": "",
     "name": ".ARUBA",
-    "nameWoDiacritics": "",
-    "subdivision": "",
-    "status": "",
-    "function": "",
-    "date": "",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [],
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AW",
     "location": "AUA",
     "name": "Aruba",
     "nameWoDiacritics": "Aruba",
-    "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
-    "date": "0401",
-    "iata": "",
-    "coordinates": "1230N 06958W",
-    "remarks": ""
+    "function": [
+      0,
+      3
+    ],
+    "date": 401,
+    "coordinates": {
+      "lat": 12.5,
+      "lon": 7.583333333333333
+    }
   },
   {
-    "change": "",
     "country": "AW",
     "location": "BAR",
     "name": "Barcadera",
     "nameWoDiacritics": "Barcadera",
-    "subdivision": "",
     "status": "RL",
-    "function": "1-------",
-    "date": "0307",
-    "iata": "",
-    "coordinates": "1229N 06959W",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 307,
+    "coordinates": {
+      "lat": 12.483333333333333,
+      "lon": 7.583333333333333
+    }
   },
   {
-    "change": "",
     "country": "AW",
     "location": "BUS",
     "name": "Bushiribana",
     "nameWoDiacritics": "Bushiribana",
-    "subdivision": "",
     "status": "RL",
-    "function": "1-34----",
-    "date": "0307",
-    "iata": "",
-    "coordinates": "1233N 06958W",
-    "remarks": ""
+    "function": [
+      0,
+      2,
+      3
+    ],
+    "date": 307,
+    "coordinates": {
+      "lat": 12.55,
+      "lon": 7.583333333333333
+    }
   },
   {
-    "change": "",
     "country": "AW",
     "location": "DEU",
     "name": "Druif",
     "nameWoDiacritics": "Druif",
-    "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
-    "date": "9506",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 9506,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AW",
     "location": "ND9",
     "name": "Noord",
     "nameWoDiacritics": "Noord",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1501",
-    "iata": "",
-    "coordinates": "1234N 07001W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1501,
+    "coordinates": {
+      "lat": 12.566666666666666,
+      "lon": 7
+    }
   },
   {
-    "change": "",
     "country": "AW",
     "location": "ORJ",
     "name": "Oranjestad",
     "nameWoDiacritics": "Oranjestad",
-    "subdivision": "",
     "status": "AI",
-    "function": "1---5---",
-    "date": "9401",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0,
+      4
+    ],
+    "date": 9401,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AW",
     "location": "PAB",
     "name": "Palm Beach",
     "nameWoDiacritics": "Palm Beach",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1501",
-    "iata": "",
-    "coordinates": "1234N 07002W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1501,
+    "coordinates": {
+      "lat": 12.566666666666666,
+      "lon": 7
+    }
   },
   {
-    "change": "",
     "country": "AW",
     "location": "PAR",
     "name": "Paradera",
     "nameWoDiacritics": "Paradera",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "1232N 07000W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": 12.533333333333333,
+      "lon": 7
+    }
   },
   {
-    "change": "",
     "country": "AW",
     "location": "SCZ",
     "name": "Santa Cruz",
     "nameWoDiacritics": "Santa Cruz",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1501",
-    "iata": "",
-    "coordinates": "1230N 06959W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1501,
+    "coordinates": {
+      "lat": 12.5,
+      "lon": 7.583333333333333
+    }
   },
   {
-    "change": "",
     "country": "AW",
     "location": "SNL",
     "name": "Sint Nicolaas",
     "nameWoDiacritics": "Sint Nicolaas",
-    "subdivision": "",
     "status": "AI",
-    "function": "1-------",
-    "date": "9401",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 9401,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   }
 ]

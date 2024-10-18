@@ -1,72 +1,83 @@
 [
   {
-    "change": "",
     "country": "ER",
-    "location": "",
     "name": ".ERITREA",
-    "nameWoDiacritics": "",
-    "subdivision": "",
-    "status": "",
-    "function": "",
-    "date": "",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [],
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "ER",
     "location": "ASM",
     "name": "Asmara",
     "nameWoDiacritics": "Asmara",
     "subdivision": "MA",
     "status": "AI",
-    "function": "-2345---",
-    "date": "1307",
-    "iata": "",
-    "coordinates": "1520N 03856E",
-    "remarks": ""
+    "function": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "date": 1307,
+    "coordinates": {
+      "lat": 15.333333333333334,
+      "lon": 4.416666666666667
+    }
   },
   {
-    "change": "",
     "country": "ER",
     "location": "ASA",
     "name": "Assab",
     "nameWoDiacritics": "Assab",
     "subdivision": "DK",
     "status": "AI",
-    "function": "1-34----",
-    "date": "1307",
-    "iata": "",
-    "coordinates": "1300N 04244E",
-    "remarks": ""
+    "function": [
+      0,
+      2,
+      3
+    ],
+    "date": 1307,
+    "coordinates": {
+      "lat": 13,
+      "lon": 4.4
+    }
   },
   {
-    "change": "",
     "country": "ER",
     "location": "MSW",
     "name": "Massawa (Mitsiwa)",
     "nameWoDiacritics": "Massawa (Mitsiwa)",
     "subdivision": "SK",
     "status": "AI",
-    "function": "1234----",
-    "date": "1307",
-    "iata": "",
-    "coordinates": "1536N 03927E",
-    "remarks": ""
+    "function": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "date": 1307,
+    "coordinates": {
+      "lat": 15.6,
+      "lon": 4.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "ER",
     "location": "TES",
     "name": "Tessenei",
     "nameWoDiacritics": "Tessenei",
     "subdivision": "GB",
     "status": "RQ",
-    "function": "---4----",
-    "date": "1307",
-    "iata": "",
-    "coordinates": "1506N 03639E",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 1307,
+    "coordinates": {
+      "lat": 15.1,
+      "lon": 4.05
+    }
   }
 ]

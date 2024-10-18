@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,16 @@
     "nameWoDiacritics": "Albina",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -35,10 +44,15 @@
     "nameWoDiacritics": "Awaradam",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -49,10 +63,15 @@
     "nameWoDiacritics": "Botopasie",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -63,10 +82,15 @@
     "nameWoDiacritics": "Brokopondo",
     "subdivision": "BR",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "0504N 05458W",
+    "coordinates": {
+      "lat": 5.066666666666666,
+      "lon": 5.75
+    },
     "remarks": ""
   },
   {
@@ -77,10 +101,15 @@
     "nameWoDiacritics": "Djoemoe",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -91,10 +120,15 @@
     "nameWoDiacritics": "Drietabbetje",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -105,10 +139,15 @@
     "nameWoDiacritics": "Houttuin",
     "subdivision": "WA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "0544N 05510W",
+    "coordinates": {
+      "lat": 5.733333333333333,
+      "lon": 5.85
+    },
     "remarks": ""
   },
   {
@@ -119,10 +158,15 @@
     "nameWoDiacritics": "Jarikaba",
     "subdivision": "SA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "0547N 05526W",
+    "coordinates": {
+      "lat": 5.783333333333333,
+      "lon": 5.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -133,10 +177,15 @@
     "nameWoDiacritics": "Kasikasima",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -147,10 +196,15 @@
     "nameWoDiacritics": "Kwatta",
     "subdivision": "",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "0549N 05515W",
+    "coordinates": {
+      "lat": 5.816666666666666,
+      "lon": 5.85
+    },
     "remarks": ""
   },
   {
@@ -161,10 +215,15 @@
     "nameWoDiacritics": "Ladouanie",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -175,10 +234,17 @@
     "nameWoDiacritics": "Lelydorp",
     "subdivision": "WA",
     "status": "RL",
-    "function": "12---6--",
+    "function": [
+      0,
+      1,
+      5
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "0542N 05514W",
+    "coordinates": {
+      "lat": 5.7,
+      "lon": 5.85
+    },
     "remarks": ""
   },
   {
@@ -189,10 +255,15 @@
     "nameWoDiacritics": "Meerzorg",
     "subdivision": "CM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "0549N 05509W",
+    "coordinates": {
+      "lat": 5.816666666666666,
+      "lon": 5.833333333333333
+    },
     "remarks": ""
   },
   {
@@ -203,10 +274,16 @@
     "nameWoDiacritics": "Moengo",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -217,10 +294,15 @@
     "nameWoDiacritics": "Nieuw Amsterdam",
     "subdivision": "CM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "0553N 05505W",
+    "coordinates": {
+      "lat": 5.883333333333333,
+      "lon": 5.833333333333333
+    },
     "remarks": ""
   },
   {
@@ -231,10 +313,16 @@
     "nameWoDiacritics": "Nieuw Nickerie",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -245,10 +333,15 @@
     "nameWoDiacritics": "Paloemeu",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -259,10 +352,17 @@
     "nameWoDiacritics": "Paramaribo",
     "subdivision": "",
     "status": "AI",
-    "function": "1--45---",
+    "function": [
+      0,
+      3,
+      4
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -273,10 +373,15 @@
     "nameWoDiacritics": "Paramaribo Zorg en Hoop Airport",
     "subdivision": "PR",
     "status": "RL",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "0548N 05511W",
+    "coordinates": {
+      "lat": 5.8,
+      "lon": 5.85
+    },
     "remarks": ""
   },
   {
@@ -287,10 +392,15 @@
     "nameWoDiacritics": "Paranam",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -301,10 +411,15 @@
     "nameWoDiacritics": "Saramacca Polder",
     "subdivision": "WA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "0549N 05515W",
+    "coordinates": {
+      "lat": 5.816666666666666,
+      "lon": 5.85
+    },
     "remarks": ""
   },
   {
@@ -315,10 +430,15 @@
     "nameWoDiacritics": "Smalkalden",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -329,10 +449,15 @@
     "nameWoDiacritics": "Stoelmans Eiland",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -343,10 +468,15 @@
     "nameWoDiacritics": "Totness",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -357,10 +487,16 @@
     "nameWoDiacritics": "Wageningen",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -371,10 +507,15 @@
     "nameWoDiacritics": "Washabo",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -385,10 +526,15 @@
     "nameWoDiacritics": "Zanderij",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "0527N 05511W",
+    "coordinates": {
+      "lat": 5.45,
+      "lon": 5.85
+    },
     "remarks": ""
   }
 ]

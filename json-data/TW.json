@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "An Ping",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9811",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,15 @@
     "nameWoDiacritics": "Bade City",
     "subdivision": "TAO",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "2457N 12117E",
+    "coordinates": {
+      "lat": 24.95,
+      "lon": 12.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -49,10 +62,16 @@
     "nameWoDiacritics": "Bali",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "2509N 12124E",
+    "coordinates": {
+      "lat": 25.15,
+      "lon": 12.2
+    },
     "remarks": ""
   },
   {
@@ -63,10 +82,15 @@
     "nameWoDiacritics": "Budai",
     "subdivision": "",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "2322N 12006E",
+    "coordinates": {
+      "lat": 23.366666666666667,
+      "lon": 12
+    },
     "remarks": ""
   },
   {
@@ -77,10 +101,16 @@
     "nameWoDiacritics": "Chang-Hua",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "2404N 12031E",
+    "coordinates": {
+      "lat": 24.066666666666666,
+      "lon": 12.05
+    },
     "remarks": ""
   },
   {
@@ -91,10 +121,15 @@
     "nameWoDiacritics": "Chi Mei",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -105,10 +140,15 @@
     "nameWoDiacritics": "Chiayi",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -119,10 +159,15 @@
     "nameWoDiacritics": "Chung-Li",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9806",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -133,10 +178,16 @@
     "nameWoDiacritics": "Chu-pei",
     "subdivision": "HSZ",
     "status": "RL",
-    "function": "--3--6--",
+    "function": [
+      2,
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "2450N 12100E",
+    "coordinates": {
+      "lat": 24.833333333333332,
+      "lon": 12.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -147,10 +198,16 @@
     "nameWoDiacritics": "Feng-yuan-ch'u",
     "subdivision": "TXG",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "2415N 12043E",
+    "coordinates": {
+      "lat": 24.25,
+      "lon": 12.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -161,10 +218,15 @@
     "nameWoDiacritics": "Gangshan",
     "subdivision": "KHH",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "2247N 12017E",
+    "coordinates": {
+      "lat": 22.783333333333335,
+      "lon": 12.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -175,10 +237,15 @@
     "nameWoDiacritics": "Green Island",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -189,10 +256,15 @@
     "nameWoDiacritics": "Guishan",
     "subdivision": "TAO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "2454N 12133E",
+    "coordinates": {
+      "lat": 24.9,
+      "lon": 12.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -203,10 +275,15 @@
     "nameWoDiacritics": "Hengchun",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -217,10 +294,15 @@
     "nameWoDiacritics": "Hoping",
     "subdivision": "HUA",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -231,10 +313,15 @@
     "nameWoDiacritics": "Hsichih",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "2504N 12139E",
+    "coordinates": {
+      "lat": 25.066666666666666,
+      "lon": 12.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -245,10 +332,15 @@
     "nameWoDiacritics": "Hsi-Chih",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "2504N 12139E",
+    "coordinates": {
+      "lat": 25.066666666666666,
+      "lon": 12.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -259,10 +351,16 @@
     "nameWoDiacritics": "Hsin-chu",
     "subdivision": "",
     "status": "RL",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "2449N 12058E",
+    "coordinates": {
+      "lat": 24.816666666666666,
+      "lon": 12.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -273,10 +371,15 @@
     "nameWoDiacritics": "Hsin-chuang",
     "subdivision": "KHH",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "2245N 12018E",
+    "coordinates": {
+      "lat": 22.75,
+      "lon": 12.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -287,10 +390,16 @@
     "nameWoDiacritics": "Hsin-t'ien",
     "subdivision": "TPE",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -301,10 +410,16 @@
     "nameWoDiacritics": "Hualien",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -315,10 +430,15 @@
     "nameWoDiacritics": "Hukou",
     "subdivision": "HSQ",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "2454N 12103E",
+    "coordinates": {
+      "lat": 24.9,
+      "lon": 12.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -329,10 +449,16 @@
     "nameWoDiacritics": "I-lan",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "2446N 12145E",
+    "coordinates": {
+      "lat": 24.766666666666666,
+      "lon": 12.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -343,10 +469,16 @@
     "nameWoDiacritics": "Kaohsiung",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -357,10 +489,15 @@
     "nameWoDiacritics": "Keelung (Chilung)",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -371,10 +508,15 @@
     "nameWoDiacritics": "Kepz",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -385,10 +527,15 @@
     "nameWoDiacritics": "Kinmen",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -399,10 +546,15 @@
     "nameWoDiacritics": "Lishan",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -413,10 +565,15 @@
     "nameWoDiacritics": "Lung-men",
     "subdivision": "",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "2334N 11940E",
+    "coordinates": {
+      "lat": 23.566666666666666,
+      "lon": 12.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -427,10 +584,15 @@
     "nameWoDiacritics": "Mai-Liai",
     "subdivision": "",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0101",
     "iata": "",
-    "coordinates": "2345N 12015E",
+    "coordinates": {
+      "lat": 23.75,
+      "lon": 12.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -441,10 +603,15 @@
     "nameWoDiacritics": "Mai-liao",
     "subdivision": "",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "2306N 12008E",
+    "coordinates": {
+      "lat": 23.1,
+      "lon": 12
+    },
     "remarks": ""
   },
   {
@@ -455,10 +622,15 @@
     "nameWoDiacritics": "Makung",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -469,10 +641,15 @@
     "nameWoDiacritics": "Matsu",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -483,10 +660,16 @@
     "nameWoDiacritics": "Miao-li",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "2433N 12049E",
+    "coordinates": {
+      "lat": 24.55,
+      "lon": 12.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -497,10 +680,15 @@
     "nameWoDiacritics": "Nangang",
     "subdivision": "KHH",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "2505N 12160E",
+    "coordinates": {
+      "lat": 25.083333333333332,
+      "lon": 12.266666666666667
+    },
     "remarks": ""
   },
   {
@@ -511,10 +699,16 @@
     "nameWoDiacritics": "Nantou",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "2354N 12041E",
+    "coordinates": {
+      "lat": 23.9,
+      "lon": 12.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -525,10 +719,15 @@
     "nameWoDiacritics": "Nan-t'ou",
     "subdivision": "NAN",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "2354N 12040E",
+    "coordinates": {
+      "lat": 23.9,
+      "lon": 12.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -539,10 +738,13 @@
     "nameWoDiacritics": " Nantze\"",
     "subdivision": "\"Nepz",
     "status": " Nantze\"",
-    "function": "",
+    "function": [],
     "date": "RQ",
     "iata": "0-------",
-    "coordinates": "9307",
+    "coordinates": {
+      "lat": 93.11666666666666,
+      "lon": null
+    },
     "remarks": ""
   },
   {
@@ -553,10 +755,15 @@
     "nameWoDiacritics": "New Taipei City",
     "subdivision": "TPE",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "2500N 12126E",
+    "coordinates": {
+      "lat": 25,
+      "lon": 12.2
+    },
     "remarks": ""
   },
   {
@@ -567,10 +774,15 @@
     "nameWoDiacritics": "Orchid Island",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -581,10 +793,15 @@
     "nameWoDiacritics": "Pingtung",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -595,10 +812,15 @@
     "nameWoDiacritics": "Pingzhen",
     "subdivision": "TAO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "2456N 12112E",
+    "coordinates": {
+      "lat": 24.933333333333334,
+      "lon": 12.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -609,10 +831,16 @@
     "nameWoDiacritics": "Sha-lun",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "2506N 12113E",
+    "coordinates": {
+      "lat": 25.1,
+      "lon": 12.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -623,10 +851,15 @@
     "nameWoDiacritics": "Sijhih",
     "subdivision": "TPE",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -637,10 +870,15 @@
     "nameWoDiacritics": "Suao",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -651,10 +889,15 @@
     "nameWoDiacritics": "Sun Moon Lake",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -665,10 +908,16 @@
     "nameWoDiacritics": "Taichung",
     "subdivision": "TXG",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -679,10 +928,16 @@
     "nameWoDiacritics": "Tainan",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -693,10 +948,15 @@
     "nameWoDiacritics": "T'ai-nan-hsien",
     "subdivision": "TNN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "2318N 12019E",
+    "coordinates": {
+      "lat": 23.3,
+      "lon": 12.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -707,10 +967,15 @@
     "nameWoDiacritics": "T'ai-pao",
     "subdivision": "CYQ",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "2327N 12019E",
+    "coordinates": {
+      "lat": 23.45,
+      "lon": 12.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -721,10 +986,17 @@
     "nameWoDiacritics": "Taipei",
     "subdivision": "TPE",
     "status": "AI",
-    "function": "1--45---",
+    "function": [
+      0,
+      3,
+      4
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "2502N 12131E",
+    "coordinates": {
+      "lat": 25.033333333333335,
+      "lon": 12.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -735,10 +1007,15 @@
     "nameWoDiacritics": "Taipei Songshan Apt",
     "subdivision": "TPE",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "2504N 12133E",
+    "coordinates": {
+      "lat": 25.066666666666666,
+      "lon": 12.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -749,10 +1026,16 @@
     "nameWoDiacritics": "Taitung",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -763,10 +1046,17 @@
     "nameWoDiacritics": "Taoyuan",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-34----",
+    "function": [
+      0,
+      2,
+      3
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -777,10 +1067,15 @@
     "nameWoDiacritics": "Toufen",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0207",
     "iata": "",
-    "coordinates": "2431N 12054E",
+    "coordinates": {
+      "lat": 24.516666666666666,
+      "lon": 12.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -791,10 +1086,15 @@
     "nameWoDiacritics": "Tou-liu",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "2342N 12032E",
+    "coordinates": {
+      "lat": 23.7,
+      "lon": 12.05
+    },
     "remarks": ""
   },
   {
@@ -805,10 +1105,15 @@
     "nameWoDiacritics": "Tung Hai",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -819,10 +1124,15 @@
     "nameWoDiacritics": "Wonan",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -833,10 +1143,16 @@
     "nameWoDiacritics": "Wu-jih",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "2406N 12037E",
+    "coordinates": {
+      "lat": 24.1,
+      "lon": 12.05
+    },
     "remarks": ""
   },
   {
@@ -847,10 +1163,15 @@
     "nameWoDiacritics": "Wu-ku",
     "subdivision": "TPE",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -861,10 +1182,18 @@
     "nameWoDiacritics": "Wu-tu",
     "subdivision": "",
     "status": "RL",
-    "function": "123--6--",
+    "function": [
+      0,
+      1,
+      2,
+      5
+    ],
     "date": "0407",
     "iata": "",
-    "coordinates": "2505N 12140E",
+    "coordinates": {
+      "lat": 25.083333333333332,
+      "lon": 12.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -875,10 +1204,15 @@
     "nameWoDiacritics": "Ying-Ge",
     "subdivision": "TPE",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -889,10 +1223,15 @@
     "nameWoDiacritics": "Yuang-wang",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "2403N 12109E",
+    "coordinates": {
+      "lat": 24.05,
+      "lon": 12.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -903,10 +1242,15 @@
     "nameWoDiacritics": "Yuan-Lin",
     "subdivision": "CHA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "2357N 12034E",
+    "coordinates": {
+      "lat": 23.95,
+      "lon": 12.05
+    },
     "remarks": ""
   },
   {
@@ -917,10 +1261,15 @@
     "nameWoDiacritics": "Yung-an",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -931,10 +1280,15 @@
     "nameWoDiacritics": "Yung-K'Ang",
     "subdivision": "",
     "status": "RQ",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "2301N 12015E",
+    "coordinates": {
+      "lat": 23.016666666666666,
+      "lon": 12.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -945,10 +1299,15 @@
     "nameWoDiacritics": "Yunlin",
     "subdivision": "YUN",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -959,10 +1318,15 @@
     "nameWoDiacritics": "Zhubei",
     "subdivision": "HSZ",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "2450N 12100E",
+    "coordinates": {
+      "lat": 24.833333333333332,
+      "lon": 12.166666666666666
+    },
     "remarks": ""
   }
 ]

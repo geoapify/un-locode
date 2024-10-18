@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,16 @@
     "nameWoDiacritics": "Alamedin",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "2007",
     "iata": "",
-    "coordinates": "4254N 07438E",
+    "coordinates": {
+      "lat": 42.9,
+      "lon": 7.716666666666667
+    },
     "remarks": ""
   },
   {
@@ -35,10 +44,15 @@
     "nameWoDiacritics": "Balykchy",
     "subdivision": "Y",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "4227N 07610E",
+    "coordinates": {
+      "lat": 42.45,
+      "lon": 8.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -49,10 +63,17 @@
     "nameWoDiacritics": "Bishkek (ex Frunze)",
     "subdivision": "GB",
     "status": "AI",
-    "function": "-234----",
+    "function": [
+      1,
+      2,
+      3
+    ],
     "date": "2007",
     "iata": "",
-    "coordinates": "4252N 07436E",
+    "coordinates": {
+      "lat": 42.86666666666667,
+      "lon": 7.716666666666667
+    },
     "remarks": ""
   },
   {
@@ -63,10 +84,13 @@
     "nameWoDiacritics": "Frunze = Bishkek",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -77,10 +101,15 @@
     "nameWoDiacritics": "Jalal-Abad",
     "subdivision": "J",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "4056N 07300E",
+    "coordinates": {
+      "lat": 40.93333333333333,
+      "lon": 7.5
+    },
     "remarks": ""
   },
   {
@@ -91,10 +120,15 @@
     "nameWoDiacritics": "Kant",
     "subdivision": "C",
     "status": "AM",
-    "function": "----5---",
+    "function": [
+      4
+    ],
     "date": "2207",
     "iata": "",
-    "coordinates": "4253N 07450E",
+    "coordinates": {
+      "lat": 42.88333333333333,
+      "lon": 7.75
+    },
     "remarks": ""
   },
   {
@@ -105,10 +139,15 @@
     "nameWoDiacritics": "Kara-Balta",
     "subdivision": "C",
     "status": "AM",
-    "function": "----5---",
+    "function": [
+      4
+    ],
     "date": "2207",
     "iata": "",
-    "coordinates": "4249N 07351E",
+    "coordinates": {
+      "lat": 42.81666666666667,
+      "lon": 7.583333333333333
+    },
     "remarks": ""
   },
   {
@@ -119,10 +158,16 @@
     "nameWoDiacritics": "Manas International Apt",
     "subdivision": "GB",
     "status": "RL",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4304N 07429E",
+    "coordinates": {
+      "lat": 43.06666666666667,
+      "lon": 7.7
+    },
     "remarks": ""
   },
   {
@@ -133,10 +178,15 @@
     "nameWoDiacritics": "Naryn",
     "subdivision": "Y",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "4125N 07600E",
+    "coordinates": {
+      "lat": 41.416666666666664,
+      "lon": 8
+    },
     "remarks": ""
   },
   {
@@ -147,10 +197,16 @@
     "nameWoDiacritics": "Osh",
     "subdivision": "",
     "status": "AI",
-    "function": "-2-4----",
+    "function": [
+      1,
+      3
+    ],
     "date": "2007",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -161,10 +217,15 @@
     "nameWoDiacritics": "Rybacje",
     "subdivision": "Y",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4228N 07610E",
+    "coordinates": {
+      "lat": 42.46666666666667,
+      "lon": 8.016666666666666
+    },
     "remarks": ""
   }
 ]

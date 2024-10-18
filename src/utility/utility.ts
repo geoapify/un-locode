@@ -1,4 +1,4 @@
-import { UnlocodeJsonItem } from "../models/unlocode.interface";
+import { FunctionCode, UnlocodeJsonItem } from "../models/unlocode.interface";
 
 const fs = require('fs');
 const path = require('path');
@@ -113,6 +113,7 @@ export class Utility {
 
    static convertCSVLineToJSON(line: string) {
       let lineParsed = line.split(",");
+      let coordinates = this.getCoordinates(lineParsed[10]);
       return {
          change: lineParsed[0],
          country: lineParsed[1],
@@ -121,15 +122,19 @@ export class Utility {
          nameWoDiacritics: lineParsed[4],
          subdivision: lineParsed[5],
          status: lineParsed[6],
-         function: lineParsed[7],
+         function: this.convertToFunctionArray(lineParsed[7]),
          date: lineParsed[8],
          iata:lineParsed[9],
-         coordinates: lineParsed[10],
+         coordinates: {
+            lat: coordinates.latitude,
+            lon: coordinates.longitude
+         },
          remarks:lineParsed[11]
       };
    }
 
    static convertXLSLineToJSON(line: any) {
+      let coordinates = this.getCoordinates(line["Coordinates"]);
       return {
          change: line["Change"],
          country: line["Country"],
@@ -138,10 +143,13 @@ export class Utility {
          nameWoDiacritics: line["NameWoDiacritics"],
          subdivision: line["Subdivision"],
          status: line["Status"],
-         function: line["Function"],
+         function: this.convertToFunctionArray(line["Function"]),
          date: line["Date"],
          iata: line["IATA"],
-         coordinates: line["Coordinates"],
+         coordinates: {
+            lat: coordinates.latitude,
+            lon: coordinates.longitude
+         },
          remarks: line["Remarks"]
       };
    }
@@ -173,6 +181,69 @@ export class Utility {
 
    static isFileExtensionMatching(file: LoadedFile, format: string): boolean {
       return path.extname(file.name) === format;
+   }
+
+   static getCoordinates(coordinates: any) {
+      if(coordinates) {
+         return this.dmsToDecimal(coordinates);
+      } else {
+         // TODO: need to call API to get coordinates
+         return {latitude: 0 , longitude:  0};
+      }
+
+   }
+
+   static dmsToDecimal(coordinate: string): { latitude: number, longitude: number } {
+      // Parse the latitude (S or N)
+      const latDegrees = parseInt(coordinate.slice(0, 2), 10);
+      const latMinutes = parseInt(coordinate.slice(2, 4), 10);
+      const latHemisphere = coordinate[4];  // 'S' or 'N'
+
+      // Parse the longitude (E or W)
+      const lonDegrees = parseInt(coordinate.slice(6, 8), 10);
+      const lonMinutes = parseInt(coordinate.slice(8, 10), 10);
+      const lonHemisphere = coordinate[10];  // 'E' or 'W'
+
+      // Convert latitude to decimal
+      let latitude = latDegrees + latMinutes / 60;
+      if (latHemisphere === 'S') {
+         latitude = -latitude;
+      }
+
+      // Convert longitude to decimal
+      let longitude = lonDegrees + lonMinutes / 60;
+      if (lonHemisphere === 'W') {
+         longitude = -longitude;
+      }
+
+      return { latitude, longitude };
+   }
+
+   static convertToFunctionArray(functionCode: string): FunctionCode[] {
+      if(!functionCode) {
+         return [];
+      }
+      const functionMap = [
+         { char: '1', type: FunctionCode.PORT },
+         { char: '2', type: FunctionCode.RAIL_TERMINAL },
+         { char: '3', type: FunctionCode.ROAD_TERMINAL },
+         { char: '4', type: FunctionCode.AIRPORT },
+         { char: '5', type: FunctionCode.POSTAL_EXCHANGE_OFFICE },
+         { char: '6', type: FunctionCode.INLAND_CLEARANCE_DEPOT },
+         { char: '7', type: FunctionCode.FIXED_TRANSPORT_FUNCTIONS },
+         { char: 'B', type: FunctionCode.BORDER_CROSSING_FUNCTION },
+         { char: '0', type: FunctionCode.FUNCTION_NOT_KNOWN }
+      ];
+
+      let result: FunctionCode[] = [];
+
+      for (let i = 0; i < functionCode.length && i < functionMap.length; i++) {
+         if (functionCode.charAt(i) !== '-') {
+            result.push(functionMap[i].type);
+         }
+      }
+
+      return result;
    }
 }
 

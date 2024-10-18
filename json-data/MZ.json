@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Alto Molocue",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,16 @@
     "nameWoDiacritics": "Angoche",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -49,10 +63,15 @@
     "nameWoDiacritics": "Antonio Enes",
     "subdivision": "N",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1613S 03954E",
+    "coordinates": {
+      "lat": -16.216666666666665,
+      "lon": 4.583333333333333
+    },
     "remarks": ""
   },
   {
@@ -63,10 +82,15 @@
     "nameWoDiacritics": "Bajone",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -77,10 +101,15 @@
     "nameWoDiacritics": "Bazaruto Island",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -91,10 +120,17 @@
     "nameWoDiacritics": "Beira",
     "subdivision": "",
     "status": "AI",
-    "function": "1--45---",
+    "function": [
+      0,
+      3,
+      4
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -105,10 +141,15 @@
     "nameWoDiacritics": "Bela Vista",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -119,10 +160,15 @@
     "nameWoDiacritics": "Benguera Island",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -133,10 +179,15 @@
     "nameWoDiacritics": "Boane",
     "subdivision": "L",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "2602S 03219E",
+    "coordinates": {
+      "lat": -26.033333333333335,
+      "lon": 3.35
+    },
     "remarks": ""
   },
   {
@@ -147,10 +198,15 @@
     "nameWoDiacritics": "Caia",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -161,10 +217,15 @@
     "nameWoDiacritics": "Chicamba Real",
     "subdivision": "B",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "1911S 03309E",
+    "coordinates": {
+      "lat": -19.183333333333334,
+      "lon": 3.5
+    },
     "remarks": ""
   },
   {
@@ -175,10 +236,15 @@
     "nameWoDiacritics": "Chimoio",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -189,10 +255,16 @@
     "nameWoDiacritics": "Chinde",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -203,10 +275,15 @@
     "nameWoDiacritics": "Chiure",
     "subdivision": "P",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "1322S 03946E",
+    "coordinates": {
+      "lat": -13.366666666666667,
+      "lon": 4.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -217,10 +294,16 @@
     "nameWoDiacritics": "Chokwe",
     "subdivision": "G",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "2432S 03259E",
+    "coordinates": {
+      "lat": -24.533333333333335,
+      "lon": 3.4166666666666665
+    },
     "remarks": ""
   },
   {
@@ -231,10 +314,16 @@
     "nameWoDiacritics": "Coropoa",
     "subdivision": "N",
     "status": "AM",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "2207",
     "iata": "",
-    "coordinates": "1632S 03941E",
+    "coordinates": {
+      "lat": -16.533333333333335,
+      "lon": 4.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -245,10 +334,15 @@
     "nameWoDiacritics": "Cuamba",
     "subdivision": "",
     "status": "RQ",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -259,10 +353,15 @@
     "nameWoDiacritics": "Gurue",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -273,10 +372,16 @@
     "nameWoDiacritics": "Ibo",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -287,10 +392,16 @@
     "nameWoDiacritics": "Inhambane",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -301,10 +412,15 @@
     "nameWoDiacritics": "Inhaminga",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -315,10 +431,15 @@
     "nameWoDiacritics": "Inhassoro",
     "subdivision": "I",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "2132S 03512E",
+    "coordinates": {
+      "lat": -21.533333333333335,
+      "lon": 3.85
+    },
     "remarks": ""
   },
   {
@@ -329,10 +450,15 @@
     "nameWoDiacritics": "Lichinga",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -343,10 +469,15 @@
     "nameWoDiacritics": "Luabo",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -357,10 +488,15 @@
     "nameWoDiacritics": "Lumbo",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9805",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -371,10 +507,15 @@
     "nameWoDiacritics": "Macuse",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -385,10 +526,15 @@
     "nameWoDiacritics": "Maganja Da Costa",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -399,10 +545,15 @@
     "nameWoDiacritics": "Magaruque",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -413,10 +564,15 @@
     "nameWoDiacritics": "Manica",
     "subdivision": "B",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1856S 03252E",
+    "coordinates": {
+      "lat": -18.933333333333334,
+      "lon": 3.4166666666666665
+    },
     "remarks": ""
   },
   {
@@ -427,10 +583,17 @@
     "nameWoDiacritics": "Maputo",
     "subdivision": "",
     "status": "AI",
-    "function": "1--45---",
+    "function": [
+      0,
+      3,
+      4
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -441,10 +604,15 @@
     "nameWoDiacritics": "Marromeu",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -455,10 +623,15 @@
     "nameWoDiacritics": "Massinga",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -469,10 +642,15 @@
     "nameWoDiacritics": "Matola",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -483,10 +661,15 @@
     "nameWoDiacritics": "Mavuzi",
     "subdivision": "B",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "1931S 03326E",
+    "coordinates": {
+      "lat": -19.516666666666666,
+      "lon": 3.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -497,10 +680,15 @@
     "nameWoDiacritics": "Maxixe",
     "subdivision": "I",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "2351S 03520E",
+    "coordinates": {
+      "lat": -23.85,
+      "lon": 3.8666666666666667
+    },
     "remarks": ""
   },
   {
@@ -511,10 +699,15 @@
     "nameWoDiacritics": "Meconta",
     "subdivision": "N",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "1459S 03950E",
+    "coordinates": {
+      "lat": -14.983333333333333,
+      "lon": 4.583333333333333
+    },
     "remarks": ""
   },
   {
@@ -525,10 +718,15 @@
     "nameWoDiacritics": "Memba",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -539,10 +737,15 @@
     "nameWoDiacritics": "Mocambique",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -553,10 +756,17 @@
     "nameWoDiacritics": "Mocimboa da Praia",
     "subdivision": "P",
     "status": "RL",
-    "function": "1-34----",
+    "function": [
+      0,
+      2,
+      3
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "1120S 04021E",
+    "coordinates": {
+      "lat": -11.333333333333334,
+      "lon": 4.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -567,10 +777,16 @@
     "nameWoDiacritics": "Moma",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -581,10 +797,15 @@
     "nameWoDiacritics": "Montepuez",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -595,10 +816,15 @@
     "nameWoDiacritics": "Morrumbene",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -609,10 +835,15 @@
     "nameWoDiacritics": "Mossuril",
     "subdivision": "N",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1458S 04039E",
+    "coordinates": {
+      "lat": -14.966666666666667,
+      "lon": 4.05
+    },
     "remarks": ""
   },
   {
@@ -623,10 +854,15 @@
     "nameWoDiacritics": "Muecate",
     "subdivision": "N",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "1453S 03937E",
+    "coordinates": {
+      "lat": -14.883333333333333,
+      "lon": 4.55
+    },
     "remarks": ""
   },
   {
@@ -637,10 +873,15 @@
     "nameWoDiacritics": "Mueda",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -651,10 +892,16 @@
     "nameWoDiacritics": "Nacala",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -665,10 +912,15 @@
     "nameWoDiacritics": "Nacaroa",
     "subdivision": "N",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1422S 03955E",
+    "coordinates": {
+      "lat": -14.366666666666667,
+      "lon": 4.583333333333333
+    },
     "remarks": ""
   },
   {
@@ -679,10 +931,15 @@
     "nameWoDiacritics": "Nampula",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -693,10 +950,15 @@
     "nameWoDiacritics": "Nangade",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -707,10 +969,15 @@
     "nameWoDiacritics": "Nova Sofala",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -721,10 +988,15 @@
     "nameWoDiacritics": "Palma",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -735,10 +1007,16 @@
     "nameWoDiacritics": "Pebane",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -749,10 +1027,16 @@
     "nameWoDiacritics": "Pemba",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -763,10 +1047,15 @@
     "nameWoDiacritics": "Porto Belo",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9506",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -777,10 +1066,16 @@
     "nameWoDiacritics": "Quelimane",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -791,10 +1086,15 @@
     "nameWoDiacritics": "Santa Carolina",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -805,10 +1105,15 @@
     "nameWoDiacritics": "Tete",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -819,10 +1124,15 @@
     "nameWoDiacritics": "Vilanculos",
     "subdivision": "",
     "status": "RQ",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "2200S 03516E",
+    "coordinates": {
+      "lat": -22,
+      "lon": 3.85
+    },
     "remarks": ""
   },
   {
@@ -833,10 +1143,15 @@
     "nameWoDiacritics": "Xai-Xai",
     "subdivision": "G",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "2503S 03339E",
+    "coordinates": {
+      "lat": -25.05,
+      "lon": 3.55
+    },
     "remarks": ""
   },
   {
@@ -847,10 +1162,16 @@
     "nameWoDiacritics": "Zambezia",
     "subdivision": "P",
     "status": "RQ",
-    "function": "--3--6--",
+    "function": [
+      2,
+      5
+    ],
     "date": "1007",
     "iata": "",
-    "coordinates": "1254S 03942E",
+    "coordinates": {
+      "lat": -12.9,
+      "lon": 4.566666666666666
+    },
     "remarks": ""
   }
 ]

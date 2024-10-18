@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Aigua",
     "subdivision": "MA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3412S 05445W",
+    "coordinates": {
+      "lat": -34.2,
+      "lon": 5.733333333333333
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,15 @@
     "nameWoDiacritics": "Arbolito",
     "subdivision": "CL",
     "status": "RQ",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1007",
     "iata": "",
-    "coordinates": "3239S 05415W",
+    "coordinates": {
+      "lat": -32.65,
+      "lon": 5.683333333333334
+    },
     "remarks": ""
   },
   {
@@ -49,10 +62,16 @@
     "nameWoDiacritics": "Artigas",
     "subdivision": "",
     "status": "AF",
-    "function": "---4---B",
+    "function": [
+      3,
+      7
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -63,10 +82,15 @@
     "nameWoDiacritics": "Bella Union",
     "subdivision": "",
     "status": "AF",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "3015S 05735W",
+    "coordinates": {
+      "lat": -30.25,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -77,10 +101,15 @@
     "nameWoDiacritics": "Canelones",
     "subdivision": "",
     "status": "AF",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -91,10 +120,15 @@
     "nameWoDiacritics": "Cardona",
     "subdivision": "SO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "3353S 05723W",
+    "coordinates": {
+      "lat": -33.88333333333333,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -105,10 +139,15 @@
     "nameWoDiacritics": "Carmelo",
     "subdivision": "",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -119,10 +158,15 @@
     "nameWoDiacritics": "Carrasco",
     "subdivision": "CO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3453S 05603W",
+    "coordinates": {
+      "lat": -34.88333333333333,
+      "lon": 6
+    },
     "remarks": ""
   },
   {
@@ -133,10 +177,15 @@
     "nameWoDiacritics": "Chuy",
     "subdivision": "",
     "status": "AF",
-    "function": "-------B",
+    "function": [
+      7
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -147,10 +196,16 @@
     "nameWoDiacritics": "Colonia",
     "subdivision": "",
     "status": "AF",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -161,10 +216,15 @@
     "nameWoDiacritics": "Colonia del Sacramento",
     "subdivision": "CO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9805",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -175,10 +235,15 @@
     "nameWoDiacritics": "Colonia Suiza",
     "subdivision": "CO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9805",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -189,10 +254,15 @@
     "nameWoDiacritics": "Conchillas",
     "subdivision": "CO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3409S 05800W",
+    "coordinates": {
+      "lat": -34.15,
+      "lon": 6.333333333333333
+    },
     "remarks": ""
   },
   {
@@ -203,10 +273,15 @@
     "nameWoDiacritics": "Cuenca del Plata",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1007",
     "iata": "",
-    "coordinates": "1437S 04367W",
+    "coordinates": {
+      "lat": -14.616666666666667,
+      "lon": 4.6
+    },
     "remarks": ""
   },
   {
@@ -217,10 +292,15 @@
     "nameWoDiacritics": "Dolores",
     "subdivision": "SO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "3332S 05811W",
+    "coordinates": {
+      "lat": -33.53333333333333,
+      "lon": 6.35
+    },
     "remarks": ""
   },
   {
@@ -231,10 +311,16 @@
     "nameWoDiacritics": "Durazno",
     "subdivision": "",
     "status": "AF",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -245,10 +331,15 @@
     "nameWoDiacritics": "Florida",
     "subdivision": "",
     "status": "AF",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -259,10 +350,15 @@
     "nameWoDiacritics": "Fray Bentos",
     "subdivision": "",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -273,10 +369,15 @@
     "nameWoDiacritics": "Joanico",
     "subdivision": "CA",
     "status": "RQ",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1007",
     "iata": "",
-    "coordinates": "3435S 05615W",
+    "coordinates": {
+      "lat": -34.583333333333336,
+      "lon": 6.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -287,10 +388,15 @@
     "nameWoDiacritics": "Jose Ignacio Terminal",
     "subdivision": "",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -301,10 +407,15 @@
     "nameWoDiacritics": "Juan L. Lacaze",
     "subdivision": "CO",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "3426S 05727W",
+    "coordinates": {
+      "lat": -34.43333333333333,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -315,10 +426,15 @@
     "nameWoDiacritics": "La Paloma/Rocha",
     "subdivision": "",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -329,10 +445,15 @@
     "nameWoDiacritics": "La Paz",
     "subdivision": "",
     "status": "AF",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -343,10 +464,15 @@
     "nameWoDiacritics": "Lagomar",
     "subdivision": "",
     "status": "AF",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -357,10 +483,15 @@
     "nameWoDiacritics": "Las Piedras",
     "subdivision": "",
     "status": "AF",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -371,10 +502,15 @@
     "nameWoDiacritics": "Lascano",
     "subdivision": "RO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "3340S 05412W",
+    "coordinates": {
+      "lat": -33.666666666666664,
+      "lon": 5.683333333333334
+    },
     "remarks": ""
   },
   {
@@ -385,10 +521,15 @@
     "nameWoDiacritics": "Libertad",
     "subdivision": "SJ",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "3438S 05637W",
+    "coordinates": {
+      "lat": -34.63333333333333,
+      "lon": 6.05
+    },
     "remarks": ""
   },
   {
@@ -399,10 +540,15 @@
     "nameWoDiacritics": "Maldonado",
     "subdivision": "",
     "status": "AF",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -413,10 +559,15 @@
     "nameWoDiacritics": "Melo",
     "subdivision": "",
     "status": "AF",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -427,10 +578,15 @@
     "nameWoDiacritics": "Mercedes",
     "subdivision": "",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -441,10 +597,15 @@
     "nameWoDiacritics": "Minas",
     "subdivision": "",
     "status": "AF",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -455,10 +616,17 @@
     "nameWoDiacritics": "Montevideo",
     "subdivision": "",
     "status": "AF",
-    "function": "1--45---",
+    "function": [
+      0,
+      3,
+      4
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -469,10 +637,15 @@
     "nameWoDiacritics": "Nueva Helvecia",
     "subdivision": "CO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "3418S 05714W",
+    "coordinates": {
+      "lat": -34.3,
+      "lon": 6.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -483,10 +656,15 @@
     "nameWoDiacritics": "Nueva Palmira",
     "subdivision": "",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -497,10 +675,15 @@
     "nameWoDiacritics": "Nuevo Berlin",
     "subdivision": "RN",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "3259S 05803W",
+    "coordinates": {
+      "lat": -32.983333333333334,
+      "lon": 6.333333333333333
+    },
     "remarks": ""
   },
   {
@@ -511,10 +694,15 @@
     "nameWoDiacritics": "Ombues de Lavalle",
     "subdivision": "CO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "3355S 05747W",
+    "coordinates": {
+      "lat": -33.916666666666664,
+      "lon": 6.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -525,10 +713,15 @@
     "nameWoDiacritics": "Pan de Azucar",
     "subdivision": "MA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3448S 05514W",
+    "coordinates": {
+      "lat": -34.8,
+      "lon": 5.85
+    },
     "remarks": ""
   },
   {
@@ -539,10 +732,15 @@
     "nameWoDiacritics": "Pando",
     "subdivision": "",
     "status": "AF",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -553,10 +751,15 @@
     "nameWoDiacritics": "Paso de Carrasco",
     "subdivision": "MO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3451S 05603W",
+    "coordinates": {
+      "lat": -34.85,
+      "lon": 6
+    },
     "remarks": ""
   },
   {
@@ -567,10 +770,16 @@
     "nameWoDiacritics": "Paysandu",
     "subdivision": "",
     "status": "AF",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -581,10 +790,15 @@
     "nameWoDiacritics": "Piriapolis",
     "subdivision": "MA",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "3452S 05516W",
+    "coordinates": {
+      "lat": -34.86666666666667,
+      "lon": 5.85
+    },
     "remarks": ""
   },
   {
@@ -595,10 +809,15 @@
     "nameWoDiacritics": "Poblado Rincon de la Bolsa",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3149S 05555W",
+    "coordinates": {
+      "lat": -31.816666666666666,
+      "lon": 5.916666666666667
+    },
     "remarks": ""
   },
   {
@@ -609,10 +828,15 @@
     "nameWoDiacritics": "Progreso",
     "subdivision": "CA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3439S 05613W",
+    "coordinates": {
+      "lat": -34.65,
+      "lon": 6.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -623,10 +847,15 @@
     "nameWoDiacritics": "Punta Carretas",
     "subdivision": "MO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "3455S 05609W",
+    "coordinates": {
+      "lat": -34.916666666666664,
+      "lon": 6
+    },
     "remarks": ""
   },
   {
@@ -637,10 +866,16 @@
     "nameWoDiacritics": "Punta del Este",
     "subdivision": "",
     "status": "AF",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -651,10 +886,15 @@
     "nameWoDiacritics": "Punta Pereyra",
     "subdivision": "CO",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "3414S 05804W",
+    "coordinates": {
+      "lat": -34.233333333333334,
+      "lon": 6.333333333333333
+    },
     "remarks": ""
   },
   {
@@ -665,10 +905,15 @@
     "nameWoDiacritics": "Rio Branco",
     "subdivision": "",
     "status": "RQ",
-    "function": "-2------",
+    "function": [
+      1
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -679,10 +924,16 @@
     "nameWoDiacritics": "Rivera",
     "subdivision": "",
     "status": "AF",
-    "function": "---4---B",
+    "function": [
+      3,
+      7
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -693,10 +944,15 @@
     "nameWoDiacritics": "Rocha",
     "subdivision": "",
     "status": "AF",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -707,10 +963,15 @@
     "nameWoDiacritics": "Rosario",
     "subdivision": "CO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "3419S 05721W",
+    "coordinates": {
+      "lat": -34.31666666666667,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -721,10 +982,16 @@
     "nameWoDiacritics": "Salto",
     "subdivision": "",
     "status": "AF",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -735,10 +1002,15 @@
     "nameWoDiacritics": "San Carlos",
     "subdivision": "MA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3448S 05455W",
+    "coordinates": {
+      "lat": -34.8,
+      "lon": 5.75
+    },
     "remarks": ""
   },
   {
@@ -749,10 +1021,15 @@
     "nameWoDiacritics": "San Jacinto",
     "subdivision": "CA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3432S 05552W",
+    "coordinates": {
+      "lat": -34.53333333333333,
+      "lon": 5.916666666666667
+    },
     "remarks": ""
   },
   {
@@ -763,10 +1040,15 @@
     "nameWoDiacritics": "San Jose",
     "subdivision": "",
     "status": "AF",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -777,10 +1059,15 @@
     "nameWoDiacritics": "San Jose de Carrasco",
     "subdivision": "",
     "status": "AF",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -791,10 +1078,15 @@
     "nameWoDiacritics": "Santa Bernardina",
     "subdivision": "DU",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3322S 05629W",
+    "coordinates": {
+      "lat": -33.36666666666667,
+      "lon": 6.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -805,10 +1097,15 @@
     "nameWoDiacritics": "Santa Lucia",
     "subdivision": "CA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3427S 05623W",
+    "coordinates": {
+      "lat": -34.45,
+      "lon": 6.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -819,10 +1116,15 @@
     "nameWoDiacritics": "Solymar",
     "subdivision": "",
     "status": "AF",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -833,10 +1135,15 @@
     "nameWoDiacritics": "Soriano",
     "subdivision": "SO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3324S 05819W",
+    "coordinates": {
+      "lat": -33.4,
+      "lon": 6.35
+    },
     "remarks": ""
   },
   {
@@ -847,10 +1154,15 @@
     "nameWoDiacritics": "Tacuarembo",
     "subdivision": "",
     "status": "AF",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -861,10 +1173,15 @@
     "nameWoDiacritics": "Tarariras",
     "subdivision": "CO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3417S 05737W",
+    "coordinates": {
+      "lat": -34.28333333333333,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -875,10 +1192,15 @@
     "nameWoDiacritics": "Treinta y Tres",
     "subdivision": "",
     "status": "AF",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -889,10 +1211,15 @@
     "nameWoDiacritics": "Trinidad",
     "subdivision": "",
     "status": "AF",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -903,10 +1230,15 @@
     "nameWoDiacritics": "Valdense",
     "subdivision": "CO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3420S 05714W",
+    "coordinates": {
+      "lat": -34.333333333333336,
+      "lon": 6.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -917,10 +1249,15 @@
     "nameWoDiacritics": "Vichadero",
     "subdivision": "",
     "status": "AF",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -931,10 +1268,15 @@
     "nameWoDiacritics": "Young",
     "subdivision": "RN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3241S 05738W",
+    "coordinates": {
+      "lat": -32.68333333333333,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -945,10 +1287,15 @@
     "nameWoDiacritics": "Zona Franca Florida",
     "subdivision": "FD",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "3411S 05623W",
+    "coordinates": {
+      "lat": -34.18333333333333,
+      "lon": 6.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -959,10 +1306,15 @@
     "nameWoDiacritics": "Zona Franca Libertad",
     "subdivision": "SJ",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "3438S 05637W",
+    "coordinates": {
+      "lat": -34.63333333333333,
+      "lon": 6.05
+    },
     "remarks": ""
   },
   {
@@ -973,10 +1325,15 @@
     "nameWoDiacritics": "Zona Franca Montevideo",
     "subdivision": "MO",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "3451S 05607W",
+    "coordinates": {
+      "lat": -34.85,
+      "lon": 6
+    },
     "remarks": "Zonam�rica"
   }
 ]

@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Baker Island",
     "subdivision": "81",
     "status": "QQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,15 @@
     "nameWoDiacritics": "Howland Island",
     "subdivision": "84",
     "status": "QQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -49,10 +62,15 @@
     "nameWoDiacritics": "Jarvis Island",
     "subdivision": "86",
     "status": "QQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -63,10 +81,16 @@
     "nameWoDiacritics": "Johnston Atoll",
     "subdivision": "67",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -77,10 +101,15 @@
     "nameWoDiacritics": "Kingman Reef",
     "subdivision": "89",
     "status": "QQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -91,10 +120,16 @@
     "nameWoDiacritics": "Midway Islands",
     "subdivision": "71",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -105,10 +140,15 @@
     "nameWoDiacritics": "Navassa Island",
     "subdivision": "76",
     "status": "QQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -119,10 +159,15 @@
     "nameWoDiacritics": "Palmyra Atoll",
     "subdivision": "95",
     "status": "QQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -133,10 +178,16 @@
     "nameWoDiacritics": "Wake Island",
     "subdivision": "79",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   }
 ]

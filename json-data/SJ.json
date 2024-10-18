@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Barentsburg",
     "subdivision": "",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "7804N 01412E",
+    "coordinates": {
+      "lat": 78.06666666666666,
+      "lon": 1.6833333333333333
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,15 @@
     "nameWoDiacritics": "Hopen",
     "subdivision": "",
     "status": "AA",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "7635N 02510E",
+    "coordinates": {
+      "lat": 76.58333333333333,
+      "lon": 2.85
+    },
     "remarks": ""
   },
   {
@@ -49,10 +62,15 @@
     "nameWoDiacritics": "Jan Mayen",
     "subdivision": "",
     "status": "AA",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "7635N 02510E",
+    "coordinates": {
+      "lat": 76.58333333333333,
+      "lon": 2.85
+    },
     "remarks": ""
   },
   {
@@ -63,10 +81,17 @@
     "nameWoDiacritics": "Longyearbyen",
     "subdivision": "",
     "status": "AI",
-    "function": "1-34----",
+    "function": [
+      0,
+      2,
+      3
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "7813N 01538E",
+    "coordinates": {
+      "lat": 78.21666666666667,
+      "lon": 1.8833333333333333
+    },
     "remarks": ""
   },
   {
@@ -77,10 +102,15 @@
     "nameWoDiacritics": "Ny-Alesund",
     "subdivision": "",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "7856N 01157E",
+    "coordinates": {
+      "lat": 78.93333333333334,
+      "lon": 1.25
+    },
     "remarks": ""
   },
   {
@@ -91,10 +121,15 @@
     "nameWoDiacritics": "Sveagruva",
     "subdivision": "",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "7751N 01639E",
+    "coordinates": {
+      "lat": 77.85,
+      "lon": 2.05
+    },
     "remarks": ""
   }
 ]

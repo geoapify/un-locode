@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,16 @@
     "nameWoDiacritics": "Monaco",
     "subdivision": "",
     "status": "QQ",
-    "function": "1---5---",
+    "function": [
+      0,
+      4
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -35,10 +44,16 @@
     "nameWoDiacritics": "Monte-Carlo",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4344N 00725E",
+    "coordinates": {
+      "lat": 43.733333333333334,
+      "lon": 1.2
+    },
     "remarks": ""
   }
 ]

@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Baie de Prony",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "2222S 16652E",
+    "coordinates": {
+      "lat": -22.366666666666667,
+      "lon": 17.083333333333332
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,15 @@
     "nameWoDiacritics": "Belep I.",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "1943S 16340E",
+    "coordinates": {
+      "lat": -19.716666666666665,
+      "lon": 16.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -49,10 +62,15 @@
     "nameWoDiacritics": "Bourail",
     "subdivision": "",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2134S 16529E",
+    "coordinates": {
+      "lat": -21.566666666666666,
+      "lon": 16.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -63,10 +81,15 @@
     "nameWoDiacritics": "Doniambo/Noumea",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2215S 16627E",
+    "coordinates": {
+      "lat": -22.25,
+      "lon": 17.033333333333335
+    },
     "remarks": ""
   },
   {
@@ -77,10 +100,15 @@
     "nameWoDiacritics": "Ducos",
     "subdivision": "",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2214S 16627E",
+    "coordinates": {
+      "lat": -22.233333333333334,
+      "lon": 17.033333333333335
+    },
     "remarks": ""
   },
   {
@@ -91,10 +119,15 @@
     "nameWoDiacritics": "Dumbea",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "2209S 16627E",
+    "coordinates": {
+      "lat": -22.15,
+      "lon": 17.033333333333335
+    },
     "remarks": ""
   },
   {
@@ -105,10 +138,15 @@
     "nameWoDiacritics": "Hienghene",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2040S 16453E",
+    "coordinates": {
+      "lat": -20.666666666666668,
+      "lon": 16.75
+    },
     "remarks": ""
   },
   {
@@ -119,10 +157,15 @@
     "nameWoDiacritics": "Houailou",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2115S 16537E",
+    "coordinates": {
+      "lat": -21.25,
+      "lon": 16.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -133,10 +176,15 @@
     "nameWoDiacritics": "Ile des Pins",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2235S 16727E",
+    "coordinates": {
+      "lat": -22.583333333333332,
+      "lon": 17.2
+    },
     "remarks": ""
   },
   {
@@ -147,10 +195,15 @@
     "nameWoDiacritics": "Ile Ouen",
     "subdivision": "",
     "status": "RL",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2228S 16647E",
+    "coordinates": {
+      "lat": -22.466666666666665,
+      "lon": 17.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -161,10 +214,15 @@
     "nameWoDiacritics": "Kone",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2103S 16450E",
+    "coordinates": {
+      "lat": -21.05,
+      "lon": 16.75
+    },
     "remarks": ""
   },
   {
@@ -175,10 +233,16 @@
     "nameWoDiacritics": "Kouaoua",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "2207",
     "iata": "",
-    "coordinates": "2124S 16550E",
+    "coordinates": {
+      "lat": -21.4,
+      "lon": 16.916666666666668
+    },
     "remarks": ""
   },
   {
@@ -189,10 +253,15 @@
     "nameWoDiacritics": "Koumac",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2033S 16415E",
+    "coordinates": {
+      "lat": -20.55,
+      "lon": 16.683333333333334
+    },
     "remarks": ""
   },
   {
@@ -203,10 +272,15 @@
     "nameWoDiacritics": "La Foa",
     "subdivision": "",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "2143S 16550E",
+    "coordinates": {
+      "lat": -21.716666666666665,
+      "lon": 16.916666666666668
+    },
     "remarks": ""
   },
   {
@@ -217,10 +291,16 @@
     "nameWoDiacritics": "Le Mont-Dore",
     "subdivision": "",
     "status": "RL",
-    "function": "1----6--",
+    "function": [
+      0,
+      5
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2217S 16635E",
+    "coordinates": {
+      "lat": -22.283333333333335,
+      "lon": 17.05
+    },
     "remarks": ""
   },
   {
@@ -231,10 +311,16 @@
     "nameWoDiacritics": "Lifou",
     "subdivision": "",
     "status": "RL",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "2207",
     "iata": "",
-    "coordinates": "2058S 16714E",
+    "coordinates": {
+      "lat": -20.966666666666665,
+      "lon": 17.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -245,10 +331,16 @@
     "nameWoDiacritics": "Mare",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "2207",
     "iata": "",
-    "coordinates": "2130S 16759E",
+    "coordinates": {
+      "lat": -21.5,
+      "lon": 17.25
+    },
     "remarks": ""
   },
   {
@@ -259,10 +351,16 @@
     "nameWoDiacritics": "Mueo/Nepoui",
     "subdivision": "",
     "status": "AI",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2118S 16501E",
+    "coordinates": {
+      "lat": -21.3,
+      "lon": 16.833333333333332
+    },
     "remarks": ""
   },
   {
@@ -273,10 +371,16 @@
     "nameWoDiacritics": "Nakety",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "2133S 16602E",
+    "coordinates": {
+      "lat": -21.55,
+      "lon": 17
+    },
     "remarks": ""
   },
   {
@@ -287,10 +391,16 @@
     "nameWoDiacritics": "Nepoui",
     "subdivision": "",
     "status": "RL",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2119S 16500E",
+    "coordinates": {
+      "lat": -21.316666666666666,
+      "lon": 16.833333333333332
+    },
     "remarks": ""
   },
   {
@@ -301,10 +411,17 @@
     "nameWoDiacritics": "Noumea",
     "subdivision": "",
     "status": "AI",
-    "function": "1--45---",
+    "function": [
+      0,
+      3,
+      4
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "2216S 16627E",
+    "coordinates": {
+      "lat": -22.266666666666666,
+      "lon": 17.033333333333335
+    },
     "remarks": ""
   },
   {
@@ -315,10 +432,15 @@
     "nameWoDiacritics": "Noumea Magenta Apt",
     "subdivision": "",
     "status": "RL",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2215S 16628E",
+    "coordinates": {
+      "lat": -22.25,
+      "lon": 17.033333333333335
+    },
     "remarks": ""
   },
   {
@@ -329,10 +451,15 @@
     "nameWoDiacritics": "Ouvea",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2038S 16634E",
+    "coordinates": {
+      "lat": -20.633333333333333,
+      "lon": 17.05
+    },
     "remarks": ""
   },
   {
@@ -343,10 +470,15 @@
     "nameWoDiacritics": "Paagoumene",
     "subdivision": "",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "2029S 16412E",
+    "coordinates": {
+      "lat": -20.483333333333334,
+      "lon": 16.683333333333334
+    },
     "remarks": ""
   },
   {
@@ -357,10 +489,16 @@
     "nameWoDiacritics": "Poro",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2118S 16543E",
+    "coordinates": {
+      "lat": -21.3,
+      "lon": 16.9
+    },
     "remarks": ""
   },
   {
@@ -371,10 +509,15 @@
     "nameWoDiacritics": "Pouembout",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "2108S 16454E",
+    "coordinates": {
+      "lat": -21.133333333333333,
+      "lon": 16.75
+    },
     "remarks": ""
   },
   {
@@ -385,10 +528,16 @@
     "nameWoDiacritics": "Prony",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2219S 16649E",
+    "coordinates": {
+      "lat": -22.316666666666666,
+      "lon": 17.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -399,10 +548,16 @@
     "nameWoDiacritics": "Teoudie",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2046S 16424E",
+    "coordinates": {
+      "lat": -20.766666666666666,
+      "lon": 16.7
+    },
     "remarks": ""
   },
   {
@@ -413,10 +568,15 @@
     "nameWoDiacritics": "Thio",
     "subdivision": "",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -427,10 +587,15 @@
     "nameWoDiacritics": "Tiga",
     "subdivision": "",
     "status": "RL",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2106S 16748E",
+    "coordinates": {
+      "lat": -21.1,
+      "lon": 17.233333333333334
+    },
     "remarks": ""
   },
   {
@@ -441,10 +606,17 @@
     "nameWoDiacritics": "Tontouta Apt",
     "subdivision": "",
     "status": "AI",
-    "function": "1--45---",
+    "function": [
+      0,
+      3,
+      4
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -455,10 +627,15 @@
     "nameWoDiacritics": "Touho",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2047S 16516E",
+    "coordinates": {
+      "lat": -20.783333333333335,
+      "lon": 16.85
+    },
     "remarks": ""
   },
   {
@@ -469,10 +646,15 @@
     "nameWoDiacritics": "Vavouto",
     "subdivision": "",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2100S 16440E",
+    "coordinates": {
+      "lat": -21,
+      "lon": 16.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -483,10 +665,15 @@
     "nameWoDiacritics": "Wala",
     "subdivision": "",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "1943S 16339E",
+    "coordinates": {
+      "lat": -19.716666666666665,
+      "lon": 16.55
+    },
     "remarks": ""
   }
 ]

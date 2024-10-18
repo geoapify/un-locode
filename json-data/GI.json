@@ -1,44 +1,43 @@
 [
   {
-    "change": "",
     "country": "GI",
-    "location": "",
     "name": ".GIBRALTAR",
-    "nameWoDiacritics": "",
-    "subdivision": "",
-    "status": "",
-    "function": "",
-    "date": "",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [],
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "GI",
     "location": "GIB",
     "name": "Gibraltar",
     "nameWoDiacritics": "Gibraltar",
-    "subdivision": "",
     "status": "AI",
-    "function": "1--45---",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0,
+      3,
+      4
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "GI",
     "location": "WTP",
     "name": "Waterport",
     "nameWoDiacritics": "Waterport",
-    "subdivision": "",
     "status": "RQ",
-    "function": "-----6--",
-    "date": "1007",
-    "iata": "",
-    "coordinates": "3608N 00521W",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 1007,
+    "coordinates": {
+      "lat": 36.13333333333333,
+      "lon": 0.8666666666666667
+    }
   }
 ]

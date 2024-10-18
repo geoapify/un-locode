@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,17 @@
     "nameWoDiacritics": "Bar",
     "subdivision": "",
     "status": "RL",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "4205N 01905E",
+    "coordinates": {
+      "lat": 42.083333333333336,
+      "lon": 2.5
+    },
     "remarks": ""
   },
   {
@@ -35,10 +45,17 @@
     "nameWoDiacritics": "Berane (Yvangrad)",
     "subdivision": "",
     "status": "AI",
-    "function": "-234----",
+    "function": [
+      1,
+      2,
+      3
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "4251N 01952E",
+    "coordinates": {
+      "lat": 42.85,
+      "lon": 2.583333333333333
+    },
     "remarks": ""
   },
   {
@@ -49,10 +66,16 @@
     "nameWoDiacritics": "Bijela",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "4227N 01840E",
+    "coordinates": {
+      "lat": 42.45,
+      "lon": 2.4
+    },
     "remarks": ""
   },
   {
@@ -63,10 +86,15 @@
     "nameWoDiacritics": "Bijelo Polje",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4302N 01944E",
+    "coordinates": {
+      "lat": 43.03333333333333,
+      "lon": 2.5666666666666664
+    },
     "remarks": ""
   },
   {
@@ -77,10 +105,16 @@
     "nameWoDiacritics": "Budva",
     "subdivision": "05",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "4217N 01850E",
+    "coordinates": {
+      "lat": 42.28333333333333,
+      "lon": 2.416666666666667
+    },
     "remarks": ""
   },
   {
@@ -91,10 +125,15 @@
     "nameWoDiacritics": "Cetinje",
     "subdivision": "06",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4222N 01855E",
+    "coordinates": {
+      "lat": 42.36666666666667,
+      "lon": 2.416666666666667
+    },
     "remarks": ""
   },
   {
@@ -105,10 +144,15 @@
     "nameWoDiacritics": "Danilovgrad",
     "subdivision": "07",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "4233N 01906E",
+    "coordinates": {
+      "lat": 42.55,
+      "lon": 2.5
+    },
     "remarks": ""
   },
   {
@@ -119,10 +163,18 @@
     "nameWoDiacritics": "Hercegnovi",
     "subdivision": "",
     "status": "RL",
-    "function": "1234----",
+    "function": [
+      0,
+      1,
+      2,
+      3
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "4227N 01832E",
+    "coordinates": {
+      "lat": 42.45,
+      "lon": 2.3833333333333333
+    },
     "remarks": ""
   },
   {
@@ -133,10 +185,16 @@
     "nameWoDiacritics": "Igalo",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "4228N 01831E",
+    "coordinates": {
+      "lat": 42.46666666666667,
+      "lon": 2.3833333333333333
+    },
     "remarks": ""
   },
   {
@@ -147,10 +205,17 @@
     "nameWoDiacritics": "Kotor",
     "subdivision": "10",
     "status": "RL",
-    "function": "1-34----",
+    "function": [
+      0,
+      2,
+      3
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "4225N 01846E",
+    "coordinates": {
+      "lat": 42.416666666666664,
+      "lon": 2.4
+    },
     "remarks": ""
   },
   {
@@ -161,10 +226,15 @@
     "nameWoDiacritics": "Ljajkovici",
     "subdivision": "16",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1907",
     "iata": "",
-    "coordinates": "4222N 01912E",
+    "coordinates": {
+      "lat": 42.36666666666667,
+      "lon": 2.5166666666666666
+    },
     "remarks": ""
   },
   {
@@ -175,10 +245,15 @@
     "nameWoDiacritics": "Mojkovac",
     "subdivision": "11",
     "status": "AM",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2007",
     "iata": "",
-    "coordinates": "4257N 01934E",
+    "coordinates": {
+      "lat": 42.95,
+      "lon": 2.55
+    },
     "remarks": ""
   },
   {
@@ -189,10 +264,16 @@
     "nameWoDiacritics": "Niksic",
     "subdivision": "12",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "4246N 01856E",
+    "coordinates": {
+      "lat": 42.766666666666666,
+      "lon": 2.416666666666667
+    },
     "remarks": ""
   },
   {
@@ -203,10 +284,16 @@
     "nameWoDiacritics": "Petrovac",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "4212N 01856E",
+    "coordinates": {
+      "lat": 42.2,
+      "lon": 2.416666666666667
+    },
     "remarks": ""
   },
   {
@@ -217,10 +304,15 @@
     "nameWoDiacritics": "Pljevlja",
     "subdivision": "14",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "4321N 01921E",
+    "coordinates": {
+      "lat": 43.35,
+      "lon": 2.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -231,10 +323,17 @@
     "nameWoDiacritics": "Podgorica",
     "subdivision": "",
     "status": "RL",
-    "function": "-234----",
+    "function": [
+      1,
+      2,
+      3
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "4226N 01915E",
+    "coordinates": {
+      "lat": 42.43333333333333,
+      "lon": 2.5166666666666666
+    },
     "remarks": ""
   },
   {
@@ -245,10 +344,15 @@
     "nameWoDiacritics": "Rijeka Crnojevica",
     "subdivision": "16",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4221N 01902E",
+    "coordinates": {
+      "lat": 42.35,
+      "lon": 2.5
+    },
     "remarks": ""
   },
   {
@@ -259,10 +363,16 @@
     "nameWoDiacritics": "Risan (Risano)",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "4231N 01842E",
+    "coordinates": {
+      "lat": 42.516666666666666,
+      "lon": 2.4
+    },
     "remarks": ""
   },
   {
@@ -273,10 +383,17 @@
     "nameWoDiacritics": "Tivat",
     "subdivision": "19",
     "status": "RL",
-    "function": "1-34----",
+    "function": [
+      0,
+      2,
+      3
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "4226N 01842E",
+    "coordinates": {
+      "lat": 42.43333333333333,
+      "lon": 2.4
+    },
     "remarks": ""
   },
   {
@@ -287,10 +404,16 @@
     "nameWoDiacritics": "Ulcinj",
     "subdivision": "20",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "4155N 01912E",
+    "coordinates": {
+      "lat": 41.916666666666664,
+      "lon": 2.5166666666666666
+    },
     "remarks": ""
   },
   {
@@ -301,10 +424,16 @@
     "nameWoDiacritics": "Zabljak",
     "subdivision": "21",
     "status": "RL",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "4309N 01907E",
+    "coordinates": {
+      "lat": 43.15,
+      "lon": 2.5
+    },
     "remarks": ""
   },
   {
@@ -315,10 +444,17 @@
     "nameWoDiacritics": "Zelenika",
     "subdivision": "",
     "status": "RL",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "4227N 01835E",
+    "coordinates": {
+      "lat": 42.45,
+      "lon": 2.3833333333333333
+    },
     "remarks": ""
   }
 ]

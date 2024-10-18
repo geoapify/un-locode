@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Al Azaiba",
     "subdivision": "MA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "2336S 05832E",
+    "coordinates": {
+      "lat": -23.6,
+      "lon": 6.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,16 @@
     "nameWoDiacritics": "Al Mazunah",
     "subdivision": "ZU",
     "status": "AM",
-    "function": "--3--6--",
+    "function": [
+      2,
+      5
+    ],
     "date": "2007",
     "iata": "",
-    "coordinates": "1750N 05238E",
+    "coordinates": {
+      "lat": 17.833333333333332,
+      "lon": 5.383333333333334
+    },
     "remarks": ""
   },
   {
@@ -49,10 +63,15 @@
     "nameWoDiacritics": "Al'Amrat",
     "subdivision": "MA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "2331N 05829E",
+    "coordinates": {
+      "lat": 23.516666666666666,
+      "lon": 6.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -63,10 +82,15 @@
     "nameWoDiacritics": "Al-Suwaiq",
     "subdivision": "BJ",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2351N 05726E",
+    "coordinates": {
+      "lat": 23.85,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -77,10 +101,15 @@
     "nameWoDiacritics": "Barka",
     "subdivision": "BA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "2342N 05733E",
+    "coordinates": {
+      "lat": 23.7,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -91,10 +120,15 @@
     "nameWoDiacritics": "Bidbid",
     "subdivision": "DA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "2324N 05807E",
+    "coordinates": {
+      "lat": 23.4,
+      "lon": 6.333333333333333
+    },
     "remarks": ""
   },
   {
@@ -105,10 +139,15 @@
     "nameWoDiacritics": "Buraimi",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -119,10 +158,15 @@
     "nameWoDiacritics": "Dibaa",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -133,10 +177,16 @@
     "nameWoDiacritics": "Duqm",
     "subdivision": "WU",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "1939N 05742E",
+    "coordinates": {
+      "lat": 19.65,
+      "lon": 6.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -147,10 +197,15 @@
     "nameWoDiacritics": "Fahal",
     "subdivision": "MA",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "2341N 05830E",
+    "coordinates": {
+      "lat": 23.683333333333334,
+      "lon": 6.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -161,10 +216,15 @@
     "nameWoDiacritics": "Ghurah",
     "subdivision": "BA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "2331N 05711E",
+    "coordinates": {
+      "lat": 23.516666666666666,
+      "lon": 6.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -175,10 +235,15 @@
     "nameWoDiacritics": "Khasab",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -189,10 +254,16 @@
     "nameWoDiacritics": "Khazaen",
     "subdivision": "BJ",
     "status": "AM",
-    "function": "--3--6--",
+    "function": [
+      2,
+      5
+    ],
     "date": "2007",
     "iata": "",
-    "coordinates": "2333N 05748E",
+    "coordinates": {
+      "lat": 23.55,
+      "lon": 6.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -203,10 +274,15 @@
     "nameWoDiacritics": "Marmul",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -217,10 +293,15 @@
     "nameWoDiacritics": "Masirah",
     "subdivision": "SH",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "2025N 05850E",
+    "coordinates": {
+      "lat": 20.416666666666668,
+      "lon": 6.416666666666667
+    },
     "remarks": ""
   },
   {
@@ -231,10 +312,15 @@
     "nameWoDiacritics": "Mina' al Fahl",
     "subdivision": "MA",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "2338N 05831E",
+    "coordinates": {
+      "lat": 23.633333333333333,
+      "lon": 6.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -245,10 +331,15 @@
     "nameWoDiacritics": "Mina' Qabus",
     "subdivision": "MA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "2337N 05834E",
+    "coordinates": {
+      "lat": 23.616666666666667,
+      "lon": 6.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -259,10 +350,13 @@
     "nameWoDiacritics": " Muscat\"",
     "subdivision": "\"Mina Sultan Qaboos",
     "status": " Muscat\"",
-    "function": "",
+    "function": [],
     "date": "RL",
     "iata": "1-3-----",
-    "coordinates": "0607",
+    "coordinates": {
+      "lat": 6.116666666666666,
+      "lon": null
+    },
     "remarks": ""
   },
   {
@@ -273,10 +367,17 @@
     "nameWoDiacritics": "Muscat",
     "subdivision": "MA",
     "status": "AI",
-    "function": "1--45---",
+    "function": [
+      0,
+      3,
+      4
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "2336N 05835E",
+    "coordinates": {
+      "lat": 23.6,
+      "lon": 6.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -287,10 +388,15 @@
     "nameWoDiacritics": "Muthra",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -301,10 +407,15 @@
     "nameWoDiacritics": "Nizwa",
     "subdivision": "DA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "2256N 05732E",
+    "coordinates": {
+      "lat": 22.933333333333334,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -315,10 +426,15 @@
     "nameWoDiacritics": "Port Qaboos",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -329,10 +445,15 @@
     "nameWoDiacritics": "Port Sultan",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "2337N 05838E",
+    "coordinates": {
+      "lat": 23.616666666666667,
+      "lon": 6.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -343,10 +464,16 @@
     "nameWoDiacritics": "Qalhat",
     "subdivision": "SH",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "2242N 05922E",
+    "coordinates": {
+      "lat": 22.7,
+      "lon": 6.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -357,10 +484,15 @@
     "nameWoDiacritics": "Qarn Alam",
     "subdivision": "WU",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "2118N 05705E",
+    "coordinates": {
+      "lat": 21.3,
+      "lon": 6.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -371,10 +503,15 @@
     "nameWoDiacritics": "Quoin Island",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0907",
     "iata": "",
-    "coordinates": "2635N 05631E",
+    "coordinates": {
+      "lat": 26.583333333333332,
+      "lon": 6.05
+    },
     "remarks": ""
   },
   {
@@ -385,10 +522,15 @@
     "nameWoDiacritics": "Qurayyat",
     "subdivision": "MA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "2319N 05854E",
+    "coordinates": {
+      "lat": 23.316666666666666,
+      "lon": 6.416666666666667
+    },
     "remarks": ""
   },
   {
@@ -399,10 +541,15 @@
     "nameWoDiacritics": "Raysut",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -413,10 +560,15 @@
     "nameWoDiacritics": "Rusayl",
     "subdivision": "MA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "2332N 05811E",
+    "coordinates": {
+      "lat": 23.533333333333335,
+      "lon": 6.35
+    },
     "remarks": ""
   },
   {
@@ -427,10 +579,15 @@
     "nameWoDiacritics": "Ruwi",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -441,10 +598,15 @@
     "nameWoDiacritics": "Safa",
     "subdivision": "DA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "2347N 05641E",
+    "coordinates": {
+      "lat": 23.783333333333335,
+      "lon": 6.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -455,10 +617,16 @@
     "nameWoDiacritics": "Salalah",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -469,10 +637,15 @@
     "nameWoDiacritics": "Seeb",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "2335N 05817E",
+    "coordinates": {
+      "lat": 23.583333333333332,
+      "lon": 6.35
+    },
     "remarks": ""
   },
   {
@@ -483,10 +656,15 @@
     "nameWoDiacritics": "Shinas",
     "subdivision": "BS",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2001",
     "iata": "",
-    "coordinates": "2444N 05628E",
+    "coordinates": {
+      "lat": 24.733333333333334,
+      "lon": 6.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -497,10 +675,15 @@
     "nameWoDiacritics": "Sohar",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -511,10 +694,15 @@
     "nameWoDiacritics": "Sur",
     "subdivision": "SJ",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "2239N 05926E",
+    "coordinates": {
+      "lat": 22.65,
+      "lon": 6.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -525,10 +713,15 @@
     "nameWoDiacritics": "Sur",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -539,10 +732,16 @@
     "nameWoDiacritics": "Thumrait",
     "subdivision": "",
     "status": "RQ",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "9506",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   }
 ]

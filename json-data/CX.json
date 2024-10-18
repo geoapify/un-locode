@@ -1,44 +1,42 @@
 [
   {
-    "change": "",
     "country": "CX",
-    "location": "",
     "name": ".CHRISTMAS ISLAND",
-    "nameWoDiacritics": "",
-    "subdivision": "",
-    "status": "",
-    "function": "",
-    "date": "",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [],
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "CX",
     "location": "XCH",
     "name": "Christmas Island",
     "nameWoDiacritics": "Christmas Island",
-    "subdivision": "",
     "status": "AI",
-    "function": "---45---",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3,
+      4
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "CX",
     "location": "FFC",
     "name": "Flying Fish Cove",
     "nameWoDiacritics": "Flying Fish Cove",
-    "subdivision": "",
     "status": "RL",
-    "function": "1-------",
-    "date": "1207",
-    "iata": "",
-    "coordinates": "1025S 10543E",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 1207,
+    "coordinates": {
+      "lat": -10.416666666666666,
+      "lon": 10.9
+    }
   }
 ]

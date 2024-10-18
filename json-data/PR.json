@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Adjuntas",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,15 @@
     "nameWoDiacritics": "Aguada",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -49,10 +62,16 @@
     "nameWoDiacritics": "Aguadilla",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -63,10 +82,15 @@
     "nameWoDiacritics": "Aguas Buenas",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1815N 06606W",
+    "coordinates": {
+      "lat": 18.25,
+      "lon": 7
+    },
     "remarks": ""
   },
   {
@@ -77,10 +101,15 @@
     "nameWoDiacritics": "Aguirre",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1757N 06613W",
+    "coordinates": {
+      "lat": 17.95,
+      "lon": 7.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -91,10 +120,15 @@
     "nameWoDiacritics": "Aibonito",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1808N 06615W",
+    "coordinates": {
+      "lat": 18.133333333333333,
+      "lon": 7.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -105,10 +139,15 @@
     "nameWoDiacritics": "Anasco",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -119,10 +158,16 @@
     "nameWoDiacritics": "Arecibo",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -133,10 +178,16 @@
     "nameWoDiacritics": "Arroyo",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1758N 06604W",
+    "coordinates": {
+      "lat": 17.966666666666665,
+      "lon": 7
+    },
     "remarks": ""
   },
   {
@@ -147,10 +198,15 @@
     "nameWoDiacritics": "Barceloneta",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -161,10 +217,15 @@
     "nameWoDiacritics": "Barranquitas",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -175,10 +236,15 @@
     "nameWoDiacritics": "Bayamon",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -189,10 +255,15 @@
     "nameWoDiacritics": "Boqueron",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1801N 06710W",
+    "coordinates": {
+      "lat": 18.016666666666666,
+      "lon": 7.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -203,10 +274,16 @@
     "nameWoDiacritics": "Cabo Rojo",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0407",
     "iata": "",
-    "coordinates": "1805N 06708W",
+    "coordinates": {
+      "lat": 18.083333333333332,
+      "lon": 7.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -217,10 +294,15 @@
     "nameWoDiacritics": "Caguas",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0907",
     "iata": "",
-    "coordinates": "1814N 06603W",
+    "coordinates": {
+      "lat": 18.233333333333334,
+      "lon": 7
+    },
     "remarks": ""
   },
   {
@@ -231,10 +313,15 @@
     "nameWoDiacritics": "Camuy",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -245,10 +332,15 @@
     "nameWoDiacritics": "Canovanas",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1823N 06554W",
+    "coordinates": {
+      "lat": 18.383333333333333,
+      "lon": 6.916666666666667
+    },
     "remarks": ""
   },
   {
@@ -259,10 +351,15 @@
     "nameWoDiacritics": "Caparra Hills",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1824N 06606W",
+    "coordinates": {
+      "lat": 18.4,
+      "lon": 7
+    },
     "remarks": ""
   },
   {
@@ -273,10 +370,15 @@
     "nameWoDiacritics": "Carolina",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -287,10 +389,15 @@
     "nameWoDiacritics": "Catano",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -301,10 +408,15 @@
     "nameWoDiacritics": "Cayey",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -315,10 +427,15 @@
     "nameWoDiacritics": "Ceiba",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1814N 06537W",
+    "coordinates": {
+      "lat": 18.233333333333334,
+      "lon": 6.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -329,10 +446,15 @@
     "nameWoDiacritics": "Ciales",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "1820N 06628W",
+    "coordinates": {
+      "lat": 18.333333333333332,
+      "lon": 7.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -343,10 +465,15 @@
     "nameWoDiacritics": "Cidra",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1811N 06610W",
+    "coordinates": {
+      "lat": 18.183333333333334,
+      "lon": 7.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -357,10 +484,15 @@
     "nameWoDiacritics": "Coamo",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -371,10 +503,15 @@
     "nameWoDiacritics": "Comerio",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "1813N 06614W",
+    "coordinates": {
+      "lat": 18.216666666666665,
+      "lon": 7.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -385,10 +522,15 @@
     "nameWoDiacritics": "Corozal",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "1820N 06619W",
+    "coordinates": {
+      "lat": 18.333333333333332,
+      "lon": 7.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -399,10 +541,15 @@
     "nameWoDiacritics": "Coto Laurel",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1802N 06633W",
+    "coordinates": {
+      "lat": 18.033333333333335,
+      "lon": 7.05
+    },
     "remarks": ""
   },
   {
@@ -413,10 +560,15 @@
     "nameWoDiacritics": "Culebra",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -427,10 +579,13 @@
     "nameWoDiacritics": " San Juan\"",
     "subdivision": "\"Cupey",
     "status": " San Juan\"",
-    "function": "",
+    "function": [],
     "date": "RQ",
     "iata": "0-------",
-    "coordinates": "9307",
+    "coordinates": {
+      "lat": 93.11666666666666,
+      "lon": null
+    },
     "remarks": ""
   },
   {
@@ -441,10 +596,16 @@
     "nameWoDiacritics": "Dorado",
     "subdivision": "",
     "status": "AI",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -455,10 +616,15 @@
     "nameWoDiacritics": "Fajardo",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -469,10 +635,15 @@
     "nameWoDiacritics": "Florida",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1821N 06633W",
+    "coordinates": {
+      "lat": 18.35,
+      "lon": 7.05
+    },
     "remarks": ""
   },
   {
@@ -483,10 +654,15 @@
     "nameWoDiacritics": "Fort Buchanan",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1824N 06607W",
+    "coordinates": {
+      "lat": 18.4,
+      "lon": 7
+    },
     "remarks": ""
   },
   {
@@ -497,10 +673,15 @@
     "nameWoDiacritics": "Guabano",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -511,10 +692,15 @@
     "nameWoDiacritics": "Guanica",
     "subdivision": "",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1758N 06655W",
+    "coordinates": {
+      "lat": 17.966666666666665,
+      "lon": 7.083333333333333
+    },
     "remarks": ""
   },
   {
@@ -525,10 +711,15 @@
     "nameWoDiacritics": "Guayama",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -539,10 +730,16 @@
     "nameWoDiacritics": "Guayanilla",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "1758N 06649W",
+    "coordinates": {
+      "lat": 17.966666666666665,
+      "lon": 7.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -553,10 +750,15 @@
     "nameWoDiacritics": "Guaynabo",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -567,10 +769,15 @@
     "nameWoDiacritics": "Gurabo",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -581,10 +788,15 @@
     "nameWoDiacritics": "Hatillo",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -595,10 +807,15 @@
     "nameWoDiacritics": "Hato Rey",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -609,10 +826,15 @@
     "nameWoDiacritics": "Hato Tejas",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1824N 06611W",
+    "coordinates": {
+      "lat": 18.4,
+      "lon": 7.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -623,10 +845,15 @@
     "nameWoDiacritics": "Hormigueros",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1808N 06707W",
+    "coordinates": {
+      "lat": 18.133333333333333,
+      "lon": 7.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -637,10 +864,16 @@
     "nameWoDiacritics": "Humacao",
     "subdivision": "",
     "status": "AI",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -651,10 +884,15 @@
     "nameWoDiacritics": "Isabela",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9705",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -665,10 +903,15 @@
     "nameWoDiacritics": "Jayuya",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -679,10 +922,15 @@
     "nameWoDiacritics": "Jicome",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -693,10 +941,15 @@
     "nameWoDiacritics": "Juana Diaz",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -707,10 +960,15 @@
     "nameWoDiacritics": "Juncos",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -721,10 +979,15 @@
     "nameWoDiacritics": "Lajas",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -735,10 +998,15 @@
     "nameWoDiacritics": "Lares",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1817N 06652W",
+    "coordinates": {
+      "lat": 18.283333333333335,
+      "lon": 7.083333333333333
+    },
     "remarks": ""
   },
   {
@@ -749,10 +1017,15 @@
     "nameWoDiacritics": "Las Mareas (Guayama)",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9506",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -763,10 +1036,15 @@
     "nameWoDiacritics": "Las Marias",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1815N 06659W",
+    "coordinates": {
+      "lat": 18.25,
+      "lon": 7.083333333333333
+    },
     "remarks": ""
   },
   {
@@ -777,10 +1055,15 @@
     "nameWoDiacritics": "Las Piedras",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "1811N 06552W",
+    "coordinates": {
+      "lat": 18.183333333333334,
+      "lon": 6.916666666666667
+    },
     "remarks": ""
   },
   {
@@ -791,10 +1074,16 @@
     "nameWoDiacritics": "Las Pinas",
     "subdivision": "",
     "status": "RL",
-    "function": "--3--6--",
+    "function": [
+      2,
+      5
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "1815N 06555W",
+    "coordinates": {
+      "lat": 18.25,
+      "lon": 6.916666666666667
+    },
     "remarks": ""
   },
   {
@@ -805,10 +1094,15 @@
     "nameWoDiacritics": "Loiza",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1825N 06552W",
+    "coordinates": {
+      "lat": 18.416666666666668,
+      "lon": 6.916666666666667
+    },
     "remarks": ""
   },
   {
@@ -819,10 +1113,15 @@
     "nameWoDiacritics": "Luquillo",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -833,10 +1132,15 @@
     "nameWoDiacritics": "Manati",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "1826N 06629W",
+    "coordinates": {
+      "lat": 18.433333333333334,
+      "lon": 7.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -847,10 +1151,15 @@
     "nameWoDiacritics": "Maricao",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -861,10 +1170,15 @@
     "nameWoDiacritics": "Maunabo",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1800N 06553W",
+    "coordinates": {
+      "lat": 18,
+      "lon": 6.916666666666667
+    },
     "remarks": ""
   },
   {
@@ -875,10 +1189,16 @@
     "nameWoDiacritics": "Mayaguez",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -889,10 +1209,15 @@
     "nameWoDiacritics": "Miramar",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -903,10 +1228,15 @@
     "nameWoDiacritics": "Moca",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1824N 06707W",
+    "coordinates": {
+      "lat": 18.4,
+      "lon": 7.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -917,10 +1247,15 @@
     "nameWoDiacritics": "Morovis",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "1806N 06610W",
+    "coordinates": {
+      "lat": 18.1,
+      "lon": 7.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -931,10 +1266,15 @@
     "nameWoDiacritics": "Naguabo",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -945,10 +1285,15 @@
     "nameWoDiacritics": "Naranjito",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1818N 06614W",
+    "coordinates": {
+      "lat": 18.3,
+      "lon": 7.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -959,10 +1304,15 @@
     "nameWoDiacritics": "Noxell",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -973,10 +1323,15 @@
     "nameWoDiacritics": "Orocovis",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "1813N 06623W",
+    "coordinates": {
+      "lat": 18.216666666666665,
+      "lon": 7.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -987,10 +1342,15 @@
     "nameWoDiacritics": "Patillas",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0207",
     "iata": "",
-    "coordinates": "1800N 06600W",
+    "coordinates": {
+      "lat": 18,
+      "lon": 7
+    },
     "remarks": ""
   },
   {
@@ -1001,10 +1361,15 @@
     "nameWoDiacritics": "Penuelas",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1015,10 +1380,16 @@
     "nameWoDiacritics": "Ponce",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1029,10 +1400,15 @@
     "nameWoDiacritics": "Puerta de Tierra",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1827N 06605W",
+    "coordinates": {
+      "lat": 18.45,
+      "lon": 7
+    },
     "remarks": ""
   },
   {
@@ -1043,10 +1419,15 @@
     "nameWoDiacritics": "Puerto de Jobos",
     "subdivision": "",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1757N 06611W",
+    "coordinates": {
+      "lat": 17.95,
+      "lon": 7.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -1057,10 +1438,15 @@
     "nameWoDiacritics": "Puerto Nuevo",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1071,10 +1457,15 @@
     "nameWoDiacritics": "Puerto Yabucoa",
     "subdivision": "",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1803N 06550W",
+    "coordinates": {
+      "lat": 18.05,
+      "lon": 6.916666666666667
+    },
     "remarks": ""
   },
   {
@@ -1085,10 +1476,15 @@
     "nameWoDiacritics": "Quebradillas",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1828N 06656W",
+    "coordinates": {
+      "lat": 18.466666666666665,
+      "lon": 7.083333333333333
+    },
     "remarks": ""
   },
   {
@@ -1099,10 +1495,15 @@
     "nameWoDiacritics": "Rincon",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "1803N 06633W",
+    "coordinates": {
+      "lat": 18.05,
+      "lon": 7.05
+    },
     "remarks": ""
   },
   {
@@ -1113,10 +1514,16 @@
     "nameWoDiacritics": "Rio Grande",
     "subdivision": "",
     "status": "RL",
-    "function": "--3--6--",
+    "function": [
+      2,
+      5
+    ],
     "date": "0501",
     "iata": "",
-    "coordinates": "1822N 06549W",
+    "coordinates": {
+      "lat": 18.366666666666667,
+      "lon": 6.9
+    },
     "remarks": ""
   },
   {
@@ -1127,10 +1534,15 @@
     "nameWoDiacritics": "Rio Piedras",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1141,10 +1553,15 @@
     "nameWoDiacritics": "Roosevelt Roads",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1155,10 +1572,15 @@
     "nameWoDiacritics": "Sabana Grande",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1169,10 +1591,15 @@
     "nameWoDiacritics": "Sabana Seca",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1826N 06615W",
+    "coordinates": {
+      "lat": 18.433333333333334,
+      "lon": 7.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -1183,10 +1610,15 @@
     "nameWoDiacritics": "Salinas",
     "subdivision": "",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "1758N 06615W",
+    "coordinates": {
+      "lat": 17.966666666666665,
+      "lon": 7.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -1197,10 +1629,15 @@
     "nameWoDiacritics": "San German",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "1804N 06702W",
+    "coordinates": {
+      "lat": 18.066666666666666,
+      "lon": 7.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -1211,10 +1648,17 @@
     "nameWoDiacritics": "San Juan",
     "subdivision": "",
     "status": "AI",
-    "function": "1--45---",
+    "function": [
+      0,
+      3,
+      4
+    ],
     "date": "1101",
     "iata": "SIG",
-    "coordinates": "1827N 06605W",
+    "coordinates": {
+      "lat": 18.45,
+      "lon": 7
+    },
     "remarks": ""
   },
   {
@@ -1225,10 +1669,15 @@
     "nameWoDiacritics": "San Lorenzo",
     "subdivision": "",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1811N 06558W",
+    "coordinates": {
+      "lat": 18.183333333333334,
+      "lon": 6.916666666666667
+    },
     "remarks": ""
   },
   {
@@ -1239,10 +1688,15 @@
     "nameWoDiacritics": "San Sebastian",
     "subdivision": "",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "1818N 06658W",
+    "coordinates": {
+      "lat": 18.3,
+      "lon": 7.083333333333333
+    },
     "remarks": ""
   },
   {
@@ -1253,10 +1707,15 @@
     "nameWoDiacritics": "Santa Isabel",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "1757N 06624W",
+    "coordinates": {
+      "lat": 17.95,
+      "lon": 7.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -1267,10 +1726,15 @@
     "nameWoDiacritics": "Toa Alta",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1823N 06615W",
+    "coordinates": {
+      "lat": 18.383333333333333,
+      "lon": 7.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -1281,10 +1745,15 @@
     "nameWoDiacritics": "Toa Baja",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1295,10 +1764,15 @@
     "nameWoDiacritics": "Tottillas",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1309,10 +1783,15 @@
     "nameWoDiacritics": "Trujillo Alto",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1821N 06600W",
+    "coordinates": {
+      "lat": 18.35,
+      "lon": 7
+    },
     "remarks": ""
   },
   {
@@ -1323,10 +1802,13 @@
     "nameWoDiacritics": " Carolina\"",
     "subdivision": "\"Trujillo Bajo",
     "status": " Carolina\"",
-    "function": "",
+    "function": [],
     "date": "RL",
     "iata": "--3--6--",
-    "coordinates": "0501",
+    "coordinates": {
+      "lat": 5.016666666666667,
+      "lon": null
+    },
     "remarks": ""
   },
   {
@@ -1337,10 +1819,15 @@
     "nameWoDiacritics": "Utuado",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1816N 06642W",
+    "coordinates": {
+      "lat": 18.266666666666666,
+      "lon": 7.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1351,10 +1838,15 @@
     "nameWoDiacritics": "Vega Alta",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1365,10 +1857,15 @@
     "nameWoDiacritics": "Vega Baja",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1379,10 +1876,15 @@
     "nameWoDiacritics": "Vieques",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1393,10 +1895,15 @@
     "nameWoDiacritics": "Villalba",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1807N 06629W",
+    "coordinates": {
+      "lat": 18.116666666666667,
+      "lon": 7.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -1407,10 +1914,15 @@
     "nameWoDiacritics": "Yabucoa",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1421,10 +1933,15 @@
     "nameWoDiacritics": "Yauco",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   }
 ]

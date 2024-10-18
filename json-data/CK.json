@@ -1,170 +1,183 @@
 [
   {
-    "change": "",
     "country": "CK",
-    "location": "",
     "name": ".COOK ISLANDS",
-    "nameWoDiacritics": "",
-    "subdivision": "",
-    "status": "",
-    "function": "",
-    "date": "",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [],
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "CK",
     "location": "AIT",
     "name": "Aitutaki",
     "nameWoDiacritics": "Aitutaki",
-    "subdivision": "",
     "status": "AI",
-    "function": "1--45---",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0,
+      3,
+      4
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "CK",
     "location": "ARU",
     "name": "Arutunga",
     "nameWoDiacritics": "Arutunga",
-    "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
-    "date": "9506",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 9506,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "CK",
     "location": "AIU",
     "name": "Atiu",
     "nameWoDiacritics": "Atiu",
-    "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0,
+      3
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "CK",
     "location": "AVA",
     "name": "Avarua",
     "nameWoDiacritics": "Avarua",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0201",
-    "iata": "",
-    "coordinates": "2111S 15946W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 201,
+    "coordinates": {
+      "lat": -21.183333333333334,
+      "lon": 16.566666666666666
+    }
   },
   {
-    "change": "",
     "country": "CK",
     "location": "MGS",
     "name": "Mangaia",
     "nameWoDiacritics": "Mangaia",
-    "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0,
+      3
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "CK",
     "location": "MHX",
     "name": "Manihiki Island",
     "nameWoDiacritics": "Manihiki Island",
-    "subdivision": "",
     "status": "RL",
-    "function": "---4----",
-    "date": "0907",
-    "iata": "",
-    "coordinates": "1022S 16100W",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 907,
+    "coordinates": {
+      "lat": -10.366666666666667,
+      "lon": 16.166666666666668
+    }
   },
   {
-    "change": "",
     "country": "CK",
     "location": "MUK",
     "name": "Mauke Island",
     "nameWoDiacritics": "Mauke Island",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "CK",
     "location": "MOI",
     "name": "Mitiaro Island",
     "nameWoDiacritics": "Mitiaro Island",
-    "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0,
+      3
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "CK",
     "location": "PYE",
     "name": "Penrhyn Island",
     "nameWoDiacritics": "Penrhyn Island",
-    "subdivision": "",
     "status": "RL",
-    "function": "---4----",
-    "date": "0907",
-    "iata": "",
-    "coordinates": "0901S 15802W",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 907,
+    "coordinates": {
+      "lat": -9.016666666666667,
+      "lon": 16.333333333333332
+    }
   },
   {
-    "change": "",
     "country": "CK",
     "location": "PZK",
     "name": "Puka Puka Island",
     "nameWoDiacritics": "Puka Puka Island",
-    "subdivision": "",
     "status": "RL",
-    "function": "---4----",
-    "date": "0907",
-    "iata": "",
-    "coordinates": "5803N 02614E",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 907,
+    "coordinates": {
+      "lat": 58.05,
+      "lon": 3.0166666666666666
+    }
   },
   {
-    "change": "",
     "country": "CK",
     "location": "RAR",
     "name": "Rarotonga",
     "nameWoDiacritics": "Rarotonga",
-    "subdivision": "",
     "status": "AI",
-    "function": "1--45---",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0,
+      3,
+      4
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   }
 ]

@@ -1,2215 +1,2486 @@
 [
   {
-    "change": "",
     "country": "BG",
-    "location": "",
     "name": ".BULGARIA",
-    "nameWoDiacritics": "",
-    "subdivision": "",
-    "status": "",
-    "function": "",
-    "date": "",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [],
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "AIO",
     "name": "Aitos",
     "nameWoDiacritics": "Aitos",
-    "subdivision": "02",
+    "subdivision": 2,
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4243N 02715E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 42.71666666666667,
+      "lon": 3.1833333333333336
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "AKH",
     "name": "Akhtopol",
     "nameWoDiacritics": "Akhtopol",
-    "subdivision": "",
     "status": "RL",
-    "function": "1-------",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "4206N 02757E",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": 42.1,
+      "lon": 3.25
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "ASA",
     "name": "Aksakovo",
     "nameWoDiacritics": "Aksakovo",
-    "subdivision": "03",
+    "subdivision": 3,
     "status": "RL",
-    "function": "--3-----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4315N 02749E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 43.25,
+      "lon": 3.2333333333333334
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "ATL",
     "name": "Altimir",
     "nameWoDiacritics": "Altimir",
-    "subdivision": "06",
+    "subdivision": 6,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4332N 02349E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 43.53333333333333,
+      "lon": 2.5666666666666664
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "API",
     "name": "Apriltsi",
     "nameWoDiacritics": "Apriltsi",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0701",
-    "iata": "",
-    "coordinates": "4219N 02417E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 701,
+    "coordinates": {
+      "lat": 42.31666666666667,
+      "lon": 2.6833333333333336
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "ARD",
     "name": "Ardino",
     "nameWoDiacritics": "Ardino",
-    "subdivision": "21",
+    "subdivision": 21,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4135N 02508E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 41.583333333333336,
+      "lon": 2.8333333333333335
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "AND",
     "name": "Asenovgrad",
     "nameWoDiacritics": "Asenovgrad",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "AYT",
     "name": "Aytos",
     "nameWoDiacritics": "Aytos",
-    "subdivision": "02",
+    "subdivision": 2,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4242N 02715E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 42.7,
+      "lon": 3.1833333333333336
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BAL",
     "name": "Balchik",
     "nameWoDiacritics": "Balchik",
-    "subdivision": "",
     "status": "RL",
-    "function": "1-------",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "4325N 02810E",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": 43.416666666666664,
+      "lon": 3.35
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BVO",
     "name": "Banevo",
     "nameWoDiacritics": "Banevo",
-    "subdivision": "02",
+    "subdivision": 2,
     "status": "RL",
-    "function": "--3-----",
-    "date": "0407",
-    "iata": "",
-    "coordinates": "4238N 02724E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 407,
+    "coordinates": {
+      "lat": 42.63333333333333,
+      "lon": 3.2
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BTE",
     "name": "Banite",
     "nameWoDiacritics": "Banite",
-    "subdivision": "21",
+    "subdivision": 21,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "4137N 02501E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": 41.61666666666667,
+      "lon": 2.8333333333333335
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BAK",
     "name": "Bankya",
     "nameWoDiacritics": "Bankya",
-    "subdivision": "23",
+    "subdivision": 23,
     "status": "RQ",
-    "function": "-----6--",
-    "date": "0907",
-    "iata": "",
-    "coordinates": "4242N 02308E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 907,
+    "coordinates": {
+      "lat": 42.7,
+      "lon": 2.5
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BAN",
     "name": "Bankya",
     "nameWoDiacritics": "Bankya",
-    "subdivision": "14",
+    "subdivision": 14,
     "status": "RQ",
-    "function": "-----6--",
-    "date": "0907",
-    "iata": "",
-    "coordinates": "4251N 02240E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 907,
+    "coordinates": {
+      "lat": 42.85,
+      "lon": 2.4
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BAO",
     "name": "Bansko",
     "nameWoDiacritics": "Bansko",
-    "subdivision": "23",
+    "subdivision": 23,
     "status": "RL",
-    "function": "-23-----",
-    "date": "0407",
-    "iata": "",
-    "coordinates": "4150N 02330E",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 407,
+    "coordinates": {
+      "lat": 41.833333333333336,
+      "lon": 2.55
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BBA",
     "name": "Bata",
     "nameWoDiacritics": "Bata",
-    "subdivision": "02",
+    "subdivision": 2,
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4244N 02730E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 42.733333333333334,
+      "lon": 3.216666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BAT",
     "name": "Batak",
     "nameWoDiacritics": "Batak",
-    "subdivision": "13",
+    "subdivision": 13,
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4157N 02413E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 41.95,
+      "lon": 2.6833333333333336
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BLE",
     "name": "Belene",
     "nameWoDiacritics": "Belene",
-    "subdivision": "15",
+    "subdivision": 15,
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4339N 02507E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 43.65,
+      "lon": 2.8333333333333335
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BEL",
     "name": "Belitsa",
     "nameWoDiacritics": "Belitsa",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0701",
-    "iata": "",
-    "coordinates": "4157N 02333E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 701,
+    "coordinates": {
+      "lat": 41.95,
+      "lon": 2.55
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BBK",
     "name": "Belogradchik",
     "nameWoDiacritics": "Belogradchik",
-    "subdivision": "05",
+    "subdivision": 5,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4337N 02241E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 43.61666666666667,
+      "lon": 2.4
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BDK",
     "name": "Belogradchik",
     "nameWoDiacritics": "Belogradchik",
-    "subdivision": "05",
+    "subdivision": 5,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4337N 02241E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 43.61666666666667,
+      "lon": 2.4
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BEV",
     "name": "Beloslav",
     "nameWoDiacritics": "Beloslav",
-    "subdivision": "03",
+    "subdivision": 3,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4311N 02742E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 43.18333333333333,
+      "lon": 3.2333333333333334
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BPK",
     "name": "Belovo",
     "nameWoDiacritics": "Belovo",
-    "subdivision": "13",
+    "subdivision": 13,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4213N 02401E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 42.21666666666667,
+      "lon": 2.6666666666666665
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BYK",
     "name": "Belyakovets",
     "nameWoDiacritics": "Belyakovets",
-    "subdivision": "04",
+    "subdivision": 4,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1807",
-    "iata": "",
-    "coordinates": "4306N 02535E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1807,
+    "coordinates": {
+      "lat": 43.1,
+      "lon": 2.8833333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BEN",
     "name": "Benkovski",
     "nameWoDiacritics": "Benkovski",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "RL",
-    "function": "--3-----",
-    "date": "2001",
-    "iata": "",
-    "coordinates": "4213N 02439E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2001,
+    "coordinates": {
+      "lat": 42.21666666666667,
+      "lon": 2.716666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BRK",
     "name": "Berkovitza",
     "nameWoDiacritics": "Berkovitza",
-    "subdivision": "",
     "status": "RQ",
-    "function": "-23-----",
-    "date": "9705",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 9705,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "VBS",
     "name": "Bjala Slatina",
     "nameWoDiacritics": "Bjala Slatina",
-    "subdivision": "06",
+    "subdivision": 6,
     "status": "RL",
-    "function": "--3--6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2,
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BLN",
     "name": "Blagoevgrad",
     "nameWoDiacritics": "Blagoevgrad",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "4201N 02306E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": 42.016666666666666,
+      "lon": 2.5
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BRV",
     "name": "Borovo",
     "nameWoDiacritics": "Borovo",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0307",
-    "iata": "",
-    "coordinates": "4330N 02548E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 307,
+    "coordinates": {
+      "lat": 43.5,
+      "lon": 2.9
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BRF",
     "name": "Botevgrad",
     "nameWoDiacritics": "Botevgrad",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BOZ",
     "name": "Bozhurishte",
     "nameWoDiacritics": "Bozhurishte",
-    "subdivision": "22",
+    "subdivision": 22,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1401",
-    "iata": "",
-    "coordinates": "4245N 02312E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1401,
+    "coordinates": {
+      "lat": 42.75,
+      "lon": 2.5166666666666666
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "VTG",
     "name": "Bratsigovo",
     "nameWoDiacritics": "Bratsigovo",
-    "subdivision": "13",
+    "subdivision": 13,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4201N 02422E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 42.016666666666666,
+      "lon": 2.7
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BRE",
     "name": "Bregovo",
     "nameWoDiacritics": "Bregovo",
-    "subdivision": "",
     "status": "QQ",
-    "function": "--3-----",
-    "date": "8201",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 8201,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BRS",
     "name": "Brestak",
     "nameWoDiacritics": "Brestak",
-    "subdivision": "03",
+    "subdivision": 3,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1807",
-    "iata": "",
-    "coordinates": "4327N 02732E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1807,
+    "coordinates": {
+      "lat": 43.45,
+      "lon": 3.216666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BTV",
     "name": "Brestovets",
     "nameWoDiacritics": "Brestovets",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0701",
-    "iata": "",
-    "coordinates": "4321N 02436E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 701,
+    "coordinates": {
+      "lat": 43.35,
+      "lon": 2.716666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BRZ",
     "name": "Breznik",
     "nameWoDiacritics": "Breznik",
-    "subdivision": "02",
+    "subdivision": 2,
     "status": "RQ",
-    "function": "--3-----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BDB",
     "name": "Bulgarevo",
     "nameWoDiacritics": "Bulgarevo",
-    "subdivision": "08",
+    "subdivision": 8,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4324N 02825E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 43.4,
+      "lon": 3.3666666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BOJ",
     "name": "Burgas",
     "nameWoDiacritics": "Burgas",
-    "subdivision": "",
     "status": "AC",
-    "function": "1-------",
-    "date": "8201",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 8201,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BUZ",
     "name": "Buzovgrad",
     "nameWoDiacritics": "Buzovgrad",
-    "subdivision": "24",
+    "subdivision": 24,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "4234N 02522E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": 42.56666666666667,
+      "lon": 2.8666666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BYA",
     "name": "Byala",
     "nameWoDiacritics": "Byala",
-    "subdivision": "18",
+    "subdivision": 18,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4327N 02544E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 43.45,
+      "lon": 2.9
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BYL",
     "name": "Byala",
     "nameWoDiacritics": "Byala",
-    "subdivision": "03",
+    "subdivision": 3,
     "status": "RL",
-    "function": "--3-----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "VT4",
     "name": "Byala Cherkva",
     "nameWoDiacritics": "Byala Cherkva",
-    "subdivision": "04",
+    "subdivision": 4,
     "status": "RL",
-    "function": "1-3-----",
-    "date": "1401",
-    "iata": "",
-    "coordinates": "4312N 02518E",
-    "remarks": ""
+    "function": [
+      0,
+      2
+    ],
+    "date": 1401,
+    "coordinates": {
+      "lat": 43.2,
+      "lon": 2.85
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BSL",
     "name": "Byala Slatina",
     "nameWoDiacritics": "Byala Slatina",
-    "subdivision": "",
     "status": "RL",
-    "function": "123-----",
-    "date": "0601",
-    "iata": "",
-    "coordinates": "4328N 02357E",
-    "remarks": ""
+    "function": [
+      0,
+      1,
+      2
+    ],
+    "date": 601,
+    "coordinates": {
+      "lat": 43.46666666666667,
+      "lon": 2.5833333333333335
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "CHR",
     "name": "Chakalarevo",
     "nameWoDiacritics": "Chakalarevo",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0601",
-    "iata": "",
-    "coordinates": "4117N 02517E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 601,
+    "coordinates": {
+      "lat": 41.28333333333333,
+      "lon": 2.85
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "OCH",
     "name": "Chelopech",
     "nameWoDiacritics": "Chelopech",
-    "subdivision": "23",
+    "subdivision": 23,
     "status": "RQ",
-    "function": "-----6--",
-    "date": "1001",
-    "iata": "",
-    "coordinates": "4242N 02405E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 1001,
+    "coordinates": {
+      "lat": 42.7,
+      "lon": 2.6666666666666665
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "CHL",
     "name": "Chelopechene",
     "nameWoDiacritics": "Chelopechene",
-    "subdivision": "08",
+    "subdivision": 8,
     "status": "RL",
-    "function": "--3-----",
-    "date": "2001",
-    "iata": "",
-    "coordinates": "4333N 02819E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2001,
+    "coordinates": {
+      "lat": 43.55,
+      "lon": 3.35
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "CPA",
     "name": "Chepelare",
     "nameWoDiacritics": "Chepelare",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "CHE",
     "name": "Chepintsi",
     "nameWoDiacritics": "Chepintsi",
-    "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
-    "date": "0701",
-    "iata": "",
-    "coordinates": "4246N 02326E",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 701,
+    "coordinates": {
+      "lat": 42.766666666666666,
+      "lon": 2.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "VCA",
     "name": "Chernook",
     "nameWoDiacritics": "Chernook",
-    "subdivision": "03",
+    "subdivision": 3,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4308N 02713E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 43.13333333333333,
+      "lon": 3.1833333333333336
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "CHV",
     "name": "Cherven Bryag",
     "nameWoDiacritics": "Cherven Bryag",
-    "subdivision": "15",
+    "subdivision": 15,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1707",
-    "iata": "",
-    "coordinates": "4316N 02404E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1707,
+    "coordinates": {
+      "lat": 43.266666666666666,
+      "lon": 2.6666666666666665
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "CPW",
     "name": "Chirpan",
     "nameWoDiacritics": "Chirpan",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BCP",
     "name": "Chomakovtsi",
     "nameWoDiacritics": "Chomakovtsi",
-    "subdivision": "15",
+    "subdivision": 15,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4319N 02404E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 43.31666666666667,
+      "lon": 2.6666666666666665
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "CHU",
     "name": "Churukovo",
     "nameWoDiacritics": "Churukovo",
-    "subdivision": "21",
+    "subdivision": 21,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4151N 02426E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 41.85,
+      "lon": 2.7
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DBD",
     "name": "Damyanitsa",
     "nameWoDiacritics": "Damyanitsa",
-    "subdivision": "01",
+    "subdivision": 1,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4131N 02316E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 41.516666666666666,
+      "lon": 2.5166666666666666
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DBS",
     "name": "Debelec",
     "nameWoDiacritics": "Debelec",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DEL",
     "name": "Debelt",
     "nameWoDiacritics": "Debelt",
-    "subdivision": "02",
+    "subdivision": 2,
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4224N 02716E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 42.4,
+      "lon": 3.1833333333333336
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DLC",
     "name": "Delchevo",
     "nameWoDiacritics": "Delchevo",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "4133N 02342E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": 41.55,
+      "lon": 2.5666666666666664
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DEV",
     "name": "Devin",
     "nameWoDiacritics": "Devin",
-    "subdivision": "21",
+    "subdivision": 21,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4144N 02424E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 41.733333333333334,
+      "lon": 2.7
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DNJ",
     "name": "Devnya",
     "nameWoDiacritics": "Devnya",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DTG",
     "name": "Dimitrovgrad",
     "nameWoDiacritics": "Dimitrovgrad",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DOD",
     "name": "Dobrich",
     "nameWoDiacritics": "Dobrich",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DBR",
     "name": "Dobroslavtsi",
     "nameWoDiacritics": "Dobroslavtsi",
-    "subdivision": "23",
+    "subdivision": 23,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "4249N 02317E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": 42.81666666666667,
+      "lon": 2.5166666666666666
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DBA",
     "name": "Dobrotitsa",
     "nameWoDiacritics": "Dobrotitsa",
-    "subdivision": "19",
+    "subdivision": 19,
     "status": "AM",
-    "function": "--3-----",
-    "date": "2207",
-    "iata": "",
-    "coordinates": "4357N 02701E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2207,
+    "coordinates": {
+      "lat": 43.95,
+      "lon": 3.166666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DOB",
     "name": "Dolna Banya",
     "nameWoDiacritics": "Dolna Banya",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4218N 02346E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 42.3,
+      "lon": 2.5666666666666664
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "YMP",
     "name": "Dolna Mitropoliya",
     "nameWoDiacritics": "Dolna Mitropoliya",
-    "subdivision": "15",
+    "subdivision": 15,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4328N 02432E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 43.46666666666667,
+      "lon": 2.716666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DKC",
     "name": "Dolna Oryakhovitsa",
     "nameWoDiacritics": "Dolna Oryakhovitsa",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "4310N 02544E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": 43.166666666666664,
+      "lon": 2.9
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DOC",
     "name": "Dolni Chiflik",
     "nameWoDiacritics": "Dolni Chiflik",
-    "subdivision": "03",
+    "subdivision": 3,
     "status": "RL",
-    "function": "--3-----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4259N 02743E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 42.983333333333334,
+      "lon": 3.2333333333333334
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KBD",
     "name": "Dolni Dabnik",
     "nameWoDiacritics": "Dolni Dabnik",
-    "subdivision": "15",
+    "subdivision": 15,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4324N 02426E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 43.4,
+      "lon": 2.7
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DSP",
     "name": "Dospat",
     "nameWoDiacritics": "Dospat",
-    "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
-    "date": "9705",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 9705,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DAO",
     "name": "Draginovo",
     "nameWoDiacritics": "Draginovo",
-    "subdivision": "13",
+    "subdivision": 13,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1801",
-    "iata": "",
-    "coordinates": "4204N 02401E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1801,
+    "coordinates": {
+      "lat": 42.06666666666667,
+      "lon": 2.6666666666666665
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DMN",
     "name": "Dragoman",
     "nameWoDiacritics": "Dragoman",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "VRN",
     "name": "Drenov",
     "nameWoDiacritics": "Drenov",
-    "subdivision": "11",
+    "subdivision": 11,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4317N 02451E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 43.28333333333333,
+      "lon": 2.75
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DRV",
     "name": "Drenovets",
     "nameWoDiacritics": "Drenovets",
-    "subdivision": "05",
+    "subdivision": 5,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1801",
-    "iata": "",
-    "coordinates": "4341N 02258E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1801,
+    "coordinates": {
+      "lat": 43.68333333333333,
+      "lon": 2.4166666666666665
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DNV",
     "name": "Dryanovo",
     "nameWoDiacritics": "Dryanovo",
-    "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
-    "date": "0607",
-    "iata": "",
-    "coordinates": "4259N 02529E",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 607,
+    "coordinates": {
+      "lat": 42.983333333333334,
+      "lon": 2.8666666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DLV",
     "name": "Dulovo",
     "nameWoDiacritics": "Dulovo",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DNI",
     "name": "Dunavtsi",
     "nameWoDiacritics": "Dunavtsi",
-    "subdivision": "24",
+    "subdivision": 24,
     "status": "AM",
-    "function": "-23-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "4239N 02518E",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 42.65,
+      "lon": 2.85
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DUP",
     "name": "Dupnica",
     "nameWoDiacritics": "Dupnica",
-    "subdivision": "",
     "status": "AA",
-    "function": "-23-----",
-    "date": "1007",
-    "iata": "",
-    "coordinates": "4216N 02307E",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 1007,
+    "coordinates": {
+      "lat": 42.266666666666666,
+      "lon": 2.5
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DKO",
     "name": "Durankulak",
     "nameWoDiacritics": "Durankulak",
-    "subdivision": "",
     "status": "AC",
-    "function": "--3-----",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "4342N 02831E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": 43.7,
+      "lon": 3.3833333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DBL",
     "name": "Dzhebel",
     "nameWoDiacritics": "Dzhebel",
-    "subdivision": "09",
+    "subdivision": 9,
     "status": "AM",
-    "function": "--3-----",
-    "date": "2207",
-    "iata": "",
-    "coordinates": "4130N 02518E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2207,
+    "coordinates": {
+      "lat": 41.5,
+      "lon": 2.85
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "ELE",
     "name": "Elena",
     "nameWoDiacritics": "Elena",
-    "subdivision": "04",
+    "subdivision": 4,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4256N 02553E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 42.93333333333333,
+      "lon": 2.9166666666666665
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "ELH",
     "name": "Elhovo",
     "nameWoDiacritics": "Elhovo",
-    "subdivision": "28",
+    "subdivision": 28,
     "status": "RL",
-    "function": "--3-----",
-    "date": "2001",
-    "iata": "",
-    "coordinates": "4210N 02634E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2001,
+    "coordinates": {
+      "lat": 42.166666666666664,
+      "lon": 3.05
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "EPE",
     "name": "Elin Pelin",
     "nameWoDiacritics": "Elin Pelin",
-    "subdivision": "23",
+    "subdivision": 23,
     "status": "RL",
-    "function": "--3-----",
-    "date": "0407",
-    "iata": "",
-    "coordinates": "4240N 02336E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 407,
+    "coordinates": {
+      "lat": 42.666666666666664,
+      "lon": 2.55
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "EHO",
     "name": "Elkhovo",
     "nameWoDiacritics": "Elkhovo",
-    "subdivision": "28",
+    "subdivision": 28,
     "status": "RL",
-    "function": "-23-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4210N 02634E",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 42.166666666666664,
+      "lon": 3.05
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "ETS",
     "name": "Etropole",
     "nameWoDiacritics": "Etropole",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "FOT",
     "name": "Fotinovo",
     "nameWoDiacritics": "Fotinovo",
-    "subdivision": "13",
+    "subdivision": 13,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4153N 02421E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 41.88333333333333,
+      "lon": 2.7
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "GAV",
     "name": "Gabrovo",
     "nameWoDiacritics": "Gabrovo",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "GAL",
     "name": "Galabovo",
     "nameWoDiacritics": "Galabovo",
-    "subdivision": "24",
+    "subdivision": 24,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4208N 02551E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 42.13333333333333,
+      "lon": 2.9166666666666665
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DA3",
     "name": "Garmen",
     "nameWoDiacritics": "Garmen",
-    "subdivision": "01",
+    "subdivision": 1,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4136N 02349E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 41.6,
+      "lon": 2.5666666666666664
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "TOS",
     "name": "General-Toshevo",
     "nameWoDiacritics": "General-Toshevo",
-    "subdivision": "08",
+    "subdivision": 8,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4342N 02802E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 43.7,
+      "lon": 3.333333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "GOD",
     "name": "Godech",
     "nameWoDiacritics": "Godech",
-    "subdivision": "22",
+    "subdivision": 22,
     "status": "RL",
-    "function": "-----6--",
-    "date": "1107",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 1107,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "GOL",
     "name": "Golyamo Chochoveni",
     "nameWoDiacritics": "Golyamo Chochoveni",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0701",
-    "iata": "",
-    "coordinates": "4240N 02609E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 701,
+    "coordinates": {
+      "lat": 42.666666666666664,
+      "lon": 3
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "GOV",
     "name": "Gorna Oryahovica",
     "nameWoDiacritics": "Gorna Oryahovica",
-    "subdivision": "04",
+    "subdivision": 4,
     "status": "AA",
-    "function": "--3-----",
-    "date": "1007",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1007,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "GOZ",
     "name": "Gorna Oryakhovitsa",
     "nameWoDiacritics": "Gorna Oryakhovitsa",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "4308N 02542E",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": 43.13333333333333,
+      "lon": 2.9
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "GB4",
     "name": "Gorublyane",
     "nameWoDiacritics": "Gorublyane",
-    "subdivision": "23",
+    "subdivision": 23,
     "status": "RL",
-    "function": "-23-----",
-    "date": "1407",
-    "iata": "",
-    "coordinates": "4238N 02324E",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 1407,
+    "coordinates": {
+      "lat": 42.63333333333333,
+      "lon": 2.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "GDU",
     "name": "Gotse Delchev",
     "nameWoDiacritics": "Gotse Delchev",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0201",
-    "iata": "",
-    "coordinates": "4135N 02344E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 201,
+    "coordinates": {
+      "lat": 41.583333333333336,
+      "lon": 2.5666666666666664
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "RAN",
     "name": "Grancharovo",
     "nameWoDiacritics": "Grancharovo",
-    "subdivision": "19",
+    "subdivision": 19,
     "status": "RL",
-    "function": "--3-----",
-    "date": "2001",
-    "iata": "",
-    "coordinates": "4343N 02707E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2001,
+    "coordinates": {
+      "lat": 43.71666666666667,
+      "lon": 3.166666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "GRU",
     "name": "Gruevo",
     "nameWoDiacritics": "Gruevo",
-    "subdivision": "09",
+    "subdivision": 9,
     "status": "RL",
-    "function": "--3-----",
-    "date": "2001",
-    "iata": "",
-    "coordinates": "4134N 02525E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2001,
+    "coordinates": {
+      "lat": 41.56666666666667,
+      "lon": 2.8666666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "GUR",
     "name": "Gurkovo",
     "nameWoDiacritics": "Gurkovo",
-    "subdivision": "24",
+    "subdivision": 24,
     "status": "RL",
-    "function": "123-----",
-    "date": "1401",
-    "iata": "",
-    "coordinates": "4239N 02547E",
-    "remarks": ""
+    "function": [
+      0,
+      1,
+      2
+    ],
+    "date": 1401,
+    "coordinates": {
+      "lat": 42.65,
+      "lon": 2.9
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "GJE",
     "name": "Gyueshevo",
     "nameWoDiacritics": "Gyueshevo",
-    "subdivision": "",
     "status": "RL",
-    "function": "-23----B",
-    "date": "0207",
-    "iata": "",
-    "coordinates": "4214N 02229E",
-    "remarks": ""
+    "function": [],
+    "date": 207,
+    "coordinates": {
+      "lat": 42.233333333333334,
+      "lon": 2.3666666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "HRM",
     "name": "Harmanli",
     "nameWoDiacritics": "Harmanli",
-    "subdivision": "26",
+    "subdivision": 26,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1207",
-    "iata": "",
-    "coordinates": "4156N 02554E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1207,
+    "coordinates": {
+      "lat": 41.93333333333333,
+      "lon": 2.9166666666666665
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "HKV",
     "name": "Haskovo",
     "nameWoDiacritics": "Haskovo",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9912",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9912,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "XCR",
     "name": "Hisarya",
     "nameWoDiacritics": "Hisarya",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1501",
-    "iata": "",
-    "coordinates": "4230N 02442E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1501,
+    "coordinates": {
+      "lat": 42.5,
+      "lon": 2.7333333333333334
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "IAB",
     "name": "Iablanitsa",
     "nameWoDiacritics": "Iablanitsa",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4303N 02411E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 43.05,
+      "lon": 2.6833333333333336
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "4IG",
     "name": "Ignatievo",
     "nameWoDiacritics": "Ignatievo",
-    "subdivision": "03",
+    "subdivision": 3,
     "status": "RL",
-    "function": "1-3-----",
-    "date": "1407",
-    "iata": "",
-    "coordinates": "4315N 02746E",
-    "remarks": ""
+    "function": [
+      0,
+      2
+    ],
+    "date": 1407,
+    "coordinates": {
+      "lat": 43.25,
+      "lon": 3.2333333333333334
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "IHT",
     "name": "Ikhtiman",
     "nameWoDiacritics": "Ikhtiman",
-    "subdivision": "23",
+    "subdivision": 23,
     "status": "RL",
-    "function": "--3-----",
-    "date": "0501",
-    "iata": "",
-    "coordinates": "4226N 02349E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 501,
+    "coordinates": {
+      "lat": 42.43333333333333,
+      "lon": 2.5666666666666664
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "IOV",
     "name": "Iovkovo",
     "nameWoDiacritics": "Iovkovo",
-    "subdivision": "",
     "status": "QQ",
-    "function": "--3-----",
-    "date": "8201",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 8201,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "ISK",
     "name": "Iskar",
     "nameWoDiacritics": "Iskar",
-    "subdivision": "03",
+    "subdivision": 3,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4323N 02729E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 43.38333333333333,
+      "lon": 3.2
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "ISP",
     "name": "Isperih",
     "nameWoDiacritics": "Isperih",
-    "subdivision": "17",
+    "subdivision": 17,
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4371N 02683E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 44.18333333333333,
+      "lon": 3.1333333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "IPR",
     "name": "Isperikh",
     "nameWoDiacritics": "Isperikh",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "IVL",
     "name": "Ivailovgrad",
     "nameWoDiacritics": "Ivailovgrad",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "JAM",
     "name": "Jambol",
     "nameWoDiacritics": "Jambol",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9912",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9912,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KAV",
     "name": "Kalipetrovo",
     "nameWoDiacritics": "Kalipetrovo",
-    "subdivision": "19",
+    "subdivision": 19,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "4405N 02714E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": 44.083333333333336,
+      "lon": 3.1833333333333336
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KAL",
     "name": "Kalotina",
     "nameWoDiacritics": "Kalotina",
-    "subdivision": "",
     "status": "QQ",
-    "function": "--3-----",
-    "date": "8201",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 8201,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KMN",
     "name": "Kameno",
     "nameWoDiacritics": "Kameno",
-    "subdivision": "02",
+    "subdivision": 2,
     "status": "AM",
-    "function": "--3-----",
-    "date": "2207",
-    "iata": "",
-    "coordinates": "4234N 02718E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2207,
+    "coordinates": {
+      "lat": 42.56666666666667,
+      "lon": 3.1833333333333336
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KAO",
     "name": "Kaolinovo",
     "nameWoDiacritics": "Kaolinovo",
-    "subdivision": "27",
+    "subdivision": 27,
     "status": "AM",
-    "function": "--3-----",
-    "date": "2201",
-    "iata": "",
-    "coordinates": "4337N 02707E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2201,
+    "coordinates": {
+      "lat": 43.61666666666667,
+      "lon": 3.166666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KAN",
     "name": "Kapitan-Andreevo",
     "nameWoDiacritics": "Kapitan-Andreevo",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "4143N 02619E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": 41.71666666666667,
+      "lon": 3.0166666666666666
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KAP",
     "name": "Kapitanovtsi",
     "nameWoDiacritics": "Kapitanovtsi",
-    "subdivision": "05",
+    "subdivision": 5,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1701",
-    "iata": "",
-    "coordinates": "4402N 02252E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1701,
+    "coordinates": {
+      "lat": 44.03333333333333,
+      "lon": 2.4166666666666665
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BKR",
     "name": "Karabunar",
     "nameWoDiacritics": "Karabunar",
-    "subdivision": "13",
+    "subdivision": 13,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4216N 02410E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 42.266666666666666,
+      "lon": 2.6833333333333336
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KAR",
     "name": "Kardam",
     "nameWoDiacritics": "Kardam",
-    "subdivision": "",
     "status": "QQ",
-    "function": "-2------",
-    "date": "8201",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      1
+    ],
+    "date": 8201,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KRM",
     "name": "Kardzali",
     "nameWoDiacritics": "Kardzali",
-    "subdivision": "26",
+    "subdivision": 26,
     "status": "RL",
-    "function": "--3-----",
-    "date": "0501",
-    "iata": "",
-    "coordinates": "4138N 02522E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 501,
+    "coordinates": {
+      "lat": 41.63333333333333,
+      "lon": 2.8666666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KVO",
     "name": "Karlovo",
     "nameWoDiacritics": "Karlovo",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KBT",
     "name": "Karnobat",
     "nameWoDiacritics": "Karnobat",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0607",
-    "iata": "",
-    "coordinates": "4639N 02659E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 607,
+    "coordinates": {
+      "lat": 46.65,
+      "lon": 3.083333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KPH",
     "name": "Kaspichan",
     "nameWoDiacritics": "Kaspichan",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KAT",
     "name": "Katunitza",
     "nameWoDiacritics": "Katunitza",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "AA",
-    "function": "--3-----",
-    "date": "1007",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1007,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KVN",
     "name": "Kavarna",
     "nameWoDiacritics": "Kavarna",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0307",
-    "iata": "",
-    "coordinates": "4326N 02820E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 307,
+    "coordinates": {
+      "lat": 43.43333333333333,
+      "lon": 3.3666666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "ZHA",
     "name": "Kaynardzha",
     "nameWoDiacritics": "Kaynardzha",
-    "subdivision": "19",
+    "subdivision": 19,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4359N 02730E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 43.983333333333334,
+      "lon": 3.216666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KZK",
     "name": "Kazanlak",
     "nameWoDiacritics": "Kazanlak",
-    "subdivision": "24",
+    "subdivision": 24,
     "status": "AA",
-    "function": "--3-----",
-    "date": "1007",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1007,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KZN",
     "name": "Kazanluk",
     "nameWoDiacritics": "Kazanluk",
-    "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
-    "date": "9705",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 9705,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KAZ",
     "name": "Kazichene",
     "nameWoDiacritics": "Kazichene",
-    "subdivision": "23",
+    "subdivision": 23,
     "status": "RL",
-    "function": "--3-----",
-    "date": "0907",
-    "iata": "",
-    "coordinates": "4240N 02328E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 907,
+    "coordinates": {
+      "lat": 42.666666666666664,
+      "lon": 2.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "RKM",
     "name": "Kermen",
     "nameWoDiacritics": "Kermen",
-    "subdivision": "20",
+    "subdivision": 20,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4230N 02615E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 42.5,
+      "lon": 3.0166666666666666
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KHK",
     "name": "Khan Krum",
     "nameWoDiacritics": "Khan Krum",
-    "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "HMI",
     "name": "Kharmanli",
     "nameWoDiacritics": "Kharmanli",
-    "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
-    "date": "0507",
-    "iata": "",
-    "coordinates": "4156N 02554E",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 507,
+    "coordinates": {
+      "lat": 41.93333333333333,
+      "lon": 2.9166666666666665
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KHO",
     "name": "Khaskovo",
     "nameWoDiacritics": "Khaskovo",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0201",
-    "iata": "",
-    "coordinates": "4156N 02533E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 201,
+    "coordinates": {
+      "lat": 41.93333333333333,
+      "lon": 2.8833333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KJG",
     "name": "Kjustendil",
     "nameWoDiacritics": "Kjustendil",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KRL",
     "name": "Klisura",
     "nameWoDiacritics": "Klisura",
-    "subdivision": "22",
+    "subdivision": 22,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4219N 02322E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 42.31666666666667,
+      "lon": 2.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KNE",
     "name": "Knezha",
     "nameWoDiacritics": "Knezha",
-    "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
-    "date": "0701",
-    "iata": "",
-    "coordinates": "4330N 02405E",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 701,
+    "coordinates": {
+      "lat": 43.5,
+      "lon": 2.6666666666666665
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "ROO",
     "name": "Kolarovo",
     "nameWoDiacritics": "Kolarovo",
-    "subdivision": "26",
+    "subdivision": 26,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1207",
-    "iata": "",
-    "coordinates": "4158N 02602E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1207,
+    "coordinates": {
+      "lat": 41.96666666666667,
+      "lon": 3
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SKA",
     "name": "Koprivshtitsa",
     "nameWoDiacritics": "Koprivshtitsa",
-    "subdivision": "23",
+    "subdivision": 23,
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4238N 02421E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 42.63333333333333,
+      "lon": 2.7
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "K2N",
     "name": "Korten",
     "nameWoDiacritics": "Korten",
-    "subdivision": "20",
+    "subdivision": 20,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1501",
-    "iata": "",
-    "coordinates": "4240N 02619E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1501,
+    "coordinates": {
+      "lat": 42.666666666666664,
+      "lon": 3.0166666666666666
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KSR",
     "name": "Kosharitsa",
     "nameWoDiacritics": "Kosharitsa",
-    "subdivision": "02",
+    "subdivision": 2,
     "status": "AM",
-    "function": "--3-----",
-    "date": "2301",
-    "iata": "",
-    "coordinates": "4245N 02742E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2301,
+    "coordinates": {
+      "lat": 42.75,
+      "lon": 3.2333333333333334
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KOS",
     "name": "Kostenets",
     "nameWoDiacritics": "Kostenets",
-    "subdivision": "23",
+    "subdivision": 23,
     "status": "RL",
-    "function": "-23-----",
-    "date": "0407",
-    "iata": "",
-    "coordinates": "4218N 02351E",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 407,
+    "coordinates": {
+      "lat": 42.3,
+      "lon": 2.5833333333333335
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KBR",
     "name": "Kostinbrod",
     "nameWoDiacritics": "Kostinbrod",
-    "subdivision": "22",
+    "subdivision": 22,
     "status": "RL",
-    "function": "--3-----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4249N 02313E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 42.81666666666667,
+      "lon": 2.5166666666666666
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KOT",
     "name": "Kotel",
     "nameWoDiacritics": "Kotel",
-    "subdivision": "20",
+    "subdivision": 20,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4253N 02627E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 42.88333333333333,
+      "lon": 3.033333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KOY",
     "name": "Koynare",
     "nameWoDiacritics": "Koynare",
-    "subdivision": "15",
+    "subdivision": 15,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1801",
-    "iata": "",
-    "coordinates": "4321N 02408E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1801,
+    "coordinates": {
+      "lat": 43.35,
+      "lon": 2.6666666666666665
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KOZ",
     "name": "Kozloduj",
     "nameWoDiacritics": "Kozloduj",
-    "subdivision": "23",
+    "subdivision": 23,
     "status": "RQ",
-    "function": "--3--6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4347N 02344E",
-    "remarks": ""
+    "function": [
+      2,
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 43.78333333333333,
+      "lon": 2.5666666666666664
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "HKM",
     "name": "Krichim",
     "nameWoDiacritics": "Krichim",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4203N 02428E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 42.05,
+      "lon": 2.7
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "VKD",
     "name": "Krivodol",
     "nameWoDiacritics": "Krivodol",
-    "subdivision": "12",
+    "subdivision": 12,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4345N 02313E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 43.75,
+      "lon": 2.5166666666666666
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KRU",
     "name": "Krumovgrad",
     "nameWoDiacritics": "Krumovgrad",
-    "subdivision": "09",
+    "subdivision": 9,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4128N 02539E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 41.46666666666667,
+      "lon": 2.8833333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KRH",
     "name": "Krushari",
     "nameWoDiacritics": "Krushari",
-    "subdivision": "",
     "status": "AA",
-    "function": "--3-----",
-    "date": "1007",
-    "iata": "",
-    "coordinates": "4349N 02745E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1007,
+    "coordinates": {
+      "lat": 43.81666666666667,
+      "lon": 3.2333333333333334
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KUB",
     "name": "Kubrat",
     "nameWoDiacritics": "Kubrat",
-    "subdivision": "17",
+    "subdivision": 17,
     "status": "RL",
-    "function": "--3--6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4348N 02630E",
-    "remarks": ""
+    "function": [
+      2,
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 43.8,
+      "lon": 3.05
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KUK",
     "name": "Kuklen",
     "nameWoDiacritics": "Kuklen",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "RL",
-    "function": "1-3-----",
-    "date": "1307",
-    "iata": "",
-    "coordinates": "4202N 02447E",
-    "remarks": ""
+    "function": [
+      0,
+      2
+    ],
+    "date": 1307,
+    "coordinates": {
+      "lat": 42.03333333333333,
+      "lon": 2.7333333333333334
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KUL",
     "name": "Kula",
     "nameWoDiacritics": "Kula",
-    "subdivision": "05",
+    "subdivision": 5,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4353N 02231E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 43.88333333333333,
+      "lon": 2.3833333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KOL",
     "name": "Kulata",
     "nameWoDiacritics": "Kulata",
-    "subdivision": "",
     "status": "AC",
-    "function": "-23-----",
-    "date": "8201",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 8201,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KDG",
     "name": "Kurdzhali",
     "nameWoDiacritics": "Kurdzhali",
-    "subdivision": "",
     "status": "AI",
-    "function": "--34----",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "4138N 02522E",
-    "remarks": ""
+    "function": [
+      2,
+      3
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": 41.63333333333333,
+      "lon": 2.8666666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "KYS",
     "name": "Kyustendil",
     "nameWoDiacritics": "Kyustendil",
-    "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
-    "date": "0601",
-    "iata": "",
-    "coordinates": "4217N 02241E",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 601,
+    "coordinates": {
+      "lat": 42.28333333333333,
+      "lon": 2.4
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "LKI",
     "name": "Laki",
     "nameWoDiacritics": "Laki",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0601",
-    "iata": "",
-    "coordinates": "4151N 02448E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 601,
+    "coordinates": {
+      "lat": 41.85,
+      "lon": 2.7333333333333334
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "LED",
     "name": "Ledenik",
     "nameWoDiacritics": "Ledenik",
-    "subdivision": "04",
+    "subdivision": 4,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "4305N 02533E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": 43.083333333333336,
+      "lon": 2.8833333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "LES",
     "name": "Leskovets",
     "nameWoDiacritics": "Leskovets",
-    "subdivision": "06",
+    "subdivision": 6,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1701",
-    "iata": "",
-    "coordinates": "4342N 02401E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1701,
+    "coordinates": {
+      "lat": 43.7,
+      "lon": 2.6666666666666665
+    }
   },
   {
     "change": "+",
@@ -2217,2560 +2488,2890 @@
     "location": "LNS",
     "name": "Letnitsa",
     "nameWoDiacritics": "Letnitsa",
-    "subdivision": "11",
+    "subdivision": 11,
     "status": "AM",
-    "function": "--3-----",
-    "date": "2307",
-    "iata": "",
-    "coordinates": "4318N 02503E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2307,
+    "coordinates": {
+      "lat": 43.3,
+      "lon": 2.8333333333333335
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "LSD",
     "name": "Levski",
     "nameWoDiacritics": "Levski",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "LIA",
     "name": "Liaskovec",
     "nameWoDiacritics": "Liaskovec",
-    "subdivision": "04",
+    "subdivision": 4,
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4311N 02572E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 43.18333333333333,
+      "lon": 2.95
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "LOK",
     "name": "Lokorsko",
     "nameWoDiacritics": "Lokorsko",
-    "subdivision": "22",
+    "subdivision": 22,
     "status": "RL",
-    "function": "--3-----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4278N 02345E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 43.3,
+      "lon": 2.5666666666666664
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "LOM",
     "name": "Lom",
     "nameWoDiacritics": "Lom",
-    "subdivision": "",
     "status": "AC",
-    "function": "0-------",
-    "date": "8201",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 8201,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "TLI",
     "name": "Lomci",
     "nameWoDiacritics": "Lomci",
-    "subdivision": "25",
+    "subdivision": 25,
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4343N 02635E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 43.71666666666667,
+      "lon": 3.05
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "LVP",
     "name": "Lovech",
     "nameWoDiacritics": "Lovech",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "LOZ",
     "name": "Lozarevo",
     "nameWoDiacritics": "Lozarevo",
-    "subdivision": "02",
+    "subdivision": 2,
     "status": "RQ",
-    "function": "--3-----",
-    "date": "1001",
-    "iata": "",
-    "coordinates": "4246N 02653E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1001,
+    "coordinates": {
+      "lat": 42.766666666666666,
+      "lon": 3.083333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "LUK",
     "name": "Lukovit",
     "nameWoDiacritics": "Lukovit",
-    "subdivision": "11",
+    "subdivision": 11,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4312N 02410E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 43.2,
+      "lon": 2.6833333333333336
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "LKS",
     "name": "Lyaskovets",
     "nameWoDiacritics": "Lyaskovets",
-    "subdivision": "04",
+    "subdivision": 4,
     "status": "RL",
-    "function": "-23-----",
-    "date": "0501",
-    "iata": "",
-    "coordinates": "4306N 02543E",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 501,
+    "coordinates": {
+      "lat": 43.1,
+      "lon": 2.9
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "LYA",
     "name": "Lyaskovo",
     "nameWoDiacritics": "Lyaskovo",
-    "subdivision": "21",
+    "subdivision": 21,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4148N 02430E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 41.8,
+      "lon": 2.716666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "LBC",
     "name": "Lyubichevo",
     "nameWoDiacritics": "Lyubichevo",
-    "subdivision": "25",
+    "subdivision": 25,
     "status": "AM",
-    "function": "--3-----",
-    "date": "2207",
-    "iata": "",
-    "coordinates": "4310N 02617E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2207,
+    "coordinates": {
+      "lat": 43.166666666666664,
+      "lon": 3.0166666666666666
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "LMC",
     "name": "Lyubimets",
     "nameWoDiacritics": "Lyubimets",
-    "subdivision": "",
     "status": "AA",
-    "function": "-23-----",
-    "date": "1007",
-    "iata": "",
-    "coordinates": "4151N 02605E",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 1007,
+    "coordinates": {
+      "lat": 41.85,
+      "lon": 3
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BLO",
     "name": "Lyuliakovo",
     "nameWoDiacritics": "Lyuliakovo",
-    "subdivision": "02",
+    "subdivision": 2,
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4283N 02701E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 43.38333333333333,
+      "lon": 3.166666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "MAD",
     "name": "Madan",
     "nameWoDiacritics": "Madan",
-    "subdivision": "21",
+    "subdivision": 21,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4130N 02457E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 41.5,
+      "lon": 2.75
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "MTI",
     "name": "Malko Tarnovo",
     "nameWoDiacritics": "Malko Tarnovo",
-    "subdivision": "02",
+    "subdivision": 2,
     "status": "AC",
-    "function": "--3-----",
-    "date": "0501",
-    "iata": "",
-    "coordinates": "4159N 02732E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 501,
+    "coordinates": {
+      "lat": 41.983333333333334,
+      "lon": 3.216666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SHU",
     "name": "Malomir",
     "nameWoDiacritics": "Malomir",
-    "subdivision": "27",
+    "subdivision": 27,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4302N 02643E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 43.03333333333333,
+      "lon": 3.0666666666666664
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PLO",
     "name": "Manole",
     "nameWoDiacritics": "Manole",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4211N 02456E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 42.18333333333333,
+      "lon": 2.75
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "MAB",
     "name": "Marchevo",
     "nameWoDiacritics": "Marchevo",
-    "subdivision": "01",
+    "subdivision": 1,
     "status": "RL",
-    "function": "1----6--",
-    "date": "1201",
-    "iata": "",
-    "coordinates": "4136N 02348E",
-    "remarks": ""
+    "function": [
+      0,
+      5
+    ],
+    "date": 1201,
+    "coordinates": {
+      "lat": 41.6,
+      "lon": 2.5666666666666664
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "MAI",
     "name": "Marikostinovo",
     "nameWoDiacritics": "Marikostinovo",
-    "subdivision": "01",
+    "subdivision": 1,
     "status": "AM",
-    "function": "--3-----",
-    "date": "2107",
-    "iata": "",
-    "coordinates": "4126N 02320E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2107,
+    "coordinates": {
+      "lat": 41.43333333333333,
+      "lon": 2.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "MNR",
     "name": "Mednikarovo",
     "nameWoDiacritics": "Mednikarovo",
-    "subdivision": "24",
+    "subdivision": 24,
     "status": "RL",
-    "function": "--3-----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4207N 02600E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 42.11666666666667,
+      "lon": 3
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "MEL",
     "name": "Melnik",
     "nameWoDiacritics": "Melnik",
-    "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
-    "date": "8910",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 8910,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "MEZ",
     "name": "Mezdra",
     "nameWoDiacritics": "Mezdra",
-    "subdivision": "06",
+    "subdivision": 6,
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4315N 02307E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 43.25,
+      "lon": 2.5
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "MIH",
     "name": "Mihalkovo",
     "nameWoDiacritics": "Mihalkovo",
-    "subdivision": "21",
+    "subdivision": 21,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4150N 02425E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 41.833333333333336,
+      "lon": 2.7
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "MIE",
     "name": "Mikre",
     "nameWoDiacritics": "Mikre",
-    "subdivision": "11",
+    "subdivision": 11,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4302N 02431E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 43.03333333333333,
+      "lon": 2.716666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "MIR",
     "name": "Mirkovo",
     "nameWoDiacritics": "Mirkovo",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4242N 02359E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 42.7,
+      "lon": 2.5833333333333335
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "MVY",
     "name": "Mirovyane",
     "nameWoDiacritics": "Mirovyane",
-    "subdivision": "23",
+    "subdivision": 23,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4247N 02318E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 42.78333333333333,
+      "lon": 2.5166666666666666
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "MII",
     "name": "Mitrovtsi",
     "nameWoDiacritics": "Mitrovtsi",
-    "subdivision": "12",
+    "subdivision": 12,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4326N 02256E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 43.43333333333333,
+      "lon": 2.4166666666666665
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "MIZ",
     "name": "Miziya",
     "nameWoDiacritics": "Miziya",
-    "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
-    "date": "0601",
-    "iata": "",
-    "coordinates": "4341N 02351E",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 601,
+    "coordinates": {
+      "lat": 43.68333333333333,
+      "lon": 2.5833333333333335
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "MOT",
     "name": "Momchilgrad",
     "nameWoDiacritics": "Momchilgrad",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "4132N 02525E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": 41.53333333333333,
+      "lon": 2.8666666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "OZA",
     "name": "Montana",
     "nameWoDiacritics": "Montana",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "MUC",
     "name": "Musachevo",
     "nameWoDiacritics": "Musachevo",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0307",
-    "iata": "",
-    "coordinates": "4206N 02550E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 307,
+    "coordinates": {
+      "lat": 42.1,
+      "lon": 2.9166666666666665
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "NES",
     "name": "Nessebar",
     "nameWoDiacritics": "Nessebar",
-    "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
-    "date": "0307",
-    "iata": "",
-    "coordinates": "4239N 02744E",
-    "remarks": ""
+    "function": [
+      0,
+      2
+    ],
+    "date": 307,
+    "coordinates": {
+      "lat": 42.65,
+      "lon": 3.2333333333333334
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "NPO",
     "name": "Nikopol",
     "nameWoDiacritics": "Nikopol",
-    "subdivision": "15",
+    "subdivision": 15,
     "status": "RL",
-    "function": "123-----",
-    "date": "0507",
-    "iata": "",
-    "coordinates": "4341N 02453E",
-    "remarks": ""
+    "function": [
+      0,
+      1,
+      2
+    ],
+    "date": 507,
+    "coordinates": {
+      "lat": 43.68333333333333,
+      "lon": 2.75
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "NZG",
     "name": "Nova Zagora",
     "nameWoDiacritics": "Nova Zagora",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "NIS",
     "name": "Novi Isar",
     "nameWoDiacritics": "Novi Isar",
-    "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
-    "date": "0607",
-    "iata": "",
-    "coordinates": "4248N 02320E",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 607,
+    "coordinates": {
+      "lat": 42.8,
+      "lon": 2.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "NPZ",
     "name": "Novi Pazar",
     "nameWoDiacritics": "Novi Pazar",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "NOS",
     "name": "Novo Selo",
     "nameWoDiacritics": "Novo Selo",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1801",
-    "iata": "",
-    "coordinates": "4206N 02429E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1801,
+    "coordinates": {
+      "lat": 42.1,
+      "lon": 2.7
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "OGN",
     "name": "Ognyanovo",
     "nameWoDiacritics": "Ognyanovo",
-    "subdivision": "13",
+    "subdivision": 13,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4209N 02425E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 42.15,
+      "lon": 2.7
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "OLT",
     "name": "Oltomantsi",
     "nameWoDiacritics": "Oltomantsi",
-    "subdivision": "",
     "status": "AC",
-    "function": "--3-----",
-    "date": "8201",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 8201,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "OMU",
     "name": "Omurtag",
     "nameWoDiacritics": "Omurtag",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0607",
-    "iata": "",
-    "coordinates": "4306N 02625E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 607,
+    "coordinates": {
+      "lat": 43.1,
+      "lon": 3.033333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "OPK",
     "name": "Opaka",
     "nameWoDiacritics": "Opaka",
-    "subdivision": "",
     "status": "AA",
-    "function": "--3-----",
-    "date": "1007",
-    "iata": "",
-    "coordinates": "4326N 02610E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1007,
+    "coordinates": {
+      "lat": 43.43333333333333,
+      "lon": 3.0166666666666666
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "OPN",
     "name": "Opanets",
     "nameWoDiacritics": "Opanets",
-    "subdivision": "08",
+    "subdivision": 8,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1707",
-    "iata": "",
-    "coordinates": "4329N 02747E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1707,
+    "coordinates": {
+      "lat": 43.483333333333334,
+      "lon": 3.2333333333333334
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "ORE",
     "name": "Orehovo",
     "nameWoDiacritics": "Orehovo",
-    "subdivision": "",
     "status": "AA",
-    "function": "--3-----",
-    "date": "1007",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1007,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "ORZ",
     "name": "Orizare",
     "nameWoDiacritics": "Orizare",
-    "subdivision": "02",
+    "subdivision": 2,
     "status": "AM",
-    "function": "--3-----",
-    "date": "2207",
-    "iata": "",
-    "coordinates": "4245N 02737E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2207,
+    "coordinates": {
+      "lat": 42.75,
+      "lon": 3.216666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "ORI",
     "name": "Orizovo",
     "nameWoDiacritics": "Orizovo",
-    "subdivision": "24",
+    "subdivision": 24,
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4202N 02516E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 42.03333333333333,
+      "lon": 2.85
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "OKH",
     "name": "Oryakhovo",
     "nameWoDiacritics": "Oryakhovo",
-    "subdivision": "",
     "status": "RL",
-    "function": "123-----",
-    "date": "0601",
-    "iata": "",
-    "coordinates": "4344N 02357E",
-    "remarks": ""
+    "function": [
+      0,
+      1,
+      2
+    ],
+    "date": 601,
+    "coordinates": {
+      "lat": 43.733333333333334,
+      "lon": 2.5833333333333335
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "OSI",
     "name": "Osikovo",
     "nameWoDiacritics": "Osikovo",
-    "subdivision": "21",
+    "subdivision": 21,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4154N 02429E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 41.9,
+      "lon": 2.7
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SIL",
     "name": "Paisievo",
     "nameWoDiacritics": "Paisievo",
-    "subdivision": "19",
+    "subdivision": 19,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4347N 02658E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 43.78333333333333,
+      "lon": 3.083333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PPE",
     "name": "Panagyurishte",
     "nameWoDiacritics": "Panagyurishte",
-    "subdivision": "13",
+    "subdivision": 13,
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4205N 02418E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 42.083333333333336,
+      "lon": 2.6833333333333336
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PVT",
     "name": "Parvenets",
     "nameWoDiacritics": "Parvenets",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4204N 02440E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 42.06666666666667,
+      "lon": 2.7333333333333334
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PVM",
     "name": "Parvomai",
     "nameWoDiacritics": "Parvomai",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4201N 02521E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 42.016666666666666,
+      "lon": 2.8666666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PVL",
     "name": "Pavel",
     "nameWoDiacritics": "Pavel",
-    "subdivision": "",
     "status": "AA",
-    "function": "--3-----",
-    "date": "1007",
-    "iata": "",
-    "coordinates": "4328N 02531E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1007,
+    "coordinates": {
+      "lat": 43.46666666666667,
+      "lon": 2.8833333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PBA",
     "name": "Pavel Banya",
     "nameWoDiacritics": "Pavel Banya",
-    "subdivision": "24",
+    "subdivision": 24,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1401",
-    "iata": "",
-    "coordinates": "4236N 02512E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1401,
+    "coordinates": {
+      "lat": 42.6,
+      "lon": 2.85
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PAV",
     "name": "Pavlikeni",
     "nameWoDiacritics": "Pavlikeni",
-    "subdivision": "02",
+    "subdivision": 2,
     "status": "RQ",
-    "function": "--3-----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PIV",
     "name": "Pavlikeni",
     "nameWoDiacritics": "Pavlikeni",
-    "subdivision": "04",
+    "subdivision": 4,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4314N 02518E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 43.233333333333334,
+      "lon": 2.85
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PZA",
     "name": "Pazardzhik",
     "nameWoDiacritics": "Pazardzhik",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PNZ",
     "name": "Pernik",
     "nameWoDiacritics": "Pernik",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PRS",
     "name": "Perushtitsa",
     "nameWoDiacritics": "Perushtitsa",
-    "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
-    "date": "9705",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 9705,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PEC",
     "name": "Peshtera",
     "nameWoDiacritics": "Peshtera",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PTH",
     "name": "Petarch",
     "nameWoDiacritics": "Petarch",
-    "subdivision": "23",
+    "subdivision": 23,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1407",
-    "iata": "",
-    "coordinates": "4250N 02308E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1407,
+    "coordinates": {
+      "lat": 42.833333333333336,
+      "lon": 2.5
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PEG",
     "name": "Petrich",
     "nameWoDiacritics": "Petrich",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PIR",
     "name": "Pirdop",
     "nameWoDiacritics": "Pirdop",
-    "subdivision": "23",
+    "subdivision": 23,
     "status": "RL",
-    "function": "--3-----",
-    "date": "0407",
-    "iata": "",
-    "coordinates": "4242N 02411E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 407,
+    "coordinates": {
+      "lat": 42.7,
+      "lon": 2.6833333333333336
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PVN",
     "name": "Pleven",
     "nameWoDiacritics": "Pleven",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9912",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9912,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SKP",
     "name": "Pliska",
     "nameWoDiacritics": "Pliska",
-    "subdivision": "27",
+    "subdivision": 27,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1401",
-    "iata": "",
-    "coordinates": "4322N 02707E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1401,
+    "coordinates": {
+      "lat": 43.36666666666667,
+      "lon": 3.166666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PDV",
     "name": "Plovdiv",
     "nameWoDiacritics": "Plovdiv",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "POD",
     "name": "Podayva",
     "nameWoDiacritics": "Podayva",
-    "subdivision": "17",
+    "subdivision": 17,
     "status": "RQ",
-    "function": "1-------",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "POR",
     "name": "Pomorie",
     "nameWoDiacritics": "Pomorie",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PPT",
     "name": "Popitsa",
     "nameWoDiacritics": "Popitsa",
-    "subdivision": "06",
+    "subdivision": 6,
     "status": "AM",
-    "function": "--3-----",
-    "date": "2207",
-    "iata": "",
-    "coordinates": "4326N 02357E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2207,
+    "coordinates": {
+      "lat": 43.43333333333333,
+      "lon": 2.5833333333333335
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "POK",
     "name": "Popovo",
     "nameWoDiacritics": "Popovo",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PRA",
     "name": "Pravets",
     "nameWoDiacritics": "Pravets",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0701",
-    "iata": "",
-    "coordinates": "4254N 02355E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 701,
+    "coordinates": {
+      "lat": 42.9,
+      "lon": 2.5833333333333335
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PSC",
     "name": "Preslav",
     "nameWoDiacritics": "Preslav",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PRE",
     "name": "Preslaven",
     "nameWoDiacritics": "Preslaven",
-    "subdivision": "24",
+    "subdivision": 24,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "4225N 02545E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": 42.416666666666664,
+      "lon": 2.9
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PDA",
     "name": "Provadiya",
     "nameWoDiacritics": "Provadiya",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "VDN",
     "name": "Rabisha",
     "nameWoDiacritics": "Rabisha",
-    "subdivision": "05",
+    "subdivision": 5,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4343N 02236E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 43.71666666666667,
+      "lon": 2.3833333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "RLO",
     "name": "Radilovo",
     "nameWoDiacritics": "Radilovo",
-    "subdivision": "13",
+    "subdivision": 13,
     "status": "AM",
-    "function": "--3-----",
-    "date": "2007",
-    "iata": "",
-    "coordinates": "4205N 02418E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2007,
+    "coordinates": {
+      "lat": 42.083333333333336,
+      "lon": 2.6833333333333336
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PRO",
     "name": "Radinovo",
     "nameWoDiacritics": "Radinovo",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4211N 02438E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 42.18333333333333,
+      "lon": 2.716666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "RDV",
     "name": "Radnevo",
     "nameWoDiacritics": "Radnevo",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0201",
-    "iata": "",
-    "coordinates": "4218N 02557E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 201,
+    "coordinates": {
+      "lat": 42.3,
+      "lon": 2.9166666666666665
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "RDI",
     "name": "Radomir",
     "nameWoDiacritics": "Radomir",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "JAK",
     "name": "Rakitovo",
     "nameWoDiacritics": "Rakitovo",
-    "subdivision": "13",
+    "subdivision": 13,
     "status": "RL",
-    "function": "--3-----",
-    "date": "0407",
-    "iata": "",
-    "coordinates": "4159N 02405E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 407,
+    "coordinates": {
+      "lat": 41.983333333333334,
+      "lon": 2.6666666666666665
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "RAK",
     "name": "Rakovski",
     "nameWoDiacritics": "Rakovski",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "RL",
-    "function": "--3--6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4218N 02458E",
-    "remarks": ""
+    "function": [
+      2,
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 42.3,
+      "lon": 2.75
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "RGL",
     "name": "Razgrad",
     "nameWoDiacritics": "Razgrad",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "RAZ",
     "name": "Razlog",
     "nameWoDiacritics": "Razlog",
-    "subdivision": "23",
+    "subdivision": 23,
     "status": "RL",
-    "function": "-23-----",
-    "date": "0407",
-    "iata": "",
-    "coordinates": "4153N 02328E",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 407,
+    "coordinates": {
+      "lat": 41.88333333333333,
+      "lon": 2.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "RNS",
     "name": "Resen",
     "nameWoDiacritics": "Resen",
-    "subdivision": "04",
+    "subdivision": 4,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4312N 02533E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 43.2,
+      "lon": 2.8833333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "XXX",
     "name": "RIS Inland waterways",
     "nameWoDiacritics": "RIS Inland waterways",
-    "subdivision": "",
     "status": "AI",
-    "function": "1-------",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "RDZ",
     "name": "Rudozem",
     "nameWoDiacritics": "Rudozem",
-    "subdivision": "21",
+    "subdivision": 21,
     "status": "AA",
-    "function": "--3-----",
-    "date": "1007",
-    "iata": "",
-    "coordinates": "4129N 02451E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1007,
+    "coordinates": {
+      "lat": 41.483333333333334,
+      "lon": 2.75
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "RDU",
     "name": "Ruse",
     "nameWoDiacritics": "Ruse",
-    "subdivision": "",
     "status": "AC",
-    "function": "1234----",
-    "date": "0607",
-    "iata": "",
-    "coordinates": "4351N 02558E",
-    "remarks": ""
+    "function": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "date": 607,
+    "coordinates": {
+      "lat": 43.85,
+      "lon": 2.9166666666666665
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SAD",
     "name": "Sadovo",
     "nameWoDiacritics": "Sadovo",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1407",
-    "iata": "",
-    "coordinates": "4207N 02455E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1407,
+    "coordinates": {
+      "lat": 42.11666666666667,
+      "lon": 2.75
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SAE",
     "name": "Saedinenie",
     "nameWoDiacritics": "Saedinenie",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "RL",
-    "function": "-23-----",
-    "date": "0701",
-    "iata": "",
-    "coordinates": "4216N 02433E",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 701,
+    "coordinates": {
+      "lat": 42.266666666666666,
+      "lon": 2.716666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SAM",
     "name": "Samokov",
     "nameWoDiacritics": "Samokov",
-    "subdivision": "23",
+    "subdivision": 23,
     "status": "RL",
-    "function": "--3-----",
-    "date": "0501",
-    "iata": "",
-    "coordinates": "4220N 02333E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 501,
+    "coordinates": {
+      "lat": 42.333333333333336,
+      "lon": 2.55
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "OZD",
     "name": "Samovodene",
     "nameWoDiacritics": "Samovodene",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "4308N 02536E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": 43.13333333333333,
+      "lon": 2.8833333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SOV",
     "name": "Samuilovo",
     "nameWoDiacritics": "Samuilovo",
-    "subdivision": "01",
+    "subdivision": 1,
     "status": "AM",
-    "function": "--3-----",
-    "date": "2201",
-    "iata": "",
-    "coordinates": "4122N 02305E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2201,
+    "coordinates": {
+      "lat": 41.36666666666667,
+      "lon": 2.5
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SDM",
     "name": "Sandanski",
     "nameWoDiacritics": "Sandanski",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SEL",
     "name": "Selcha",
     "nameWoDiacritics": "Selcha",
-    "subdivision": "21",
+    "subdivision": 21,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4150N 02423E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 41.833333333333336,
+      "lon": 2.7
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SEI",
     "name": "Seslavtsi",
     "nameWoDiacritics": "Seslavtsi",
-    "subdivision": "23",
+    "subdivision": 23,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4247N 02331E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 42.78333333333333,
+      "lon": 2.55
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SLU",
     "name": "Sevlievo",
     "nameWoDiacritics": "Sevlievo",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "DCB",
     "name": "Shabla",
     "nameWoDiacritics": "Shabla",
-    "subdivision": "08",
+    "subdivision": 8,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4332N 02832E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 43.53333333333333,
+      "lon": 3.3833333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SHI",
     "name": "Shiroka Laka",
     "nameWoDiacritics": "Shiroka Laka",
-    "subdivision": "21",
+    "subdivision": 21,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4141N 02435E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 41.68333333333333,
+      "lon": 2.716666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SMN",
     "name": "Shumen",
     "nameWoDiacritics": "Shumen",
-    "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
-    "date": "0601",
-    "iata": "",
-    "coordinates": "4316N 02655E",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 601,
+    "coordinates": {
+      "lat": 43.266666666666666,
+      "lon": 3.083333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SUW",
     "name": "Shumen",
     "nameWoDiacritics": "Shumen",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SLS",
     "name": "Silistra",
     "nameWoDiacritics": "Silistra",
-    "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0,
+      3
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SKR",
     "name": "Skravena",
     "nameWoDiacritics": "Skravena",
-    "subdivision": "23",
+    "subdivision": 23,
     "status": "AM",
-    "function": "--3-----",
-    "date": "2207",
-    "iata": "",
-    "coordinates": "4257N 02346E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2207,
+    "coordinates": {
+      "lat": 42.95,
+      "lon": 2.5666666666666664
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "NLS",
     "name": "Slatina",
     "nameWoDiacritics": "Slatina",
-    "subdivision": "23",
+    "subdivision": 23,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4241N 02323E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 42.68333333333333,
+      "lon": 2.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SLO",
     "name": "Slavyanovo",
     "nameWoDiacritics": "Slavyanovo",
-    "subdivision": "25",
+    "subdivision": 25,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4316N 02611E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 43.266666666666666,
+      "lon": 3.0166666666666666
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SWQ",
     "name": "Slavyantsi",
     "nameWoDiacritics": "Slavyantsi",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "4246N 02644E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": 42.766666666666666,
+      "lon": 3.0666666666666664
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SLP",
     "name": "Sliven",
     "nameWoDiacritics": "Sliven",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SLN",
     "name": "Slivnitsa",
     "nameWoDiacritics": "Slivnitsa",
-    "subdivision": "23",
+    "subdivision": 23,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4251N 02302E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 42.85,
+      "lon": 2.5
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SLV",
     "name": "Slivo Pole",
     "nameWoDiacritics": "Slivo Pole",
-    "subdivision": "18",
+    "subdivision": 18,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1307",
-    "iata": "",
-    "coordinates": "4357N 02612E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1307,
+    "coordinates": {
+      "lat": 43.95,
+      "lon": 3.0166666666666666
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SML",
     "name": "Smolyan",
     "nameWoDiacritics": "Smolyan",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0701",
-    "iata": "",
-    "coordinates": "4135N 02442E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 701,
+    "coordinates": {
+      "lat": 41.583333333333336,
+      "lon": 2.7333333333333334
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SOF",
     "name": "Sofia",
     "nameWoDiacritics": "Sofia",
-    "subdivision": "22",
+    "subdivision": 22,
     "status": "AI",
-    "function": "-2-45---",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4241N 02319E",
-    "remarks": ""
+    "function": [
+      1,
+      3,
+      4
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 42.68333333333333,
+      "lon": 2.5166666666666666
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SOM",
     "name": "Somovit",
     "nameWoDiacritics": "Somovit",
-    "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
-    "date": "8201",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 8201,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SBP",
     "name": "Sopot",
     "nameWoDiacritics": "Sopot",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SOZ",
     "name": "Sozopol",
     "nameWoDiacritics": "Sozopol",
-    "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
-    "date": "0307",
-    "iata": "",
-    "coordinates": "4225N 02742E",
-    "remarks": ""
+    "function": [
+      0,
+      2
+    ],
+    "date": 307,
+    "coordinates": {
+      "lat": 42.416666666666664,
+      "lon": 3.2333333333333334
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SDE",
     "name": "Sredets",
     "nameWoDiacritics": "Sredets",
-    "subdivision": "24",
+    "subdivision": 24,
     "status": "RL",
-    "function": "--3-----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4215N 02540E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 42.25,
+      "lon": 2.9
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "STA",
     "name": "Stamboliyski",
     "nameWoDiacritics": "Stamboliyski",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "RL",
-    "function": "-23-----",
-    "date": "0701",
-    "iata": "",
-    "coordinates": "4208N 02433E",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 701,
+    "coordinates": {
+      "lat": 42.13333333333333,
+      "lon": 2.716666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SBV",
     "name": "Stambolovo",
     "nameWoDiacritics": "Stambolovo",
-    "subdivision": "26",
+    "subdivision": 26,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4146N 02539E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 41.766666666666666,
+      "lon": 2.8833333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SDV",
     "name": "Stanke Dimitrov",
     "nameWoDiacritics": "Stanke Dimitrov",
-    "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
-    "date": "9705",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 9705,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SLI",
     "name": "Stanke Lisitchkovo",
     "nameWoDiacritics": "Stanke Lisitchkovo",
-    "subdivision": "",
     "status": "AC",
-    "function": "--3-----",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "4159N 02256E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": 41.983333333333334,
+      "lon": 2.4166666666666665
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SZR",
     "name": "Stara Zagora",
     "nameWoDiacritics": "Stara Zagora",
-    "subdivision": "",
     "status": "AI",
-    "function": "--34----",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2,
+      3
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "ZSS",
     "name": "Staro Selo",
     "nameWoDiacritics": "Staro Selo",
-    "subdivision": "23",
+    "subdivision": 23,
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4227N 02308E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 42.45,
+      "lon": 2.5
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "S8P",
     "name": "Starosel",
     "nameWoDiacritics": "Starosel",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1501",
-    "iata": "",
-    "coordinates": "4229N 02434E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1501,
+    "coordinates": {
+      "lat": 42.483333333333334,
+      "lon": 2.716666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "STO",
     "name": "Stomanevo",
     "nameWoDiacritics": "Stomanevo",
-    "subdivision": "21",
+    "subdivision": 21,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4149N 02425E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 41.81666666666667,
+      "lon": 2.7
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "S3W",
     "name": "Straldzha",
     "nameWoDiacritics": "Straldzha",
-    "subdivision": "28",
+    "subdivision": 28,
     "status": "RL",
-    "function": "1-3-----",
-    "date": "1407",
-    "iata": "",
-    "coordinates": "4236N 02641E",
-    "remarks": ""
+    "function": [
+      0,
+      2
+    ],
+    "date": 1407,
+    "coordinates": {
+      "lat": 42.6,
+      "lon": 3.0666666666666664
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "VDV",
     "name": "Streltsi",
     "nameWoDiacritics": "Streltsi",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4223N 02455E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 42.38333333333333,
+      "lon": 2.75
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PSA",
     "name": "Stryama",
     "nameWoDiacritics": "Stryama",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4215N 02453E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 42.25,
+      "lon": 2.75
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SIE",
     "name": "Suedinenie",
     "nameWoDiacritics": "Suedinenie",
-    "subdivision": "25",
+    "subdivision": 25,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4319N 02638E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 43.31666666666667,
+      "lon": 3.05
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SUZ",
     "name": "Suhindol",
     "nameWoDiacritics": "Suhindol",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SRL",
     "name": "Sungurlare",
     "nameWoDiacritics": "Sungurlare",
-    "subdivision": "02",
+    "subdivision": 2,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4246N 02647E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 42.766666666666666,
+      "lon": 3.0666666666666664
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SNA",
     "name": "Surnitsa",
     "nameWoDiacritics": "Surnitsa",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "RL",
-    "function": "--3-----",
-    "date": "0407",
-    "iata": "",
-    "coordinates": "4144N 02402E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 407,
+    "coordinates": {
+      "lat": 41.733333333333334,
+      "lon": 2.6666666666666665
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SNK",
     "name": "Sveti Nikola",
     "nameWoDiacritics": "Sveti Nikola",
-    "subdivision": "08",
+    "subdivision": 8,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4326N 02829E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 43.43333333333333,
+      "lon": 3.3666666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SWG",
     "name": "Svilengrad",
     "nameWoDiacritics": "Svilengrad",
-    "subdivision": "",
     "status": "AC",
-    "function": "-23-----",
-    "date": "8201",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 8201,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SVZ",
     "name": "Svishtov",
     "nameWoDiacritics": "Svishtov",
-    "subdivision": "04",
+    "subdivision": 4,
     "status": "RQ",
-    "function": "-----6--",
-    "date": "1001",
-    "iata": "",
-    "coordinates": "4337N 02521E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 1001,
+    "coordinates": {
+      "lat": 43.61666666666667,
+      "lon": 2.8666666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SVI",
     "name": "Svistov",
     "nameWoDiacritics": "Svistov",
-    "subdivision": "",
     "status": "AC",
-    "function": "1-------",
-    "date": "8201",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 8201,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "SVG",
     "name": "Svoge",
     "nameWoDiacritics": "Svoge",
-    "subdivision": "",
     "status": "AA",
-    "function": "-23-----",
-    "date": "1007",
-    "iata": "",
-    "coordinates": "4258N 02320E",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 1007,
+    "coordinates": {
+      "lat": 42.96666666666667,
+      "lon": 2.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "TGV",
     "name": "Targovishte",
     "nameWoDiacritics": "Targovishte",
-    "subdivision": "25",
+    "subdivision": 25,
     "status": "AI",
-    "function": "-234----",
-    "date": "1501",
-    "iata": "",
-    "coordinates": "4315N 02635E",
-    "remarks": ""
+    "function": [
+      1,
+      2,
+      3
+    ],
+    "date": 1501,
+    "coordinates": {
+      "lat": 43.25,
+      "lon": 3.05
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "TER",
     "name": "Tervel",
     "nameWoDiacritics": "Tervel",
-    "subdivision": "08",
+    "subdivision": 8,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1501",
-    "iata": "",
-    "coordinates": "4345N 02724E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1501,
+    "coordinates": {
+      "lat": 43.75,
+      "lon": 3.2
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "TTV",
     "name": "Teteven",
     "nameWoDiacritics": "Teteven",
-    "subdivision": "11",
+    "subdivision": 11,
     "status": "RL",
-    "function": "--3-----",
-    "date": "0507",
-    "iata": "",
-    "coordinates": "4255N 02416E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 507,
+    "coordinates": {
+      "lat": 42.916666666666664,
+      "lon": 2.6833333333333336
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "TOL",
     "name": "Tolbuhin",
     "nameWoDiacritics": "Tolbuhin",
-    "subdivision": "",
     "status": "AC",
-    "function": "--3-----",
-    "date": "8201",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 8201,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "TPL",
     "name": "Topoli",
     "nameWoDiacritics": "Topoli",
-    "subdivision": "03",
+    "subdivision": 3,
     "status": "AA",
-    "function": "--3-----",
-    "date": "1007",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1007,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "TGA",
     "name": "Topolovgrad",
     "nameWoDiacritics": "Topolovgrad",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "TRN",
     "name": "Tran",
     "nameWoDiacritics": "Tran",
-    "subdivision": "14",
+    "subdivision": 14,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4250N 02239E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 42.833333333333336,
+      "lon": 2.3833333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PTK",
     "name": "Trastenik",
     "nameWoDiacritics": "Trastenik",
-    "subdivision": "15",
+    "subdivision": 15,
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4331N 02428E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 43.516666666666666,
+      "lon": 2.7
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "TJM",
     "name": "Trojan",
     "nameWoDiacritics": "Trojan",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "TRY",
     "name": "Troyan",
     "nameWoDiacritics": "Troyan",
-    "subdivision": "11",
+    "subdivision": 11,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4253N 02442E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 42.88333333333333,
+      "lon": 2.7333333333333334
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "TRD",
     "name": "Trud",
     "nameWoDiacritics": "Trud",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1401",
-    "iata": "",
-    "coordinates": "4214N 02444E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1401,
+    "coordinates": {
+      "lat": 42.233333333333334,
+      "lon": 2.7333333333333334
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "TRU",
     "name": "Trudovets",
     "nameWoDiacritics": "Trudovets",
-    "subdivision": "22",
+    "subdivision": 22,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "4255N 02350E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": 42.916666666666664,
+      "lon": 2.5833333333333335
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "TRA",
     "name": "Tryavna",
     "nameWoDiacritics": "Tryavna",
-    "subdivision": "07",
+    "subdivision": 7,
     "status": "RL",
-    "function": "-23-----",
-    "date": "0407",
-    "iata": "",
-    "coordinates": "4252N 02530E",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 407,
+    "coordinates": {
+      "lat": 42.86666666666667,
+      "lon": 2.8833333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "TBA",
     "name": "Tsalapitsa",
     "nameWoDiacritics": "Tsalapitsa",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4211N 02434E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 42.18333333333333,
+      "lon": 2.716666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "TSA",
     "name": "Tsaratsovo",
     "nameWoDiacritics": "Tsaratsovo",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1501",
-    "iata": "",
-    "coordinates": "4212N 02441E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1501,
+    "coordinates": {
+      "lat": 42.2,
+      "lon": 2.7333333333333334
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "TRV",
     "name": "Tsarevo",
     "nameWoDiacritics": "Tsarevo",
-    "subdivision": "02",
+    "subdivision": 2,
     "status": "AA",
-    "function": "--3--6--",
-    "date": "1007",
-    "iata": "",
-    "coordinates": "4210N 02751E",
-    "remarks": ""
+    "function": [
+      2,
+      5
+    ],
+    "date": 1007,
+    "coordinates": {
+      "lat": 42.166666666666664,
+      "lon": 3.25
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "TKV",
     "name": "Tserkovski",
     "nameWoDiacritics": "Tserkovski",
-    "subdivision": "02",
+    "subdivision": 2,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1701",
-    "iata": "",
-    "coordinates": "4236N 02653E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1701,
+    "coordinates": {
+      "lat": 42.6,
+      "lon": 3.083333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "GAB",
     "name": "Tumbalovo",
     "nameWoDiacritics": "Tumbalovo",
-    "subdivision": "07",
+    "subdivision": 7,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4252N 02506E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 42.86666666666667,
+      "lon": 2.8333333333333335
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "TRP",
     "name": "Tutrakan",
     "nameWoDiacritics": "Tutrakan",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "TAD",
     "name": "Tvardica",
     "nameWoDiacritics": "Tvardica",
-    "subdivision": "20",
+    "subdivision": 20,
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4207N 02509E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 42.11666666666667,
+      "lon": 2.8333333333333335
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "LCH",
     "name": "Uglen",
     "nameWoDiacritics": "Uglen",
-    "subdivision": "11",
+    "subdivision": 11,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4312N 02419E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 43.2,
+      "lon": 2.6833333333333336
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "UST",
     "name": "Ustren",
     "nameWoDiacritics": "Ustren",
-    "subdivision": "09",
+    "subdivision": 9,
     "status": "AM",
-    "function": "--3-----",
-    "date": "2207",
-    "iata": "",
-    "coordinates": "4128N 02514E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2207,
+    "coordinates": {
+      "lat": 41.46666666666667,
+      "lon": 2.85
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "VDL",
     "name": "Valchi Dol",
     "nameWoDiacritics": "Valchi Dol",
-    "subdivision": "03",
+    "subdivision": 3,
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4304N 02755E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 43.06666666666667,
+      "lon": 3.25
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "VDM",
     "name": "Vardim",
     "nameWoDiacritics": "Vardim",
-    "subdivision": "04",
+    "subdivision": 4,
     "status": "RL",
-    "function": "-----6--",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "4337N 02521E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": 43.61666666666667,
+      "lon": 2.8666666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "VAR",
     "name": "Varna",
     "nameWoDiacritics": "Varna",
-    "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0,
+      3
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "VAZ",
     "name": "Varna-Zapad",
     "nameWoDiacritics": "Varna-Zapad",
-    "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
-    "date": "8201",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 8201,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "VAS",
     "name": "Varshets",
     "nameWoDiacritics": "Varshets",
-    "subdivision": "02",
+    "subdivision": 2,
     "status": "RQ",
-    "function": "--3-----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "VEP",
     "name": "Veliki Preslav",
     "nameWoDiacritics": "Veliki Preslav",
-    "subdivision": "27",
+    "subdivision": 27,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4310N 02649E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 43.166666666666664,
+      "lon": 3.0666666666666664
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "VTT",
     "name": "Veliko Tarnovo",
     "nameWoDiacritics": "Veliko Tarnovo",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "VLE",
     "name": "Velingrad",
     "nameWoDiacritics": "Velingrad",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "VNT",
     "name": "Venets",
     "nameWoDiacritics": "Venets",
-    "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
-    "date": "0507",
-    "iata": "",
-    "coordinates": "4238N 02648E",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 507,
+    "coordinates": {
+      "lat": 42.63333333333333,
+      "lon": 3.0666666666666664
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "VEO",
     "name": "Verinsko",
     "nameWoDiacritics": "Verinsko",
-    "subdivision": "23",
+    "subdivision": 23,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "4229N 02345E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 42.483333333333334,
+      "lon": 2.5666666666666664
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "QZX",
     "name": "Vetrino",
     "nameWoDiacritics": "Vetrino",
-    "subdivision": "03",
+    "subdivision": 3,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1501",
-    "iata": "",
-    "coordinates": "4319N 02726E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1501,
+    "coordinates": {
+      "lat": 43.31666666666667,
+      "lon": 3.2
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "VID",
     "name": "Vidin",
     "nameWoDiacritics": "Vidin",
-    "subdivision": "",
     "status": "AI",
-    "function": "1234----",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0,
+      1,
+      2,
+      3
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "VRE",
     "name": "Vraca",
     "nameWoDiacritics": "Vraca",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "VSA",
     "name": "Vratsa",
     "nameWoDiacritics": "Vratsa",
-    "subdivision": "06",
+    "subdivision": 6,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1707",
-    "iata": "",
-    "coordinates": "4312N 02333E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1707,
+    "coordinates": {
+      "lat": 43.2,
+      "lon": 2.55
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "VRA",
     "name": "Vratza",
     "nameWoDiacritics": "Vratza",
-    "subdivision": "06",
+    "subdivision": 6,
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4321N 02356E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 43.35,
+      "lon": 2.5833333333333335
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "QVJ",
     "name": "Vrazhdebna",
     "nameWoDiacritics": "Vrazhdebna",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0907",
-    "iata": "",
-    "coordinates": "4241N 02324E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 907,
+    "coordinates": {
+      "lat": 42.68333333333333,
+      "lon": 2.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "VTC",
     "name": "Vrska Cuka",
     "nameWoDiacritics": "Vrska Cuka",
-    "subdivision": "",
     "status": "AC",
-    "function": "--3-----",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "4350N 02223E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": 43.833333333333336,
+      "lon": 2.3666666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "YGD",
     "name": "Yagoda",
     "nameWoDiacritics": "Yagoda",
-    "subdivision": "24",
+    "subdivision": 24,
     "status": "RL",
-    "function": "--3-----",
-    "date": "2001",
-    "iata": "",
-    "coordinates": "4233N 02536E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2001,
+    "coordinates": {
+      "lat": 42.55,
+      "lon": 2.8833333333333333
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "YAG",
     "name": "Yagodovo",
     "nameWoDiacritics": "Yagodovo",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4206N 02451E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 42.1,
+      "lon": 2.75
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "YAK",
     "name": "Yakoruda",
     "nameWoDiacritics": "Yakoruda",
-    "subdivision": "01",
+    "subdivision": 1,
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4202N 02368E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 42.03333333333333,
+      "lon": 2.6
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "YAM",
     "name": "Yambol",
     "nameWoDiacritics": "Yambol",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0201",
-    "iata": "",
-    "coordinates": "4229N 02631E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 201,
+    "coordinates": {
+      "lat": 42.483333333333334,
+      "lon": 3.05
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "YKG",
     "name": "Yoakim-Gruevo",
     "nameWoDiacritics": "Yoakim-Gruevo",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4207N 02434E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 42.11666666666667,
+      "lon": 2.716666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "BUR",
     "name": "Zavet",
     "nameWoDiacritics": "Zavet",
-    "subdivision": "02",
+    "subdivision": 2,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4250N 02704E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 42.833333333333336,
+      "lon": 3.166666666666667
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "PLV",
     "name": "Zhitnitsa",
     "nameWoDiacritics": "Zhitnitsa",
-    "subdivision": "16",
+    "subdivision": 16,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4223N 02442E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 42.38333333333333,
+      "lon": 2.7333333333333334
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "ZLA",
     "name": "Zlatarevo",
     "nameWoDiacritics": "Zlatarevo",
-    "subdivision": "",
     "status": "AC",
-    "function": "--3-----",
-    "date": "8201",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 8201,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "ZTT",
     "name": "Zlataritsa",
     "nameWoDiacritics": "Zlataritsa",
-    "subdivision": "04",
+    "subdivision": 4,
     "status": "RL",
-    "function": "--3-----",
-    "date": "1607",
-    "iata": "",
-    "coordinates": "4303N 02554E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1607,
+    "coordinates": {
+      "lat": 43.05,
+      "lon": 2.9166666666666665
+    }
   },
   {
-    "change": "",
     "country": "BG",
     "location": "ZLH",
     "name": "Zlatograd",
     "nameWoDiacritics": "Zlatograd",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   }
 ]

@@ -1,926 +1,1025 @@
 [
   {
-    "change": "",
     "country": "AF",
-    "location": "",
     "name": ".AFGHANISTAN",
-    "nameWoDiacritics": "",
-    "subdivision": "",
-    "status": "",
-    "function": "",
-    "date": "",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [],
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "ASH",
     "name": "Ali Shirzayi",
     "nameWoDiacritics": "Ali Shirzayi",
     "subdivision": "URU",
     "status": "RQ",
-    "function": "--3-----",
-    "date": "1307",
-    "iata": "",
-    "coordinates": "3252N 06603E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1307,
+    "coordinates": {
+      "lat": 32.86666666666667,
+      "lon": 7
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "BAG",
     "name": "Bagram",
     "nameWoDiacritics": "Bagram",
     "subdivision": "PAR",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0307",
-    "iata": "",
-    "coordinates": "3457N 06915E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 307,
+    "coordinates": {
+      "lat": 34.95,
+      "lon": 7.516666666666667
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "BIN",
     "name": "Bamian",
     "nameWoDiacritics": "Bamian",
-    "subdivision": "",
     "status": "AI",
-    "function": "--34----",
-    "date": "0907",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2,
+      3
+    ],
+    "date": 907,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "BEP",
     "name": "Bazar-E-Panjwai",
     "nameWoDiacritics": "Bazar-E-Panjwai",
     "subdivision": "KAN",
     "status": "RQ",
-    "function": "--3-----",
-    "date": "1001",
-    "iata": "",
-    "coordinates": "3133N 06527E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1001,
+    "coordinates": {
+      "lat": 31.55,
+      "lon": 6.866666666666667
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "BST",
     "name": "Bost",
     "nameWoDiacritics": "Bost",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9912",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9912,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "CBN",
     "name": "Camp Bastion",
     "nameWoDiacritics": "Camp Bastion",
     "subdivision": "HEL",
     "status": "RQ",
-    "function": "--34----",
-    "date": "1307",
+    "function": [
+      2,
+      3
+    ],
+    "date": 1307,
     "iata": "OAZ",
-    "coordinates": "3151N 06413E",
-    "remarks": ""
+    "coordinates": {
+      "lat": 31.85,
+      "lon": 6.683333333333334
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "CDW",
     "name": "Camp Dwyer",
     "nameWoDiacritics": "Camp Dwyer",
     "subdivision": "HEL",
     "status": "RQ",
-    "function": "--3-----",
-    "date": "0907",
-    "iata": "",
-    "coordinates": "3107N 06411E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 907,
+    "coordinates": {
+      "lat": 31.116666666666667,
+      "lon": 6.683333333333334
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "CLN",
     "name": "Camp Leatherneck",
     "nameWoDiacritics": "Camp Leatherneck",
     "subdivision": "HEL",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1307",
-    "iata": "",
-    "coordinates": "3153N 06411E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1307,
+    "coordinates": {
+      "lat": 31.883333333333333,
+      "lon": 6.683333333333334
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "CSO",
     "name": "Camp Salerno",
     "nameWoDiacritics": "Camp Salerno",
     "subdivision": "KHO",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "3324N 07004E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 33.4,
+      "lon": 7
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "CWO",
     "name": "Camp Wolverine",
     "nameWoDiacritics": "Camp Wolverine",
     "subdivision": "ZAB",
     "status": "RQ",
-    "function": "--3-----",
-    "date": "0907",
-    "iata": "",
-    "coordinates": "3204N 06712E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 907,
+    "coordinates": {
+      "lat": 32.06666666666667,
+      "lon": 7.183333333333334
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "CCN",
     "name": "Chaghcharan",
     "nameWoDiacritics": "Chaghcharan",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "1307",
-    "iata": "",
-    "coordinates": "3431N 06515E",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 1307,
+    "coordinates": {
+      "lat": 34.516666666666666,
+      "lon": 6.85
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "DAZ",
     "name": "Darwaz",
     "nameWoDiacritics": "Darwaz",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "DHD",
     "name": "Dehdadi",
     "nameWoDiacritics": "Dehdadi",
     "subdivision": "BAL",
     "status": "RL",
-    "function": "1----6--",
-    "date": "1201",
-    "iata": "",
-    "coordinates": "3639N 06659E",
-    "remarks": ""
+    "function": [
+      0,
+      5
+    ],
+    "date": 1201,
+    "coordinates": {
+      "lat": 36.65,
+      "lon": 7.083333333333333
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "ISQ",
     "name": "Eslam Qal'eh",
     "nameWoDiacritics": "Eslam Qal'eh",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0601",
-    "iata": "",
-    "coordinates": "3440N 06104E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 601,
+    "coordinates": {
+      "lat": 34.666666666666664,
+      "lon": 6.166666666666667
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "FBD",
     "name": "Faizabad",
     "nameWoDiacritics": "Faizabad",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "FAH",
     "name": "Farah",
     "nameWoDiacritics": "Farah",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9912",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9912,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "FRO",
     "name": "FOB Frontenac",
     "nameWoDiacritics": "FOB Frontenac",
     "subdivision": "KAN",
     "status": "RQ",
-    "function": "--3-----",
-    "date": "0907",
-    "iata": "",
-    "coordinates": "3137N 06539E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 907,
+    "coordinates": {
+      "lat": 31.616666666666667,
+      "lon": 6.883333333333333
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "RMD",
     "name": "FOB Ramrod",
     "nameWoDiacritics": "FOB Ramrod",
     "subdivision": "KAN",
     "status": "RQ",
-    "function": "--3-----",
-    "date": "0907",
-    "iata": "",
-    "coordinates": "3145N 06507E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 907,
+    "coordinates": {
+      "lat": 31.75,
+      "lon": 6.833333333333333
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "SHK",
     "name": "FOB Shank",
     "nameWoDiacritics": "FOB Shank",
     "subdivision": "LOG",
     "status": "RQ",
-    "function": "--3-----",
-    "date": "1307",
-    "iata": "",
-    "coordinates": "3400N 06917E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1307,
+    "coordinates": {
+      "lat": 34,
+      "lon": 7.516666666666667
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "GRG",
     "name": "Gardez",
     "nameWoDiacritics": "Gardez",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9912",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9912,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "GAR",
     "name": "Gardiz",
     "nameWoDiacritics": "Gardiz",
     "subdivision": "PIA",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "3335N 06913E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 33.583333333333336,
+      "lon": 7.516666666666667
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "GZI",
     "name": "Ghazni",
     "nameWoDiacritics": "Ghazni",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9912",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9912,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "HRT",
     "name": "Hairatan",
     "nameWoDiacritics": "Hairatan",
-    "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
-    "date": "9705",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 9705,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "HEA",
     "name": "Herat",
     "nameWoDiacritics": "Herat",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "JAA",
     "name": "Jalalabad",
     "nameWoDiacritics": "Jalalabad",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9912",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9912,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "KBL",
     "name": "Kabul",
     "nameWoDiacritics": "Kabul",
-    "subdivision": "",
     "status": "AI",
-    "function": "--345---",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2,
+      3,
+      4
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "KMU",
     "name": "Kamu",
     "nameWoDiacritics": "Kamu",
     "subdivision": "KNR",
     "status": "RQ",
-    "function": "--3-----",
-    "date": "1001",
-    "iata": "",
-    "coordinates": "3524N 07125E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1001,
+    "coordinates": {
+      "lat": 35.4,
+      "lon": 7.2
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "KDH",
     "name": "Kandahar",
     "nameWoDiacritics": "Kandahar",
-    "subdivision": "",
     "status": "AI",
-    "function": "--34----",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2,
+      3
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "KHT",
     "name": "Khost",
     "nameWoDiacritics": "Khost",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9912",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9912,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "KHO",
     "name": "Khowst",
     "nameWoDiacritics": "Khowst",
     "subdivision": "KNR",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0907",
-    "iata": "",
-    "coordinates": "3512N 07050E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 907,
+    "coordinates": {
+      "lat": 35.2,
+      "lon": 7.083333333333333
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "KWT",
     "name": "Khowst",
     "nameWoDiacritics": "Khowst",
     "subdivision": "PIA",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0907",
-    "iata": "",
-    "coordinates": "3320N 06955E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 907,
+    "coordinates": {
+      "lat": 33.333333333333336,
+      "lon": 7.583333333333333
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "KWH",
     "name": "Khwahan",
     "nameWoDiacritics": "Khwahan",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9912",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9912,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "UND",
     "name": "Kunduz",
     "nameWoDiacritics": "Kunduz",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "KUR",
     "name": "Kuran-O-Munjan",
     "nameWoDiacritics": "Kuran-O-Munjan",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9912",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9912,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "LAG",
     "name": "Lashkar Gah",
     "nameWoDiacritics": "Lashkar Gah",
     "subdivision": "HEL",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "3135N 06421E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 31.583333333333332,
+      "lon": 6.7
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "MMZ",
     "name": "Maimana",
     "nameWoDiacritics": "Maimana",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "MWD",
     "name": "Maiwand",
     "nameWoDiacritics": "Maiwand",
     "subdivision": "KAN",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "3144N 06508E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 31.733333333333334,
+      "lon": 6.833333333333333
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "MAS",
     "name": "Mashad",
     "nameWoDiacritics": "Mashad",
-    "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
-    "date": "8910",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 8910,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "MZR",
     "name": "Mazar-i-Sharif",
     "nameWoDiacritics": "Mazar-i-Sharif",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "3642N 06706E",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": 36.7,
+      "lon": 7.166666666666667
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "MEH",
     "name": "Mehtar Lam",
     "nameWoDiacritics": "Mehtar Lam",
     "subdivision": "LAG",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "3440N 07012E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": 34.666666666666664,
+      "lon": 7.016666666666667
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "MEY",
     "name": "Meydan",
     "nameWoDiacritics": "Meydan",
     "subdivision": "BAL",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1307",
-    "iata": "",
-    "coordinates": "3654N 06655E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1307,
+    "coordinates": {
+      "lat": 36.9,
+      "lon": 7.083333333333333
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "IMZ",
     "name": "Nimroz",
     "nameWoDiacritics": "Nimroz",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9912",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9912,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "ORG",
     "name": "Orgun-E Kalan",
     "nameWoDiacritics": "Orgun-E Kalan",
     "subdivision": "PKA",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1307",
-    "iata": "",
-    "coordinates": "3254N 06913E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1307,
+    "coordinates": {
+      "lat": 32.9,
+      "lon": 7.516666666666667
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "PSD",
     "name": "Pasaband",
     "nameWoDiacritics": "Pasaband",
     "subdivision": "GHO",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1207",
-    "iata": "",
-    "coordinates": "3341N 06451E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1207,
+    "coordinates": {
+      "lat": 33.68333333333333,
+      "lon": 6.75
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "PEC",
     "name": "Pol-e Charkhi",
     "nameWoDiacritics": "Pol-e Charkhi",
     "subdivision": "KAB",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1701",
-    "iata": "",
-    "coordinates": "3432N 06920E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1701,
+    "coordinates": {
+      "lat": 34.53333333333333,
+      "lon": 7.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "LQN",
     "name": "Qala Nau",
     "nameWoDiacritics": "Qala Nau",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "QLT",
     "name": "Qalat",
     "nameWoDiacritics": "Qalat",
-    "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
-    "date": "0601",
-    "iata": "",
-    "coordinates": "3206N 06653E",
-    "remarks": ""
+    "function": [
+      0,
+      2
+    ],
+    "date": 601,
+    "coordinates": {
+      "lat": 32.1,
+      "lon": 7.083333333333333
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "QYN",
     "name": "Qal'Eh-Ye Now",
     "nameWoDiacritics": "Qal'Eh-Ye Now",
     "subdivision": "BDG",
     "status": "RQ",
-    "function": "--3-----",
-    "date": "1001",
-    "iata": "",
-    "coordinates": "3459N 06307E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1001,
+    "coordinates": {
+      "lat": 34.983333333333334,
+      "lon": 6.5
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "QAM",
     "name": "Qasim",
     "nameWoDiacritics": "Qasim",
-    "subdivision": "",
     "status": "RQ",
-    "function": "-----6--",
-    "date": "1007",
-    "iata": "",
-    "coordinates": "3502N 07132E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 1007,
+    "coordinates": {
+      "lat": 35.03333333333333,
+      "lon": 7.216666666666667
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "SBF",
     "name": "Sardeh Band",
     "nameWoDiacritics": "Sardeh Band",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9912",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9912,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "SRO",
     "name": "Sharona",
     "nameWoDiacritics": "Sharona",
     "subdivision": "PKA",
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "3313N 06883E",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 33.21666666666667,
+      "lon": 7.466666666666667
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "SGA",
     "name": "Sheghnan",
     "nameWoDiacritics": "Sheghnan",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "SHE",
     "name": "Sherhan-Bandar",
     "nameWoDiacritics": "Sherhan-Bandar",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "3712N 06905E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 37.2,
+      "lon": 7.5
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "SDD",
     "name": "Shindand",
     "nameWoDiacritics": "Shindand",
     "subdivision": "HER",
     "status": "RQ",
-    "function": "--3-----",
-    "date": "0907",
-    "iata": "",
-    "coordinates": "3318N 06208E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 907,
+    "coordinates": {
+      "lat": 33.3,
+      "lon": 6.333333333333333
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "SBK",
     "name": "Spin Boldak",
     "nameWoDiacritics": "Spin Boldak",
     "subdivision": "KAN",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1307",
-    "iata": "",
-    "coordinates": "3100N 06624E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1307,
+    "coordinates": {
+      "lat": 31,
+      "lon": 7.033333333333333
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "TQN",
     "name": "Taluqan",
     "nameWoDiacritics": "Taluqan",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9912",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9912,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "TKO",
     "name": "Tarin Kowt",
     "nameWoDiacritics": "Tarin Kowt",
     "subdivision": "URU",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1307",
-    "iata": "",
-    "coordinates": "3237N 06552E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1307,
+    "coordinates": {
+      "lat": 32.61666666666667,
+      "lon": 6.916666666666667
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "TII",
     "name": "Tirinkot",
     "nameWoDiacritics": "Tirinkot",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "TGH",
     "name": "Torghundi",
     "nameWoDiacritics": "Torghundi",
-    "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
-    "date": "9705",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 9705,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "RKH",
     "name": "Torkham",
     "nameWoDiacritics": "Torkham",
     "subdivision": "NAN",
     "status": "RL",
-    "function": "1-------",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "3453N 07155E",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 34.88333333333333,
+      "lon": 7.25
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "TOW",
     "name": "Towraghondi",
     "nameWoDiacritics": "Towraghondi",
     "subdivision": "HER",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1307",
-    "iata": "",
-    "coordinates": "3515N 06217E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1307,
+    "coordinates": {
+      "lat": 35.25,
+      "lon": 6.35
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "URN",
     "name": "Urgoon",
     "nameWoDiacritics": "Urgoon",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9912",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9912,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "URZ",
     "name": "Uruzgan",
     "nameWoDiacritics": "Uruzgan",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "ZAJ",
     "name": "Zaranj",
     "nameWoDiacritics": "Zaranj",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9912",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9912,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AF",
     "location": "ZHA",
     "name": "Zhari Dasht",
     "nameWoDiacritics": "Zhari Dasht",
     "subdivision": "KAN",
     "status": "RQ",
-    "function": "--3-----",
-    "date": "1001",
-    "iata": "",
-    "coordinates": "3138N 06531E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1001,
+    "coordinates": {
+      "lat": 31.633333333333333,
+      "lon": 6.883333333333333
+    }
   }
 ]

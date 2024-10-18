@@ -1,44 +1,41 @@
 [
   {
-    "change": "",
     "country": "HM",
-    "location": "",
     "name": ".HEARD ISLAND AND MCDONALD ISLANDS",
-    "nameWoDiacritics": "",
-    "subdivision": "",
-    "status": "",
-    "function": "",
-    "date": "",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [],
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "HM",
     "location": "HEA",
     "name": "Heard Island",
     "nameWoDiacritics": "Heard Island",
-    "subdivision": "",
     "status": "RL",
-    "function": "1-------",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "5305S 07343E",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": -53.083333333333336,
+      "lon": 7.566666666666666
+    }
   },
   {
-    "change": "",
     "country": "HM",
     "location": "MCD",
     "name": "McDonald Island",
     "nameWoDiacritics": "McDonald Island",
-    "subdivision": "",
     "status": "RL",
-    "function": "1-------",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "5302S 07235E",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": -53.03333333333333,
+      "lon": 7.383333333333334
+    }
   }
 ]

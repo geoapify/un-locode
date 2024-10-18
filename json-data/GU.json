@@ -1,212 +1,225 @@
 [
   {
-    "change": "",
     "country": "GU",
-    "location": "",
     "name": ".GUAM",
-    "nameWoDiacritics": "",
-    "subdivision": "",
-    "status": "",
-    "function": "",
-    "date": "",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [],
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "GU",
     "location": "AGA",
     "name": "Agana",
     "nameWoDiacritics": "Agana",
-    "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
-    "date": "9501",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 9501,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "GU",
     "location": "APR",
     "name": "Apra (Agana)",
     "nameWoDiacritics": "Apra (Agana)",
-    "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
-    "date": "9506",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 9506,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "GU",
     "location": "BRR",
     "name": "Barrigada",
     "nameWoDiacritics": "Barrigada",
-    "subdivision": "",
     "status": "RL",
-    "function": "1----6--",
-    "date": "1107",
-    "iata": "",
-    "coordinates": "1328N 14447E",
-    "remarks": ""
+    "function": [
+      0,
+      5
+    ],
+    "date": 1107,
+    "coordinates": {
+      "lat": 13.466666666666667,
+      "lon": 14.733333333333333
+    }
   },
   {
-    "change": "",
     "country": "GU",
     "location": "DED",
     "name": "Dededo",
     "nameWoDiacritics": "Dededo",
-    "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
-    "date": "9501",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 9501,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "GU",
     "location": "GUM",
     "name": "Guam",
     "nameWoDiacritics": "Guam",
-    "subdivision": "",
     "status": "AI",
-    "function": "1--45---",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0,
+      3,
+      4
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "GU",
     "location": "HGT",
     "name": "Hagatna",
     "nameWoDiacritics": "Hagatna",
-    "subdivision": "",
     "status": "AA",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "1328N 14444E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 13.466666666666667,
+      "lon": 14.733333333333333
+    }
   },
   {
-    "change": "",
     "country": "GU",
     "location": "INA",
     "name": "Inarajan",
     "nameWoDiacritics": "Inarajan",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1207",
-    "iata": "",
-    "coordinates": "1316N 14444E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1207,
+    "coordinates": {
+      "lat": 13.266666666666667,
+      "lon": 14.733333333333333
+    }
   },
   {
-    "change": "",
     "country": "GU",
     "location": "GUA",
     "name": "Mongmong-Toto-Maite",
     "nameWoDiacritics": "Mongmong-Toto-Maite",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1407",
-    "iata": "",
-    "coordinates": "1328N 14446E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1407,
+    "coordinates": {
+      "lat": 13.466666666666667,
+      "lon": 14.733333333333333
+    }
   },
   {
-    "change": "",
     "country": "GU",
     "location": "PIT",
     "name": "Piti",
     "nameWoDiacritics": "Piti",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1707",
-    "iata": "",
-    "coordinates": "1326N 14441E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1707,
+    "coordinates": {
+      "lat": 13.433333333333334,
+      "lon": 14.733333333333333
+    }
   },
   {
-    "change": "",
     "country": "GU",
     "location": "SAN",
     "name": "Santa Rita",
     "nameWoDiacritics": "Santa Rita",
-    "subdivision": "",
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "1323N 14440W",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 13.383333333333333,
+      "lon": 14.733333333333333
+    }
   },
   {
-    "change": "",
     "country": "GU",
     "location": "SJA",
     "name": "Sinajana",
     "nameWoDiacritics": "Sinajana",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1407",
-    "iata": "",
-    "coordinates": "1327N 14445E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1407,
+    "coordinates": {
+      "lat": 13.45,
+      "lon": 14.733333333333333
+    }
   },
   {
-    "change": "",
     "country": "GU",
     "location": "TMG",
     "name": "Tamuning",
     "nameWoDiacritics": "Tamuning",
-    "subdivision": "",
     "status": "AA",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "1329N 14446E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 13.483333333333333,
+      "lon": 14.733333333333333
+    }
   },
   {
-    "change": "",
     "country": "GU",
     "location": "TMN",
     "name": "Tumon",
     "nameWoDiacritics": "Tumon",
-    "subdivision": "",
     "status": "AA",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "1330N 14448E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": 13.5,
+      "lon": 14.733333333333333
+    }
   },
   {
-    "change": "",
     "country": "GU",
     "location": "YGO",
     "name": "Yigo",
     "nameWoDiacritics": "Yigo",
-    "subdivision": "",
     "status": "RL",
-    "function": "--34----",
-    "date": "1407",
-    "iata": "",
-    "coordinates": "1332N 14453E",
-    "remarks": ""
+    "function": [
+      2,
+      3
+    ],
+    "date": 1407,
+    "coordinates": {
+      "lat": 13.533333333333333,
+      "lon": 14.75
+    }
   }
 ]

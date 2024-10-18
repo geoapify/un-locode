@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Chkalovsk",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "4014N 06941E",
+    "coordinates": {
+      "lat": 40.233333333333334,
+      "lon": 7.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,15 @@
     "nameWoDiacritics": "Dushanbe",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -49,10 +62,15 @@
     "nameWoDiacritics": "Garm",
     "subdivision": "GB",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "3901N 07022E",
+    "coordinates": {
+      "lat": 39.016666666666666,
+      "lon": 7.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -63,10 +81,15 @@
     "nameWoDiacritics": "Isfara",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "4007N 07038E",
+    "coordinates": {
+      "lat": 40.11666666666667,
+      "lon": 7.05
+    },
     "remarks": ""
   },
   {
@@ -77,10 +100,15 @@
     "nameWoDiacritics": "Khirmanak",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "3835N 06833E",
+    "coordinates": {
+      "lat": 38.583333333333336,
+      "lon": 7.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -91,10 +119,15 @@
     "nameWoDiacritics": "Khudzhand",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -105,10 +138,15 @@
     "nameWoDiacritics": "Khujand",
     "subdivision": "",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "4016N 06937E",
+    "coordinates": {
+      "lat": 40.266666666666666,
+      "lon": 7.55
+    },
     "remarks": ""
   },
   {
@@ -119,10 +157,15 @@
     "nameWoDiacritics": "Kulob",
     "subdivision": "KT",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "3754N 06946E",
+    "coordinates": {
+      "lat": 37.9,
+      "lon": 7.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -133,10 +176,15 @@
     "nameWoDiacritics": "Nurak (Nurek)",
     "subdivision": "KT",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3823N 06919E",
+    "coordinates": {
+      "lat": 38.38333333333333,
+      "lon": 7.516666666666667
+    },
     "remarks": ""
   },
   {
@@ -147,10 +195,15 @@
     "nameWoDiacritics": "Penjikent",
     "subdivision": "SU",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "3930N 06736E",
+    "coordinates": {
+      "lat": 39.5,
+      "lon": 7.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -161,10 +214,16 @@
     "nameWoDiacritics": "Qurghonteppa",
     "subdivision": "KT",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0501",
     "iata": "",
-    "coordinates": "3750N 06846E",
+    "coordinates": {
+      "lat": 37.833333333333336,
+      "lon": 7.4
+    },
     "remarks": ""
   },
   {
@@ -175,10 +234,16 @@
     "nameWoDiacritics": "Shaartuz",
     "subdivision": "KT",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "3715N 06808E",
+    "coordinates": {
+      "lat": 37.25,
+      "lon": 7.333333333333333
+    },
     "remarks": ""
   },
   {
@@ -189,10 +254,15 @@
     "nameWoDiacritics": "Vahdat",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "3833N 06901E",
+    "coordinates": {
+      "lat": 38.55,
+      "lon": 7.5
+    },
     "remarks": ""
   }
 ]

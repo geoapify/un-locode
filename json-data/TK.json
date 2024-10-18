@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Atafu",
     "subdivision": "",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "0832S 17231W",
+    "coordinates": {
+      "lat": -8.533333333333333,
+      "lon": 17.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,15 @@
     "nameWoDiacritics": "Fakaofo",
     "subdivision": "",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "0922S 17115W",
+    "coordinates": {
+      "lat": -9.366666666666667,
+      "lon": 17.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -49,10 +62,15 @@
     "nameWoDiacritics": "Nukunonu",
     "subdivision": "",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "0910S 17151W",
+    "coordinates": {
+      "lat": -9.166666666666666,
+      "lon": 17.25
+    },
     "remarks": ""
   }
 ]

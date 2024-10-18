@@ -1,226 +1,267 @@
 [
   {
-    "change": "",
     "country": "CY",
-    "location": "",
     "name": ".CYPRUS",
-    "nameWoDiacritics": "",
-    "subdivision": "",
-    "status": "",
-    "function": "",
-    "date": "",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [],
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "CY",
     "location": "AKT",
     "name": "Akrotiri",
     "nameWoDiacritics": "Akrotiri",
-    "subdivision": "02",
+    "subdivision": 2,
     "status": "AA",
-    "function": "1--4----",
-    "date": "1801",
-    "iata": "",
-    "coordinates": "3436N 03257E",
-    "remarks": ""
+    "function": [
+      0,
+      3
+    ],
+    "date": 1801,
+    "coordinates": {
+      "lat": 34.6,
+      "lon": 3.4166666666666665
+    }
   },
   {
-    "change": "",
     "country": "CY",
     "location": "ANM",
     "name": "Ayia Napa",
     "nameWoDiacritics": "Ayia Napa",
-    "subdivision": "04",
+    "subdivision": 4,
     "status": "AA",
-    "function": "1-3-----",
-    "date": "2107",
-    "iata": "",
-    "coordinates": "3459N 03400E",
-    "remarks": ""
+    "function": [
+      0,
+      2
+    ],
+    "date": 2107,
+    "coordinates": {
+      "lat": 34.983333333333334,
+      "lon": 3.6666666666666665
+    }
   },
   {
-    "change": "",
     "country": "CY",
     "location": "DHK",
     "name": "Dhekelia",
     "nameWoDiacritics": "Dhekelia",
-    "subdivision": "03",
+    "subdivision": 3,
     "status": "AA",
-    "function": "1-3-----",
-    "date": "1801",
-    "iata": "",
-    "coordinates": "3459N 03345E",
-    "remarks": ""
+    "function": [
+      0,
+      2
+    ],
+    "date": 1801,
+    "coordinates": {
+      "lat": 34.983333333333334,
+      "lon": 3.5666666666666664
+    }
   },
   {
-    "change": "",
     "country": "CY",
     "location": "EPK",
     "name": "Episkopi",
     "nameWoDiacritics": "Episkopi",
-    "subdivision": "02",
+    "subdivision": 2,
     "status": "AA",
-    "function": "---4----",
-    "date": "1801",
-    "iata": "",
-    "coordinates": "3440N 03254E",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 1801,
+    "coordinates": {
+      "lat": 34.666666666666664,
+      "lon": 3.4166666666666665
+    }
   },
   {
-    "change": "",
     "country": "CY",
     "location": "FMG",
     "name": "Famagusta",
     "nameWoDiacritics": "Famagusta",
-    "subdivision": "04",
+    "subdivision": 4,
     "status": "AA",
-    "function": "1-3-----",
-    "date": "1801",
-    "iata": "",
-    "coordinates": "3506N 03357E",
+    "function": [
+      0,
+      2
+    ],
+    "date": 1801,
+    "coordinates": {
+      "lat": 35.1,
+      "lon": 3.5833333333333335
+    },
     "remarks": "Closed port for all vessels"
   },
   {
-    "change": "",
     "country": "CY",
     "location": "KAR",
     "name": "Karavostasi",
     "nameWoDiacritics": "Karavostasi",
-    "subdivision": "01",
+    "subdivision": 1,
     "status": "AA",
-    "function": "1-------",
-    "date": "1801",
-    "iata": "",
-    "coordinates": "3508N 03250E",
+    "function": [
+      0
+    ],
+    "date": 1801,
+    "coordinates": {
+      "lat": 35.13333333333333,
+      "lon": 3.4166666666666665
+    },
     "remarks": "Closed port for all vessels"
   },
   {
-    "change": "",
     "country": "CY",
     "location": "KYR",
     "name": "Kyrenia",
     "nameWoDiacritics": "Kyrenia",
-    "subdivision": "06",
+    "subdivision": 6,
     "status": "AA",
-    "function": "1-------",
-    "date": "1801",
-    "iata": "",
-    "coordinates": "3520N 03320E",
+    "function": [
+      0
+    ],
+    "date": 1801,
+    "coordinates": {
+      "lat": 35.333333333333336,
+      "lon": 3.533333333333333
+    },
     "remarks": "Closed port for all vessels"
   },
   {
-    "change": "",
     "country": "CY",
     "location": "LCA",
     "name": "Larnaca",
     "nameWoDiacritics": "Larnaca",
-    "subdivision": "03",
+    "subdivision": 3,
     "status": "AA",
-    "function": "1--45---",
-    "date": "1801",
-    "iata": "",
-    "coordinates": "3455N 03337E",
-    "remarks": ""
+    "function": [
+      0,
+      3,
+      4
+    ],
+    "date": 1801,
+    "coordinates": {
+      "lat": 34.916666666666664,
+      "lon": 3.55
+    }
   },
   {
-    "change": "",
     "country": "CY",
     "location": "LAT",
     "name": "Latchi",
     "nameWoDiacritics": "Latchi",
-    "subdivision": "05",
+    "subdivision": 5,
     "status": "AA",
-    "function": "1-3-----",
-    "date": "1801",
-    "iata": "",
-    "coordinates": "3502N 03224E",
-    "remarks": ""
+    "function": [
+      0,
+      2
+    ],
+    "date": 1801,
+    "coordinates": {
+      "lat": 35.03333333333333,
+      "lon": 3.3666666666666667
+    }
   },
   {
-    "change": "",
     "country": "CY",
     "location": "LMS",
     "name": "Limassol",
     "nameWoDiacritics": "Limassol",
-    "subdivision": "02",
+    "subdivision": 2,
     "status": "AA",
-    "function": "1-3-5---",
-    "date": "1801",
-    "iata": "",
-    "coordinates": "3441N 03303E",
-    "remarks": ""
+    "function": [
+      0,
+      2,
+      4
+    ],
+    "date": 1801,
+    "coordinates": {
+      "lat": 34.68333333333333,
+      "lon": 3.5
+    }
   },
   {
-    "change": "",
     "country": "CY",
     "location": "MOI",
     "name": "Moni",
     "nameWoDiacritics": "Moni",
-    "subdivision": "02",
+    "subdivision": 2,
     "status": "AA",
-    "function": "1-3-----",
-    "date": "1801",
-    "iata": "",
-    "coordinates": "3444N 03312E",
-    "remarks": ""
+    "function": [
+      0,
+      2
+    ],
+    "date": 1801,
+    "coordinates": {
+      "lat": 34.733333333333334,
+      "lon": 3.5166666666666666
+    }
   },
   {
-    "change": "",
     "country": "CY",
     "location": "NIC",
     "name": "Nicosia",
     "nameWoDiacritics": "Nicosia",
-    "subdivision": "01",
+    "subdivision": 1,
     "status": "AA",
-    "function": "1---5---",
-    "date": "1801",
-    "iata": "",
-    "coordinates": "3510N 03322E",
+    "function": [
+      0,
+      4
+    ],
+    "date": 1801,
+    "coordinates": {
+      "lat": 35.166666666666664,
+      "lon": 3.533333333333333
+    },
     "remarks": "Closed airport"
   },
   {
-    "change": "",
     "country": "CY",
     "location": "PFO",
     "name": "Paphos",
     "nameWoDiacritics": "Paphos",
-    "subdivision": "05",
+    "subdivision": 5,
     "status": "AA",
-    "function": "1--4----",
-    "date": "1801",
-    "iata": "",
-    "coordinates": "3446N 03225E",
-    "remarks": ""
+    "function": [
+      0,
+      3
+    ],
+    "date": 1801,
+    "coordinates": {
+      "lat": 34.766666666666666,
+      "lon": 3.3666666666666667
+    }
   },
   {
-    "change": "",
     "country": "CY",
     "location": "VAS",
     "name": "Vasilikos",
     "nameWoDiacritics": "Vasilikos",
-    "subdivision": "03",
+    "subdivision": 3,
     "status": "AA",
-    "function": "1-------",
-    "date": "1801",
-    "iata": "",
-    "coordinates": "3443N 03319E",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 1801,
+    "coordinates": {
+      "lat": 34.71666666666667,
+      "lon": 3.5166666666666666
+    }
   },
   {
-    "change": "",
     "country": "CY",
     "location": "ZYY",
     "name": "Zyyi",
     "nameWoDiacritics": "Zyyi",
-    "subdivision": "03",
+    "subdivision": 3,
     "status": "AA",
-    "function": "1-------",
-    "date": "1801",
-    "iata": "",
-    "coordinates": "3444N 03320E",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 1801,
+    "coordinates": {
+      "lat": 34.733333333333334,
+      "lon": 3.533333333333333
+    }
   }
 ]

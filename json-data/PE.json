@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,16 @@
     "nameWoDiacritics": "Abancay",
     "subdivision": "APU",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "1338S 07252W",
+    "coordinates": {
+      "lat": -13.633333333333333,
+      "lon": 7.416666666666667
+    },
     "remarks": ""
   },
   {
@@ -35,10 +44,15 @@
     "nameWoDiacritics": "Acari",
     "subdivision": "ARE",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1525S 07436W",
+    "coordinates": {
+      "lat": -15.416666666666666,
+      "lon": 7.716666666666667
+    },
     "remarks": ""
   },
   {
@@ -49,10 +63,15 @@
     "nameWoDiacritics": "Acobamba",
     "subdivision": "HUV",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1250S 07434W",
+    "coordinates": {
+      "lat": -12.833333333333334,
+      "lon": 7.716666666666667
+    },
     "remarks": ""
   },
   {
@@ -63,10 +82,15 @@
     "nameWoDiacritics": "Acomayo",
     "subdivision": "CUS",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1355S 07140W",
+    "coordinates": {
+      "lat": -13.916666666666666,
+      "lon": 7.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -77,10 +101,15 @@
     "nameWoDiacritics": "Aija",
     "subdivision": "ANC",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0946S 07738W",
+    "coordinates": {
+      "lat": -9.766666666666667,
+      "lon": 8.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -91,10 +120,15 @@
     "nameWoDiacritics": "Alerta",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -105,10 +139,15 @@
     "nameWoDiacritics": "Ambo",
     "subdivision": "HUC",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1008S 07612W",
+    "coordinates": {
+      "lat": -10.133333333333333,
+      "lon": 8.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -119,10 +158,15 @@
     "nameWoDiacritics": "Ancon",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1146S 07710W",
+    "coordinates": {
+      "lat": -11.766666666666667,
+      "lon": 8.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -133,10 +177,15 @@
     "nameWoDiacritics": "Andahuaylas",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -147,10 +196,15 @@
     "nameWoDiacritics": "Angamos",
     "subdivision": "UCA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "0825S 07429W",
+    "coordinates": {
+      "lat": -8.416666666666666,
+      "lon": 7.7
+    },
     "remarks": ""
   },
   {
@@ -161,10 +215,15 @@
     "nameWoDiacritics": "Anta",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -175,10 +234,15 @@
     "nameWoDiacritics": "Antabamba",
     "subdivision": "APU",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1422S 07253W",
+    "coordinates": {
+      "lat": -14.366666666666667,
+      "lon": 7.416666666666667
+    },
     "remarks": ""
   },
   {
@@ -189,10 +253,15 @@
     "nameWoDiacritics": "Arequipa",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -203,10 +272,15 @@
     "nameWoDiacritics": "Arica",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "1532S 07308W",
+    "coordinates": {
+      "lat": -15.533333333333333,
+      "lon": 7.5
+    },
     "remarks": ""
   },
   {
@@ -217,10 +291,15 @@
     "nameWoDiacritics": "Atalaya",
     "subdivision": "UCA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1044S 07345W",
+    "coordinates": {
+      "lat": -10.733333333333333,
+      "lon": 7.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -231,10 +310,15 @@
     "nameWoDiacritics": "Atico",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -245,10 +329,15 @@
     "nameWoDiacritics": "Ayacucho",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -259,10 +348,15 @@
     "nameWoDiacritics": "Azangaro",
     "subdivision": "PUN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1454S 07011W",
+    "coordinates": {
+      "lat": -14.9,
+      "lon": 7.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -273,10 +367,15 @@
     "nameWoDiacritics": "Bagua",
     "subdivision": "AMA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0538S 07832W",
+    "coordinates": {
+      "lat": -5.633333333333333,
+      "lon": 8.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -287,10 +386,15 @@
     "nameWoDiacritics": "Barranca",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "1045S 07746W",
+    "coordinates": {
+      "lat": -10.75,
+      "lon": 8.233333333333334
+    },
     "remarks": ""
   },
   {
@@ -301,10 +405,15 @@
     "nameWoDiacritics": "Bayovar",
     "subdivision": "PIU",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "0551S 08104W",
+    "coordinates": {
+      "lat": -5.85,
+      "lon": 8.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -315,10 +424,15 @@
     "nameWoDiacritics": "Bellavista",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -329,10 +443,15 @@
     "nameWoDiacritics": "Cabo Blanco",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -343,10 +462,15 @@
     "nameWoDiacritics": "Cailloma",
     "subdivision": "ARE",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "1511S 07146W",
+    "coordinates": {
+      "lat": -15.183333333333334,
+      "lon": 7.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -357,10 +481,15 @@
     "nameWoDiacritics": "Cajabamba",
     "subdivision": "CAJ",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0737S 07802W",
+    "coordinates": {
+      "lat": -7.616666666666667,
+      "lon": 8.333333333333334
+    },
     "remarks": ""
   },
   {
@@ -371,10 +500,15 @@
     "nameWoDiacritics": "Cajamarca",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -385,10 +519,15 @@
     "nameWoDiacritics": "Cajatambo",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1029S 07702W",
+    "coordinates": {
+      "lat": -10.483333333333333,
+      "lon": 8.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -399,10 +538,15 @@
     "nameWoDiacritics": "Calca",
     "subdivision": "CUS",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1319S 07157W",
+    "coordinates": {
+      "lat": -13.316666666666666,
+      "lon": 7.25
+    },
     "remarks": ""
   },
   {
@@ -413,10 +557,15 @@
     "nameWoDiacritics": "Callao",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -427,10 +576,15 @@
     "nameWoDiacritics": "Candarave",
     "subdivision": "TAC",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1716S 07015W",
+    "coordinates": {
+      "lat": -17.266666666666666,
+      "lon": 7.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -441,10 +595,15 @@
     "nameWoDiacritics": "Cangallo",
     "subdivision": "AYA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1337S 07408W",
+    "coordinates": {
+      "lat": -13.616666666666667,
+      "lon": 7.666666666666667
+    },
     "remarks": ""
   },
   {
@@ -455,10 +614,15 @@
     "nameWoDiacritics": "Canta",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1128S 07637W",
+    "coordinates": {
+      "lat": -11.466666666666667,
+      "lon": 8.05
+    },
     "remarks": ""
   },
   {
@@ -469,10 +633,15 @@
     "nameWoDiacritics": "Carabayllo",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "1151S 07702W",
+    "coordinates": {
+      "lat": -11.85,
+      "lon": 8.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -483,10 +652,15 @@
     "nameWoDiacritics": "Carhuaz",
     "subdivision": "ANC",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "0916S 07738W",
+    "coordinates": {
+      "lat": -9.266666666666667,
+      "lon": 8.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -497,10 +671,15 @@
     "nameWoDiacritics": "Carmen de la Legua",
     "subdivision": "CAL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "1202S 07705W",
+    "coordinates": {
+      "lat": -12.033333333333333,
+      "lon": 8.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -511,10 +690,15 @@
     "nameWoDiacritics": "Casma",
     "subdivision": "ANC",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0501",
     "iata": "",
-    "coordinates": "0928S 07819W",
+    "coordinates": {
+      "lat": -9.466666666666667,
+      "lon": 8.35
+    },
     "remarks": ""
   },
   {
@@ -525,10 +709,15 @@
     "nameWoDiacritics": "Castrovirreyna",
     "subdivision": "HUV",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1316S 07519W",
+    "coordinates": {
+      "lat": -13.266666666666667,
+      "lon": 7.85
+    },
     "remarks": ""
   },
   {
@@ -539,10 +728,15 @@
     "nameWoDiacritics": "Celendin",
     "subdivision": "CAJ",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0651S 07808W",
+    "coordinates": {
+      "lat": -6.85,
+      "lon": 8.333333333333334
+    },
     "remarks": ""
   },
   {
@@ -553,10 +747,15 @@
     "nameWoDiacritics": "Cerro Azul",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1301S 07629W",
+    "coordinates": {
+      "lat": -13.016666666666667,
+      "lon": 8.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -567,10 +766,15 @@
     "nameWoDiacritics": "Cerro de Pasco",
     "subdivision": "PAS",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "1041S 07616W",
+    "coordinates": {
+      "lat": -10.683333333333334,
+      "lon": 8.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -581,10 +785,15 @@
     "nameWoDiacritics": "Chachapoyas",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -595,10 +804,15 @@
     "nameWoDiacritics": "Chancan",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "1612S 07229W",
+    "coordinates": {
+      "lat": -16.2,
+      "lon": 7.366666666666666
+    },
     "remarks": ""
   },
   {
@@ -609,10 +823,15 @@
     "nameWoDiacritics": "Chancay",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -623,10 +842,15 @@
     "nameWoDiacritics": "Chanchamayo",
     "subdivision": "ICA",
     "status": "RQ",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "1342S 07548W",
+    "coordinates": {
+      "lat": -13.7,
+      "lon": 7.9
+    },
     "remarks": ""
   },
   {
@@ -637,10 +861,16 @@
     "nameWoDiacritics": "Chepen",
     "subdivision": "LAL",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "0713S 07927W",
+    "coordinates": {
+      "lat": -7.216666666666667,
+      "lon": 8.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -651,10 +881,15 @@
     "nameWoDiacritics": "Chiclayo",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -665,10 +900,16 @@
     "nameWoDiacritics": "Chimbote",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -679,10 +920,15 @@
     "nameWoDiacritics": "Chincha",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "1719S 07100W",
+    "coordinates": {
+      "lat": -17.316666666666666,
+      "lon": 7.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -693,10 +939,15 @@
     "nameWoDiacritics": "Chincha Alta",
     "subdivision": "ICA",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "1327S 07608W",
+    "coordinates": {
+      "lat": -13.45,
+      "lon": 8
+    },
     "remarks": ""
   },
   {
@@ -707,10 +958,15 @@
     "nameWoDiacritics": "Chincha Baja",
     "subdivision": "ICA",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "1328S 07610W",
+    "coordinates": {
+      "lat": -13.466666666666667,
+      "lon": 8.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -721,10 +977,15 @@
     "nameWoDiacritics": "Chincheros",
     "subdivision": "APU",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1331S 07343W",
+    "coordinates": {
+      "lat": -13.516666666666667,
+      "lon": 7.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -735,10 +996,15 @@
     "nameWoDiacritics": "Chorillos",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "1210S 07702W",
+    "coordinates": {
+      "lat": -12.166666666666666,
+      "lon": 8.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -749,10 +1015,15 @@
     "nameWoDiacritics": "Chota",
     "subdivision": "CAJ",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0633S 07838W",
+    "coordinates": {
+      "lat": -6.55,
+      "lon": 8.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -763,10 +1034,15 @@
     "nameWoDiacritics": "Chucuito",
     "subdivision": "PUN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1553S 06953W",
+    "coordinates": {
+      "lat": -15.883333333333333,
+      "lon": 7.583333333333333
+    },
     "remarks": ""
   },
   {
@@ -777,10 +1053,15 @@
     "nameWoDiacritics": "Chupaca",
     "subdivision": "JUN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1203S 07517W",
+    "coordinates": {
+      "lat": -12.05,
+      "lon": 7.85
+    },
     "remarks": ""
   },
   {
@@ -791,10 +1072,15 @@
     "nameWoDiacritics": "Churcampa",
     "subdivision": "HUV",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1244S 07423W",
+    "coordinates": {
+      "lat": -12.733333333333333,
+      "lon": 7.7
+    },
     "remarks": ""
   },
   {
@@ -805,10 +1091,15 @@
     "nameWoDiacritics": "Comas",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "1157S 07704W",
+    "coordinates": {
+      "lat": -11.95,
+      "lon": 8.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -819,10 +1110,15 @@
     "nameWoDiacritics": "Concepcion",
     "subdivision": "JUN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1155S 07518W",
+    "coordinates": {
+      "lat": -11.916666666666666,
+      "lon": 7.85
+    },
     "remarks": ""
   },
   {
@@ -833,10 +1129,17 @@
     "nameWoDiacritics": "Conchan",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3--6--",
+    "function": [
+      0,
+      2,
+      5
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "0625S 07840W",
+    "coordinates": {
+      "lat": -6.416666666666667,
+      "lon": 8.4
+    },
     "remarks": ""
   },
   {
@@ -847,10 +1150,15 @@
     "nameWoDiacritics": "Contumaza",
     "subdivision": "CAJ",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0721S 07848W",
+    "coordinates": {
+      "lat": -7.35,
+      "lon": 8.4
+    },
     "remarks": ""
   },
   {
@@ -861,10 +1169,15 @@
     "nameWoDiacritics": "Coronel Portillo",
     "subdivision": "LOR",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "0315S 07636W",
+    "coordinates": {
+      "lat": -3.25,
+      "lon": 8.05
+    },
     "remarks": ""
   },
   {
@@ -875,10 +1188,15 @@
     "nameWoDiacritics": "Corongo",
     "subdivision": "ANC",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0835S 07755W",
+    "coordinates": {
+      "lat": -8.583333333333334,
+      "lon": 8.25
+    },
     "remarks": ""
   },
   {
@@ -889,10 +1207,15 @@
     "nameWoDiacritics": "Cutervo",
     "subdivision": "CAJ",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0622S 07849W",
+    "coordinates": {
+      "lat": -6.366666666666666,
+      "lon": 8.4
+    },
     "remarks": ""
   },
   {
@@ -903,10 +1226,16 @@
     "nameWoDiacritics": "Cuzco",
     "subdivision": "CUS",
     "status": "AI",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "1332S 07159W",
+    "coordinates": {
+      "lat": -13.533333333333333,
+      "lon": 7.25
+    },
     "remarks": ""
   },
   {
@@ -917,10 +1246,15 @@
     "nameWoDiacritics": "Desaguadero",
     "subdivision": "PUN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "1634S 06903W",
+    "coordinates": {
+      "lat": -16.566666666666666,
+      "lon": 7.5
+    },
     "remarks": ""
   },
   {
@@ -931,10 +1265,15 @@
     "nameWoDiacritics": "Eten",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -945,10 +1284,15 @@
     "nameWoDiacritics": "Ferrenafe",
     "subdivision": "LAM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0643S 07946W",
+    "coordinates": {
+      "lat": -6.716666666666667,
+      "lon": 8.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -959,10 +1303,15 @@
     "nameWoDiacritics": "General San Martin",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -973,10 +1322,15 @@
     "nameWoDiacritics": "Guadalupe",
     "subdivision": "LAL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "0715S 07929W",
+    "coordinates": {
+      "lat": -7.25,
+      "lon": 8.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -987,10 +1341,15 @@
     "nameWoDiacritics": "Huacaybamba",
     "subdivision": "HUC",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0902S 07657W",
+    "coordinates": {
+      "lat": -9.033333333333333,
+      "lon": 8.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -1001,10 +1360,15 @@
     "nameWoDiacritics": "Huacho",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1015,10 +1379,15 @@
     "nameWoDiacritics": "Huanca Sancos",
     "subdivision": "AYA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1346S 07419W",
+    "coordinates": {
+      "lat": -13.766666666666667,
+      "lon": 7.683333333333334
+    },
     "remarks": ""
   },
   {
@@ -1029,10 +1398,15 @@
     "nameWoDiacritics": "Huancabamba",
     "subdivision": "PIU",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0514S 07926W",
+    "coordinates": {
+      "lat": -5.233333333333333,
+      "lon": 8.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -1043,10 +1417,15 @@
     "nameWoDiacritics": "Huancane",
     "subdivision": "PUN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1512S 06945W",
+    "coordinates": {
+      "lat": -15.2,
+      "lon": 7.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -1057,10 +1436,15 @@
     "nameWoDiacritics": "Huancavelica",
     "subdivision": "HUV",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1246S 07459W",
+    "coordinates": {
+      "lat": -12.766666666666667,
+      "lon": 7.75
+    },
     "remarks": ""
   },
   {
@@ -1071,10 +1455,15 @@
     "nameWoDiacritics": "Huancayo",
     "subdivision": "JUN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "1204S 07514W",
+    "coordinates": {
+      "lat": -12.066666666666666,
+      "lon": 7.85
+    },
     "remarks": ""
   },
   {
@@ -1085,10 +1474,15 @@
     "nameWoDiacritics": "Huanta",
     "subdivision": "AYA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1256S 07414W",
+    "coordinates": {
+      "lat": -12.933333333333334,
+      "lon": 7.683333333333334
+    },
     "remarks": ""
   },
   {
@@ -1099,10 +1493,15 @@
     "nameWoDiacritics": "Huanuco",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1113,10 +1512,16 @@
     "nameWoDiacritics": "Huaral",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "1129S 07712W",
+    "coordinates": {
+      "lat": -11.483333333333333,
+      "lon": 8.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -1127,10 +1532,15 @@
     "nameWoDiacritics": "Huaraz",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "0932S 07732W",
+    "coordinates": {
+      "lat": -9.533333333333333,
+      "lon": 8.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -1141,10 +1551,15 @@
     "nameWoDiacritics": "Huari",
     "subdivision": "ANC",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0922S 07714W",
+    "coordinates": {
+      "lat": -9.366666666666667,
+      "lon": 8.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -1155,10 +1570,15 @@
     "nameWoDiacritics": "Huarmey",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1169,10 +1589,15 @@
     "nameWoDiacritics": "Huaytara",
     "subdivision": "HUV",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1336S 07521W",
+    "coordinates": {
+      "lat": -13.6,
+      "lon": 7.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -1183,10 +1608,15 @@
     "nameWoDiacritics": "Iberia",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1197,10 +1627,15 @@
     "nameWoDiacritics": "Ica",
     "subdivision": "ICA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0501",
     "iata": "",
-    "coordinates": "1404S 07543W",
+    "coordinates": {
+      "lat": -14.066666666666666,
+      "lon": 7.9
+    },
     "remarks": ""
   },
   {
@@ -1211,10 +1646,16 @@
     "nameWoDiacritics": "Ilo",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1225,10 +1666,16 @@
     "nameWoDiacritics": "Iquitos",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1239,10 +1686,15 @@
     "nameWoDiacritics": "Jaen",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "0543S 07849W",
+    "coordinates": {
+      "lat": -5.716666666666667,
+      "lon": 8.4
+    },
     "remarks": ""
   },
   {
@@ -1253,10 +1705,15 @@
     "nameWoDiacritics": "Jauja",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1267,10 +1724,15 @@
     "nameWoDiacritics": "Juanjui",
     "subdivision": "SAM",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "0711S 07645W",
+    "coordinates": {
+      "lat": -7.183333333333334,
+      "lon": 8.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1281,10 +1743,15 @@
     "nameWoDiacritics": "Juliaca",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1295,10 +1762,15 @@
     "nameWoDiacritics": "Junin",
     "subdivision": "JUN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "1109S 07559W",
+    "coordinates": {
+      "lat": -11.15,
+      "lon": 7.916666666666667
+    },
     "remarks": ""
   },
   {
@@ -1309,10 +1781,15 @@
     "nameWoDiacritics": "La Merced",
     "subdivision": "JUN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "1103S 07520W",
+    "coordinates": {
+      "lat": -11.05,
+      "lon": 7.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -1323,10 +1800,15 @@
     "nameWoDiacritics": "La Molina",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "1205S 07657W",
+    "coordinates": {
+      "lat": -12.083333333333334,
+      "lon": 8.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -1337,10 +1819,15 @@
     "nameWoDiacritics": "La Oroya",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0006",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1351,10 +1838,15 @@
     "nameWoDiacritics": "La Pampilla",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9506",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1365,10 +1857,15 @@
     "nameWoDiacritics": "La Planchada",
     "subdivision": "ARE",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1624S 07313W",
+    "coordinates": {
+      "lat": -16.4,
+      "lon": 7.516666666666667
+    },
     "remarks": ""
   },
   {
@@ -1379,10 +1876,15 @@
     "nameWoDiacritics": "Lagunas",
     "subdivision": "LOR",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1007",
     "iata": "",
-    "coordinates": "0513S 07540W",
+    "coordinates": {
+      "lat": -5.216666666666667,
+      "lon": 7.9
+    },
     "remarks": ""
   },
   {
@@ -1393,10 +1895,15 @@
     "nameWoDiacritics": "Lamas",
     "subdivision": "SAM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "0625S 07632W",
+    "coordinates": {
+      "lat": -6.416666666666667,
+      "lon": 8.05
+    },
     "remarks": ""
   },
   {
@@ -1407,10 +1914,15 @@
     "nameWoDiacritics": "Lambayeque",
     "subdivision": "LAM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "0642S 07954W",
+    "coordinates": {
+      "lat": -6.7,
+      "lon": 8.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -1421,10 +1933,15 @@
     "nameWoDiacritics": "Lampa",
     "subdivision": "PUN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1521S 07021W",
+    "coordinates": {
+      "lat": -15.35,
+      "lon": 7.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -1435,10 +1952,15 @@
     "nameWoDiacritics": "Lauricocha",
     "subdivision": "HUC",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1019S 07640W",
+    "coordinates": {
+      "lat": -10.316666666666666,
+      "lon": 8.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1449,10 +1971,17 @@
     "nameWoDiacritics": "Lima",
     "subdivision": "",
     "status": "AI",
-    "function": "1--45---",
+    "function": [
+      0,
+      3,
+      4
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1463,10 +1992,15 @@
     "nameWoDiacritics": "Lince",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "1206N 07703W",
+    "coordinates": {
+      "lat": 12.1,
+      "lon": 8.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1477,10 +2011,15 @@
     "nameWoDiacritics": "Lobitos",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1491,10 +2030,15 @@
     "nameWoDiacritics": "Los Olivos",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "1151S 07623W",
+    "coordinates": {
+      "lat": -11.85,
+      "lon": 8.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -1505,10 +2049,15 @@
     "nameWoDiacritics": "Los Organos",
     "subdivision": "",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "0411S 08107W",
+    "coordinates": {
+      "lat": -4.183333333333334,
+      "lon": 8.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1519,10 +2068,15 @@
     "nameWoDiacritics": "Lurin",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "1217S 07652W",
+    "coordinates": {
+      "lat": -12.283333333333333,
+      "lon": 8.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -1533,10 +2087,15 @@
     "nameWoDiacritics": "Machu Picchu",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1547,10 +2106,15 @@
     "nameWoDiacritics": "Magdalena",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "1139S 07613W",
+    "coordinates": {
+      "lat": -11.65,
+      "lon": 8.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -1561,10 +2125,15 @@
     "nameWoDiacritics": "Mala",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1239S 07638W",
+    "coordinates": {
+      "lat": -12.65,
+      "lon": 8.05
+    },
     "remarks": ""
   },
   {
@@ -1575,10 +2144,15 @@
     "nameWoDiacritics": "Mancora",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9811",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1589,10 +2163,15 @@
     "nameWoDiacritics": "Mara",
     "subdivision": "CUS",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "1319S 07209W",
+    "coordinates": {
+      "lat": -13.316666666666666,
+      "lon": 7.333333333333333
+    },
     "remarks": ""
   },
   {
@@ -1603,10 +2182,15 @@
     "nameWoDiacritics": "Matarani",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1617,10 +2201,15 @@
     "nameWoDiacritics": "Moho",
     "subdivision": "PUN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1521S 06929W",
+    "coordinates": {
+      "lat": -15.35,
+      "lon": 7.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -1631,10 +2220,16 @@
     "nameWoDiacritics": "Mollendo",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1645,10 +2240,15 @@
     "nameWoDiacritics": "Monterrico Chico",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "1206S 07658W",
+    "coordinates": {
+      "lat": -12.1,
+      "lon": 8.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -1659,10 +2259,15 @@
     "nameWoDiacritics": "Moquegua",
     "subdivision": "MOQ",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1711S 07056W",
+    "coordinates": {
+      "lat": -17.183333333333334,
+      "lon": 7.083333333333333
+    },
     "remarks": ""
   },
   {
@@ -1673,10 +2278,16 @@
     "nameWoDiacritics": "Morales",
     "subdivision": "SAM",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "0628S 07628W",
+    "coordinates": {
+      "lat": -6.466666666666667,
+      "lon": 8.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -1687,10 +2298,15 @@
     "nameWoDiacritics": "Moyobamba",
     "subdivision": "AYA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0907",
     "iata": "",
-    "coordinates": "1423S 07354W",
+    "coordinates": {
+      "lat": -14.383333333333333,
+      "lon": 7.583333333333333
+    },
     "remarks": ""
   },
   {
@@ -1701,10 +2317,15 @@
     "nameWoDiacritics": "Moyobamba",
     "subdivision": "SAM",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0907",
     "iata": "",
-    "coordinates": "0602S 07659W",
+    "coordinates": {
+      "lat": -6.033333333333333,
+      "lon": 8.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -1715,10 +2336,15 @@
     "nameWoDiacritics": "Nasca",
     "subdivision": "ICA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1449S 07456W",
+    "coordinates": {
+      "lat": -14.816666666666666,
+      "lon": 7.75
+    },
     "remarks": ""
   },
   {
@@ -1729,10 +2355,15 @@
     "nameWoDiacritics": "Negritos",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9506",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1743,10 +2374,15 @@
     "nameWoDiacritics": "Ocros",
     "subdivision": "ANC",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1024S 07723W",
+    "coordinates": {
+      "lat": -10.4,
+      "lon": 8.2
+    },
     "remarks": ""
   },
   {
@@ -1757,10 +2393,15 @@
     "nameWoDiacritics": "Olmos",
     "subdivision": "LAM",
     "status": "RQ",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "0559S 07944W",
+    "coordinates": {
+      "lat": -5.983333333333333,
+      "lon": 8.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -1771,10 +2412,15 @@
     "nameWoDiacritics": "Oquendo",
     "subdivision": "CAL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0501",
     "iata": "",
-    "coordinates": "1158S 07708W",
+    "coordinates": {
+      "lat": -11.966666666666667,
+      "lon": 8.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1785,10 +2431,15 @@
     "nameWoDiacritics": "Otuzco",
     "subdivision": "LAL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0754S 07835W",
+    "coordinates": {
+      "lat": -7.9,
+      "lon": 8.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -1799,10 +2450,15 @@
     "nameWoDiacritics": "Oyon",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1040S 07646W",
+    "coordinates": {
+      "lat": -10.666666666666666,
+      "lon": 8.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1813,10 +2469,15 @@
     "nameWoDiacritics": "Pacasmayo",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1827,10 +2488,15 @@
     "nameWoDiacritics": "Pachacamac",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "1214S 07653W",
+    "coordinates": {
+      "lat": -12.233333333333333,
+      "lon": 8.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -1841,10 +2507,15 @@
     "nameWoDiacritics": "Paita",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1855,10 +2526,15 @@
     "nameWoDiacritics": "Palpa",
     "subdivision": "ICA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1432S 07511W",
+    "coordinates": {
+      "lat": -14.533333333333333,
+      "lon": 7.85
+    },
     "remarks": ""
   },
   {
@@ -1869,10 +2545,15 @@
     "nameWoDiacritics": "Pampa Melchorita",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "1318S 07747W",
+    "coordinates": {
+      "lat": -13.3,
+      "lon": 8.233333333333334
+    },
     "remarks": ""
   },
   {
@@ -1883,10 +2564,15 @@
     "nameWoDiacritics": "Paracas",
     "subdivision": "ICA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1352S 07616W",
+    "coordinates": {
+      "lat": -13.866666666666667,
+      "lon": 8.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -1897,10 +2583,15 @@
     "nameWoDiacritics": "Paramonga",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9506",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1911,10 +2602,15 @@
     "nameWoDiacritics": "Paruro",
     "subdivision": "CUS",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1345S 07150W",
+    "coordinates": {
+      "lat": -13.75,
+      "lon": 7.25
+    },
     "remarks": ""
   },
   {
@@ -1925,10 +2621,15 @@
     "nameWoDiacritics": "Paucartambo",
     "subdivision": "CUS",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1318S 07135W",
+    "coordinates": {
+      "lat": -13.3,
+      "lon": 7.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -1939,10 +2640,15 @@
     "nameWoDiacritics": "Pimentel",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1953,10 +2659,16 @@
     "nameWoDiacritics": "Pisco",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1967,10 +2679,15 @@
     "nameWoDiacritics": "Piura",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1981,10 +2698,15 @@
     "nameWoDiacritics": "Pomabamba",
     "subdivision": "ANC",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0849S 07727W",
+    "coordinates": {
+      "lat": -8.816666666666666,
+      "lon": 8.2
+    },
     "remarks": ""
   },
   {
@@ -1995,10 +2717,16 @@
     "nameWoDiacritics": "Pucallpa",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2009,10 +2737,15 @@
     "nameWoDiacritics": "Pueblo Libre",
     "subdivision": "LAL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "0831S 07707W",
+    "coordinates": {
+      "lat": -8.516666666666667,
+      "lon": 8.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -2023,10 +2756,15 @@
     "nameWoDiacritics": "Puente Piedra",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "1152S 07703W",
+    "coordinates": {
+      "lat": -11.866666666666667,
+      "lon": 8.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -2037,10 +2775,15 @@
     "nameWoDiacritics": "Puerto Callao",
     "subdivision": "UCA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "0821S 07434W",
+    "coordinates": {
+      "lat": -8.35,
+      "lon": 7.716666666666667
+    },
     "remarks": ""
   },
   {
@@ -2051,10 +2794,15 @@
     "nameWoDiacritics": "Puerto Chicama",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2065,10 +2813,15 @@
     "nameWoDiacritics": "Puerto Inca",
     "subdivision": "HUC",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0922S 07457W",
+    "coordinates": {
+      "lat": -9.366666666666667,
+      "lon": 7.75
+    },
     "remarks": ""
   },
   {
@@ -2079,10 +2832,16 @@
     "nameWoDiacritics": "Puerto Maldonado",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2093,10 +2852,15 @@
     "nameWoDiacritics": "Punchana",
     "subdivision": "LOR",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "0343S 07314W",
+    "coordinates": {
+      "lat": -3.716666666666667,
+      "lon": 7.516666666666667
+    },
     "remarks": ""
   },
   {
@@ -2107,10 +2871,15 @@
     "nameWoDiacritics": "Puno",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2121,10 +2890,15 @@
     "nameWoDiacritics": "Punta Hermosa",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "1220S 07649W",
+    "coordinates": {
+      "lat": -12.333333333333334,
+      "lon": 8.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -2135,10 +2909,15 @@
     "nameWoDiacritics": "Punta Lobitos",
     "subdivision": "ANC",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1005S 07811W",
+    "coordinates": {
+      "lat": -10.083333333333334,
+      "lon": 8.35
+    },
     "remarks": ""
   },
   {
@@ -2149,10 +2928,15 @@
     "nameWoDiacritics": "Quince Mil",
     "subdivision": "CUS",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1314S 07046W",
+    "coordinates": {
+      "lat": -13.233333333333333,
+      "lon": 7.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -2163,10 +2947,16 @@
     "nameWoDiacritics": "Quinches",
     "subdivision": "",
     "status": "RL",
-    "function": "--3--6--",
+    "function": [
+      2,
+      5
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "1218S 07608W",
+    "coordinates": {
+      "lat": -12.3,
+      "lon": 8
+    },
     "remarks": ""
   },
   {
@@ -2177,10 +2967,15 @@
     "nameWoDiacritics": "Recuay",
     "subdivision": "ANC",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0943S 07727W",
+    "coordinates": {
+      "lat": -9.716666666666667,
+      "lon": 8.2
+    },
     "remarks": ""
   },
   {
@@ -2191,10 +2986,15 @@
     "nameWoDiacritics": "Requena",
     "subdivision": "LOR",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0503S 07351W",
+    "coordinates": {
+      "lat": -5.05,
+      "lon": 7.583333333333333
+    },
     "remarks": ""
   },
   {
@@ -2205,10 +3005,15 @@
     "nameWoDiacritics": "Rioja",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2219,10 +3024,15 @@
     "nameWoDiacritics": "Rodriguez de Mendoza",
     "subdivision": "AMA",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "0620S 07725W",
+    "coordinates": {
+      "lat": -6.333333333333333,
+      "lon": 8.2
+    },
     "remarks": ""
   },
   {
@@ -2233,10 +3043,15 @@
     "nameWoDiacritics": "Salaverry",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2247,10 +3062,15 @@
     "nameWoDiacritics": "Samanco",
     "subdivision": "",
     "status": "QQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2261,10 +3081,16 @@
     "nameWoDiacritics": "San Bartolo",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "1----6--",
+    "function": [
+      0,
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1223S 07647W",
+    "coordinates": {
+      "lat": -12.383333333333333,
+      "lon": 8.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -2275,10 +3101,15 @@
     "nameWoDiacritics": "San Borja/Lima",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1206S 07701W",
+    "coordinates": {
+      "lat": -12.1,
+      "lon": 8.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -2289,10 +3120,15 @@
     "nameWoDiacritics": "San Ignacio",
     "subdivision": "CAJ",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "0508S 07900W",
+    "coordinates": {
+      "lat": -5.133333333333334,
+      "lon": 8.5
+    },
     "remarks": ""
   },
   {
@@ -2303,10 +3139,15 @@
     "nameWoDiacritics": "San Isidro",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "1207S 07703W",
+    "coordinates": {
+      "lat": -12.116666666666667,
+      "lon": 8.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -2317,10 +3158,16 @@
     "nameWoDiacritics": "San Juan",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2331,10 +3178,15 @@
     "nameWoDiacritics": "San Juan Aposento",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2345,10 +3197,15 @@
     "nameWoDiacritics": "San Nicolas",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2359,10 +3216,15 @@
     "nameWoDiacritics": "San Pablo",
     "subdivision": "CAJ",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0706S 07849W",
+    "coordinates": {
+      "lat": -7.1,
+      "lon": 8.4
+    },
     "remarks": ""
   },
   {
@@ -2373,10 +3235,15 @@
     "nameWoDiacritics": "San Vicente De Canete",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1305S 07624W",
+    "coordinates": {
+      "lat": -13.083333333333334,
+      "lon": 8.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -2387,10 +3254,15 @@
     "nameWoDiacritics": "Sandia",
     "subdivision": "PUN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1414S 06926W",
+    "coordinates": {
+      "lat": -14.233333333333333,
+      "lon": 7.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -2401,10 +3273,15 @@
     "nameWoDiacritics": "Santa Maria",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2415,10 +3292,15 @@
     "nameWoDiacritics": "Santiago de Chuco",
     "subdivision": "LAL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0809S 07810W",
+    "coordinates": {
+      "lat": -8.15,
+      "lon": 8.35
+    },
     "remarks": ""
   },
   {
@@ -2429,10 +3311,15 @@
     "nameWoDiacritics": "Saposoa",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2443,10 +3330,15 @@
     "nameWoDiacritics": "Satipo",
     "subdivision": "JUN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1115S 07438W",
+    "coordinates": {
+      "lat": -11.25,
+      "lon": 7.716666666666667
+    },
     "remarks": ""
   },
   {
@@ -2457,10 +3349,15 @@
     "nameWoDiacritics": "Shiringayoc",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2471,10 +3368,15 @@
     "nameWoDiacritics": "Sihuas",
     "subdivision": "ANC",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0833S 07737W",
+    "coordinates": {
+      "lat": -8.55,
+      "lon": 8.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -2485,10 +3387,15 @@
     "nameWoDiacritics": "Sullana",
     "subdivision": "HUV",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "1300S 07442W",
+    "coordinates": {
+      "lat": -13,
+      "lon": 7.733333333333333
+    },
     "remarks": ""
   },
   {
@@ -2499,10 +3406,15 @@
     "nameWoDiacritics": "Supe",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2513,10 +3425,15 @@
     "nameWoDiacritics": "Surco",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "1209S 07701W",
+    "coordinates": {
+      "lat": -12.15,
+      "lon": 8.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -2527,10 +3444,15 @@
     "nameWoDiacritics": "Surquillo",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "1207S 07702W",
+    "coordinates": {
+      "lat": -12.116666666666667,
+      "lon": 8.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -2541,10 +3463,15 @@
     "nameWoDiacritics": "Tacna",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2555,10 +3482,16 @@
     "nameWoDiacritics": "Talara",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2569,10 +3502,15 @@
     "nameWoDiacritics": "Tambo de Mora",
     "subdivision": "CUS",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1328S 07612W",
+    "coordinates": {
+      "lat": -13.466666666666667,
+      "lon": 8.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -2583,10 +3521,16 @@
     "nameWoDiacritics": "Tambo Grande",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "1600S 07402W",
+    "coordinates": {
+      "lat": -16,
+      "lon": 7.666666666666667
+    },
     "remarks": ""
   },
   {
@@ -2597,10 +3541,15 @@
     "nameWoDiacritics": "Tarapoto",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2611,10 +3560,15 @@
     "nameWoDiacritics": "Tarata",
     "subdivision": "TAC",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1728S 07001W",
+    "coordinates": {
+      "lat": -17.466666666666665,
+      "lon": 7
+    },
     "remarks": ""
   },
   {
@@ -2625,10 +3579,15 @@
     "nameWoDiacritics": "Tarma",
     "subdivision": "JUN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1125S 07541W",
+    "coordinates": {
+      "lat": -11.416666666666666,
+      "lon": 7.9
+    },
     "remarks": ""
   },
   {
@@ -2639,10 +3598,15 @@
     "nameWoDiacritics": "Tingo Maria",
     "subdivision": "HUC",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "0918S 07559W",
+    "coordinates": {
+      "lat": -9.3,
+      "lon": 7.916666666666667
+    },
     "remarks": ""
   },
   {
@@ -2653,10 +3617,15 @@
     "nameWoDiacritics": "Tocache",
     "subdivision": "SAM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "0811S 07630W",
+    "coordinates": {
+      "lat": -8.183333333333334,
+      "lon": 8.05
+    },
     "remarks": ""
   },
   {
@@ -2667,10 +3636,16 @@
     "nameWoDiacritics": "Trujillo",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2681,10 +3656,15 @@
     "nameWoDiacritics": "Tumbes",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2695,10 +3675,15 @@
     "nameWoDiacritics": "Urubamba",
     "subdivision": "CUS",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1318S 07207W",
+    "coordinates": {
+      "lat": -13.3,
+      "lon": 7.333333333333333
+    },
     "remarks": ""
   },
   {
@@ -2709,10 +3694,15 @@
     "nameWoDiacritics": "Vilcashuaman",
     "subdivision": "AYA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1339S 07357W",
+    "coordinates": {
+      "lat": -13.65,
+      "lon": 7.583333333333333
+    },
     "remarks": ""
   },
   {
@@ -2723,10 +3713,15 @@
     "nameWoDiacritics": "Villa El Salvador",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "1203S 07700W",
+    "coordinates": {
+      "lat": -12.05,
+      "lon": 8.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -2737,10 +3732,15 @@
     "nameWoDiacritics": "Viru",
     "subdivision": "LAL",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "0825S 07845W",
+    "coordinates": {
+      "lat": -8.416666666666666,
+      "lon": 8.4
+    },
     "remarks": ""
   },
   {
@@ -2751,10 +3751,15 @@
     "nameWoDiacritics": "Yauyos",
     "subdivision": "LIM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1227S 07554W",
+    "coordinates": {
+      "lat": -12.45,
+      "lon": 7.916666666666667
+    },
     "remarks": ""
   },
   {
@@ -2765,10 +3770,15 @@
     "nameWoDiacritics": "Yungay",
     "subdivision": "ANC",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0908S 07744W",
+    "coordinates": {
+      "lat": -9.133333333333333,
+      "lon": 8.233333333333334
+    },
     "remarks": ""
   },
   {
@@ -2779,10 +3789,15 @@
     "nameWoDiacritics": "Yunguyo",
     "subdivision": "PUN",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1614S 06905W",
+    "coordinates": {
+      "lat": -16.233333333333334,
+      "lon": 7.5
+    },
     "remarks": ""
   },
   {
@@ -2793,10 +3808,16 @@
     "nameWoDiacritics": "Yurimaguas",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2807,10 +3828,15 @@
     "nameWoDiacritics": "Zarumilla",
     "subdivision": "TUM",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0330S 08016W",
+    "coordinates": {
+      "lat": -3.5,
+      "lon": 8.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -2821,10 +3847,15 @@
     "nameWoDiacritics": "Zorritos",
     "subdivision": "",
     "status": "QQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   }
 ]

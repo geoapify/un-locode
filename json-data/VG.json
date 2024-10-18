@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Anegada",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,13 @@
     "nameWoDiacritics": " Tortola\"",
     "subdivision": "\"Beef Island",
     "status": " Tortola\"",
-    "function": "",
+    "function": [],
     "date": "AI",
     "iata": "1--4----",
-    "coordinates": "9501",
+    "coordinates": {
+      "lat": 95.01666666666667,
+      "lon": null
+    },
     "remarks": ""
   },
   {
@@ -49,10 +60,15 @@
     "nameWoDiacritics": "Jost Van Dyke",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1827N 06444W",
+    "coordinates": {
+      "lat": 18.45,
+      "lon": 6.733333333333333
+    },
     "remarks": ""
   },
   {
@@ -63,10 +79,15 @@
     "nameWoDiacritics": "N. Sound/Virgin Gorda",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -77,10 +98,15 @@
     "nameWoDiacritics": "Norman Island",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1819N 06437W",
+    "coordinates": {
+      "lat": 18.316666666666666,
+      "lon": 6.716666666666667
+    },
     "remarks": ""
   },
   {
@@ -91,10 +117,16 @@
     "nameWoDiacritics": "Port Purcell",
     "subdivision": "",
     "status": "RQ",
-    "function": "1----6--",
+    "function": [
+      0,
+      5
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "1825N 06436W",
+    "coordinates": {
+      "lat": 18.416666666666668,
+      "lon": 6.716666666666667
+    },
     "remarks": ""
   },
   {
@@ -105,10 +137,13 @@
     "nameWoDiacritics": " Tortola\"",
     "subdivision": "\"Road Town",
     "status": " Tortola\"",
-    "function": "",
+    "function": [],
     "date": "AI",
     "iata": "1--45---",
-    "coordinates": "9501",
+    "coordinates": {
+      "lat": 95.01666666666667,
+      "lon": null
+    },
     "remarks": ""
   },
   {
@@ -119,10 +154,15 @@
     "nameWoDiacritics": "Sopers Hole",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1823N 06442W",
+    "coordinates": {
+      "lat": 18.383333333333333,
+      "lon": 6.733333333333333
+    },
     "remarks": ""
   },
   {
@@ -133,10 +173,15 @@
     "nameWoDiacritics": "Spanish Town",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "1827N 06426W",
+    "coordinates": {
+      "lat": 18.45,
+      "lon": 6.7
+    },
     "remarks": ""
   },
   {
@@ -147,10 +192,16 @@
     "nameWoDiacritics": "Tortola",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -161,10 +212,15 @@
     "nameWoDiacritics": "Virgin Gorda",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   }
 ]

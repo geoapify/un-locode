@@ -1,17 +1,12 @@
 [
   {
-    "change": "",
     "country": "BT",
-    "location": "",
     "name": ".BHUTAN",
-    "nameWoDiacritics": "",
-    "subdivision": "",
-    "status": "",
-    "function": "",
-    "date": "",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [],
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
     "change": "+",
@@ -19,13 +14,16 @@
     "location": "CCS",
     "name": "Chuchungsa",
     "nameWoDiacritics": "Chuchungsa",
-    "subdivision": "14",
-    "status": "",
-    "function": "--3--6--",
-    "date": "2307",
-    "iata": "",
-    "coordinates": "26.9826N 88.9391E",
-    "remarks": ""
+    "subdivision": 14,
+    "function": [
+      2,
+      5
+    ],
+    "date": 2307,
+    "coordinates": {
+      "lat": null,
+      "lon": 6.133333333333334
+    }
   },
   {
     "change": "+",
@@ -33,13 +31,17 @@
     "location": "GLU",
     "name": "Gelephu",
     "nameWoDiacritics": "Gelephu",
-    "subdivision": "31",
-    "status": "",
-    "function": "--34-6--",
-    "date": "2307",
-    "iata": "",
-    "coordinates": "26.8600N 90.4838E",
-    "remarks": ""
+    "subdivision": 31,
+    "function": [
+      2,
+      3,
+      5
+    ],
+    "date": 2307,
+    "coordinates": {
+      "lat": null,
+      "lon": 0.15
+    }
   },
   {
     "change": "+",
@@ -47,13 +49,16 @@
     "location": "JOM",
     "name": "Jomotshangkha",
     "nameWoDiacritics": "Jomotshangkha",
-    "subdivision": "45",
-    "status": "",
-    "function": "--3--6--",
-    "date": "2307",
-    "iata": "",
-    "coordinates": "26.8914N 92.1108E",
-    "remarks": ""
+    "subdivision": 45,
+    "function": [
+      2,
+      5
+    ],
+    "date": 2307,
+    "coordinates": {
+      "lat": null,
+      "lon": 4.15
+    }
   },
   {
     "change": "+",
@@ -61,13 +66,16 @@
     "location": "LMZ",
     "name": "Lhamoizingkha",
     "nameWoDiacritics": "Lhamoizingkha",
-    "subdivision": "22",
-    "status": "",
-    "function": "--3--6--",
-    "date": "2307",
-    "iata": "",
-    "coordinates": "26.7096N 89.8477E",
-    "remarks": ""
+    "subdivision": 22,
+    "function": [
+      2,
+      5
+    ],
+    "date": 2307,
+    "coordinates": {
+      "lat": null,
+      "lon": 6.133333333333334
+    }
   },
   {
     "change": "+",
@@ -75,26 +83,34 @@
     "location": "NYP",
     "name": "Nyonpaling",
     "nameWoDiacritics": "Nyonpaling",
-    "subdivision": "14",
-    "status": "",
-    "function": "--3--6--",
-    "date": "2307",
-    "iata": "",
-    "coordinates": "26.8180N 89.2250E",
-    "remarks": ""
+    "subdivision": 14,
+    "function": [
+      2,
+      5
+    ],
+    "date": 2307,
+    "coordinates": {
+      "lat": null,
+      "lon": 0.13333333333333333
+    }
   },
   {
-    "change": "�",
+    "change": "¶",
     "country": "BT",
     "location": "PBH",
     "name": "Paro",
     "nameWoDiacritics": "Paro",
-    "subdivision": "11",
+    "subdivision": 11,
     "status": "AI",
-    "function": "--34----",
-    "date": "2307",
-    "iata": "",
-    "coordinates": "27.4052N 89.4210E",
+    "function": [
+      2,
+      3
+    ],
+    "date": 2307,
+    "coordinates": {
+      "lat": null,
+      "lon": 2.1333333333333333
+    },
     "remarks": "@Fun@Sub@Coo"
   },
   {
@@ -103,13 +119,16 @@
     "location": "PAS",
     "name": "Pasakha",
     "nameWoDiacritics": "Pasakha",
-    "subdivision": "12",
-    "status": "",
-    "function": "--3--6--",
-    "date": "2307",
-    "iata": "",
-    "coordinates": "26.8389N 89.4317E",
-    "remarks": ""
+    "subdivision": 12,
+    "function": [
+      2,
+      5
+    ],
+    "date": 2307,
+    "coordinates": {
+      "lat": null,
+      "lon": 9.133333333333333
+    }
   },
   {
     "change": "+",
@@ -117,13 +136,16 @@
     "location": "PZT",
     "name": "Pelzomthang (Nganglam)",
     "nameWoDiacritics": "Pelzomthang (Nganglam)",
-    "subdivision": "45",
-    "status": "",
-    "function": "--3--6--",
-    "date": "2307",
-    "iata": "",
-    "coordinates": "26.8044N 91.2647E",
-    "remarks": ""
+    "subdivision": 45,
+    "function": [
+      2,
+      5
+    ],
+    "date": 2307,
+    "coordinates": {
+      "lat": null,
+      "lon": 4.15
+    }
   },
   {
     "change": "+",
@@ -131,26 +153,35 @@
     "location": "PDL",
     "name": "Pendenling",
     "nameWoDiacritics": "Pendenling",
-    "subdivision": "14",
-    "status": "",
-    "function": "--3--6--",
-    "date": "2307",
-    "iata": "",
-    "coordinates": "26.8128N 89.1903E",
-    "remarks": ""
+    "subdivision": 14,
+    "function": [
+      2,
+      5
+    ],
+    "date": 2307,
+    "coordinates": {
+      "lat": null,
+      "lon": 8.133333333333333
+    }
   },
   {
-    "change": "�",
+    "change": "¶",
     "country": "BT",
     "location": "PHU",
     "name": "Phuentsholing",
     "nameWoDiacritics": "Phuentsholing",
-    "subdivision": "11",
+    "subdivision": 11,
     "status": "AI",
-    "function": "--3-56--",
-    "date": "2307",
-    "iata": "",
-    "coordinates": "26.8618N 89.3748E",
+    "function": [
+      2,
+      4,
+      5
+    ],
+    "date": 2307,
+    "coordinates": {
+      "lat": null,
+      "lon": 8.133333333333333
+    },
     "remarks": "@Fun@Sub@Coo"
   },
   {
@@ -159,13 +190,16 @@
     "location": "PRL",
     "name": "Phuntsho Raptenling",
     "nameWoDiacritics": "Phuntsho Raptenling",
-    "subdivision": "45",
-    "status": "",
-    "function": "--3--6--",
-    "date": "2307",
-    "iata": "",
-    "coordinates": "26.7982N 91.5377E",
-    "remarks": ""
+    "subdivision": 45,
+    "function": [
+      2,
+      5
+    ],
+    "date": 2307,
+    "coordinates": {
+      "lat": null,
+      "lon": 2.15
+    }
   },
   {
     "change": "+",
@@ -173,27 +207,32 @@
     "location": "SJR",
     "name": "Samdrup Jongkhar",
     "nameWoDiacritics": "Samdrup Jongkhar",
-    "subdivision": "45",
-    "status": "",
-    "function": "--3--6--",
-    "date": "2307",
-    "iata": "",
-    "coordinates": "26.7929N 91.5022E",
-    "remarks": ""
+    "subdivision": 45,
+    "function": [
+      2,
+      5
+    ],
+    "date": 2307,
+    "coordinates": {
+      "lat": null,
+      "lon": 9.15
+    }
   },
   {
     "change": "+",
     "country": "BT",
     "location": "SMR",
-    "name": "Samrang�",
-    "nameWoDiacritics": "Samrang�",
-    "subdivision": "45",
-    "status": "",
-    "function": "--3-----",
-    "date": "2307",
-    "iata": "",
-    "coordinates": "26.8779N 91.8276E",
-    "remarks": ""
+    "name": "Samrang†",
+    "nameWoDiacritics": "Samrang†",
+    "subdivision": 45,
+    "function": [
+      2
+    ],
+    "date": 2307,
+    "coordinates": {
+      "lat": null,
+      "lon": 9.15
+    }
   },
   {
     "change": "+",
@@ -201,13 +240,16 @@
     "location": "SAM",
     "name": "Samtse",
     "nameWoDiacritics": "Samtse",
-    "subdivision": "14",
-    "status": "",
-    "function": "--3--6--",
-    "date": "2307",
-    "iata": "",
-    "coordinates": "26.8923N 89.0950E",
-    "remarks": ""
+    "subdivision": 14,
+    "function": [
+      2,
+      5
+    ],
+    "date": 2307,
+    "coordinates": {
+      "lat": null,
+      "lon": 3.1333333333333333
+    }
   },
   {
     "change": "+",
@@ -215,26 +257,34 @@
     "location": "SAR",
     "name": "Sarpang",
     "nameWoDiacritics": "Sarpang",
-    "subdivision": "",
-    "status": "",
-    "function": "--3--6--",
-    "date": "2307",
-    "iata": "",
-    "coordinates": "26.8556N 90.2698E",
-    "remarks": ""
+    "function": [
+      2,
+      5
+    ],
+    "date": 2307,
+    "coordinates": {
+      "lat": null,
+      "lon": 6.15
+    }
   },
   {
-    "change": "�",
+    "change": "¶",
     "country": "BT",
     "location": "THI",
     "name": "Thimphu",
     "nameWoDiacritics": "Thimphu",
-    "subdivision": "15",
+    "subdivision": 15,
     "status": "RL",
-    "function": "--3-5---",
-    "date": "2307",
+    "function": [
+      2,
+      4
+    ],
+    "date": 2307,
     "iata": "QJC",
-    "coordinates": "27.4738N 89.6387E",
+    "coordinates": {
+      "lat": null,
+      "lon": 8.133333333333333
+    },
     "remarks": "@Fun@Sub@Coo"
   },
   {
@@ -243,12 +293,15 @@
     "location": "YPT",
     "name": "Yangphelthang",
     "nameWoDiacritics": "Yangphelthang",
-    "subdivision": "14",
-    "status": "",
-    "function": "--3--6--",
-    "date": "2307",
-    "iata": "",
-    "coordinates": "26.9374N 89.0233E",
-    "remarks": ""
+    "subdivision": 14,
+    "function": [
+      2,
+      5
+    ],
+    "date": 2307,
+    "coordinates": {
+      "lat": null,
+      "lon": 4.133333333333334
+    }
   }
 ]

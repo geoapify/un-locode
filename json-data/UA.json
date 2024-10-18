@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Alchevs'k",
     "subdivision": "",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "4828N 03847E",
+    "coordinates": {
+      "lat": 48.46666666666667,
+      "lon": 4.4
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,15 @@
     "nameWoDiacritics": "Aleksandria",
     "subdivision": "51",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4840N 03307E",
+    "coordinates": {
+      "lat": 48.666666666666664,
+      "lon": 3.5
+    },
     "remarks": ""
   },
   {
@@ -49,10 +62,16 @@
     "nameWoDiacritics": "Andreevka",
     "subdivision": "63",
     "status": "AM",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "4932N 03637E",
+    "coordinates": {
+      "lat": 49.53333333333333,
+      "lon": 4.05
+    },
     "remarks": ""
   },
   {
@@ -63,10 +82,16 @@
     "nameWoDiacritics": "Armyansk",
     "subdivision": "43",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4606N 03340E",
+    "coordinates": {
+      "lat": 46.1,
+      "lon": 3.5666666666666664
+    },
     "remarks": ""
   },
   {
@@ -77,10 +102,15 @@
     "nameWoDiacritics": "Artemovsk",
     "subdivision": "14",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4835N 03804E",
+    "coordinates": {
+      "lat": 48.583333333333336,
+      "lon": 4.333333333333333
+    },
     "remarks": ""
   },
   {
@@ -91,10 +121,15 @@
     "nameWoDiacritics": "Bachivs'k",
     "subdivision": "59",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "5150N 03416E",
+    "coordinates": {
+      "lat": 51.833333333333336,
+      "lon": 3.6833333333333336
+    },
     "remarks": ""
   },
   {
@@ -105,10 +140,15 @@
     "nameWoDiacritics": "Bagerovo",
     "subdivision": "43",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "4522N 03617E",
+    "coordinates": {
+      "lat": 45.36666666666667,
+      "lon": 4.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -119,10 +159,15 @@
     "nameWoDiacritics": "Bakhchysarai",
     "subdivision": "43",
     "status": "RL",
-    "function": "-2------",
+    "function": [
+      1
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "4445N 03351E",
+    "coordinates": {
+      "lat": 44.75,
+      "lon": 3.5833333333333335
+    },
     "remarks": ""
   },
   {
@@ -133,10 +178,15 @@
     "nameWoDiacritics": "Bakhchysaray",
     "subdivision": "32",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4445N 03352E",
+    "coordinates": {
+      "lat": 44.75,
+      "lon": 3.5833333333333335
+    },
     "remarks": ""
   },
   {
@@ -147,10 +197,15 @@
     "nameWoDiacritics": "Balakleya",
     "subdivision": "53",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "4937N 03345E",
+    "coordinates": {
+      "lat": 49.61666666666667,
+      "lon": 3.5666666666666664
+    },
     "remarks": ""
   },
   {
@@ -161,10 +216,15 @@
     "nameWoDiacritics": "Balta",
     "subdivision": "51",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4756N 02937E",
+    "coordinates": {
+      "lat": 47.93333333333333,
+      "lon": 3.55
+    },
     "remarks": ""
   },
   {
@@ -175,10 +235,16 @@
     "nameWoDiacritics": "Bar",
     "subdivision": "05",
     "status": "AA",
-    "function": "--3--6--",
+    "function": [
+      2,
+      5
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4904N 02740E",
+    "coordinates": {
+      "lat": 49.06666666666667,
+      "lon": 3.2333333333333334
+    },
     "remarks": ""
   },
   {
@@ -189,10 +255,15 @@
     "nameWoDiacritics": "Barativka",
     "subdivision": "48",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "4735N 03221E",
+    "coordinates": {
+      "lat": 47.583333333333336,
+      "lon": 3.3666666666666667
+    },
     "remarks": ""
   },
   {
@@ -203,10 +274,15 @@
     "nameWoDiacritics": "Berdiansk",
     "subdivision": "23",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4645N 03646E",
+    "coordinates": {
+      "lat": 46.75,
+      "lon": 4.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -217,10 +293,15 @@
     "nameWoDiacritics": "Berdychiv",
     "subdivision": "18",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4954N 02835E",
+    "coordinates": {
+      "lat": 49.9,
+      "lon": 3.3833333333333333
+    },
     "remarks": ""
   },
   {
@@ -231,10 +312,15 @@
     "nameWoDiacritics": "Beregovo",
     "subdivision": "21",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4813N 02238E",
+    "coordinates": {
+      "lat": 48.21666666666667,
+      "lon": 2.3833333333333333
+    },
     "remarks": ""
   },
   {
@@ -245,10 +331,15 @@
     "nameWoDiacritics": "Berezan'",
     "subdivision": "30",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "5019N 03128E",
+    "coordinates": {
+      "lat": 50.31666666666667,
+      "lon": 3.2
+    },
     "remarks": ""
   },
   {
@@ -259,10 +350,15 @@
     "nameWoDiacritics": "Berezovitsa",
     "subdivision": "",
     "status": "RQ",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "4946N 02534E",
+    "coordinates": {
+      "lat": 49.766666666666666,
+      "lon": 2.8833333333333333
+    },
     "remarks": ""
   },
   {
@@ -273,10 +369,15 @@
     "nameWoDiacritics": "Bershad",
     "subdivision": "05",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "4822N 02931E",
+    "coordinates": {
+      "lat": 48.36666666666667,
+      "lon": 3.55
+    },
     "remarks": ""
   },
   {
@@ -287,10 +388,15 @@
     "nameWoDiacritics": "Bila Tserkva (Belaja Zerkow)",
     "subdivision": "32",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "4948N 03007E",
+    "coordinates": {
+      "lat": 49.8,
+      "lon": 3
+    },
     "remarks": ""
   },
   {
@@ -301,10 +407,15 @@
     "nameWoDiacritics": "Bilhorod-Dnistrovskyi",
     "subdivision": "51",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4611N 03022E",
+    "coordinates": {
+      "lat": 46.18333333333333,
+      "lon": 3.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -315,10 +426,15 @@
     "nameWoDiacritics": "Bilki",
     "subdivision": "05",
     "status": "AM",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "4857N 02918E",
+    "coordinates": {
+      "lat": 48.95,
+      "lon": 3.5166666666666666
+    },
     "remarks": ""
   },
   {
@@ -329,10 +445,15 @@
     "nameWoDiacritics": "Bobrovitsa",
     "subdivision": "74",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "5045N 03122E",
+    "coordinates": {
+      "lat": 50.75,
+      "lon": 3.2
+    },
     "remarks": ""
   },
   {
@@ -343,10 +464,15 @@
     "nameWoDiacritics": "Bogodukhov",
     "subdivision": "63",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "5009N 03530E",
+    "coordinates": {
+      "lat": 50.15,
+      "lon": 3.8833333333333333
+    },
     "remarks": ""
   },
   {
@@ -357,10 +483,15 @@
     "nameWoDiacritics": "Bohorodchany",
     "subdivision": "26",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4848N 02432E",
+    "coordinates": {
+      "lat": 48.8,
+      "lon": 2.716666666666667
+    },
     "remarks": ""
   },
   {
@@ -371,10 +502,15 @@
     "nameWoDiacritics": "Borispol Intl Apt/kiev",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -385,10 +521,15 @@
     "nameWoDiacritics": "Borodjanka",
     "subdivision": "32",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "5038N 02958E",
+    "coordinates": {
+      "lat": 50.63333333333333,
+      "lon": 3.583333333333333
+    },
     "remarks": ""
   },
   {
@@ -399,10 +540,15 @@
     "nameWoDiacritics": "Boryslav",
     "subdivision": "46",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "4917N 02325E",
+    "coordinates": {
+      "lat": 49.28333333333333,
+      "lon": 2.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -413,10 +559,15 @@
     "nameWoDiacritics": "Boyarka",
     "subdivision": "30",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "5019N 03019E",
+    "coordinates": {
+      "lat": 50.31666666666667,
+      "lon": 3.0166666666666666
+    },
     "remarks": ""
   },
   {
@@ -427,10 +578,15 @@
     "nameWoDiacritics": "Brody",
     "subdivision": "46",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "5005N 02509E",
+    "coordinates": {
+      "lat": 50.083333333333336,
+      "lon": 2.8333333333333335
+    },
     "remarks": ""
   },
   {
@@ -441,10 +597,15 @@
     "nameWoDiacritics": "Broshnev-Osada",
     "subdivision": "26",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "4900N 02406E",
+    "coordinates": {
+      "lat": 49,
+      "lon": 2.6666666666666665
+    },
     "remarks": ""
   },
   {
@@ -455,10 +616,15 @@
     "nameWoDiacritics": "Brovary",
     "subdivision": "32",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0207",
     "iata": "",
-    "coordinates": "5030N 03045E",
+    "coordinates": {
+      "lat": 50.5,
+      "lon": 3.066666666666667
+    },
     "remarks": ""
   },
   {
@@ -469,10 +635,15 @@
     "nameWoDiacritics": "Bucha",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "5034N 03014E",
+    "coordinates": {
+      "lat": 50.56666666666667,
+      "lon": 3.0166666666666666
+    },
     "remarks": ""
   },
   {
@@ -483,10 +654,15 @@
     "nameWoDiacritics": "Buchach",
     "subdivision": "61",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "4905N 02524E",
+    "coordinates": {
+      "lat": 49.083333333333336,
+      "lon": 2.8666666666666667
+    },
     "remarks": ""
   },
   {
@@ -497,10 +673,16 @@
     "nameWoDiacritics": "Cherkasskaya",
     "subdivision": "14",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0407",
     "iata": "",
-    "coordinates": "4850N 03723E",
+    "coordinates": {
+      "lat": 48.833333333333336,
+      "lon": 4.2
+    },
     "remarks": ""
   },
   {
@@ -511,10 +693,15 @@
     "nameWoDiacritics": "Cherkassy",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -525,10 +712,15 @@
     "nameWoDiacritics": "Cherkasy",
     "subdivision": "71",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "4926N 03204E",
+    "coordinates": {
+      "lat": 49.43333333333333,
+      "lon": 3.3333333333333335
+    },
     "remarks": ""
   },
   {
@@ -539,10 +731,15 @@
     "nameWoDiacritics": "Chernigov",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -553,10 +750,15 @@
     "nameWoDiacritics": "Chernihiv",
     "subdivision": "74",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "5130N 03118E",
+    "coordinates": {
+      "lat": 51.5,
+      "lon": 3.183333333333333
+    },
     "remarks": ""
   },
   {
@@ -567,10 +769,17 @@
     "nameWoDiacritics": "Chernivtsi (Chernovtsy)",
     "subdivision": "77",
     "status": "AI",
-    "function": "-234----",
+    "function": [
+      1,
+      2,
+      3
+    ],
     "date": "0501",
     "iata": "",
-    "coordinates": "4818N 02556E",
+    "coordinates": {
+      "lat": 48.3,
+      "lon": 2.9166666666666665
+    },
     "remarks": ""
   },
   {
@@ -581,10 +790,16 @@
     "nameWoDiacritics": "Chernobayevka",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "4641N 03233E",
+    "coordinates": {
+      "lat": 46.68333333333333,
+      "lon": 3.3833333333333333
+    },
     "remarks": ""
   },
   {
@@ -595,10 +810,15 @@
     "nameWoDiacritics": "Chervonograd",
     "subdivision": "46",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "5023N 02414E",
+    "coordinates": {
+      "lat": 50.38333333333333,
+      "lon": 2.6833333333333336
+    },
     "remarks": ""
   },
   {
@@ -609,10 +829,15 @@
     "nameWoDiacritics": "Chinadiyevo",
     "subdivision": "21",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0207",
     "iata": "",
-    "coordinates": "4828N 02250E",
+    "coordinates": {
+      "lat": 48.46666666666667,
+      "lon": 2.4166666666666665
+    },
     "remarks": ""
   },
   {
@@ -623,10 +848,16 @@
     "nameWoDiacritics": "Chop",
     "subdivision": "21",
     "status": "AI",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4826N 02213E",
+    "coordinates": {
+      "lat": 48.43333333333333,
+      "lon": 2.35
+    },
     "remarks": ""
   },
   {
@@ -637,10 +868,15 @@
     "nameWoDiacritics": "Chop-Chierna",
     "subdivision": "",
     "status": "AI",
-    "function": "-2------",
+    "function": [
+      1
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -651,10 +887,15 @@
     "nameWoDiacritics": "Chop-Zakhon",
     "subdivision": "",
     "status": "AI",
-    "function": "-2------",
+    "function": [
+      1
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -665,10 +906,15 @@
     "nameWoDiacritics": "Chornobyl'",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "5116N 03014E",
+    "coordinates": {
+      "lat": 51.266666666666666,
+      "lon": 3.0166666666666666
+    },
     "remarks": ""
   },
   {
@@ -679,10 +925,18 @@
     "nameWoDiacritics": "Chornomorsk",
     "subdivision": "51",
     "status": "AA",
-    "function": "123--6--",
+    "function": [
+      0,
+      1,
+      2,
+      5
+    ],
     "date": "2001",
     "iata": "",
-    "coordinates": "4619N 03040E",
+    "coordinates": {
+      "lat": 46.31666666666667,
+      "lon": 3.066666666666667
+    },
     "remarks": "ex Ilyichevsk"
   },
   {
@@ -693,10 +947,16 @@
     "nameWoDiacritics": "Chuhuyiv",
     "subdivision": "63",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "4950N 03641E",
+    "coordinates": {
+      "lat": 49.833333333333336,
+      "lon": 4.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -707,10 +967,15 @@
     "nameWoDiacritics": "Crimea",
     "subdivision": "43",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "4456N 03406E",
+    "coordinates": {
+      "lat": 44.93333333333333,
+      "lon": 3.6666666666666665
+    },
     "remarks": ""
   },
   {
@@ -721,10 +986,15 @@
     "nameWoDiacritics": "Deliatyn (Delatyn)",
     "subdivision": "26",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "4832N 02438E",
+    "coordinates": {
+      "lat": 48.53333333333333,
+      "lon": 2.716666666666667
+    },
     "remarks": ""
   },
   {
@@ -735,10 +1005,16 @@
     "nameWoDiacritics": "Dergachi",
     "subdivision": "63",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "4958N 03529E",
+    "coordinates": {
+      "lat": 49.96666666666667,
+      "lon": 3.8666666666666667
+    },
     "remarks": ""
   },
   {
@@ -749,10 +1025,16 @@
     "nameWoDiacritics": "Dnipro",
     "subdivision": "12",
     "status": "AI",
-    "function": "-2-4----",
+    "function": [
+      1,
+      3
+    ],
     "date": "2007",
     "iata": "",
-    "coordinates": "4827N 03459E",
+    "coordinates": {
+      "lat": 48.45,
+      "lon": 3.75
+    },
     "remarks": ""
   },
   {
@@ -763,10 +1045,16 @@
     "nameWoDiacritics": "Dniprovs'Ke",
     "subdivision": "12",
     "status": "AM",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "2201",
     "iata": "",
-    "coordinates": "4836N 03425E",
+    "coordinates": {
+      "lat": 48.6,
+      "lon": 3.7
+    },
     "remarks": ""
   },
   {
@@ -777,10 +1065,15 @@
     "nameWoDiacritics": "Dolyna",
     "subdivision": "26",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4858N 02400E",
+    "coordinates": {
+      "lat": 48.96666666666667,
+      "lon": 2.6666666666666665
+    },
     "remarks": ""
   },
   {
@@ -791,10 +1084,16 @@
     "nameWoDiacritics": "Donetsk",
     "subdivision": "14",
     "status": "AI",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "4800N 03748E",
+    "coordinates": {
+      "lat": 48,
+      "lon": 4.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -805,10 +1104,15 @@
     "nameWoDiacritics": "Dorozhnoye",
     "subdivision": "43",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0407",
     "iata": "",
-    "coordinates": "4452N 03349E",
+    "coordinates": {
+      "lat": 44.86666666666667,
+      "lon": 3.5666666666666664
+    },
     "remarks": ""
   },
   {
@@ -819,10 +1123,16 @@
     "nameWoDiacritics": "Dovzhansk",
     "subdivision": "09",
     "status": "AA",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "2001",
     "iata": "",
-    "coordinates": "4804N 03939E",
+    "coordinates": {
+      "lat": 48.06666666666667,
+      "lon": 4.55
+    },
     "remarks": "ex Sverdlovs'k"
   },
   {
@@ -833,10 +1143,15 @@
     "nameWoDiacritics": "Dubno",
     "subdivision": "56",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "5056N 02612E",
+    "coordinates": {
+      "lat": 50.93333333333333,
+      "lon": 3.0166666666666666
+    },
     "remarks": ""
   },
   {
@@ -847,10 +1162,15 @@
     "nameWoDiacritics": "Dubovyazivka",
     "subdivision": "",
     "status": "RQ",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "5176N 03322E",
+    "coordinates": {
+      "lat": 52.266666666666666,
+      "lon": 3.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -861,10 +1181,15 @@
     "nameWoDiacritics": "Dudarkov",
     "subdivision": "32",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "5027N 03057E",
+    "coordinates": {
+      "lat": 50.45,
+      "lon": 3.0833333333333335
+    },
     "remarks": ""
   },
   {
@@ -875,10 +1200,15 @@
     "nameWoDiacritics": "Dzhankoy",
     "subdivision": "",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4543N 03423E",
+    "coordinates": {
+      "lat": 45.71666666666667,
+      "lon": 3.7
+    },
     "remarks": ""
   },
   {
@@ -889,10 +1219,15 @@
     "nameWoDiacritics": "Fastov",
     "subdivision": "30",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "5004N 02955E",
+    "coordinates": {
+      "lat": 50.06666666666667,
+      "lon": 3.583333333333333
+    },
     "remarks": ""
   },
   {
@@ -903,10 +1238,15 @@
     "nameWoDiacritics": "Feodosiia",
     "subdivision": "",
     "status": "AA",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "2001",
     "iata": "",
-    "coordinates": "4502N 03523E",
+    "coordinates": {
+      "lat": 45.03333333333333,
+      "lon": 3.8666666666666667
+    },
     "remarks": ""
   },
   {
@@ -917,10 +1257,15 @@
     "nameWoDiacritics": "Gaysin",
     "subdivision": "05",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "4914N 02904E",
+    "coordinates": {
+      "lat": 49.233333333333334,
+      "lon": 3.5
+    },
     "remarks": ""
   },
   {
@@ -931,10 +1276,15 @@
     "nameWoDiacritics": "Gorenka",
     "subdivision": "30",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -945,10 +1295,15 @@
     "nameWoDiacritics": "Gorodenka",
     "subdivision": "26",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "4840N 02530E",
+    "coordinates": {
+      "lat": 48.666666666666664,
+      "lon": 2.8833333333333333
+    },
     "remarks": ""
   },
   {
@@ -959,10 +1314,15 @@
     "nameWoDiacritics": "Hlobyne",
     "subdivision": "53",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "4923N 03317E",
+    "coordinates": {
+      "lat": 49.38333333333333,
+      "lon": 3.5166666666666666
+    },
     "remarks": ""
   },
   {
@@ -973,10 +1333,15 @@
     "nameWoDiacritics": "Hlukhivtsi",
     "subdivision": "59",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1907",
     "iata": "",
-    "coordinates": "4946N 02844E",
+    "coordinates": {
+      "lat": 49.766666666666666,
+      "lon": 3.4
+    },
     "remarks": ""
   },
   {
@@ -987,10 +1352,16 @@
     "nameWoDiacritics": "Horishni Plavni",
     "subdivision": "53",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "4900N 03338E",
+    "coordinates": {
+      "lat": 49,
+      "lon": 3.55
+    },
     "remarks": ""
   },
   {
@@ -1001,10 +1372,15 @@
     "nameWoDiacritics": "Horodok",
     "subdivision": "68",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "4910N 02634E",
+    "coordinates": {
+      "lat": 49.166666666666664,
+      "lon": 3.05
+    },
     "remarks": ""
   },
   {
@@ -1015,10 +1391,15 @@
     "nameWoDiacritics": "Huszt",
     "subdivision": "21",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "4810N 02317E",
+    "coordinates": {
+      "lat": 48.166666666666664,
+      "lon": 2.5166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1029,10 +1410,15 @@
     "nameWoDiacritics": "Ichnya",
     "subdivision": "74",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "5052N 03223E",
+    "coordinates": {
+      "lat": 50.86666666666667,
+      "lon": 3.3666666666666667
+    },
     "remarks": ""
   },
   {
@@ -1043,10 +1429,15 @@
     "nameWoDiacritics": "Illintsi",
     "subdivision": "05",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4907N 02912E",
+    "coordinates": {
+      "lat": 49.11666666666667,
+      "lon": 3.5166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1057,10 +1448,15 @@
     "nameWoDiacritics": "Irpen'",
     "subdivision": "32",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "5032N 03016E",
+    "coordinates": {
+      "lat": 50.53333333333333,
+      "lon": 3.0166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1071,10 +1467,15 @@
     "nameWoDiacritics": "Irpin'",
     "subdivision": "32",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "5031N 03015E",
+    "coordinates": {
+      "lat": 50.516666666666666,
+      "lon": 3.0166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1085,10 +1486,15 @@
     "nameWoDiacritics": "Irshava",
     "subdivision": "21",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "4818N 02302E",
+    "coordinates": {
+      "lat": 48.3,
+      "lon": 2.5
+    },
     "remarks": ""
   },
   {
@@ -1099,10 +1505,16 @@
     "nameWoDiacritics": "Ivano-Frankivs'k",
     "subdivision": "26",
     "status": "AI",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "4855N 02442E",
+    "coordinates": {
+      "lat": 48.916666666666664,
+      "lon": 2.7333333333333334
+    },
     "remarks": ""
   },
   {
@@ -1113,10 +1525,15 @@
     "nameWoDiacritics": "Iziaslav",
     "subdivision": "07",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "5007N 02648E",
+    "coordinates": {
+      "lat": 50.11666666666667,
+      "lon": 3.0666666666666664
+    },
     "remarks": ""
   },
   {
@@ -1127,10 +1544,15 @@
     "nameWoDiacritics": "Izmail",
     "subdivision": "51",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4519N 02851E",
+    "coordinates": {
+      "lat": 45.31666666666667,
+      "lon": 3.416666666666667
+    },
     "remarks": ""
   },
   {
@@ -1141,10 +1563,15 @@
     "nameWoDiacritics": "Kakhovka",
     "subdivision": "65",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "4648N 03328E",
+    "coordinates": {
+      "lat": 46.8,
+      "lon": 3.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -1155,10 +1582,16 @@
     "nameWoDiacritics": "Kalush",
     "subdivision": "26",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "4901N 02422E",
+    "coordinates": {
+      "lat": 49.016666666666666,
+      "lon": 2.7
+    },
     "remarks": ""
   },
   {
@@ -1169,10 +1602,15 @@
     "nameWoDiacritics": "Kamenets-Podolskiy",
     "subdivision": "68",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4840N 02634E",
+    "coordinates": {
+      "lat": 48.666666666666664,
+      "lon": 3.05
+    },
     "remarks": ""
   },
   {
@@ -1183,10 +1621,15 @@
     "nameWoDiacritics": "Kamenka",
     "subdivision": "51",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4638N 03015E",
+    "coordinates": {
+      "lat": 46.63333333333333,
+      "lon": 3.0166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1197,10 +1640,15 @@
     "nameWoDiacritics": "Kamianets-Podilskyi",
     "subdivision": "68",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4841N 02635E",
+    "coordinates": {
+      "lat": 48.68333333333333,
+      "lon": 3.05
+    },
     "remarks": ""
   },
   {
@@ -1211,10 +1659,15 @@
     "nameWoDiacritics": "Kamianske",
     "subdivision": "12",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "4830N 03437E",
+    "coordinates": {
+      "lat": 48.5,
+      "lon": 3.716666666666667
+    },
     "remarks": ""
   },
   {
@@ -1225,10 +1678,15 @@
     "nameWoDiacritics": "Kamyana",
     "subdivision": "",
     "status": "RQ",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "4814N 02550E",
+    "coordinates": {
+      "lat": 48.233333333333334,
+      "lon": 2.9166666666666665
+    },
     "remarks": ""
   },
   {
@@ -1239,10 +1697,15 @@
     "nameWoDiacritics": "Kamyana",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "4835N 03917E",
+    "coordinates": {
+      "lat": 48.583333333333336,
+      "lon": 4.516666666666667
+    },
     "remarks": ""
   },
   {
@@ -1253,10 +1716,15 @@
     "nameWoDiacritics": "Kanevka",
     "subdivision": "68",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "4927N 02612E",
+    "coordinates": {
+      "lat": 49.45,
+      "lon": 3.0166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1267,10 +1735,15 @@
     "nameWoDiacritics": "Kaniv",
     "subdivision": "TW",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4945N 03128E",
+    "coordinates": {
+      "lat": 49.75,
+      "lon": 3.2
+    },
     "remarks": ""
   },
   {
@@ -1281,10 +1754,15 @@
     "nameWoDiacritics": "Kerch",
     "subdivision": "",
     "status": "AA",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4521N 03629E",
+    "coordinates": {
+      "lat": 45.35,
+      "lon": 4.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -1295,10 +1773,15 @@
     "nameWoDiacritics": "Kharkiv",
     "subdivision": "63",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "5000N 03615E",
+    "coordinates": {
+      "lat": 50,
+      "lon": 4.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -1309,10 +1792,15 @@
     "nameWoDiacritics": "Kharkov",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1323,10 +1811,15 @@
     "nameWoDiacritics": "Khartsyzsk",
     "subdivision": "14",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "4802N 03808E",
+    "coordinates": {
+      "lat": 48.03333333333333,
+      "lon": 4.333333333333333
+    },
     "remarks": ""
   },
   {
@@ -1337,10 +1830,16 @@
     "nameWoDiacritics": "Kherson",
     "subdivision": "65",
     "status": "AA",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4637N 03237E",
+    "coordinates": {
+      "lat": 46.61666666666667,
+      "lon": 3.3833333333333333
+    },
     "remarks": ""
   },
   {
@@ -1351,10 +1850,15 @@
     "nameWoDiacritics": "Khmelnitskiy",
     "subdivision": "68",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4925N 02700E",
+    "coordinates": {
+      "lat": 49.416666666666664,
+      "lon": 3.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -1365,10 +1869,15 @@
     "nameWoDiacritics": "Khmelnytskyi",
     "subdivision": "68",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4925N 02700E",
+    "coordinates": {
+      "lat": 49.416666666666664,
+      "lon": 3.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -1379,10 +1888,15 @@
     "nameWoDiacritics": "Khmil'nyk",
     "subdivision": "05",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "4933N 02758E",
+    "coordinates": {
+      "lat": 49.55,
+      "lon": 3.25
+    },
     "remarks": ""
   },
   {
@@ -1393,10 +1907,15 @@
     "nameWoDiacritics": "Khotyn",
     "subdivision": "77",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "4829N 02630E",
+    "coordinates": {
+      "lat": 48.483333333333334,
+      "lon": 3.05
+    },
     "remarks": ""
   },
   {
@@ -1407,10 +1926,15 @@
     "nameWoDiacritics": "Khudyaky",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4919N 03217E",
+    "coordinates": {
+      "lat": 49.31666666666667,
+      "lon": 3.35
+    },
     "remarks": ""
   },
   {
@@ -1421,10 +1945,15 @@
     "nameWoDiacritics": "Kiliia",
     "subdivision": "",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2001",
     "iata": "",
-    "coordinates": "4526N 02916E",
+    "coordinates": {
+      "lat": 45.43333333333333,
+      "lon": 3.5166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1435,10 +1964,15 @@
     "nameWoDiacritics": "Kirovohrad",
     "subdivision": "35",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4830N 03216E",
+    "coordinates": {
+      "lat": 48.5,
+      "lon": 3.35
+    },
     "remarks": ""
   },
   {
@@ -1449,10 +1983,15 @@
     "nameWoDiacritics": "Kolomyia",
     "subdivision": "26",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "4831N 02502E",
+    "coordinates": {
+      "lat": 48.516666666666666,
+      "lon": 2.8333333333333335
+    },
     "remarks": ""
   },
   {
@@ -1463,10 +2002,15 @@
     "nameWoDiacritics": "Komsomol'sk",
     "subdivision": "53",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0407",
     "iata": "",
-    "coordinates": "4902N 03340E",
+    "coordinates": {
+      "lat": 49.03333333333333,
+      "lon": 3.5666666666666664
+    },
     "remarks": ""
   },
   {
@@ -1477,10 +2021,16 @@
     "nameWoDiacritics": "Konotop",
     "subdivision": "59",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0501",
     "iata": "",
-    "coordinates": "5114N 03312E",
+    "coordinates": {
+      "lat": 51.233333333333334,
+      "lon": 3.5166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1491,10 +2041,15 @@
     "nameWoDiacritics": "Konstantinovka",
     "subdivision": "14",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4832N 03743E",
+    "coordinates": {
+      "lat": 48.53333333333333,
+      "lon": 4.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -1505,10 +2060,15 @@
     "nameWoDiacritics": "Kopylov",
     "subdivision": "32",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "5024N 02953E",
+    "coordinates": {
+      "lat": 50.4,
+      "lon": 3.583333333333333
+    },
     "remarks": ""
   },
   {
@@ -1519,10 +2079,15 @@
     "nameWoDiacritics": "Kornin",
     "subdivision": "56",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "5034N 02617E",
+    "coordinates": {
+      "lat": 50.56666666666667,
+      "lon": 3.0166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1533,10 +2098,16 @@
     "nameWoDiacritics": "Korosten'",
     "subdivision": "18",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "5057N 02838E",
+    "coordinates": {
+      "lat": 50.95,
+      "lon": 3.3833333333333333
+    },
     "remarks": ""
   },
   {
@@ -1547,10 +2118,15 @@
     "nameWoDiacritics": "Korostyshiv",
     "subdivision": "18",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "5019N 02904E",
+    "coordinates": {
+      "lat": 50.31666666666667,
+      "lon": 3.5
+    },
     "remarks": ""
   },
   {
@@ -1561,10 +2137,15 @@
     "nameWoDiacritics": "Korsun Shevchenkivskyy",
     "subdivision": "TW",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4926N 03115E",
+    "coordinates": {
+      "lat": 49.43333333333333,
+      "lon": 3.183333333333333
+    },
     "remarks": ""
   },
   {
@@ -1575,10 +2156,15 @@
     "nameWoDiacritics": "Koryukivka",
     "subdivision": "74",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "5146N 03216E",
+    "coordinates": {
+      "lat": 51.766666666666666,
+      "lon": 3.35
+    },
     "remarks": ""
   },
   {
@@ -1589,10 +2175,16 @@
     "nameWoDiacritics": "Kovel'",
     "subdivision": "07",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0407",
     "iata": "",
-    "coordinates": "5113N 02443E",
+    "coordinates": {
+      "lat": 51.21666666666667,
+      "lon": 2.7333333333333334
+    },
     "remarks": ""
   },
   {
@@ -1603,10 +2195,15 @@
     "nameWoDiacritics": "Kozyatyn",
     "subdivision": "05",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "4943N 02850E",
+    "coordinates": {
+      "lat": 49.71666666666667,
+      "lon": 3.416666666666667
+    },
     "remarks": ""
   },
   {
@@ -1617,10 +2214,15 @@
     "nameWoDiacritics": "Kramatorsk",
     "subdivision": "14",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4843N 03732E",
+    "coordinates": {
+      "lat": 48.71666666666667,
+      "lon": 4.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -1631,10 +2233,15 @@
     "nameWoDiacritics": "Krasilov",
     "subdivision": "68",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4938N 02658E",
+    "coordinates": {
+      "lat": 49.63333333333333,
+      "lon": 3.083333333333333
+    },
     "remarks": ""
   },
   {
@@ -1645,10 +2252,15 @@
     "nameWoDiacritics": "Krasne",
     "subdivision": "",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "4607N 03247E",
+    "coordinates": {
+      "lat": 46.11666666666667,
+      "lon": 3.4
+    },
     "remarks": ""
   },
   {
@@ -1659,10 +2271,16 @@
     "nameWoDiacritics": "Krasnograd",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "4923N 03527E",
+    "coordinates": {
+      "lat": 49.38333333333333,
+      "lon": 3.8666666666666667
+    },
     "remarks": ""
   },
   {
@@ -1673,10 +2291,15 @@
     "nameWoDiacritics": "Krasnoperekops'k",
     "subdivision": "43",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "4557N 03347E",
+    "coordinates": {
+      "lat": 45.95,
+      "lon": 3.5666666666666664
+    },
     "remarks": ""
   },
   {
@@ -1687,10 +2310,15 @@
     "nameWoDiacritics": "Kraynykovo",
     "subdivision": "21",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "4807N 02326E",
+    "coordinates": {
+      "lat": 48.11666666666667,
+      "lon": 2.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -1701,10 +2329,15 @@
     "nameWoDiacritics": "Kremenchug",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1715,10 +2348,15 @@
     "nameWoDiacritics": "Kremenchuk",
     "subdivision": "53",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4904N 03325E",
+    "coordinates": {
+      "lat": 49.06666666666667,
+      "lon": 3.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -1729,10 +2367,15 @@
     "nameWoDiacritics": "Krivoy Rog",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1743,10 +2386,15 @@
     "nameWoDiacritics": "Kropyvnytskyi",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1757,10 +2405,15 @@
     "nameWoDiacritics": "Kulinichi",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "4959N 03623E",
+    "coordinates": {
+      "lat": 49.983333333333334,
+      "lon": 4.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -1771,10 +2424,15 @@
     "nameWoDiacritics": "Kupyans'k Uslovoi",
     "subdivision": "63",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "4939N 03739E",
+    "coordinates": {
+      "lat": 49.65,
+      "lon": 4.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -1785,10 +2443,17 @@
     "nameWoDiacritics": "Kyiv",
     "subdivision": "30",
     "status": "AI",
-    "function": "-2-45---",
+    "function": [
+      1,
+      3,
+      4
+    ],
     "date": "2007",
     "iata": "",
-    "coordinates": "5027N 03032E",
+    "coordinates": {
+      "lat": 50.45,
+      "lon": 3.05
+    },
     "remarks": ""
   },
   {
@@ -1799,10 +2464,15 @@
     "nameWoDiacritics": "Ladyzhyn",
     "subdivision": "05",
     "status": "AM",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2201",
     "iata": "",
-    "coordinates": "4840N 02915E",
+    "coordinates": {
+      "lat": 48.666666666666664,
+      "lon": 3.5166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1813,10 +2483,15 @@
     "nameWoDiacritics": "Lisichansk",
     "subdivision": "09",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4855N 03824E",
+    "coordinates": {
+      "lat": 48.916666666666664,
+      "lon": 4.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -1827,10 +2502,15 @@
     "nameWoDiacritics": "Liuboml",
     "subdivision": "07",
     "status": "AM",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2207",
     "iata": "",
-    "coordinates": "5113N 02403E",
+    "coordinates": {
+      "lat": 51.21666666666667,
+      "lon": 2.6666666666666665
+    },
     "remarks": ""
   },
   {
@@ -1841,10 +2521,15 @@
     "nameWoDiacritics": "Lubny",
     "subdivision": "53",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "5001N 03300E",
+    "coordinates": {
+      "lat": 50.016666666666666,
+      "lon": 3.5
+    },
     "remarks": ""
   },
   {
@@ -1855,10 +2540,15 @@
     "nameWoDiacritics": "Lugansk",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1869,10 +2559,15 @@
     "nameWoDiacritics": "Lutsk",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "5045N 02520E",
+    "coordinates": {
+      "lat": 50.75,
+      "lon": 2.8666666666666667
+    },
     "remarks": ""
   },
   {
@@ -1883,10 +2578,15 @@
     "nameWoDiacritics": "L'viv",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9806",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1897,10 +2597,15 @@
     "nameWoDiacritics": "L'Viv",
     "subdivision": "46",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "4950N 02400E",
+    "coordinates": {
+      "lat": 49.833333333333336,
+      "lon": 2.6666666666666665
+    },
     "remarks": ""
   },
   {
@@ -1911,10 +2616,15 @@
     "nameWoDiacritics": "L'viv",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "4950N 02402E",
+    "coordinates": {
+      "lat": 49.833333333333336,
+      "lon": 2.6666666666666665
+    },
     "remarks": ""
   },
   {
@@ -1925,10 +2635,15 @@
     "nameWoDiacritics": "Lyublinets",
     "subdivision": "07",
     "status": "AM",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2207",
     "iata": "",
-    "coordinates": "5111N 02437E",
+    "coordinates": {
+      "lat": 51.18333333333333,
+      "lon": 2.716666666666667
+    },
     "remarks": ""
   },
   {
@@ -1939,10 +2654,15 @@
     "nameWoDiacritics": "Makeyevka",
     "subdivision": "14",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "4802N 03753E",
+    "coordinates": {
+      "lat": 48.03333333333333,
+      "lon": 4.25
+    },
     "remarks": ""
   },
   {
@@ -1953,10 +2673,15 @@
     "nameWoDiacritics": "Makiivka",
     "subdivision": "14",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "4805N 03804E",
+    "coordinates": {
+      "lat": 48.083333333333336,
+      "lon": 4.333333333333333
+    },
     "remarks": ""
   },
   {
@@ -1967,10 +2692,15 @@
     "nameWoDiacritics": "Malin",
     "subdivision": "18",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "5046N 02914E",
+    "coordinates": {
+      "lat": 50.766666666666666,
+      "lon": 3.5166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1981,10 +2711,16 @@
     "nameWoDiacritics": "Mandrykino",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "4755N 03740E",
+    "coordinates": {
+      "lat": 47.916666666666664,
+      "lon": 4.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -1995,10 +2731,16 @@
     "nameWoDiacritics": "Mariupol",
     "subdivision": "14",
     "status": "AA",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "2001",
     "iata": "",
-    "coordinates": "4703N 03730E",
+    "coordinates": {
+      "lat": 47.05,
+      "lon": 4.216666666666667
+    },
     "remarks": "ex RU ZHDex Zhdanov (UA ZHD)"
   },
   {
@@ -2009,10 +2751,15 @@
     "nameWoDiacritics": "Markovka",
     "subdivision": "68",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4919N 02718E",
+    "coordinates": {
+      "lat": 49.31666666666667,
+      "lon": 3.1833333333333336
+    },
     "remarks": ""
   },
   {
@@ -2023,10 +2770,15 @@
     "nameWoDiacritics": "Masandra",
     "subdivision": "43",
     "status": "AA",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "2001",
     "iata": "",
-    "coordinates": "4431N 03411E",
+    "coordinates": {
+      "lat": 44.516666666666666,
+      "lon": 3.6833333333333336
+    },
     "remarks": ""
   },
   {
@@ -2037,10 +2789,15 @@
     "nameWoDiacritics": "Melitopol'",
     "subdivision": "23",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "4650N 03522E",
+    "coordinates": {
+      "lat": 46.833333333333336,
+      "lon": 3.8666666666666667
+    },
     "remarks": ""
   },
   {
@@ -2051,10 +2808,15 @@
     "nameWoDiacritics": "Mena",
     "subdivision": "74",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "5131N 03213E",
+    "coordinates": {
+      "lat": 51.516666666666666,
+      "lon": 3.35
+    },
     "remarks": ""
   },
   {
@@ -2065,10 +2827,15 @@
     "nameWoDiacritics": "Mirgorod",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2079,10 +2846,15 @@
     "nameWoDiacritics": "Mironovka",
     "subdivision": "14",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4829N 38150E",
+    "coordinates": {
+      "lat": 48.483333333333334,
+      "lon": 38.25
+    },
     "remarks": ""
   },
   {
@@ -2093,10 +2865,16 @@
     "nameWoDiacritics": "Mostiska",
     "subdivision": "",
     "status": "AI",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2107,10 +2885,16 @@
     "nameWoDiacritics": "Mukachevo",
     "subdivision": "21",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "4827N 02243E",
+    "coordinates": {
+      "lat": 48.45,
+      "lon": 2.4
+    },
     "remarks": ""
   },
   {
@@ -2121,10 +2905,17 @@
     "nameWoDiacritics": "Mykolaiv",
     "subdivision": "48",
     "status": "AA",
-    "function": "1-34----",
+    "function": [
+      0,
+      2,
+      3
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4656N 03200E",
+    "coordinates": {
+      "lat": 46.93333333333333,
+      "lon": 3.3333333333333335
+    },
     "remarks": ""
   },
   {
@@ -2135,10 +2926,15 @@
     "nameWoDiacritics": "Mykolayiv",
     "subdivision": "48",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4658N 03200E",
+    "coordinates": {
+      "lat": 46.96666666666667,
+      "lon": 3.3333333333333335
+    },
     "remarks": ""
   },
   {
@@ -2149,10 +2945,15 @@
     "nameWoDiacritics": "Myronivka",
     "subdivision": "32",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4939N 30590E",
+    "coordinates": {
+      "lat": 49.65,
+      "lon": 30.983333333333334
+    },
     "remarks": ""
   },
   {
@@ -2163,10 +2964,15 @@
     "nameWoDiacritics": "Nadvirna",
     "subdivision": "26",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "4837N 02434E",
+    "coordinates": {
+      "lat": 48.61666666666667,
+      "lon": 2.716666666666667
+    },
     "remarks": ""
   },
   {
@@ -2177,10 +2983,15 @@
     "nameWoDiacritics": "Nalivaykovka",
     "subdivision": "32",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "5029N 02943E",
+    "coordinates": {
+      "lat": 50.483333333333334,
+      "lon": 3.5666666666666664
+    },
     "remarks": ""
   },
   {
@@ -2191,10 +3002,15 @@
     "nameWoDiacritics": "Nemirov",
     "subdivision": "05",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4858N 02851E",
+    "coordinates": {
+      "lat": 48.96666666666667,
+      "lon": 3.416666666666667
+    },
     "remarks": ""
   },
   {
@@ -2205,10 +3021,15 @@
     "nameWoDiacritics": "Nikopol",
     "subdivision": "12",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2207",
     "iata": "",
-    "coordinates": "4734N 03423E",
+    "coordinates": {
+      "lat": 47.56666666666667,
+      "lon": 3.7
+    },
     "remarks": ""
   },
   {
@@ -2219,10 +3040,16 @@
     "nameWoDiacritics": "Nizhnedneprovsk",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "4830N 03504E",
+    "coordinates": {
+      "lat": 48.5,
+      "lon": 3.8333333333333335
+    },
     "remarks": ""
   },
   {
@@ -2233,10 +3060,15 @@
     "nameWoDiacritics": "Nizhyn",
     "subdivision": "74",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "5103N 03153E",
+    "coordinates": {
+      "lat": 51.05,
+      "lon": 3.25
+    },
     "remarks": ""
   },
   {
@@ -2247,10 +3079,15 @@
     "nameWoDiacritics": "Nova Kakhovka",
     "subdivision": "XJ",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4645N 03322E",
+    "coordinates": {
+      "lat": 46.75,
+      "lon": 3.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -2261,10 +3098,15 @@
     "nameWoDiacritics": "Nova Vodolaha",
     "subdivision": "63",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2207",
     "iata": "",
-    "coordinates": "4943N 03552E",
+    "coordinates": {
+      "lat": 49.71666666666667,
+      "lon": 3.9166666666666665
+    },
     "remarks": ""
   },
   {
@@ -2275,10 +3117,16 @@
     "nameWoDiacritics": "Novohrad-Volyns'kyy",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "5036N 02736E",
+    "coordinates": {
+      "lat": 50.6,
+      "lon": 3.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -2289,10 +3137,15 @@
     "nameWoDiacritics": "Novomoskovsk",
     "subdivision": "12",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4837N 03512E",
+    "coordinates": {
+      "lat": 48.61666666666667,
+      "lon": 3.85
+    },
     "remarks": ""
   },
   {
@@ -2303,10 +3156,16 @@
     "nameWoDiacritics": "Novovolyns'k",
     "subdivision": "07",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0907",
     "iata": "",
-    "coordinates": "5044N 02410E",
+    "coordinates": {
+      "lat": 50.733333333333334,
+      "lon": 2.6833333333333336
+    },
     "remarks": ""
   },
   {
@@ -2317,10 +3176,15 @@
     "nameWoDiacritics": "Obukhiv",
     "subdivision": "30",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "5007N 03039E",
+    "coordinates": {
+      "lat": 50.11666666666667,
+      "lon": 3.05
+    },
     "remarks": ""
   },
   {
@@ -2331,10 +3195,17 @@
     "nameWoDiacritics": "Ochakiv",
     "subdivision": "48",
     "status": "AM",
-    "function": "1-3--6--",
+    "function": [
+      0,
+      2,
+      5
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "4636N 03134E",
+    "coordinates": {
+      "lat": 46.6,
+      "lon": 3.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -2345,10 +3216,19 @@
     "nameWoDiacritics": "Odesa",
     "subdivision": "51",
     "status": "AA",
-    "function": "1234-6--",
+    "function": [
+      0,
+      1,
+      2,
+      3,
+      5
+    ],
     "date": "2007",
     "iata": "",
-    "coordinates": "4630N 03045E",
+    "coordinates": {
+      "lat": 46.5,
+      "lon": 3.066666666666667
+    },
     "remarks": ""
   },
   {
@@ -2359,10 +3239,15 @@
     "nameWoDiacritics": "Okhtyrka",
     "subdivision": "59",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "5018N 03453E",
+    "coordinates": {
+      "lat": 50.3,
+      "lon": 3.75
+    },
     "remarks": ""
   },
   {
@@ -2373,10 +3258,15 @@
     "nameWoDiacritics": "Olevsk",
     "subdivision": "18",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0207",
     "iata": "",
-    "coordinates": "5131N 02738E",
+    "coordinates": {
+      "lat": 51.516666666666666,
+      "lon": 3.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -2387,10 +3277,17 @@
     "nameWoDiacritics": "Olviia",
     "subdivision": "48",
     "status": "AA",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4650N 03157E",
+    "coordinates": {
+      "lat": 46.833333333333336,
+      "lon": 3.25
+    },
     "remarks": "ex Oktyabrsk"
   },
   {
@@ -2401,10 +3298,15 @@
     "nameWoDiacritics": "Orane",
     "subdivision": "07",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "5048N 02412E",
+    "coordinates": {
+      "lat": 50.8,
+      "lon": 2.6833333333333336
+    },
     "remarks": ""
   },
   {
@@ -2415,10 +3317,15 @@
     "nameWoDiacritics": "Ordzhonikidze",
     "subdivision": "43",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "4453N 03515E",
+    "coordinates": {
+      "lat": 44.88333333333333,
+      "lon": 3.85
+    },
     "remarks": ""
   },
   {
@@ -2429,10 +3336,15 @@
     "nameWoDiacritics": "Orikhiv",
     "subdivision": "23",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "4733N 03547E",
+    "coordinates": {
+      "lat": 47.55,
+      "lon": 3.9
+    },
     "remarks": ""
   },
   {
@@ -2443,10 +3355,15 @@
     "nameWoDiacritics": "Orzhiv",
     "subdivision": "56",
     "status": "AA",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "5045N 02607E",
+    "coordinates": {
+      "lat": 50.75,
+      "lon": 3
+    },
     "remarks": ""
   },
   {
@@ -2457,10 +3374,15 @@
     "nameWoDiacritics": "Ovidiopol",
     "subdivision": "51",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4614N 03026E",
+    "coordinates": {
+      "lat": 46.233333333333334,
+      "lon": 3.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -2471,10 +3393,15 @@
     "nameWoDiacritics": "Ovruch",
     "subdivision": "18",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "5119N 02848E",
+    "coordinates": {
+      "lat": 51.31666666666667,
+      "lon": 3.4
+    },
     "remarks": ""
   },
   {
@@ -2485,10 +3412,15 @@
     "nameWoDiacritics": "Ozerna",
     "subdivision": "61",
     "status": "RQ",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "4937N 02519E",
+    "coordinates": {
+      "lat": 49.61666666666667,
+      "lon": 2.85
+    },
     "remarks": ""
   },
   {
@@ -2499,10 +3431,15 @@
     "nameWoDiacritics": "Pavlohrad",
     "subdivision": "12",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4831N 03552E",
+    "coordinates": {
+      "lat": 48.516666666666666,
+      "lon": 3.9166666666666665
+    },
     "remarks": ""
   },
   {
@@ -2513,10 +3450,15 @@
     "nameWoDiacritics": "Pervomaysk",
     "subdivision": "48",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4803N 03051E",
+    "coordinates": {
+      "lat": 48.05,
+      "lon": 3.0833333333333335
+    },
     "remarks": ""
   },
   {
@@ -2527,10 +3469,15 @@
     "nameWoDiacritics": "Pervomaysk",
     "subdivision": "51",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4729N 02939E",
+    "coordinates": {
+      "lat": 47.483333333333334,
+      "lon": 3.55
+    },
     "remarks": ""
   },
   {
@@ -2541,10 +3488,15 @@
     "nameWoDiacritics": "Pivdenne",
     "subdivision": "63",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "4952N 03604E",
+    "coordinates": {
+      "lat": 49.86666666666667,
+      "lon": 4
+    },
     "remarks": ""
   },
   {
@@ -2555,10 +3507,15 @@
     "nameWoDiacritics": "Pivdennyi",
     "subdivision": "51",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2001",
     "iata": "",
-    "coordinates": "4636N 03101E",
+    "coordinates": {
+      "lat": 46.6,
+      "lon": 3.1666666666666665
+    },
     "remarks": ""
   },
   {
@@ -2569,10 +3526,16 @@
     "nameWoDiacritics": "Plodorodnoye",
     "subdivision": "23",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0501",
     "iata": "",
-    "coordinates": "4710N 03519E",
+    "coordinates": {
+      "lat": 47.166666666666664,
+      "lon": 3.85
+    },
     "remarks": ""
   },
   {
@@ -2583,10 +3546,15 @@
     "nameWoDiacritics": "Plotycha",
     "subdivision": "61",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "4937N 02534E",
+    "coordinates": {
+      "lat": 49.61666666666667,
+      "lon": 2.8833333333333333
+    },
     "remarks": ""
   },
   {
@@ -2597,10 +3565,16 @@
     "nameWoDiacritics": "Podgorodnaya",
     "subdivision": "48",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4807N 03052E",
+    "coordinates": {
+      "lat": 48.11666666666667,
+      "lon": 3.0833333333333335
+    },
     "remarks": ""
   },
   {
@@ -2611,10 +3585,15 @@
     "nameWoDiacritics": "Podvorki",
     "subdivision": "63",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "4958N 03605E",
+    "coordinates": {
+      "lat": 49.96666666666667,
+      "lon": 4
+    },
     "remarks": ""
   },
   {
@@ -2625,10 +3604,16 @@
     "nameWoDiacritics": "Polohy",
     "subdivision": "23",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "4729N 03615E",
+    "coordinates": {
+      "lat": 47.483333333333334,
+      "lon": 4.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -2639,10 +3624,15 @@
     "nameWoDiacritics": "Polonka",
     "subdivision": "07",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "5041N 02517E",
+    "coordinates": {
+      "lat": 50.68333333333333,
+      "lon": 2.85
+    },
     "remarks": ""
   },
   {
@@ -2653,10 +3643,15 @@
     "nameWoDiacritics": "Poltava",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2667,10 +3662,15 @@
     "nameWoDiacritics": "Popasnaja",
     "subdivision": "09",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4837N 03823E",
+    "coordinates": {
+      "lat": 48.61666666666667,
+      "lon": 4.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -2681,10 +3681,15 @@
     "nameWoDiacritics": "Prut",
     "subdivision": "",
     "status": "AI",
-    "function": "-2------",
+    "function": [
+      1
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "5019N 02803E",
+    "coordinates": {
+      "lat": 50.31666666666667,
+      "lon": 3.333333333333333
+    },
     "remarks": ""
   },
   {
@@ -2695,10 +3700,15 @@
     "nameWoDiacritics": "Pryazhevo",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "5011N 02841E",
+    "coordinates": {
+      "lat": 50.18333333333333,
+      "lon": 3.4
+    },
     "remarks": ""
   },
   {
@@ -2709,10 +3719,15 @@
     "nameWoDiacritics": "Prykolotne",
     "subdivision": "63",
     "status": "AM",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2201",
     "iata": "",
-    "coordinates": "5010N 03721E",
+    "coordinates": {
+      "lat": 50.166666666666664,
+      "lon": 4.2
+    },
     "remarks": ""
   },
   {
@@ -2723,10 +3738,16 @@
     "nameWoDiacritics": "Pryluky",
     "subdivision": "74",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0407",
     "iata": "",
-    "coordinates": "5036N 03224E",
+    "coordinates": {
+      "lat": 50.6,
+      "lon": 3.3666666666666667
+    },
     "remarks": ""
   },
   {
@@ -2737,10 +3758,15 @@
     "nameWoDiacritics": "Pustomyty",
     "subdivision": "46",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0207",
     "iata": "",
-    "coordinates": "4943N 02354E",
+    "coordinates": {
+      "lat": 49.71666666666667,
+      "lon": 2.5833333333333335
+    },
     "remarks": ""
   },
   {
@@ -2751,10 +3777,15 @@
     "nameWoDiacritics": "Radekhiv",
     "subdivision": "46",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "5016N 02438E",
+    "coordinates": {
+      "lat": 50.266666666666666,
+      "lon": 2.716666666666667
+    },
     "remarks": ""
   },
   {
@@ -2765,10 +3796,15 @@
     "nameWoDiacritics": "Radisne",
     "subdivision": "51",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4701N 03022E",
+    "coordinates": {
+      "lat": 47.016666666666666,
+      "lon": 3.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -2779,10 +3815,15 @@
     "nameWoDiacritics": "Rafalivka",
     "subdivision": "56",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "5118N 02601E",
+    "coordinates": {
+      "lat": 51.3,
+      "lon": 3
+    },
     "remarks": ""
   },
   {
@@ -2793,10 +3834,15 @@
     "nameWoDiacritics": "Rava Ruskaya",
     "subdivision": "",
     "status": "AI",
-    "function": "-2------",
+    "function": [
+      1
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "5015N 02337E",
+    "coordinates": {
+      "lat": 50.25,
+      "lon": 2.55
+    },
     "remarks": ""
   },
   {
@@ -2807,10 +3853,16 @@
     "nameWoDiacritics": "Reni",
     "subdivision": "51",
     "status": "AA",
-    "function": "12------",
+    "function": [
+      0,
+      1
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4525N 02817E",
+    "coordinates": {
+      "lat": 45.416666666666664,
+      "lon": 3.35
+    },
     "remarks": ""
   },
   {
@@ -2821,10 +3873,15 @@
     "nameWoDiacritics": "Ripky",
     "subdivision": "74",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "5148N 03105E",
+    "coordinates": {
+      "lat": 51.8,
+      "lon": 3.1666666666666665
+    },
     "remarks": ""
   },
   {
@@ -2835,10 +3892,15 @@
     "nameWoDiacritics": "Rivne",
     "subdivision": "56",
     "status": "AA",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "5037N 02615E",
+    "coordinates": {
+      "lat": 50.61666666666667,
+      "lon": 3.0166666666666666
+    },
     "remarks": ""
   },
   {
@@ -2849,10 +3911,15 @@
     "nameWoDiacritics": "Rohatyn",
     "subdivision": "26",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4925N 02437E",
+    "coordinates": {
+      "lat": 49.416666666666664,
+      "lon": 2.716666666666667
+    },
     "remarks": ""
   },
   {
@@ -2863,10 +3930,15 @@
     "nameWoDiacritics": "Rovno",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2877,10 +3949,15 @@
     "nameWoDiacritics": "Rozdil'na",
     "subdivision": "51",
     "status": "RL",
-    "function": "-2------",
+    "function": [
+      1
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "4651N 03005E",
+    "coordinates": {
+      "lat": 46.85,
+      "lon": 3
+    },
     "remarks": ""
   },
   {
@@ -2891,10 +3968,15 @@
     "nameWoDiacritics": "Rubizhne",
     "subdivision": "09",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4900N 03822E",
+    "coordinates": {
+      "lat": 49,
+      "lon": 4.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -2905,10 +3987,15 @@
     "nameWoDiacritics": "Sevastopol",
     "subdivision": "40",
     "status": "AA",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "2001",
     "iata": "",
-    "coordinates": "4437N 03331E",
+    "coordinates": {
+      "lat": 44.61666666666667,
+      "lon": 3.55
+    },
     "remarks": ""
   },
   {
@@ -2919,10 +4006,15 @@
     "nameWoDiacritics": "Severodoneck",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2933,10 +4025,15 @@
     "nameWoDiacritics": "Severodonetsk",
     "subdivision": "09",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4856N 03830E",
+    "coordinates": {
+      "lat": 48.93333333333333,
+      "lon": 4.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -2947,10 +4044,16 @@
     "nameWoDiacritics": "Shepetovka",
     "subdivision": "68",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "5010N 02704E",
+    "coordinates": {
+      "lat": 50.166666666666664,
+      "lon": 3.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -2961,10 +4064,15 @@
     "nameWoDiacritics": "Shman'kovchyki",
     "subdivision": "61",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "4858N 02554E",
+    "coordinates": {
+      "lat": 48.96666666666667,
+      "lon": 2.9166666666666665
+    },
     "remarks": ""
   },
   {
@@ -2975,10 +4083,16 @@
     "nameWoDiacritics": "Shostka",
     "subdivision": "59",
     "status": "AA",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "5151N 03329E",
+    "coordinates": {
+      "lat": 51.85,
+      "lon": 3.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -2989,10 +4103,15 @@
     "nameWoDiacritics": "Simferopol",
     "subdivision": "43",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4457N 03406E",
+    "coordinates": {
+      "lat": 44.95,
+      "lon": 3.6666666666666665
+    },
     "remarks": ""
   },
   {
@@ -3003,10 +4122,16 @@
     "nameWoDiacritics": "Skadovsk",
     "subdivision": "65",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4606N 03254E",
+    "coordinates": {
+      "lat": 46.1,
+      "lon": 3.4166666666666665
+    },
     "remarks": ""
   },
   {
@@ -3017,10 +4142,15 @@
     "nameWoDiacritics": "Skala-Podil's'Ka",
     "subdivision": "61",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "4851N 02612E",
+    "coordinates": {
+      "lat": 48.85,
+      "lon": 3.0166666666666666
+    },
     "remarks": ""
   },
   {
@@ -3031,10 +4161,15 @@
     "nameWoDiacritics": "Skvira",
     "subdivision": "",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "4944N 02940E",
+    "coordinates": {
+      "lat": 49.733333333333334,
+      "lon": 3.5666666666666664
+    },
     "remarks": ""
   },
   {
@@ -3045,10 +4180,16 @@
     "nameWoDiacritics": "Slov'yans'k",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "4851N 03735E",
+    "coordinates": {
+      "lat": 48.85,
+      "lon": 4.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -3059,10 +4200,15 @@
     "nameWoDiacritics": "Smela",
     "subdivision": "71",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "4913N 03152E",
+    "coordinates": {
+      "lat": 49.21666666666667,
+      "lon": 3.25
+    },
     "remarks": ""
   },
   {
@@ -3073,10 +4219,15 @@
     "nameWoDiacritics": "Sokal'",
     "subdivision": "46",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "5028N 02416E",
+    "coordinates": {
+      "lat": 50.46666666666667,
+      "lon": 2.6833333333333336
+    },
     "remarks": ""
   },
   {
@@ -3087,10 +4238,15 @@
     "nameWoDiacritics": "Sokilnyky",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4947N 02359E",
+    "coordinates": {
+      "lat": 49.78333333333333,
+      "lon": 2.5833333333333335
+    },
     "remarks": ""
   },
   {
@@ -3101,10 +4257,15 @@
     "nameWoDiacritics": "Soledar",
     "subdivision": "14",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0501",
     "iata": "",
-    "coordinates": "4840N 03805E",
+    "coordinates": {
+      "lat": 48.666666666666664,
+      "lon": 4.333333333333333
+    },
     "remarks": ""
   },
   {
@@ -3115,10 +4276,16 @@
     "nameWoDiacritics": "Starokonstantinov",
     "subdivision": "68",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "4945N 02713E",
+    "coordinates": {
+      "lat": 49.75,
+      "lon": 3.1833333333333336
+    },
     "remarks": ""
   },
   {
@@ -3129,10 +4296,15 @@
     "nameWoDiacritics": "Stavchany",
     "subdivision": "46",
     "status": "AM",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "4946N 02350E",
+    "coordinates": {
+      "lat": 49.766666666666666,
+      "lon": 2.5833333333333335
+    },
     "remarks": ""
   },
   {
@@ -3143,10 +4315,15 @@
     "nameWoDiacritics": "Sumy",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -3157,10 +4334,15 @@
     "nameWoDiacritics": "Susly",
     "subdivision": "18",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "5033N 02737E",
+    "coordinates": {
+      "lat": 50.55,
+      "lon": 3.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -3171,10 +4353,15 @@
     "nameWoDiacritics": "Svalyava",
     "subdivision": "21",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "4833N 02259E",
+    "coordinates": {
+      "lat": 48.55,
+      "lon": 2.4166666666666665
+    },
     "remarks": ""
   },
   {
@@ -3185,10 +4372,16 @@
     "nameWoDiacritics": "Svitlovodsk",
     "subdivision": "35",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "2001",
     "iata": "",
-    "coordinates": "4903N 03314E",
+    "coordinates": {
+      "lat": 49.05,
+      "lon": 3.5166666666666666
+    },
     "remarks": ""
   },
   {
@@ -3199,10 +4392,15 @@
     "nameWoDiacritics": "Tal Ne",
     "subdivision": "71",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "4853N 03042E",
+    "coordinates": {
+      "lat": 48.88333333333333,
+      "lon": 3.066666666666667
+    },
     "remarks": ""
   },
   {
@@ -3213,10 +4411,15 @@
     "nameWoDiacritics": "Talne",
     "subdivision": "71",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4853N 03042E",
+    "coordinates": {
+      "lat": 48.88333333333333,
+      "lon": 3.066666666666667
+    },
     "remarks": ""
   },
   {
@@ -3227,10 +4430,15 @@
     "nameWoDiacritics": "Tankovoye",
     "subdivision": "43",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4439N 03349E",
+    "coordinates": {
+      "lat": 44.65,
+      "lon": 3.5666666666666664
+    },
     "remarks": ""
   },
   {
@@ -3241,10 +4449,16 @@
     "nameWoDiacritics": "Terebovlya",
     "subdivision": "61",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4917N 02541E",
+    "coordinates": {
+      "lat": 49.28333333333333,
+      "lon": 2.9
+    },
     "remarks": ""
   },
   {
@@ -3255,10 +4469,15 @@
     "nameWoDiacritics": "Ternopol",
     "subdivision": "61",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4933N 02535E",
+    "coordinates": {
+      "lat": 49.55,
+      "lon": 2.8833333333333333
+    },
     "remarks": ""
   },
   {
@@ -3269,10 +4488,15 @@
     "nameWoDiacritics": "Tomilovka",
     "subdivision": "32",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "4945N 03016E",
+    "coordinates": {
+      "lat": 49.75,
+      "lon": 3.0166666666666666
+    },
     "remarks": ""
   },
   {
@@ -3283,10 +4507,15 @@
     "nameWoDiacritics": "Torez",
     "subdivision": "14",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4802N 03835E",
+    "coordinates": {
+      "lat": 48.03333333333333,
+      "lon": 4.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -3297,10 +4526,16 @@
     "nameWoDiacritics": "Trostyanets",
     "subdivision": "59",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "5028N 03456E",
+    "coordinates": {
+      "lat": 50.46666666666667,
+      "lon": 3.75
+    },
     "remarks": ""
   },
   {
@@ -3311,10 +4546,15 @@
     "nameWoDiacritics": "Truskavets",
     "subdivision": "46",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4916N 02330E",
+    "coordinates": {
+      "lat": 49.266666666666666,
+      "lon": 2.55
+    },
     "remarks": ""
   },
   {
@@ -3325,10 +4565,16 @@
     "nameWoDiacritics": "Tsyurupyns'k",
     "subdivision": "65",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "4636N 03242E",
+    "coordinates": {
+      "lat": 46.6,
+      "lon": 3.4
+    },
     "remarks": ""
   },
   {
@@ -3339,10 +4585,16 @@
     "nameWoDiacritics": "Tyachiv",
     "subdivision": "21",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0407",
     "iata": "",
-    "coordinates": "4801N 02335E",
+    "coordinates": {
+      "lat": 48.016666666666666,
+      "lon": 2.55
+    },
     "remarks": ""
   },
   {
@@ -3353,10 +4605,15 @@
     "nameWoDiacritics": "Ukraina",
     "subdivision": "23",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "4719N 03616E",
+    "coordinates": {
+      "lat": 47.31666666666667,
+      "lon": 4.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -3367,10 +4624,15 @@
     "nameWoDiacritics": "Ul'Yanovka",
     "subdivision": "63",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "5013N 03521E",
+    "coordinates": {
+      "lat": 50.21666666666667,
+      "lon": 3.8666666666666667
+    },
     "remarks": ""
   },
   {
@@ -3381,10 +4643,15 @@
     "nameWoDiacritics": "Uman",
     "subdivision": "TW",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4845N 03013E",
+    "coordinates": {
+      "lat": 48.75,
+      "lon": 3.0166666666666666
+    },
     "remarks": ""
   },
   {
@@ -3395,10 +4662,15 @@
     "nameWoDiacritics": "Ust-Dunaisk/Vylkove",
     "subdivision": "51",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2001",
     "iata": "",
-    "coordinates": "4528N 02942E",
+    "coordinates": {
+      "lat": 45.46666666666667,
+      "lon": 3.5666666666666664
+    },
     "remarks": ""
   },
   {
@@ -3409,10 +4681,15 @@
     "nameWoDiacritics": "Uzhgorod",
     "subdivision": "",
     "status": "AI",
-    "function": "-2------",
+    "function": [
+      1
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -3423,10 +4700,15 @@
     "nameWoDiacritics": "Uzhhorod",
     "subdivision": "21",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "4837N 02218E",
+    "coordinates": {
+      "lat": 48.61666666666667,
+      "lon": 2.35
+    },
     "remarks": ""
   },
   {
@@ -3437,10 +4719,16 @@
     "nameWoDiacritics": "Vadul",
     "subdivision": "77",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4801N 02558E",
+    "coordinates": {
+      "lat": 48.016666666666666,
+      "lon": 2.9166666666666665
+    },
     "remarks": ""
   },
   {
@@ -3451,10 +4739,15 @@
     "nameWoDiacritics": "Velikiy",
     "subdivision": "61",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0207",
     "iata": "",
-    "coordinates": "4937N 02531E",
+    "coordinates": {
+      "lat": 49.61666666666667,
+      "lon": 2.8833333333333333
+    },
     "remarks": ""
   },
   {
@@ -3465,10 +4758,15 @@
     "nameWoDiacritics": "Velyikyy Bychkiv",
     "subdivision": "21",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0407",
     "iata": "",
-    "coordinates": "4758N 02401E",
+    "coordinates": {
+      "lat": 47.96666666666667,
+      "lon": 2.6666666666666665
+    },
     "remarks": ""
   },
   {
@@ -3479,10 +4777,15 @@
     "nameWoDiacritics": "Velyka Dymerka",
     "subdivision": "30",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "5035N 05433E",
+    "coordinates": {
+      "lat": 50.583333333333336,
+      "lon": 5.716666666666667
+    },
     "remarks": ""
   },
   {
@@ -3493,10 +4796,15 @@
     "nameWoDiacritics": "Vinnytsya",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "4914N 02829E",
+    "coordinates": {
+      "lat": 49.233333333333334,
+      "lon": 3.3666666666666667
+    },
     "remarks": ""
   },
   {
@@ -3507,10 +4815,15 @@
     "nameWoDiacritics": "Vizirka",
     "subdivision": "51",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "4641N 03100E",
+    "coordinates": {
+      "lat": 46.68333333333333,
+      "lon": 3.1666666666666665
+    },
     "remarks": ""
   },
   {
@@ -3521,10 +4834,15 @@
     "nameWoDiacritics": "Vladimir-Volynskiy",
     "subdivision": "",
     "status": "AI",
-    "function": "-2------",
+    "function": [
+      1
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -3535,10 +4853,15 @@
     "nameWoDiacritics": "Volynskiy",
     "subdivision": "74",
     "status": "RQ",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "5132N 03119E",
+    "coordinates": {
+      "lat": 51.53333333333333,
+      "lon": 3.183333333333333
+    },
     "remarks": ""
   },
   {
@@ -3549,10 +4872,15 @@
     "nameWoDiacritics": "Vorzel",
     "subdivision": "32",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "5033N 03009E",
+    "coordinates": {
+      "lat": 50.55,
+      "lon": 3
+    },
     "remarks": ""
   },
   {
@@ -3563,10 +4891,15 @@
     "nameWoDiacritics": "Voznesensk",
     "subdivision": "48",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4733N 03120E",
+    "coordinates": {
+      "lat": 47.55,
+      "lon": 3.2
+    },
     "remarks": ""
   },
   {
@@ -3577,10 +4910,15 @@
     "nameWoDiacritics": "Vradiyivka",
     "subdivision": "48",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "4751N 03036E",
+    "coordinates": {
+      "lat": 47.85,
+      "lon": 3.05
+    },
     "remarks": ""
   },
   {
@@ -3591,10 +4929,16 @@
     "nameWoDiacritics": "Vuhlehirsk",
     "subdivision": "14",
     "status": "AA",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "2001",
     "iata": "",
-    "coordinates": "4819N 03817E",
+    "coordinates": {
+      "lat": 48.31666666666667,
+      "lon": 4.35
+    },
     "remarks": ""
   },
   {
@@ -3605,10 +4949,15 @@
     "nameWoDiacritics": "Vylkove",
     "subdivision": "51",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4524N 02935E",
+    "coordinates": {
+      "lat": 45.4,
+      "lon": 3.55
+    },
     "remarks": ""
   },
   {
@@ -3619,10 +4968,15 @@
     "nameWoDiacritics": "Vynohradiv",
     "subdivision": "21",
     "status": "AM",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2207",
     "iata": "",
-    "coordinates": "4808N 02301E",
+    "coordinates": {
+      "lat": 48.13333333333333,
+      "lon": 2.5
+    },
     "remarks": ""
   },
   {
@@ -3633,10 +4987,15 @@
     "nameWoDiacritics": "Vyshhorod",
     "subdivision": "32",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2001",
     "iata": "",
-    "coordinates": "5035N 03030E",
+    "coordinates": {
+      "lat": 50.583333333333336,
+      "lon": 3.05
+    },
     "remarks": ""
   },
   {
@@ -3647,10 +5006,15 @@
     "nameWoDiacritics": "Vyshneve",
     "subdivision": "32",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0907",
     "iata": "",
-    "coordinates": "5022N 03022E",
+    "coordinates": {
+      "lat": 50.36666666666667,
+      "lon": 3.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -3661,10 +5025,15 @@
     "nameWoDiacritics": "Yalta",
     "subdivision": "43",
     "status": "AA",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "2001",
     "iata": "",
-    "coordinates": "4430N 03410E",
+    "coordinates": {
+      "lat": 44.5,
+      "lon": 3.6833333333333336
+    },
     "remarks": ""
   },
   {
@@ -3675,10 +5044,15 @@
     "nameWoDiacritics": "Yamnytsya",
     "subdivision": "26",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "4859N 02442E",
+    "coordinates": {
+      "lat": 48.983333333333334,
+      "lon": 2.7333333333333334
+    },
     "remarks": ""
   },
   {
@@ -3689,10 +5063,15 @@
     "nameWoDiacritics": "Yavoriv",
     "subdivision": "46",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4956N 02323E",
+    "coordinates": {
+      "lat": 49.93333333333333,
+      "lon": 2.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -3703,10 +5082,15 @@
     "nameWoDiacritics": "Yavorov",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0006",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -3717,10 +5101,15 @@
     "nameWoDiacritics": "Yemil'chino",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "5053N 02749E",
+    "coordinates": {
+      "lat": 50.88333333333333,
+      "lon": 3.2333333333333334
+    },
     "remarks": ""
   },
   {
@@ -3731,10 +5120,15 @@
     "nameWoDiacritics": "Yenakiieve",
     "subdivision": "14",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "4813N 03812E",
+    "coordinates": {
+      "lat": 48.21666666666667,
+      "lon": 4.35
+    },
     "remarks": ""
   },
   {
@@ -3745,10 +5139,15 @@
     "nameWoDiacritics": "Yenakiyeve",
     "subdivision": "14",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4814N 03812E",
+    "coordinates": {
+      "lat": 48.233333333333334,
+      "lon": 4.35
+    },
     "remarks": ""
   },
   {
@@ -3759,10 +5158,15 @@
     "nameWoDiacritics": "Yevpatoriia",
     "subdivision": "43",
     "status": "AA",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "2001",
     "iata": "",
-    "coordinates": "4511N 03322E",
+    "coordinates": {
+      "lat": 45.18333333333333,
+      "lon": 3.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -3773,10 +5177,15 @@
     "nameWoDiacritics": "Yuzhne",
     "subdivision": "51",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4638N 03103E",
+    "coordinates": {
+      "lat": 46.63333333333333,
+      "lon": 3.1666666666666665
+    },
     "remarks": ""
   },
   {
@@ -3787,10 +5196,17 @@
     "nameWoDiacritics": "Zaporizhzhia",
     "subdivision": "23",
     "status": "AA",
-    "function": "1--4-6--",
+    "function": [
+      0,
+      3,
+      5
+    ],
     "date": "2001",
     "iata": "",
-    "coordinates": "4749N 03510E",
+    "coordinates": {
+      "lat": 47.81666666666667,
+      "lon": 3.85
+    },
     "remarks": ""
   },
   {
@@ -3801,10 +5217,15 @@
     "nameWoDiacritics": "Zarichchya",
     "subdivision": "26",
     "status": "AM",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2207",
     "iata": "",
-    "coordinates": "4831N 02438E",
+    "coordinates": {
+      "lat": 48.516666666666666,
+      "lon": 2.716666666666667
+    },
     "remarks": ""
   },
   {
@@ -3815,10 +5236,15 @@
     "nameWoDiacritics": "Zatyshshya",
     "subdivision": "51",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "4719N 02952E",
+    "coordinates": {
+      "lat": 47.31666666666667,
+      "lon": 3.583333333333333
+    },
     "remarks": ""
   },
   {
@@ -3829,10 +5255,15 @@
     "nameWoDiacritics": "Zavydovo",
     "subdivision": "21",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0407",
     "iata": "",
-    "coordinates": "4823N 02255E",
+    "coordinates": {
+      "lat": 48.38333333333333,
+      "lon": 2.4166666666666665
+    },
     "remarks": ""
   },
   {
@@ -3843,10 +5274,15 @@
     "nameWoDiacritics": "Zdolbuniv",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "5030N 02615E",
+    "coordinates": {
+      "lat": 50.5,
+      "lon": 3.0166666666666666
+    },
     "remarks": ""
   },
   {
@@ -3857,10 +5293,15 @@
     "nameWoDiacritics": "Zhashkiv",
     "subdivision": "TW",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4915N 03006E",
+    "coordinates": {
+      "lat": 49.25,
+      "lon": 3
+    },
     "remarks": ""
   },
   {
@@ -3871,10 +5312,13 @@
     "nameWoDiacritics": "Zhdanov = Mariupol",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -3885,10 +5329,15 @@
     "nameWoDiacritics": "Zhitomir",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -3899,10 +5348,15 @@
     "nameWoDiacritics": "Zhovkva",
     "subdivision": "46",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "5004N 02358E",
+    "coordinates": {
+      "lat": 50.06666666666667,
+      "lon": 2.5833333333333335
+    },
     "remarks": ""
   },
   {
@@ -3913,10 +5367,15 @@
     "nameWoDiacritics": "Zhytomyr",
     "subdivision": "18",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "5015N 02840E",
+    "coordinates": {
+      "lat": 50.25,
+      "lon": 3.4
+    },
     "remarks": ""
   },
   {
@@ -3927,10 +5386,16 @@
     "nameWoDiacritics": "Zolotaya Balka",
     "subdivision": "65",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4722N 03357E",
+    "coordinates": {
+      "lat": 47.36666666666667,
+      "lon": 3.5833333333333335
+    },
     "remarks": ""
   },
   {
@@ -3941,10 +5406,15 @@
     "nameWoDiacritics": "Zolotonosha",
     "subdivision": "TW",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4940N 03202E",
+    "coordinates": {
+      "lat": 49.666666666666664,
+      "lon": 3.3333333333333335
+    },
     "remarks": ""
   }
 ]

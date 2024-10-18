@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Annapurna",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9805",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,15 @@
     "nameWoDiacritics": "Baglung",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -49,10 +62,15 @@
     "nameWoDiacritics": "Baitadi",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -63,10 +81,15 @@
     "nameWoDiacritics": "Bajhang",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -77,10 +100,15 @@
     "nameWoDiacritics": "Bajura",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -91,10 +119,15 @@
     "nameWoDiacritics": "Bhadrapur",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -105,10 +138,15 @@
     "nameWoDiacritics": "Bhairahawa",
     "subdivision": "LU",
     "status": "AA",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1907",
     "iata": "",
-    "coordinates": "2730N 08327E",
+    "coordinates": {
+      "lat": 27.5,
+      "lon": 8.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -119,10 +157,15 @@
     "nameWoDiacritics": "Bhairawa",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -133,10 +176,15 @@
     "nameWoDiacritics": "Bharatpur",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -147,10 +195,15 @@
     "nameWoDiacritics": "Bhojpur",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -161,10 +214,16 @@
     "nameWoDiacritics": "Biratnagar",
     "subdivision": "",
     "status": "AI",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -175,10 +234,15 @@
     "nameWoDiacritics": "Biratnagar",
     "subdivision": "KO",
     "status": "AA",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1907",
     "iata": "",
-    "coordinates": "2629N 08717E",
+    "coordinates": {
+      "lat": 26.483333333333334,
+      "lon": 9.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -189,10 +253,15 @@
     "nameWoDiacritics": "Birgunj",
     "subdivision": "",
     "status": "QQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -203,10 +272,15 @@
     "nameWoDiacritics": "Birgunj ICD",
     "subdivision": "NA",
     "status": "AA",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "2701N 08452E",
+    "coordinates": {
+      "lat": 27.016666666666666,
+      "lon": 8.75
+    },
     "remarks": ""
   },
   {
@@ -217,10 +291,15 @@
     "nameWoDiacritics": "Butwal",
     "subdivision": "LU",
     "status": "AM",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "2742N 08327E",
+    "coordinates": {
+      "lat": 27.7,
+      "lon": 8.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -231,10 +310,15 @@
     "nameWoDiacritics": "Chaurjhari",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -245,10 +329,15 @@
     "nameWoDiacritics": "Dadeldhura",
     "subdivision": "MA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "2918N 08035E",
+    "coordinates": {
+      "lat": 29.3,
+      "lon": 8.05
+    },
     "remarks": ""
   },
   {
@@ -259,10 +348,15 @@
     "nameWoDiacritics": "Dang",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -273,10 +367,15 @@
     "nameWoDiacritics": "Darchula",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -287,10 +386,15 @@
     "nameWoDiacritics": "Dhading",
     "subdivision": "BA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "2752N 08455E",
+    "coordinates": {
+      "lat": 27.866666666666667,
+      "lon": 8.75
+    },
     "remarks": ""
   },
   {
@@ -301,10 +405,15 @@
     "nameWoDiacritics": "Dhangarhi",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -315,10 +424,15 @@
     "nameWoDiacritics": "Dhaulagiri",
     "subdivision": "",
     "status": "RL",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9805",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -329,10 +443,15 @@
     "nameWoDiacritics": "Dolpa",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -343,10 +462,15 @@
     "nameWoDiacritics": "Gorkha",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -357,10 +481,15 @@
     "nameWoDiacritics": "Hetauda",
     "subdivision": "NA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "2725N 08502E",
+    "coordinates": {
+      "lat": 27.416666666666668,
+      "lon": 8.833333333333334
+    },
     "remarks": ""
   },
   {
@@ -371,10 +500,15 @@
     "nameWoDiacritics": "Ilam",
     "subdivision": "ME",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "2654N 08756E",
+    "coordinates": {
+      "lat": 26.9,
+      "lon": 9.25
+    },
     "remarks": ""
   },
   {
@@ -385,10 +519,15 @@
     "nameWoDiacritics": "Janakpur",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -399,10 +538,15 @@
     "nameWoDiacritics": "Jiri",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -413,10 +557,15 @@
     "nameWoDiacritics": "Jomsom",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -427,10 +576,15 @@
     "nameWoDiacritics": "Jumla",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -441,10 +595,15 @@
     "nameWoDiacritics": "Kailali",
     "subdivision": "",
     "status": "QQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -455,10 +614,15 @@
     "nameWoDiacritics": "Kakarbitta",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -469,10 +633,15 @@
     "nameWoDiacritics": "Kanchenjunga",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "2743N 08813E",
+    "coordinates": {
+      "lat": 27.716666666666665,
+      "lon": 9.35
+    },
     "remarks": ""
   },
   {
@@ -483,10 +652,17 @@
     "nameWoDiacritics": "Kathmandu",
     "subdivision": "",
     "status": "AI",
-    "function": "--345---",
+    "function": [
+      2,
+      3,
+      4
+    ],
     "date": "9401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -497,10 +673,15 @@
     "nameWoDiacritics": "Krishnanagar",
     "subdivision": "LU",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "2730N 08247E",
+    "coordinates": {
+      "lat": 27.5,
+      "lon": 8.4
+    },
     "remarks": ""
   },
   {
@@ -511,10 +692,15 @@
     "nameWoDiacritics": "Lamidanda",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -525,10 +711,15 @@
     "nameWoDiacritics": "Langtang",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -539,10 +730,15 @@
     "nameWoDiacritics": "Lukla",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -553,10 +749,15 @@
     "nameWoDiacritics": "Mahendranagar",
     "subdivision": "",
     "status": "RL",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0907",
     "iata": "",
-    "coordinates": "2875N 08008E",
+    "coordinates": {
+      "lat": 29.25,
+      "lon": 8
+    },
     "remarks": ""
   },
   {
@@ -567,10 +768,15 @@
     "nameWoDiacritics": "Manang",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -581,10 +787,15 @@
     "nameWoDiacritics": "Meghauli",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -595,10 +806,15 @@
     "nameWoDiacritics": "Mountain",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -609,10 +825,16 @@
     "nameWoDiacritics": "Nawalparasi",
     "subdivision": "LU",
     "status": "RQ",
-    "function": "1----6--",
+    "function": [
+      0,
+      5
+    ],
     "date": "1007",
     "iata": "",
-    "coordinates": "2732N 08340E",
+    "coordinates": {
+      "lat": 27.533333333333335,
+      "lon": 8.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -623,10 +845,15 @@
     "nameWoDiacritics": "Nepalganj",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -637,10 +864,15 @@
     "nameWoDiacritics": "Phaplu",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -651,10 +883,15 @@
     "nameWoDiacritics": "Pokhara",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -665,10 +902,15 @@
     "nameWoDiacritics": "Rajbiraj",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -679,10 +921,15 @@
     "nameWoDiacritics": "Ramechhap",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -693,10 +940,15 @@
     "nameWoDiacritics": "Rolpa",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -707,10 +959,15 @@
     "nameWoDiacritics": "Rukumkot",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -721,10 +978,15 @@
     "nameWoDiacritics": "Rumjatar",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -735,10 +997,15 @@
     "nameWoDiacritics": "Rupandehi",
     "subdivision": "P5",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2001",
     "iata": "",
-    "coordinates": "2735N 08326E",
+    "coordinates": {
+      "lat": 27.583333333333332,
+      "lon": 8.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -749,10 +1016,15 @@
     "nameWoDiacritics": "Sanfebagar",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -763,10 +1035,15 @@
     "nameWoDiacritics": "Silgarhi-Doti",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "2916N 08059E",
+    "coordinates": {
+      "lat": 29.266666666666666,
+      "lon": 8.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -777,10 +1054,15 @@
     "nameWoDiacritics": "Simara",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -791,10 +1073,15 @@
     "nameWoDiacritics": "Simikot",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -805,10 +1092,15 @@
     "nameWoDiacritics": "Sunauli",
     "subdivision": "",
     "status": "QQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -819,10 +1111,15 @@
     "nameWoDiacritics": "Surkhet",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -833,10 +1130,15 @@
     "nameWoDiacritics": "Syangboche",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -847,10 +1149,15 @@
     "nameWoDiacritics": "Taplejung",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -861,10 +1168,15 @@
     "nameWoDiacritics": "Tikapur",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -875,10 +1187,16 @@
     "nameWoDiacritics": "Triveni",
     "subdivision": "GA",
     "status": "AA",
-    "function": "--3--6--",
+    "function": [
+      2,
+      5
+    ],
     "date": "2201",
     "iata": "",
-    "coordinates": "2727N 08354E",
+    "coordinates": {
+      "lat": 27.45,
+      "lon": 8.583333333333334
+    },
     "remarks": "Border"
   },
   {
@@ -889,10 +1207,15 @@
     "nameWoDiacritics": "Tumlingtar",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "2718N 08712E",
+    "coordinates": {
+      "lat": 27.3,
+      "lon": 9.183333333333334
+    },
     "remarks": ""
   }
 ]

@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Leava",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "1418S 17809W",
+    "coordinates": {
+      "lat": -14.3,
+      "lon": 18.333333333333332
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,17 @@
     "nameWoDiacritics": "Mata'utu",
     "subdivision": "",
     "status": "AI",
-    "function": "1-3-5---",
+    "function": [
+      0,
+      2,
+      4
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "1317S 17611W",
+    "coordinates": {
+      "lat": -13.283333333333333,
+      "lon": 18.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -49,10 +64,16 @@
     "nameWoDiacritics": "Sigave",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "1417S 17810W",
+    "coordinates": {
+      "lat": -14.283333333333333,
+      "lon": 18.35
+    },
     "remarks": ""
   },
   {
@@ -63,10 +84,15 @@
     "nameWoDiacritics": "Vele Futuna I. Apt",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "1419S 17805W",
+    "coordinates": {
+      "lat": -14.316666666666666,
+      "lon": 18.333333333333332
+    },
     "remarks": ""
   },
   {
@@ -77,10 +103,15 @@
     "nameWoDiacritics": "Wallis I. Apt",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "1315S 17612W",
+    "coordinates": {
+      "lat": -13.25,
+      "lon": 18.016666666666666
+    },
     "remarks": ""
   }
 ]

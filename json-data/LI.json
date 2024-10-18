@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Balzers",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "4704N 00930E",
+    "coordinates": {
+      "lat": 47.06666666666667,
+      "lon": 1.55
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,15 @@
     "nameWoDiacritics": "Eschen",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4712N 00931E",
+    "coordinates": {
+      "lat": 47.2,
+      "lon": 1.55
+    },
     "remarks": ""
   },
   {
@@ -49,10 +62,15 @@
     "nameWoDiacritics": "Gamprin-Bendern",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -63,10 +81,15 @@
     "nameWoDiacritics": "Mauren",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "4713N 00932E",
+    "coordinates": {
+      "lat": 47.21666666666667,
+      "lon": 1.55
+    },
     "remarks": ""
   },
   {
@@ -77,10 +100,15 @@
     "nameWoDiacritics": "Nendeln",
     "subdivision": "01",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "4712N 00933E",
+    "coordinates": {
+      "lat": 47.2,
+      "lon": 1.55
+    },
     "remarks": ""
   },
   {
@@ -91,10 +119,15 @@
     "nameWoDiacritics": "Planken",
     "subdivision": "05",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "4711N 00932E",
+    "coordinates": {
+      "lat": 47.18333333333333,
+      "lon": 1.55
+    },
     "remarks": ""
   },
   {
@@ -105,10 +138,15 @@
     "nameWoDiacritics": "Ruggell",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0407",
     "iata": "",
-    "coordinates": "4714N 00931E",
+    "coordinates": {
+      "lat": 47.233333333333334,
+      "lon": 1.55
+    },
     "remarks": ""
   },
   {
@@ -119,10 +157,16 @@
     "nameWoDiacritics": "Schaan",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "4710N 00930E",
+    "coordinates": {
+      "lat": 47.166666666666664,
+      "lon": 1.55
+    },
     "remarks": ""
   },
   {
@@ -133,10 +177,16 @@
     "nameWoDiacritics": "Schaanwald",
     "subdivision": "",
     "status": "RL",
-    "function": "--3----B",
+    "function": [
+      2,
+      7
+    ],
     "date": "0501",
     "iata": "",
-    "coordinates": "4713N 00934E",
+    "coordinates": {
+      "lat": 47.21666666666667,
+      "lon": 1.55
+    },
     "remarks": ""
   },
   {
@@ -147,10 +197,15 @@
     "nameWoDiacritics": "Triesen",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9705",
     "iata": "QVU",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -161,10 +216,15 @@
     "nameWoDiacritics": "Vaduz",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "4709N 00932E",
+    "coordinates": {
+      "lat": 47.15,
+      "lon": 1.55
+    },
     "remarks": ""
   }
 ]

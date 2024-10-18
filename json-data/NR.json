@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,17 @@
     "nameWoDiacritics": "Nauru Island",
     "subdivision": "",
     "status": "AI",
-    "function": "1--45---",
+    "function": [
+      0,
+      3,
+      4
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "0033S 16655E",
+    "coordinates": {
+      "lat": -0.55,
+      "lon": 17.083333333333332
+    },
     "remarks": ""
   },
   {
@@ -35,10 +45,15 @@
     "nameWoDiacritics": "Yaren",
     "subdivision": "14",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "0032S 16655E",
+    "coordinates": {
+      "lat": -0.5333333333333333,
+      "lon": 17.083333333333332
+    },
     "remarks": ""
   }
 ]

@@ -7,10 +7,13 @@
     "nameWoDiacritics": " REPUBLIC OF\"",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Aewol",
     "subdivision": "49",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3327N 12619E",
+    "coordinates": {
+      "lat": 33.45,
+      "lon": 13.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,16 @@
     "nameWoDiacritics": "Andong",
     "subdivision": "47",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3633N 12843E",
+    "coordinates": {
+      "lat": 36.55,
+      "lon": 13.4
+    },
     "remarks": ""
   },
   {
@@ -49,10 +63,15 @@
     "nameWoDiacritics": "Anjeong",
     "subdivision": "48",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1007",
     "iata": "",
-    "coordinates": "3457N 12826E",
+    "coordinates": {
+      "lat": 34.95,
+      "lon": 13.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -63,10 +82,16 @@
     "nameWoDiacritics": "Ansan",
     "subdivision": "41",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3719N 12649E",
+    "coordinates": {
+      "lat": 37.31666666666667,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -77,10 +102,16 @@
     "nameWoDiacritics": "Anseong",
     "subdivision": "41",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3700N 12716E",
+    "coordinates": {
+      "lat": 37,
+      "lon": 13.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -91,10 +122,16 @@
     "nameWoDiacritics": "Anyang",
     "subdivision": "41",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0507",
     "iata": "QYA",
-    "coordinates": "3723N 12655E",
+    "coordinates": {
+      "lat": 37.38333333333333,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -105,10 +142,16 @@
     "nameWoDiacritics": "Asan",
     "subdivision": "44",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3647N 12700E",
+    "coordinates": {
+      "lat": 36.78333333333333,
+      "lon": 13.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -119,10 +162,15 @@
     "nameWoDiacritics": "BALAN/Hwaseoung",
     "subdivision": "41",
     "status": "AF",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3728N 12651E",
+    "coordinates": {
+      "lat": 37.46666666666667,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -133,10 +181,15 @@
     "nameWoDiacritics": "Biin",
     "subdivision": "44",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3607N 12629E",
+    "coordinates": {
+      "lat": 36.11666666666667,
+      "lon": 13.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -147,10 +200,16 @@
     "nameWoDiacritics": "Boeun-gun",
     "subdivision": "43",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3629N 12743E",
+    "coordinates": {
+      "lat": 36.483333333333334,
+      "lon": 13.233333333333334
+    },
     "remarks": ""
   },
   {
@@ -161,10 +220,16 @@
     "nameWoDiacritics": "Bongdong-eup/Wanju-gun",
     "subdivision": "45",
     "status": "AF",
-    "function": "--3--6--",
+    "function": [
+      2,
+      5
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3556N 12709E",
+    "coordinates": {
+      "lat": 35.93333333333333,
+      "lon": 13.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -175,10 +240,16 @@
     "nameWoDiacritics": "Bonghwa-gun",
     "subdivision": "47",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3614N 12843E",
+    "coordinates": {
+      "lat": 36.233333333333334,
+      "lon": 13.4
+    },
     "remarks": ""
   },
   {
@@ -189,10 +260,17 @@
     "nameWoDiacritics": "Boryeong",
     "subdivision": "44",
     "status": "AF",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3619N 12630E",
+    "coordinates": {
+      "lat": 36.31666666666667,
+      "lon": 13.05
+    },
     "remarks": ""
   },
   {
@@ -203,10 +281,16 @@
     "nameWoDiacritics": "Boseong-gun",
     "subdivision": "46",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3446N 12748E",
+    "coordinates": {
+      "lat": 34.766666666666666,
+      "lon": 13.233333333333334
+    },
     "remarks": ""
   },
   {
@@ -217,10 +301,16 @@
     "nameWoDiacritics": "Buan-gun",
     "subdivision": "45",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3543N 12644E",
+    "coordinates": {
+      "lat": 35.71666666666667,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -231,10 +321,16 @@
     "nameWoDiacritics": "Bucheon",
     "subdivision": "41",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3730N 12645E",
+    "coordinates": {
+      "lat": 37.5,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -245,10 +341,15 @@
     "nameWoDiacritics": "Bukjeju-gun",
     "subdivision": "49",
     "status": "AF",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3329N 12630E",
+    "coordinates": {
+      "lat": 33.483333333333334,
+      "lon": 13.05
+    },
     "remarks": ""
   },
   {
@@ -259,10 +360,17 @@
     "nameWoDiacritics": "Bupyong/Incheon",
     "subdivision": "28",
     "status": "RL",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3730N 12908E",
+    "coordinates": {
+      "lat": 37.5,
+      "lon": 13.5
+    },
     "remarks": ""
   },
   {
@@ -273,10 +381,21 @@
     "nameWoDiacritics": "Busan",
     "subdivision": "26",
     "status": "AF",
-    "function": "1234567-",
+    "function": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "3508N 12903E",
+    "coordinates": {
+      "lat": 35.13333333333333,
+      "lon": 13.5
+    },
     "remarks": ""
   },
   {
@@ -287,10 +406,15 @@
     "nameWoDiacritics": "Busan New Port",
     "subdivision": "26",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "3505N 12849E",
+    "coordinates": {
+      "lat": 35.083333333333336,
+      "lon": 13.4
+    },
     "remarks": "Under scrutiny"
   },
   {
@@ -301,10 +425,16 @@
     "nameWoDiacritics": "Busanjin-Gu",
     "subdivision": "26",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1007",
     "iata": "",
-    "coordinates": "3509N 12903E",
+    "coordinates": {
+      "lat": 35.15,
+      "lon": 13.5
+    },
     "remarks": ""
   },
   {
@@ -315,10 +445,16 @@
     "nameWoDiacritics": "Buyeo-gun",
     "subdivision": "44",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3616N 12654E",
+    "coordinates": {
+      "lat": 36.266666666666666,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -329,10 +465,16 @@
     "nameWoDiacritics": "Changnyeong-gun",
     "subdivision": "48",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3532N 12829E",
+    "coordinates": {
+      "lat": 35.53333333333333,
+      "lon": 13.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -343,10 +485,16 @@
     "nameWoDiacritics": "Changwon",
     "subdivision": "48",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3513N 12840E",
+    "coordinates": {
+      "lat": 35.21666666666667,
+      "lon": 13.4
+    },
     "remarks": ""
   },
   {
@@ -357,10 +505,16 @@
     "nameWoDiacritics": "Cheonan",
     "subdivision": "44",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3648N 12709E",
+    "coordinates": {
+      "lat": 36.8,
+      "lon": 13.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -371,10 +525,16 @@
     "nameWoDiacritics": "Cheongdo-gun",
     "subdivision": "47",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3538N 12844E",
+    "coordinates": {
+      "lat": 35.63333333333333,
+      "lon": 13.4
+    },
     "remarks": ""
   },
   {
@@ -385,10 +545,16 @@
     "nameWoDiacritics": "Cheongju",
     "subdivision": "43",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "3638N 12729E",
+    "coordinates": {
+      "lat": 36.63333333333333,
+      "lon": 13.2
+    },
     "remarks": ""
   },
   {
@@ -399,10 +565,16 @@
     "nameWoDiacritics": "Cheongju Apt",
     "subdivision": "43",
     "status": "AI",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3642N 12729E",
+    "coordinates": {
+      "lat": 36.7,
+      "lon": 13.2
+    },
     "remarks": ""
   },
   {
@@ -413,10 +585,16 @@
     "nameWoDiacritics": "Cheongsong-gun",
     "subdivision": "47",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3626N 12925E",
+    "coordinates": {
+      "lat": 36.43333333333333,
+      "lon": 13.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -427,10 +605,16 @@
     "nameWoDiacritics": "Cheongwon-gun",
     "subdivision": "43",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3638N 12729E",
+    "coordinates": {
+      "lat": 36.63333333333333,
+      "lon": 13.2
+    },
     "remarks": ""
   },
   {
@@ -441,10 +625,16 @@
     "nameWoDiacritics": "Cheongyang-gun",
     "subdivision": "44",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3627N 12648E",
+    "coordinates": {
+      "lat": 36.45,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -455,10 +645,16 @@
     "nameWoDiacritics": "Cheorwon-gun",
     "subdivision": "42",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3815N 12713E",
+    "coordinates": {
+      "lat": 38.25,
+      "lon": 13.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -469,10 +665,16 @@
     "nameWoDiacritics": "Chilgok-gun",
     "subdivision": "47",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3559N 12824E",
+    "coordinates": {
+      "lat": 35.983333333333334,
+      "lon": 13.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -483,10 +685,15 @@
     "nameWoDiacritics": "Ch'irwon",
     "subdivision": "48",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "3518N 12831E",
+    "coordinates": {
+      "lat": 35.3,
+      "lon": 13.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -497,10 +704,15 @@
     "nameWoDiacritics": "Ch'Ongdo",
     "subdivision": "47",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "3538N 12844E",
+    "coordinates": {
+      "lat": 35.63333333333333,
+      "lon": 13.4
+    },
     "remarks": ""
   },
   {
@@ -511,10 +723,17 @@
     "nameWoDiacritics": "Chonju",
     "subdivision": "45",
     "status": "AI",
-    "function": "-234----",
+    "function": [
+      1,
+      2,
+      3
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3549N 12708E",
+    "coordinates": {
+      "lat": 35.81666666666667,
+      "lon": 13.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -525,10 +744,17 @@
     "nameWoDiacritics": "Chonui/Yeongi-gun",
     "subdivision": "44",
     "status": "RL",
-    "function": "-23--6--",
+    "function": [
+      1,
+      2,
+      5
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3640N 12712E",
+    "coordinates": {
+      "lat": 36.666666666666664,
+      "lon": 13.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -539,10 +765,15 @@
     "nameWoDiacritics": "Chuja",
     "subdivision": "49",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3357N 12618E",
+    "coordinates": {
+      "lat": 33.95,
+      "lon": 13.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -553,10 +784,16 @@
     "nameWoDiacritics": "Chuncheon",
     "subdivision": "42",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3752N 12745E",
+    "coordinates": {
+      "lat": 37.86666666666667,
+      "lon": 13.233333333333334
+    },
     "remarks": ""
   },
   {
@@ -567,10 +804,16 @@
     "nameWoDiacritics": "Chungju",
     "subdivision": "43",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0507",
     "iata": "QUN",
-    "coordinates": "3658N 12755E",
+    "coordinates": {
+      "lat": 36.96666666666667,
+      "lon": 13.25
+    },
     "remarks": ""
   },
   {
@@ -581,10 +824,15 @@
     "nameWoDiacritics": "Chungnam",
     "subdivision": "46",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "3501N 12652E",
+    "coordinates": {
+      "lat": 35.016666666666666,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -595,10 +843,15 @@
     "nameWoDiacritics": "Chungyang",
     "subdivision": "30",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -609,10 +862,17 @@
     "nameWoDiacritics": "Daebul/Yeongam-gun",
     "subdivision": "46",
     "status": "AF",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3445N 12626E",
+    "coordinates": {
+      "lat": 34.75,
+      "lon": 13.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -623,10 +883,15 @@
     "nameWoDiacritics": "Daecheon",
     "subdivision": "44",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3619N 12630E",
+    "coordinates": {
+      "lat": 36.31666666666667,
+      "lon": 13.05
+    },
     "remarks": ""
   },
   {
@@ -637,10 +902,16 @@
     "nameWoDiacritics": "Daedeok/Dawjeon",
     "subdivision": "30",
     "status": "AI",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3623N 12722E",
+    "coordinates": {
+      "lat": 36.38333333333333,
+      "lon": 13.2
+    },
     "remarks": ""
   },
   {
@@ -651,10 +922,17 @@
     "nameWoDiacritics": "Daegu",
     "subdivision": "27",
     "status": "AF",
-    "function": "-234----",
+    "function": [
+      1,
+      2,
+      3
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3552N 12835E",
+    "coordinates": {
+      "lat": 35.86666666666667,
+      "lon": 13.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -665,10 +943,15 @@
     "nameWoDiacritics": "Daeheuksando",
     "subdivision": "46",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3441N 12526E",
+    "coordinates": {
+      "lat": 34.68333333333333,
+      "lon": 12.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -679,10 +962,16 @@
     "nameWoDiacritics": "Daejeon",
     "subdivision": "30",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0507",
     "iata": "QTW",
-    "coordinates": "3619N 12725E",
+    "coordinates": {
+      "lat": 36.31666666666667,
+      "lon": 13.2
+    },
     "remarks": ""
   },
   {
@@ -693,10 +982,15 @@
     "nameWoDiacritics": "Daesan/Seosan",
     "subdivision": "44",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3700N 12622E",
+    "coordinates": {
+      "lat": 37,
+      "lon": 13.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -707,10 +1001,16 @@
     "nameWoDiacritics": "Dalseong-gun/Daegu",
     "subdivision": "27",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3549N 12833E",
+    "coordinates": {
+      "lat": 35.81666666666667,
+      "lon": 13.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -721,10 +1021,16 @@
     "nameWoDiacritics": "Damyang-gun",
     "subdivision": "46",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3519N 12659E",
+    "coordinates": {
+      "lat": 35.31666666666667,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -735,10 +1041,16 @@
     "nameWoDiacritics": "Dangjin",
     "subdivision": "44",
     "status": "AF",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "3658N 12647E",
+    "coordinates": {
+      "lat": 36.96666666666667,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -749,10 +1061,16 @@
     "nameWoDiacritics": "Danyang-gun",
     "subdivision": "43",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3659N 12821E",
+    "coordinates": {
+      "lat": 36.983333333333334,
+      "lon": 13.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -763,10 +1081,15 @@
     "nameWoDiacritics": "Dokdo",
     "subdivision": "47",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3714N 13151E",
+    "coordinates": {
+      "lat": 37.233333333333334,
+      "lon": 13.25
+    },
     "remarks": ""
   },
   {
@@ -777,10 +1100,16 @@
     "nameWoDiacritics": "Dongducheon",
     "subdivision": "41",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3754N 12733E",
+    "coordinates": {
+      "lat": 37.9,
+      "lon": 13.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -791,10 +1120,17 @@
     "nameWoDiacritics": "Donghae",
     "subdivision": "42",
     "status": "AF",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3729N 12907E",
+    "coordinates": {
+      "lat": 37.483333333333334,
+      "lon": 13.5
+    },
     "remarks": ""
   },
   {
@@ -805,10 +1141,16 @@
     "nameWoDiacritics": "Dorasan/Paju",
     "subdivision": "41",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3745N 12646E",
+    "coordinates": {
+      "lat": 37.75,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -819,10 +1161,16 @@
     "nameWoDiacritics": "Eumseong-gun",
     "subdivision": "43",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3656N 12741E",
+    "coordinates": {
+      "lat": 36.93333333333333,
+      "lon": 13.233333333333334
+    },
     "remarks": ""
   },
   {
@@ -833,10 +1181,15 @@
     "nameWoDiacritics": "Gageohyangri",
     "subdivision": "46",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3404N 12505E",
+    "coordinates": {
+      "lat": 34.06666666666667,
+      "lon": 12.833333333333334
+    },
     "remarks": ""
   },
   {
@@ -847,10 +1200,15 @@
     "nameWoDiacritics": "Galdoo",
     "subdivision": "46",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3418N 12631E",
+    "coordinates": {
+      "lat": 34.3,
+      "lon": 13.05
+    },
     "remarks": ""
   },
   {
@@ -861,10 +1219,15 @@
     "nameWoDiacritics": "Gamcheon/Busan",
     "subdivision": "26",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3505N 12900E",
+    "coordinates": {
+      "lat": 35.083333333333336,
+      "lon": 13.5
+    },
     "remarks": ""
   },
   {
@@ -875,10 +1238,15 @@
     "nameWoDiacritics": "Ganggu",
     "subdivision": "46",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3621N 12923E",
+    "coordinates": {
+      "lat": 36.35,
+      "lon": 13.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -889,10 +1257,16 @@
     "nameWoDiacritics": "Ganghwa-gun/Incheon",
     "subdivision": "28",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3744N 12629E",
+    "coordinates": {
+      "lat": 37.733333333333334,
+      "lon": 13.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -903,10 +1277,16 @@
     "nameWoDiacritics": "Gangjin-gun",
     "subdivision": "46",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3547N 12646E",
+    "coordinates": {
+      "lat": 35.78333333333333,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -917,10 +1297,17 @@
     "nameWoDiacritics": "Gangneung",
     "subdivision": "42",
     "status": "AF",
-    "function": "-234----",
+    "function": [
+      1,
+      2,
+      3
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3745N 12854E",
+    "coordinates": {
+      "lat": 37.75,
+      "lon": 13.416666666666666
+    },
     "remarks": ""
   },
   {
@@ -931,10 +1318,15 @@
     "nameWoDiacritics": "Gangseo",
     "subdivision": "",
     "status": "RQ",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -945,10 +1337,16 @@
     "nameWoDiacritics": "Gapyeong-gun",
     "subdivision": "41",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3749N 12730E",
+    "coordinates": {
+      "lat": 37.81666666666667,
+      "lon": 13.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -959,10 +1357,16 @@
     "nameWoDiacritics": "Geochang-gun",
     "subdivision": "48",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3541N 12754E",
+    "coordinates": {
+      "lat": 35.68333333333333,
+      "lon": 13.25
+    },
     "remarks": ""
   },
   {
@@ -973,10 +1377,15 @@
     "nameWoDiacritics": "Geoje",
     "subdivision": "48",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3454N 12841E",
+    "coordinates": {
+      "lat": 34.9,
+      "lon": 13.4
+    },
     "remarks": ""
   },
   {
@@ -987,10 +1396,16 @@
     "nameWoDiacritics": "Geoje",
     "subdivision": "48",
     "status": "AF",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3451N 12835E",
+    "coordinates": {
+      "lat": 34.85,
+      "lon": 13.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -1001,10 +1416,15 @@
     "nameWoDiacritics": "Geomundo",
     "subdivision": "46",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3401N 12718E",
+    "coordinates": {
+      "lat": 34.016666666666666,
+      "lon": 13.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -1015,10 +1435,16 @@
     "nameWoDiacritics": "Geumsan-gun",
     "subdivision": "44",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3647N 12729E",
+    "coordinates": {
+      "lat": 36.78333333333333,
+      "lon": 13.2
+    },
     "remarks": ""
   },
   {
@@ -1029,10 +1455,16 @@
     "nameWoDiacritics": "Gijang-gun/Busan",
     "subdivision": "26",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3515N 12912E",
+    "coordinates": {
+      "lat": 35.25,
+      "lon": 13.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -1043,10 +1475,16 @@
     "nameWoDiacritics": "Gimcheon",
     "subdivision": "47",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3607N 12806E",
+    "coordinates": {
+      "lat": 36.11666666666667,
+      "lon": 13.333333333333334
+    },
     "remarks": ""
   },
   {
@@ -1057,10 +1495,15 @@
     "nameWoDiacritics": "Gimhae",
     "subdivision": "48",
     "status": "AF",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3514N 12852E",
+    "coordinates": {
+      "lat": 35.233333333333334,
+      "lon": 13.416666666666666
+    },
     "remarks": ""
   },
   {
@@ -1071,10 +1514,16 @@
     "nameWoDiacritics": "Gimje",
     "subdivision": "45",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3548N 12652E",
+    "coordinates": {
+      "lat": 35.8,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -1085,10 +1534,17 @@
     "nameWoDiacritics": "Gimpo",
     "subdivision": "41",
     "status": "AI",
-    "function": "-234----",
+    "function": [
+      1,
+      2,
+      3
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3737N 12641E",
+    "coordinates": {
+      "lat": 37.61666666666667,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1099,10 +1555,16 @@
     "nameWoDiacritics": "Gochang-gun",
     "subdivision": "45",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3526N 12642E",
+    "coordinates": {
+      "lat": 35.43333333333333,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1113,10 +1575,16 @@
     "nameWoDiacritics": "Goesan-gun",
     "subdivision": "43",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3648N 12747E",
+    "coordinates": {
+      "lat": 36.8,
+      "lon": 13.233333333333334
+    },
     "remarks": ""
   },
   {
@@ -1127,10 +1595,15 @@
     "nameWoDiacritics": "Gogok",
     "subdivision": "47",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "3742N 12651E",
+    "coordinates": {
+      "lat": 37.7,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -1141,10 +1614,16 @@
     "nameWoDiacritics": "Goheung-gun",
     "subdivision": "46",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3436N 12717E",
+    "coordinates": {
+      "lat": 34.6,
+      "lon": 13.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -1155,10 +1634,15 @@
     "nameWoDiacritics": "Gohyeon/Geoje",
     "subdivision": "48",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3453N 12837E",
+    "coordinates": {
+      "lat": 34.88333333333333,
+      "lon": 13.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -1169,10 +1653,16 @@
     "nameWoDiacritics": "Gokseong-gun",
     "subdivision": "46",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3516N 12717E",
+    "coordinates": {
+      "lat": 35.266666666666666,
+      "lon": 13.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -1183,10 +1673,16 @@
     "nameWoDiacritics": "Gongju",
     "subdivision": "44",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3627N 12708E",
+    "coordinates": {
+      "lat": 36.45,
+      "lon": 13.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1197,10 +1693,16 @@
     "nameWoDiacritics": "Goryeong-gun",
     "subdivision": "47",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3558N 12815E",
+    "coordinates": {
+      "lat": 35.96666666666667,
+      "lon": 13.35
+    },
     "remarks": ""
   },
   {
@@ -1211,10 +1713,16 @@
     "nameWoDiacritics": "Goseong-gun",
     "subdivision": "42",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3822N 12828E",
+    "coordinates": {
+      "lat": 38.36666666666667,
+      "lon": 13.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -1225,10 +1733,16 @@
     "nameWoDiacritics": "Goseong-gun",
     "subdivision": "47",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3458N 12819E",
+    "coordinates": {
+      "lat": 34.96666666666667,
+      "lon": 13.35
+    },
     "remarks": ""
   },
   {
@@ -1239,10 +1753,16 @@
     "nameWoDiacritics": "Goyang",
     "subdivision": "41",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3739N 12649E",
+    "coordinates": {
+      "lat": 37.65,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1253,10 +1773,16 @@
     "nameWoDiacritics": "Gumi",
     "subdivision": "47",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3607N 12820E",
+    "coordinates": {
+      "lat": 36.11666666666667,
+      "lon": 13.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -1267,10 +1793,16 @@
     "nameWoDiacritics": "Gunpo",
     "subdivision": "41",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3720N 12659E",
+    "coordinates": {
+      "lat": 37.333333333333336,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -1281,10 +1813,18 @@
     "nameWoDiacritics": "Gunsan",
     "subdivision": "45",
     "status": "AF",
-    "function": "1234----",
+    "function": [
+      0,
+      1,
+      2,
+      3
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3559N 12643E",
+    "coordinates": {
+      "lat": 35.983333333333334,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1295,10 +1835,16 @@
     "nameWoDiacritics": "Gunwi-gun",
     "subdivision": "47",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3614N 12834E",
+    "coordinates": {
+      "lat": 36.233333333333334,
+      "lon": 13.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -1309,10 +1855,16 @@
     "nameWoDiacritics": "Guri",
     "subdivision": "41",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3735N 12708E",
+    "coordinates": {
+      "lat": 37.583333333333336,
+      "lon": 13.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1323,10 +1875,16 @@
     "nameWoDiacritics": "Gurye-gun",
     "subdivision": "46",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3512N 12727E",
+    "coordinates": {
+      "lat": 35.2,
+      "lon": 13.2
+    },
     "remarks": ""
   },
   {
@@ -1337,10 +1895,15 @@
     "nameWoDiacritics": "Guryongpo",
     "subdivision": "47",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3559N 12933E",
+    "coordinates": {
+      "lat": 35.983333333333334,
+      "lon": 13.55
+    },
     "remarks": ""
   },
   {
@@ -1351,10 +1914,16 @@
     "nameWoDiacritics": "Gwacheon",
     "subdivision": "41",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3725N 12659E",
+    "coordinates": {
+      "lat": 37.416666666666664,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -1365,10 +1934,17 @@
     "nameWoDiacritics": "Gwangju",
     "subdivision": "29",
     "status": "AF",
-    "function": "-234----",
+    "function": [
+      1,
+      2,
+      3
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3509N 12654E",
+    "coordinates": {
+      "lat": 35.15,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -1379,10 +1955,15 @@
     "nameWoDiacritics": "Gwangju",
     "subdivision": "41",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3724N 12715E",
+    "coordinates": {
+      "lat": 37.4,
+      "lon": 13.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -1393,10 +1974,16 @@
     "nameWoDiacritics": "Gwangmyeong",
     "subdivision": "41",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3728N 12651E",
+    "coordinates": {
+      "lat": 37.46666666666667,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -1407,10 +1994,17 @@
     "nameWoDiacritics": "Gwangyang",
     "subdivision": "46",
     "status": "AF",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3456N 12742E",
+    "coordinates": {
+      "lat": 34.93333333333333,
+      "lon": 13.233333333333334
+    },
     "remarks": ""
   },
   {
@@ -1421,10 +2015,15 @@
     "nameWoDiacritics": "Gyeongin",
     "subdivision": "28",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3732N 12636E",
+    "coordinates": {
+      "lat": 37.53333333333333,
+      "lon": 13.05
+    },
     "remarks": ""
   },
   {
@@ -1435,10 +2034,16 @@
     "nameWoDiacritics": "Gyeongju",
     "subdivision": "47",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3551N 12913E",
+    "coordinates": {
+      "lat": 35.85,
+      "lon": 13.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -1449,10 +2054,16 @@
     "nameWoDiacritics": "Gyeongsan",
     "subdivision": "47",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3548N 12844E",
+    "coordinates": {
+      "lat": 35.8,
+      "lon": 13.4
+    },
     "remarks": ""
   },
   {
@@ -1463,10 +2074,16 @@
     "nameWoDiacritics": "Gyerong",
     "subdivision": "44",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "3616N 12714E",
+    "coordinates": {
+      "lat": 36.266666666666666,
+      "lon": 13.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -1477,10 +2094,16 @@
     "nameWoDiacritics": "Hadong-gun",
     "subdivision": "48",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3542N 12745E",
+    "coordinates": {
+      "lat": 35.7,
+      "lon": 13.233333333333334
+    },
     "remarks": ""
   },
   {
@@ -1491,10 +2114,15 @@
     "nameWoDiacritics": "Haenam-Gun",
     "subdivision": "46",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "3434N 12635E",
+    "coordinates": {
+      "lat": 34.56666666666667,
+      "lon": 13.05
+    },
     "remarks": ""
   },
   {
@@ -1505,10 +2133,15 @@
     "nameWoDiacritics": "Hallim",
     "subdivision": "49",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3325N 12615E",
+    "coordinates": {
+      "lat": 33.416666666666664,
+      "lon": 13.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -1519,10 +2152,16 @@
     "nameWoDiacritics": "Haman-gun",
     "subdivision": "48",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3516N 12824E",
+    "coordinates": {
+      "lat": 35.266666666666666,
+      "lon": 13.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -1533,10 +2172,16 @@
     "nameWoDiacritics": "Hampyeong-gun",
     "subdivision": "46",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3548N 12631E",
+    "coordinates": {
+      "lat": 35.8,
+      "lon": 13.05
+    },
     "remarks": ""
   },
   {
@@ -1547,10 +2192,16 @@
     "nameWoDiacritics": "Hamyang-gun",
     "subdivision": "48",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3531N 12743E",
+    "coordinates": {
+      "lat": 35.516666666666666,
+      "lon": 13.233333333333334
+    },
     "remarks": ""
   },
   {
@@ -1561,10 +2212,16 @@
     "nameWoDiacritics": "Hanam",
     "subdivision": "41",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3732N 12712E",
+    "coordinates": {
+      "lat": 37.53333333333333,
+      "lon": 13.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -1575,10 +2232,16 @@
     "nameWoDiacritics": "Hapcheon-gun",
     "subdivision": "48",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3533N 12857E",
+    "coordinates": {
+      "lat": 35.55,
+      "lon": 13.416666666666666
+    },
     "remarks": ""
   },
   {
@@ -1589,10 +2252,15 @@
     "nameWoDiacritics": "Haryana",
     "subdivision": "26",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1603,10 +2271,15 @@
     "nameWoDiacritics": "Hoengseong-Gun",
     "subdivision": "44",
     "status": "AM",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "3636N 12640E",
+    "coordinates": {
+      "lat": 36.6,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1617,10 +2290,16 @@
     "nameWoDiacritics": "Hoengseong-gun",
     "subdivision": "42",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3729N 12759E",
+    "coordinates": {
+      "lat": 37.483333333333334,
+      "lon": 13.25
+    },
     "remarks": ""
   },
   {
@@ -1631,10 +2310,16 @@
     "nameWoDiacritics": "Hongcheon-gun",
     "subdivision": "42",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3741N 12753E",
+    "coordinates": {
+      "lat": 37.68333333333333,
+      "lon": 13.25
+    },
     "remarks": ""
   },
   {
@@ -1645,10 +2330,15 @@
     "nameWoDiacritics": "Hongdo",
     "subdivision": "46",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3439N 12511E",
+    "coordinates": {
+      "lat": 34.65,
+      "lon": 12.85
+    },
     "remarks": ""
   },
   {
@@ -1659,10 +2349,16 @@
     "nameWoDiacritics": "Hongseong-gun",
     "subdivision": "44",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3636N 12639E",
+    "coordinates": {
+      "lat": 36.6,
+      "lon": 13.05
+    },
     "remarks": ""
   },
   {
@@ -1673,10 +2369,15 @@
     "nameWoDiacritics": "Hosan",
     "subdivision": "42",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3710N 12921E",
+    "coordinates": {
+      "lat": 37.166666666666664,
+      "lon": 13.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -1687,10 +2388,15 @@
     "nameWoDiacritics": "Hupo",
     "subdivision": "47",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3640N 12927E",
+    "coordinates": {
+      "lat": 36.666666666666664,
+      "lon": 13.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -1701,10 +2407,16 @@
     "nameWoDiacritics": "Hwacheon-gun",
     "subdivision": "42",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3806N 12742E",
+    "coordinates": {
+      "lat": 38.1,
+      "lon": 13.233333333333334
+    },
     "remarks": ""
   },
   {
@@ -1715,10 +2427,15 @@
     "nameWoDiacritics": "Hwahungpo",
     "subdivision": "46",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3418N 12640E",
+    "coordinates": {
+      "lat": 34.3,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1729,10 +2446,16 @@
     "nameWoDiacritics": "Hwaseong",
     "subdivision": "41",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "3711N 12649E",
+    "coordinates": {
+      "lat": 37.18333333333333,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1743,10 +2466,15 @@
     "nameWoDiacritics": "Hwasong",
     "subdivision": "41",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1757,10 +2485,17 @@
     "nameWoDiacritics": "Hwasun",
     "subdivision": "49",
     "status": "AF",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "3314N 12620E",
+    "coordinates": {
+      "lat": 33.233333333333334,
+      "lon": 13.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -1771,10 +2506,15 @@
     "nameWoDiacritics": "Hwasun-gun",
     "subdivision": "46",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "3503N 12659E",
+    "coordinates": {
+      "lat": 35.05,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -1785,10 +2525,16 @@
     "nameWoDiacritics": "Hyeondo-myeon/Cheongwon-gun",
     "subdivision": "43",
     "status": "AF",
-    "function": "--3--6--",
+    "function": [
+      2,
+      5
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3629N 12725E",
+    "coordinates": {
+      "lat": 36.483333333333334,
+      "lon": 13.2
+    },
     "remarks": ""
   },
   {
@@ -1799,10 +2545,15 @@
     "nameWoDiacritics": "Hyeonpoong/Daegu",
     "subdivision": "27",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3541N 12826E",
+    "coordinates": {
+      "lat": 35.68333333333333,
+      "lon": 13.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -1813,10 +2564,16 @@
     "nameWoDiacritics": "Icheon",
     "subdivision": "41",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3716N 12726E",
+    "coordinates": {
+      "lat": 37.266666666666666,
+      "lon": 13.2
+    },
     "remarks": ""
   },
   {
@@ -1827,10 +2584,16 @@
     "nameWoDiacritics": "Iksan",
     "subdivision": "45",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3558N 12702E",
+    "coordinates": {
+      "lat": 35.96666666666667,
+      "lon": 13.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1841,10 +2604,15 @@
     "nameWoDiacritics": "Ilsan",
     "subdivision": "48",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "3530N 12926E",
+    "coordinates": {
+      "lat": 35.5,
+      "lon": 13.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -1855,10 +2623,15 @@
     "nameWoDiacritics": "Ilsan-dong",
     "subdivision": "41",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "3741N 12646E",
+    "coordinates": {
+      "lat": 37.68333333333333,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1869,10 +2642,16 @@
     "nameWoDiacritics": "Imsil-gun",
     "subdivision": "45",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3536N 12716E",
+    "coordinates": {
+      "lat": 35.6,
+      "lon": 13.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -1883,10 +2662,17 @@
     "nameWoDiacritics": "Incheon",
     "subdivision": "28",
     "status": "AF",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "0901",
     "iata": "ICN",
-    "coordinates": "3727N 12637E",
+    "coordinates": {
+      "lat": 37.45,
+      "lon": 13.05
+    },
     "remarks": ""
   },
   {
@@ -1897,10 +2683,15 @@
     "nameWoDiacritics": "Incheon Intl Apt/Seoul",
     "subdivision": "28",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0501",
     "iata": "",
-    "coordinates": "3727N 12643E",
+    "coordinates": {
+      "lat": 37.45,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1911,10 +2702,16 @@
     "nameWoDiacritics": "Inje-gun",
     "subdivision": "42",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3841N 12810E",
+    "coordinates": {
+      "lat": 38.68333333333333,
+      "lon": 13.35
+    },
     "remarks": ""
   },
   {
@@ -1925,10 +2722,15 @@
     "nameWoDiacritics": "Janghang/Seocheon-gun",
     "subdivision": "44",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3600N 12641E",
+    "coordinates": {
+      "lat": 36,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1939,10 +2741,16 @@
     "nameWoDiacritics": "Jangheung-gun",
     "subdivision": "46",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3440N 12654E",
+    "coordinates": {
+      "lat": 34.666666666666664,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -1953,10 +2761,16 @@
     "nameWoDiacritics": "Jangseong/Jangseong-gun",
     "subdivision": "46",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3518N 12648E",
+    "coordinates": {
+      "lat": 35.3,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1967,10 +2781,16 @@
     "nameWoDiacritics": "Jangsu-gun",
     "subdivision": "45",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3538N 12731E",
+    "coordinates": {
+      "lat": 35.63333333333333,
+      "lon": 13.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -1981,10 +2801,16 @@
     "nameWoDiacritics": "Jecheon",
     "subdivision": "43",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3708N 12813E",
+    "coordinates": {
+      "lat": 37.13333333333333,
+      "lon": 13.35
+    },
     "remarks": ""
   },
   {
@@ -1995,10 +2821,17 @@
     "nameWoDiacritics": "Jeju",
     "subdivision": "49",
     "status": "AF",
-    "function": "1-34----",
+    "function": [
+      0,
+      2,
+      3
+    ],
     "date": "0601",
     "iata": "CJU",
-    "coordinates": "3330N 12631E",
+    "coordinates": {
+      "lat": 33.5,
+      "lon": 13.05
+    },
     "remarks": ""
   },
   {
@@ -2009,10 +2842,16 @@
     "nameWoDiacritics": "Jeongeup",
     "subdivision": "45",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3534N 12651E",
+    "coordinates": {
+      "lat": 35.56666666666667,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -2023,10 +2862,16 @@
     "nameWoDiacritics": "Jeongseon-gun",
     "subdivision": "42",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3722N 12839E",
+    "coordinates": {
+      "lat": 37.36666666666667,
+      "lon": 13.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -2037,10 +2882,16 @@
     "nameWoDiacritics": "Jeonju",
     "subdivision": "45",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3549N 12709E",
+    "coordinates": {
+      "lat": 35.81666666666667,
+      "lon": 13.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -2051,10 +2902,17 @@
     "nameWoDiacritics": "Jeungpyeung",
     "subdivision": "43",
     "status": "RL",
-    "function": "-23--6--",
+    "function": [
+      1,
+      2,
+      5
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3647N 12735E",
+    "coordinates": {
+      "lat": 36.78333333333333,
+      "lon": 13.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -2065,10 +2923,16 @@
     "nameWoDiacritics": "Jinan-gun",
     "subdivision": "45",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3538N 12725E",
+    "coordinates": {
+      "lat": 35.63333333333333,
+      "lon": 13.2
+    },
     "remarks": ""
   },
   {
@@ -2079,10 +2943,16 @@
     "nameWoDiacritics": "Jincheon-gun",
     "subdivision": "43",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3651N 12756E",
+    "coordinates": {
+      "lat": 36.85,
+      "lon": 13.25
+    },
     "remarks": ""
   },
   {
@@ -2093,10 +2963,16 @@
     "nameWoDiacritics": "Jindo-gun",
     "subdivision": "46",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3429N 12615E",
+    "coordinates": {
+      "lat": 34.483333333333334,
+      "lon": 13.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -2107,10 +2983,18 @@
     "nameWoDiacritics": "Jinhae",
     "subdivision": "48",
     "status": "AI",
-    "function": "1234----",
+    "function": [
+      0,
+      1,
+      2,
+      3
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3508N 12839E",
+    "coordinates": {
+      "lat": 35.13333333333333,
+      "lon": 13.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -2121,10 +3005,17 @@
     "nameWoDiacritics": "Jinju",
     "subdivision": "48",
     "status": "AF",
-    "function": "-234----",
+    "function": [
+      1,
+      2,
+      3
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3510N 12805E",
+    "coordinates": {
+      "lat": 35.166666666666664,
+      "lon": 13.333333333333334
+    },
     "remarks": ""
   },
   {
@@ -2135,10 +3026,15 @@
     "nameWoDiacritics": "Jochiwon-eup/Yeongi-gun",
     "subdivision": "44",
     "status": "AF",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3636N 12718E",
+    "coordinates": {
+      "lat": 36.6,
+      "lon": 13.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -2149,10 +3045,15 @@
     "nameWoDiacritics": "Jumunjin",
     "subdivision": "42",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3753N 12850E",
+    "coordinates": {
+      "lat": 37.88333333333333,
+      "lon": 13.416666666666666
+    },
     "remarks": ""
   },
   {
@@ -2163,10 +3064,15 @@
     "nameWoDiacritics": "Junghwa",
     "subdivision": "48",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3447N 12822E",
+    "coordinates": {
+      "lat": 34.78333333333333,
+      "lon": 13.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -2177,10 +3083,15 @@
     "nameWoDiacritics": "Kijang",
     "subdivision": "26",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "3514N 12912E",
+    "coordinates": {
+      "lat": 35.233333333333334,
+      "lon": 13.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -2191,10 +3102,15 @@
     "nameWoDiacritics": "Kimp'o",
     "subdivision": "41",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "3737N 12641E",
+    "coordinates": {
+      "lat": 37.61666666666667,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -2205,10 +3121,15 @@
     "nameWoDiacritics": "Koje",
     "subdivision": "48",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "3451N 12835E",
+    "coordinates": {
+      "lat": 34.85,
+      "lon": 13.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -2219,10 +3140,15 @@
     "nameWoDiacritics": "Koryong",
     "subdivision": "47",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "3516N 12847E",
+    "coordinates": {
+      "lat": 35.266666666666666,
+      "lon": 13.4
+    },
     "remarks": ""
   },
   {
@@ -2233,10 +3159,15 @@
     "nameWoDiacritics": "Kosong",
     "subdivision": "48",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "3458N 12819E",
+    "coordinates": {
+      "lat": 34.96666666666667,
+      "lon": 13.35
+    },
     "remarks": ""
   },
   {
@@ -2247,10 +3178,15 @@
     "nameWoDiacritics": "Kukdo",
     "subdivision": "47",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3432N 12826E",
+    "coordinates": {
+      "lat": 34.53333333333333,
+      "lon": 13.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -2261,10 +3197,15 @@
     "nameWoDiacritics": "Kumi",
     "subdivision": "47",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3607N 12820E",
+    "coordinates": {
+      "lat": 36.11666666666667,
+      "lon": 13.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -2275,10 +3216,15 @@
     "nameWoDiacritics": "Kunpo",
     "subdivision": "41",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "3722N 12656E",
+    "coordinates": {
+      "lat": 37.36666666666667,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -2289,10 +3235,15 @@
     "nameWoDiacritics": "Kwachon",
     "subdivision": "41",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "3725N 12659E",
+    "coordinates": {
+      "lat": 37.416666666666664,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -2303,10 +3254,15 @@
     "nameWoDiacritics": "Kwangyang",
     "subdivision": "49",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "3330N 12632E",
+    "coordinates": {
+      "lat": 33.5,
+      "lon": 13.05
+    },
     "remarks": ""
   },
   {
@@ -2317,10 +3273,15 @@
     "nameWoDiacritics": "Kwaseong",
     "subdivision": "41",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "3712N 12648E",
+    "coordinates": {
+      "lat": 37.2,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -2331,10 +3292,17 @@
     "nameWoDiacritics": "Masan",
     "subdivision": "48",
     "status": "AF",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "0507",
     "iata": "QMS",
-    "coordinates": "3512N 12834E",
+    "coordinates": {
+      "lat": 35.2,
+      "lon": 13.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -2345,10 +3313,16 @@
     "nameWoDiacritics": "Mipo/Ulsan",
     "subdivision": "31",
     "status": "AF",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3531N 12926E",
+    "coordinates": {
+      "lat": 35.516666666666666,
+      "lon": 13.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -2359,10 +3333,15 @@
     "nameWoDiacritics": "Miryang",
     "subdivision": "48",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0907",
     "iata": "",
-    "coordinates": "3528N 12845E",
+    "coordinates": {
+      "lat": 35.46666666666667,
+      "lon": 13.4
+    },
     "remarks": ""
   },
   {
@@ -2373,10 +3352,17 @@
     "nameWoDiacritics": "Mokpo",
     "subdivision": "46",
     "status": "AF",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "MPK",
-    "coordinates": "3448N 12623E",
+    "coordinates": {
+      "lat": 34.8,
+      "lon": 13.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -2387,10 +3373,15 @@
     "nameWoDiacritics": "Mokpo Apt",
     "subdivision": "46",
     "status": "AF",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3445N 12623E",
+    "coordinates": {
+      "lat": 34.75,
+      "lon": 13.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -2401,10 +3392,15 @@
     "nameWoDiacritics": "Muan International Apt",
     "subdivision": "46",
     "status": "RL",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0907",
     "iata": "",
-    "coordinates": "3500N 12623E",
+    "coordinates": {
+      "lat": 35,
+      "lon": 13.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -2415,10 +3411,17 @@
     "nameWoDiacritics": "Muan-gun",
     "subdivision": "46",
     "status": "AF",
-    "function": "-23--6--",
+    "function": [
+      1,
+      2,
+      5
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3459N 12658E",
+    "coordinates": {
+      "lat": 34.983333333333334,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -2429,10 +3432,16 @@
     "nameWoDiacritics": "Muju-gun",
     "subdivision": "45",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3624N 12739E",
+    "coordinates": {
+      "lat": 36.4,
+      "lon": 13.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -2443,10 +3452,17 @@
     "nameWoDiacritics": "Mukho/Donghae",
     "subdivision": "42",
     "status": "AF",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3732N 12906E",
+    "coordinates": {
+      "lat": 37.53333333333333,
+      "lon": 13.5
+    },
     "remarks": ""
   },
   {
@@ -2457,10 +3473,16 @@
     "nameWoDiacritics": "Mungyeong",
     "subdivision": "47",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3635N 12811E",
+    "coordinates": {
+      "lat": 36.583333333333336,
+      "lon": 13.35
+    },
     "remarks": ""
   },
   {
@@ -2471,10 +3493,16 @@
     "nameWoDiacritics": "Munsan/Paju",
     "subdivision": "41",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3751N 12647E",
+    "coordinates": {
+      "lat": 37.85,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -2485,10 +3513,16 @@
     "nameWoDiacritics": "Naepo",
     "subdivision": "44",
     "status": "AF",
-    "function": "--3--6--",
+    "function": [
+      2,
+      5
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3652N 12616E",
+    "coordinates": {
+      "lat": 36.86666666666667,
+      "lon": 13.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -2499,10 +3533,16 @@
     "nameWoDiacritics": "Naju",
     "subdivision": "46",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3501N 12643E",
+    "coordinates": {
+      "lat": 35.016666666666666,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -2513,10 +3553,16 @@
     "nameWoDiacritics": "Namhae-gun",
     "subdivision": "48",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3450N 12753E",
+    "coordinates": {
+      "lat": 34.833333333333336,
+      "lon": 13.25
+    },
     "remarks": ""
   },
   {
@@ -2527,10 +3573,16 @@
     "nameWoDiacritics": "Namwon",
     "subdivision": "45",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3524N 12723E",
+    "coordinates": {
+      "lat": 35.4,
+      "lon": 13.2
+    },
     "remarks": ""
   },
   {
@@ -2541,10 +3593,15 @@
     "nameWoDiacritics": "Namyang/Goheung-gun",
     "subdivision": "46",
     "status": "AF",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3443N 12720E",
+    "coordinates": {
+      "lat": 34.71666666666667,
+      "lon": 13.2
+    },
     "remarks": ""
   },
   {
@@ -2555,10 +3612,16 @@
     "nameWoDiacritics": "Namyangju",
     "subdivision": "41",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3738N 12712E",
+    "coordinates": {
+      "lat": 37.63333333333333,
+      "lon": 13.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -2569,10 +3632,15 @@
     "nameWoDiacritics": "Narodo",
     "subdivision": "46",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3423N 12715E",
+    "coordinates": {
+      "lat": 34.38333333333333,
+      "lon": 13.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -2583,10 +3651,15 @@
     "nameWoDiacritics": "Nokdongsin",
     "subdivision": "46",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3431N 12708E",
+    "coordinates": {
+      "lat": 34.516666666666666,
+      "lon": 13.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -2597,10 +3670,16 @@
     "nameWoDiacritics": "Nonsan",
     "subdivision": "44",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3611N 12755E",
+    "coordinates": {
+      "lat": 36.18333333333333,
+      "lon": 13.25
+    },
     "remarks": ""
   },
   {
@@ -2611,10 +3690,16 @@
     "nameWoDiacritics": "Ochang",
     "subdivision": "43",
     "status": "RQ",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2625,10 +3710,16 @@
     "nameWoDiacritics": "Okcheon-gun",
     "subdivision": "43",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3618N 12734E",
+    "coordinates": {
+      "lat": 36.3,
+      "lon": 13.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -2639,10 +3730,16 @@
     "nameWoDiacritics": "Okgye/Gangneung",
     "subdivision": "42",
     "status": "AF",
-    "function": "12------",
+    "function": [
+      0,
+      1
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3736N 12902E",
+    "coordinates": {
+      "lat": 37.6,
+      "lon": 13.5
+    },
     "remarks": ""
   },
   {
@@ -2653,10 +3750,16 @@
     "nameWoDiacritics": "Okpo/Geoje",
     "subdivision": "48",
     "status": "AF",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3453N 12842E",
+    "coordinates": {
+      "lat": 34.88333333333333,
+      "lon": 13.4
+    },
     "remarks": ""
   },
   {
@@ -2667,10 +3770,15 @@
     "nameWoDiacritics": "Onsan/Ulsan",
     "subdivision": "31",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3526N 12921E",
+    "coordinates": {
+      "lat": 35.43333333333333,
+      "lon": 13.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -2681,10 +3789,15 @@
     "nameWoDiacritics": "Osan",
     "subdivision": "41",
     "status": "AF",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3709N 12703E",
+    "coordinates": {
+      "lat": 37.15,
+      "lon": 13.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -2695,10 +3808,16 @@
     "nameWoDiacritics": "Osong",
     "subdivision": "43",
     "status": "AF",
-    "function": "-2---6--",
+    "function": [
+      1,
+      5
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3636N 12719E",
+    "coordinates": {
+      "lat": 36.6,
+      "lon": 13.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -2709,10 +3828,16 @@
     "nameWoDiacritics": "Paju",
     "subdivision": "41",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3745N 12646E",
+    "coordinates": {
+      "lat": 37.75,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -2723,10 +3848,17 @@
     "nameWoDiacritics": "Panmoonjeom",
     "subdivision": "41",
     "status": "AF",
-    "function": "-23----B",
+    "function": [
+      1,
+      2,
+      7
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3756N 12643E",
+    "coordinates": {
+      "lat": 37.93333333333333,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -2737,10 +3869,15 @@
     "nameWoDiacritics": "Pocheon",
     "subdivision": "41",
     "status": "AF",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3753N 12711E",
+    "coordinates": {
+      "lat": 37.88333333333333,
+      "lon": 13.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -2751,10 +3888,18 @@
     "nameWoDiacritics": "Pohang",
     "subdivision": "47",
     "status": "AF",
-    "function": "1234----",
+    "function": [
+      0,
+      1,
+      2,
+      3
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3602N 12922E",
+    "coordinates": {
+      "lat": 36.03333333333333,
+      "lon": 13.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -2765,10 +3910,15 @@
     "nameWoDiacritics": "Pry",
     "subdivision": "11",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2779,10 +3929,16 @@
     "nameWoDiacritics": "Pyeongchang-gun",
     "subdivision": "42",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3722N 12823E",
+    "coordinates": {
+      "lat": 37.36666666666667,
+      "lon": 13.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -2793,10 +3949,18 @@
     "nameWoDiacritics": "Pyeongtaek",
     "subdivision": "41",
     "status": "AF",
-    "function": "123--6--",
+    "function": [
+      0,
+      1,
+      2,
+      5
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3658N 12706E",
+    "coordinates": {
+      "lat": 36.96666666666667,
+      "lon": 13.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -2807,10 +3971,15 @@
     "nameWoDiacritics": "Sacheon",
     "subdivision": "48",
     "status": "AF",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3505N 12805E",
+    "coordinates": {
+      "lat": 35.083333333333336,
+      "lon": 13.333333333333334
+    },
     "remarks": ""
   },
   {
@@ -2821,10 +3990,18 @@
     "nameWoDiacritics": "Samcheok",
     "subdivision": "42",
     "status": "AF",
-    "function": "1234----",
+    "function": [
+      0,
+      1,
+      2,
+      3
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3726N 12911E",
+    "coordinates": {
+      "lat": 37.43333333333333,
+      "lon": 13.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -2835,10 +4012,16 @@
     "nameWoDiacritics": "Samcheonpo/Sacheon",
     "subdivision": "48",
     "status": "AF",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3455N 12804E",
+    "coordinates": {
+      "lat": 34.916666666666664,
+      "lon": 13.333333333333334
+    },
     "remarks": ""
   },
   {
@@ -2849,10 +4032,16 @@
     "nameWoDiacritics": "Sancheong-gun",
     "subdivision": "48",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3524N 12752E",
+    "coordinates": {
+      "lat": 35.4,
+      "lon": 13.25
+    },
     "remarks": ""
   },
   {
@@ -2863,10 +4052,16 @@
     "nameWoDiacritics": "Sangam-dong",
     "subdivision": "46",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "3449N 12744E",
+    "coordinates": {
+      "lat": 34.81666666666667,
+      "lon": 13.233333333333334
+    },
     "remarks": ""
   },
   {
@@ -2877,10 +4072,16 @@
     "nameWoDiacritics": "Sangju",
     "subdivision": "47",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3625N 12809E",
+    "coordinates": {
+      "lat": 36.416666666666664,
+      "lon": 13.333333333333334
+    },
     "remarks": ""
   },
   {
@@ -2891,10 +4092,15 @@
     "nameWoDiacritics": "Sangwangdeungdo",
     "subdivision": "45",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3539N 12608E",
+    "coordinates": {
+      "lat": 35.65,
+      "lon": 13
+    },
     "remarks": ""
   },
   {
@@ -2905,10 +4111,15 @@
     "nameWoDiacritics": "Sejong",
     "subdivision": "44",
     "status": "AF",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "3637N 12713E",
+    "coordinates": {
+      "lat": 36.61666666666667,
+      "lon": 13.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -2919,10 +4130,16 @@
     "nameWoDiacritics": "Seocheon-gun",
     "subdivision": "44",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3648N 12641E",
+    "coordinates": {
+      "lat": 36.8,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -2933,10 +4150,16 @@
     "nameWoDiacritics": "Seocheon-gun",
     "subdivision": "44",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3640N 12650E",
+    "coordinates": {
+      "lat": 36.666666666666664,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -2947,10 +4170,16 @@
     "nameWoDiacritics": "Seogwipo",
     "subdivision": "49",
     "status": "AF",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3314N 12633E",
+    "coordinates": {
+      "lat": 33.233333333333334,
+      "lon": 13.05
+    },
     "remarks": ""
   },
   {
@@ -2961,10 +4190,16 @@
     "nameWoDiacritics": "Seongju-gun",
     "subdivision": "47",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3554N 12816E",
+    "coordinates": {
+      "lat": 35.9,
+      "lon": 13.35
+    },
     "remarks": ""
   },
   {
@@ -2975,10 +4210,16 @@
     "nameWoDiacritics": "Seongnam",
     "subdivision": "41",
     "status": "RL",
-    "function": "--3--6--",
+    "function": [
+      2,
+      5
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "3726N 12708E",
+    "coordinates": {
+      "lat": 37.43333333333333,
+      "lon": 13.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -2989,10 +4230,16 @@
     "nameWoDiacritics": "Seongsan-po",
     "subdivision": "49",
     "status": "AF",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3327N 12655E",
+    "coordinates": {
+      "lat": 33.45,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -3003,10 +4250,16 @@
     "nameWoDiacritics": "Seosan",
     "subdivision": "44",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3647N 12627E",
+    "coordinates": {
+      "lat": 36.78333333333333,
+      "lon": 13.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -3017,10 +4270,19 @@
     "nameWoDiacritics": "Seoul",
     "subdivision": "11",
     "status": "AF",
-    "function": "12345---",
+    "function": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3731N 12656E",
+    "coordinates": {
+      "lat": 37.516666666666666,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -3031,10 +4293,15 @@
     "nameWoDiacritics": "Shinma",
     "subdivision": "46",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3426N 12651E",
+    "coordinates": {
+      "lat": 34.43333333333333,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -3045,10 +4312,15 @@
     "nameWoDiacritics": "Shintanjin",
     "subdivision": "44",
     "status": "RL",
-    "function": "-2------",
+    "function": [
+      1
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "3626N 12725E",
+    "coordinates": {
+      "lat": 36.43333333333333,
+      "lon": 13.2
+    },
     "remarks": ""
   },
   {
@@ -3059,10 +4331,16 @@
     "nameWoDiacritics": "Siheung",
     "subdivision": "41",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3722N 12648E",
+    "coordinates": {
+      "lat": 37.36666666666667,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -3073,10 +4351,15 @@
     "nameWoDiacritics": "Siheung-dong/Seoul",
     "subdivision": "11",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3727N 12655E",
+    "coordinates": {
+      "lat": 37.45,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -3087,10 +4370,16 @@
     "nameWoDiacritics": "Sinan-gun",
     "subdivision": "46",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3447N 12622E",
+    "coordinates": {
+      "lat": 34.78333333333333,
+      "lon": 13.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -3101,10 +4390,16 @@
     "nameWoDiacritics": "Sinhang/Pohang",
     "subdivision": "48",
     "status": "AF",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3605N 12933E",
+    "coordinates": {
+      "lat": 36.083333333333336,
+      "lon": 13.55
+    },
     "remarks": ""
   },
   {
@@ -3115,10 +4410,17 @@
     "nameWoDiacritics": "Sint'anjin",
     "subdivision": "43",
     "status": "RL",
-    "function": "-23--6--",
+    "function": [
+      1,
+      2,
+      5
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3627N 12725E",
+    "coordinates": {
+      "lat": 36.45,
+      "lon": 13.2
+    },
     "remarks": ""
   },
   {
@@ -3129,10 +4431,16 @@
     "nameWoDiacritics": "Sokcho",
     "subdivision": "42",
     "status": "AF",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "3812N 12835E",
+    "coordinates": {
+      "lat": 38.2,
+      "lon": 13.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -3143,10 +4451,15 @@
     "nameWoDiacritics": "Songgong",
     "subdivision": "46",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3450N 12613E",
+    "coordinates": {
+      "lat": 34.833333333333336,
+      "lon": 13.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -3157,10 +4470,15 @@
     "nameWoDiacritics": "Songtan",
     "subdivision": "41",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "3704N 12703E",
+    "coordinates": {
+      "lat": 37.06666666666667,
+      "lon": 13.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -3171,10 +4489,15 @@
     "nameWoDiacritics": "South Busan",
     "subdivision": "26",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3505N 12909E",
+    "coordinates": {
+      "lat": 35.083333333333336,
+      "lon": 13.5
+    },
     "remarks": ""
   },
   {
@@ -3185,10 +4508,16 @@
     "nameWoDiacritics": "Sunchang-gun",
     "subdivision": "45",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3543N 12716E",
+    "coordinates": {
+      "lat": 35.71666666666667,
+      "lon": 13.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -3199,10 +4528,17 @@
     "nameWoDiacritics": "Suncheon",
     "subdivision": "46",
     "status": "AI",
-    "function": "-234----",
+    "function": [
+      1,
+      2,
+      3
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3457N 12729E",
+    "coordinates": {
+      "lat": 34.95,
+      "lon": 13.2
+    },
     "remarks": ""
   },
   {
@@ -3213,10 +4549,17 @@
     "nameWoDiacritics": "Sungnam (Seoul Ab)",
     "subdivision": "41",
     "status": "AF",
-    "function": "-234----",
+    "function": [
+      1,
+      2,
+      3
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3730N 12656E",
+    "coordinates": {
+      "lat": 37.5,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -3227,10 +4570,17 @@
     "nameWoDiacritics": "Suwon",
     "subdivision": "41",
     "status": "RL",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3715N 12714E",
+    "coordinates": {
+      "lat": 37.25,
+      "lon": 13.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -3241,10 +4591,15 @@
     "nameWoDiacritics": "Suwon Apt",
     "subdivision": "41",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3714N 12700E",
+    "coordinates": {
+      "lat": 37.233333333333334,
+      "lon": 13.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -3255,10 +4610,16 @@
     "nameWoDiacritics": "Taean-gun",
     "subdivision": "44",
     "status": "AF",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3643N 12616E",
+    "coordinates": {
+      "lat": 36.71666666666667,
+      "lon": 13.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -3269,10 +4630,16 @@
     "nameWoDiacritics": "Taebaek",
     "subdivision": "42",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3710N 12859E",
+    "coordinates": {
+      "lat": 37.166666666666664,
+      "lon": 13.416666666666666
+    },
     "remarks": ""
   },
   {
@@ -3283,10 +4650,15 @@
     "nameWoDiacritics": "Tongdaemun-Gu",
     "subdivision": "11",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "3734S 12702E",
+    "coordinates": {
+      "lat": -37.56666666666667,
+      "lon": 13.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -3297,10 +4669,15 @@
     "nameWoDiacritics": "Tongduch'on",
     "subdivision": "41",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "3754N 12703E",
+    "coordinates": {
+      "lat": 37.9,
+      "lon": 13.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -3311,10 +4688,16 @@
     "nameWoDiacritics": "Tonghae",
     "subdivision": "42",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "3732N 12906E",
+    "coordinates": {
+      "lat": 37.53333333333333,
+      "lon": 13.5
+    },
     "remarks": ""
   },
   {
@@ -3325,10 +4708,16 @@
     "nameWoDiacritics": "Tongyeong",
     "subdivision": "48",
     "status": "AF",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3450N 12825E",
+    "coordinates": {
+      "lat": 34.833333333333336,
+      "lon": 13.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -3339,10 +4728,16 @@
     "nameWoDiacritics": "Uijeongbu",
     "subdivision": "41",
     "status": "AI",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "QUJ",
-    "coordinates": "3744N 12703E",
+    "coordinates": {
+      "lat": 37.733333333333334,
+      "lon": 13.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -3353,10 +4748,16 @@
     "nameWoDiacritics": "Uiryeong-gun",
     "subdivision": "48",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "2519N 12815E",
+    "coordinates": {
+      "lat": 25.316666666666666,
+      "lon": 13.35
+    },
     "remarks": ""
   },
   {
@@ -3367,10 +4768,16 @@
     "nameWoDiacritics": "Uiseong-gun",
     "subdivision": "47",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3655N 12916E",
+    "coordinates": {
+      "lat": 36.916666666666664,
+      "lon": 13.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -3381,10 +4788,16 @@
     "nameWoDiacritics": "Uiwang",
     "subdivision": "41",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3720N 12657E",
+    "coordinates": {
+      "lat": 37.333333333333336,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -3395,10 +4808,16 @@
     "nameWoDiacritics": "Uljin-gun",
     "subdivision": "47",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3621N 12841E",
+    "coordinates": {
+      "lat": 36.35,
+      "lon": 13.4
+    },
     "remarks": ""
   },
   {
@@ -3409,10 +4828,16 @@
     "nameWoDiacritics": "Ulju-gun/Ulsan",
     "subdivision": "31",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3232N 12917E",
+    "coordinates": {
+      "lat": 32.53333333333333,
+      "lon": 13.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -3423,10 +4848,15 @@
     "nameWoDiacritics": "Ulleung",
     "subdivision": "47",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3728N 13054E",
+    "coordinates": {
+      "lat": 37.46666666666667,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -3437,10 +4867,16 @@
     "nameWoDiacritics": "Ulleung-gun",
     "subdivision": "47",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3729N 13054E",
+    "coordinates": {
+      "lat": 37.483333333333334,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -3451,10 +4887,18 @@
     "nameWoDiacritics": "Ulsan",
     "subdivision": "31",
     "status": "AF",
-    "function": "1234----",
+    "function": [
+      0,
+      1,
+      2,
+      3
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3532N 12919E",
+    "coordinates": {
+      "lat": 35.53333333333333,
+      "lon": 13.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -3465,10 +4909,15 @@
     "nameWoDiacritics": "Waegwan",
     "subdivision": "47",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "3559N 12823E",
+    "coordinates": {
+      "lat": 35.983333333333334,
+      "lon": 13.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -3479,10 +4928,16 @@
     "nameWoDiacritics": "Wando-gun",
     "subdivision": "46",
     "status": "AF",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3418N 12645E",
+    "coordinates": {
+      "lat": 34.3,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -3493,10 +4948,16 @@
     "nameWoDiacritics": "Wanju-gun",
     "subdivision": "45",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3550N 12751E",
+    "coordinates": {
+      "lat": 35.833333333333336,
+      "lon": 13.25
+    },
     "remarks": ""
   },
   {
@@ -3507,10 +4968,17 @@
     "nameWoDiacritics": "Wonju",
     "subdivision": "42",
     "status": "AF",
-    "function": "-234----",
+    "function": [
+      1,
+      2,
+      3
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3720N 12756E",
+    "coordinates": {
+      "lat": 37.333333333333336,
+      "lon": 13.25
+    },
     "remarks": ""
   },
   {
@@ -3521,10 +4989,16 @@
     "nameWoDiacritics": "Yanggu-gun",
     "subdivision": "42",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3806N 12759E",
+    "coordinates": {
+      "lat": 38.1,
+      "lon": 13.25
+    },
     "remarks": ""
   },
   {
@@ -3535,10 +5009,16 @@
     "nameWoDiacritics": "Yangju",
     "subdivision": "41",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "3746N 12702E",
+    "coordinates": {
+      "lat": 37.766666666666666,
+      "lon": 13.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -3549,10 +5029,16 @@
     "nameWoDiacritics": "Yangpyeong-gun",
     "subdivision": "41",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3739N 12729E",
+    "coordinates": {
+      "lat": 37.65,
+      "lon": 13.2
+    },
     "remarks": ""
   },
   {
@@ -3563,10 +5049,16 @@
     "nameWoDiacritics": "Yangsan",
     "subdivision": "48",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3520N 12902E",
+    "coordinates": {
+      "lat": 35.333333333333336,
+      "lon": 13.5
+    },
     "remarks": ""
   },
   {
@@ -3577,10 +5069,17 @@
     "nameWoDiacritics": "Yangyang-gun",
     "subdivision": "42",
     "status": "AF",
-    "function": "-234----",
+    "function": [
+      1,
+      2,
+      3
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3804N 12837E",
+    "coordinates": {
+      "lat": 38.06666666666667,
+      "lon": 13.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -3591,10 +5090,17 @@
     "nameWoDiacritics": "Yecheon-gun",
     "subdivision": "47",
     "status": "AF",
-    "function": "-234----",
+    "function": [
+      1,
+      2,
+      3
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3639N 12827E",
+    "coordinates": {
+      "lat": 36.65,
+      "lon": 13.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -3605,10 +5111,16 @@
     "nameWoDiacritics": "Yeoju",
     "subdivision": "41",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "3717N 12738E",
+    "coordinates": {
+      "lat": 37.28333333333333,
+      "lon": 13.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -3619,10 +5131,16 @@
     "nameWoDiacritics": "Yeoncheon-gun",
     "subdivision": "41",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3854N 12742E",
+    "coordinates": {
+      "lat": 38.9,
+      "lon": 13.233333333333334
+    },
     "remarks": ""
   },
   {
@@ -3633,10 +5151,16 @@
     "nameWoDiacritics": "Yeongam-gun",
     "subdivision": "46",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3447N 12642E",
+    "coordinates": {
+      "lat": 34.78333333333333,
+      "lon": 13.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -3647,10 +5171,16 @@
     "nameWoDiacritics": "Yeongcheon",
     "subdivision": "47",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3558N 12856E",
+    "coordinates": {
+      "lat": 35.96666666666667,
+      "lon": 13.416666666666666
+    },
     "remarks": ""
   },
   {
@@ -3661,10 +5191,16 @@
     "nameWoDiacritics": "Yeongdeok-gun",
     "subdivision": "47",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3624N 12921E",
+    "coordinates": {
+      "lat": 36.4,
+      "lon": 13.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -3675,10 +5211,16 @@
     "nameWoDiacritics": "Yeongdong-gun",
     "subdivision": "43",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3610N 12747E",
+    "coordinates": {
+      "lat": 36.166666666666664,
+      "lon": 13.233333333333334
+    },
     "remarks": ""
   },
   {
@@ -3689,10 +5231,16 @@
     "nameWoDiacritics": "Yeonggwang-gun",
     "subdivision": "46",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3516N 12630E",
+    "coordinates": {
+      "lat": 35.266666666666666,
+      "lon": 13.05
+    },
     "remarks": ""
   },
   {
@@ -3703,10 +5251,16 @@
     "nameWoDiacritics": "Yeongi-gun",
     "subdivision": "44",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3635N 12717E",
+    "coordinates": {
+      "lat": 36.583333333333336,
+      "lon": 13.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -3717,10 +5271,16 @@
     "nameWoDiacritics": "Yeongju",
     "subdivision": "47",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3648N 12837E",
+    "coordinates": {
+      "lat": 36.8,
+      "lon": 13.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -3731,10 +5291,16 @@
     "nameWoDiacritics": "Yeongwol-gun",
     "subdivision": "42",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3711N 12827E",
+    "coordinates": {
+      "lat": 37.18333333333333,
+      "lon": 13.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -3745,10 +5311,16 @@
     "nameWoDiacritics": "Yeongyang-gun",
     "subdivision": "47",
     "status": "AF",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3639N 12945E",
+    "coordinates": {
+      "lat": 36.65,
+      "lon": 13.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -3759,10 +5331,15 @@
     "nameWoDiacritics": "Yeonpyeongdo",
     "subdivision": "28",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3739N 12542E",
+    "coordinates": {
+      "lat": 37.65,
+      "lon": 12.9
+    },
     "remarks": ""
   },
   {
@@ -3773,10 +5350,17 @@
     "nameWoDiacritics": "Yeosu",
     "subdivision": "46",
     "status": "AF",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "0507",
     "iata": "RSU",
-    "coordinates": "3445N 12743E",
+    "coordinates": {
+      "lat": 34.75,
+      "lon": 13.233333333333334
+    },
     "remarks": ""
   },
   {
@@ -3787,10 +5371,15 @@
     "nameWoDiacritics": "Yeosu Apt",
     "subdivision": "46",
     "status": "AF",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3450N 12736E",
+    "coordinates": {
+      "lat": 34.833333333333336,
+      "lon": 13.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -3801,10 +5390,16 @@
     "nameWoDiacritics": "Yesan",
     "subdivision": "44",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "3641N 12650E",
+    "coordinates": {
+      "lat": 36.68333333333333,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -3815,10 +5410,16 @@
     "nameWoDiacritics": "Yochon",
     "subdivision": "47",
     "status": "AF",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "3639N 12827E",
+    "coordinates": {
+      "lat": 36.65,
+      "lon": 13.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -3829,10 +5430,15 @@
     "nameWoDiacritics": "Yoju",
     "subdivision": "41",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "3717N 12738E",
+    "coordinates": {
+      "lat": 37.28333333333333,
+      "lon": 13.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -3843,10 +5449,15 @@
     "nameWoDiacritics": "Yonch'on",
     "subdivision": "41",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "3805N 12704E",
+    "coordinates": {
+      "lat": 38.083333333333336,
+      "lon": 13.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -3857,10 +5468,15 @@
     "nameWoDiacritics": "Yongdang-Dong",
     "subdivision": "26",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "3507N 12905E",
+    "coordinates": {
+      "lat": 35.11666666666667,
+      "lon": 13.5
+    },
     "remarks": ""
   },
   {
@@ -3871,10 +5487,15 @@
     "nameWoDiacritics": "Yonggipo",
     "subdivision": "28",
     "status": "AF",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3757N 12443E",
+    "coordinates": {
+      "lat": 37.95,
+      "lon": 12.733333333333333
+    },
     "remarks": ""
   },
   {
@@ -3885,10 +5506,16 @@
     "nameWoDiacritics": "Yongi",
     "subdivision": "45",
     "status": "RQ",
-    "function": "--3--6--",
+    "function": [
+      2,
+      5
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3540N 12658E",
+    "coordinates": {
+      "lat": 35.666666666666664,
+      "lon": 13.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -3899,10 +5526,15 @@
     "nameWoDiacritics": "Yongin",
     "subdivision": "41",
     "status": "AF",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3716N 12706E",
+    "coordinates": {
+      "lat": 37.266666666666666,
+      "lon": 13.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -3913,10 +5545,15 @@
     "nameWoDiacritics": "Yongsan",
     "subdivision": "",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "3546N 12852E",
+    "coordinates": {
+      "lat": 35.766666666666666,
+      "lon": 13.416666666666666
+    },
     "remarks": ""
   }
 ]

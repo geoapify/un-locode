@@ -15,10 +15,10 @@ export interface UnlocodeJsonItem {
     nameWoDiacritics: string;
     subdivision: string;
     status: string;
-    function: string;
+    function: Array<FunctionCode>;
     date: string;
     iata: string
-    coordinates: string;
+    coordinates: Coordinates;
     remarks: string;
 }
 
@@ -28,14 +28,15 @@ export enum Status {
 }
 
 export enum FunctionCode {
-    Seaport = 'Seaport',
-    Airport = 'Airport',
-    RailTerminal = 'RailTerminal',
-    RoadTerminal = 'RoadTerminal',
-    PostalExchange = 'PostalExchange',
-    InlandPort = 'InlandPort',
-    FixedTransport = 'FixedTransport',
-    BorderCrossing = 'BorderCrossing',
+    PORT,
+    RAIL_TERMINAL,
+    ROAD_TERMINAL,
+    AIRPORT,
+    POSTAL_EXCHANGE_OFFICE,
+    INLAND_CLEARANCE_DEPOT,
+    FIXED_TRANSPORT_FUNCTIONS,
+    BORDER_CROSSING_FUNCTION,
+    FUNCTION_NOT_KNOWN
 }
 
 export interface Coordinates {

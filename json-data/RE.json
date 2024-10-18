@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Bras Panon",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2100S 05541E",
+    "coordinates": {
+      "lat": -21,
+      "lon": 5.9
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,15 @@
     "nameWoDiacritics": "la Plaine des Cafres",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2110S 05535E",
+    "coordinates": {
+      "lat": -21.166666666666668,
+      "lon": 5.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -49,10 +62,15 @@
     "nameWoDiacritics": "La Saline les Hauts",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2105S 05516E",
+    "coordinates": {
+      "lat": -21.083333333333332,
+      "lon": 5.85
+    },
     "remarks": ""
   },
   {
@@ -63,10 +81,17 @@
     "nameWoDiacritics": "Le Port",
     "subdivision": "",
     "status": "AF",
-    "function": "1-3-5---",
+    "function": [
+      0,
+      2,
+      4
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "2056S 05519E",
+    "coordinates": {
+      "lat": -20.933333333333334,
+      "lon": 5.85
+    },
     "remarks": "GV: approved"
   },
   {
@@ -77,10 +102,15 @@
     "nameWoDiacritics": "Le Tampon",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2207",
     "iata": "",
-    "coordinates": "2116S 05531E",
+    "coordinates": {
+      "lat": -21.266666666666666,
+      "lon": 5.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -91,10 +121,15 @@
     "nameWoDiacritics": "Les Avirons",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "2114S 05520E",
+    "coordinates": {
+      "lat": -21.233333333333334,
+      "lon": 5.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -105,10 +140,15 @@
     "nameWoDiacritics": "les Trois Bassins",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2106S 05518E",
+    "coordinates": {
+      "lat": -21.1,
+      "lon": 5.85
+    },
     "remarks": ""
   },
   {
@@ -119,10 +159,15 @@
     "nameWoDiacritics": "L'Etang-Sale",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2116S 05522E",
+    "coordinates": {
+      "lat": -21.266666666666666,
+      "lon": 5.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -133,10 +178,15 @@
     "nameWoDiacritics": "Plaine des Palmistes",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2108S 05538E",
+    "coordinates": {
+      "lat": -21.133333333333333,
+      "lon": 5.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -147,10 +197,15 @@
     "nameWoDiacritics": "Pointe des Galets",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2055S 05517E",
+    "coordinates": {
+      "lat": -20.916666666666668,
+      "lon": 5.85
+    },
     "remarks": ""
   },
   {
@@ -161,10 +216,15 @@
     "nameWoDiacritics": "Possession",
     "subdivision": "",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2056S 05520E",
+    "coordinates": {
+      "lat": -20.933333333333334,
+      "lon": 5.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -175,10 +235,16 @@
     "nameWoDiacritics": "Saint-Andre",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-5---",
+    "function": [
+      2,
+      4
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2056S 05539E",
+    "coordinates": {
+      "lat": -20.933333333333334,
+      "lon": 5.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -189,10 +255,15 @@
     "nameWoDiacritics": "Saint-Benoit",
     "subdivision": "",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "2102S 05543E",
+    "coordinates": {
+      "lat": -21.033333333333335,
+      "lon": 5.9
+    },
     "remarks": ""
   },
   {
@@ -203,10 +274,17 @@
     "nameWoDiacritics": "Saint-Denis",
     "subdivision": "",
     "status": "AI",
-    "function": "1-34----",
+    "function": [
+      0,
+      2,
+      3
+    ],
     "date": "2207",
     "iata": "",
-    "coordinates": "2054S 05531E",
+    "coordinates": {
+      "lat": -20.9,
+      "lon": 5.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -217,10 +295,15 @@
     "nameWoDiacritics": "Sainte Clotilde",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2054S 05529E",
+    "coordinates": {
+      "lat": -20.9,
+      "lon": 5.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -231,10 +314,15 @@
     "nameWoDiacritics": "Sainte-Anne",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2105S 05545E",
+    "coordinates": {
+      "lat": -21.083333333333332,
+      "lon": 5.9
+    },
     "remarks": ""
   },
   {
@@ -245,10 +333,15 @@
     "nameWoDiacritics": "Sainte-Marie",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2053S 05533E",
+    "coordinates": {
+      "lat": -20.883333333333333,
+      "lon": 5.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -259,10 +352,16 @@
     "nameWoDiacritics": "Sainte-Rose",
     "subdivision": "",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "2307",
     "iata": "",
-    "coordinates": "2108S 05548E",
+    "coordinates": {
+      "lat": -21.133333333333333,
+      "lon": 5.9
+    },
     "remarks": "@Fun@Sub@Coo"
   },
   {
@@ -273,10 +372,15 @@
     "nameWoDiacritics": "Sainte-Suzanne",
     "subdivision": "",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2054S 05536E",
+    "coordinates": {
+      "lat": -20.9,
+      "lon": 5.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -287,10 +391,15 @@
     "nameWoDiacritics": "Saint-Gilles",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2102S 05514E",
+    "coordinates": {
+      "lat": -21.033333333333335,
+      "lon": 5.85
+    },
     "remarks": "a.k.a Saint Gilles"
   },
   {
@@ -301,10 +410,15 @@
     "nameWoDiacritics": "Saint-Gilles-Les Hauts",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "2102S 05515E",
+    "coordinates": {
+      "lat": -21.033333333333335,
+      "lon": 5.85
+    },
     "remarks": ""
   },
   {
@@ -315,10 +429,15 @@
     "nameWoDiacritics": "Saint-Joseph",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2122S 05537E",
+    "coordinates": {
+      "lat": -21.366666666666667,
+      "lon": 5.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -329,10 +448,15 @@
     "nameWoDiacritics": "Saint-Leu",
     "subdivision": "",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -343,10 +467,15 @@
     "nameWoDiacritics": "Saint-Louis",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -357,10 +486,18 @@
     "nameWoDiacritics": "Saint-Paul",
     "subdivision": "",
     "status": "RL",
-    "function": "123-5---",
+    "function": [
+      0,
+      1,
+      2,
+      4
+    ],
     "date": "2201",
     "iata": "",
-    "coordinates": "2059S 05516E",
+    "coordinates": {
+      "lat": -20.983333333333334,
+      "lon": 5.85
+    },
     "remarks": ""
   },
   {
@@ -371,10 +508,15 @@
     "nameWoDiacritics": "Saint-Philippe",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2122S 05546E",
+    "coordinates": {
+      "lat": -21.366666666666667,
+      "lon": 5.9
+    },
     "remarks": ""
   },
   {
@@ -385,10 +527,15 @@
     "nameWoDiacritics": "Saint-Pierre",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "2120S 05528E",
+    "coordinates": {
+      "lat": -21.333333333333332,
+      "lon": 5.866666666666667
+    },
     "remarks": ""
   }
 ]

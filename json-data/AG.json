@@ -1,86 +1,89 @@
 [
   {
-    "change": "",
     "country": "AG",
-    "location": "",
     "name": ".ANTIGUA AND BARBUDA",
-    "nameWoDiacritics": "",
-    "subdivision": "",
-    "status": "",
-    "function": "",
-    "date": "",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [],
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AG",
     "location": "ANU",
     "name": "Antigua",
     "nameWoDiacritics": "Antigua",
-    "subdivision": "",
     "status": "AI",
-    "function": "1---5---",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0,
+      4
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AG",
     "location": "BBQ",
     "name": "Barbuda",
     "nameWoDiacritics": "Barbuda",
-    "subdivision": "",
     "status": "AI",
-    "function": "1-------",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AG",
     "location": "FAM",
     "name": "Falmouth",
     "nameWoDiacritics": "Falmouth",
-    "subdivision": "",
     "status": "RL",
-    "function": "1----6--",
-    "date": "1107",
-    "iata": "",
-    "coordinates": "1701N 06147W",
-    "remarks": ""
+    "function": [
+      0,
+      5
+    ],
+    "date": 1107,
+    "coordinates": {
+      "lat": 17.016666666666666,
+      "lon": 6.233333333333333
+    }
   },
   {
-    "change": "",
     "country": "AG",
     "location": "PHM",
     "name": "Parham",
     "nameWoDiacritics": "Parham",
-    "subdivision": "",
     "status": "RL",
-    "function": "1----6--",
-    "date": "1107",
-    "iata": "",
-    "coordinates": "1705N 06145W",
-    "remarks": ""
+    "function": [
+      0,
+      5
+    ],
+    "date": 1107,
+    "coordinates": {
+      "lat": 17.083333333333332,
+      "lon": 6.233333333333333
+    }
   },
   {
-    "change": "",
     "country": "AG",
     "location": "SJO",
     "name": "Saint John's",
     "nameWoDiacritics": "Saint John's",
-    "subdivision": "",
     "status": "AI",
-    "function": "1-------",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "1707N 06151W",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": 17.116666666666667,
+      "lon": 6.25
+    }
   }
 ]

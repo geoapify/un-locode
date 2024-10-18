@@ -7,10 +7,13 @@
     "nameWoDiacritics": " ASCENSION AND TRISTAN DA CUNHA\"",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Ascension",
     "subdivision": "",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "0757S 01421W",
+    "coordinates": {
+      "lat": -7.95,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,16 @@
     "nameWoDiacritics": "Georgetown",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9506",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -49,10 +63,15 @@
     "nameWoDiacritics": "Jamestown",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -63,10 +82,15 @@
     "nameWoDiacritics": "Levelwood",
     "subdivision": "HL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1508S 00541W",
+    "coordinates": {
+      "lat": -15.133333333333333,
+      "lon": 0.9
+    },
     "remarks": ""
   },
   {
@@ -77,10 +101,15 @@
     "nameWoDiacritics": "Rupert's Bay",
     "subdivision": "HL",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1555S 00542W",
+    "coordinates": {
+      "lat": -15.916666666666666,
+      "lon": 0.9
+    },
     "remarks": ""
   },
   {
@@ -91,10 +120,16 @@
     "nameWoDiacritics": "Tristan da Cunha",
     "subdivision": "",
     "status": "AI",
-    "function": "1---5---",
+    "function": [
+      0,
+      4
+    ],
     "date": "9810",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   }
 ]

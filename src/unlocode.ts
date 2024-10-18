@@ -1,4 +1,6 @@
 import { FunctionCode, Status, UnlocodeItem, UnlocodeJsonItem } from "./models/unlocode.interface";
+import { promises as fs } from 'fs';
+import * as path from 'path';
 
 export class Unlocode {
 
@@ -11,7 +13,7 @@ export class Unlocode {
                 locationName: item.name,
                 subdivision: item.subdivision,
                 status: Status.ACTIVE,
-                functionCodes: [FunctionCode.Seaport, FunctionCode.Airport],
+                functionCodes: item.function,
                 coordinates: {
                     lat: 40.7128,
                     lon: -74.0060,
@@ -23,13 +25,14 @@ export class Unlocode {
     }
 
     async loadJsonFile(countryName: string): Promise<Array<UnlocodeJsonItem>> {
-        let fileName = countryName + '.json';
-        const filePath = `/json-data/${fileName}`;
+        const fileName = countryName + '.json';
+        const filePath = path.join(__dirname, '../json-data', fileName);
+
         try {
-            const response = await fetch(filePath);
-            return await response.json();
+            const fileContents = await fs.readFile(filePath, 'utf-8');
+            return JSON.parse(fileContents);
         } catch (error) {
-            throw new Error('Error fetching JSON file: ' + error);
+            throw new Error('Error reading JSON file: ' + error);
         }
     }
 

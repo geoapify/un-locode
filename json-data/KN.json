@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,13 @@
     "nameWoDiacritics": " Saint Kitts\"",
     "subdivision": "\"Basseterre",
     "status": " Saint Kitts\"",
-    "function": "",
+    "function": [],
     "date": "AI",
     "iata": "1---5---",
-    "coordinates": "1101",
+    "coordinates": {
+      "lat": 11.016666666666667,
+      "lon": null
+    },
     "remarks": ""
   },
   {
@@ -35,10 +41,16 @@
     "nameWoDiacritics": "Charlestown",
     "subdivision": "",
     "status": "RL",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "1301",
     "iata": "NEV",
-    "coordinates": "1708N 06237W",
+    "coordinates": {
+      "lat": 17.133333333333333,
+      "lon": 6.383333333333334
+    },
     "remarks": ""
   },
   {
@@ -49,10 +61,16 @@
     "nameWoDiacritics": "Nevis",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "1709N 06235W",
+    "coordinates": {
+      "lat": 17.15,
+      "lon": 6.383333333333334
+    },
     "remarks": ""
   },
   {
@@ -63,10 +81,16 @@
     "nameWoDiacritics": "Saint Kitts",
     "subdivision": "",
     "status": "AI",
-    "function": "---45---",
+    "function": [
+      3,
+      4
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   }
 ]

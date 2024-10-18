@@ -1,688 +1,782 @@
 [
   {
-    "change": "",
     "country": "GN",
-    "location": "",
     "name": ".GUINEA",
-    "nameWoDiacritics": "",
-    "subdivision": "",
-    "status": "",
-    "function": "",
-    "date": "",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [],
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "BEL",
     "name": "Bel-Air",
     "nameWoDiacritics": "Bel-Air",
     "subdivision": "BF",
     "status": "AM",
-    "function": "1-3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "1014N 01428W",
-    "remarks": ""
+    "function": [
+      0,
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 10.233333333333333,
+      "lon": 1.7
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "BTY",
     "name": "Benty",
     "nameWoDiacritics": "Benty",
-    "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
-    "date": "8103",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 8103,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "BEY",
     "name": "Beyla",
     "nameWoDiacritics": "Beyla",
     "subdivision": "BE",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "0841N 00838W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 8.683333333333334,
+      "lon": 1.3833333333333333
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "BFA",
     "name": "Boffa",
     "nameWoDiacritics": "Boffa",
     "subdivision": "BF",
     "status": "AM",
-    "function": "1-3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "1011N 01402W",
-    "remarks": ""
+    "function": [
+      0,
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 10.183333333333334,
+      "lon": 1.6666666666666665
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "BKJ",
-    "name": "Bok�",
+    "name": "BokÈ",
     "nameWoDiacritics": "Boke",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "1056N 01418W",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": 10.933333333333334,
+      "lon": 1.6833333333333333
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "CKY",
     "name": "Conakry",
     "nameWoDiacritics": "Conakry",
-    "subdivision": "",
     "status": "AI",
-    "function": "1--45---",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0,
+      3,
+      4
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "CKA",
     "name": "Conakry Eco",
     "nameWoDiacritics": "Conakry Eco",
     "subdivision": "KD",
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "0930N 01342W",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 9.5,
+      "lon": 1.5666666666666667
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "COY",
     "name": "Coyah",
     "nameWoDiacritics": "Coyah",
     "subdivision": "CO",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "0942N 01321W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 9.7,
+      "lon": 1.5333333333333332
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "DAB",
     "name": "Dabola",
     "nameWoDiacritics": "Dabola",
     "subdivision": "DB",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "1044N 01107W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 10.733333333333333,
+      "lon": 1.1666666666666667
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "DPL",
     "name": "Dapilon",
     "nameWoDiacritics": "Dapilon",
     "subdivision": "BK",
     "status": "AM",
-    "function": "1-3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "1051N 01430W",
-    "remarks": ""
+    "function": [
+      0,
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 10.85,
+      "lon": 1.7166666666666668
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "DIN",
     "name": "Dinguiraye",
     "nameWoDiacritics": "Dinguiraye",
     "subdivision": "DI",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "1117N 01043W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 11.283333333333333,
+      "lon": 1.0666666666666667
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "PMT",
     "name": "Dougoula",
     "nameWoDiacritics": "Dougoula",
     "subdivision": "BK",
     "status": "AM",
-    "function": "123-----",
-    "date": "2007",
-    "iata": "",
-    "coordinates": "1045N 01433W",
-    "remarks": ""
+    "function": [
+      0,
+      1,
+      2
+    ],
+    "date": 2007,
+    "coordinates": {
+      "lat": 10.75,
+      "lon": 1.7166666666666668
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "DKA",
     "name": "Dubreka",
     "nameWoDiacritics": "Dubreka",
     "subdivision": "DU",
     "status": "AM",
-    "function": "1-3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "0947N 01330W",
-    "remarks": ""
+    "function": [
+      0,
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 9.783333333333333,
+      "lon": 1.55
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "FAA",
     "name": "Faranah",
     "nameWoDiacritics": "Faranah",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "FRM",
     "name": "Farmoreya",
     "nameWoDiacritics": "Farmoreya",
     "subdivision": "FO",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "0916N 01302W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 9.266666666666667,
+      "lon": 1.5
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "FOR",
     "name": "Forecariah",
     "nameWoDiacritics": "Forecariah",
     "subdivision": "FO",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "0926N 01305W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 9.433333333333334,
+      "lon": 1.5
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "FIG",
     "name": "Fria",
     "nameWoDiacritics": "Fria",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "GAO",
     "name": "Gaoual",
     "nameWoDiacritics": "Gaoual",
     "subdivision": "GA",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "1145N 01312W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 11.75,
+      "lon": 1.5166666666666666
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "GUE",
     "name": "Gueckedou",
     "nameWoDiacritics": "Gueckedou",
     "subdivision": "GU",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "8034N 01008W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 80.56666666666666,
+      "lon": 1
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "KGB",
-    "name": "Kagb�len",
+    "name": "KagbÈlen",
     "nameWoDiacritics": "Kagbelen",
     "subdivision": "DU",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "0943N 01331W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 9.716666666666667,
+      "lon": 1.55
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "KMC",
     "name": "Kamsar",
     "nameWoDiacritics": "Kamsar",
     "subdivision": "BK",
     "status": "AM",
-    "function": "1234-6--",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "1040N 01435W",
-    "remarks": ""
+    "function": [
+      0,
+      1,
+      2,
+      3,
+      5
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 10.666666666666666,
+      "lon": 1.7166666666666668
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "KNN",
     "name": "Kankan",
     "nameWoDiacritics": "Kankan",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "KTG",
     "name": "Katougouma",
     "nameWoDiacritics": "Katougouma",
     "subdivision": "BK",
     "status": "AM",
-    "function": "1-3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "0003N 01427W",
-    "remarks": ""
+    "function": [
+      0,
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 0.05,
+      "lon": 1.7
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "KER",
     "name": "Kerouane",
     "nameWoDiacritics": "Kerouane",
     "subdivision": "KE",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "0916N 00901W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 9.266666666666667,
+      "lon": 1.5
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "KDA",
     "name": "Kindia",
     "nameWoDiacritics": "Kindia",
     "subdivision": "KD",
     "status": "AM",
-    "function": "-23-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "1003N 01251W",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 10.05,
+      "lon": 1.4166666666666667
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "KIN",
-    "name": "Kini�ro",
+    "name": "KiniÈro",
     "nameWoDiacritics": "Kiniero",
     "subdivision": "KO",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1307",
-    "iata": "",
-    "coordinates": "1024N 00945W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1307,
+    "coordinates": {
+      "lat": 10.4,
+      "lon": 1.5666666666666667
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "KSI",
     "name": "Kissidougou",
     "nameWoDiacritics": "Kissidougou",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "KOU",
     "name": "Koubia",
     "nameWoDiacritics": "Koubia",
     "subdivision": "KB",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "1004N 01338W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 10.066666666666666,
+      "lon": 1.55
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "SBI",
     "name": "Koundara",
     "nameWoDiacritics": "Koundara",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "KRS",
     "name": "Kouroussa",
     "nameWoDiacritics": "Kouroussa",
     "subdivision": "KO",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "1039N 00953W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 10.65,
+      "lon": 1.5833333333333333
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "LEK",
     "name": "Labe",
     "nameWoDiacritics": "Labe",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "LEL",
-    "name": "L�louma",
+    "name": "LÈlouma",
     "nameWoDiacritics": "Lelouma",
     "subdivision": "LE",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "1126N 01241W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 11.433333333333334,
+      "lon": 1.4
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "LOL",
     "name": "Lola",
     "nameWoDiacritics": "Lola",
     "subdivision": "LO",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "0748N 00832W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 7.8,
+      "lon": 1.3833333333333333
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "MCA",
     "name": "Macenta",
     "nameWoDiacritics": "Macenta",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "MLI",
     "name": "Mali",
     "nameWoDiacritics": "Mali",
     "subdivision": "ML",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "1203N 01218W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 12.05,
+      "lon": 1.35
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "MMO",
     "name": "Mamou",
     "nameWoDiacritics": "Mamou",
     "subdivision": "MM",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "1022N 01205W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 10.366666666666667,
+      "lon": 1.3333333333333333
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "MDN",
     "name": "Mandiana",
     "nameWoDiacritics": "Mandiana",
     "subdivision": "MD",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "1038N 00842W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 10.633333333333333,
+      "lon": 1.4
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "SBY",
     "name": "Moresby",
     "nameWoDiacritics": "Moresby",
-    "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "NZE",
     "name": "Nzerekore",
     "nameWoDiacritics": "Nzerekore",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "PIT",
     "name": "Pita",
     "nameWoDiacritics": "Pita",
     "subdivision": "PI",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "1103N 01224W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 11.05,
+      "lon": 1.3666666666666667
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "BRP",
-    "name": "Port de Bok�",
+    "name": "Port de BokÈ",
     "nameWoDiacritics": "Port de Boke",
     "subdivision": "BK",
     "status": "RL",
-    "function": "1-------",
-    "date": "1807",
-    "iata": "",
-    "coordinates": "1031N 01443W",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 1807,
+    "coordinates": {
+      "lat": 10.516666666666667,
+      "lon": 1.7333333333333334
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "KMR",
     "name": "Port-Kamsar",
     "nameWoDiacritics": "Port-Kamsar",
-    "subdivision": "",
     "status": "RL",
-    "function": "1-------",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "1039N 01437W",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": 10.65,
+      "lon": 1.7166666666666668
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "SBL",
     "name": "Sambailo",
     "nameWoDiacritics": "Sambailo",
     "subdivision": "KN",
     "status": "AM",
-    "function": "--34----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "1235N 01322W",
-    "remarks": ""
+    "function": [
+      2,
+      3
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 12.583333333333334,
+      "lon": 1.5333333333333332
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "SGD",
-    "name": "Sangar�di",
+    "name": "SangarÈdi",
     "nameWoDiacritics": "Sangaredi",
     "subdivision": "BK",
     "status": "AM",
-    "function": "-23--6--",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "1106N 01349W",
-    "remarks": ""
+    "function": [
+      1,
+      2,
+      5
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 11.1,
+      "lon": 1.5666666666666667
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "GII",
     "name": "Siguiri",
     "nameWoDiacritics": "Siguiri",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "0001",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 1,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "TEL",
-    "name": "T�lim�l�",
+    "name": "TÈlimÈlÈ",
     "nameWoDiacritics": "Telimele",
     "subdivision": "TE",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "1054N 01302W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 10.9,
+      "lon": 1.5
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "TOU",
-    "name": "Tougu�",
+    "name": "TouguÈ",
     "nameWoDiacritics": "Tougue",
     "subdivision": "TO",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "1127N 01140W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 11.45,
+      "lon": 1.2333333333333334
+    }
   },
   {
-    "change": "",
     "country": "GN",
     "location": "YOM",
     "name": "Yomou",
     "nameWoDiacritics": "Yomou",
     "subdivision": "YO",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "0734N 00916W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 7.566666666666666,
+      "lon": 1.5166666666666666
+    }
   }
 ]

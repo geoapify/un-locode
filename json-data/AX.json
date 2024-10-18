@@ -1,44 +1,43 @@
 [
   {
-    "change": "",
     "country": "AX",
-    "location": "",
-    "name": ".�LAND ISLANDS",
-    "nameWoDiacritics": "",
-    "subdivision": "",
-    "status": "",
-    "function": "",
-    "date": "",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "name": ".≈LAND ISLANDS",
+    "function": [],
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AX",
     "location": "MHQ",
     "name": "Maarianhamina (Mariehamn)",
     "nameWoDiacritics": "Maarianhamina (Mariehamn)",
-    "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
-    "date": "1207",
-    "iata": "",
-    "coordinates": "6006N 01957E",
-    "remarks": ""
+    "function": [
+      0,
+      3
+    ],
+    "date": 1207,
+    "coordinates": {
+      "lat": 60.1,
+      "lon": 2.583333333333333
+    }
   },
   {
-    "change": "",
     "country": "AX",
     "location": "MHQ",
     "name": "Mariehamn (Maarianhamina)",
     "nameWoDiacritics": "Mariehamn (Maarianhamina)",
-    "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
-    "date": "1207",
-    "iata": "",
-    "coordinates": "6006N 01957E",
-    "remarks": ""
+    "function": [
+      0,
+      3
+    ],
+    "date": 1207,
+    "coordinates": {
+      "lat": 60.1,
+      "lon": 2.583333333333333
+    }
   }
 ]

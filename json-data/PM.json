@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Miquelon",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "4706N 05623W",
+    "coordinates": {
+      "lat": 47.1,
+      "lon": 6.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,17 @@
     "nameWoDiacritics": "Saint-Pierre",
     "subdivision": "",
     "status": "AI",
-    "function": "1--45---",
+    "function": [
+      0,
+      3,
+      4
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "4646N 05610W",
+    "coordinates": {
+      "lat": 46.766666666666666,
+      "lon": 6.016666666666667
+    },
     "remarks": ""
   }
 ]

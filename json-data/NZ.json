@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Ahuriri",
     "subdivision": "HKB",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "3929S 17654E",
+    "coordinates": {
+      "lat": -39.483333333333334,
+      "lon": 18.083333333333332
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,15 @@
     "nameWoDiacritics": "Akaroa",
     "subdivision": "CAN",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4348S 17257E",
+    "coordinates": {
+      "lat": -43.8,
+      "lon": 17.416666666666668
+    },
     "remarks": ""
   },
   {
@@ -49,10 +62,15 @@
     "nameWoDiacritics": "Albany",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3643S 17441E",
+    "coordinates": {
+      "lat": -36.71666666666667,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -63,10 +81,15 @@
     "nameWoDiacritics": "Alexandra",
     "subdivision": "OTA",
     "status": "AC",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -77,10 +100,15 @@
     "nameWoDiacritics": "Amberley",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "4310S 17244E",
+    "coordinates": {
+      "lat": -43.166666666666664,
+      "lon": 17.4
+    },
     "remarks": ""
   },
   {
@@ -91,10 +119,15 @@
     "nameWoDiacritics": "Aranui",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4331S 17242E",
+    "coordinates": {
+      "lat": -43.516666666666666,
+      "lon": 17.4
+    },
     "remarks": ""
   },
   {
@@ -105,10 +138,15 @@
     "nameWoDiacritics": "Arapuni",
     "subdivision": "WKO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "3804S 17539E",
+    "coordinates": {
+      "lat": -38.06666666666667,
+      "lon": 17.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -119,10 +157,15 @@
     "nameWoDiacritics": "Ardmore",
     "subdivision": "AUK",
     "status": "AC",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -133,10 +176,15 @@
     "nameWoDiacritics": "Arrowtown",
     "subdivision": "OTA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "4456S 16850E",
+    "coordinates": {
+      "lat": -44.93333333333333,
+      "lon": 17.416666666666668
+    },
     "remarks": ""
   },
   {
@@ -147,10 +195,16 @@
     "nameWoDiacritics": "Ashburton",
     "subdivision": "CAN",
     "status": "AC",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4355S 17145E",
+    "coordinates": {
+      "lat": -43.916666666666664,
+      "lon": 17.233333333333334
+    },
     "remarks": ""
   },
   {
@@ -161,10 +215,19 @@
     "nameWoDiacritics": "Auckland",
     "subdivision": "AUK",
     "status": "AC",
-    "function": "12345---",
+    "function": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3650S 17448E",
+    "coordinates": {
+      "lat": -36.833333333333336,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -175,10 +238,15 @@
     "nameWoDiacritics": "Avalon",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "4111S 17456E",
+    "coordinates": {
+      "lat": -41.18333333333333,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -189,10 +257,15 @@
     "nameWoDiacritics": "Avondale",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "3653S 17442E",
+    "coordinates": {
+      "lat": -36.88333333333333,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -203,10 +276,15 @@
     "nameWoDiacritics": "Avonhead",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4331S 17234E",
+    "coordinates": {
+      "lat": -43.516666666666666,
+      "lon": 17.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -217,10 +295,15 @@
     "nameWoDiacritics": "Awatoto",
     "subdivision": "HKB",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "3933S 17654E",
+    "coordinates": {
+      "lat": -39.55,
+      "lon": 18.083333333333332
+    },
     "remarks": ""
   },
   {
@@ -231,10 +314,15 @@
     "nameWoDiacritics": "Balclutha",
     "subdivision": "OTA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "4614S 16944E",
+    "coordinates": {
+      "lat": -46.233333333333334,
+      "lon": 17.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -245,10 +333,15 @@
     "nameWoDiacritics": "Bannockburn",
     "subdivision": "OTA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "4505S 16910E",
+    "coordinates": {
+      "lat": -45.083333333333336,
+      "lon": 17.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -259,10 +352,15 @@
     "nameWoDiacritics": "Bayswater",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "3648S 17446E",
+    "coordinates": {
+      "lat": -36.8,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -273,10 +371,15 @@
     "nameWoDiacritics": "Belfast",
     "subdivision": "CAN",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "4326S 17238E",
+    "coordinates": {
+      "lat": -43.43333333333333,
+      "lon": 17.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -287,10 +390,15 @@
     "nameWoDiacritics": "Belmont",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "3648S 17447E",
+    "coordinates": {
+      "lat": -36.8,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -301,10 +409,16 @@
     "nameWoDiacritics": "Blenheim",
     "subdivision": "MBH",
     "status": "AC",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4131S 17358E",
+    "coordinates": {
+      "lat": -41.516666666666666,
+      "lon": 17.583333333333332
+    },
     "remarks": ""
   },
   {
@@ -315,10 +429,17 @@
     "nameWoDiacritics": "Bluff",
     "subdivision": "STL",
     "status": "AC",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "0501",
     "iata": "",
-    "coordinates": "4636S 16819E",
+    "coordinates": {
+      "lat": -46.6,
+      "lon": 17.35
+    },
     "remarks": ""
   },
   {
@@ -329,10 +450,15 @@
     "nameWoDiacritics": "Brightwater",
     "subdivision": "NSN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "4123S 17307E",
+    "coordinates": {
+      "lat": -41.38333333333333,
+      "lon": 17.5
+    },
     "remarks": ""
   },
   {
@@ -343,10 +469,15 @@
     "nameWoDiacritics": "Bromley",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4333S 17242E",
+    "coordinates": {
+      "lat": -43.55,
+      "lon": 17.4
+    },
     "remarks": ""
   },
   {
@@ -357,10 +488,15 @@
     "nameWoDiacritics": "Bulls",
     "subdivision": "MWT",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "4010S 17523E",
+    "coordinates": {
+      "lat": -40.166666666666664,
+      "lon": 17.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -371,10 +507,15 @@
     "nameWoDiacritics": "Burnham",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4337S 17219E",
+    "coordinates": {
+      "lat": -43.61666666666667,
+      "lon": 17.35
+    },
     "remarks": ""
   },
   {
@@ -385,10 +526,15 @@
     "nameWoDiacritics": "Burnham Wharf",
     "subdivision": "WGN",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4118S 17448E",
+    "coordinates": {
+      "lat": -41.3,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -399,10 +545,15 @@
     "nameWoDiacritics": "Burwood",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "4330S 17242E",
+    "coordinates": {
+      "lat": -43.5,
+      "lon": 17.4
+    },
     "remarks": ""
   },
   {
@@ -413,10 +564,15 @@
     "nameWoDiacritics": "Cambridge",
     "subdivision": "WKO",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9008",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -427,10 +583,15 @@
     "nameWoDiacritics": "Carterton",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "4101S 17533E",
+    "coordinates": {
+      "lat": -41.016666666666666,
+      "lon": 17.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -441,10 +602,15 @@
     "nameWoDiacritics": "Chatham Island",
     "subdivision": "CAN",
     "status": "AC",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -455,10 +621,16 @@
     "nameWoDiacritics": "Chelsea",
     "subdivision": "AUK",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3649S 17443E",
+    "coordinates": {
+      "lat": -36.81666666666667,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -469,10 +641,15 @@
     "nameWoDiacritics": "Cheviot",
     "subdivision": "CAN",
     "status": "AC",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4249S 17316E",
+    "coordinates": {
+      "lat": -42.81666666666667,
+      "lon": 17.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -483,10 +660,16 @@
     "nameWoDiacritics": "Christchurch",
     "subdivision": "CAN",
     "status": "AC",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4332S 17238E",
+    "coordinates": {
+      "lat": -43.53333333333333,
+      "lon": 17.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -497,10 +680,15 @@
     "nameWoDiacritics": "Clifton",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "4333S 17245E",
+    "coordinates": {
+      "lat": -43.55,
+      "lon": 17.4
+    },
     "remarks": ""
   },
   {
@@ -511,10 +699,15 @@
     "nameWoDiacritics": "Clyde",
     "subdivision": "OTA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0407",
     "iata": "",
-    "coordinates": "4511S 16919E",
+    "coordinates": {
+      "lat": -45.18333333333333,
+      "lon": 17.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -525,10 +718,15 @@
     "nameWoDiacritics": "Coromandel",
     "subdivision": "WKO",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "3646S 17530E",
+    "coordinates": {
+      "lat": -36.766666666666666,
+      "lon": 17.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -539,10 +737,15 @@
     "nameWoDiacritics": "Cromwell",
     "subdivision": "OTA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0407",
     "iata": "",
-    "coordinates": "4503S 16914E",
+    "coordinates": {
+      "lat": -45.05,
+      "lon": 17.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -553,10 +756,16 @@
     "nameWoDiacritics": "Dannevirke",
     "subdivision": "NTL",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4012S 17605E",
+    "coordinates": {
+      "lat": -40.2,
+      "lon": 18
+    },
     "remarks": ""
   },
   {
@@ -567,10 +776,16 @@
     "nameWoDiacritics": "Dargaville",
     "subdivision": "NTL",
     "status": "AC",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3556S 17353E",
+    "coordinates": {
+      "lat": -35.93333333333333,
+      "lon": 17.583333333333332
+    },
     "remarks": ""
   },
   {
@@ -581,10 +796,15 @@
     "nameWoDiacritics": "Days Bay",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4116S 17455E",
+    "coordinates": {
+      "lat": -41.266666666666666,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -595,10 +815,15 @@
     "nameWoDiacritics": "Deep Cove",
     "subdivision": "STL",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4527S 16709E",
+    "coordinates": {
+      "lat": -45.45,
+      "lon": 17.166666666666668
+    },
     "remarks": ""
   },
   {
@@ -609,10 +834,15 @@
     "nameWoDiacritics": "Devonport",
     "subdivision": "AUK",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3650S 17447E",
+    "coordinates": {
+      "lat": -36.833333333333336,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -623,10 +853,15 @@
     "nameWoDiacritics": "Doubtful Sound",
     "subdivision": "STL",
     "status": "AC",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4517S 16651E",
+    "coordinates": {
+      "lat": -45.28333333333333,
+      "lon": 17.083333333333332
+    },
     "remarks": ""
   },
   {
@@ -637,10 +872,15 @@
     "nameWoDiacritics": "Drury",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "3706S 17457E",
+    "coordinates": {
+      "lat": -37.1,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -651,10 +891,17 @@
     "nameWoDiacritics": "Dunedin",
     "subdivision": "OTA",
     "status": "AC",
-    "function": "-234----",
+    "function": [
+      1,
+      2,
+      3
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "4552S 17030E",
+    "coordinates": {
+      "lat": -45.86666666666667,
+      "lon": 17.05
+    },
     "remarks": ""
   },
   {
@@ -665,10 +912,15 @@
     "nameWoDiacritics": "Dusky Sound",
     "subdivision": "STL",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "4547S 16628E",
+    "coordinates": {
+      "lat": -45.78333333333333,
+      "lon": 17.033333333333335
+    },
     "remarks": ""
   },
   {
@@ -679,10 +931,15 @@
     "nameWoDiacritics": "Earnscleugh",
     "subdivision": "OTA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4513S 16919E",
+    "coordinates": {
+      "lat": -45.21666666666667,
+      "lon": 17.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -693,10 +950,15 @@
     "nameWoDiacritics": "East Tamaki",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "3657S 17454E",
+    "coordinates": {
+      "lat": -36.95,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -707,10 +969,16 @@
     "nameWoDiacritics": "Edendale",
     "subdivision": "STL",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0501",
     "iata": "",
-    "coordinates": "4619S 16847E",
+    "coordinates": {
+      "lat": -46.31666666666667,
+      "lon": 17.4
+    },
     "remarks": ""
   },
   {
@@ -721,10 +989,15 @@
     "nameWoDiacritics": "Edgecumbe",
     "subdivision": "BOP",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3758S 17649E",
+    "coordinates": {
+      "lat": -37.96666666666667,
+      "lon": 18.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -735,10 +1008,15 @@
     "nameWoDiacritics": "Eltham",
     "subdivision": "TKI",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0501",
     "iata": "",
-    "coordinates": "3926S 17418E",
+    "coordinates": {
+      "lat": -39.43333333333333,
+      "lon": 17.683333333333334
+    },
     "remarks": ""
   },
   {
@@ -749,10 +1027,15 @@
     "nameWoDiacritics": "Feilding",
     "subdivision": "MWT",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "4013S 17533E",
+    "coordinates": {
+      "lat": -40.21666666666667,
+      "lon": 17.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -763,10 +1046,15 @@
     "nameWoDiacritics": "Fendalton",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4331S 17236E",
+    "coordinates": {
+      "lat": -43.516666666666666,
+      "lon": 17.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -777,10 +1065,15 @@
     "nameWoDiacritics": "Fernside",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4319S 17232E",
+    "coordinates": {
+      "lat": -43.31666666666667,
+      "lon": 17.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -791,10 +1084,15 @@
     "nameWoDiacritics": "Fortrose",
     "subdivision": "STL",
     "status": "AC",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4634S 16848E",
+    "coordinates": {
+      "lat": -46.56666666666667,
+      "lon": 17.4
+    },
     "remarks": ""
   },
   {
@@ -805,10 +1103,15 @@
     "nameWoDiacritics": "Fox Glacier",
     "subdivision": "WTC",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4330S 17005E",
+    "coordinates": {
+      "lat": -43.5,
+      "lon": 17
+    },
     "remarks": ""
   },
   {
@@ -819,10 +1122,15 @@
     "nameWoDiacritics": "Foxton",
     "subdivision": "MWT",
     "status": "AC",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4028S 17518E",
+    "coordinates": {
+      "lat": -40.46666666666667,
+      "lon": 17.85
+    },
     "remarks": ""
   },
   {
@@ -833,10 +1141,15 @@
     "nameWoDiacritics": "Frankton",
     "subdivision": "OTA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4501S 16843E",
+    "coordinates": {
+      "lat": -45.016666666666666,
+      "lon": 17.4
+    },
     "remarks": ""
   },
   {
@@ -847,10 +1160,15 @@
     "nameWoDiacritics": "Franz Josef",
     "subdivision": "WTC",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4324S 17011E",
+    "coordinates": {
+      "lat": -43.4,
+      "lon": 17.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -861,10 +1179,15 @@
     "nameWoDiacritics": "Galatea",
     "subdivision": "BOP",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "3841S 17647E",
+    "coordinates": {
+      "lat": -38.68333333333333,
+      "lon": 18.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -875,10 +1198,17 @@
     "nameWoDiacritics": "Gisborne",
     "subdivision": "GIS",
     "status": "AC",
-    "function": "1-34----",
+    "function": [
+      0,
+      2,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3840S 17802E",
+    "coordinates": {
+      "lat": -38.666666666666664,
+      "lon": 18.333333333333332
+    },
     "remarks": ""
   },
   {
@@ -889,10 +1219,15 @@
     "nameWoDiacritics": "Glen Eden",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "3655S 17439E",
+    "coordinates": {
+      "lat": -36.916666666666664,
+      "lon": 17.716666666666665
+    },
     "remarks": ""
   },
   {
@@ -903,10 +1238,15 @@
     "nameWoDiacritics": "Glenavy",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "4455S 17106E",
+    "coordinates": {
+      "lat": -44.916666666666664,
+      "lon": 17.166666666666668
+    },
     "remarks": ""
   },
   {
@@ -917,10 +1257,15 @@
     "nameWoDiacritics": "Glenfield",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "3646S 17443E",
+    "coordinates": {
+      "lat": -36.766666666666666,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -931,10 +1276,15 @@
     "nameWoDiacritics": "Golden Bay",
     "subdivision": "TAS",
     "status": "AC",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4040S 17250E",
+    "coordinates": {
+      "lat": -40.666666666666664,
+      "lon": 17.416666666666668
+    },
     "remarks": ""
   },
   {
@@ -945,10 +1295,15 @@
     "nameWoDiacritics": "Gore",
     "subdivision": "STL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "4606S 16856E",
+    "coordinates": {
+      "lat": -46.1,
+      "lon": 17.416666666666668
+    },
     "remarks": ""
   },
   {
@@ -959,10 +1314,15 @@
     "nameWoDiacritics": "Great Barrier Is",
     "subdivision": "AUK",
     "status": "AC",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -973,10 +1333,15 @@
     "nameWoDiacritics": "Greendale",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "4335S 17205E",
+    "coordinates": {
+      "lat": -43.583333333333336,
+      "lon": 17.333333333333332
+    },
     "remarks": ""
   },
   {
@@ -987,10 +1352,15 @@
     "nameWoDiacritics": "Greerton",
     "subdivision": "BOP",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3743S 17608E",
+    "coordinates": {
+      "lat": -37.71666666666667,
+      "lon": 18
+    },
     "remarks": ""
   },
   {
@@ -1001,10 +1371,17 @@
     "nameWoDiacritics": "Greymouth",
     "subdivision": "WTC",
     "status": "AC",
-    "function": "1-34----",
+    "function": [
+      0,
+      2,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4226S 17112E",
+    "coordinates": {
+      "lat": -42.43333333333333,
+      "lon": 17.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -1015,10 +1392,15 @@
     "nameWoDiacritics": "Greytown",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "4104S 17527E",
+    "coordinates": {
+      "lat": -41.06666666666667,
+      "lon": 17.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -1029,10 +1411,15 @@
     "nameWoDiacritics": "Halswell",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4335S 17234E",
+    "coordinates": {
+      "lat": -43.583333333333336,
+      "lon": 17.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -1043,10 +1430,17 @@
     "nameWoDiacritics": "Hamilton",
     "subdivision": "WKO",
     "status": "AC",
-    "function": "-234----",
+    "function": [
+      1,
+      2,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3747S 17517E",
+    "coordinates": {
+      "lat": -37.78333333333333,
+      "lon": 17.85
+    },
     "remarks": ""
   },
   {
@@ -1057,10 +1451,15 @@
     "nameWoDiacritics": "Harewood",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4329S 17235E",
+    "coordinates": {
+      "lat": -43.483333333333334,
+      "lon": 17.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -1071,10 +1470,15 @@
     "nameWoDiacritics": "Hastings",
     "subdivision": "HKB",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9805",
     "iata": "NPE",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1085,10 +1489,15 @@
     "nameWoDiacritics": "Hataitai",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4118S 17448E",
+    "coordinates": {
+      "lat": -41.3,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -1099,10 +1508,15 @@
     "nameWoDiacritics": "Havelock",
     "subdivision": "MBH",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "4117S 17346E",
+    "coordinates": {
+      "lat": -41.28333333333333,
+      "lon": 17.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -1113,10 +1527,15 @@
     "nameWoDiacritics": "Havelock North",
     "subdivision": "HKB",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "3940S 17653E",
+    "coordinates": {
+      "lat": -39.666666666666664,
+      "lon": 18.083333333333332
+    },
     "remarks": ""
   },
   {
@@ -1127,10 +1546,15 @@
     "nameWoDiacritics": "Hawarden",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "4256S 17238E",
+    "coordinates": {
+      "lat": -42.93333333333333,
+      "lon": 17.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -1141,10 +1565,15 @@
     "nameWoDiacritics": "Hawera",
     "subdivision": "MWT",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "3935S 17420E",
+    "coordinates": {
+      "lat": -39.583333333333336,
+      "lon": 17.7
+    },
     "remarks": ""
   },
   {
@@ -1155,10 +1584,15 @@
     "nameWoDiacritics": "Haywards",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4109S 17459E",
+    "coordinates": {
+      "lat": -41.15,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -1169,10 +1603,15 @@
     "nameWoDiacritics": "Heathcote Valley",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4335S 17243E",
+    "coordinates": {
+      "lat": -43.583333333333336,
+      "lon": 17.4
+    },
     "remarks": ""
   },
   {
@@ -1183,10 +1622,16 @@
     "nameWoDiacritics": "Henderson",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "3652S 17437E",
+    "coordinates": {
+      "lat": -36.86666666666667,
+      "lon": 17.716666666666665
+    },
     "remarks": ""
   },
   {
@@ -1197,10 +1642,15 @@
     "nameWoDiacritics": "Herne Bay",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "3650S 17443E",
+    "coordinates": {
+      "lat": -36.833333333333336,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -1211,10 +1661,15 @@
     "nameWoDiacritics": "Hillsborough",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "4333S 17239E",
+    "coordinates": {
+      "lat": -43.55,
+      "lon": 17.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -1225,10 +1680,16 @@
     "nameWoDiacritics": "Hokitika",
     "subdivision": "WTC",
     "status": "AC",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "4243S 17058E",
+    "coordinates": {
+      "lat": -42.71666666666667,
+      "lon": 17.083333333333332
+    },
     "remarks": ""
   },
   {
@@ -1239,10 +1700,15 @@
     "nameWoDiacritics": "Hornby",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "4333S 17232E",
+    "coordinates": {
+      "lat": -43.55,
+      "lon": 17.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -1253,10 +1719,15 @@
     "nameWoDiacritics": "Horotiu",
     "subdivision": "WKO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "3743S 17512E",
+    "coordinates": {
+      "lat": -37.71666666666667,
+      "lon": 17.85
+    },
     "remarks": ""
   },
   {
@@ -1267,10 +1738,15 @@
     "nameWoDiacritics": "Howick",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "3653S 17456E",
+    "coordinates": {
+      "lat": -36.88333333333333,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -1281,10 +1757,15 @@
     "nameWoDiacritics": "Huntly",
     "subdivision": "WKO",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3733S 17509E",
+    "coordinates": {
+      "lat": -37.55,
+      "lon": 17.833333333333332
+    },
     "remarks": ""
   },
   {
@@ -1295,10 +1776,15 @@
     "nameWoDiacritics": "Inglewood",
     "subdivision": "TKI",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "3909S 17412E",
+    "coordinates": {
+      "lat": -39.15,
+      "lon": 17.683333333333334
+    },
     "remarks": ""
   },
   {
@@ -1309,10 +1795,16 @@
     "nameWoDiacritics": "Invercargill",
     "subdivision": "STL",
     "status": "AC",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4624S 16821E",
+    "coordinates": {
+      "lat": -46.4,
+      "lon": 17.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -1323,10 +1815,15 @@
     "nameWoDiacritics": "Island Bay",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4120S 17447E",
+    "coordinates": {
+      "lat": -41.333333333333336,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -1337,10 +1834,15 @@
     "nameWoDiacritics": "Johnsonville",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4114S 17447E",
+    "coordinates": {
+      "lat": -41.233333333333334,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -1351,10 +1853,15 @@
     "nameWoDiacritics": "Kaiapoi",
     "subdivision": "CAN",
     "status": "AC",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4323S 17240E",
+    "coordinates": {
+      "lat": -43.38333333333333,
+      "lon": 17.4
+    },
     "remarks": ""
   },
   {
@@ -1365,10 +1872,15 @@
     "nameWoDiacritics": "Kaikohe",
     "subdivision": "NTL",
     "status": "AC",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1379,10 +1891,17 @@
     "nameWoDiacritics": "Kaikoura",
     "subdivision": "CAN",
     "status": "AC",
-    "function": "1-34----",
+    "function": [
+      0,
+      2,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4225S 17342E",
+    "coordinates": {
+      "lat": -42.416666666666664,
+      "lon": 17.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -1393,10 +1912,15 @@
     "nameWoDiacritics": "Kaitaia",
     "subdivision": "NTL",
     "status": "AC",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1407,10 +1931,15 @@
     "nameWoDiacritics": "Kaitangata",
     "subdivision": "OTA",
     "status": "AC",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4616S 16951E",
+    "coordinates": {
+      "lat": -46.266666666666666,
+      "lon": 17.583333333333332
+    },
     "remarks": ""
   },
   {
@@ -1421,10 +1950,15 @@
     "nameWoDiacritics": "Kaiwaka",
     "subdivision": "NTL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "3610S 17427E",
+    "coordinates": {
+      "lat": -36.166666666666664,
+      "lon": 17.7
+    },
     "remarks": ""
   },
   {
@@ -1435,10 +1969,15 @@
     "nameWoDiacritics": "Kaiwharawhara",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "4116S 17447E",
+    "coordinates": {
+      "lat": -41.266666666666666,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -1449,10 +1988,15 @@
     "nameWoDiacritics": "Kakariki",
     "subdivision": "MWT",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "4007S 17527E",
+    "coordinates": {
+      "lat": -40.11666666666667,
+      "lon": 17.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -1463,10 +2007,15 @@
     "nameWoDiacritics": "Karori",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4117S 17444E",
+    "coordinates": {
+      "lat": -41.28333333333333,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -1477,10 +2026,15 @@
     "nameWoDiacritics": "Katikati",
     "subdivision": "BOP",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3732S 17555E",
+    "coordinates": {
+      "lat": -37.53333333333333,
+      "lon": 17.916666666666668
+    },
     "remarks": ""
   },
   {
@@ -1491,10 +2045,16 @@
     "nameWoDiacritics": "Kauri Point",
     "subdivision": "AUK",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3649S 17441E",
+    "coordinates": {
+      "lat": -36.81666666666667,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -1505,10 +2065,15 @@
     "nameWoDiacritics": "Kawau Island",
     "subdivision": "AUK",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "3625S 17451E",
+    "coordinates": {
+      "lat": -36.416666666666664,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -1519,10 +2084,15 @@
     "nameWoDiacritics": "Kawerau",
     "subdivision": "BOP",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3805S 17641E",
+    "coordinates": {
+      "lat": -38.083333333333336,
+      "lon": 18.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1533,10 +2103,15 @@
     "nameWoDiacritics": "Kelburn",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4117S 17446E",
+    "coordinates": {
+      "lat": -41.28333333333333,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -1547,10 +2122,15 @@
     "nameWoDiacritics": "Kerikeri",
     "subdivision": "AUK",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "3513S 17358E",
+    "coordinates": {
+      "lat": -35.21666666666667,
+      "lon": 17.583333333333332
+    },
     "remarks": ""
   },
   {
@@ -1561,10 +2141,15 @@
     "nameWoDiacritics": "Khandallah",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4115S 17447E",
+    "coordinates": {
+      "lat": -41.25,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -1575,10 +2160,15 @@
     "nameWoDiacritics": "Kilbirnie",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4119S 17448E",
+    "coordinates": {
+      "lat": -41.31666666666667,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -1589,10 +2179,15 @@
     "nameWoDiacritics": "Kingston",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4119S 17445E",
+    "coordinates": {
+      "lat": -41.31666666666667,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -1603,10 +2198,15 @@
     "nameWoDiacritics": "Kinleith",
     "subdivision": "WKO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "3817S 17554E",
+    "coordinates": {
+      "lat": -38.28333333333333,
+      "lon": 17.916666666666668
+    },
     "remarks": ""
   },
   {
@@ -1617,10 +2217,15 @@
     "nameWoDiacritics": "Kokiri",
     "subdivision": "WTC",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "4229S 17122E",
+    "coordinates": {
+      "lat": -42.483333333333334,
+      "lon": 17.2
+    },
     "remarks": ""
   },
   {
@@ -1631,10 +2236,15 @@
     "nameWoDiacritics": "Kopu",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "3711S 17534E",
+    "coordinates": {
+      "lat": -37.18333333333333,
+      "lon": 17.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -1645,10 +2255,15 @@
     "nameWoDiacritics": "Kumeu",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "3646S 17434E",
+    "coordinates": {
+      "lat": -36.766666666666666,
+      "lon": 17.716666666666665
+    },
     "remarks": ""
   },
   {
@@ -1659,10 +2274,15 @@
     "nameWoDiacritics": "Lake Tekapo",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "4401S 17030E",
+    "coordinates": {
+      "lat": -44.016666666666666,
+      "lon": 17.05
+    },
     "remarks": ""
   },
   {
@@ -1673,10 +2293,15 @@
     "nameWoDiacritics": "Leeston",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "4346S 17218E",
+    "coordinates": {
+      "lat": -43.766666666666666,
+      "lon": 17.35
+    },
     "remarks": ""
   },
   {
@@ -1687,10 +2312,15 @@
     "nameWoDiacritics": "Levin",
     "subdivision": "MWT",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4038S 17517E",
+    "coordinates": {
+      "lat": -40.63333333333333,
+      "lon": 17.85
+    },
     "remarks": ""
   },
   {
@@ -1701,10 +2331,15 @@
     "nameWoDiacritics": "Lincoln",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "4339S 17229E",
+    "coordinates": {
+      "lat": -43.65,
+      "lon": 17.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -1715,10 +2350,16 @@
     "nameWoDiacritics": "Longburn",
     "subdivision": "MWT",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4023S 17533E",
+    "coordinates": {
+      "lat": -40.38333333333333,
+      "lon": 17.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -1729,10 +2370,15 @@
     "nameWoDiacritics": "Lorneville",
     "subdivision": "STL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4621S 16821E",
+    "coordinates": {
+      "lat": -46.35,
+      "lon": 17.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -1743,10 +2389,15 @@
     "nameWoDiacritics": "Lower Hutt",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4113S 17455E",
+    "coordinates": {
+      "lat": -41.21666666666667,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -1757,10 +2408,15 @@
     "nameWoDiacritics": "Lyall Bay",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4119S 17447E",
+    "coordinates": {
+      "lat": -41.31666666666667,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -1771,10 +2427,16 @@
     "nameWoDiacritics": "Lyttelton",
     "subdivision": "CAN",
     "status": "AC",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4336S 17243E",
+    "coordinates": {
+      "lat": -43.6,
+      "lon": 17.4
+    },
     "remarks": ""
   },
   {
@@ -1785,10 +2447,15 @@
     "nameWoDiacritics": "Maari Terminal FPSO",
     "subdivision": "TKI",
     "status": "RL",
-    "function": "------7-",
+    "function": [
+      6
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3958S 17317E",
+    "coordinates": {
+      "lat": -39.96666666666667,
+      "lon": 17.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -1799,10 +2466,15 @@
     "nameWoDiacritics": "Macraes Flat",
     "subdivision": "OTA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "4523S 17026E",
+    "coordinates": {
+      "lat": -45.38333333333333,
+      "lon": 17.033333333333335
+    },
     "remarks": ""
   },
   {
@@ -1813,10 +2485,15 @@
     "nameWoDiacritics": "Mahia",
     "subdivision": "HKB",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "3905S 17755E",
+    "coordinates": {
+      "lat": -39.083333333333336,
+      "lon": 18.25
+    },
     "remarks": ""
   },
   {
@@ -1827,10 +2504,15 @@
     "nameWoDiacritics": "Mairangi Bay",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "3644S 17446E",
+    "coordinates": {
+      "lat": -36.733333333333334,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -1841,10 +2523,16 @@
     "nameWoDiacritics": "Makarewa",
     "subdivision": "STL",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4620S 16821E",
+    "coordinates": {
+      "lat": -46.333333333333336,
+      "lon": 17.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -1855,10 +2543,15 @@
     "nameWoDiacritics": "Manakau",
     "subdivision": "TAS",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "4043S 17514E",
+    "coordinates": {
+      "lat": -40.71666666666667,
+      "lon": 17.85
+    },
     "remarks": ""
   },
   {
@@ -1869,10 +2562,15 @@
     "nameWoDiacritics": "Manapouri",
     "subdivision": "STL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "4534S 16736E",
+    "coordinates": {
+      "lat": -45.56666666666667,
+      "lon": 17.216666666666665
+    },
     "remarks": ""
   },
   {
@@ -1883,10 +2581,15 @@
     "nameWoDiacritics": "Mangakino",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "3823S 17547E",
+    "coordinates": {
+      "lat": -38.38333333333333,
+      "lon": 17.9
+    },
     "remarks": ""
   },
   {
@@ -1897,10 +2600,15 @@
     "nameWoDiacritics": "Mangawhai",
     "subdivision": "NTL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1007",
     "iata": "",
-    "coordinates": "3607S 17434E",
+    "coordinates": {
+      "lat": -36.11666666666667,
+      "lon": 17.716666666666665
+    },
     "remarks": ""
   },
   {
@@ -1911,10 +2619,15 @@
     "nameWoDiacritics": "Mangere",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "3658S 17448E",
+    "coordinates": {
+      "lat": -36.96666666666667,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -1925,10 +2638,15 @@
     "nameWoDiacritics": "Mansion House",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1939,10 +2657,15 @@
     "nameWoDiacritics": "Manukau City",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "3658S 17448E",
+    "coordinates": {
+      "lat": -36.96666666666667,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -1953,10 +2676,16 @@
     "nameWoDiacritics": "Marsden Point",
     "subdivision": "NTL",
     "status": "AC",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "3550S 17430E",
+    "coordinates": {
+      "lat": -35.833333333333336,
+      "lon": 17.716666666666665
+    },
     "remarks": ""
   },
   {
@@ -1967,10 +2696,15 @@
     "nameWoDiacritics": "Marshland",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4329S 17239E",
+    "coordinates": {
+      "lat": -43.483333333333334,
+      "lon": 17.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -1981,10 +2715,15 @@
     "nameWoDiacritics": "Martinborough",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "4114S 17528E",
+    "coordinates": {
+      "lat": -41.233333333333334,
+      "lon": 17.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -1995,10 +2734,15 @@
     "nameWoDiacritics": "Marton",
     "subdivision": "MWT",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "4005S 17523E",
+    "coordinates": {
+      "lat": -40.083333333333336,
+      "lon": 17.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -2009,10 +2753,15 @@
     "nameWoDiacritics": "Masterton",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2023,10 +2772,15 @@
     "nameWoDiacritics": "Matakana",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3621S 17443E",
+    "coordinates": {
+      "lat": -36.35,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -2037,10 +2791,16 @@
     "nameWoDiacritics": "Matamata",
     "subdivision": "WKO",
     "status": "RL",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "3749S 17546E",
+    "coordinates": {
+      "lat": -37.81666666666667,
+      "lon": 17.9
+    },
     "remarks": ""
   },
   {
@@ -2051,10 +2811,15 @@
     "nameWoDiacritics": "Matangi",
     "subdivision": "WKO",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3748S 17524E",
+    "coordinates": {
+      "lat": -37.8,
+      "lon": 17.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -2065,10 +2830,15 @@
     "nameWoDiacritics": "Mataura",
     "subdivision": "STL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4611S 16852E",
+    "coordinates": {
+      "lat": -46.18333333333333,
+      "lon": 17.416666666666668
+    },
     "remarks": ""
   },
   {
@@ -2079,10 +2849,15 @@
     "nameWoDiacritics": "Matiatia Bay",
     "subdivision": "AUK",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3646S 17458E",
+    "coordinates": {
+      "lat": -36.766666666666666,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -2093,10 +2868,15 @@
     "nameWoDiacritics": "Maungaturoto",
     "subdivision": "NTL",
     "status": "RQ",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "3606S 17422E",
+    "coordinates": {
+      "lat": -36.1,
+      "lon": 17.7
+    },
     "remarks": ""
   },
   {
@@ -2107,10 +2887,16 @@
     "nameWoDiacritics": "Metroport/Auckland",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "3655S 17449E",
+    "coordinates": {
+      "lat": -36.916666666666664,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -2121,10 +2907,16 @@
     "nameWoDiacritics": "Middleton/Christchurch",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2135,10 +2927,16 @@
     "nameWoDiacritics": "Milford Sound",
     "subdivision": "STL",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4440S 16755E",
+    "coordinates": {
+      "lat": -44.666666666666664,
+      "lon": 17.25
+    },
     "remarks": ""
   },
   {
@@ -2149,10 +2947,15 @@
     "nameWoDiacritics": "Milson",
     "subdivision": "MWT",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "4019S 17536E",
+    "coordinates": {
+      "lat": -40.31666666666667,
+      "lon": 17.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -2163,10 +2966,16 @@
     "nameWoDiacritics": "Milton",
     "subdivision": "OTA",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4607S 16958E",
+    "coordinates": {
+      "lat": -46.11666666666667,
+      "lon": 17.583333333333332
+    },
     "remarks": ""
   },
   {
@@ -2177,10 +2986,15 @@
     "nameWoDiacritics": "Miramar",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4119S 17449E",
+    "coordinates": {
+      "lat": -41.31666666666667,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -2191,10 +3005,15 @@
     "nameWoDiacritics": "Moerewa",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2205,10 +3024,16 @@
     "nameWoDiacritics": "Morrinsville",
     "subdivision": "WKO",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "3739S 17532E",
+    "coordinates": {
+      "lat": -37.65,
+      "lon": 17.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -2219,10 +3044,16 @@
     "nameWoDiacritics": "Mosgiel",
     "subdivision": "OTA",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4552S 17021E",
+    "coordinates": {
+      "lat": -45.86666666666667,
+      "lon": 17.033333333333335
+    },
     "remarks": ""
   },
   {
@@ -2233,10 +3064,15 @@
     "nameWoDiacritics": "Mossburn",
     "subdivision": "STL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "4540S 16815E",
+    "coordinates": {
+      "lat": -45.666666666666664,
+      "lon": 17.35
+    },
     "remarks": ""
   },
   {
@@ -2247,10 +3083,16 @@
     "nameWoDiacritics": "Motueka",
     "subdivision": "TAS",
     "status": "AC",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4107S 17300E",
+    "coordinates": {
+      "lat": -41.11666666666667,
+      "lon": 17.5
+    },
     "remarks": ""
   },
   {
@@ -2261,10 +3103,15 @@
     "nameWoDiacritics": "Mount Cook",
     "subdivision": "CAN",
     "status": "AC",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2275,10 +3122,15 @@
     "nameWoDiacritics": "Mount Maunganui",
     "subdivision": "BOP",
     "status": "AC",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3738S 17611E",
+    "coordinates": {
+      "lat": -37.63333333333333,
+      "lon": 18.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -2289,10 +3141,15 @@
     "nameWoDiacritics": "Mount Wellington",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "3655S 17450E",
+    "coordinates": {
+      "lat": -36.916666666666664,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -2303,10 +3160,15 @@
     "nameWoDiacritics": "Muritai",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4118S 17453E",
+    "coordinates": {
+      "lat": -41.3,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -2317,10 +3179,16 @@
     "nameWoDiacritics": "Napier",
     "subdivision": "HKB",
     "status": "AC",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3928S 17654E",
+    "coordinates": {
+      "lat": -39.46666666666667,
+      "lon": 18.083333333333332
+    },
     "remarks": ""
   },
   {
@@ -2331,10 +3199,17 @@
     "nameWoDiacritics": "Nelson",
     "subdivision": "NSN",
     "status": "AC",
-    "function": "1-34----",
+    "function": [
+      0,
+      2,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4115S 17316E",
+    "coordinates": {
+      "lat": -41.25,
+      "lon": 17.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -2345,10 +3220,15 @@
     "nameWoDiacritics": "New Brighton",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4331S 17244E",
+    "coordinates": {
+      "lat": -43.516666666666666,
+      "lon": 17.4
+    },
     "remarks": ""
   },
   {
@@ -2359,10 +3239,15 @@
     "nameWoDiacritics": "New Lyn",
     "subdivision": "AUK",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "3654S 17441E",
+    "coordinates": {
+      "lat": -36.9,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -2373,10 +3258,17 @@
     "nameWoDiacritics": "New Plymouth",
     "subdivision": "TKI",
     "status": "AC",
-    "function": "1-34----",
+    "function": [
+      0,
+      2,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3903S 17401E",
+    "coordinates": {
+      "lat": -39.05,
+      "lon": 17.666666666666668
+    },
     "remarks": ""
   },
   {
@@ -2387,10 +3279,15 @@
     "nameWoDiacritics": "Newton",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "3651S 17445E",
+    "coordinates": {
+      "lat": -36.85,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -2401,10 +3298,15 @@
     "nameWoDiacritics": "Ngaio",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4115S 17446E",
+    "coordinates": {
+      "lat": -41.25,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -2415,10 +3317,15 @@
     "nameWoDiacritics": "Ngauranga",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4115S 17449E",
+    "coordinates": {
+      "lat": -41.25,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -2429,10 +3336,15 @@
     "nameWoDiacritics": "North Shore City",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1007",
     "iata": "",
-    "coordinates": "3648S 17445E",
+    "coordinates": {
+      "lat": -36.8,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -2443,10 +3355,15 @@
     "nameWoDiacritics": "Northcote",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "3648S 17444E",
+    "coordinates": {
+      "lat": -36.8,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -2457,10 +3374,16 @@
     "nameWoDiacritics": "Oamaru",
     "subdivision": "OTA",
     "status": "AC",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4505S 17058E",
+    "coordinates": {
+      "lat": -45.083333333333336,
+      "lon": 17.083333333333332
+    },
     "remarks": ""
   },
   {
@@ -2471,10 +3394,15 @@
     "nameWoDiacritics": "Offshore Tui",
     "subdivision": "",
     "status": "RQ",
-    "function": "------7-",
+    "function": [
+      6
+    ],
     "date": "0907",
     "iata": "",
-    "coordinates": "3925S 17314E",
+    "coordinates": {
+      "lat": -39.416666666666664,
+      "lon": 17.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -2485,10 +3413,15 @@
     "nameWoDiacritics": "Ohakea",
     "subdivision": "MWT",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9708",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2499,10 +3432,15 @@
     "nameWoDiacritics": "Ohakune",
     "subdivision": "MWT",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3924S 17525E",
+    "coordinates": {
+      "lat": -39.4,
+      "lon": 17.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -2513,10 +3451,15 @@
     "nameWoDiacritics": "Ohariu",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4112S 17446E",
+    "coordinates": {
+      "lat": -41.2,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -2527,10 +3470,15 @@
     "nameWoDiacritics": "Okarito",
     "subdivision": "WTC",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4314S 17011E",
+    "coordinates": {
+      "lat": -43.233333333333334,
+      "lon": 17.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -2541,10 +3489,15 @@
     "nameWoDiacritics": "Omihi",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "4301S 17251E",
+    "coordinates": {
+      "lat": -43.016666666666666,
+      "lon": 17.416666666666668
+    },
     "remarks": ""
   },
   {
@@ -2555,10 +3508,15 @@
     "nameWoDiacritics": "Onehunga (Manukau Harbour)",
     "subdivision": "AUK",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3700S 17440E",
+    "coordinates": {
+      "lat": -37,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -2569,10 +3527,15 @@
     "nameWoDiacritics": "Opotiki",
     "subdivision": "BOP",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "3805S 17717E",
+    "coordinates": {
+      "lat": -38.083333333333336,
+      "lon": 18.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -2583,10 +3546,15 @@
     "nameWoDiacritics": "Opua",
     "subdivision": "NTL",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "3519S 17407E",
+    "coordinates": {
+      "lat": -35.31666666666667,
+      "lon": 17.666666666666668
+    },
     "remarks": ""
   },
   {
@@ -2597,10 +3565,15 @@
     "nameWoDiacritics": "Opunake",
     "subdivision": "TKI",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3927S 17351E",
+    "coordinates": {
+      "lat": -39.45,
+      "lon": 17.583333333333332
+    },
     "remarks": ""
   },
   {
@@ -2611,10 +3584,15 @@
     "nameWoDiacritics": "Orakei",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "3651S 17449E",
+    "coordinates": {
+      "lat": -36.85,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -2625,10 +3603,15 @@
     "nameWoDiacritics": "Oratia",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "3655S 17437E",
+    "coordinates": {
+      "lat": -36.916666666666664,
+      "lon": 17.716666666666665
+    },
     "remarks": ""
   },
   {
@@ -2639,10 +3622,15 @@
     "nameWoDiacritics": "Orewa",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "3634S 17442E",
+    "coordinates": {
+      "lat": -36.56666666666667,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -2653,10 +3641,15 @@
     "nameWoDiacritics": "Orini",
     "subdivision": "WKO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "3734S 17518E",
+    "coordinates": {
+      "lat": -37.56666666666667,
+      "lon": 17.85
+    },
     "remarks": ""
   },
   {
@@ -2667,10 +3660,15 @@
     "nameWoDiacritics": "Otago Harbour",
     "subdivision": "OTA",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4548S 17037E",
+    "coordinates": {
+      "lat": -45.8,
+      "lon": 17.05
+    },
     "remarks": ""
   },
   {
@@ -2681,10 +3679,15 @@
     "nameWoDiacritics": "Otahuhu",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "3656S 17450E",
+    "coordinates": {
+      "lat": -36.93333333333333,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -2695,10 +3698,15 @@
     "nameWoDiacritics": "Otaki",
     "subdivision": "MWT",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "4045S 17510E",
+    "coordinates": {
+      "lat": -40.75,
+      "lon": 17.85
+    },
     "remarks": ""
   },
   {
@@ -2709,10 +3717,16 @@
     "nameWoDiacritics": "Otematata",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "1----6--",
+    "function": [
+      0,
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "4437S 17016E",
+    "coordinates": {
+      "lat": -44.61666666666667,
+      "lon": 17.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -2723,10 +3737,15 @@
     "nameWoDiacritics": "Otorohanga",
     "subdivision": "WKO",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3811S 17511E",
+    "coordinates": {
+      "lat": -38.18333333333333,
+      "lon": 17.85
+    },
     "remarks": ""
   },
   {
@@ -2737,10 +3756,16 @@
     "nameWoDiacritics": "Paekakariki",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4058S 17457E",
+    "coordinates": {
+      "lat": -40.96666666666667,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -2751,10 +3776,16 @@
     "nameWoDiacritics": "Paeroa",
     "subdivision": "WKO",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3723S 17540E",
+    "coordinates": {
+      "lat": -37.38333333333333,
+      "lon": 17.9
+    },
     "remarks": ""
   },
   {
@@ -2765,10 +3796,15 @@
     "nameWoDiacritics": "Paihia",
     "subdivision": "NTL",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3517S 17404E",
+    "coordinates": {
+      "lat": -35.28333333333333,
+      "lon": 17.666666666666668
+    },
     "remarks": ""
   },
   {
@@ -2779,10 +3815,15 @@
     "nameWoDiacritics": "Pakatoa Island",
     "subdivision": "AUK",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "3647S 17512E",
+    "coordinates": {
+      "lat": -36.78333333333333,
+      "lon": 17.85
+    },
     "remarks": ""
   },
   {
@@ -2793,10 +3834,15 @@
     "nameWoDiacritics": "Pakuranga",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "3653S 17455E",
+    "coordinates": {
+      "lat": -36.88333333333333,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -2807,10 +3853,15 @@
     "nameWoDiacritics": "Palmerston",
     "subdivision": "OTA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4529S 17043E",
+    "coordinates": {
+      "lat": -45.483333333333334,
+      "lon": 17.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -2821,10 +3872,15 @@
     "nameWoDiacritics": "Palmerston North",
     "subdivision": "MWT",
     "status": "AC",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2835,10 +3891,15 @@
     "nameWoDiacritics": "Panmure",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "3653S 17452E",
+    "coordinates": {
+      "lat": -36.88333333333333,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -2849,10 +3910,15 @@
     "nameWoDiacritics": "Papakura",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "-2------",
+    "function": [
+      1
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "3705S 17457E",
+    "coordinates": {
+      "lat": -37.083333333333336,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -2863,10 +3929,15 @@
     "nameWoDiacritics": "Papanui",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4330S 17237E",
+    "coordinates": {
+      "lat": -43.5,
+      "lon": 17.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -2877,10 +3948,15 @@
     "nameWoDiacritics": "Paraparaumu",
     "subdivision": "WGN",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4055S 17501E",
+    "coordinates": {
+      "lat": -40.916666666666664,
+      "lon": 17.833333333333332
+    },
     "remarks": ""
   },
   {
@@ -2891,10 +3967,15 @@
     "nameWoDiacritics": "Paremata",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4107S 17452E",
+    "coordinates": {
+      "lat": -41.11666666666667,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -2905,10 +3986,16 @@
     "nameWoDiacritics": "Pareora",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4430S 17112E",
+    "coordinates": {
+      "lat": -44.5,
+      "lon": 17.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -2919,10 +4006,15 @@
     "nameWoDiacritics": "Parnell",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "3652S 17447E",
+    "coordinates": {
+      "lat": -36.86666666666667,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -2933,10 +4025,15 @@
     "nameWoDiacritics": "Penrose",
     "subdivision": "AUK",
     "status": "AC",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3655S 17449E",
+    "coordinates": {
+      "lat": -36.916666666666664,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -2947,10 +4044,16 @@
     "nameWoDiacritics": "Picton",
     "subdivision": "MBH",
     "status": "AC",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4117S 17400E",
+    "coordinates": {
+      "lat": -41.28333333333333,
+      "lon": 17.666666666666668
+    },
     "remarks": ""
   },
   {
@@ -2961,10 +4064,15 @@
     "nameWoDiacritics": "Pipitea",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "-2------",
+    "function": [
+      1
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "4116S 17446E",
+    "coordinates": {
+      "lat": -41.266666666666666,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -2975,10 +4083,15 @@
     "nameWoDiacritics": "Point Chevalier",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "3651S 17442E",
+    "coordinates": {
+      "lat": -36.85,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -2989,10 +4102,15 @@
     "nameWoDiacritics": "Pokeno",
     "subdivision": "AUK",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3714S 17500E",
+    "coordinates": {
+      "lat": -37.233333333333334,
+      "lon": 17.833333333333332
+    },
     "remarks": ""
   },
   {
@@ -3003,10 +4121,15 @@
     "nameWoDiacritics": "Ponsonby",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "3651S 17444E",
+    "coordinates": {
+      "lat": -36.85,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -3017,10 +4140,15 @@
     "nameWoDiacritics": "Porirua",
     "subdivision": "TAS",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "4109S 17451E",
+    "coordinates": {
+      "lat": -41.15,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -3031,10 +4159,15 @@
     "nameWoDiacritics": "Porirua",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4108S 17451E",
+    "coordinates": {
+      "lat": -41.13333333333333,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -3045,10 +4178,15 @@
     "nameWoDiacritics": "Port Chalmers",
     "subdivision": "OTA",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4549S 17036E",
+    "coordinates": {
+      "lat": -45.81666666666667,
+      "lon": 17.05
+    },
     "remarks": ""
   },
   {
@@ -3059,10 +4197,15 @@
     "nameWoDiacritics": "Port Fitzroy",
     "subdivision": "AUK",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "3610S 17521E",
+    "coordinates": {
+      "lat": -36.166666666666664,
+      "lon": 17.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -3073,10 +4216,16 @@
     "nameWoDiacritics": "Port Nelson",
     "subdivision": "",
     "status": "RQ",
-    "function": "1----6--",
+    "function": [
+      0,
+      5
+    ],
     "date": "0907",
     "iata": "",
-    "coordinates": "4116S 17316E",
+    "coordinates": {
+      "lat": -41.266666666666666,
+      "lon": 17.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -3087,10 +4236,16 @@
     "nameWoDiacritics": "Portland",
     "subdivision": "NTL",
     "status": "AM",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "2207",
     "iata": "",
-    "coordinates": "3548S 17419E",
+    "coordinates": {
+      "lat": -35.8,
+      "lon": 17.683333333333334
+    },
     "remarks": ""
   },
   {
@@ -3101,10 +4256,15 @@
     "nameWoDiacritics": "Prebbleton",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4335S 17231E",
+    "coordinates": {
+      "lat": -43.583333333333336,
+      "lon": 17.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -3115,10 +4275,15 @@
     "nameWoDiacritics": "Pukekohe",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "3712S 17457E",
+    "coordinates": {
+      "lat": -37.2,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -3129,10 +4294,16 @@
     "nameWoDiacritics": "Pukeuri Junction",
     "subdivision": "STL",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4502S 17102E",
+    "coordinates": {
+      "lat": -45.03333333333333,
+      "lon": 17.166666666666668
+    },
     "remarks": ""
   },
   {
@@ -3143,10 +4314,15 @@
     "nameWoDiacritics": "Putaruru",
     "subdivision": "WKO",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3802S 17546E",
+    "coordinates": {
+      "lat": -38.03333333333333,
+      "lon": 17.9
+    },
     "remarks": ""
   },
   {
@@ -3157,10 +4333,15 @@
     "nameWoDiacritics": "Queenstown",
     "subdivision": "OTA",
     "status": "AC",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -3171,10 +4352,16 @@
     "nameWoDiacritics": "Raglan",
     "subdivision": "WKO",
     "status": "AC",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "3740S 17500E",
+    "coordinates": {
+      "lat": -37.666666666666664,
+      "lon": 17.833333333333332
+    },
     "remarks": ""
   },
   {
@@ -3185,10 +4372,15 @@
     "nameWoDiacritics": "Rakaia",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4345S 17201E",
+    "coordinates": {
+      "lat": -43.75,
+      "lon": 17.333333333333332
+    },
     "remarks": ""
   },
   {
@@ -3199,10 +4391,15 @@
     "nameWoDiacritics": "Rangiora",
     "subdivision": "CAN",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "4317S 17236E",
+    "coordinates": {
+      "lat": -43.28333333333333,
+      "lon": 17.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -3213,10 +4410,15 @@
     "nameWoDiacritics": "Rangiuru",
     "subdivision": "BOP",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -3227,10 +4429,15 @@
     "nameWoDiacritics": "Raroa FPSO",
     "subdivision": "",
     "status": "AA",
-    "function": "------7-",
+    "function": [
+      6
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3958S 17317E",
+    "coordinates": {
+      "lat": -39.96666666666667,
+      "lon": 17.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -3241,10 +4448,17 @@
     "nameWoDiacritics": "Ravensbourne",
     "subdivision": "OTA",
     "status": "RL",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4552S 17033E",
+    "coordinates": {
+      "lat": -45.86666666666667,
+      "lon": 17.05
+    },
     "remarks": ""
   },
   {
@@ -3255,10 +4469,15 @@
     "nameWoDiacritics": "Redcliffs",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4334S 17244E",
+    "coordinates": {
+      "lat": -43.56666666666667,
+      "lon": 17.4
+    },
     "remarks": ""
   },
   {
@@ -3269,10 +4488,15 @@
     "nameWoDiacritics": "Renwick",
     "subdivision": "MBH",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "4130S 17349E",
+    "coordinates": {
+      "lat": -41.5,
+      "lon": 17.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -3283,10 +4507,15 @@
     "nameWoDiacritics": "Richmond",
     "subdivision": "NSN",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "4120S 17311E",
+    "coordinates": {
+      "lat": -41.333333333333336,
+      "lon": 17.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -3297,10 +4526,15 @@
     "nameWoDiacritics": "Riverlands",
     "subdivision": "MBH",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "3332S 01836E",
+    "coordinates": {
+      "lat": -33.53333333333333,
+      "lon": 2.3833333333333333
+    },
     "remarks": ""
   },
   {
@@ -3311,10 +4545,15 @@
     "nameWoDiacritics": "Riverton",
     "subdivision": "STL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4621S 16801E",
+    "coordinates": {
+      "lat": -46.35,
+      "lon": 17.333333333333332
+    },
     "remarks": ""
   },
   {
@@ -3325,10 +4564,16 @@
     "nameWoDiacritics": "Rolleston",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "1----6--",
+    "function": [
+      0,
+      5
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "4335S 17223E",
+    "coordinates": {
+      "lat": -43.583333333333336,
+      "lon": 17.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -3339,10 +4584,15 @@
     "nameWoDiacritics": "Rongotai",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "4119S 17448E",
+    "coordinates": {
+      "lat": -41.31666666666667,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -3353,10 +4603,16 @@
     "nameWoDiacritics": "Rotorua",
     "subdivision": "BOP",
     "status": "AC",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "3810S 17620E",
+    "coordinates": {
+      "lat": -38.166666666666664,
+      "lon": 18.033333333333335
+    },
     "remarks": ""
   },
   {
@@ -3367,10 +4623,15 @@
     "nameWoDiacritics": "Roxburgh",
     "subdivision": "OTA",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "4532S 16918E",
+    "coordinates": {
+      "lat": -45.53333333333333,
+      "lon": 17.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -3381,10 +4642,16 @@
     "nameWoDiacritics": "Russel",
     "subdivision": "NTL",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3516S 17407E",
+    "coordinates": {
+      "lat": -35.266666666666666,
+      "lon": 17.666666666666668
+    },
     "remarks": ""
   },
   {
@@ -3395,10 +4662,15 @@
     "nameWoDiacritics": "Saint Heliers",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "3651S 17452E",
+    "coordinates": {
+      "lat": -36.85,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -3409,10 +4681,15 @@
     "nameWoDiacritics": "Seatoun",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4119S 17450E",
+    "coordinates": {
+      "lat": -41.31666666666667,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -3423,10 +4700,18 @@
     "nameWoDiacritics": "Seaview",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "123--6--",
+    "function": [
+      0,
+      1,
+      2,
+      5
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3928S 17655E",
+    "coordinates": {
+      "lat": -39.46666666666667,
+      "lon": 18.083333333333332
+    },
     "remarks": ""
   },
   {
@@ -3437,10 +4722,15 @@
     "nameWoDiacritics": "Seddon",
     "subdivision": "NSN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "4140S 17405E",
+    "coordinates": {
+      "lat": -41.666666666666664,
+      "lon": 17.666666666666668
+    },
     "remarks": ""
   },
   {
@@ -3451,10 +4741,16 @@
     "nameWoDiacritics": "Shannon",
     "subdivision": "MWT",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4032S 17525E",
+    "coordinates": {
+      "lat": -40.53333333333333,
+      "lon": 17.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -3465,10 +4761,15 @@
     "nameWoDiacritics": "Sheffield",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "4323S 17210E",
+    "coordinates": {
+      "lat": -43.38333333333333,
+      "lon": 17.35
+    },
     "remarks": ""
   },
   {
@@ -3479,10 +4780,16 @@
     "nameWoDiacritics": "Shelly Bay",
     "subdivision": "WGN",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4117S 17449E",
+    "coordinates": {
+      "lat": -41.28333333333333,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -3493,10 +4800,15 @@
     "nameWoDiacritics": "Silverdale",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "3636S 17439E",
+    "coordinates": {
+      "lat": -36.6,
+      "lon": 17.716666666666665
+    },
     "remarks": ""
   },
   {
@@ -3507,10 +4819,15 @@
     "nameWoDiacritics": "Silverstream",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4109S 17500E",
+    "coordinates": {
+      "lat": -41.15,
+      "lon": 17.833333333333332
+    },
     "remarks": ""
   },
   {
@@ -3521,10 +4838,15 @@
     "nameWoDiacritics": "Smithfield",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4422S 17114E",
+    "coordinates": {
+      "lat": -44.36666666666667,
+      "lon": 17.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -3535,10 +4857,15 @@
     "nameWoDiacritics": "Sockburn",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0501",
     "iata": "",
-    "coordinates": "4332S 17233E",
+    "coordinates": {
+      "lat": -43.53333333333333,
+      "lon": 17.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -3549,10 +4876,15 @@
     "nameWoDiacritics": "Spring Creek",
     "subdivision": "MBH",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "4128S 17358E",
+    "coordinates": {
+      "lat": -41.46666666666667,
+      "lon": 17.583333333333332
+    },
     "remarks": ""
   },
   {
@@ -3563,10 +4895,15 @@
     "nameWoDiacritics": "Stewart Island",
     "subdivision": "STL",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4700S 16800E",
+    "coordinates": {
+      "lat": -47,
+      "lon": 17.333333333333332
+    },
     "remarks": ""
   },
   {
@@ -3577,10 +4914,15 @@
     "nameWoDiacritics": "Stoke",
     "subdivision": "NSN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4119S 17314E",
+    "coordinates": {
+      "lat": -41.31666666666667,
+      "lon": 17.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -3591,10 +4933,16 @@
     "nameWoDiacritics": "Stratford",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "3920S 17417E",
+    "coordinates": {
+      "lat": -39.333333333333336,
+      "lon": 17.683333333333334
+    },
     "remarks": ""
   },
   {
@@ -3605,10 +4953,15 @@
     "nameWoDiacritics": "Surfdale",
     "subdivision": "AUK",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "3647S 17500E",
+    "coordinates": {
+      "lat": -36.78333333333333,
+      "lon": 17.833333333333332
+    },
     "remarks": ""
   },
   {
@@ -3619,10 +4972,17 @@
     "nameWoDiacritics": "Taharoa",
     "subdivision": "WKO",
     "status": "AC",
-    "function": "1-34----",
+    "function": [
+      0,
+      2,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3809S 17444E",
+    "coordinates": {
+      "lat": -38.15,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -3633,10 +4993,15 @@
     "nameWoDiacritics": "Taihape",
     "subdivision": "MWT",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3940S 17547E",
+    "coordinates": {
+      "lat": -39.666666666666664,
+      "lon": 17.9
+    },
     "remarks": ""
   },
   {
@@ -3647,10 +5012,15 @@
     "nameWoDiacritics": "Taita",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4112S 17457E",
+    "coordinates": {
+      "lat": -41.2,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -3661,10 +5031,16 @@
     "nameWoDiacritics": "Takaka",
     "subdivision": "TAS",
     "status": "AC",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4051S 17248E",
+    "coordinates": {
+      "lat": -40.85,
+      "lon": 17.4
+    },
     "remarks": ""
   },
   {
@@ -3675,10 +5051,15 @@
     "nameWoDiacritics": "Takanini",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "3702S 17455E",
+    "coordinates": {
+      "lat": -37.03333333333333,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -3689,10 +5070,15 @@
     "nameWoDiacritics": "Takapau",
     "subdivision": "HKB",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -3703,10 +5089,17 @@
     "nameWoDiacritics": "Takapuna",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "1-3--6--",
+    "function": [
+      0,
+      2,
+      5
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3647S 17446E",
+    "coordinates": {
+      "lat": -36.78333333333333,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -3717,10 +5110,15 @@
     "nameWoDiacritics": "Tamaki",
     "subdivision": "AUK",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3653S 17454E",
+    "coordinates": {
+      "lat": -36.88333333333333,
+      "lon": 17.75
+    },
     "remarks": "Half Moon Bay"
   },
   {
@@ -3731,10 +5129,15 @@
     "nameWoDiacritics": "Tapanui",
     "subdivision": "OTA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "4557S 16916E",
+    "coordinates": {
+      "lat": -45.95,
+      "lon": 17.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -3745,10 +5148,15 @@
     "nameWoDiacritics": "Taradale",
     "subdivision": "HKB",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "3932S 17651E",
+    "coordinates": {
+      "lat": -39.53333333333333,
+      "lon": 18.083333333333332
+    },
     "remarks": ""
   },
   {
@@ -3759,10 +5167,15 @@
     "nameWoDiacritics": "Tarakohe",
     "subdivision": "TAS",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4050S 17253E",
+    "coordinates": {
+      "lat": -40.833333333333336,
+      "lon": 17.416666666666668
+    },
     "remarks": ""
   },
   {
@@ -3773,10 +5186,16 @@
     "nameWoDiacritics": "Taumarunui",
     "subdivision": "TKI",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "3853S 17515E",
+    "coordinates": {
+      "lat": -38.88333333333333,
+      "lon": 17.85
+    },
     "remarks": ""
   },
   {
@@ -3787,10 +5206,15 @@
     "nameWoDiacritics": "Taupo",
     "subdivision": "WKO",
     "status": "AC",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -3801,10 +5225,18 @@
     "nameWoDiacritics": "Tauranga",
     "subdivision": "BOP",
     "status": "AI",
-    "function": "1234----",
+    "function": [
+      0,
+      1,
+      2,
+      3
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "3741S 17610E",
+    "coordinates": {
+      "lat": -37.68333333333333,
+      "lon": 18.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -3815,10 +5247,15 @@
     "nameWoDiacritics": "Te Anau",
     "subdivision": "STL",
     "status": "AC",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -3829,10 +5266,15 @@
     "nameWoDiacritics": "Te Aroha",
     "subdivision": "BOP",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3732S 17542E",
+    "coordinates": {
+      "lat": -37.53333333333333,
+      "lon": 17.9
+    },
     "remarks": ""
   },
   {
@@ -3843,10 +5285,15 @@
     "nameWoDiacritics": "Te Awamutu",
     "subdivision": "WKO",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3800S 17518E",
+    "coordinates": {
+      "lat": -38,
+      "lon": 17.85
+    },
     "remarks": ""
   },
   {
@@ -3857,10 +5304,15 @@
     "nameWoDiacritics": "Te Haroto",
     "subdivision": "HKB",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "3908S 17636E",
+    "coordinates": {
+      "lat": -39.13333333333333,
+      "lon": 18.05
+    },
     "remarks": ""
   },
   {
@@ -3871,10 +5323,15 @@
     "nameWoDiacritics": "Te Kauwhata",
     "subdivision": "WKO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "3723S 17508E",
+    "coordinates": {
+      "lat": -37.38333333333333,
+      "lon": 17.833333333333332
+    },
     "remarks": ""
   },
   {
@@ -3885,10 +5342,15 @@
     "nameWoDiacritics": "Te Kuiti",
     "subdivision": "WKO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "3819S 17509E",
+    "coordinates": {
+      "lat": -38.31666666666667,
+      "lon": 17.833333333333332
+    },
     "remarks": ""
   },
   {
@@ -3899,10 +5361,15 @@
     "nameWoDiacritics": "Te Puke",
     "subdivision": "BOP",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3747S 17623E",
+    "coordinates": {
+      "lat": -37.78333333333333,
+      "lon": 18.033333333333335
+    },
     "remarks": ""
   },
   {
@@ -3913,10 +5380,15 @@
     "nameWoDiacritics": "Te Puna",
     "subdivision": "BOP",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3740S 17604E",
+    "coordinates": {
+      "lat": -37.666666666666664,
+      "lon": 18
+    },
     "remarks": ""
   },
   {
@@ -3927,10 +5399,15 @@
     "nameWoDiacritics": "Te Rapa",
     "subdivision": "WKO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3745S 17513E",
+    "coordinates": {
+      "lat": -37.75,
+      "lon": 17.85
+    },
     "remarks": ""
   },
   {
@@ -3941,10 +5418,15 @@
     "nameWoDiacritics": "Temuka",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4415S 17116E",
+    "coordinates": {
+      "lat": -44.25,
+      "lon": 17.183333333333334
+    },
     "remarks": "Clandeboye"
   },
   {
@@ -3955,10 +5437,16 @@
     "nameWoDiacritics": "Thames",
     "subdivision": "WKO",
     "status": "AC",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3708S 17532E",
+    "coordinates": {
+      "lat": -37.13333333333333,
+      "lon": 17.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -3969,10 +5457,18 @@
     "nameWoDiacritics": "Timaru",
     "subdivision": "CAN",
     "status": "AC",
-    "function": "1234----",
+    "function": [
+      0,
+      1,
+      2,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4423S 17115E",
+    "coordinates": {
+      "lat": -44.38333333333333,
+      "lon": 17.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -3983,10 +5479,15 @@
     "nameWoDiacritics": "Titirangi",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "3656S 17449E",
+    "coordinates": {
+      "lat": -36.93333333333333,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -3997,10 +5498,16 @@
     "nameWoDiacritics": "Tiwai Point-Bluff Port",
     "subdivision": "STL",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4635S 16821E",
+    "coordinates": {
+      "lat": -46.583333333333336,
+      "lon": 17.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -4011,10 +5518,15 @@
     "nameWoDiacritics": "Tokoroa",
     "subdivision": "WKO",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "3814S 17552E",
+    "coordinates": {
+      "lat": -38.233333333333334,
+      "lon": 17.916666666666668
+    },
     "remarks": ""
   },
   {
@@ -4025,10 +5537,15 @@
     "nameWoDiacritics": "Tomoana",
     "subdivision": "HKB",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3937S 17651E",
+    "coordinates": {
+      "lat": -39.61666666666667,
+      "lon": 18.083333333333332
+    },
     "remarks": ""
   },
   {
@@ -4039,10 +5556,15 @@
     "nameWoDiacritics": "Torbay",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3642S 17445E",
+    "coordinates": {
+      "lat": -36.7,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -4053,10 +5575,16 @@
     "nameWoDiacritics": "Trentham",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "4108S 17502E",
+    "coordinates": {
+      "lat": -41.13333333333333,
+      "lon": 17.833333333333332
+    },
     "remarks": ""
   },
   {
@@ -4067,10 +5595,15 @@
     "nameWoDiacritics": "Tryphena",
     "subdivision": "AUK",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3618S 17529E",
+    "coordinates": {
+      "lat": -36.3,
+      "lon": 17.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -4081,10 +5614,16 @@
     "nameWoDiacritics": "Twizel",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "4415S 01706E",
+    "coordinates": {
+      "lat": -44.25,
+      "lon": 2.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -4095,10 +5634,15 @@
     "nameWoDiacritics": "Umuroa FPSO",
     "subdivision": "",
     "status": "AA",
-    "function": "------7-",
+    "function": [
+      6
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3929S 17314E",
+    "coordinates": {
+      "lat": -39.483333333333334,
+      "lon": 17.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -4109,10 +5653,15 @@
     "nameWoDiacritics": "Upper Hutt",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4107S 17504E",
+    "coordinates": {
+      "lat": -41.11666666666667,
+      "lon": 17.833333333333332
+    },
     "remarks": ""
   },
   {
@@ -4123,10 +5672,15 @@
     "nameWoDiacritics": "Wadestown",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4116S 17446E",
+    "coordinates": {
+      "lat": -41.266666666666666,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -4137,10 +5691,15 @@
     "nameWoDiacritics": "Waharoa",
     "subdivision": "WKO",
     "status": "AC",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3746S 17546E",
+    "coordinates": {
+      "lat": -37.766666666666666,
+      "lon": 17.9
+    },
     "remarks": ""
   },
   {
@@ -4151,10 +5710,17 @@
     "nameWoDiacritics": "Waiheke Island",
     "subdivision": "AUK",
     "status": "RQ",
-    "function": "1-3--6--",
+    "function": [
+      0,
+      2,
+      5
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3648S 17506E",
+    "coordinates": {
+      "lat": -36.8,
+      "lon": 17.833333333333332
+    },
     "remarks": ""
   },
   {
@@ -4165,10 +5731,15 @@
     "nameWoDiacritics": "Waihi",
     "subdivision": "BOP",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "3723S 17550E",
+    "coordinates": {
+      "lat": -37.38333333333333,
+      "lon": 17.916666666666668
+    },
     "remarks": ""
   },
   {
@@ -4179,10 +5750,15 @@
     "nameWoDiacritics": "Waikanae",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4053S 17504E",
+    "coordinates": {
+      "lat": -40.88333333333333,
+      "lon": 17.833333333333332
+    },
     "remarks": ""
   },
   {
@@ -4193,10 +5769,15 @@
     "nameWoDiacritics": "Waikari",
     "subdivision": "CAN",
     "status": "AC",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4258S 17241E",
+    "coordinates": {
+      "lat": -42.96666666666667,
+      "lon": 17.4
+    },
     "remarks": ""
   },
   {
@@ -4207,10 +5788,15 @@
     "nameWoDiacritics": "Waikawa",
     "subdivision": "STL",
     "status": "AC",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "4638S 16908E",
+    "coordinates": {
+      "lat": -46.63333333333333,
+      "lon": 17.5
+    },
     "remarks": ""
   },
   {
@@ -4221,10 +5807,15 @@
     "nameWoDiacritics": "Wainuiomata",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4116S 17457E",
+    "coordinates": {
+      "lat": -41.266666666666666,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -4235,10 +5826,16 @@
     "nameWoDiacritics": "Waiouru",
     "subdivision": "MWT",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3928S 17540E",
+    "coordinates": {
+      "lat": -39.46666666666667,
+      "lon": 17.9
+    },
     "remarks": ""
   },
   {
@@ -4249,10 +5846,15 @@
     "nameWoDiacritics": "Waipara",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "4304S 17245E",
+    "coordinates": {
+      "lat": -43.06666666666667,
+      "lon": 17.4
+    },
     "remarks": ""
   },
   {
@@ -4263,10 +5865,15 @@
     "nameWoDiacritics": "Waipawa",
     "subdivision": "HKB",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "4124S 17530E",
+    "coordinates": {
+      "lat": -41.4,
+      "lon": 17.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -4277,10 +5884,15 @@
     "nameWoDiacritics": "Waipu",
     "subdivision": "NTL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3559S 17427E",
+    "coordinates": {
+      "lat": -35.983333333333334,
+      "lon": 17.7
+    },
     "remarks": ""
   },
   {
@@ -4291,10 +5903,15 @@
     "nameWoDiacritics": "Waipukurau",
     "subdivision": "HKB",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4000S 17634E",
+    "coordinates": {
+      "lat": -40,
+      "lon": 18.05
+    },
     "remarks": ""
   },
   {
@@ -4305,10 +5922,15 @@
     "nameWoDiacritics": "Wairau Valley",
     "subdivision": "MBH",
     "status": "AC",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4134S 17332E",
+    "coordinates": {
+      "lat": -41.56666666666667,
+      "lon": 17.55
+    },
     "remarks": ""
   },
   {
@@ -4319,10 +5941,16 @@
     "nameWoDiacritics": "Wairoa",
     "subdivision": "HKB",
     "status": "AC",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3902S 17722E",
+    "coordinates": {
+      "lat": -39.03333333333333,
+      "lon": 18.2
+    },
     "remarks": ""
   },
   {
@@ -4333,10 +5961,15 @@
     "nameWoDiacritics": "Waitakere",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "3651S 17433E",
+    "coordinates": {
+      "lat": -36.85,
+      "lon": 17.716666666666665
+    },
     "remarks": ""
   },
   {
@@ -4347,10 +5980,15 @@
     "nameWoDiacritics": "Waitaki",
     "subdivision": "CAN",
     "status": "AC",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4456S 17106E",
+    "coordinates": {
+      "lat": -44.93333333333333,
+      "lon": 17.166666666666668
+    },
     "remarks": ""
   },
   {
@@ -4361,10 +5999,15 @@
     "nameWoDiacritics": "Waitangi",
     "subdivision": "NTL",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3515S 17405E",
+    "coordinates": {
+      "lat": -35.25,
+      "lon": 17.666666666666668
+    },
     "remarks": ""
   },
   {
@@ -4375,10 +6018,15 @@
     "nameWoDiacritics": "Waitara",
     "subdivision": "TKI",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3900S 17413E",
+    "coordinates": {
+      "lat": -39,
+      "lon": 17.683333333333334
+    },
     "remarks": ""
   },
   {
@@ -4389,10 +6037,15 @@
     "nameWoDiacritics": "Waitoa",
     "subdivision": "WKO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -4403,10 +6056,15 @@
     "nameWoDiacritics": "Waitotara",
     "subdivision": "MWT",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "3948S 17443E",
+    "coordinates": {
+      "lat": -39.8,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -4417,10 +6075,15 @@
     "nameWoDiacritics": "Waiuku",
     "subdivision": "AUK",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3714S 17443E",
+    "coordinates": {
+      "lat": -37.233333333333334,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -4431,10 +6094,15 @@
     "nameWoDiacritics": "Wallaceville",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "4108S 17503E",
+    "coordinates": {
+      "lat": -41.13333333333333,
+      "lon": 17.833333333333332
+    },
     "remarks": ""
   },
   {
@@ -4445,10 +6113,15 @@
     "nameWoDiacritics": "Wanaka",
     "subdivision": "OTA",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "4442S 16909E",
+    "coordinates": {
+      "lat": -44.7,
+      "lon": 17.5
+    },
     "remarks": ""
   },
   {
@@ -4459,10 +6132,17 @@
     "nameWoDiacritics": "Wanganui",
     "subdivision": "MWT",
     "status": "AC",
-    "function": "1-34----",
+    "function": [
+      0,
+      2,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3956S 17459E",
+    "coordinates": {
+      "lat": -39.93333333333333,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -4473,10 +6153,15 @@
     "nameWoDiacritics": "Warkworth",
     "subdivision": "AUK",
     "status": "AC",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3624S 17440E",
+    "coordinates": {
+      "lat": -36.4,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -4487,10 +6172,15 @@
     "nameWoDiacritics": "Washdyke",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "4421S 17140E",
+    "coordinates": {
+      "lat": -44.35,
+      "lon": 17.233333333333334
+    },
     "remarks": ""
   },
   {
@@ -4501,10 +6191,15 @@
     "nameWoDiacritics": "Waverley",
     "subdivision": "TKI",
     "status": "AC",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3946S 17438E",
+    "coordinates": {
+      "lat": -39.766666666666666,
+      "lon": 17.716666666666665
+    },
     "remarks": ""
   },
   {
@@ -4515,10 +6210,18 @@
     "nameWoDiacritics": "Wellington",
     "subdivision": "WGN",
     "status": "AC",
-    "function": "1234----",
+    "function": [
+      0,
+      1,
+      2,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4116S 17447E",
+    "coordinates": {
+      "lat": -41.266666666666666,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -4529,10 +6232,15 @@
     "nameWoDiacritics": "Wellsford",
     "subdivision": "NTL",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3617S 17431E",
+    "coordinates": {
+      "lat": -36.28333333333333,
+      "lon": 17.716666666666665
+    },
     "remarks": ""
   },
   {
@@ -4543,10 +6251,15 @@
     "nameWoDiacritics": "Western Springs",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "3652S 17444E",
+    "coordinates": {
+      "lat": -36.86666666666667,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -4557,10 +6270,17 @@
     "nameWoDiacritics": "Westport",
     "subdivision": "WTC",
     "status": "AC",
-    "function": "1-34----",
+    "function": [
+      0,
+      2,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4144S 17135E",
+    "coordinates": {
+      "lat": -41.733333333333334,
+      "lon": 17.216666666666665
+    },
     "remarks": ""
   },
   {
@@ -4571,10 +6291,15 @@
     "nameWoDiacritics": "Weymouth",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "3702S 17452E",
+    "coordinates": {
+      "lat": -37.03333333333333,
+      "lon": 17.75
+    },
     "remarks": ""
   },
   {
@@ -4585,10 +6310,15 @@
     "nameWoDiacritics": "Whakamaru",
     "subdivision": "WGN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "3825S 17548E",
+    "coordinates": {
+      "lat": -38.416666666666664,
+      "lon": 17.9
+    },
     "remarks": ""
   },
   {
@@ -4599,10 +6329,15 @@
     "nameWoDiacritics": "Whakatane",
     "subdivision": "BOP",
     "status": "AC",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -4613,10 +6348,15 @@
     "nameWoDiacritics": "Whakatu",
     "subdivision": "HKB",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "3936S 17653E",
+    "coordinates": {
+      "lat": -39.6,
+      "lon": 18.083333333333332
+    },
     "remarks": ""
   },
   {
@@ -4627,10 +6367,15 @@
     "nameWoDiacritics": "Whangaparaoa",
     "subdivision": "AUK",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "3638S 17446E",
+    "coordinates": {
+      "lat": -36.63333333333333,
+      "lon": 17.733333333333334
+    },
     "remarks": ""
   },
   {
@@ -4641,10 +6386,15 @@
     "nameWoDiacritics": "Whangaparapara",
     "subdivision": "AUK",
     "status": "AC",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3614S 17523E",
+    "coordinates": {
+      "lat": -36.233333333333334,
+      "lon": 17.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -4655,10 +6405,17 @@
     "nameWoDiacritics": "Whangarei",
     "subdivision": "NTL",
     "status": "AC",
-    "function": "1-34----",
+    "function": [
+      0,
+      2,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3550S 17429E",
+    "coordinates": {
+      "lat": -35.833333333333336,
+      "lon": 17.7
+    },
     "remarks": ""
   },
   {
@@ -4669,10 +6426,16 @@
     "nameWoDiacritics": "Whangaroa",
     "subdivision": "NTL",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3502S 17345E",
+    "coordinates": {
+      "lat": -35.03333333333333,
+      "lon": 17.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -4683,10 +6446,15 @@
     "nameWoDiacritics": "Whekenui",
     "subdivision": "MBH",
     "status": "AC",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4111S 17418E",
+    "coordinates": {
+      "lat": -41.18333333333333,
+      "lon": 17.683333333333334
+    },
     "remarks": ""
   },
   {
@@ -4697,10 +6465,15 @@
     "nameWoDiacritics": "Whenuapai",
     "subdivision": "AUK",
     "status": "RQ",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9709",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -4711,10 +6484,15 @@
     "nameWoDiacritics": "White Island",
     "subdivision": "BOP",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3732S 17711E",
+    "coordinates": {
+      "lat": -37.53333333333333,
+      "lon": 18.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -4725,10 +6503,15 @@
     "nameWoDiacritics": "Whitianga",
     "subdivision": "WKO",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "3650S 17542E",
+    "coordinates": {
+      "lat": -36.833333333333336,
+      "lon": 17.9
+    },
     "remarks": ""
   },
   {
@@ -4739,10 +6522,15 @@
     "nameWoDiacritics": "Winton",
     "subdivision": "STL",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "4608S 16819E",
+    "coordinates": {
+      "lat": -46.13333333333333,
+      "lon": 17.35
+    },
     "remarks": ""
   },
   {
@@ -4753,10 +6541,15 @@
     "nameWoDiacritics": "Wiri",
     "subdivision": "AUK",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "8909",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -4767,10 +6560,15 @@
     "nameWoDiacritics": "Woolston",
     "subdivision": "CAN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "4333S 17241E",
+    "coordinates": {
+      "lat": -43.55,
+      "lon": 17.4
+    },
     "remarks": ""
   },
   {
@@ -4781,10 +6579,15 @@
     "nameWoDiacritics": "Wyndham",
     "subdivision": "STL",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "4619S 16851E",
+    "coordinates": {
+      "lat": -46.31666666666667,
+      "lon": 17.416666666666668
+    },
     "remarks": ""
   }
 ]

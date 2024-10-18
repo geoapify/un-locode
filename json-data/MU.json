@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Albion",
     "subdivision": "BL",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "2012S 05724E",
+    "coordinates": {
+      "lat": -20.2,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,15 @@
     "nameWoDiacritics": "Arsenal",
     "subdivision": "PA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2006S 05732E",
+    "coordinates": {
+      "lat": -20.1,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -49,10 +62,15 @@
     "nameWoDiacritics": "Baie-du-Tombeau",
     "subdivision": "PA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "2006S 05730E",
+    "coordinates": {
+      "lat": -20.1,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -63,10 +81,15 @@
     "nameWoDiacritics": "Bambous",
     "subdivision": "AG",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -77,10 +100,15 @@
     "nameWoDiacritics": "Beau Bassin",
     "subdivision": "PW",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "2013S 05727E",
+    "coordinates": {
+      "lat": -20.216666666666665,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -91,10 +119,15 @@
     "nameWoDiacritics": "Beau Plan",
     "subdivision": "PA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "2005S 05734E",
+    "coordinates": {
+      "lat": -20.083333333333332,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -105,10 +138,15 @@
     "nameWoDiacritics": "Beau Vallon",
     "subdivision": "GP",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2021S 05741E",
+    "coordinates": {
+      "lat": -20.35,
+      "lon": 6.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -119,10 +157,15 @@
     "nameWoDiacritics": "Bel Air",
     "subdivision": "FL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "2015S 05744E",
+    "coordinates": {
+      "lat": -20.25,
+      "lon": 6.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -133,10 +176,15 @@
     "nameWoDiacritics": "Bel Ombre",
     "subdivision": "SA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "2030S 05724E",
+    "coordinates": {
+      "lat": -20.5,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -147,10 +195,15 @@
     "nameWoDiacritics": "Belle Mare",
     "subdivision": "FL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "2011S 05746E",
+    "coordinates": {
+      "lat": -20.183333333333334,
+      "lon": 6.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -161,10 +214,15 @@
     "nameWoDiacritics": "Belle Rose",
     "subdivision": "QB",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2015S 05743E",
+    "coordinates": {
+      "lat": -20.25,
+      "lon": 6.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -175,10 +233,15 @@
     "nameWoDiacritics": "Cap Malheureux",
     "subdivision": "RR",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1959S 05736E",
+    "coordinates": {
+      "lat": -19.983333333333334,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -189,10 +252,15 @@
     "nameWoDiacritics": "Cassis",
     "subdivision": "PL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2009S 05728E",
+    "coordinates": {
+      "lat": -20.15,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -203,10 +271,15 @@
     "nameWoDiacritics": "Centre de Flacq",
     "subdivision": "FL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "2012S 05743E",
+    "coordinates": {
+      "lat": -20.2,
+      "lon": 6.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -217,10 +290,15 @@
     "nameWoDiacritics": "Chamarel",
     "subdivision": "SA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "2025S 05723E",
+    "coordinates": {
+      "lat": -20.416666666666668,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -231,10 +309,15 @@
     "nameWoDiacritics": "Chemin Grenier",
     "subdivision": "SA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2029S 05727E",
+    "coordinates": {
+      "lat": -20.483333333333334,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -245,10 +328,15 @@
     "nameWoDiacritics": "Cloverdale",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0004",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -259,10 +347,15 @@
     "nameWoDiacritics": "Coromandel",
     "subdivision": "BR",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2010S 05727E",
+    "coordinates": {
+      "lat": -20.166666666666668,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -273,10 +366,16 @@
     "nameWoDiacritics": "Curepipe",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "9805",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -287,10 +386,15 @@
     "nameWoDiacritics": "Ebene",
     "subdivision": "",
     "status": "RQ",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1007",
     "iata": "",
-    "coordinates": "2014S 05747E",
+    "coordinates": {
+      "lat": -20.233333333333334,
+      "lon": 6.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -301,10 +405,15 @@
     "nameWoDiacritics": "Flic en Flac",
     "subdivision": "BL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "2016S 05721E",
+    "coordinates": {
+      "lat": -20.266666666666666,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -315,10 +424,15 @@
     "nameWoDiacritics": "Fond du Sac",
     "subdivision": "PA",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "2002S 05734E",
+    "coordinates": {
+      "lat": -20.033333333333335,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -329,10 +443,15 @@
     "nameWoDiacritics": "Forest Side",
     "subdivision": "PW",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2019S 05731E",
+    "coordinates": {
+      "lat": -20.316666666666666,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -343,10 +462,15 @@
     "nameWoDiacritics": "Goodlands",
     "subdivision": "RR",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "2002S 05738E",
+    "coordinates": {
+      "lat": -20.033333333333335,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -357,10 +481,15 @@
     "nameWoDiacritics": "Grand Baie",
     "subdivision": "PA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "2000S 05734E",
+    "coordinates": {
+      "lat": -20,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -371,10 +500,15 @@
     "nameWoDiacritics": "Grand River North West",
     "subdivision": "PL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2010S 05728E",
+    "coordinates": {
+      "lat": -20.166666666666668,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -385,10 +519,15 @@
     "nameWoDiacritics": "Grande Riviere Sud Est",
     "subdivision": "FL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2017S 05746E",
+    "coordinates": {
+      "lat": -20.283333333333335,
+      "lon": 6.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -399,10 +538,15 @@
     "nameWoDiacritics": "Gros Bois",
     "subdivision": "GP",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "2026S 05736E",
+    "coordinates": {
+      "lat": -20.433333333333334,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -413,10 +557,15 @@
     "nameWoDiacritics": "La Mivoie",
     "subdivision": "RR",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "2020S 05721E",
+    "coordinates": {
+      "lat": -20.333333333333332,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -427,10 +576,15 @@
     "nameWoDiacritics": "Mahebourg",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "2024S 05741E",
+    "coordinates": {
+      "lat": -20.4,
+      "lon": 6.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -441,10 +595,15 @@
     "nameWoDiacritics": "Mapou",
     "subdivision": "RR",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "2001S 05734E",
+    "coordinates": {
+      "lat": -20.016666666666666,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -455,10 +614,15 @@
     "nameWoDiacritics": "Moka",
     "subdivision": "MO",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "2013S 05729E",
+    "coordinates": {
+      "lat": -20.216666666666665,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -469,10 +633,15 @@
     "nameWoDiacritics": "Morcellemont Saint Andre",
     "subdivision": "PU",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "2004S 05733E",
+    "coordinates": {
+      "lat": -20.066666666666666,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -483,10 +652,15 @@
     "nameWoDiacritics": "Nouvelle France",
     "subdivision": "GP",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "2022S 05733E",
+    "coordinates": {
+      "lat": -20.366666666666667,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -497,10 +671,15 @@
     "nameWoDiacritics": "Pailles",
     "subdivision": "PW",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "2011S 05728E",
+    "coordinates": {
+      "lat": -20.183333333333334,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -511,10 +690,15 @@
     "nameWoDiacritics": "Palmar",
     "subdivision": "FL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2013S 05746E",
+    "coordinates": {
+      "lat": -20.216666666666665,
+      "lon": 6.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -525,10 +709,15 @@
     "nameWoDiacritics": "Pamplemousses",
     "subdivision": "PA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "2006S 05734E",
+    "coordinates": {
+      "lat": -20.1,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -539,10 +728,15 @@
     "nameWoDiacritics": "Pereybere",
     "subdivision": "RR",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "1959S 05735E",
+    "coordinates": {
+      "lat": -19.983333333333334,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -553,10 +747,15 @@
     "nameWoDiacritics": "Petite Riviere",
     "subdivision": "BL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "2011S 05726E",
+    "coordinates": {
+      "lat": -20.183333333333334,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -567,10 +766,15 @@
     "nameWoDiacritics": "Phoenix",
     "subdivision": "PW",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "2017S 05730E",
+    "coordinates": {
+      "lat": -20.283333333333335,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -581,10 +785,15 @@
     "nameWoDiacritics": "Piton",
     "subdivision": "RR",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2005S 05737E",
+    "coordinates": {
+      "lat": -20.083333333333332,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -595,10 +804,15 @@
     "nameWoDiacritics": "Plaine Magnien",
     "subdivision": "GP",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "2025S 05739E",
+    "coordinates": {
+      "lat": -20.416666666666668,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -609,10 +823,15 @@
     "nameWoDiacritics": "Pointe aux Canonniers",
     "subdivision": "PA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "2000S 05733E",
+    "coordinates": {
+      "lat": -20,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -623,10 +842,15 @@
     "nameWoDiacritics": "Pointe aux Sables",
     "subdivision": "PU",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "2009S 05727E",
+    "coordinates": {
+      "lat": -20.15,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -637,10 +861,15 @@
     "nameWoDiacritics": "Pointe d�Esny",
     "subdivision": "GP",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "2025S 05743E",
+    "coordinates": {
+      "lat": -20.416666666666668,
+      "lon": 6.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -651,10 +880,16 @@
     "nameWoDiacritics": "Port Louis",
     "subdivision": "",
     "status": "QQ",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "8111",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -665,10 +900,16 @@
     "nameWoDiacritics": "Port Mathurin",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "1941S 06325E",
+    "coordinates": {
+      "lat": -19.683333333333334,
+      "lon": 6.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -679,10 +920,15 @@
     "nameWoDiacritics": "Poste de Flacq",
     "subdivision": "FL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "2009S 05743E",
+    "coordinates": {
+      "lat": -20.15,
+      "lon": 6.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -693,10 +939,15 @@
     "nameWoDiacritics": "Quartier Militaire",
     "subdivision": "MO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2014S 05735E",
+    "coordinates": {
+      "lat": -20.233333333333334,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -707,10 +958,15 @@
     "nameWoDiacritics": "Quatre Bornes",
     "subdivision": "PW",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "2015S 05728E",
+    "coordinates": {
+      "lat": -20.25,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -721,10 +977,15 @@
     "nameWoDiacritics": "Richeterre",
     "subdivision": "FL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "2007S 05730E",
+    "coordinates": {
+      "lat": -20.116666666666667,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -735,10 +996,15 @@
     "nameWoDiacritics": "Riviere du Rempart",
     "subdivision": "FL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "2006S 05741E",
+    "coordinates": {
+      "lat": -20.1,
+      "lon": 6.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -749,10 +1015,15 @@
     "nameWoDiacritics": "Riviere Noire",
     "subdivision": "BL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "2021S 05721E",
+    "coordinates": {
+      "lat": -20.35,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -763,10 +1034,15 @@
     "nameWoDiacritics": "Roches Brunes",
     "subdivision": "PW",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "2013S 05727E",
+    "coordinates": {
+      "lat": -20.216666666666665,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -777,10 +1053,15 @@
     "nameWoDiacritics": "Roches Noire",
     "subdivision": "RR",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "2006S 05742E",
+    "coordinates": {
+      "lat": -20.1,
+      "lon": 6.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -791,10 +1072,15 @@
     "nameWoDiacritics": "Rodrigues",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1942S 06325E",
+    "coordinates": {
+      "lat": -19.7,
+      "lon": 6.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -805,10 +1091,15 @@
     "nameWoDiacritics": "Rose Hill",
     "subdivision": "BR",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2014S 05728E",
+    "coordinates": {
+      "lat": -20.233333333333334,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -819,10 +1110,15 @@
     "nameWoDiacritics": "Saint Aubin",
     "subdivision": "SA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "2029S 05733E",
+    "coordinates": {
+      "lat": -20.483333333333334,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -833,10 +1129,15 @@
     "nameWoDiacritics": "Saint Pierre",
     "subdivision": "MO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "2013S 05731E",
+    "coordinates": {
+      "lat": -20.216666666666665,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -847,10 +1148,16 @@
     "nameWoDiacritics": "Sir Seewoosagur Ramgoolam Int Apt",
     "subdivision": "",
     "status": "AI",
-    "function": "---45---",
+    "function": [
+      3,
+      4
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "2026S 05741E",
+    "coordinates": {
+      "lat": -20.433333333333334,
+      "lon": 6.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -861,10 +1168,15 @@
     "nameWoDiacritics": "Souillac",
     "subdivision": "SA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2031S 05731E",
+    "coordinates": {
+      "lat": -20.516666666666666,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -875,10 +1187,15 @@
     "nameWoDiacritics": "Surinam",
     "subdivision": "SA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2030S 05730E",
+    "coordinates": {
+      "lat": -20.5,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -889,10 +1206,16 @@
     "nameWoDiacritics": "Tamarin",
     "subdivision": "BL",
     "status": "RL",
-    "function": "1----6--",
+    "function": [
+      0,
+      5
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "2019S 05722E",
+    "coordinates": {
+      "lat": -20.316666666666666,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -903,10 +1226,15 @@
     "nameWoDiacritics": "Terre Rouge",
     "subdivision": "PA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2007S 05731E",
+    "coordinates": {
+      "lat": -20.116666666666667,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -917,10 +1245,15 @@
     "nameWoDiacritics": "Triolet",
     "subdivision": "PA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2003S 05732E",
+    "coordinates": {
+      "lat": -20.05,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -931,10 +1264,15 @@
     "nameWoDiacritics": "Trou aux Biches",
     "subdivision": "PA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2002S 05732E",
+    "coordinates": {
+      "lat": -20.033333333333335,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -945,10 +1283,15 @@
     "nameWoDiacritics": "Trou d'eau Douce",
     "subdivision": "FL",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2014S 05746E",
+    "coordinates": {
+      "lat": -20.233333333333334,
+      "lon": 6.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -959,10 +1302,15 @@
     "nameWoDiacritics": "Tyack",
     "subdivision": "SA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2028S 05733E",
+    "coordinates": {
+      "lat": -20.466666666666665,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -973,10 +1321,15 @@
     "nameWoDiacritics": "Vacoas",
     "subdivision": "PW",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "2017S 05728E",
+    "coordinates": {
+      "lat": -20.283333333333335,
+      "lon": 6.2
+    },
     "remarks": ""
   },
   {
@@ -987,10 +1340,15 @@
     "nameWoDiacritics": "Verdun",
     "subdivision": "MO",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "2013S 05732E",
+    "coordinates": {
+      "lat": -20.216666666666665,
+      "lon": 6.216666666666667
+    },
     "remarks": ""
   }
 ]

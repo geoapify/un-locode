@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,16 @@
     "nameWoDiacritics": "Castries",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1401N 06058W",
+    "coordinates": {
+      "lat": 14.016666666666667,
+      "lon": 6.083333333333333
+    },
     "remarks": ""
   },
   {
@@ -35,10 +44,15 @@
     "nameWoDiacritics": "Cul de Sac",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9506",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -49,10 +63,15 @@
     "nameWoDiacritics": "Gros Islet",
     "subdivision": "06",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1404N 06057W",
+    "coordinates": {
+      "lat": 14.066666666666666,
+      "lon": 6.083333333333333
+    },
     "remarks": ""
   },
   {
@@ -63,10 +82,15 @@
     "nameWoDiacritics": "Hewanorra Intl  Apt",
     "subdivision": "11",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "1343N 06057W",
+    "coordinates": {
+      "lat": 13.716666666666667,
+      "lon": 6.083333333333333
+    },
     "remarks": ""
   },
   {
@@ -77,10 +101,16 @@
     "nameWoDiacritics": "Saint Lucia Apt",
     "subdivision": "",
     "status": "AI",
-    "function": "---45---",
+    "function": [
+      3,
+      4
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "1342N 06056W",
+    "coordinates": {
+      "lat": 13.7,
+      "lon": 6.083333333333333
+    },
     "remarks": ""
   },
   {
@@ -91,10 +121,15 @@
     "nameWoDiacritics": "Vieux Fort",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9506",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   }
 ]

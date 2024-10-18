@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,16 @@
     "nameWoDiacritics": "Attard",
     "subdivision": "01",
     "status": "AA",
-    "function": "--3--6--",
+    "function": [
+      2,
+      5
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3553N 01426E",
+    "coordinates": {
+      "lat": 35.88333333333333,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -35,10 +44,15 @@
     "nameWoDiacritics": "Bahar ic-Caghaq",
     "subdivision": "38",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "3556N 01427E",
+    "coordinates": {
+      "lat": 35.93333333333333,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -49,10 +63,15 @@
     "nameWoDiacritics": "Bahrija",
     "subdivision": "46",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "3553N 01420E",
+    "coordinates": {
+      "lat": 35.88333333333333,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -63,10 +82,16 @@
     "nameWoDiacritics": "Balzan",
     "subdivision": "02",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3554N 01427E",
+    "coordinates": {
+      "lat": 35.9,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -77,10 +102,15 @@
     "nameWoDiacritics": "Birgu (Vittoriosa)",
     "subdivision": "03",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3553N 01431E",
+    "coordinates": {
+      "lat": 35.88333333333333,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -91,10 +121,15 @@
     "nameWoDiacritics": "Birkirkara",
     "subdivision": "04",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3554N 01428E",
+    "coordinates": {
+      "lat": 35.9,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -105,10 +140,16 @@
     "nameWoDiacritics": "Birzebbugia",
     "subdivision": "05",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3550N 01432E",
+    "coordinates": {
+      "lat": 35.833333333333336,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -119,10 +160,16 @@
     "nameWoDiacritics": "Blata l'Bajda",
     "subdivision": "18",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -133,10 +180,15 @@
     "nameWoDiacritics": "Bormla (Cospicua)",
     "subdivision": "06",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3552N 01431E",
+    "coordinates": {
+      "lat": 35.86666666666667,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -147,10 +199,15 @@
     "nameWoDiacritics": "Bugibba",
     "subdivision": "51",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3557N 01424E",
+    "coordinates": {
+      "lat": 35.95,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -161,10 +218,15 @@
     "nameWoDiacritics": "Bur Marrad",
     "subdivision": "51",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3556N 01425E",
+    "coordinates": {
+      "lat": 35.93333333333333,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -175,10 +237,16 @@
     "nameWoDiacritics": "Cirkewwa",
     "subdivision": "",
     "status": "AS",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -189,10 +257,15 @@
     "nameWoDiacritics": "Comino",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9912",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -203,10 +276,16 @@
     "nameWoDiacritics": "Delimara",
     "subdivision": "33",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3549N 01433E",
+    "coordinates": {
+      "lat": 35.81666666666667,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -217,10 +296,15 @@
     "nameWoDiacritics": "Dingli",
     "subdivision": "07",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3551N 01422E",
+    "coordinates": {
+      "lat": 35.85,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -231,10 +315,15 @@
     "nameWoDiacritics": "Fgura",
     "subdivision": "08",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3552N 01430E",
+    "coordinates": {
+      "lat": 35.86666666666667,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -245,10 +334,15 @@
     "nameWoDiacritics": "Fleur-de-Lys",
     "subdivision": "04",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "3553N 01428E",
+    "coordinates": {
+      "lat": 35.88333333333333,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -259,10 +353,17 @@
     "nameWoDiacritics": "Floriana",
     "subdivision": "09",
     "status": "AA",
-    "function": "1-34----",
+    "function": [
+      0,
+      2,
+      3
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3553N 01430E",
+    "coordinates": {
+      "lat": 35.88333333333333,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -273,10 +374,15 @@
     "nameWoDiacritics": "Fontana",
     "subdivision": "10",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3602N 01414E",
+    "coordinates": {
+      "lat": 36.03333333333333,
+      "lon": 1.6833333333333333
+    },
     "remarks": ""
   },
   {
@@ -287,10 +393,15 @@
     "nameWoDiacritics": "Ghajnsielem",
     "subdivision": "13",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3601N 01417E",
+    "coordinates": {
+      "lat": 36.016666666666666,
+      "lon": 1.6833333333333333
+    },
     "remarks": ""
   },
   {
@@ -301,10 +412,15 @@
     "nameWoDiacritics": "Gharb",
     "subdivision": "14",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3603N 01412E",
+    "coordinates": {
+      "lat": 36.05,
+      "lon": 1.6833333333333333
+    },
     "remarks": ""
   },
   {
@@ -315,10 +431,15 @@
     "nameWoDiacritics": "Ghargur",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -329,10 +450,15 @@
     "nameWoDiacritics": "Ghasri",
     "subdivision": "16",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3603N 01413E",
+    "coordinates": {
+      "lat": 36.05,
+      "lon": 1.6833333333333333
+    },
     "remarks": ""
   },
   {
@@ -343,10 +469,15 @@
     "nameWoDiacritics": "Ghaxaq",
     "subdivision": "17",
     "status": "AA",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3550N 01431E",
+    "coordinates": {
+      "lat": 35.833333333333336,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -357,10 +488,15 @@
     "nameWoDiacritics": "Gudja",
     "subdivision": "11",
     "status": "AA",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3550N 01430E",
+    "coordinates": {
+      "lat": 35.833333333333336,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -371,10 +507,15 @@
     "nameWoDiacritics": "Gwardamanga",
     "subdivision": "41",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "3553N 01429E",
+    "coordinates": {
+      "lat": 35.88333333333333,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -385,10 +526,15 @@
     "nameWoDiacritics": "Gzira",
     "subdivision": "12",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3554N 01429E",
+    "coordinates": {
+      "lat": 35.9,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -399,10 +545,15 @@
     "nameWoDiacritics": "Hal Far",
     "subdivision": "05",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "3549N 01430E",
+    "coordinates": {
+      "lat": 35.81666666666667,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -413,10 +564,15 @@
     "nameWoDiacritics": "Hamrun",
     "subdivision": "18",
     "status": "AA",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3553N 01429E",
+    "coordinates": {
+      "lat": 35.88333333333333,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -427,10 +583,15 @@
     "nameWoDiacritics": "Il-Kappara",
     "subdivision": "49",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "3551N 01434E",
+    "coordinates": {
+      "lat": 35.85,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -441,10 +602,15 @@
     "nameWoDiacritics": "Il-Madliena",
     "subdivision": "57",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "3555N 01427E",
+    "coordinates": {
+      "lat": 35.916666666666664,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -455,10 +621,15 @@
     "nameWoDiacritics": "Is-Swatar",
     "subdivision": "23",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3553N 01428E",
+    "coordinates": {
+      "lat": 35.88333333333333,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -469,10 +640,15 @@
     "nameWoDiacritics": "Kalafrana",
     "subdivision": "05",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3549N 01432E",
+    "coordinates": {
+      "lat": 35.81666666666667,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -483,10 +659,15 @@
     "nameWoDiacritics": "Kalkara",
     "subdivision": "21",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3553N 01431E",
+    "coordinates": {
+      "lat": 35.88333333333333,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -497,10 +678,15 @@
     "nameWoDiacritics": "Kercem",
     "subdivision": "27",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3602N 01413E",
+    "coordinates": {
+      "lat": 36.03333333333333,
+      "lon": 1.6833333333333333
+    },
     "remarks": ""
   },
   {
@@ -511,10 +697,15 @@
     "nameWoDiacritics": "Kirkop",
     "subdivision": "28",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3550N 01429E",
+    "coordinates": {
+      "lat": 35.833333333333336,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -525,10 +716,15 @@
     "nameWoDiacritics": "Lija",
     "subdivision": "29",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3554N 01426E",
+    "coordinates": {
+      "lat": 35.9,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -539,10 +735,15 @@
     "nameWoDiacritics": "L-Iklin",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "3554N 01427E",
+    "coordinates": {
+      "lat": 35.9,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -553,10 +754,16 @@
     "nameWoDiacritics": "Luqa",
     "subdivision": "25",
     "status": "AA",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "1501",
     "iata": "MLA",
-    "coordinates": "3551N 01429E",
+    "coordinates": {
+      "lat": 35.85,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -567,10 +774,16 @@
     "nameWoDiacritics": "Malta Freeport Distripark",
     "subdivision": "05",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3550N 01432E",
+    "coordinates": {
+      "lat": 35.833333333333336,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -581,10 +794,15 @@
     "nameWoDiacritics": "Marsa",
     "subdivision": "31",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3552N 01429E",
+    "coordinates": {
+      "lat": 35.86666666666667,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -595,10 +813,15 @@
     "nameWoDiacritics": "Marsalforn",
     "subdivision": "65",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "3604N 01415E",
+    "coordinates": {
+      "lat": 36.06666666666667,
+      "lon": 1.6833333333333333
+    },
     "remarks": ""
   },
   {
@@ -609,10 +832,15 @@
     "nameWoDiacritics": "Marsamxett",
     "subdivision": "17",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3554N 01430E",
+    "coordinates": {
+      "lat": 35.9,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -623,10 +851,16 @@
     "nameWoDiacritics": "Marsaskala",
     "subdivision": "32",
     "status": "AA",
-    "function": "1----6--",
+    "function": [
+      0,
+      5
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3552N 01433E",
+    "coordinates": {
+      "lat": 35.86666666666667,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -637,10 +871,15 @@
     "nameWoDiacritics": "Marsaxlokk",
     "subdivision": "05",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3550N 01432E",
+    "coordinates": {
+      "lat": 35.833333333333336,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -651,10 +890,15 @@
     "nameWoDiacritics": "Mdina",
     "subdivision": "29",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3553N 01424E",
+    "coordinates": {
+      "lat": 35.88333333333333,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -665,10 +909,15 @@
     "nameWoDiacritics": "Mellieha",
     "subdivision": "34",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3557N 01421E",
+    "coordinates": {
+      "lat": 35.95,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -679,10 +928,15 @@
     "nameWoDiacritics": "Mgarr",
     "subdivision": "21",
     "status": "AA",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3555N 01422E",
+    "coordinates": {
+      "lat": 35.916666666666664,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -693,10 +947,16 @@
     "nameWoDiacritics": " Gozo\"",
     "subdivision": "\"Mgarr",
     "status": " Gozo\"",
-    "function": "11",
+    "function": [
+      0,
+      1
+    ],
     "date": "AA",
     "iata": "1-3-----",
-    "coordinates": "1501",
+    "coordinates": {
+      "lat": 15.016666666666667,
+      "lon": null
+    },
     "remarks": ""
   },
   {
@@ -707,10 +967,15 @@
     "nameWoDiacritics": "Mosta",
     "subdivision": "35",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3554N 01425E",
+    "coordinates": {
+      "lat": 35.9,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -721,10 +986,15 @@
     "nameWoDiacritics": "Mqabba",
     "subdivision": "22",
     "status": "AA",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3551N 01428E",
+    "coordinates": {
+      "lat": 35.85,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -735,10 +1005,15 @@
     "nameWoDiacritics": "Mriehel",
     "subdivision": "06",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3553N 01427E",
+    "coordinates": {
+      "lat": 35.88333333333333,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -749,10 +1024,15 @@
     "nameWoDiacritics": "Msida",
     "subdivision": "34",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3553N 01428E",
+    "coordinates": {
+      "lat": 35.88333333333333,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -763,10 +1043,15 @@
     "nameWoDiacritics": "Mtarfa",
     "subdivision": "35",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3553N 01423E",
+    "coordinates": {
+      "lat": 35.88333333333333,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -777,10 +1062,15 @@
     "nameWoDiacritics": "Munxar",
     "subdivision": "36",
     "status": "AA",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3601N 01414E",
+    "coordinates": {
+      "lat": 36.016666666666666,
+      "lon": 1.6833333333333333
+    },
     "remarks": ""
   },
   {
@@ -791,10 +1081,15 @@
     "nameWoDiacritics": "Nadur",
     "subdivision": "37",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3602N 01417E",
+    "coordinates": {
+      "lat": 36.03333333333333,
+      "lon": 1.6833333333333333
+    },
     "remarks": ""
   },
   {
@@ -805,10 +1100,15 @@
     "nameWoDiacritics": "Naxxar",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "3554N 01426E",
+    "coordinates": {
+      "lat": 35.9,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -819,10 +1119,15 @@
     "nameWoDiacritics": "Paola",
     "subdivision": "29",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3552N 01429E",
+    "coordinates": {
+      "lat": 35.86666666666667,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -833,10 +1138,15 @@
     "nameWoDiacritics": "Pembroke",
     "subdivision": "40",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3555N 01428E",
+    "coordinates": {
+      "lat": 35.916666666666664,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -847,10 +1157,15 @@
     "nameWoDiacritics": "Pieta",
     "subdivision": "41",
     "status": "AA",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3553N 01429E",
+    "coordinates": {
+      "lat": 35.88333333333333,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -861,10 +1176,15 @@
     "nameWoDiacritics": "Qala",
     "subdivision": "42",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3602N 01418E",
+    "coordinates": {
+      "lat": 36.03333333333333,
+      "lon": 1.6833333333333333
+    },
     "remarks": ""
   },
   {
@@ -875,10 +1195,15 @@
     "nameWoDiacritics": "Qormi",
     "subdivision": "43",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3552N 01428E",
+    "coordinates": {
+      "lat": 35.86666666666667,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -889,10 +1214,15 @@
     "nameWoDiacritics": "Qrendi",
     "subdivision": "44",
     "status": "AA",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3550N 01427E",
+    "coordinates": {
+      "lat": 35.833333333333336,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -903,10 +1233,15 @@
     "nameWoDiacritics": "Rabat",
     "subdivision": "45",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3552N 01423E",
+    "coordinates": {
+      "lat": 35.86666666666667,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -917,10 +1252,15 @@
     "nameWoDiacritics": "Safi",
     "subdivision": "47",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3549N 01429E",
+    "coordinates": {
+      "lat": 35.81666666666667,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -931,10 +1271,15 @@
     "nameWoDiacritics": "Saint Julians",
     "subdivision": "60",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "3555N 01429E",
+    "coordinates": {
+      "lat": 35.916666666666664,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -945,10 +1290,15 @@
     "nameWoDiacritics": "Saint Lawrence",
     "subdivision": "50",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3602N 01412E",
+    "coordinates": {
+      "lat": 36.03333333333333,
+      "lon": 1.6833333333333333
+    },
     "remarks": ""
   },
   {
@@ -959,10 +1309,15 @@
     "nameWoDiacritics": "Saint Lucia",
     "subdivision": "53",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3551N 01430E",
+    "coordinates": {
+      "lat": 35.85,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -973,10 +1328,15 @@
     "nameWoDiacritics": "Saint Paul's Bay (San Pawl il-Bahar)",
     "subdivision": "51",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3556N 01423E",
+    "coordinates": {
+      "lat": 35.93333333333333,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -987,10 +1347,15 @@
     "nameWoDiacritics": "San ?iljan (St Julian)",
     "subdivision": "48",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3555N 01429E",
+    "coordinates": {
+      "lat": 35.916666666666664,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -1001,10 +1366,16 @@
     "nameWoDiacritics": " Valletta\"",
     "subdivision": "\"San ?wann",
     "status": " Valletta\"",
-    "function": "49",
+    "function": [
+      0,
+      1
+    ],
     "date": "AA",
     "iata": "--3-----",
-    "coordinates": "1501",
+    "coordinates": {
+      "lat": 15.016666666666667,
+      "lon": null
+    },
     "remarks": ""
   },
   {
@@ -1015,10 +1386,15 @@
     "nameWoDiacritics": "Sannat",
     "subdivision": "52",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3601N 01414E",
+    "coordinates": {
+      "lat": 36.016666666666666,
+      "lon": 1.6833333333333333
+    },
     "remarks": ""
   },
   {
@@ -1029,10 +1405,15 @@
     "nameWoDiacritics": "Santa Venera",
     "subdivision": "53",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3553N 14284E",
+    "coordinates": {
+      "lat": 35.88333333333333,
+      "lon": 14.466666666666667
+    },
     "remarks": ""
   },
   {
@@ -1043,10 +1424,15 @@
     "nameWoDiacritics": "Senglea",
     "subdivision": "20",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3553N 01431E",
+    "coordinates": {
+      "lat": 35.88333333333333,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -1057,10 +1443,15 @@
     "nameWoDiacritics": "Siggiewi",
     "subdivision": "55",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3551N 01426E",
+    "coordinates": {
+      "lat": 35.85,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -1071,10 +1462,15 @@
     "nameWoDiacritics": "Sliema",
     "subdivision": "56",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3554N 01430E",
+    "coordinates": {
+      "lat": 35.9,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -1085,10 +1481,15 @@
     "nameWoDiacritics": "Swieqi",
     "subdivision": "57",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3555N 01428E",
+    "coordinates": {
+      "lat": 35.916666666666664,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -1099,10 +1500,15 @@
     "nameWoDiacritics": "Ta' l-Ibrag",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "3554N 01427E",
+    "coordinates": {
+      "lat": 35.9,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -1113,10 +1519,15 @@
     "nameWoDiacritics": "Ta' Qali",
     "subdivision": "01",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3553N 01425E",
+    "coordinates": {
+      "lat": 35.88333333333333,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -1127,10 +1538,15 @@
     "nameWoDiacritics": "Ta' Xbiex",
     "subdivision": "59",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3553N 01429E",
+    "coordinates": {
+      "lat": 35.88333333333333,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -1141,10 +1557,15 @@
     "nameWoDiacritics": "Tal-Handaq",
     "subdivision": "43",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3552N 01428E",
+    "coordinates": {
+      "lat": 35.86666666666667,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -1155,10 +1576,15 @@
     "nameWoDiacritics": "Tal-Virtu",
     "subdivision": "46",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "3552N 01423E",
+    "coordinates": {
+      "lat": 35.86666666666667,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -1169,10 +1595,15 @@
     "nameWoDiacritics": "Tarxien",
     "subdivision": "58",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3551N 01430E",
+    "coordinates": {
+      "lat": 35.85,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -1183,10 +1614,18 @@
     "nameWoDiacritics": "Valletta",
     "subdivision": "60",
     "status": "AI",
-    "function": "1--456--",
+    "function": [
+      0,
+      3,
+      4,
+      5
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3553N 01430E",
+    "coordinates": {
+      "lat": 35.88333333333333,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -1197,10 +1636,15 @@
     "nameWoDiacritics": "Victoria",
     "subdivision": "46",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3602N 01414E",
+    "coordinates": {
+      "lat": 36.03333333333333,
+      "lon": 1.6833333333333333
+    },
     "remarks": ""
   },
   {
@@ -1211,10 +1655,15 @@
     "nameWoDiacritics": "Xaghra",
     "subdivision": "61",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3603N 01415E",
+    "coordinates": {
+      "lat": 36.05,
+      "lon": 1.6833333333333333
+    },
     "remarks": ""
   },
   {
@@ -1225,10 +1674,15 @@
     "nameWoDiacritics": "Xewkija",
     "subdivision": "62",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3615N 14152E",
+    "coordinates": {
+      "lat": 36.25,
+      "lon": 14.25
+    },
     "remarks": ""
   },
   {
@@ -1239,10 +1693,15 @@
     "nameWoDiacritics": "Xghajra",
     "subdivision": "63",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3553N 01432E",
+    "coordinates": {
+      "lat": 35.88333333333333,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -1253,10 +1712,15 @@
     "nameWoDiacritics": "Zabbar",
     "subdivision": "64",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3552N 01432E",
+    "coordinates": {
+      "lat": 35.86666666666667,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -1267,10 +1731,15 @@
     "nameWoDiacritics": "Zebbug",
     "subdivision": "65",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3552N 01426E",
+    "coordinates": {
+      "lat": 35.86666666666667,
+      "lon": 1.7
+    },
     "remarks": ""
   },
   {
@@ -1281,10 +1750,16 @@
     "nameWoDiacritics": "Zejtun",
     "subdivision": "67",
     "status": "AA",
-    "function": "--3-5---",
+    "function": [
+      2,
+      4
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3551N 01432E",
+    "coordinates": {
+      "lat": 35.85,
+      "lon": 1.7166666666666668
+    },
     "remarks": ""
   },
   {
@@ -1295,10 +1770,15 @@
     "nameWoDiacritics": "Zurrieq",
     "subdivision": "68",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "3550N 01428E",
+    "coordinates": {
+      "lat": 35.833333333333336,
+      "lon": 1.7
+    },
     "remarks": ""
   }
 ]

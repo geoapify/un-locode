@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Actu-lum",
     "subdivision": "11",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "1339N 10033E",
+    "coordinates": {
+      "lat": 13.65,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,15 @@
     "nameWoDiacritics": "Amnat Charoen",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -49,10 +62,15 @@
     "nameWoDiacritics": "Ang Thong",
     "subdivision": "15",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "1435N 10027E",
+    "coordinates": {
+      "lat": 14.583333333333334,
+      "lon": 10.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -63,10 +81,15 @@
     "nameWoDiacritics": "Aranyaprathet",
     "subdivision": "27",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1340N 10233E",
+    "coordinates": {
+      "lat": 13.666666666666666,
+      "lon": 10.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -77,10 +100,15 @@
     "nameWoDiacritics": "Ayutthaya",
     "subdivision": "10",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1420N 10032E",
+    "coordinates": {
+      "lat": 14.333333333333334,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -91,10 +119,15 @@
     "nameWoDiacritics": "Ban Don",
     "subdivision": "84",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "0911N 09922E",
+    "coordinates": {
+      "lat": 9.183333333333334,
+      "lon": 10.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -105,10 +138,16 @@
     "nameWoDiacritics": "Ban Kantang",
     "subdivision": "92",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "0725N 09930E",
+    "coordinates": {
+      "lat": 7.416666666666667,
+      "lon": 10.55
+    },
     "remarks": ""
   },
   {
@@ -119,10 +158,15 @@
     "nameWoDiacritics": "Ban Khai",
     "subdivision": "21",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "0941N 10003E",
+    "coordinates": {
+      "lat": 9.683333333333334,
+      "lon": 10
+    },
     "remarks": ""
   },
   {
@@ -133,10 +177,15 @@
     "nameWoDiacritics": "Ban Laem",
     "subdivision": "76",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "1307N 10007E",
+    "coordinates": {
+      "lat": 13.116666666666667,
+      "lon": 10
+    },
     "remarks": ""
   },
   {
@@ -147,10 +196,17 @@
     "nameWoDiacritics": "Ban Pong",
     "subdivision": "",
     "status": "RQ",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "0501",
     "iata": "",
-    "coordinates": "1348N 09952E",
+    "coordinates": {
+      "lat": 13.8,
+      "lon": 10.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -161,10 +217,16 @@
     "nameWoDiacritics": "Ban Prakop Customs House",
     "subdivision": "90",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "0628N 10043E",
+    "coordinates": {
+      "lat": 6.466666666666667,
+      "lon": 10.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -175,10 +237,16 @@
     "nameWoDiacritics": "Ban Talat Takua Pa",
     "subdivision": "82",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "0850N 09822E",
+    "coordinates": {
+      "lat": 8.833333333333334,
+      "lon": 10.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -189,10 +257,15 @@
     "nameWoDiacritics": "Bang Khen",
     "subdivision": "10",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "1352N 10036E",
+    "coordinates": {
+      "lat": 13.866666666666667,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -203,10 +276,15 @@
     "nameWoDiacritics": "Bang Nam Prieo",
     "subdivision": "24",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "1351N 10104E",
+    "coordinates": {
+      "lat": 13.85,
+      "lon": 10.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -217,10 +295,15 @@
     "nameWoDiacritics": "Bang Phli",
     "subdivision": "11",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "1336N 10043E",
+    "coordinates": {
+      "lat": 13.6,
+      "lon": 10.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -231,10 +314,16 @@
     "nameWoDiacritics": "Bang Rak",
     "subdivision": "10",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0501",
     "iata": "",
-    "coordinates": "1344N 10032E",
+    "coordinates": {
+      "lat": 13.733333333333333,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -245,10 +334,17 @@
     "nameWoDiacritics": "Bang Saphan",
     "subdivision": "",
     "status": "RL",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "1112N 09931E",
+    "coordinates": {
+      "lat": 11.2,
+      "lon": 10.55
+    },
     "remarks": ""
   },
   {
@@ -259,10 +355,19 @@
     "nameWoDiacritics": "Bangkok",
     "subdivision": "10",
     "status": "AI",
-    "function": "12345---",
+    "function": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "1345N 10031E",
+    "coordinates": {
+      "lat": 13.75,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -273,10 +378,16 @@
     "nameWoDiacritics": "Bangkok Modern Terminals/Bangkok",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "1336N 10035E",
+    "coordinates": {
+      "lat": 13.6,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -287,10 +398,15 @@
     "nameWoDiacritics": "Bangnara",
     "subdivision": "96",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "0626N 10150E",
+    "coordinates": {
+      "lat": 6.433333333333334,
+      "lon": 10.25
+    },
     "remarks": ""
   },
   {
@@ -301,10 +417,15 @@
     "nameWoDiacritics": "Bangpakong Terminal",
     "subdivision": "24",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1328N 10059E",
+    "coordinates": {
+      "lat": 13.466666666666667,
+      "lon": 10.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -315,10 +436,16 @@
     "nameWoDiacritics": "Bangpoomai",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "1330N 10036E",
+    "coordinates": {
+      "lat": 13.5,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -329,10 +456,16 @@
     "nameWoDiacritics": "Bangsu",
     "subdivision": "10",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "1348N 10013E",
+    "coordinates": {
+      "lat": 13.8,
+      "lon": 10.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -343,10 +476,15 @@
     "nameWoDiacritics": "Benchamas",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0907",
     "iata": "",
-    "coordinates": "1031N 10119E",
+    "coordinates": {
+      "lat": 10.516666666666667,
+      "lon": 10.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -357,10 +495,15 @@
     "nameWoDiacritics": "Betong",
     "subdivision": "95",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "0546N 10104E",
+    "coordinates": {
+      "lat": 5.766666666666667,
+      "lon": 10.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -371,10 +514,15 @@
     "nameWoDiacritics": "Bueng Kan Customs House",
     "subdivision": "38",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1822N 10337E",
+    "coordinates": {
+      "lat": 18.366666666666667,
+      "lon": 10.55
+    },
     "remarks": ""
   },
   {
@@ -385,10 +533,15 @@
     "nameWoDiacritics": "Buketa Customs House",
     "subdivision": "96",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "0550N 10153E",
+    "coordinates": {
+      "lat": 5.833333333333333,
+      "lon": 10.25
+    },
     "remarks": ""
   },
   {
@@ -399,10 +552,15 @@
     "nameWoDiacritics": "Buri Ram Apt",
     "subdivision": "31",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1514N 10315E",
+    "coordinates": {
+      "lat": 15.233333333333333,
+      "lon": 10.516666666666667
+    },
     "remarks": ""
   },
   {
@@ -413,10 +571,15 @@
     "nameWoDiacritics": "Chachoengsao",
     "subdivision": "24",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "1342N 10105E",
+    "coordinates": {
+      "lat": 13.7,
+      "lon": 10.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -427,10 +590,15 @@
     "nameWoDiacritics": "Chai Nat",
     "subdivision": "35",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1510N 10007E",
+    "coordinates": {
+      "lat": 15.166666666666666,
+      "lon": 10
+    },
     "remarks": ""
   },
   {
@@ -441,10 +609,15 @@
     "nameWoDiacritics": "Chaiyaphum",
     "subdivision": "22",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1547N 10202E",
+    "coordinates": {
+      "lat": 15.783333333333333,
+      "lon": 10.333333333333334
+    },
     "remarks": ""
   },
   {
@@ -455,10 +628,15 @@
     "nameWoDiacritics": "Chanthaburi",
     "subdivision": "22",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "1218N 10214E",
+    "coordinates": {
+      "lat": 12.3,
+      "lon": 10.35
+    },
     "remarks": ""
   },
   {
@@ -469,10 +647,15 @@
     "nameWoDiacritics": "Chiang Dao Customs House",
     "subdivision": "50",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1923N 09858E",
+    "coordinates": {
+      "lat": 19.383333333333333,
+      "lon": 10.416666666666666
+    },
     "remarks": ""
   },
   {
@@ -483,10 +666,15 @@
     "nameWoDiacritics": "Chiang Khan Customs House",
     "subdivision": "42",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1754N 10140E",
+    "coordinates": {
+      "lat": 17.9,
+      "lon": 10.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -497,10 +685,15 @@
     "nameWoDiacritics": "Chiang Khong Customs House",
     "subdivision": "57",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "2016N 10022E",
+    "coordinates": {
+      "lat": 20.266666666666666,
+      "lon": 10.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -511,10 +704,15 @@
     "nameWoDiacritics": "Chiang Mai International Apt",
     "subdivision": "50",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1846N 09858E",
+    "coordinates": {
+      "lat": 18.766666666666666,
+      "lon": 10.416666666666666
+    },
     "remarks": ""
   },
   {
@@ -525,10 +723,16 @@
     "nameWoDiacritics": "Chiang Saen Customs House",
     "subdivision": "57",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "2019N 10004E",
+    "coordinates": {
+      "lat": 20.316666666666666,
+      "lon": 10
+    },
     "remarks": ""
   },
   {
@@ -539,10 +743,15 @@
     "nameWoDiacritics": "Chon Buri",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9901",
     "iata": "QHI",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -553,10 +762,15 @@
     "nameWoDiacritics": "Chonburi",
     "subdivision": "",
     "status": "RQ",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1322N 10059E",
+    "coordinates": {
+      "lat": 13.366666666666667,
+      "lon": 10.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -567,10 +781,15 @@
     "nameWoDiacritics": "Chong Chom Customs House",
     "subdivision": "32",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1427N 10341E",
+    "coordinates": {
+      "lat": 14.45,
+      "lon": 10.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -581,10 +800,15 @@
     "nameWoDiacritics": "Chong Mek Customs House",
     "subdivision": "34",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1508N 10528E",
+    "coordinates": {
+      "lat": 15.133333333333333,
+      "lon": 10.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -595,10 +819,16 @@
     "nameWoDiacritics": "Chumphon",
     "subdivision": "86",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "1026N 09916E",
+    "coordinates": {
+      "lat": 10.433333333333334,
+      "lon": 10.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -609,10 +839,15 @@
     "nameWoDiacritics": "Chumphon Apt",
     "subdivision": "86",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1043N 09922E",
+    "coordinates": {
+      "lat": 10.716666666666667,
+      "lon": 10.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -623,10 +858,15 @@
     "nameWoDiacritics": "Don Mueang International Apt",
     "subdivision": "10",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1355N 10036E",
+    "coordinates": {
+      "lat": 13.916666666666666,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -637,10 +877,15 @@
     "nameWoDiacritics": "Ekachai Container Terminal",
     "subdivision": "74",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "1335N 10019E",
+    "coordinates": {
+      "lat": 13.583333333333334,
+      "lon": 10.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -651,10 +896,15 @@
     "nameWoDiacritics": "Erawan",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0907",
     "iata": "",
-    "coordinates": "0904N 10124E",
+    "coordinates": {
+      "lat": 9.066666666666666,
+      "lon": 10.2
+    },
     "remarks": ""
   },
   {
@@ -665,10 +915,15 @@
     "nameWoDiacritics": "Hat Yai International Apt",
     "subdivision": "90",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "0656N 10024E",
+    "coordinates": {
+      "lat": 6.933333333333334,
+      "lon": 10.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -679,10 +934,15 @@
     "nameWoDiacritics": "Hoping",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "2416N 12144E",
+    "coordinates": {
+      "lat": 24.266666666666666,
+      "lon": 12.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -693,10 +953,15 @@
     "nameWoDiacritics": "Hua Hin Apt",
     "subdivision": "77",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1238N 09957E",
+    "coordinates": {
+      "lat": 12.633333333333333,
+      "lon": 10.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -707,10 +972,15 @@
     "nameWoDiacritics": "Kabin Buri",
     "subdivision": "25",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "1359N 10143E",
+    "coordinates": {
+      "lat": 13.983333333333333,
+      "lon": 10.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -721,10 +991,15 @@
     "nameWoDiacritics": "Kalasin",
     "subdivision": "46",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "1625N 10330E",
+    "coordinates": {
+      "lat": 16.416666666666668,
+      "lon": 10.55
+    },
     "remarks": ""
   },
   {
@@ -735,10 +1010,16 @@
     "nameWoDiacritics": "Kamphaeng Phet",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "1628N 09931E",
+    "coordinates": {
+      "lat": 16.466666666666665,
+      "lon": 10.55
+    },
     "remarks": ""
   },
   {
@@ -749,10 +1030,15 @@
     "nameWoDiacritics": "Kamphaeng Saen",
     "subdivision": "73",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1400N 10000E",
+    "coordinates": {
+      "lat": 14,
+      "lon": 10
+    },
     "remarks": ""
   },
   {
@@ -763,10 +1049,15 @@
     "nameWoDiacritics": "Kamuting",
     "subdivision": "10",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -777,10 +1068,15 @@
     "nameWoDiacritics": "Kanchanaburi",
     "subdivision": "71",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1401N 09931E",
+    "coordinates": {
+      "lat": 14.016666666666667,
+      "lon": 10.55
+    },
     "remarks": ""
   },
   {
@@ -791,10 +1087,17 @@
     "nameWoDiacritics": "Kantang",
     "subdivision": "92",
     "status": "AA",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "0724N 09931E",
+    "coordinates": {
+      "lat": 7.4,
+      "lon": 10.55
+    },
     "remarks": ""
   },
   {
@@ -805,10 +1108,15 @@
     "nameWoDiacritics": "Khanom",
     "subdivision": "80",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "0912N 09953E",
+    "coordinates": {
+      "lat": 9.2,
+      "lon": 10.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -819,10 +1127,15 @@
     "nameWoDiacritics": "Khemarat Customs House",
     "subdivision": "34",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1602N 10512E",
+    "coordinates": {
+      "lat": 16.033333333333335,
+      "lon": 10.85
+    },
     "remarks": ""
   },
   {
@@ -833,10 +1146,15 @@
     "nameWoDiacritics": "Khlong Luang Truck Terminal",
     "subdivision": "13",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1405N 10042E",
+    "coordinates": {
+      "lat": 14.083333333333334,
+      "lon": 10.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -847,10 +1165,16 @@
     "nameWoDiacritics": "Khlong Yai",
     "subdivision": "23",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1146N 10254E",
+    "coordinates": {
+      "lat": 11.766666666666667,
+      "lon": 10.416666666666666
+    },
     "remarks": ""
   },
   {
@@ -861,10 +1185,15 @@
     "nameWoDiacritics": "Khok Kathiam Apt",
     "subdivision": "16",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1452N 10040E",
+    "coordinates": {
+      "lat": 14.866666666666667,
+      "lon": 10.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -875,10 +1204,15 @@
     "nameWoDiacritics": "Khon Buri",
     "subdivision": "30",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1007",
     "iata": "",
-    "coordinates": "1431N 10215E",
+    "coordinates": {
+      "lat": 14.516666666666667,
+      "lon": 10.35
+    },
     "remarks": ""
   },
   {
@@ -889,10 +1223,18 @@
     "nameWoDiacritics": "Khon Kaen",
     "subdivision": "40",
     "status": "AI",
-    "function": "-234-6--",
+    "function": [
+      1,
+      2,
+      3,
+      5
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "1626N 10250E",
+    "coordinates": {
+      "lat": 16.433333333333334,
+      "lon": 10.416666666666666
+    },
     "remarks": ""
   },
   {
@@ -903,10 +1245,15 @@
     "nameWoDiacritics": "Ko Lanta",
     "subdivision": "81",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "0803N 09854E",
+    "coordinates": {
+      "lat": 8.05,
+      "lon": 10.416666666666666
+    },
     "remarks": ""
   },
   {
@@ -917,10 +1264,15 @@
     "nameWoDiacritics": "Ko Samui",
     "subdivision": "84",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "0932N 09956E",
+    "coordinates": {
+      "lat": 9.533333333333333,
+      "lon": 10.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -931,10 +1283,15 @@
     "nameWoDiacritics": "Ko Sichang",
     "subdivision": "20",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "1308N 10049E",
+    "coordinates": {
+      "lat": 13.133333333333333,
+      "lon": 10.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -945,10 +1302,15 @@
     "nameWoDiacritics": "Ko Yao",
     "subdivision": "82",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "0754N 09836E",
+    "coordinates": {
+      "lat": 7.9,
+      "lon": 10.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -959,10 +1321,15 @@
     "nameWoDiacritics": "Krabi",
     "subdivision": "81",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0804N 09844E",
+    "coordinates": {
+      "lat": 8.066666666666666,
+      "lon": 10.4
+    },
     "remarks": ""
   },
   {
@@ -973,10 +1340,15 @@
     "nameWoDiacritics": "Krabi Apt",
     "subdivision": "81",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0806N 09859E",
+    "coordinates": {
+      "lat": 8.1,
+      "lon": 10.416666666666666
+    },
     "remarks": ""
   },
   {
@@ -987,10 +1359,15 @@
     "nameWoDiacritics": "Krathum Baen",
     "subdivision": "74",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "1339N 10016E",
+    "coordinates": {
+      "lat": 13.65,
+      "lon": 10.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -1001,10 +1378,16 @@
     "nameWoDiacritics": "Laem Chabang",
     "subdivision": "20",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1305N 10053E",
+    "coordinates": {
+      "lat": 13.083333333333334,
+      "lon": 10.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -1015,10 +1398,15 @@
     "nameWoDiacritics": "Lampang Apt",
     "subdivision": "52",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1816N 09930E",
+    "coordinates": {
+      "lat": 18.266666666666666,
+      "lon": 10.55
+    },
     "remarks": ""
   },
   {
@@ -1029,10 +1417,15 @@
     "nameWoDiacritics": "Lamphun",
     "subdivision": "51",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1835N 09901E",
+    "coordinates": {
+      "lat": 18.583333333333332,
+      "lon": 10.5
+    },
     "remarks": ""
   },
   {
@@ -1043,10 +1436,15 @@
     "nameWoDiacritics": "Lang Suan",
     "subdivision": "86",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "0957N 09909E",
+    "coordinates": {
+      "lat": 9.95,
+      "lon": 10.5
+    },
     "remarks": ""
   },
   {
@@ -1057,10 +1455,17 @@
     "nameWoDiacritics": "Lat Krabang",
     "subdivision": "10",
     "status": "AA",
-    "function": "-23--6--",
+    "function": [
+      1,
+      2,
+      5
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1345N 10046E",
+    "coordinates": {
+      "lat": 13.75,
+      "lon": 10.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1071,10 +1476,15 @@
     "nameWoDiacritics": "Loei Apt",
     "subdivision": "42",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1726N 10143E",
+    "coordinates": {
+      "lat": 17.433333333333334,
+      "lon": 10.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -1085,10 +1495,15 @@
     "nameWoDiacritics": "Mae Fah Luang - Chiang Rai International Apt",
     "subdivision": "57",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1957N 09953E",
+    "coordinates": {
+      "lat": 19.95,
+      "lon": 10.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -1099,10 +1514,15 @@
     "nameWoDiacritics": "Mae Hong Son Apt",
     "subdivision": "58",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1918N 09759E",
+    "coordinates": {
+      "lat": 19.3,
+      "lon": 10.25
+    },
     "remarks": ""
   },
   {
@@ -1113,10 +1533,15 @@
     "nameWoDiacritics": "Mae Klong",
     "subdivision": "75",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "1322N 09959E",
+    "coordinates": {
+      "lat": 13.366666666666667,
+      "lon": 10.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -1127,10 +1552,15 @@
     "nameWoDiacritics": "Mae Sai Customs House",
     "subdivision": "57",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2027N 09953E",
+    "coordinates": {
+      "lat": 20.45,
+      "lon": 10.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -1141,10 +1571,15 @@
     "nameWoDiacritics": "Mae Sariang Customs House",
     "subdivision": "58",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1810N 09757E",
+    "coordinates": {
+      "lat": 18.166666666666668,
+      "lon": 10.25
+    },
     "remarks": ""
   },
   {
@@ -1155,10 +1590,15 @@
     "nameWoDiacritics": "Mae Sot Apt",
     "subdivision": "63",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1642N 09833E",
+    "coordinates": {
+      "lat": 16.7,
+      "lon": 10.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -1169,10 +1609,15 @@
     "nameWoDiacritics": "Mae Sot Customs House",
     "subdivision": "63",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1642N 09831E",
+    "coordinates": {
+      "lat": 16.7,
+      "lon": 10.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -1183,10 +1628,15 @@
     "nameWoDiacritics": "Maha Sarakham",
     "subdivision": "22",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1611N 10318E",
+    "coordinates": {
+      "lat": 16.183333333333334,
+      "lon": 10.516666666666667
+    },
     "remarks": ""
   },
   {
@@ -1197,10 +1647,16 @@
     "nameWoDiacritics": "Map Ta Phut",
     "subdivision": "21",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "1239N 10118E",
+    "coordinates": {
+      "lat": 12.65,
+      "lon": 10.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -1211,10 +1667,15 @@
     "nameWoDiacritics": "Min Buri",
     "subdivision": "10",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1349N 10044E",
+    "coordinates": {
+      "lat": 13.816666666666666,
+      "lon": 10.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1225,10 +1686,15 @@
     "nameWoDiacritics": "Mukdahan",
     "subdivision": "21",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1632N 10443E",
+    "coordinates": {
+      "lat": 16.533333333333335,
+      "lon": 10.733333333333333
+    },
     "remarks": ""
   },
   {
@@ -1239,10 +1705,15 @@
     "nameWoDiacritics": "Mukdahan Customs House",
     "subdivision": "49",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1636N 10444E",
+    "coordinates": {
+      "lat": 16.6,
+      "lon": 10.733333333333333
+    },
     "remarks": ""
   },
   {
@@ -1253,10 +1724,15 @@
     "nameWoDiacritics": "Nakhon Nayok",
     "subdivision": "26",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "1412N 10112E",
+    "coordinates": {
+      "lat": 14.2,
+      "lon": 10.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -1267,10 +1743,15 @@
     "nameWoDiacritics": "Nakhon Pathom",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "1349N 10003E",
+    "coordinates": {
+      "lat": 13.816666666666666,
+      "lon": 10
+    },
     "remarks": ""
   },
   {
@@ -1281,10 +1762,15 @@
     "nameWoDiacritics": "Nakhon Phanom Apt",
     "subdivision": "48",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1723N 10439E",
+    "coordinates": {
+      "lat": 17.383333333333333,
+      "lon": 10.716666666666667
+    },
     "remarks": ""
   },
   {
@@ -1295,10 +1781,15 @@
     "nameWoDiacritics": "Nakhon Ratchasima Apt",
     "subdivision": "30",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1457N 10219E",
+    "coordinates": {
+      "lat": 14.95,
+      "lon": 10.35
+    },
     "remarks": ""
   },
   {
@@ -1309,10 +1800,16 @@
     "nameWoDiacritics": "Nakhon Sawan",
     "subdivision": "60",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "1541N 10007E",
+    "coordinates": {
+      "lat": 15.683333333333334,
+      "lon": 10
+    },
     "remarks": ""
   },
   {
@@ -1323,10 +1820,15 @@
     "nameWoDiacritics": "Nakhon Si Thammarat",
     "subdivision": "80",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "0914N 09952E",
+    "coordinates": {
+      "lat": 9.233333333333333,
+      "lon": 10.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -1337,10 +1839,15 @@
     "nameWoDiacritics": "Nakhon Si Thammarat Apt",
     "subdivision": "80",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "0832N 09957E",
+    "coordinates": {
+      "lat": 8.533333333333333,
+      "lon": 10.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -1351,10 +1858,15 @@
     "nameWoDiacritics": "Nakhon Si Thammarat Customs House",
     "subdivision": "80",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "0832N 09957E",
+    "coordinates": {
+      "lat": 8.533333333333333,
+      "lon": 10.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -1365,10 +1877,15 @@
     "nameWoDiacritics": "Nan Nakhon Apt",
     "subdivision": "55",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1848N 10047E",
+    "coordinates": {
+      "lat": 18.8,
+      "lon": 10.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1379,10 +1896,15 @@
     "nameWoDiacritics": "Narathiwat",
     "subdivision": "96",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "0625N 10149E",
+    "coordinates": {
+      "lat": 6.416666666666667,
+      "lon": 10.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -1393,10 +1915,15 @@
     "nameWoDiacritics": "Narathiwat Apt",
     "subdivision": "96",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "0631N 10145E",
+    "coordinates": {
+      "lat": 6.516666666666667,
+      "lon": 10.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -1407,10 +1934,15 @@
     "nameWoDiacritics": "NH Prosperity",
     "subdivision": "10",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1311N 10048E",
+    "coordinates": {
+      "lat": 13.183333333333334,
+      "lon": 10.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1421,10 +1953,15 @@
     "nameWoDiacritics": "Nim Port",
     "subdivision": "11",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "1336N 10034E",
+    "coordinates": {
+      "lat": 13.6,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -1435,10 +1972,15 @@
     "nameWoDiacritics": "Nong Bua Lamphu",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "1710N 10234E",
+    "coordinates": {
+      "lat": 17.166666666666668,
+      "lon": 10.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -1449,10 +1991,15 @@
     "nameWoDiacritics": "Nong Khae",
     "subdivision": "19",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "1420N 10052E",
+    "coordinates": {
+      "lat": 14.333333333333334,
+      "lon": 10.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -1463,10 +2010,15 @@
     "nameWoDiacritics": "Nong Khaem",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "1341N 10021E",
+    "coordinates": {
+      "lat": 13.683333333333334,
+      "lon": 10.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -1477,10 +2029,15 @@
     "nameWoDiacritics": "Nong Khai Customs House",
     "subdivision": "43",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1751N 10244E",
+    "coordinates": {
+      "lat": 17.85,
+      "lon": 10.4
+    },
     "remarks": ""
   },
   {
@@ -1491,10 +2048,16 @@
     "nameWoDiacritics": "Nonthaburi",
     "subdivision": "12",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0501",
     "iata": "",
-    "coordinates": "1350N 10029E",
+    "coordinates": {
+      "lat": 13.833333333333334,
+      "lon": 10.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -1505,10 +2068,16 @@
     "nameWoDiacritics": " Thailand\"",
     "subdivision": "\"Padang Besar",
     "status": " Thailand\"",
-    "function": "90",
+    "function": [
+      0,
+      1
+    ],
     "date": "AA",
     "iata": "-23-----",
-    "coordinates": "1801",
+    "coordinates": {
+      "lat": 18.016666666666666,
+      "lon": null
+    },
     "remarks": ""
   },
   {
@@ -1519,10 +2088,15 @@
     "nameWoDiacritics": "Pai",
     "subdivision": "58",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1919N 09827E",
+    "coordinates": {
+      "lat": 19.316666666666666,
+      "lon": 10.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -1533,10 +2107,15 @@
     "nameWoDiacritics": "Pai Apt",
     "subdivision": "58",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1922N 09826E",
+    "coordinates": {
+      "lat": 19.366666666666667,
+      "lon": 10.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -1547,10 +2126,16 @@
     "nameWoDiacritics": "Pak Chong",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "1441N 10125E",
+    "coordinates": {
+      "lat": 14.683333333333334,
+      "lon": 10.2
+    },
     "remarks": ""
   },
   {
@@ -1561,10 +2146,15 @@
     "nameWoDiacritics": "Pak Kret",
     "subdivision": "12",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "1355N 10030E",
+    "coordinates": {
+      "lat": 13.916666666666666,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -1575,10 +2165,15 @@
     "nameWoDiacritics": "Pak Nam",
     "subdivision": "11",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "1336N 10034E",
+    "coordinates": {
+      "lat": 13.6,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -1589,10 +2184,15 @@
     "nameWoDiacritics": "Pak Phanang",
     "subdivision": "80",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "0912N 09953E",
+    "coordinates": {
+      "lat": 9.2,
+      "lon": 10.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -1603,10 +2203,15 @@
     "nameWoDiacritics": "Pakbara",
     "subdivision": "91",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "0652N 09943E",
+    "coordinates": {
+      "lat": 6.866666666666667,
+      "lon": 10.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -1617,10 +2222,15 @@
     "nameWoDiacritics": "Pat Bangkok",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "1342N 10034E",
+    "coordinates": {
+      "lat": 13.7,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -1631,10 +2241,15 @@
     "nameWoDiacritics": "Pathum Thani",
     "subdivision": "13",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1401N 10032E",
+    "coordinates": {
+      "lat": 14.016666666666667,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -1645,10 +2260,15 @@
     "nameWoDiacritics": "Pattani",
     "subdivision": "94",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "0653N 10116E",
+    "coordinates": {
+      "lat": 6.883333333333333,
+      "lon": 10.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -1659,10 +2279,15 @@
     "nameWoDiacritics": "Pattani Apt",
     "subdivision": "94",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "0647N 10109E",
+    "coordinates": {
+      "lat": 6.783333333333333,
+      "lon": 10.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1673,10 +2298,17 @@
     "nameWoDiacritics": "Pattaya",
     "subdivision": "20",
     "status": "RQ",
-    "function": "-234----",
+    "function": [
+      1,
+      2,
+      3
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1256N 10053E",
+    "coordinates": {
+      "lat": 12.933333333333334,
+      "lon": 10.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -1687,10 +2319,16 @@
     "nameWoDiacritics": "Phahon Yothin Customs House",
     "subdivision": "10",
     "status": "AA",
-    "function": "12------",
+    "function": [
+      0,
+      1
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1348N 10032E",
+    "coordinates": {
+      "lat": 13.8,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -1701,10 +2339,15 @@
     "nameWoDiacritics": "Phan Thong",
     "subdivision": "20",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "1328N 10106E",
+    "coordinates": {
+      "lat": 13.466666666666667,
+      "lon": 10.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1715,10 +2358,15 @@
     "nameWoDiacritics": "Phang-Nga",
     "subdivision": "82",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "0824N 09831E",
+    "coordinates": {
+      "lat": 8.4,
+      "lon": 10.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -1729,10 +2377,15 @@
     "nameWoDiacritics": "Phatthalung",
     "subdivision": "93",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "0737N 10004E",
+    "coordinates": {
+      "lat": 7.616666666666667,
+      "lon": 10
+    },
     "remarks": ""
   },
   {
@@ -1743,10 +2396,15 @@
     "nameWoDiacritics": "Phayao",
     "subdivision": "56",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "1910N 09954E",
+    "coordinates": {
+      "lat": 19.166666666666668,
+      "lon": 10.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -1757,10 +2415,16 @@
     "nameWoDiacritics": "Phet Buri",
     "subdivision": "76",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "1306N 09957E",
+    "coordinates": {
+      "lat": 13.1,
+      "lon": 10.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -1771,10 +2435,15 @@
     "nameWoDiacritics": "Phetchabun",
     "subdivision": "67",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "1641N 10112E",
+    "coordinates": {
+      "lat": 16.683333333333334,
+      "lon": 10.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -1785,10 +2454,15 @@
     "nameWoDiacritics": "Phibun Mangsahan",
     "subdivision": "34",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1515N 10514E",
+    "coordinates": {
+      "lat": 15.25,
+      "lon": 10.85
+    },
     "remarks": ""
   },
   {
@@ -1799,10 +2473,15 @@
     "nameWoDiacritics": "Phichit",
     "subdivision": "66",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "1626N 10020E",
+    "coordinates": {
+      "lat": 16.433333333333334,
+      "lon": 10.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -1813,10 +2492,15 @@
     "nameWoDiacritics": "Phitsanulok Apt",
     "subdivision": "65",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1647N 10017E",
+    "coordinates": {
+      "lat": 16.783333333333335,
+      "lon": 10.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -1827,10 +2511,17 @@
     "nameWoDiacritics": "Photharam",
     "subdivision": "70",
     "status": "RL",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "0501",
     "iata": "",
-    "coordinates": "1341N 09951E",
+    "coordinates": {
+      "lat": 13.683333333333334,
+      "lon": 10.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -1841,10 +2532,16 @@
     "nameWoDiacritics": "Phra Khanong",
     "subdivision": "10",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "1342N 10036E",
+    "coordinates": {
+      "lat": 13.7,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -1855,10 +2552,15 @@
     "nameWoDiacritics": "Phra Nakhon si Ayutthaya",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1869,10 +2571,16 @@
     "nameWoDiacritics": "Phra Pradaeng",
     "subdivision": "11",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "1337N 10033E",
+    "coordinates": {
+      "lat": 13.616666666666667,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -1883,10 +2591,15 @@
     "nameWoDiacritics": "Phrae Apt",
     "subdivision": "54",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1808N 10010E",
+    "coordinates": {
+      "lat": 18.133333333333333,
+      "lon": 10.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -1897,10 +2610,15 @@
     "nameWoDiacritics": "Phuket Customs House",
     "subdivision": "83",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0752N 09824E",
+    "coordinates": {
+      "lat": 7.866666666666667,
+      "lon": 10.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -1911,10 +2629,15 @@
     "nameWoDiacritics": "Phuket International Apt",
     "subdivision": "83",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0807N 09819E",
+    "coordinates": {
+      "lat": 8.116666666666667,
+      "lon": 10.35
+    },
     "remarks": ""
   },
   {
@@ -1925,10 +2648,15 @@
     "nameWoDiacritics": "Phuket Port",
     "subdivision": "83",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0749N 09824E",
+    "coordinates": {
+      "lat": 7.816666666666666,
+      "lon": 10.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -1939,10 +2667,15 @@
     "nameWoDiacritics": "Phutthamonthon Truck Terminal",
     "subdivision": "73",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1347N 10017E",
+    "coordinates": {
+      "lat": 13.783333333333333,
+      "lon": 10.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -1953,10 +2686,15 @@
     "nameWoDiacritics": "Platong",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0907",
     "iata": "",
-    "coordinates": "0939N 10128E",
+    "coordinates": {
+      "lat": 9.65,
+      "lon": 10.2
+    },
     "remarks": ""
   },
   {
@@ -1967,10 +2705,15 @@
     "nameWoDiacritics": "Pluak Daeng",
     "subdivision": "21",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1258N 10113E",
+    "coordinates": {
+      "lat": 12.966666666666667,
+      "lon": 10.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -1981,10 +2724,15 @@
     "nameWoDiacritics": "Prachin Buri",
     "subdivision": "25",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "1403N 10122E",
+    "coordinates": {
+      "lat": 14.05,
+      "lon": 10.2
+    },
     "remarks": ""
   },
   {
@@ -1995,10 +2743,15 @@
     "nameWoDiacritics": "Prachuap Khiri Khan",
     "subdivision": "77",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1149N 09948E",
+    "coordinates": {
+      "lat": 11.816666666666666,
+      "lon": 10.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -2009,10 +2762,15 @@
     "nameWoDiacritics": "Prachuap Port",
     "subdivision": "77",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "1112N 09935E",
+    "coordinates": {
+      "lat": 11.2,
+      "lon": 10.55
+    },
     "remarks": ""
   },
   {
@@ -2023,10 +2781,15 @@
     "nameWoDiacritics": "Pran Buri",
     "subdivision": "77",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "1223N 09955E",
+    "coordinates": {
+      "lat": 12.383333333333333,
+      "lon": 10.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -2037,10 +2800,15 @@
     "nameWoDiacritics": "Ranong",
     "subdivision": "85",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "0958N 09838E",
+    "coordinates": {
+      "lat": 9.966666666666667,
+      "lon": 10.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -2051,10 +2819,15 @@
     "nameWoDiacritics": "Ranong Apt",
     "subdivision": "85",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "0947N 09835E",
+    "coordinates": {
+      "lat": 9.783333333333333,
+      "lon": 10.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -2065,10 +2838,16 @@
     "nameWoDiacritics": "Ratchaburi",
     "subdivision": "70",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0501",
     "iata": "",
-    "coordinates": "1332N 09948E",
+    "coordinates": {
+      "lat": 13.533333333333333,
+      "lon": 10.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -2079,10 +2858,15 @@
     "nameWoDiacritics": "Rayong",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0101",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2093,10 +2877,15 @@
     "nameWoDiacritics": "Roi Et Apt",
     "subdivision": "45",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1607N 10346E",
+    "coordinates": {
+      "lat": 16.116666666666667,
+      "lon": 10.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -2107,10 +2896,15 @@
     "nameWoDiacritics": "Rom Klao Truck Terminal",
     "subdivision": "10",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1344N 10046E",
+    "coordinates": {
+      "lat": 13.733333333333333,
+      "lon": 10.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -2121,10 +2915,16 @@
     "nameWoDiacritics": "Sadao Customs House",
     "subdivision": "90",
     "status": "AA",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "0633N 10025E",
+    "coordinates": {
+      "lat": 6.55,
+      "lon": 10.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -2135,10 +2935,16 @@
     "nameWoDiacritics": "Sahathai Coastal Seaport",
     "subdivision": "11",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "1339N 10032E",
+    "coordinates": {
+      "lat": 13.65,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -2149,10 +2955,15 @@
     "nameWoDiacritics": "Sakon Nakhon Apt",
     "subdivision": "47",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1712N 10407E",
+    "coordinates": {
+      "lat": 17.2,
+      "lon": 10.666666666666666
+    },
     "remarks": ""
   },
   {
@@ -2163,10 +2974,15 @@
     "nameWoDiacritics": "Sam Phran",
     "subdivision": "73",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "1343N 10013E",
+    "coordinates": {
+      "lat": 13.716666666666667,
+      "lon": 10.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -2177,10 +2993,16 @@
     "nameWoDiacritics": "Samphanthawong",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "1344N 10030E",
+    "coordinates": {
+      "lat": 13.733333333333333,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -2191,10 +3013,15 @@
     "nameWoDiacritics": "Samui Apt",
     "subdivision": "84",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "0933N 10004E",
+    "coordinates": {
+      "lat": 9.55,
+      "lon": 10
+    },
     "remarks": ""
   },
   {
@@ -2205,10 +3032,15 @@
     "nameWoDiacritics": "Samulsakom",
     "subdivision": "10",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2219,10 +3051,15 @@
     "nameWoDiacritics": "Samut Prakan",
     "subdivision": "11",
     "status": "RQ",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1336N 10036E",
+    "coordinates": {
+      "lat": 13.6,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -2233,10 +3070,16 @@
     "nameWoDiacritics": " Changwat\"",
     "subdivision": "\"Samut Sakhon",
     "status": " Changwat\"",
-    "function": "74",
+    "function": [
+      0,
+      1
+    ],
     "date": "RL",
     "iata": "-23-----",
-    "coordinates": "0407",
+    "coordinates": {
+      "lat": 4.116666666666666,
+      "lon": null
+    },
     "remarks": ""
   },
   {
@@ -2247,10 +3090,15 @@
     "nameWoDiacritics": "Samut Songkhram",
     "subdivision": "75",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "1324N 10000E",
+    "coordinates": {
+      "lat": 13.4,
+      "lon": 10
+    },
     "remarks": ""
   },
   {
@@ -2261,10 +3109,15 @@
     "nameWoDiacritics": "Samuthprakarn",
     "subdivision": "11",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "1336N 10036E",
+    "coordinates": {
+      "lat": 13.6,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -2275,10 +3128,15 @@
     "nameWoDiacritics": "Sangkhla Buri Customs House",
     "subdivision": "71",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1511N 09828E",
+    "coordinates": {
+      "lat": 15.183333333333334,
+      "lon": 10.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -2289,10 +3147,15 @@
     "nameWoDiacritics": "Sara Buri",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "1430N 10055E",
+    "coordinates": {
+      "lat": 14.5,
+      "lon": 10.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -2303,10 +3166,15 @@
     "nameWoDiacritics": "Sattahip",
     "subdivision": "20",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "1238N 10055E",
+    "coordinates": {
+      "lat": 12.633333333333333,
+      "lon": 10.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -2317,10 +3185,16 @@
     "nameWoDiacritics": "Satun",
     "subdivision": "91",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "0637N 10004E",
+    "coordinates": {
+      "lat": 6.616666666666667,
+      "lon": 10
+    },
     "remarks": ""
   },
   {
@@ -2331,10 +3205,18 @@
     "nameWoDiacritics": "Si Racha",
     "subdivision": "20",
     "status": "AA",
-    "function": "123--6--",
+    "function": [
+      0,
+      1,
+      2,
+      5
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "1310N 10053E",
+    "coordinates": {
+      "lat": 13.166666666666666,
+      "lon": 10.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -2345,10 +3227,16 @@
     "nameWoDiacritics": "Siam Bangkok Port",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "1339N 10033E",
+    "coordinates": {
+      "lat": 13.65,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -2359,10 +3247,15 @@
     "nameWoDiacritics": "Siam Container Terminal",
     "subdivision": "11",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1334N 10050E",
+    "coordinates": {
+      "lat": 13.566666666666666,
+      "lon": 10.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -2373,10 +3266,15 @@
     "nameWoDiacritics": "Siamgas and Petrochemicals",
     "subdivision": "11",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "1338N 10033E",
+    "coordinates": {
+      "lat": 13.633333333333333,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -2387,10 +3285,15 @@
     "nameWoDiacritics": "Sichon",
     "subdivision": "80",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "0901N 09955E",
+    "coordinates": {
+      "lat": 9.016666666666667,
+      "lon": 10.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -2401,10 +3304,15 @@
     "nameWoDiacritics": "Sing Buri",
     "subdivision": "17",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1453N 10024E",
+    "coordinates": {
+      "lat": 14.883333333333333,
+      "lon": 10.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -2415,10 +3323,15 @@
     "nameWoDiacritics": "Sisaket",
     "subdivision": "33",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "1506N 10419E",
+    "coordinates": {
+      "lat": 15.1,
+      "lon": 10.683333333333334
+    },
     "remarks": ""
   },
   {
@@ -2429,10 +3342,16 @@
     "nameWoDiacritics": "Songkhla",
     "subdivision": "90",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "0714N 10034E",
+    "coordinates": {
+      "lat": 7.233333333333333,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -2443,10 +3362,15 @@
     "nameWoDiacritics": "Sre Kaew",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2457,10 +3381,15 @@
     "nameWoDiacritics": "Sukhothai Apt",
     "subdivision": "64",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1714N 09949E",
+    "coordinates": {
+      "lat": 17.233333333333334,
+      "lon": 10.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -2471,10 +3400,15 @@
     "nameWoDiacritics": "Su-ngai Kolok Customs House",
     "subdivision": "96",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "0602N 10158E",
+    "coordinates": {
+      "lat": 6.033333333333333,
+      "lon": 10.25
+    },
     "remarks": ""
   },
   {
@@ -2485,10 +3419,15 @@
     "nameWoDiacritics": "Suphan Buri",
     "subdivision": "72",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1428N 10007E",
+    "coordinates": {
+      "lat": 14.466666666666667,
+      "lon": 10
+    },
     "remarks": ""
   },
   {
@@ -2499,10 +3438,16 @@
     "nameWoDiacritics": "Surat Thani",
     "subdivision": "84",
     "status": "AA",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "0908N 09908E",
+    "coordinates": {
+      "lat": 9.133333333333333,
+      "lon": 10.5
+    },
     "remarks": ""
   },
   {
@@ -2513,10 +3458,15 @@
     "nameWoDiacritics": "Surin",
     "subdivision": "32",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "1449N 10325E",
+    "coordinates": {
+      "lat": 14.816666666666666,
+      "lon": 10.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -2527,10 +3477,16 @@
     "nameWoDiacritics": "Suvarnabhumi International Apt",
     "subdivision": "11",
     "status": "RL",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1343N 10047E",
+    "coordinates": {
+      "lat": 13.716666666666667,
+      "lon": 10.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -2541,10 +3497,15 @@
     "nameWoDiacritics": "T S Transport and Logistics",
     "subdivision": "11",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "1339N 10034E",
+    "coordinates": {
+      "lat": 13.65,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -2555,10 +3516,15 @@
     "nameWoDiacritics": "Tak Apt",
     "subdivision": "63",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1654N 09915E",
+    "coordinates": {
+      "lat": 16.9,
+      "lon": 10.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -2569,10 +3535,16 @@
     "nameWoDiacritics": "Tak Bai Customs House",
     "subdivision": "96",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "0615N 10203E",
+    "coordinates": {
+      "lat": 6.25,
+      "lon": 10.333333333333334
+    },
     "remarks": ""
   },
   {
@@ -2583,10 +3555,15 @@
     "nameWoDiacritics": "Takhli Apt",
     "subdivision": "60",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1517N 10018E",
+    "coordinates": {
+      "lat": 15.283333333333333,
+      "lon": 10.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -2597,10 +3574,15 @@
     "nameWoDiacritics": "Tantawan Terminal",
     "subdivision": "",
     "status": "RL",
-    "function": "------7-",
+    "function": [
+      6
+    ],
     "date": "0907",
     "iata": "",
-    "coordinates": "1005N 10125E",
+    "coordinates": {
+      "lat": 10.083333333333334,
+      "lon": 10.2
+    },
     "remarks": ""
   },
   {
@@ -2611,10 +3593,15 @@
     "nameWoDiacritics": "Tha Chaleap",
     "subdivision": "22",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "1235N 10153E",
+    "coordinates": {
+      "lat": 12.583333333333334,
+      "lon": 10.25
+    },
     "remarks": ""
   },
   {
@@ -2625,10 +3612,15 @@
     "nameWoDiacritics": "Tha Li Customs House",
     "subdivision": "42",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1741N 10124E",
+    "coordinates": {
+      "lat": 17.683333333333334,
+      "lon": 10.2
+    },
     "remarks": ""
   },
   {
@@ -2639,10 +3631,15 @@
     "nameWoDiacritics": "Tha Sala",
     "subdivision": "80",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "0840N 09957E",
+    "coordinates": {
+      "lat": 8.666666666666666,
+      "lon": 10.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -2653,10 +3650,15 @@
     "nameWoDiacritics": "Thai prosperity terminal",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9705",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2667,10 +3669,15 @@
     "nameWoDiacritics": "Thung Chang Customs House",
     "subdivision": "55",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1931N 10055E",
+    "coordinates": {
+      "lat": 19.516666666666666,
+      "lon": 10.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -2681,10 +3688,15 @@
     "nameWoDiacritics": "Thung Song",
     "subdivision": "80",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "0809N 09944E",
+    "coordinates": {
+      "lat": 8.15,
+      "lon": 10.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -2695,10 +3707,15 @@
     "nameWoDiacritics": "Tips Container Terminal",
     "subdivision": "10",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "1306N 10053E",
+    "coordinates": {
+      "lat": 13.1,
+      "lon": 10.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -2709,10 +3726,15 @@
     "nameWoDiacritics": "Trang",
     "subdivision": "92",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "0733N 09936E",
+    "coordinates": {
+      "lat": 7.55,
+      "lon": 10.55
+    },
     "remarks": ""
   },
   {
@@ -2723,10 +3745,15 @@
     "nameWoDiacritics": "Trang Apt",
     "subdivision": "92",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "0731N 09937E",
+    "coordinates": {
+      "lat": 7.516666666666667,
+      "lon": 10.55
+    },
     "remarks": ""
   },
   {
@@ -2737,10 +3764,15 @@
     "nameWoDiacritics": "Trat",
     "subdivision": "23",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1214N 10230E",
+    "coordinates": {
+      "lat": 12.233333333333333,
+      "lon": 10.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -2751,10 +3783,15 @@
     "nameWoDiacritics": "Trat Apt",
     "subdivision": "23",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1217N 10219E",
+    "coordinates": {
+      "lat": 12.283333333333333,
+      "lon": 10.35
+    },
     "remarks": ""
   },
   {
@@ -2765,10 +3802,15 @@
     "nameWoDiacritics": "Tungprong Pt",
     "subdivision": "20",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1242N 10050E",
+    "coordinates": {
+      "lat": 12.7,
+      "lon": 10.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -2779,10 +3821,15 @@
     "nameWoDiacritics": "Ubon Ratchathani Apt",
     "subdivision": "34",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1515N 10452E",
+    "coordinates": {
+      "lat": 15.25,
+      "lon": 10.75
+    },
     "remarks": ""
   },
   {
@@ -2793,10 +3840,15 @@
     "nameWoDiacritics": "Udon Thani Apt",
     "subdivision": "41",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1723N 10247E",
+    "coordinates": {
+      "lat": 17.383333333333333,
+      "lon": 10.4
+    },
     "remarks": ""
   },
   {
@@ -2807,10 +3859,16 @@
     "nameWoDiacritics": "Unithai Container Terminal",
     "subdivision": "11",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1335N 10035E",
+    "coordinates": {
+      "lat": 13.583333333333334,
+      "lon": 10.05
+    },
     "remarks": "Near Samat Prakarn"
   },
   {
@@ -2821,10 +3879,15 @@
     "nameWoDiacritics": "U-Tapao Rayong Pattaya International Apt",
     "subdivision": "21",
     "status": "AA",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1241N 10100E",
+    "coordinates": {
+      "lat": 12.683333333333334,
+      "lon": 10.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -2835,10 +3898,15 @@
     "nameWoDiacritics": "Wang Prachan Customs House",
     "subdivision": "91",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "0642N 10011E",
+    "coordinates": {
+      "lat": 6.7,
+      "lon": 10.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -2849,10 +3917,15 @@
     "nameWoDiacritics": "Yala",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2863,10 +3936,15 @@
     "nameWoDiacritics": "Yan Nawa",
     "subdivision": "10",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "1343N 10032E",
+    "coordinates": {
+      "lat": 13.716666666666667,
+      "lon": 10.05
+    },
     "remarks": ""
   },
   {
@@ -2877,10 +3955,15 @@
     "nameWoDiacritics": "Yasothon",
     "subdivision": "35",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "1547N 10408E",
+    "coordinates": {
+      "lat": 15.783333333333333,
+      "lon": 10.666666666666666
+    },
     "remarks": ""
   }
 ]

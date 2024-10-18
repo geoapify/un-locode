@@ -1,1907 +1,2177 @@
 [
   {
-    "change": "",
     "country": "EC",
-    "location": "",
     "name": ".ECUADOR",
-    "nameWoDiacritics": "",
-    "subdivision": "",
-    "status": "",
-    "function": "",
-    "date": "",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [],
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "ATF",
     "name": "Ambato",
     "nameWoDiacritics": "Ambato",
-    "subdivision": "",
     "status": "RL",
-    "function": "--34----",
-    "date": "9805",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2,
+      3
+    ],
+    "date": 9805,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "ARE",
     "name": "Arenillas",
     "nameWoDiacritics": "Arenillas",
     "subdivision": "O",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0333S 08004W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -3.55,
+      "lon": 8
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "ATI",
     "name": "Atuntaqui",
     "nameWoDiacritics": "Atuntaqui",
     "subdivision": "I",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1501",
-    "iata": "",
-    "coordinates": "0020N 07813W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1501,
+    "coordinates": {
+      "lat": 0.3333333333333333,
+      "lon": 8.35
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "BBA",
     "name": "Baba",
     "nameWoDiacritics": "Baba",
     "subdivision": "R",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0147S 07940W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -1.7833333333333332,
+      "lon": 8.566666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "BYO",
     "name": "Babahoyo",
     "nameWoDiacritics": "Babahoyo",
     "subdivision": "R",
     "status": "RQ",
-    "function": "--3-----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "BHA",
-    "name": "Bah�a de Car�quez",
+    "name": "BahÌa de Car·quez",
     "nameWoDiacritics": "Bahia de Caraquez",
     "subdivision": "M",
     "status": "AI",
-    "function": "1--4----",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "0033S 08030W",
-    "remarks": ""
+    "function": [
+      0,
+      3
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": -0.55,
+      "lon": 8.05
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "EBL",
     "name": "Balao",
     "nameWoDiacritics": "Balao",
-    "subdivision": "",
     "status": "AI",
-    "function": "1-------",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "BAL",
     "name": "Balzar",
     "nameWoDiacritics": "Balzar",
     "subdivision": "G",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0122S 07954W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -1.3666666666666667,
+      "lon": 8.583333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "BAS",
     "name": "Banos",
     "nameWoDiacritics": "Banos",
     "subdivision": "T",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1501",
-    "iata": "",
-    "coordinates": "0124S 07825W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1501,
+    "coordinates": {
+      "lat": -1.4,
+      "lon": 8.366666666666667
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "BLI",
     "name": "Bartolome Island",
     "nameWoDiacritics": "Bartolome Island",
     "subdivision": "W",
     "status": "RQ",
-    "function": "1-------",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "0017S 09033W",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": -0.2833333333333333,
+      "lon": 9.05
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "EQB",
     "name": "Bucay",
     "nameWoDiacritics": "Bucay",
     "subdivision": "G",
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "0241S 07940W",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": -2.6833333333333336,
+      "lon": 8.566666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "BUF",
     "name": "Buena Fe",
     "nameWoDiacritics": "Buena Fe",
     "subdivision": "R",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0054S 07929W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -0.9,
+      "lon": 8.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "CAT",
     "name": "Caleta Tagus",
     "nameWoDiacritics": "Caleta Tagus",
     "subdivision": "W",
     "status": "RL",
-    "function": "1-------",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "0015S 09122W",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": -0.25,
+      "lon": 9.2
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "CNT",
     "name": "Canuto",
     "nameWoDiacritics": "Canuto",
     "subdivision": "M",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1307",
-    "iata": "",
-    "coordinates": "0048S 08007W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1307,
+    "coordinates": {
+      "lat": -0.8,
+      "lon": 8
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "CTM",
     "name": "Catarama",
     "nameWoDiacritics": "Catarama",
     "subdivision": "R",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0135S 07928W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -1.5833333333333335,
+      "lon": 8.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "CAY",
     "name": "Cayambe",
     "nameWoDiacritics": "Cayambe",
     "subdivision": "P",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0030N 07808W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": 0.5,
+      "lon": 8.333333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "CRT",
     "name": "Cerecita",
     "nameWoDiacritics": "Cerecita",
     "subdivision": "G",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0221S 08017W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -2.35,
+      "lon": 8.016666666666667
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "CHM",
     "name": "Chambo",
     "nameWoDiacritics": "Chambo",
     "subdivision": "H",
     "status": "RL",
-    "function": "-----6--",
-    "date": "1201",
-    "iata": "",
-    "coordinates": "0144N 07835W",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 1201,
+    "coordinates": {
+      "lat": 1.7333333333333334,
+      "lon": 8.383333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "CHA",
     "name": "Chanduy",
     "nameWoDiacritics": "Chanduy",
     "subdivision": "G",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0307",
-    "iata": "",
-    "coordinates": "0225S 08040W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 307,
+    "coordinates": {
+      "lat": -2.4166666666666665,
+      "lon": 8.066666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "EQC",
     "name": "Chone",
     "nameWoDiacritics": "Chone",
     "subdivision": "M",
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "0041S 08006W",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": -0.6833333333333333,
+      "lon": 8
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "CHG",
-    "name": "Chong�n",
+    "name": "ChongÛn",
     "nameWoDiacritics": "Chongon",
     "subdivision": "G",
     "status": "RL",
-    "function": "--3--6--",
-    "date": "0501",
-    "iata": "",
-    "coordinates": "0214S 08004W",
-    "remarks": ""
+    "function": [
+      2,
+      5
+    ],
+    "date": 501,
+    "coordinates": {
+      "lat": -2.2333333333333334,
+      "lon": 8
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "CLE",
     "name": "Clementina",
     "nameWoDiacritics": "Clementina",
     "subdivision": "R",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2107",
-    "iata": "",
-    "coordinates": "0147S 07928W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2107,
+    "coordinates": {
+      "lat": -1.7833333333333332,
+      "lon": 8.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "OCC",
     "name": "Coca",
     "nameWoDiacritics": "Coca",
     "subdivision": "N",
     "status": "RQ",
-    "function": "1-34-6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "0029S 07658W",
-    "remarks": ""
+    "function": [
+      0,
+      2,
+      3,
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": -0.48333333333333334,
+      "lon": 8.083333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "CMM",
     "name": "Coronel Marcelino Mariduena",
     "nameWoDiacritics": "Coronel Marcelino Mariduena",
     "subdivision": "G",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1801",
-    "iata": "",
-    "coordinates": "0212S 07925W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1801,
+    "coordinates": {
+      "lat": -2.2,
+      "lon": 8.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "CTI",
     "name": "Cotacachi",
     "nameWoDiacritics": "Cotacachi",
     "subdivision": "I",
     "status": "RL",
-    "function": "-----6--",
-    "date": "1201",
-    "iata": "",
-    "coordinates": "0018N 07816W",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 1201,
+    "coordinates": {
+      "lat": 0.3,
+      "lon": 8.35
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "CUE",
     "name": "Cuenca",
     "nameWoDiacritics": "Cuenca",
     "subdivision": "A",
     "status": "AI",
-    "function": "--34----",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "0253S 07859W",
-    "remarks": ""
+    "function": [
+      2,
+      3
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": -2.8833333333333333,
+      "lon": 8.416666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "CHI",
-    "name": "Cumand�",
+    "name": "Cumand·",
     "nameWoDiacritics": "Cumanda",
     "subdivision": "H",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1401",
-    "iata": "",
-    "coordinates": "0212S 07908W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1401,
+    "coordinates": {
+      "lat": -2.2,
+      "lon": 8.5
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "CUA",
     "name": "Cumbaya",
     "nameWoDiacritics": "Cumbaya",
     "subdivision": "P",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1501",
-    "iata": "",
-    "coordinates": "0012S 07826W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1501,
+    "coordinates": {
+      "lat": -0.2,
+      "lon": 8.366666666666667
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "DAL",
     "name": "Daule",
     "nameWoDiacritics": "Daule",
-    "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
-    "date": "0907",
-    "iata": "",
-    "coordinates": "0150S 07956W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 907,
+    "coordinates": {
+      "lat": -1.8333333333333335,
+      "lon": 8.583333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "DUN",
-    "name": "Dur�n",
+    "name": "Dur·n",
     "nameWoDiacritics": "Duran",
     "subdivision": "G",
     "status": "RL",
-    "function": "1-------",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "0212S 07950W",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": -2.2,
+      "lon": 8.583333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "ELC",
     "name": "El Carmen",
     "nameWoDiacritics": "El Carmen",
     "subdivision": "M",
     "status": "RL",
-    "function": "--3--6--",
-    "date": "0501",
-    "iata": "",
-    "coordinates": "0016S 07926W",
-    "remarks": ""
+    "function": [
+      2,
+      5
+    ],
+    "date": 501,
+    "coordinates": {
+      "lat": -0.26666666666666666,
+      "lon": 8.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "EMP",
     "name": "El Empalme",
     "nameWoDiacritics": "El Empalme",
     "subdivision": "G",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0103S 07937W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -1.05,
+      "lon": 8.55
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "EGO",
     "name": "El Guabo",
     "nameWoDiacritics": "El Guabo",
-    "subdivision": "",
     "status": "RQ",
-    "function": "-----6--",
-    "date": "1001",
-    "iata": "",
-    "coordinates": "0239S 07943W",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 1001,
+    "coordinates": {
+      "lat": -2.65,
+      "lon": 8.566666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "EQH",
     "name": "El Quinche",
     "nameWoDiacritics": "El Quinche",
     "subdivision": "P",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0006S 07817W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -0.1,
+      "lon": 8.35
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "EQD",
     "name": "El Triunfo",
     "nameWoDiacritics": "El Triunfo",
     "subdivision": "T",
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "0118S 07824W",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": -1.3,
+      "lon": 8.366666666666667
+    }
   },
   {
     "change": "=",
     "country": "EC",
-    "location": "",
     "name": "Empalme = Velasco Ibarra",
     "nameWoDiacritics": "Empalme = Velasco Ibarra",
-    "subdivision": "",
-    "status": "",
-    "function": "",
-    "date": "",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [],
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "ESM",
     "name": "Esmeraldas",
     "nameWoDiacritics": "Esmeraldas",
     "subdivision": "E",
     "status": "AI",
-    "function": "1--4----",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "0059N 07942W",
-    "remarks": ""
+    "function": [
+      0,
+      3
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": 0.9833333333333333,
+      "lon": 8.566666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "ESP",
     "name": "Espanola Island",
     "nameWoDiacritics": "Espanola Island",
     "subdivision": "W",
     "status": "RQ",
-    "function": "1-------",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "0123S 08941W",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": -1.3833333333333333,
+      "lon": 9.566666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "FLO",
     "name": "Floreana Island",
     "nameWoDiacritics": "Floreana Island",
     "subdivision": "W",
     "status": "RQ",
-    "function": "1-------",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "0118S 09026W",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": -1.3,
+      "lon": 9.033333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "GPS",
     "name": "Galapagos Islands",
     "nameWoDiacritics": "Galapagos Islands",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "GUO",
     "name": "Gualaceo",
     "nameWoDiacritics": "Gualaceo",
     "subdivision": "A",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1501",
-    "iata": "",
-    "coordinates": "0254S 07847W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1501,
+    "coordinates": {
+      "lat": -2.9,
+      "lon": 8.4
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "GNO",
     "name": "Guano",
     "nameWoDiacritics": "Guano",
     "subdivision": "H",
     "status": "RL",
-    "function": "-----6--",
-    "date": "1107",
-    "iata": "",
-    "coordinates": "0135S 07838W",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 1107,
+    "coordinates": {
+      "lat": -1.5833333333333335,
+      "lon": 8.383333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "GYE",
     "name": "Guayaquil",
     "nameWoDiacritics": "Guayaquil",
     "subdivision": "G",
     "status": "AI",
-    "function": "1--45---",
-    "date": "1207",
-    "iata": "",
-    "coordinates": "0210S 07954W",
-    "remarks": ""
+    "function": [
+      0,
+      3,
+      4
+    ],
+    "date": 1207,
+    "coordinates": {
+      "lat": -2.1666666666666665,
+      "lon": 8.583333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "GUA",
     "name": "Guayas",
     "nameWoDiacritics": "Guayas",
     "subdivision": "G",
     "status": "RL",
-    "function": "1----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "0058S 07933W",
-    "remarks": ""
+    "function": [
+      0,
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": -0.9666666666666667,
+      "lon": 8.55
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "GBB",
     "name": "Guayllabamba",
     "nameWoDiacritics": "Guayllabamba",
     "subdivision": "P",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1401",
-    "iata": "",
-    "coordinates": "0030S 07820W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1401,
+    "coordinates": {
+      "lat": -0.5,
+      "lon": 8.366666666666667
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "HBL",
     "name": "Hacienda Bolivia",
     "nameWoDiacritics": "Hacienda Bolivia",
     "subdivision": "P",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1401",
-    "iata": "",
-    "coordinates": "0021S 07826W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1401,
+    "coordinates": {
+      "lat": -0.35,
+      "lon": 8.366666666666667
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "HGU",
     "name": "Hacienda Guayas",
     "nameWoDiacritics": "Hacienda Guayas",
     "subdivision": "G",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1207",
-    "iata": "",
-    "coordinates": "0119S 07952W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1207,
+    "coordinates": {
+      "lat": -1.3166666666666667,
+      "lon": 8.583333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "HQL",
     "name": "Huaquillas",
     "nameWoDiacritics": "Huaquillas",
     "subdivision": "O",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0329S 08014W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -3.4833333333333334,
+      "lon": 8.016666666666667
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "IBA",
     "name": "Ibarra",
     "nameWoDiacritics": "Ibarra",
     "subdivision": "I",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1501",
-    "iata": "",
-    "coordinates": "0021N 07807W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1501,
+    "coordinates": {
+      "lat": 0.35,
+      "lon": 8.333333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "IAR",
     "name": "Isidro Ayora",
     "nameWoDiacritics": "Isidro Ayora",
     "subdivision": "G",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2107",
-    "iata": "",
-    "coordinates": "0153S 08010W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2107,
+    "coordinates": {
+      "lat": -1.8833333333333333,
+      "lon": 8.016666666666667
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "WGL",
     "name": "Isle Baltra",
     "nameWoDiacritics": "Isle Baltra",
-    "subdivision": "",
     "status": "RQ",
-    "function": "---4----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "4431N 07913W",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 44.516666666666666,
+      "lon": 8.516666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "JAO",
-    "name": "Jaramij�",
+    "name": "JaramijÛ",
     "nameWoDiacritics": "Jaramijo",
     "subdivision": "M",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1501",
-    "iata": "",
-    "coordinates": "0056S 08038W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1501,
+    "coordinates": {
+      "lat": -0.9333333333333333,
+      "lon": 8.05
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "JIP",
     "name": "Jipijapa",
     "nameWoDiacritics": "Jipijapa",
     "subdivision": "M",
     "status": "AI",
-    "function": "--34-6--",
-    "date": "0501",
-    "iata": "",
-    "coordinates": "0120S 08035W",
-    "remarks": ""
+    "function": [
+      2,
+      3,
+      5
+    ],
+    "date": 501,
+    "coordinates": {
+      "lat": -1.3333333333333333,
+      "lon": 8.05
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "JQU",
     "name": "Junquillal",
     "nameWoDiacritics": "Junquillal",
     "subdivision": "G",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1807",
-    "iata": "",
-    "coordinates": "0143S 07952W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1807,
+    "coordinates": {
+      "lat": -1.7166666666666668,
+      "lon": 8.583333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "LAC",
     "name": "La Concordia",
     "nameWoDiacritics": "La Concordia",
     "subdivision": "E",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0102N 07902W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": 1.0333333333333334,
+      "lon": 8.5
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "LJS",
     "name": "La Joya de los Sachas",
     "nameWoDiacritics": "La Joya de los Sachas",
     "subdivision": "N",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0019S 07651W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -0.31666666666666665,
+      "lon": 8.083333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "LLD",
     "name": "La Libertad",
     "nameWoDiacritics": "La Libertad",
     "subdivision": "G",
     "status": "AI",
-    "function": "1-------",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "0214S 08054W",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": -2.2333333333333334,
+      "lon": 8.083333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "LAM",
-    "name": "La Man�",
+    "name": "La Man·",
     "nameWoDiacritics": "La Mana",
     "subdivision": "X",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0056S 07913W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -0.9333333333333333,
+      "lon": 8.516666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "LPT",
     "name": "La Puntilla",
     "nameWoDiacritics": "La Puntilla",
-    "subdivision": "",
     "status": "RL",
-    "function": "1-3--6--",
-    "date": "0607",
-    "iata": "",
-    "coordinates": "0209S 07952W",
-    "remarks": ""
+    "function": [
+      0,
+      2,
+      5
+    ],
+    "date": 607,
+    "coordinates": {
+      "lat": -2.15,
+      "lon": 8.583333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "LTR",
     "name": "La Troncal",
     "nameWoDiacritics": "La Troncal",
     "subdivision": "F",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0224S 07920W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -2.4,
+      "lon": 8.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "LUN",
-    "name": "La Uni�n",
+    "name": "La UniÛn",
     "nameWoDiacritics": "La Union",
     "subdivision": "R",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1907",
-    "iata": "",
-    "coordinates": "0147S 07928W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1907,
+    "coordinates": {
+      "lat": -1.7833333333333332,
+      "lon": 8.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "LGQ",
     "name": "Lago Agrio",
     "nameWoDiacritics": "Lago Agrio",
-    "subdivision": "",
     "status": "RQ",
-    "function": "---4----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "0052N 07652W",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 0.8666666666666667,
+      "lon": 8.083333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "LAS",
     "name": "Lasso",
     "nameWoDiacritics": "Lasso",
     "subdivision": "X",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0501",
-    "iata": "",
-    "coordinates": "0045S 07836W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 501,
+    "coordinates": {
+      "lat": -0.75,
+      "lon": 8.383333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "LAT",
     "name": "Latacunga",
     "nameWoDiacritics": "Latacunga",
     "subdivision": "X",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0401",
-    "iata": "",
-    "coordinates": "0056S 07837W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 401,
+    "coordinates": {
+      "lat": -0.9333333333333333,
+      "lon": 8.383333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "LOH",
     "name": "Loja",
     "nameWoDiacritics": "Loja",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "MRR",
-    "name": "Macar�",
+    "name": "Macar·",
     "nameWoDiacritics": "Macara",
     "subdivision": "L",
     "status": "AI",
-    "function": "---4----",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "0423S 07957W",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": -4.383333333333334,
+      "lon": 8.583333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "XMS",
     "name": "Macas",
     "nameWoDiacritics": "Macas",
     "subdivision": "S",
     "status": "RL",
-    "function": "---4----",
-    "date": "0907",
-    "iata": "",
-    "coordinates": "0219S 07807W",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 907,
+    "coordinates": {
+      "lat": -2.3166666666666664,
+      "lon": 8.333333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "MAC",
     "name": "Machachi",
     "nameWoDiacritics": "Machachi",
     "subdivision": "P",
     "status": "RL",
-    "function": "--3--6--",
-    "date": "0501",
-    "iata": "",
-    "coordinates": "0030S 07834W",
-    "remarks": ""
+    "function": [
+      2,
+      5
+    ],
+    "date": 501,
+    "coordinates": {
+      "lat": -0.5,
+      "lon": 8.383333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "MCH",
     "name": "Machala",
     "nameWoDiacritics": "Machala",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "MEC",
     "name": "Manta",
     "nameWoDiacritics": "Manta",
     "subdivision": "M",
     "status": "AI",
-    "function": "1--4----",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "0057S 08044W",
-    "remarks": ""
+    "function": [
+      0,
+      3
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": -0.95,
+      "lon": 8.066666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "MSU",
     "name": "Mariscal Sucre",
     "nameWoDiacritics": "Mariscal Sucre",
     "subdivision": "G",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0206S 07929W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -2.1,
+      "lon": 8.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "MZD",
     "name": "Mendez",
     "nameWoDiacritics": "Mendez",
     "subdivision": "S",
     "status": "RL",
-    "function": "---4----",
-    "date": "0907",
-    "iata": "",
-    "coordinates": "0240S 07819W",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 907,
+    "coordinates": {
+      "lat": -2.6666666666666665,
+      "lon": 8.35
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "MIL",
     "name": "Milagro",
     "nameWoDiacritics": "Milagro",
-    "subdivision": "",
     "status": "RQ",
-    "function": "--3--6--",
-    "date": "1001",
-    "iata": "",
-    "coordinates": "0202S 07975W",
-    "remarks": ""
+    "function": [
+      2,
+      5
+    ],
+    "date": 1001,
+    "coordinates": {
+      "lat": -2.033333333333333,
+      "lon": 8.616666666666667
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "MOC",
     "name": "Mocache",
     "nameWoDiacritics": "Mocache",
     "subdivision": "R",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2301",
-    "iata": "",
-    "coordinates": "0111S 07930W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2301,
+    "coordinates": {
+      "lat": -1.1833333333333333,
+      "lon": 8.55
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "MTO",
     "name": "Montalvo",
     "nameWoDiacritics": "Montalvo",
     "subdivision": "R",
     "status": "RL",
-    "function": "--3--6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "0148S 07920W",
-    "remarks": ""
+    "function": [
+      2,
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": -1.8,
+      "lon": 8.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "MTC",
     "name": "Montecristi",
     "nameWoDiacritics": "Montecristi",
     "subdivision": "M",
     "status": "RL",
-    "function": "-----6--",
-    "date": "1107",
-    "iata": "",
-    "coordinates": "0103S 08040W",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 1107,
+    "coordinates": {
+      "lat": -1.05,
+      "lon": 8.066666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "MTV",
     "name": "Monteverde",
     "nameWoDiacritics": "Monteverde",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0106",
-    "iata": "",
-    "coordinates": "0202S 08043W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 106,
+    "coordinates": {
+      "lat": -2.033333333333333,
+      "lon": 8.066666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "MOR",
     "name": "Morona",
     "nameWoDiacritics": "Morona",
-    "subdivision": "",
     "status": "RL",
-    "function": "-----6--",
-    "date": "1107",
-    "iata": "",
-    "coordinates": "0253S 07741W",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 1107,
+    "coordinates": {
+      "lat": -2.8833333333333333,
+      "lon": 8.233333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "NAR",
     "name": "Naranjal",
     "nameWoDiacritics": "Naranjal",
     "subdivision": "G",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0240S 07937W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -2.6666666666666665,
+      "lon": 8.55
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "NRJ",
     "name": "Naranjito",
     "nameWoDiacritics": "Naranjito",
     "subdivision": "G",
     "status": "RQ",
-    "function": "-----6--",
-    "date": "1007",
-    "iata": "",
-    "coordinates": "0213S 07929W",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 1007,
+    "coordinates": {
+      "lat": -2.216666666666667,
+      "lon": 8.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PLQ",
     "name": "Palenque",
     "nameWoDiacritics": "Palenque",
     "subdivision": "R",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0127S 07944W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -1.45,
+      "lon": 8.566666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PTL",
     "name": "Palestina",
     "nameWoDiacritics": "Palestina",
     "subdivision": "G",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1307",
-    "iata": "",
-    "coordinates": "0138S 07958W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1307,
+    "coordinates": {
+      "lat": -1.6333333333333333,
+      "lon": 8.583333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PAS",
     "name": "Pasaje",
     "nameWoDiacritics": "Pasaje",
     "subdivision": "G",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0111S 07955W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -1.1833333333333333,
+      "lon": 8.583333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PJE",
     "name": "Pasaje",
     "nameWoDiacritics": "Pasaje",
     "subdivision": "O",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0320S 07949W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -3.3333333333333335,
+      "lon": 8.566666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PSC",
     "name": "Pascuales",
     "nameWoDiacritics": "Pascuales",
     "subdivision": "G",
     "status": "RQ",
-    "function": "--3--6--",
-    "date": "1007",
-    "iata": "",
-    "coordinates": "0205S 07956W",
-    "remarks": ""
+    "function": [
+      2,
+      5
+    ],
+    "date": 1007,
+    "coordinates": {
+      "lat": -2.0833333333333335,
+      "lon": 8.583333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PTZ",
     "name": "Pastaza",
     "nameWoDiacritics": "Pastaza",
-    "subdivision": "",
     "status": "RQ",
-    "function": "---4----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "0200S 07700W",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": -2,
+      "lon": 8.166666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PPI",
     "name": "Patricia Pilar",
     "nameWoDiacritics": "Patricia Pilar",
     "subdivision": "R",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1501",
-    "iata": "",
-    "coordinates": "0034S 07921W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1501,
+    "coordinates": {
+      "lat": -0.5666666666666667,
+      "lon": 8.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PTE",
     "name": "Paute",
     "nameWoDiacritics": "Paute",
     "subdivision": "A",
     "status": "RL",
-    "function": "-----6--",
-    "date": "1201",
-    "iata": "",
-    "coordinates": "0247S 07845W",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 1201,
+    "coordinates": {
+      "lat": -2.783333333333333,
+      "lon": 8.4
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PDL",
     "name": "Pedernales",
     "nameWoDiacritics": "Pedernales",
     "subdivision": "M",
     "status": "RQ",
-    "function": "-----6--",
-    "date": "1001",
-    "iata": "",
-    "coordinates": "0050N 08003W",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 1001,
+    "coordinates": {
+      "lat": 0.8333333333333334,
+      "lon": 8
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "CAR",
     "name": "Pedro Carbo",
     "nameWoDiacritics": "Pedro Carbo",
-    "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
-    "date": "0601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0,
+      2
+    ],
+    "date": 601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PEL",
     "name": "Pelileo",
     "nameWoDiacritics": "Pelileo",
     "subdivision": "T",
     "status": "RL",
-    "function": "-2------",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0119S 07832W",
-    "remarks": ""
+    "function": [
+      1
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -1.3166666666666667,
+      "lon": 8.383333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PIF",
     "name": "Pifo",
     "nameWoDiacritics": "Pifo",
     "subdivision": "P",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1807",
-    "iata": "",
-    "coordinates": "0014S 07820W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1807,
+    "coordinates": {
+      "lat": -0.23333333333333334,
+      "lon": 8.366666666666667
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PIN",
-    "name": "Pi�as",
+    "name": "PiÒas",
     "nameWoDiacritics": "Pinas",
     "subdivision": "O",
     "status": "RL",
-    "function": "-----6--",
-    "date": "1201",
-    "iata": "",
-    "coordinates": "0340N 07939W",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 1201,
+    "coordinates": {
+      "lat": 3.6666666666666665,
+      "lon": 8.55
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PYS",
     "name": "Playas",
     "nameWoDiacritics": "Playas",
     "subdivision": "G",
     "status": "RL",
-    "function": "--3--6--",
-    "date": "1701",
-    "iata": "",
-    "coordinates": "0238S 08023W",
-    "remarks": ""
+    "function": [
+      2,
+      5
+    ],
+    "date": 1701,
+    "coordinates": {
+      "lat": -2.6333333333333333,
+      "lon": 8.033333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PVL",
     "name": "Portovelo",
     "nameWoDiacritics": "Portovelo",
     "subdivision": "O",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2007",
-    "iata": "",
-    "coordinates": "0343S 07937W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2007,
+    "coordinates": {
+      "lat": -3.716666666666667,
+      "lon": 8.55
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PVO",
     "name": "Portoviejo",
     "nameWoDiacritics": "Portoviejo",
     "subdivision": "M",
     "status": "AI",
-    "function": "--34----",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "0103S 08027W",
-    "remarks": ""
+    "function": [
+      2,
+      3
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": -1.05,
+      "lon": 8.033333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PSJ",
     "name": "Posorja",
     "nameWoDiacritics": "Posorja",
     "subdivision": "G",
     "status": "RL",
-    "function": "1-3--6--",
-    "date": "2001",
-    "iata": "",
-    "coordinates": "0242S 08015W",
-    "remarks": ""
+    "function": [
+      0,
+      2,
+      5
+    ],
+    "date": 2001,
+    "coordinates": {
+      "lat": -2.7,
+      "lon": 8.016666666666667
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PRO",
     "name": "Progreso",
     "nameWoDiacritics": "Progreso",
     "subdivision": "G",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0153S 07952W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -1.8833333333333333,
+      "lon": 8.583333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PUV",
     "name": "Pueblo Viejo",
     "nameWoDiacritics": "Pueblo Viejo",
     "subdivision": "M",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0047S 07951W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -0.7833333333333333,
+      "lon": 8.583333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PUE",
     "name": "Puebloviejo",
     "nameWoDiacritics": "Puebloviejo",
     "subdivision": "R",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1601",
-    "iata": "",
-    "coordinates": "0133S 07932W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1601,
+    "coordinates": {
+      "lat": -1.55,
+      "lon": 8.55
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "AYO",
-    "name": "\"Puerto Ayora",
-    "nameWoDiacritics": " Isla Santa Cruz\"",
-    "subdivision": "\"Puerto Ayora",
-    "status": " Isla Santa Cruz\"",
-    "function": "W",
-    "date": "AI",
-    "iata": "1-------",
-    "coordinates": "0501",
-    "remarks": ""
+    "name": "Puerto Ayora, Isla Santa Cruz",
+    "nameWoDiacritics": "Puerto Ayora, Isla Santa Cruz",
+    "subdivision": "W",
+    "status": "AI",
+    "function": [
+      0
+    ],
+    "date": 501,
+    "coordinates": {
+      "lat": -0.75,
+      "lon": 9.016666666666667
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PBG",
     "name": "Puerto Balao Grande",
     "nameWoDiacritics": "Puerto Balao Grande",
     "subdivision": "G",
     "status": "RL",
-    "function": "1-------",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0254S 07950W",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -2.9,
+      "lon": 8.583333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "BAQ",
     "name": "Puerto Baquerizo Moreno",
     "nameWoDiacritics": "Puerto Baquerizo Moreno",
     "subdivision": "W",
     "status": "AI",
-    "function": "1-------",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "0054S 08936W",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": -0.9,
+      "lon": 9.55
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PBO",
-    "name": "Puerto Bol�var",
+    "name": "Puerto BolÌvar",
     "nameWoDiacritics": "Puerto Bolivar",
     "subdivision": "O",
     "status": "AI",
-    "function": "1-------",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "0316S 07959W",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": -3.2666666666666666,
+      "lon": 8.583333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PEG",
     "name": "Puerto Egas",
     "nameWoDiacritics": "Puerto Egas",
     "subdivision": "W",
     "status": "RQ",
-    "function": "1-------",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "0014S 09051W",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": -0.23333333333333334,
+      "lon": 9.083333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PFO",
     "name": "Puerto Francisco de Orellana",
     "nameWoDiacritics": "Puerto Francisco de Orellana",
     "subdivision": "D",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0028S 07658W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -0.4666666666666667,
+      "lon": 8.083333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PEV",
     "name": "Puerto Nuevo",
     "nameWoDiacritics": "Puerto Nuevo",
-    "subdivision": "",
     "status": "RQ",
-    "function": "1----6--",
-    "date": "1001",
-    "iata": "",
-    "coordinates": "0213S 07955W",
-    "remarks": ""
+    "function": [
+      0,
+      5
+    ],
+    "date": 1001,
+    "coordinates": {
+      "lat": -2.216666666666667,
+      "lon": 8.583333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "VIL",
-    "name": "\"Puerto Villamil",
-    "nameWoDiacritics": " Isla Isabela\"",
-    "subdivision": "\"Puerto Villamil",
-    "status": " Isla Isabela\"",
-    "function": "W",
-    "date": "AI",
-    "iata": "1-------",
-    "coordinates": "1101",
-    "remarks": ""
+    "name": "Puerto Villamil, Isla Isabela",
+    "nameWoDiacritics": "Puerto Villamil, Isla Isabela",
+    "subdivision": "W",
+    "status": "AI",
+    "function": [
+      0
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": -0.9333333333333333,
+      "lon": 9.166666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PUN",
-    "name": "Pun�",
+    "name": "Pun·",
     "nameWoDiacritics": "Puna",
     "subdivision": "G",
     "status": "RL",
-    "function": "1-3-----",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "0244S 07955W",
-    "remarks": ""
+    "function": [
+      0,
+      2
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": -2.7333333333333334,
+      "lon": 8.583333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PYO",
     "name": "Putumayo",
     "nameWoDiacritics": "Putumayo",
-    "subdivision": "",
     "status": "RQ",
-    "function": "---4----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "0004N 07554W",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 0.06666666666666667,
+      "lon": 7.916666666666667
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "PUY",
     "name": "Puyo",
     "nameWoDiacritics": "Puyo",
     "subdivision": "Y",
     "status": "RL",
-    "function": "-----6--",
-    "date": "1201",
-    "iata": "",
-    "coordinates": "0128N 07759W",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 1201,
+    "coordinates": {
+      "lat": 1.4666666666666668,
+      "lon": 8.25
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "QVD",
     "name": "Quevedo",
     "nameWoDiacritics": "Quevedo",
     "subdivision": "R",
     "status": "RL",
-    "function": "--3--6--",
-    "date": "0501",
-    "iata": "",
-    "coordinates": "0102S 07927W",
-    "remarks": ""
+    "function": [
+      2,
+      5
+    ],
+    "date": 501,
+    "coordinates": {
+      "lat": -1.0333333333333334,
+      "lon": 8.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "QUI",
     "name": "Quinche",
     "nameWoDiacritics": "Quinche",
     "subdivision": "P",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0501",
-    "iata": "",
-    "coordinates": "0007S 07818W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 501,
+    "coordinates": {
+      "lat": -0.11666666666666667,
+      "lon": 8.35
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "EQA",
     "name": "Quininde",
     "nameWoDiacritics": "Quininde",
     "subdivision": "E",
     "status": "RL",
-    "function": "-----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "0020N 07928W",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 0.3333333333333333,
+      "lon": 8.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "QSA",
     "name": "Quinsaloma",
     "nameWoDiacritics": "Quinsaloma",
     "subdivision": "R",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1501",
-    "iata": "",
-    "coordinates": "0112S 07918W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1501,
+    "coordinates": {
+      "lat": -1.2,
+      "lon": 8.516666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "UIO",
     "name": "Quito",
     "nameWoDiacritics": "Quito",
-    "subdivision": "",
     "status": "AI",
-    "function": "---45---",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3,
+      4
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "RAB",
     "name": "Rabida Island",
     "nameWoDiacritics": "Rabida Island",
     "subdivision": "W",
     "status": "RQ",
-    "function": "1-------",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "0025S 09042W",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": -0.4166666666666667,
+      "lon": 9.066666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "RBA",
     "name": "Riobamba",
     "nameWoDiacritics": "Riobamba",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0207",
-    "iata": "",
-    "coordinates": "0140S 07838W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 207,
+    "coordinates": {
+      "lat": -1.6666666666666665,
+      "lon": 8.383333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "RMN",
     "name": "Ruminahui",
     "nameWoDiacritics": "Ruminahui",
     "subdivision": "P",
     "status": "RL",
-    "function": "-2------",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0013S 07831W",
-    "remarks": ""
+    "function": [
+      1
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -0.21666666666666667,
+      "lon": 8.383333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "SNC",
     "name": "Salinas",
     "nameWoDiacritics": "Salinas",
     "subdivision": "G",
     "status": "AI",
-    "function": "1-------",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "0213S 08058W",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": -2.216666666666667,
+      "lon": 8.083333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "SAL",
     "name": "Salitre",
     "nameWoDiacritics": "Salitre",
     "subdivision": "G",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0150S 07948W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -1.8333333333333335,
+      "lon": 8.566666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "BOD",
     "name": "Samborondon",
     "nameWoDiacritics": "Samborondon",
-    "subdivision": "",
     "status": "RL",
-    "function": "-----6--",
-    "date": "1107",
-    "iata": "",
-    "coordinates": "0211S 07953W",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 1107,
+    "coordinates": {
+      "lat": -2.183333333333333,
+      "lon": 8.583333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "SCS",
     "name": "San Carlos",
     "nameWoDiacritics": "San Carlos",
     "subdivision": "P",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1907",
-    "iata": "",
-    "coordinates": "0030S 07846W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1907,
+    "coordinates": {
+      "lat": -0.5,
+      "lon": 8.4
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "SCY",
-    "name": "San Crist�bal",
+    "name": "San CristÛbal",
     "nameWoDiacritics": "San Cristobal",
     "subdivision": "W",
     "status": "RL",
-    "function": "---4----",
-    "date": "0907",
-    "iata": "",
-    "coordinates": "0054S 08937W",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 907,
+    "coordinates": {
+      "lat": -0.9,
+      "lon": 9.55
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "SNJ",
     "name": "San Juan",
     "nameWoDiacritics": "San Juan",
     "subdivision": "R",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0140S 07946W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -1.6666666666666665,
+      "lon": 8.566666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "SLR",
     "name": "San Lorenzo",
     "nameWoDiacritics": "San Lorenzo",
     "subdivision": "E",
     "status": "AI",
-    "function": "1-------",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "0115N 07850W",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": 1.25,
+      "lon": 8.416666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "SAI",
-    "name": "Sangolqu�",
+    "name": "SangolquÌ",
     "nameWoDiacritics": "Sangolqui",
     "subdivision": "P",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1501",
-    "iata": "",
-    "coordinates": "0019S 07827W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1501,
+    "coordinates": {
+      "lat": -0.31666666666666665,
+      "lon": 8.366666666666667
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "WSE",
     "name": "Santa Cecillia",
     "nameWoDiacritics": "Santa Cecillia",
-    "subdivision": "",
     "status": "RQ",
-    "function": "---4----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "SEL",
     "name": "Santa Elena",
     "nameWoDiacritics": "Santa Elena",
     "subdivision": "SE",
     "status": "RL",
-    "function": "-23-----",
-    "date": "1501",
-    "iata": "",
-    "coordinates": "0213S 08051W",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 1501,
+    "coordinates": {
+      "lat": -2.216666666666667,
+      "lon": 8.083333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "SAR",
     "name": "Santa Rosa",
     "nameWoDiacritics": "Santa Rosa",
     "subdivision": "O",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0327S 07958W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -3.45,
+      "lon": 8.583333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "SGO",
     "name": "Santo Domingo",
     "nameWoDiacritics": "Santo Domingo",
     "subdivision": "SD",
     "status": "RL",
-    "function": "-23-----",
-    "date": "1307",
-    "iata": "",
-    "coordinates": "0015S 07910W",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 1307,
+    "coordinates": {
+      "lat": -0.25,
+      "lon": 8.516666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "SDO",
     "name": "Santo Domingo de los Colorados",
     "nameWoDiacritics": "Santo Domingo de los Colorados",
-    "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
-    "date": "0101",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 101,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "SYM",
     "name": "Seymour",
     "nameWoDiacritics": "Seymour",
     "subdivision": "W",
     "status": "AI",
-    "function": "1-------",
-    "date": "0501",
-    "iata": "",
-    "coordinates": "0025S 09017W",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 501,
+    "coordinates": {
+      "lat": -0.4166666666666667,
+      "lon": 9.016666666666667
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "SBO",
-    "name": "Sim�n Bol�var",
+    "name": "SimÛn BolÌvar",
     "nameWoDiacritics": "Simon Bolivar",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3--6--",
-    "date": "0607",
-    "iata": "",
-    "coordinates": "0201S 07929W",
-    "remarks": ""
+    "function": [
+      2,
+      5
+    ],
+    "date": 607,
+    "coordinates": {
+      "lat": -2.0166666666666666,
+      "lon": 8.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "SUQ",
     "name": "Sucua",
     "nameWoDiacritics": "Sucua",
     "subdivision": "S",
     "status": "RL",
-    "function": "---4----",
-    "date": "0907",
-    "iata": "",
-    "coordinates": "0228S 07810W",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 907,
+    "coordinates": {
+      "lat": -2.466666666666667,
+      "lon": 8.35
+    }
   },
   {
     "change": "+",
@@ -1911,304 +2181,352 @@
     "nameWoDiacritics": "Tababela",
     "subdivision": "P",
     "status": "RQ",
-    "function": "--34----",
-    "date": "2307",
-    "iata": "",
-    "coordinates": "0011S 07820W",
-    "remarks": ""
+    "function": [
+      2,
+      3
+    ],
+    "date": 2307,
+    "coordinates": {
+      "lat": -0.18333333333333332,
+      "lon": 8.366666666666667
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "TAB",
     "name": "Tabacundo",
     "nameWoDiacritics": "Tabacundo",
     "subdivision": "P",
     "status": "AM",
-    "function": "--3-----",
-    "date": "2007",
-    "iata": "",
-    "coordinates": "0030N 07812W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2007,
+    "coordinates": {
+      "lat": 0.5,
+      "lon": 8.35
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "TSC",
     "name": "Taisha",
     "nameWoDiacritics": "Taisha",
     "subdivision": "S",
     "status": "RL",
-    "function": "---4----",
-    "date": "0907",
-    "iata": "",
-    "coordinates": "0222S 07730W",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 907,
+    "coordinates": {
+      "lat": -2.3666666666666667,
+      "lon": 8.216666666666667
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "TPC",
     "name": "Tarapoa",
     "nameWoDiacritics": "Tarapoa",
-    "subdivision": "",
     "status": "RQ",
-    "function": "---4----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "0125S 07646W",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": -1.4166666666666667,
+      "lon": 8.066666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "TEN",
     "name": "Tena",
     "nameWoDiacritics": "Tena",
     "subdivision": "N",
     "status": "RL",
-    "function": "-----6--",
-    "date": "1201",
-    "iata": "",
-    "coordinates": "0059S 07749W",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 1201,
+    "coordinates": {
+      "lat": -0.9833333333333333,
+      "lon": 8.233333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "TGL",
     "name": "Tenguel",
     "nameWoDiacritics": "Tenguel",
     "subdivision": "G",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0300S 07946W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -3,
+      "lon": 8.566666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "TEP",
     "name": "Tepre",
     "nameWoDiacritics": "Tepre",
-    "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
-    "date": "9501",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 9501,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "TPN",
     "name": "Tiputini",
     "nameWoDiacritics": "Tiputini",
     "subdivision": "D",
     "status": "RL",
-    "function": "---4----",
-    "date": "0907",
-    "iata": "",
-    "coordinates": "0042S 07620W",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 907,
+    "coordinates": {
+      "lat": -0.7,
+      "lon": 8.033333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "TSL",
     "name": "Tisaleo",
     "nameWoDiacritics": "Tisaleo",
     "subdivision": "T",
     "status": "RL",
-    "function": "-23-----",
-    "date": "1307",
-    "iata": "",
-    "coordinates": "0121S 07840W",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 1307,
+    "coordinates": {
+      "lat": -1.35,
+      "lon": 8.4
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "TUA",
     "name": "Tulcan",
     "nameWoDiacritics": "Tulcan",
-    "subdivision": "",
     "status": "RQ",
-    "function": "---4----",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "0048N 07742W",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": 0.8,
+      "lon": 8.233333333333334
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "TUO",
     "name": "Tumbaco",
     "nameWoDiacritics": "Tumbaco",
     "subdivision": "P",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1501",
-    "iata": "",
-    "coordinates": "0013S 07824W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1501,
+    "coordinates": {
+      "lat": -0.21666666666666667,
+      "lon": 8.366666666666667
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "TDM",
     "name": "Tundayme",
     "nameWoDiacritics": "Tundayme",
     "subdivision": "Z",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1907",
-    "iata": "",
-    "coordinates": "0334S 07829W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1907,
+    "coordinates": {
+      "lat": -3.5666666666666664,
+      "lon": 8.366666666666667
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "VLC",
     "name": "Valencia",
     "nameWoDiacritics": "Valencia",
     "subdivision": "R",
     "status": "RL",
-    "function": "-23-----",
-    "date": "1401",
-    "iata": "",
-    "coordinates": "0057S 07920W",
-    "remarks": ""
+    "function": [
+      1,
+      2
+    ],
+    "date": 1401,
+    "coordinates": {
+      "lat": -0.95,
+      "lon": 8.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "VHS",
     "name": "Valle Hermoso",
     "nameWoDiacritics": "Valle Hermoso",
     "subdivision": "L",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0426S 08018W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -4.433333333333334,
+      "lon": 8.016666666666667
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "VEI",
     "name": "Velasco Ibarra",
     "nameWoDiacritics": "Velasco Ibarra",
     "subdivision": "G",
     "status": "RL",
-    "function": "--3--6--",
-    "date": "0501",
-    "iata": "",
-    "coordinates": "0103S 07937W",
-    "remarks": ""
+    "function": [
+      2,
+      5
+    ],
+    "date": 501,
+    "coordinates": {
+      "lat": -1.05,
+      "lon": 8.55
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "VEN",
     "name": "Ventanas",
     "nameWoDiacritics": "Ventanas",
     "subdivision": "R",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0127S 07928W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -1.45,
+      "lon": 8.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "VIC",
     "name": "Viche",
     "nameWoDiacritics": "Viche",
-    "subdivision": "",
     "status": "RL",
-    "function": "-----6--",
-    "date": "1107",
-    "iata": "",
-    "coordinates": "3800N 07933W",
-    "remarks": ""
+    "function": [
+      5
+    ],
+    "date": 1107,
+    "coordinates": {
+      "lat": 38,
+      "lon": 8.55
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "VCS",
     "name": "Vinces",
     "nameWoDiacritics": "Vinces",
     "subdivision": "R",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1301",
-    "iata": "",
-    "coordinates": "0133S 07944W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1301,
+    "coordinates": {
+      "lat": -1.55,
+      "lon": 8.566666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "VFT",
     "name": "Virgen de Fatima",
     "nameWoDiacritics": "Virgen de Fatima",
     "subdivision": "G",
     "status": "AM",
-    "function": "--34----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "0215S 07938W",
-    "remarks": ""
+    "function": [
+      2,
+      3
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": -2.25,
+      "lon": 8.55
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "YGU",
     "name": "Yaguachi",
     "nameWoDiacritics": "Yaguachi",
     "subdivision": "G",
     "status": "RQ",
-    "function": "--3--6--",
-    "date": "1001",
-    "iata": "",
-    "coordinates": "0207S 07941W",
-    "remarks": ""
+    "function": [
+      2,
+      5
+    ],
+    "date": 1001,
+    "coordinates": {
+      "lat": -2.1166666666666667,
+      "lon": 8.566666666666666
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "ZTL",
     "name": "Zapotal",
     "nameWoDiacritics": "Zapotal",
     "subdivision": "G",
     "status": "RQ",
-    "function": "1----6--",
-    "date": "0901",
-    "iata": "",
-    "coordinates": "0219S 08032W",
-    "remarks": ""
+    "function": [
+      0,
+      5
+    ],
+    "date": 901,
+    "coordinates": {
+      "lat": -2.3166666666666664,
+      "lon": 8.05
+    }
   },
   {
-    "change": "",
     "country": "EC",
     "location": "ZPT",
     "name": "Zapotal de Colonche",
     "nameWoDiacritics": "Zapotal de Colonche",
     "subdivision": "G",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0501",
-    "iata": "",
-    "coordinates": "0203S 08038W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 501,
+    "coordinates": {
+      "lat": -2.05,
+      "lon": 8.05
+    }
   }
 ]

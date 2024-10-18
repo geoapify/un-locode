@@ -7,10 +7,13 @@
     "nameWoDiacritics": " STATE OF\"",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Beit Jala",
     "subdivision": "",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "3142N 03511E",
+    "coordinates": {
+      "lat": 31.7,
+      "lon": 3.85
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,15 @@
     "nameWoDiacritics": "Bethlehem",
     "subdivision": "BTH",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "3143N 03512E",
+    "coordinates": {
+      "lat": 31.716666666666665,
+      "lon": 3.85
+    },
     "remarks": ""
   },
   {
@@ -49,10 +62,15 @@
     "nameWoDiacritics": "Gaza",
     "subdivision": "",
     "status": "AI",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3130N 03428E",
+    "coordinates": {
+      "lat": 31.5,
+      "lon": 3.7
+    },
     "remarks": ""
   },
   {
@@ -63,10 +81,15 @@
     "nameWoDiacritics": "Jericho",
     "subdivision": "JRH",
     "status": "AM",
-    "function": "----5---",
+    "function": [
+      4
+    ],
     "date": "2207",
     "iata": "",
-    "coordinates": "3151N 03527E",
+    "coordinates": {
+      "lat": 31.85,
+      "lon": 3.8666666666666667
+    },
     "remarks": ""
   },
   {
@@ -77,10 +100,16 @@
     "nameWoDiacritics": "Ramallah (Ram Allah)",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-5---",
+    "function": [
+      2,
+      4
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "3154N 03512E",
+    "coordinates": {
+      "lat": 31.9,
+      "lon": 3.85
+    },
     "remarks": ""
   }
 ]

@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Ambidedi",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1435N 01147W",
+    "coordinates": {
+      "lat": 14.583333333333334,
+      "lon": 1.2333333333333334
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,15 @@
     "nameWoDiacritics": "Ansongo",
     "subdivision": "7",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1506N 00005E",
+    "coordinates": {
+      "lat": 15.1,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -49,10 +62,15 @@
     "nameWoDiacritics": "Baguineda",
     "subdivision": "2",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "1236N 00746W",
+    "coordinates": {
+      "lat": 12.6,
+      "lon": 1.2333333333333334
+    },
     "remarks": ""
   },
   {
@@ -63,10 +81,16 @@
     "nameWoDiacritics": "Bamako",
     "subdivision": "",
     "status": "AI",
-    "function": "---45---",
+    "function": [
+      3,
+      4
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -77,10 +101,15 @@
     "nameWoDiacritics": "Banangoroni",
     "subdivision": "4",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1341N 00623W",
+    "coordinates": {
+      "lat": 13.683333333333334,
+      "lon": 1.0333333333333334
+    },
     "remarks": ""
   },
   {
@@ -91,10 +120,15 @@
     "nameWoDiacritics": "Bla",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -105,10 +139,15 @@
     "nameWoDiacritics": "Bougouni",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1124N 00729W",
+    "coordinates": {
+      "lat": 11.4,
+      "lon": 1.2
+    },
     "remarks": ""
   },
   {
@@ -119,10 +158,16 @@
     "nameWoDiacritics": "Dialakorobougou",
     "subdivision": "2",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "1248N 00725W",
+    "coordinates": {
+      "lat": 12.8,
+      "lon": 1.2
+    },
     "remarks": ""
   },
   {
@@ -133,10 +178,15 @@
     "nameWoDiacritics": "Dioila",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "1229N 00648W",
+    "coordinates": {
+      "lat": 12.483333333333333,
+      "lon": 1.0666666666666667
+    },
     "remarks": ""
   },
   {
@@ -147,10 +197,15 @@
     "nameWoDiacritics": "Fana",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9903",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -161,10 +216,15 @@
     "nameWoDiacritics": "Gao",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -175,10 +235,15 @@
     "nameWoDiacritics": "Goundam",
     "subdivision": "",
     "status": "RL",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -189,10 +254,15 @@
     "nameWoDiacritics": "Kadiolo",
     "subdivision": "3",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "1033N 00546W",
+    "coordinates": {
+      "lat": 10.55,
+      "lon": 0.9
+    },
     "remarks": ""
   },
   {
@@ -203,10 +273,15 @@
     "nameWoDiacritics": "Kamale",
     "subdivision": "2",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1223N 00816W",
+    "coordinates": {
+      "lat": 12.383333333333333,
+      "lon": 1.35
+    },
     "remarks": ""
   },
   {
@@ -217,10 +292,15 @@
     "nameWoDiacritics": "Kati",
     "subdivision": "2",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1244N 00804W",
+    "coordinates": {
+      "lat": 12.733333333333333,
+      "lon": 1.3333333333333333
+    },
     "remarks": ""
   },
   {
@@ -231,10 +311,15 @@
     "nameWoDiacritics": "Katibougou",
     "subdivision": "2",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1255N 00731W",
+    "coordinates": {
+      "lat": 12.916666666666666,
+      "lon": 1.2166666666666666
+    },
     "remarks": ""
   },
   {
@@ -245,10 +330,15 @@
     "nameWoDiacritics": "Kayes",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -259,10 +349,15 @@
     "nameWoDiacritics": "Kemparana",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -273,10 +368,15 @@
     "nameWoDiacritics": "Kenieba",
     "subdivision": "",
     "status": "RQ",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -287,10 +387,15 @@
     "nameWoDiacritics": "Kita",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -301,10 +406,16 @@
     "nameWoDiacritics": "Korouma",
     "subdivision": "",
     "status": "RL",
-    "function": "--3--6--",
+    "function": [
+      2,
+      5
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "1329N 01126W",
+    "coordinates": {
+      "lat": 13.483333333333333,
+      "lon": 1.2
+    },
     "remarks": ""
   },
   {
@@ -315,10 +426,15 @@
     "nameWoDiacritics": "Koulikoro",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -329,10 +445,15 @@
     "nameWoDiacritics": "Koumantou",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "1125N 00650W",
+    "coordinates": {
+      "lat": 11.416666666666666,
+      "lon": 1.0833333333333333
+    },
     "remarks": ""
   },
   {
@@ -343,10 +464,16 @@
     "nameWoDiacritics": "Koutiala",
     "subdivision": "",
     "status": "AI",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "9506",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -357,10 +484,15 @@
     "nameWoDiacritics": "Mahana",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0005",
     "iata": "",
-    "coordinates": "1611N 00642W",
+    "coordinates": {
+      "lat": 16.183333333333334,
+      "lon": 1.0666666666666667
+    },
     "remarks": ""
   },
   {
@@ -371,10 +503,15 @@
     "nameWoDiacritics": "Mahina",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1318N 01039W",
+    "coordinates": {
+      "lat": 13.3,
+      "lon": 1.05
+    },
     "remarks": ""
   },
   {
@@ -385,10 +522,15 @@
     "nameWoDiacritics": "Manabougou",
     "subdivision": "2",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "1246N 00741W",
+    "coordinates": {
+      "lat": 12.766666666666667,
+      "lon": 1.2333333333333334
+    },
     "remarks": ""
   },
   {
@@ -399,10 +541,15 @@
     "nameWoDiacritics": "Mopti",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -413,10 +560,15 @@
     "nameWoDiacritics": "Morila",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1212N 00638W",
+    "coordinates": {
+      "lat": 12.2,
+      "lon": 1.05
+    },
     "remarks": ""
   },
   {
@@ -427,10 +579,15 @@
     "nameWoDiacritics": "Nara",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -441,10 +598,15 @@
     "nameWoDiacritics": "Ndebougou",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1422N 00559W",
+    "coordinates": {
+      "lat": 14.366666666666667,
+      "lon": 0.9166666666666666
+    },
     "remarks": ""
   },
   {
@@ -455,10 +617,15 @@
     "nameWoDiacritics": "Negala",
     "subdivision": "2",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1252N 00827W",
+    "coordinates": {
+      "lat": 12.866666666666667,
+      "lon": 1.3666666666666667
+    },
     "remarks": ""
   },
   {
@@ -469,10 +636,15 @@
     "nameWoDiacritics": "Niono",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1415N 00600W",
+    "coordinates": {
+      "lat": 14.25,
+      "lon": 1
+    },
     "remarks": ""
   },
   {
@@ -483,10 +655,15 @@
     "nameWoDiacritics": "Nioro",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -497,10 +674,15 @@
     "nameWoDiacritics": "Ouolossebougou",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -511,10 +693,15 @@
     "nameWoDiacritics": "Sadiola",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1353N 01142W",
+    "coordinates": {
+      "lat": 13.883333333333333,
+      "lon": 1.2333333333333334
+    },
     "remarks": ""
   },
   {
@@ -525,10 +712,15 @@
     "nameWoDiacritics": "San",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "1317N 00453W",
+    "coordinates": {
+      "lat": 13.283333333333333,
+      "lon": 0.75
+    },
     "remarks": ""
   },
   {
@@ -539,10 +731,16 @@
     "nameWoDiacritics": "Segou",
     "subdivision": "",
     "status": "RL",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1327N 00616W",
+    "coordinates": {
+      "lat": 13.45,
+      "lon": 1.0166666666666666
+    },
     "remarks": ""
   },
   {
@@ -553,10 +751,15 @@
     "nameWoDiacritics": "Sevare",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1432N 00406W",
+    "coordinates": {
+      "lat": 14.533333333333333,
+      "lon": 0.6666666666666666
+    },
     "remarks": ""
   },
   {
@@ -567,10 +770,15 @@
     "nameWoDiacritics": "Sikasso",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1119N 00540W",
+    "coordinates": {
+      "lat": 11.316666666666666,
+      "lon": 0.9
+    },
     "remarks": ""
   },
   {
@@ -581,10 +789,15 @@
     "nameWoDiacritics": "Tombouctou",
     "subdivision": "",
     "status": "RQ",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1643N 00300W",
+    "coordinates": {
+      "lat": 16.716666666666665,
+      "lon": 0.5
+    },
     "remarks": ""
   },
   {
@@ -595,10 +808,15 @@
     "nameWoDiacritics": "Touana",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "1338N 00729W",
+    "coordinates": {
+      "lat": 13.633333333333333,
+      "lon": 1.2
+    },
     "remarks": ""
   },
   {
@@ -609,10 +827,15 @@
     "nameWoDiacritics": "Yatela",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1406N 01146W",
+    "coordinates": {
+      "lat": 14.1,
+      "lon": 1.2333333333333334
+    },
     "remarks": ""
   },
   {
@@ -623,10 +846,15 @@
     "nameWoDiacritics": "Yelimane",
     "subdivision": "",
     "status": "RL",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0907",
     "iata": "",
-    "coordinates": "1508N 01034W",
+    "coordinates": {
+      "lat": 15.133333333333333,
+      "lon": 1.05
+    },
     "remarks": ""
   }
 ]

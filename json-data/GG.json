@@ -1,72 +1,77 @@
 [
   {
-    "change": "",
     "country": "GG",
-    "location": "",
     "name": ".GUERNSEY",
-    "nameWoDiacritics": "",
-    "subdivision": "",
-    "status": "",
-    "function": "",
-    "date": "",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [],
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "GG",
     "location": "ACI",
     "name": "Alderney",
     "nameWoDiacritics": "Alderney",
-    "subdivision": "",
     "status": "AF",
-    "function": "1--4----",
-    "date": "0607",
-    "iata": "",
-    "coordinates": "4941N 00212W",
+    "function": [
+      0,
+      3
+    ],
+    "date": 607,
+    "coordinates": {
+      "lat": 49.68333333333333,
+      "lon": 0.35
+    },
     "remarks": "ex GB ACI"
   },
   {
-    "change": "",
     "country": "GG",
     "location": "GCI",
     "name": "Guernsey",
     "nameWoDiacritics": "Guernsey",
-    "subdivision": "",
     "status": "AF",
-    "function": "1--4----",
-    "date": "0607",
-    "iata": "",
-    "coordinates": "4926N 00235W",
+    "function": [
+      0,
+      3
+    ],
+    "date": 607,
+    "coordinates": {
+      "lat": 49.43333333333333,
+      "lon": 0.38333333333333336
+    },
     "remarks": "ex GB GCI"
   },
   {
-    "change": "",
     "country": "GG",
     "location": "SPT",
     "name": "Saint Peter Port",
     "nameWoDiacritics": "Saint Peter Port",
-    "subdivision": "",
     "status": "AF",
-    "function": "1-3-----",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "4927N 00233W",
+    "function": [
+      0,
+      2
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": 49.45,
+      "lon": 0.38333333333333336
+    },
     "remarks": "ex GB SPT"
   },
   {
-    "change": "",
     "country": "GG",
     "location": "STS",
     "name": "Saint Sampson",
     "nameWoDiacritics": "Saint Sampson",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "4929N 00231W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": 49.483333333333334,
+      "lon": 0.38333333333333336
+    }
   }
 ]

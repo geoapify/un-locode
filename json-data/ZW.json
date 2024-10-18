@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Bata",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9805",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": "Chispite"
   },
   {
@@ -35,10 +43,15 @@
     "nameWoDiacritics": "Beitbridge",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0307",
     "iata": "",
-    "coordinates": "2213S 03000E",
+    "coordinates": {
+      "lat": -22.216666666666665,
+      "lon": 3
+    },
     "remarks": ""
   },
   {
@@ -49,10 +62,15 @@
     "nameWoDiacritics": "Belgravia",
     "subdivision": "HA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "1748S 03102E",
+    "coordinates": {
+      "lat": -17.8,
+      "lon": 3.1666666666666665
+    },
     "remarks": ""
   },
   {
@@ -63,10 +81,15 @@
     "nameWoDiacritics": "Bindura",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "1718S 03119E",
+    "coordinates": {
+      "lat": -17.3,
+      "lon": 3.183333333333333
+    },
     "remarks": ""
   },
   {
@@ -77,10 +100,15 @@
     "nameWoDiacritics": "Buffalo Range",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -91,10 +119,16 @@
     "nameWoDiacritics": "Bulawayo",
     "subdivision": "",
     "status": "AI",
-    "function": "---45---",
+    "function": [
+      3,
+      4
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -105,10 +139,15 @@
     "nameWoDiacritics": "Bumi Hills",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -119,10 +158,16 @@
     "nameWoDiacritics": "Chegutu",
     "subdivision": "MW",
     "status": "RQ",
-    "function": "1----6--",
+    "function": [
+      0,
+      5
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "1808S 03009E",
+    "coordinates": {
+      "lat": -18.133333333333333,
+      "lon": 3
+    },
     "remarks": ""
   },
   {
@@ -133,10 +178,15 @@
     "nameWoDiacritics": "Chimanimani",
     "subdivision": "MA",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1948S 03252E",
+    "coordinates": {
+      "lat": -19.8,
+      "lon": 3.4166666666666665
+    },
     "remarks": ""
   },
   {
@@ -147,10 +197,15 @@
     "nameWoDiacritics": "Chinhoyi",
     "subdivision": "MW",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "1722S 03012E",
+    "coordinates": {
+      "lat": -17.366666666666667,
+      "lon": 3.0166666666666666
+    },
     "remarks": ""
   },
   {
@@ -161,10 +216,15 @@
     "nameWoDiacritics": "Chipinge",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -175,10 +235,16 @@
     "nameWoDiacritics": "Chiredzi",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "2103S 03140E",
+    "coordinates": {
+      "lat": -21.05,
+      "lon": 3.2333333333333334
+    },
     "remarks": ""
   },
   {
@@ -189,10 +255,15 @@
     "nameWoDiacritics": "Chitungwiza",
     "subdivision": "HA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "1800S 03103E",
+    "coordinates": {
+      "lat": -18,
+      "lon": 3.1666666666666665
+    },
     "remarks": ""
   },
   {
@@ -203,10 +274,15 @@
     "nameWoDiacritics": "Darwendale",
     "subdivision": "MW",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1743S 03033E",
+    "coordinates": {
+      "lat": -17.716666666666665,
+      "lon": 3.05
+    },
     "remarks": ""
   },
   {
@@ -217,10 +293,16 @@
     "nameWoDiacritics": "Filabusi",
     "subdivision": "MS",
     "status": "RL",
-    "function": "1----6--",
+    "function": [
+      0,
+      5
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "2032S 02917E",
+    "coordinates": {
+      "lat": -20.533333333333335,
+      "lon": 3.5166666666666666
+    },
     "remarks": ""
   },
   {
@@ -231,10 +313,15 @@
     "nameWoDiacritics": "Glendale",
     "subdivision": "MC",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1721S 03103E",
+    "coordinates": {
+      "lat": -17.35,
+      "lon": 3.1666666666666665
+    },
     "remarks": ""
   },
   {
@@ -245,10 +332,15 @@
     "nameWoDiacritics": "Gokwe",
     "subdivision": "MI",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1813S 02856E",
+    "coordinates": {
+      "lat": -18.216666666666665,
+      "lon": 3.416666666666667
+    },
     "remarks": ""
   },
   {
@@ -259,10 +351,15 @@
     "nameWoDiacritics": "Graniteside",
     "subdivision": "HA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "1751S 03103E",
+    "coordinates": {
+      "lat": -17.85,
+      "lon": 3.1666666666666665
+    },
     "remarks": ""
   },
   {
@@ -273,10 +370,15 @@
     "nameWoDiacritics": "Guruve",
     "subdivision": "MC",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1639S 03042E",
+    "coordinates": {
+      "lat": -16.65,
+      "lon": 3.066666666666667
+    },
     "remarks": ""
   },
   {
@@ -287,10 +389,15 @@
     "nameWoDiacritics": "Gutu",
     "subdivision": "MV",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1007",
     "iata": "",
-    "coordinates": "1939S 03110E",
+    "coordinates": {
+      "lat": -19.65,
+      "lon": 3.183333333333333
+    },
     "remarks": ""
   },
   {
@@ -301,10 +408,16 @@
     "nameWoDiacritics": "Gwanda",
     "subdivision": "MS",
     "status": "RL",
-    "function": "1----6--",
+    "function": [
+      0,
+      5
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "2056S 02900E",
+    "coordinates": {
+      "lat": -20.933333333333334,
+      "lon": 3.5
+    },
     "remarks": ""
   },
   {
@@ -315,10 +428,16 @@
     "nameWoDiacritics": "Gweru",
     "subdivision": "MI",
     "status": "AI",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "1927S 02949E",
+    "coordinates": {
+      "lat": -19.45,
+      "lon": 3.5666666666666664
+    },
     "remarks": ""
   },
   {
@@ -329,10 +448,16 @@
     "nameWoDiacritics": "Harare",
     "subdivision": "",
     "status": "AI",
-    "function": "---45---",
+    "function": [
+      3,
+      4
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -343,10 +468,15 @@
     "nameWoDiacritics": "Hauna",
     "subdivision": "MA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "1829S 03250E",
+    "coordinates": {
+      "lat": -18.483333333333334,
+      "lon": 3.4166666666666665
+    },
     "remarks": ""
   },
   {
@@ -357,10 +487,15 @@
     "nameWoDiacritics": "Headlands",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "1817S 03202E",
+    "coordinates": {
+      "lat": -18.283333333333335,
+      "lon": 3.3333333333333335
+    },
     "remarks": ""
   },
   {
@@ -371,10 +506,15 @@
     "nameWoDiacritics": "Hwange",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -385,10 +525,15 @@
     "nameWoDiacritics": "Hwange National Park",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1910S 02630E",
+    "coordinates": {
+      "lat": -19.166666666666668,
+      "lon": 3.05
+    },
     "remarks": ""
   },
   {
@@ -399,10 +544,15 @@
     "nameWoDiacritics": "Kadoma",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "1819S 02954E",
+    "coordinates": {
+      "lat": -18.316666666666666,
+      "lon": 3.583333333333333
+    },
     "remarks": ""
   },
   {
@@ -413,10 +563,15 @@
     "nameWoDiacritics": "Kariba",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -427,10 +582,16 @@
     "nameWoDiacritics": "Kwekwe",
     "subdivision": "",
     "status": "RQ",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "9801",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -441,10 +602,15 @@
     "nameWoDiacritics": "Lalapansi",
     "subdivision": "MI",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1920S 03011E",
+    "coordinates": {
+      "lat": -19.333333333333332,
+      "lon": 3.0166666666666666
+    },
     "remarks": ""
   },
   {
@@ -455,10 +621,15 @@
     "nameWoDiacritics": "Mahenye",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -469,10 +640,15 @@
     "nameWoDiacritics": "Mapanzure",
     "subdivision": "MV",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "2023S 03051E",
+    "coordinates": {
+      "lat": -20.383333333333333,
+      "lon": 3.0833333333333335
+    },
     "remarks": ""
   },
   {
@@ -483,10 +659,15 @@
     "nameWoDiacritics": "Marlborough",
     "subdivision": "HA",
     "status": "RQ",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1007",
     "iata": "",
-    "coordinates": "1745S 03113E",
+    "coordinates": {
+      "lat": -17.75,
+      "lon": 3.183333333333333
+    },
     "remarks": ""
   },
   {
@@ -497,10 +678,15 @@
     "nameWoDiacritics": "Marondera",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "1811S 03133E",
+    "coordinates": {
+      "lat": -18.183333333333334,
+      "lon": 3.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -511,10 +697,15 @@
     "nameWoDiacritics": "Masvingo",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -525,10 +716,15 @@
     "nameWoDiacritics": "Mazowe",
     "subdivision": "MC",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "1731S 03058E",
+    "coordinates": {
+      "lat": -17.516666666666666,
+      "lon": 3.0833333333333335
+    },
     "remarks": ""
   },
   {
@@ -539,10 +735,15 @@
     "nameWoDiacritics": "Mhangura",
     "subdivision": "MW",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1654S 03009E",
+    "coordinates": {
+      "lat": -16.9,
+      "lon": 3
+    },
     "remarks": ""
   },
   {
@@ -553,10 +754,15 @@
     "nameWoDiacritics": "Milton Park",
     "subdivision": "HA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "1748S 03101E",
+    "coordinates": {
+      "lat": -17.8,
+      "lon": 3.1666666666666665
+    },
     "remarks": ""
   },
   {
@@ -567,10 +773,15 @@
     "nameWoDiacritics": "Msasa",
     "subdivision": "HA",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "1750S 03106E",
+    "coordinates": {
+      "lat": -17.833333333333332,
+      "lon": 3.1666666666666665
+    },
     "remarks": ""
   },
   {
@@ -581,10 +792,16 @@
     "nameWoDiacritics": "Mutare",
     "subdivision": "",
     "status": "AI",
-    "function": "-2-4----",
+    "function": [
+      1,
+      3
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -595,10 +812,15 @@
     "nameWoDiacritics": "Mutoko",
     "subdivision": "ME",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1724S 03213E",
+    "coordinates": {
+      "lat": -17.4,
+      "lon": 3.35
+    },
     "remarks": ""
   },
   {
@@ -609,10 +831,15 @@
     "nameWoDiacritics": "Nembudziya",
     "subdivision": "MI",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1741S 02901E",
+    "coordinates": {
+      "lat": -17.683333333333334,
+      "lon": 3.5
+    },
     "remarks": ""
   },
   {
@@ -623,10 +850,15 @@
     "nameWoDiacritics": "Ngezi",
     "subdivision": "MI",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "2034S 03024E",
+    "coordinates": {
+      "lat": -20.566666666666666,
+      "lon": 3.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -637,10 +869,15 @@
     "nameWoDiacritics": "Norton",
     "subdivision": "MW",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1753S 03042E",
+    "coordinates": {
+      "lat": -17.883333333333333,
+      "lon": 3.066666666666667
+    },
     "remarks": ""
   },
   {
@@ -651,10 +888,16 @@
     "nameWoDiacritics": "Rusape",
     "subdivision": "MA",
     "status": "RL",
-    "function": "12------",
+    "function": [
+      0,
+      1
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1832S 03207E",
+    "coordinates": {
+      "lat": -18.533333333333335,
+      "lon": 3.3333333333333335
+    },
     "remarks": ""
   },
   {
@@ -665,10 +908,15 @@
     "nameWoDiacritics": "Selous",
     "subdivision": "MW",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "1805S 03027E",
+    "coordinates": {
+      "lat": -18.083333333333332,
+      "lon": 3.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -679,10 +927,15 @@
     "nameWoDiacritics": "Shamva",
     "subdivision": "MC",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1718S 03134E",
+    "coordinates": {
+      "lat": -17.3,
+      "lon": 3.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -693,10 +946,15 @@
     "nameWoDiacritics": "Shurugwi",
     "subdivision": "MI",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "1940S 03000E",
+    "coordinates": {
+      "lat": -19.666666666666668,
+      "lon": 3
+    },
     "remarks": ""
   },
   {
@@ -707,10 +965,15 @@
     "nameWoDiacritics": "Southerton",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "1751S 03101E",
+    "coordinates": {
+      "lat": -17.85,
+      "lon": 3.1666666666666665
+    },
     "remarks": ""
   },
   {
@@ -721,10 +984,16 @@
     "nameWoDiacritics": "Thompson Junction",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "1800S 02626E",
+    "coordinates": {
+      "lat": -18,
+      "lon": 3.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -735,10 +1004,15 @@
     "nameWoDiacritics": "Victoria Falls",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -749,10 +1023,16 @@
     "nameWoDiacritics": "Zimbabwe",
     "subdivision": "MV",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "2016S 03055E",
+    "coordinates": {
+      "lat": -20.266666666666666,
+      "lon": 3.0833333333333335
+    },
     "remarks": ""
   },
   {
@@ -763,10 +1043,15 @@
     "nameWoDiacritics": "Zvishavane",
     "subdivision": "MI",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "2020S 03002E",
+    "coordinates": {
+      "lat": -20.333333333333332,
+      "lon": 3
+    },
     "remarks": ""
   }
 ]

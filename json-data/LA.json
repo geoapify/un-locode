@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,16 @@
     "nameWoDiacritics": "Attopeu",
     "subdivision": "",
     "status": "AI",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1449N 10649E",
+    "coordinates": {
+      "lat": 14.816666666666666,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -35,10 +44,15 @@
     "nameWoDiacritics": "Ban Houaynamleuk",
     "subdivision": "BL",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1822N 10307E",
+    "coordinates": {
+      "lat": 18.366666666666667,
+      "lon": 10.5
+    },
     "remarks": ""
   },
   {
@@ -49,10 +63,15 @@
     "nameWoDiacritics": "Ban Houei",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -63,10 +82,15 @@
     "nameWoDiacritics": "Ban Thanaleng",
     "subdivision": "VT",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "1753N 10243E",
+    "coordinates": {
+      "lat": 17.883333333333333,
+      "lon": 10.4
+    },
     "remarks": ""
   },
   {
@@ -77,10 +101,16 @@
     "nameWoDiacritics": "Boten",
     "subdivision": "LM",
     "status": "AA",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "2110N 10140E",
+    "coordinates": {
+      "lat": 21.166666666666668,
+      "lon": 10.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -91,10 +121,15 @@
     "nameWoDiacritics": "Danesavan",
     "subdivision": "SV",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1637N 10635E",
+    "coordinates": {
+      "lat": 16.616666666666667,
+      "lon": 11.05
+    },
     "remarks": ""
   },
   {
@@ -105,10 +140,15 @@
     "nameWoDiacritics": "Hin Hoeup",
     "subdivision": "VI",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1837N 10219E",
+    "coordinates": {
+      "lat": 18.616666666666667,
+      "lon": 10.35
+    },
     "remarks": ""
   },
   {
@@ -119,10 +159,16 @@
     "nameWoDiacritics": "Houeisay",
     "subdivision": "",
     "status": "AI",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "2015N 10026E",
+    "coordinates": {
+      "lat": 20.25,
+      "lon": 10.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -133,10 +179,15 @@
     "nameWoDiacritics": "Kenthao",
     "subdivision": "XA",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1743N 10123E",
+    "coordinates": {
+      "lat": 17.716666666666665,
+      "lon": 10.2
+    },
     "remarks": ""
   },
   {
@@ -147,10 +198,15 @@
     "nameWoDiacritics": "Khong",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -161,10 +217,15 @@
     "nameWoDiacritics": "Lalay",
     "subdivision": "SL",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1618N 10657E",
+    "coordinates": {
+      "lat": 16.3,
+      "lon": 11.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -175,10 +236,15 @@
     "nameWoDiacritics": "Lantouy",
     "subdivision": "PH",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "2228N 10142E",
+    "coordinates": {
+      "lat": 22.466666666666665,
+      "lon": 10.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -189,10 +255,16 @@
     "nameWoDiacritics": "Luang Namtha",
     "subdivision": "",
     "status": "AI",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "2058N 10123E",
+    "coordinates": {
+      "lat": 20.966666666666665,
+      "lon": 10.2
+    },
     "remarks": ""
   },
   {
@@ -203,10 +275,17 @@
     "nameWoDiacritics": "Luang Prabang",
     "subdivision": "",
     "status": "AI",
-    "function": "-234----",
+    "function": [
+      1,
+      2,
+      3
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1953N 10212E",
+    "coordinates": {
+      "lat": 19.883333333333333,
+      "lon": 10.35
+    },
     "remarks": ""
   },
   {
@@ -217,10 +296,15 @@
     "nameWoDiacritics": "Muang Ngeun",
     "subdivision": "XA",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1936N 10106E",
+    "coordinates": {
+      "lat": 19.6,
+      "lon": 10.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -231,10 +315,15 @@
     "nameWoDiacritics": "Muong Sai",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -245,10 +334,15 @@
     "nameWoDiacritics": "Nameo",
     "subdivision": "HO",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "2017N 10437E",
+    "coordinates": {
+      "lat": 20.283333333333335,
+      "lon": 10.716666666666667
+    },
     "remarks": ""
   },
   {
@@ -259,10 +353,15 @@
     "nameWoDiacritics": "Namkan",
     "subdivision": "XI",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1927N 10404E",
+    "coordinates": {
+      "lat": 19.45,
+      "lon": 10.666666666666666
+    },
     "remarks": ""
   },
   {
@@ -273,10 +372,15 @@
     "nameWoDiacritics": "Namphao",
     "subdivision": "BL",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1822N 10509E",
+    "coordinates": {
+      "lat": 18.366666666666667,
+      "lon": 10.833333333333334
+    },
     "remarks": ""
   },
   {
@@ -287,10 +391,15 @@
     "nameWoDiacritics": "Naphao",
     "subdivision": "KH",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1739N 10545E",
+    "coordinates": {
+      "lat": 17.65,
+      "lon": 10.9
+    },
     "remarks": ""
   },
   {
@@ -301,10 +410,17 @@
     "nameWoDiacritics": "Nateuy",
     "subdivision": "LM",
     "status": "AA",
-    "function": "-23--6--",
+    "function": [
+      1,
+      2,
+      5
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "2103N 10138E",
+    "coordinates": {
+      "lat": 21.05,
+      "lon": 10.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -315,10 +431,15 @@
     "nameWoDiacritics": "Nongnokkhian",
     "subdivision": "AT",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1355N 10601E",
+    "coordinates": {
+      "lat": 13.916666666666666,
+      "lon": 11
+    },
     "remarks": ""
   },
   {
@@ -329,10 +450,17 @@
     "nameWoDiacritics": "Oudomxay",
     "subdivision": "",
     "status": "AI",
-    "function": "-234----",
+    "function": [
+      1,
+      2,
+      3
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "2040N 10159E",
+    "coordinates": {
+      "lat": 20.666666666666668,
+      "lon": 10.25
+    },
     "remarks": ""
   },
   {
@@ -343,10 +471,16 @@
     "nameWoDiacritics": "Paksane",
     "subdivision": "",
     "status": "AI",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1823N 10339E",
+    "coordinates": {
+      "lat": 18.383333333333333,
+      "lon": 10.55
+    },
     "remarks": ""
   },
   {
@@ -357,10 +491,16 @@
     "nameWoDiacritics": "Pakxe",
     "subdivision": "",
     "status": "AI",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1507N 10546E",
+    "coordinates": {
+      "lat": 15.116666666666667,
+      "lon": 10.9
+    },
     "remarks": ""
   },
   {
@@ -371,10 +511,15 @@
     "nameWoDiacritics": "Panghai",
     "subdivision": "LM",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "2112N 10114E",
+    "coordinates": {
+      "lat": 21.2,
+      "lon": 10.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -385,10 +530,15 @@
     "nameWoDiacritics": "Panghok",
     "subdivision": "PH",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "2112N 10254E",
+    "coordinates": {
+      "lat": 21.2,
+      "lon": 10.416666666666666
+    },
     "remarks": ""
   },
   {
@@ -399,10 +549,16 @@
     "nameWoDiacritics": "Phongsaly",
     "subdivision": "PH",
     "status": "RL",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "2140N 10206E",
+    "coordinates": {
+      "lat": 21.666666666666668,
+      "lon": 10.333333333333334
+    },
     "remarks": ""
   },
   {
@@ -413,10 +569,16 @@
     "nameWoDiacritics": "Phonhong",
     "subdivision": "VI",
     "status": "AA",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1829N 10224E",
+    "coordinates": {
+      "lat": 18.483333333333334,
+      "lon": 10.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -427,10 +589,15 @@
     "nameWoDiacritics": "Phu Keua",
     "subdivision": "AT",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1442N 10733E",
+    "coordinates": {
+      "lat": 14.7,
+      "lon": 11.216666666666667
+    },
     "remarks": ""
   },
   {
@@ -441,10 +608,16 @@
     "nameWoDiacritics": "Sam Neua",
     "subdivision": "",
     "status": "AI",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "2024N 10402E",
+    "coordinates": {
+      "lat": 20.4,
+      "lon": 10.666666666666666
+    },
     "remarks": ""
   },
   {
@@ -455,10 +628,16 @@
     "nameWoDiacritics": "Saravane",
     "subdivision": "",
     "status": "AI",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1542N 10624E",
+    "coordinates": {
+      "lat": 15.7,
+      "lon": 11.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -469,10 +648,16 @@
     "nameWoDiacritics": "Savannakhet",
     "subdivision": "",
     "status": "RL",
-    "function": "--3--6--",
+    "function": [
+      2,
+      5
+    ],
     "date": "1601",
     "iata": "ZVK",
-    "coordinates": "1633N 10445E",
+    "coordinates": {
+      "lat": 16.55,
+      "lon": 10.733333333333333
+    },
     "remarks": ""
   },
   {
@@ -483,10 +668,16 @@
     "nameWoDiacritics": "Sayaboury",
     "subdivision": "",
     "status": "AI",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1915N 10142E",
+    "coordinates": {
+      "lat": 19.25,
+      "lon": 10.233333333333333
+    },
     "remarks": ""
   },
   {
@@ -497,10 +688,15 @@
     "nameWoDiacritics": "Sekong",
     "subdivision": "XE",
     "status": "AA",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1520N 10643E",
+    "coordinates": {
+      "lat": 15.333333333333334,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -511,10 +707,15 @@
     "nameWoDiacritics": "Seno",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -525,10 +726,17 @@
     "nameWoDiacritics": "Thakhek",
     "subdivision": "",
     "status": "AI",
-    "function": "--34-6--",
+    "function": [
+      2,
+      3,
+      5
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1729N 10444E",
+    "coordinates": {
+      "lat": 17.483333333333334,
+      "lon": 10.733333333333333
+    },
     "remarks": ""
   },
   {
@@ -539,10 +747,18 @@
     "nameWoDiacritics": "Thanaleng",
     "subdivision": "VT",
     "status": "AM",
-    "function": "-23-56--",
+    "function": [
+      1,
+      2,
+      4,
+      5
+    ],
     "date": "2307",
     "iata": "",
-    "coordinates": "1753N 10243E",
+    "coordinates": {
+      "lat": 17.883333333333333,
+      "lon": 10.4
+    },
     "remarks": "Border@Fun@Sta@Sub"
   },
   {
@@ -553,10 +769,15 @@
     "nameWoDiacritics": "Thanalouang",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "2043N 10212E",
+    "coordinates": {
+      "lat": 20.716666666666665,
+      "lon": 10.35
+    },
     "remarks": ""
   },
   {
@@ -567,10 +788,15 @@
     "nameWoDiacritics": "Udomxay",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -581,10 +807,17 @@
     "nameWoDiacritics": "Vangrieng",
     "subdivision": "",
     "status": "AI",
-    "function": "-234----",
+    "function": [
+      1,
+      2,
+      3
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1855N 10226E",
+    "coordinates": {
+      "lat": 18.916666666666668,
+      "lon": 10.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -595,10 +828,16 @@
     "nameWoDiacritics": "Vangtao",
     "subdivision": "CH",
     "status": "AA",
-    "function": "--3--6--",
+    "function": [
+      2,
+      5
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1507N 10527E",
+    "coordinates": {
+      "lat": 15.116666666666667,
+      "lon": 10.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -609,10 +848,15 @@
     "nameWoDiacritics": "Vangtoud",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "9805",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -623,10 +867,15 @@
     "nameWoDiacritics": "Viengxay",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -637,10 +886,18 @@
     "nameWoDiacritics": "Vientiane",
     "subdivision": "",
     "status": "AI",
-    "function": "-2345---",
+    "function": [
+      1,
+      2,
+      3,
+      4
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1758N 10233E",
+    "coordinates": {
+      "lat": 17.966666666666665,
+      "lon": 10.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -651,10 +908,15 @@
     "nameWoDiacritics": "Xayabury",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -665,10 +927,16 @@
     "nameWoDiacritics": "Xieng Khouang",
     "subdivision": "",
     "status": "AI",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1927N 10309E",
+    "coordinates": {
+      "lat": 19.45,
+      "lon": 10.5
+    },
     "remarks": ""
   },
   {
@@ -679,10 +947,15 @@
     "nameWoDiacritics": "Xienglom",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   }
 ]

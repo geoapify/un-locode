@@ -7,10 +7,13 @@
     "nameWoDiacritics": " DEMOCRATIC PEOPLE'S REPUBLIC OF\"",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Bumpyo (Rempo)",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9012",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,15 @@
     "nameWoDiacritics": "Chongjin",
     "subdivision": "09",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -49,10 +62,15 @@
     "nameWoDiacritics": "Gensan",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -63,10 +81,15 @@
     "nameWoDiacritics": "Haeju",
     "subdivision": "05",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -77,10 +100,15 @@
     "nameWoDiacritics": "Hungnam",
     "subdivision": "08",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -91,10 +119,16 @@
     "nameWoDiacritics": "Kaesong",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0006",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -105,10 +139,17 @@
     "nameWoDiacritics": "Nampo",
     "subdivision": "14",
     "status": "AA",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -119,10 +160,15 @@
     "nameWoDiacritics": "Odaejin",
     "subdivision": "",
     "status": "AS",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "4123N 12945E",
+    "coordinates": {
+      "lat": 41.38333333333333,
+      "lon": 13.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -133,10 +179,16 @@
     "nameWoDiacritics": "Panjang",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3830N 12505E",
+    "coordinates": {
+      "lat": 38.5,
+      "lon": 12.833333333333334
+    },
     "remarks": ""
   },
   {
@@ -147,10 +199,16 @@
     "nameWoDiacritics": "Pyongyang",
     "subdivision": "",
     "status": "AI",
-    "function": "---45---",
+    "function": [
+      3,
+      4
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -161,10 +219,17 @@
     "nameWoDiacritics": "Rajin (Najin)",
     "subdivision": "13",
     "status": "AA",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "4213N 13017E",
+    "coordinates": {
+      "lat": 42.21666666666667,
+      "lon": 13.016666666666667
+    },
     "remarks": ""
   },
   {
@@ -175,10 +240,15 @@
     "nameWoDiacritics": "Riwon",
     "subdivision": "",
     "status": "AS",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "4019N 12838E",
+    "coordinates": {
+      "lat": 40.31666666666667,
+      "lon": 13.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -189,10 +259,15 @@
     "nameWoDiacritics": "Samcha do",
     "subdivision": "",
     "status": "AS",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "3924N 12443E",
+    "coordinates": {
+      "lat": 39.4,
+      "lon": 12.733333333333333
+    },
     "remarks": ""
   },
   {
@@ -203,10 +278,15 @@
     "nameWoDiacritics": "Sinpo",
     "subdivision": "",
     "status": "AS",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0601",
     "iata": "",
-    "coordinates": "4004N 12816E",
+    "coordinates": {
+      "lat": 40.06666666666667,
+      "lon": 13.35
+    },
     "remarks": ""
   },
   {
@@ -217,10 +297,16 @@
     "nameWoDiacritics": "Sinuiju",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0006",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -231,10 +317,15 @@
     "nameWoDiacritics": "Songdo",
     "subdivision": "05",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "3823N 12536E",
+    "coordinates": {
+      "lat": 38.38333333333333,
+      "lon": 12.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -245,10 +336,15 @@
     "nameWoDiacritics": "Songjin",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9506",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -259,10 +355,15 @@
     "nameWoDiacritics": "Songnim",
     "subdivision": "06",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "3846N 12535E",
+    "coordinates": {
+      "lat": 38.766666666666666,
+      "lon": 12.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -273,10 +374,15 @@
     "nameWoDiacritics": "Tanchon",
     "subdivision": "08",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "4025N 12856E",
+    "coordinates": {
+      "lat": 40.416666666666664,
+      "lon": 13.416666666666666
+    },
     "remarks": ""
   },
   {
@@ -287,10 +393,15 @@
     "nameWoDiacritics": "Tanyang",
     "subdivision": "",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "3659N 12821E",
+    "coordinates": {
+      "lat": 36.983333333333334,
+      "lon": 13.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -301,10 +412,15 @@
     "nameWoDiacritics": "Wonsan",
     "subdivision": "07",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   }
 ]

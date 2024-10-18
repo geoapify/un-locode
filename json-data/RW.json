@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Bugarama",
     "subdivision": "04",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0242S 02900E",
+    "coordinates": {
+      "lat": -2.7,
+      "lon": 3.5
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,15 @@
     "nameWoDiacritics": "Butare",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -49,10 +62,15 @@
     "nameWoDiacritics": "Cyangugu",
     "subdivision": "04",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "0229S 02853E",
+    "coordinates": {
+      "lat": -2.4833333333333334,
+      "lon": 3.416666666666667
+    },
     "remarks": ""
   },
   {
@@ -63,10 +81,15 @@
     "nameWoDiacritics": "Gatuna",
     "subdivision": "03",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "0126S 03001E",
+    "coordinates": {
+      "lat": -1.4333333333333333,
+      "lon": 3
+    },
     "remarks": ""
   },
   {
@@ -77,10 +100,15 @@
     "nameWoDiacritics": "Gisenyi",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -91,10 +119,15 @@
     "nameWoDiacritics": "Gishoma",
     "subdivision": "04",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "0236S 02856E",
+    "coordinates": {
+      "lat": -2.6,
+      "lon": 3.416666666666667
+    },
     "remarks": ""
   },
   {
@@ -105,10 +138,15 @@
     "nameWoDiacritics": "Huye",
     "subdivision": "05",
     "status": "AM",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2007",
     "iata": "",
-    "coordinates": "0234S 02942E",
+    "coordinates": {
+      "lat": -2.5666666666666664,
+      "lon": 3.5666666666666664
+    },
     "remarks": ""
   },
   {
@@ -119,10 +157,15 @@
     "nameWoDiacritics": "Kamembe",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -133,10 +176,15 @@
     "nameWoDiacritics": "Kayonza",
     "subdivision": "02",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "0156S 03031E",
+    "coordinates": {
+      "lat": -1.9333333333333333,
+      "lon": 3.05
+    },
     "remarks": ""
   },
   {
@@ -147,10 +195,17 @@
     "nameWoDiacritics": "Kigali",
     "subdivision": "",
     "status": "AI",
-    "function": "--345---",
+    "function": [
+      2,
+      3,
+      4
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -161,10 +216,15 @@
     "nameWoDiacritics": "Mutara",
     "subdivision": "03",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0138S 02957E",
+    "coordinates": {
+      "lat": -1.6333333333333333,
+      "lon": 3.583333333333333
+    },
     "remarks": ""
   },
   {
@@ -175,10 +235,16 @@
     "nameWoDiacritics": "Nyagatare",
     "subdivision": "02",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "0117S 03019E",
+    "coordinates": {
+      "lat": -1.2833333333333332,
+      "lon": 3.0166666666666666
+    },
     "remarks": ""
   },
   {
@@ -189,10 +255,15 @@
     "nameWoDiacritics": "Nyamata",
     "subdivision": "02",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0212S 03009E",
+    "coordinates": {
+      "lat": -2.2,
+      "lon": 3
+    },
     "remarks": ""
   },
   {
@@ -203,10 +274,15 @@
     "nameWoDiacritics": "Nyanza",
     "subdivision": "05",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "0221S 02945E",
+    "coordinates": {
+      "lat": -2.35,
+      "lon": 3.5666666666666664
+    },
     "remarks": ""
   },
   {
@@ -217,10 +293,15 @@
     "nameWoDiacritics": "Rilima",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "0209S 03013E",
+    "coordinates": {
+      "lat": -2.15,
+      "lon": 3.0166666666666666
+    },
     "remarks": ""
   },
   {
@@ -231,10 +312,16 @@
     "nameWoDiacritics": "Rubengera",
     "subdivision": "",
     "status": "RL",
-    "function": "1----6--",
+    "function": [
+      0,
+      5
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -245,10 +332,15 @@
     "nameWoDiacritics": "Ruhengeri",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -259,10 +351,15 @@
     "nameWoDiacritics": "Rusumo",
     "subdivision": "02",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "0216S 03042E",
+    "coordinates": {
+      "lat": -2.2666666666666666,
+      "lon": 3.066666666666667
+    },
     "remarks": ""
   },
   {
@@ -273,10 +370,16 @@
     "nameWoDiacritics": "Rwamagana",
     "subdivision": "02",
     "status": "RL",
-    "function": "1----6--",
+    "function": [
+      0,
+      5
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "0157N 03026E",
+    "coordinates": {
+      "lat": 1.95,
+      "lon": 3.033333333333333
+    },
     "remarks": ""
   }
 ]

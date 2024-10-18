@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Battambang",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,15 @@
     "nameWoDiacritics": "Bavet",
     "subdivision": "20",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "1104N 10608E",
+    "coordinates": {
+      "lat": 11.066666666666666,
+      "lon": 11
+    },
     "remarks": ""
   },
   {
@@ -49,10 +62,15 @@
     "nameWoDiacritics": "Cheko",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -63,10 +81,15 @@
     "nameWoDiacritics": "Kampong Cham",
     "subdivision": "3",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1200N 10527E",
+    "coordinates": {
+      "lat": 12,
+      "lon": 10.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -77,10 +100,15 @@
     "nameWoDiacritics": "Kampong Chhnang",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1215N 10440E",
+    "coordinates": {
+      "lat": 12.25,
+      "lon": 10.733333333333333
+    },
     "remarks": ""
   },
   {
@@ -91,10 +119,18 @@
     "nameWoDiacritics": "Kampong Saom",
     "subdivision": "",
     "status": "AI",
-    "function": "1-34--7-",
+    "function": [
+      0,
+      2,
+      3,
+      6
+    ],
     "date": "0501",
     "iata": "",
-    "coordinates": "1036N 10331E",
+    "coordinates": {
+      "lat": 10.6,
+      "lon": 10.55
+    },
     "remarks": ""
   },
   {
@@ -105,10 +141,15 @@
     "nameWoDiacritics": "Kampot",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -119,10 +160,15 @@
     "nameWoDiacritics": "Kas Kong",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "8103",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -133,10 +179,15 @@
     "nameWoDiacritics": "Koh Kong",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -147,10 +198,15 @@
     "nameWoDiacritics": "Kompong Thom",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -161,10 +217,15 @@
     "nameWoDiacritics": "Krakor",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1232N 10412E",
+    "coordinates": {
+      "lat": 12.533333333333333,
+      "lon": 10.683333333333334
+    },
     "remarks": ""
   },
   {
@@ -175,10 +236,15 @@
     "nameWoDiacritics": "Kratie",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -189,10 +255,15 @@
     "nameWoDiacritics": "Memot",
     "subdivision": "3",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1149N 10611E",
+    "coordinates": {
+      "lat": 11.816666666666666,
+      "lon": 11.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -203,10 +274,15 @@
     "nameWoDiacritics": "Mundulkiri",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -217,10 +293,15 @@
     "nameWoDiacritics": "Oddor Meanche",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -231,10 +312,15 @@
     "nameWoDiacritics": "Pailin",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -245,10 +331,16 @@
     "nameWoDiacritics": "Paoy Pet (Poipet)",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "1339N 10233E",
+    "coordinates": {
+      "lat": 13.65,
+      "lon": 10.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -259,10 +351,17 @@
     "nameWoDiacritics": "Phnom Penh",
     "subdivision": "",
     "status": "AI",
-    "function": "1--45---",
+    "function": [
+      0,
+      3,
+      4
+    ],
     "date": "9601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -273,10 +372,15 @@
     "nameWoDiacritics": "Phumi Svay Rolum",
     "subdivision": "20",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1116N 10549E",
+    "coordinates": {
+      "lat": 11.266666666666667,
+      "lon": 10.9
+    },
     "remarks": ""
   },
   {
@@ -287,10 +391,16 @@
     "nameWoDiacritics": "Poipet (Paoy Pet)",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "1339N 10233E",
+    "coordinates": {
+      "lat": 13.65,
+      "lon": 10.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -301,10 +411,15 @@
     "nameWoDiacritics": "Pursat",
     "subdivision": "15",
     "status": "RQ",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1232N 10355E",
+    "coordinates": {
+      "lat": 12.533333333333333,
+      "lon": 10.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -315,10 +430,15 @@
     "nameWoDiacritics": "Ratanakiri",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -329,10 +449,15 @@
     "nameWoDiacritics": "Siem Reap",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -343,10 +468,13 @@
     "nameWoDiacritics": "Sihanoukville = Kampong Saom",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -357,10 +485,15 @@
     "nameWoDiacritics": "Sre Ambel",
     "subdivision": "9",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "1107N 10346E",
+    "coordinates": {
+      "lat": 11.116666666666667,
+      "lon": 10.566666666666666
+    },
     "remarks": ""
   },
   {
@@ -371,10 +504,15 @@
     "nameWoDiacritics": "Stung Treng",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -385,10 +523,15 @@
     "nameWoDiacritics": "Svay Rieng",
     "subdivision": "",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0001",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -399,10 +542,15 @@
     "nameWoDiacritics": "Ta Khmau",
     "subdivision": "12",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "1129N 10457E",
+    "coordinates": {
+      "lat": 11.483333333333333,
+      "lon": 10.75
+    },
     "remarks": ""
   }
 ]

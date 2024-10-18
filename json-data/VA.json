@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,16 @@
     "nameWoDiacritics": "Vatican City",
     "subdivision": "",
     "status": "AI",
-    "function": "--3-5---",
+    "function": [
+      2,
+      4
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "4154N 01227E",
+    "coordinates": {
+      "lat": 41.9,
+      "lon": 1.3666666666666667
+    },
     "remarks": ""
   }
 ]

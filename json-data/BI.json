@@ -1,254 +1,282 @@
 [
   {
-    "change": "",
     "country": "BI",
-    "location": "",
     "name": ".BURUNDI",
-    "nameWoDiacritics": "",
-    "subdivision": "",
-    "status": "",
-    "function": "",
-    "date": "",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [],
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BI",
     "location": "BBZ",
     "name": "Bubanza",
     "nameWoDiacritics": "Bubanza",
     "subdivision": "BB",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0501",
-    "iata": "",
-    "coordinates": "0305S 02923E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 501,
+    "coordinates": {
+      "lat": -3.0833333333333335,
+      "lon": 3.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "BI",
     "location": "BJM",
     "name": "Bujumbura",
     "nameWoDiacritics": "Bujumbura",
-    "subdivision": "",
     "status": "AI",
-    "function": "---45---",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3,
+      4
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BI",
     "location": "BRR",
     "name": "Bururi",
     "nameWoDiacritics": "Bururi",
     "subdivision": "BR",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0501",
-    "iata": "",
-    "coordinates": "0357S 02937E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 501,
+    "coordinates": {
+      "lat": -3.95,
+      "lon": 3.55
+    }
   },
   {
-    "change": "",
     "country": "BI",
     "location": "CKZ",
     "name": "Cankuzo",
     "nameWoDiacritics": "Cankuzo",
     "subdivision": "CA",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1707",
-    "iata": "",
-    "coordinates": "0313S 03033E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1707,
+    "coordinates": {
+      "lat": -3.216666666666667,
+      "lon": 3.05
+    }
   },
   {
-    "change": "",
     "country": "BI",
     "location": "CBK",
     "name": "Cibitoke",
     "nameWoDiacritics": "Cibitoke",
     "subdivision": "BM",
     "status": "RL",
-    "function": "1-3-----",
-    "date": "1307",
-    "iata": "",
-    "coordinates": "0320S 02922E",
-    "remarks": ""
+    "function": [
+      0,
+      2
+    ],
+    "date": 1307,
+    "coordinates": {
+      "lat": -3.3333333333333335,
+      "lon": 3.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "BI",
     "location": "GID",
     "name": "Gitega",
     "nameWoDiacritics": "Gitega",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BI",
     "location": "KKB",
     "name": "Karuzi",
     "nameWoDiacritics": "Karuzi",
     "subdivision": "KR",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1701",
-    "iata": "",
-    "coordinates": "0306S 03009E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1701,
+    "coordinates": {
+      "lat": -3.1,
+      "lon": 3
+    }
   },
   {
-    "change": "",
     "country": "BI",
     "location": "KYZ",
     "name": "Kayanza",
     "nameWoDiacritics": "Kayanza",
     "subdivision": "KY",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1701",
-    "iata": "",
-    "coordinates": "0255S 02937E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1701,
+    "coordinates": {
+      "lat": -2.9166666666666665,
+      "lon": 3.55
+    }
   },
   {
-    "change": "",
     "country": "BI",
     "location": "KRE",
     "name": "Kirundo",
     "nameWoDiacritics": "Kirundo",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9912",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9912,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "BI",
     "location": "MMB",
     "name": "Makamba",
     "nameWoDiacritics": "Makamba",
     "subdivision": "MA",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1701",
-    "iata": "",
-    "coordinates": "0408S 02948E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1701,
+    "coordinates": {
+      "lat": -4.133333333333334,
+      "lon": 3.5666666666666664
+    }
   },
   {
-    "change": "",
     "country": "BI",
     "location": "MUR",
     "name": "Muramvya",
     "nameWoDiacritics": "Muramvya",
     "subdivision": "MU",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1701",
-    "iata": "",
-    "coordinates": "0316S 02937E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1701,
+    "coordinates": {
+      "lat": -3.2666666666666666,
+      "lon": 3.55
+    }
   },
   {
-    "change": "",
     "country": "BI",
     "location": "MYG",
     "name": "Muyinga",
     "nameWoDiacritics": "Muyinga",
     "subdivision": "MY",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0501",
-    "iata": "",
-    "coordinates": "0250S 03020E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 501,
+    "coordinates": {
+      "lat": -2.8333333333333335,
+      "lon": 3.033333333333333
+    }
   },
   {
-    "change": "",
     "country": "BI",
     "location": "MWM",
     "name": "Mwaro",
     "nameWoDiacritics": "Mwaro",
     "subdivision": "MU",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1701",
-    "iata": "",
-    "coordinates": "0331S 02942E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1701,
+    "coordinates": {
+      "lat": -3.5166666666666666,
+      "lon": 3.5666666666666664
+    }
   },
   {
-    "change": "",
     "country": "BI",
     "location": "NGZ",
     "name": "Ngozi",
     "nameWoDiacritics": "Ngozi",
     "subdivision": "NG",
     "status": "RL",
-    "function": "--3-----",
-    "date": "0501",
-    "iata": "",
-    "coordinates": "0254S 02949E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 501,
+    "coordinates": {
+      "lat": -2.9,
+      "lon": 3.5666666666666664
+    }
   },
   {
-    "change": "",
     "country": "BI",
     "location": "RUM",
     "name": "Rumonge",
     "nameWoDiacritics": "Rumonge",
     "subdivision": "RM",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1701",
-    "iata": "",
-    "coordinates": "0358S 02926E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1701,
+    "coordinates": {
+      "lat": -3.966666666666667,
+      "lon": 3.533333333333333
+    }
   },
   {
-    "change": "",
     "country": "BI",
     "location": "RUT",
     "name": "Rutana",
     "nameWoDiacritics": "Rutana",
     "subdivision": "RT",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1701",
-    "iata": "",
-    "coordinates": "0355S 03000E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1701,
+    "coordinates": {
+      "lat": -3.9166666666666665,
+      "lon": 3
+    }
   },
   {
-    "change": "",
     "country": "BI",
     "location": "RUY",
     "name": "Ruyigi",
     "nameWoDiacritics": "Ruyigi",
     "subdivision": "RY",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1701",
-    "iata": "",
-    "coordinates": "0328S 03014E",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1701,
+    "coordinates": {
+      "lat": -3.466666666666667,
+      "lon": 3.0166666666666666
+    }
   }
 ]

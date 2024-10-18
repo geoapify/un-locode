@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "An Giang",
     "subdivision": "44",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,15 @@
     "nameWoDiacritics": "An Phu",
     "subdivision": "44",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "1051N 10505E",
+    "coordinates": {
+      "lat": 10.85,
+      "lon": 10.833333333333334
+    },
     "remarks": ""
   },
   {
@@ -49,10 +62,15 @@
     "nameWoDiacritics": "B12 Oil Terminal",
     "subdivision": "13",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "2057N 10303E",
+    "coordinates": {
+      "lat": 20.95,
+      "lon": 10.5
+    },
     "remarks": ""
   },
   {
@@ -63,10 +81,16 @@
     "nameWoDiacritics": "Ba Ngoi",
     "subdivision": "34",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "1154N 10909E",
+    "coordinates": {
+      "lat": 11.9,
+      "lon": 11.5
+    },
     "remarks": ""
   },
   {
@@ -77,10 +101,15 @@
     "nameWoDiacritics": "Ba Ria",
     "subdivision": "43",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "1030N 10710E",
+    "coordinates": {
+      "lat": 10.5,
+      "lon": 11.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -91,10 +120,15 @@
     "nameWoDiacritics": "Bac Giang",
     "subdivision": "54",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -105,10 +139,15 @@
     "nameWoDiacritics": "Bac Lieu",
     "subdivision": "55",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "0917N 10543E",
+    "coordinates": {
+      "lat": 9.283333333333333,
+      "lon": 10.9
+    },
     "remarks": ""
   },
   {
@@ -119,10 +158,15 @@
     "nameWoDiacritics": "Bac Ninh",
     "subdivision": "56",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -133,10 +177,15 @@
     "nameWoDiacritics": "Bach Ho",
     "subdivision": "40",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "0950N 10800E",
+    "coordinates": {
+      "lat": 9.833333333333334,
+      "lon": 11.333333333333334
+    },
     "remarks": ""
   },
   {
@@ -147,10 +196,15 @@
     "nameWoDiacritics": "Banmethuot",
     "subdivision": "",
     "status": "RQ",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1240N 10806E",
+    "coordinates": {
+      "lat": 12.666666666666666,
+      "lon": 11.333333333333334
+    },
     "remarks": ""
   },
   {
@@ -161,10 +215,15 @@
     "nameWoDiacritics": "Bao Loc",
     "subdivision": "35",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -175,10 +234,15 @@
     "nameWoDiacritics": "Ben Cat",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "1109N 10636E",
+    "coordinates": {
+      "lat": 11.15,
+      "lon": 11.05
+    },
     "remarks": ""
   },
   {
@@ -189,10 +253,15 @@
     "nameWoDiacritics": "Ben Dam Con Dao Terminals",
     "subdivision": "43",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "0839N 10633E",
+    "coordinates": {
+      "lat": 8.65,
+      "lon": 11.05
+    },
     "remarks": ""
   },
   {
@@ -203,10 +272,15 @@
     "nameWoDiacritics": "Ben Nghe",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1916N 10536E",
+    "coordinates": {
+      "lat": 19.266666666666666,
+      "lon": 10.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -217,10 +291,16 @@
     "nameWoDiacritics": "Ben Nghe",
     "subdivision": "SG",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "1045N 10644E",
+    "coordinates": {
+      "lat": 10.75,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -231,10 +311,15 @@
     "nameWoDiacritics": "Ben Tre",
     "subdivision": "50",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "1014N 10623E",
+    "coordinates": {
+      "lat": 10.233333333333333,
+      "lon": 11.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -245,10 +330,15 @@
     "nameWoDiacritics": "Benthuy",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -259,10 +349,15 @@
     "nameWoDiacritics": "Bien Hoa",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "1058N 10650E",
+    "coordinates": {
+      "lat": 10.966666666666667,
+      "lon": 11.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -273,10 +368,15 @@
     "nameWoDiacritics": "Binh Chanh",
     "subdivision": "SG",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "1040N 10634E",
+    "coordinates": {
+      "lat": 10.666666666666666,
+      "lon": 11.05
+    },
     "remarks": ""
   },
   {
@@ -287,10 +387,15 @@
     "nameWoDiacritics": "Binh Dinh",
     "subdivision": "31",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -301,10 +406,16 @@
     "nameWoDiacritics": "Binh Duong",
     "subdivision": "27",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -315,10 +426,16 @@
     "nameWoDiacritics": "Binh Duong Terminal",
     "subdivision": "57",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "1054N 10650E",
+    "coordinates": {
+      "lat": 10.9,
+      "lon": 11.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -329,10 +446,15 @@
     "nameWoDiacritics": "Binh Hoa",
     "subdivision": "57",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "1430N 10855E",
+    "coordinates": {
+      "lat": 14.5,
+      "lon": 11.416666666666666
+    },
     "remarks": ""
   },
   {
@@ -343,10 +465,15 @@
     "nameWoDiacritics": "Binh Hoa",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "1056N 10643E",
+    "coordinates": {
+      "lat": 10.933333333333334,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -357,10 +484,15 @@
     "nameWoDiacritics": "Binh Long Port",
     "subdivision": "44",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "1034N 10515E",
+    "coordinates": {
+      "lat": 10.566666666666666,
+      "lon": 10.85
+    },
     "remarks": ""
   },
   {
@@ -371,10 +503,16 @@
     "nameWoDiacritics": "Binh Minh",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1007",
     "iata": "",
-    "coordinates": "1020N 10549E",
+    "coordinates": {
+      "lat": 10.333333333333334,
+      "lon": 10.9
+    },
     "remarks": ""
   },
   {
@@ -385,10 +523,15 @@
     "nameWoDiacritics": "Binh Thanh",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "1046N 10645E",
+    "coordinates": {
+      "lat": 10.766666666666667,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -399,10 +542,15 @@
     "nameWoDiacritics": "Binh Thuan",
     "subdivision": "40",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -413,10 +561,16 @@
     "nameWoDiacritics": "Bong Sen",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1041N 10646E",
+    "coordinates": {
+      "lat": 10.683333333333334,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -427,10 +581,15 @@
     "nameWoDiacritics": "Bong Son",
     "subdivision": "",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1426N 10901E",
+    "coordinates": {
+      "lat": 14.433333333333334,
+      "lon": 11.5
+    },
     "remarks": ""
   },
   {
@@ -441,10 +600,15 @@
     "nameWoDiacritics": "Buon Ma Thuot",
     "subdivision": "33",
     "status": "RQ",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "1240N 10803E",
+    "coordinates": {
+      "lat": 12.666666666666666,
+      "lon": 11.333333333333334
+    },
     "remarks": ""
   },
   {
@@ -455,10 +619,15 @@
     "nameWoDiacritics": "Ca Mau",
     "subdivision": "",
     "status": "RQ",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "0910N 10509E",
+    "coordinates": {
+      "lat": 9.166666666666666,
+      "lon": 10.833333333333334
+    },
     "remarks": ""
   },
   {
@@ -469,10 +638,16 @@
     "nameWoDiacritics": "Cai Cui Port",
     "subdivision": "CT",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "0959N 10630E",
+    "coordinates": {
+      "lat": 9.983333333333333,
+      "lon": 11.05
+    },
     "remarks": ""
   },
   {
@@ -483,10 +658,15 @@
     "nameWoDiacritics": "Cai Mep",
     "subdivision": "43",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "1023N 10705E",
+    "coordinates": {
+      "lat": 10.383333333333333,
+      "lon": 11.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -497,10 +677,16 @@
     "nameWoDiacritics": "Cai Mep International Terminal",
     "subdivision": "43",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "1031N 10700E",
+    "coordinates": {
+      "lat": 10.516666666666667,
+      "lon": 11.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -511,10 +697,15 @@
     "nameWoDiacritics": "Cam Khe",
     "subdivision": "70",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "2126N 10507E",
+    "coordinates": {
+      "lat": 21.433333333333334,
+      "lon": 10.833333333333334
+    },
     "remarks": ""
   },
   {
@@ -525,10 +716,17 @@
     "nameWoDiacritics": "Cam Lam",
     "subdivision": "34",
     "status": "RL",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1154N 10909E",
+    "coordinates": {
+      "lat": 11.9,
+      "lon": 11.5
+    },
     "remarks": ""
   },
   {
@@ -539,10 +737,15 @@
     "nameWoDiacritics": "Cam Pha",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -553,10 +756,15 @@
     "nameWoDiacritics": "Cam Ranh",
     "subdivision": "34",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "1154N 10908E",
+    "coordinates": {
+      "lat": 11.9,
+      "lon": 11.5
+    },
     "remarks": ""
   },
   {
@@ -567,10 +775,15 @@
     "nameWoDiacritics": "Camranh",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -581,10 +794,17 @@
     "nameWoDiacritics": "Can Tho",
     "subdivision": "CT",
     "status": "AI",
-    "function": "1-34----",
+    "function": [
+      0,
+      2,
+      3
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "1002N 10547E",
+    "coordinates": {
+      "lat": 10.033333333333333,
+      "lon": 10.9
+    },
     "remarks": ""
   },
   {
@@ -595,10 +815,15 @@
     "nameWoDiacritics": "Cao Bang",
     "subdivision": "04",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -609,10 +834,15 @@
     "nameWoDiacritics": "Cape Saint Jacques",
     "subdivision": "",
     "status": "RQ",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "1021N 10704E",
+    "coordinates": {
+      "lat": 10.35,
+      "lon": 11.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -623,10 +853,16 @@
     "nameWoDiacritics": "Cat Lai",
     "subdivision": "SG",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "1046N 10647E",
+    "coordinates": {
+      "lat": 10.766666666666667,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -637,10 +873,16 @@
     "nameWoDiacritics": "Cat Lai Oil Port",
     "subdivision": "SG",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "1044N 10646E",
+    "coordinates": {
+      "lat": 10.733333333333333,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -651,10 +893,16 @@
     "nameWoDiacritics": "Chan May Port",
     "subdivision": "26",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1620N 10800E",
+    "coordinates": {
+      "lat": 16.333333333333332,
+      "lon": 11.333333333333334
+    },
     "remarks": ""
   },
   {
@@ -665,10 +913,15 @@
     "nameWoDiacritics": "Chau Thanh",
     "subdivision": "31",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "1357N 10905E",
+    "coordinates": {
+      "lat": 13.95,
+      "lon": 11.5
+    },
     "remarks": ""
   },
   {
@@ -679,10 +932,15 @@
     "nameWoDiacritics": "Chi Linh",
     "subdivision": "61",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "2140N 10619E",
+    "coordinates": {
+      "lat": 21.666666666666668,
+      "lon": 11.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -693,10 +951,15 @@
     "nameWoDiacritics": "Chu Lai",
     "subdivision": "29",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1524N 10842E",
+    "coordinates": {
+      "lat": 15.4,
+      "lon": 11.4
+    },
     "remarks": ""
   },
   {
@@ -707,10 +970,16 @@
     "nameWoDiacritics": "Chua Ve Terminal",
     "subdivision": "HP",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "2052N 10642E",
+    "coordinates": {
+      "lat": 20.866666666666667,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -721,10 +990,16 @@
     "nameWoDiacritics": "Cua Cam Terminal",
     "subdivision": "HP",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "2052N 10641E",
+    "coordinates": {
+      "lat": 20.866666666666667,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -735,10 +1010,16 @@
     "nameWoDiacritics": "Cua Lo",
     "subdivision": "22",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1849N 10543E",
+    "coordinates": {
+      "lat": 18.816666666666666,
+      "lon": 10.9
+    },
     "remarks": ""
   },
   {
@@ -749,10 +1030,16 @@
     "nameWoDiacritics": "Cua Viet Port",
     "subdivision": "25",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1654N 10710E",
+    "coordinates": {
+      "lat": 16.9,
+      "lon": 11.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -763,10 +1050,16 @@
     "nameWoDiacritics": "Culao",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1848N 10542E",
+    "coordinates": {
+      "lat": 18.8,
+      "lon": 10.9
+    },
     "remarks": ""
   },
   {
@@ -777,10 +1070,16 @@
     "nameWoDiacritics": "Da Nang",
     "subdivision": "27",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1604N 10813E",
+    "coordinates": {
+      "lat": 16.066666666666666,
+      "lon": 11.35
+    },
     "remarks": ""
   },
   {
@@ -791,10 +1090,15 @@
     "nameWoDiacritics": "Dak Konong",
     "subdivision": "28",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1448N 10754E",
+    "coordinates": {
+      "lat": 14.8,
+      "lon": 11.25
+    },
     "remarks": ""
   },
   {
@@ -805,10 +1109,15 @@
     "nameWoDiacritics": "Dalat",
     "subdivision": "",
     "status": "RQ",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1156N 10825E",
+    "coordinates": {
+      "lat": 11.933333333333334,
+      "lon": 11.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -819,10 +1128,15 @@
     "nameWoDiacritics": "Dam Mon",
     "subdivision": "34",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1240N 10924E",
+    "coordinates": {
+      "lat": 12.666666666666666,
+      "lon": 11.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -833,10 +1147,16 @@
     "nameWoDiacritics": "Di An",
     "subdivision": "57",
     "status": "RL",
-    "function": "--3--6--",
+    "function": [
+      2,
+      5
+    ],
     "date": "2001",
     "iata": "",
-    "coordinates": "1054N 10645E",
+    "coordinates": {
+      "lat": 10.9,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -847,10 +1167,16 @@
     "nameWoDiacritics": "Dinh Vu Terminal",
     "subdivision": "HP",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "2054N 10646E",
+    "coordinates": {
+      "lat": 20.9,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -861,10 +1187,16 @@
     "nameWoDiacritics": "Doan Xa Terminal",
     "subdivision": "HP",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "2052N 10641E",
+    "coordinates": {
+      "lat": 20.866666666666667,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -875,10 +1207,15 @@
     "nameWoDiacritics": "Dong Da",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "2238N 10624E",
+    "coordinates": {
+      "lat": 22.633333333333333,
+      "lon": 11.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -889,10 +1226,15 @@
     "nameWoDiacritics": "Dong Ha",
     "subdivision": "61",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "2058N 10618E",
+    "coordinates": {
+      "lat": 20.966666666666665,
+      "lon": 11.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -903,10 +1245,16 @@
     "nameWoDiacritics": "Dong Hai",
     "subdivision": "23",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "1810N 10617E",
+    "coordinates": {
+      "lat": 18.166666666666668,
+      "lon": 11.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -917,10 +1265,15 @@
     "nameWoDiacritics": "Dong Hoa",
     "subdivision": "57",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "1054N 10647E",
+    "coordinates": {
+      "lat": 10.9,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -931,10 +1284,15 @@
     "nameWoDiacritics": "Dong Hoi",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -945,10 +1303,16 @@
     "nameWoDiacritics": "Dong Nai",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1805N 10619E",
+    "coordinates": {
+      "lat": 18.083333333333332,
+      "lon": 11.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -959,10 +1323,15 @@
     "nameWoDiacritics": "Dong Son",
     "subdivision": "46",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "1024N 10634E",
+    "coordinates": {
+      "lat": 10.4,
+      "lon": 11.05
+    },
     "remarks": ""
   },
   {
@@ -973,10 +1342,16 @@
     "nameWoDiacritics": "Dong Thap",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1029N 10534E",
+    "coordinates": {
+      "lat": 10.483333333333333,
+      "lon": 10.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -987,10 +1362,16 @@
     "nameWoDiacritics": "Dong Xuyen Port",
     "subdivision": "43",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1024N 10706E",
+    "coordinates": {
+      "lat": 10.4,
+      "lon": 11.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1001,10 +1382,15 @@
     "nameWoDiacritics": "Duc Hoa",
     "subdivision": "41",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1049N 10627E",
+    "coordinates": {
+      "lat": 10.816666666666666,
+      "lon": 11.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -1015,10 +1401,18 @@
     "nameWoDiacritics": "Dung Quat",
     "subdivision": "29",
     "status": "RL",
-    "function": "1-34-6--",
+    "function": [
+      0,
+      2,
+      3,
+      5
+    ],
     "date": "0701",
     "iata": "VCL",
-    "coordinates": "1524N 10842E",
+    "coordinates": {
+      "lat": 15.4,
+      "lon": 11.4
+    },
     "remarks": ""
   },
   {
@@ -1029,10 +1423,15 @@
     "nameWoDiacritics": "Gia Lai",
     "subdivision": "30",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1043,10 +1442,16 @@
     "nameWoDiacritics": "Gia Lam",
     "subdivision": "",
     "status": "RL",
-    "function": "--3--6--",
+    "function": [
+      2,
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "2104N 10589E",
+    "coordinates": {
+      "lat": 21.066666666666666,
+      "lon": 10.966666666666667
+    },
     "remarks": ""
   },
   {
@@ -1057,10 +1462,15 @@
     "nameWoDiacritics": "Gia Lam Pho",
     "subdivision": "HN",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "2103N 10553E",
+    "coordinates": {
+      "lat": 21.05,
+      "lon": 10.916666666666666
+    },
     "remarks": ""
   },
   {
@@ -1071,10 +1481,16 @@
     "nameWoDiacritics": "Go Dau A Terminal",
     "subdivision": "39",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1039N 10701E",
+    "coordinates": {
+      "lat": 10.65,
+      "lon": 11.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1085,10 +1501,16 @@
     "nameWoDiacritics": "Go Dau B Terminal",
     "subdivision": "39",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1037N 10701E",
+    "coordinates": {
+      "lat": 10.616666666666667,
+      "lon": 11.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1099,10 +1521,15 @@
     "nameWoDiacritics": "Ha Giang",
     "subdivision": "03",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "2250N 10459E",
+    "coordinates": {
+      "lat": 22.833333333333332,
+      "lon": 10.75
+    },
     "remarks": ""
   },
   {
@@ -1113,10 +1540,16 @@
     "nameWoDiacritics": "Ha Long",
     "subdivision": "13",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "2207",
     "iata": "",
-    "coordinates": "2057N 10704E",
+    "coordinates": {
+      "lat": 20.95,
+      "lon": 11.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -1127,10 +1560,15 @@
     "nameWoDiacritics": "Ha Tay",
     "subdivision": "HN",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1141,10 +1579,15 @@
     "nameWoDiacritics": "Ha Tinh",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1155,10 +1598,16 @@
     "nameWoDiacritics": "Hai Duong",
     "subdivision": "61",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1169,10 +1618,16 @@
     "nameWoDiacritics": "Hai Son",
     "subdivision": "DN",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1606N 10814E",
+    "coordinates": {
+      "lat": 16.1,
+      "lon": 11.35
+    },
     "remarks": ""
   },
   {
@@ -1183,10 +1638,15 @@
     "nameWoDiacritics": "Haiphong",
     "subdivision": "",
     "status": "AI",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1197,10 +1657,17 @@
     "nameWoDiacritics": "Hanoi",
     "subdivision": "HN",
     "status": "AI",
-    "function": "1--45---",
+    "function": [
+      0,
+      3,
+      4
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "2102N 10551E",
+    "coordinates": {
+      "lat": 21.033333333333335,
+      "lon": 10.916666666666666
+    },
     "remarks": ""
   },
   {
@@ -1211,10 +1678,15 @@
     "nameWoDiacritics": "Hau Giang",
     "subdivision": "73",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1225,10 +1697,16 @@
     "nameWoDiacritics": "Hiep Phuoc Port",
     "subdivision": "SG",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "1038N 10645E",
+    "coordinates": {
+      "lat": 10.633333333333333,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1239,10 +1717,15 @@
     "nameWoDiacritics": "Hiep Thanh",
     "subdivision": "36",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "1150N 10906E",
+    "coordinates": {
+      "lat": 11.833333333333334,
+      "lon": 11.5
+    },
     "remarks": ""
   },
   {
@@ -1253,10 +1736,19 @@
     "nameWoDiacritics": "Ho Chi Minh City",
     "subdivision": "SG",
     "status": "AI",
-    "function": "1-3456--",
+    "function": [
+      0,
+      2,
+      3,
+      4,
+      5
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "1046N 10640E",
+    "coordinates": {
+      "lat": 10.766666666666667,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1267,10 +1759,13 @@
     "nameWoDiacritics": " VICT\"",
     "subdivision": "\"Ho Chi Minh",
     "status": " VICT\"",
-    "function": "",
+    "function": [],
     "date": "RQ",
     "iata": "1-------",
-    "coordinates": "0212",
+    "coordinates": {
+      "lat": 2.2,
+      "lon": null
+    },
     "remarks": ""
   },
   {
@@ -1281,10 +1776,15 @@
     "nameWoDiacritics": "Hoa Binh",
     "subdivision": "14",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "2048N 10520E",
+    "coordinates": {
+      "lat": 20.8,
+      "lon": 10.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -1295,10 +1795,15 @@
     "nameWoDiacritics": "Hoa Lac",
     "subdivision": "70",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "2115N 10528E",
+    "coordinates": {
+      "lat": 21.25,
+      "lon": 10.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -1309,10 +1814,16 @@
     "nameWoDiacritics": "Hoa Mac",
     "subdivision": "63",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "2038N 10600E",
+    "coordinates": {
+      "lat": 20.633333333333333,
+      "lon": 11
+    },
     "remarks": ""
   },
   {
@@ -1323,10 +1834,15 @@
     "nameWoDiacritics": "Hoa Vang",
     "subdivision": "",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "1601N 10813E",
+    "coordinates": {
+      "lat": 16.016666666666666,
+      "lon": 11.35
+    },
     "remarks": ""
   },
   {
@@ -1337,10 +1853,15 @@
     "nameWoDiacritics": "Hoai An",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1351,10 +1872,15 @@
     "nameWoDiacritics": "Hoi An",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1365,10 +1891,15 @@
     "nameWoDiacritics": "Hon Chong",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1379,10 +1910,15 @@
     "nameWoDiacritics": "Hon La Port",
     "subdivision": "24",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "1756N 10631E",
+    "coordinates": {
+      "lat": 17.933333333333334,
+      "lon": 11.05
+    },
     "remarks": ""
   },
   {
@@ -1393,10 +1929,15 @@
     "nameWoDiacritics": "Hongai",
     "subdivision": "",
     "status": "QQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1407,10 +1948,16 @@
     "nameWoDiacritics": "Hue",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1421,10 +1968,16 @@
     "nameWoDiacritics": "Hung Yen",
     "subdivision": "66",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1435,10 +1988,15 @@
     "nameWoDiacritics": "ICD Phuc Long",
     "subdivision": "22",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "1841N 10539E",
+    "coordinates": {
+      "lat": 18.683333333333334,
+      "lon": 10.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -1449,10 +2007,17 @@
     "nameWoDiacritics": "ICD Sotrans",
     "subdivision": "SG",
     "status": "RQ",
-    "function": "1-3--6--",
+    "function": [
+      0,
+      2,
+      5
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "1049N 10645E",
+    "coordinates": {
+      "lat": 10.816666666666666,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1463,10 +2028,17 @@
     "nameWoDiacritics": "ICD TRANSIMEX THU DUC",
     "subdivision": "SG",
     "status": "RL",
-    "function": "1-3--6--",
+    "function": [
+      0,
+      2,
+      5
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "1050N 10645E",
+    "coordinates": {
+      "lat": 10.833333333333334,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1477,10 +2049,15 @@
     "nameWoDiacritics": "Khanh Hoi",
     "subdivision": "SG",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "1045N 10642E",
+    "coordinates": {
+      "lat": 10.75,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1491,10 +2068,15 @@
     "nameWoDiacritics": "Khonh Hung",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1505,10 +2087,15 @@
     "nameWoDiacritics": "Kim Dong",
     "subdivision": "21",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "1928N 10538E",
+    "coordinates": {
+      "lat": 19.466666666666665,
+      "lon": 10.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -1519,10 +2106,15 @@
     "nameWoDiacritics": "Kon Tum",
     "subdivision": "28",
     "status": "RQ",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1533,10 +2125,15 @@
     "nameWoDiacritics": "Ky Anh",
     "subdivision": "23",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1805N 10618E",
+    "coordinates": {
+      "lat": 18.083333333333332,
+      "lon": 11.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -1547,10 +2144,16 @@
     "nameWoDiacritics": "Ky Ha Quang Nam Terminal",
     "subdivision": "27",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1528N 10841E",
+    "coordinates": {
+      "lat": 15.466666666666667,
+      "lon": 11.4
+    },
     "remarks": ""
   },
   {
@@ -1561,10 +2164,16 @@
     "nameWoDiacritics": "Ky Ha Terminal",
     "subdivision": "27",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1529N 10841E",
+    "coordinates": {
+      "lat": 15.483333333333333,
+      "lon": 11.4
+    },
     "remarks": ""
   },
   {
@@ -1575,10 +2184,15 @@
     "nameWoDiacritics": "Lam Dong",
     "subdivision": "35",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1589,10 +2203,15 @@
     "nameWoDiacritics": "Lam Thao",
     "subdivision": "23",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "1823N 10534E",
+    "coordinates": {
+      "lat": 18.383333333333333,
+      "lon": 10.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -1603,10 +2222,15 @@
     "nameWoDiacritics": "Lang Son",
     "subdivision": "14",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "2029N 10514E",
+    "coordinates": {
+      "lat": 20.483333333333334,
+      "lon": 10.85
+    },
     "remarks": ""
   },
   {
@@ -1617,10 +2241,15 @@
     "nameWoDiacritics": "Lao Bao",
     "subdivision": "25",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "1637N 10636E",
+    "coordinates": {
+      "lat": 16.616666666666667,
+      "lon": 11.05
+    },
     "remarks": ""
   },
   {
@@ -1631,10 +2260,15 @@
     "nameWoDiacritics": "Lao Cai",
     "subdivision": "02",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "2229N 10357E",
+    "coordinates": {
+      "lat": 22.483333333333334,
+      "lon": 10.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -1645,10 +2279,15 @@
     "nameWoDiacritics": "Loc Ninh",
     "subdivision": "37",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "1151N 10636E",
+    "coordinates": {
+      "lat": 11.85,
+      "lon": 11.05
+    },
     "remarks": ""
   },
   {
@@ -1659,10 +2298,15 @@
     "nameWoDiacritics": "Long An International Port",
     "subdivision": "41",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1032N 10644E",
+    "coordinates": {
+      "lat": 10.533333333333333,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1673,10 +2317,15 @@
     "nameWoDiacritics": "Long An-Ben Luc",
     "subdivision": "41",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1687,10 +2336,16 @@
     "nameWoDiacritics": "Long Binh",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "1115N 10690E",
+    "coordinates": {
+      "lat": 11.25,
+      "lon": 11.15
+    },
     "remarks": ""
   },
   {
@@ -1701,10 +2356,16 @@
     "nameWoDiacritics": "Long Binh Tan",
     "subdivision": "39",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1056N 10650E",
+    "coordinates": {
+      "lat": 10.933333333333334,
+      "lon": 11.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -1715,10 +2376,15 @@
     "nameWoDiacritics": "Long Thanh",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "1047N 10657E",
+    "coordinates": {
+      "lat": 10.783333333333333,
+      "lon": 11.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -1729,10 +2395,15 @@
     "nameWoDiacritics": "Long Xuyen",
     "subdivision": "",
     "status": "RQ",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1019N 10528E",
+    "coordinates": {
+      "lat": 10.316666666666666,
+      "lon": 10.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -1743,10 +2414,16 @@
     "nameWoDiacritics": "Lotus Port",
     "subdivision": "SG",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1044N 10644E",
+    "coordinates": {
+      "lat": 10.733333333333333,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1757,10 +2434,15 @@
     "nameWoDiacritics": "Luong Tai",
     "subdivision": "",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "2058N 10608E",
+    "coordinates": {
+      "lat": 20.966666666666665,
+      "lon": 11
+    },
     "remarks": ""
   },
   {
@@ -1771,10 +2453,15 @@
     "nameWoDiacritics": "Mai Dam",
     "subdivision": "73",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "0956N 10552E",
+    "coordinates": {
+      "lat": 9.933333333333334,
+      "lon": 10.916666666666666
+    },
     "remarks": ""
   },
   {
@@ -1785,10 +2472,15 @@
     "nameWoDiacritics": "Mong Cai",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1799,10 +2491,15 @@
     "nameWoDiacritics": "My Tho",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1813,10 +2510,16 @@
     "nameWoDiacritics": "My Thoi",
     "subdivision": "53",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1021N 10621E",
+    "coordinates": {
+      "lat": 10.35,
+      "lon": 11.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -1827,10 +2530,16 @@
     "nameWoDiacritics": "Nam Can Port",
     "subdivision": "59",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "0849N 10501E",
+    "coordinates": {
+      "lat": 8.816666666666666,
+      "lon": 10.833333333333334
+    },
     "remarks": ""
   },
   {
@@ -1841,10 +2550,15 @@
     "nameWoDiacritics": "Nam Dinh",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1855,10 +2569,17 @@
     "nameWoDiacritics": "Nam Hai Dinh Vu Port",
     "subdivision": "HP",
     "status": "RL",
-    "function": "123-----",
+    "function": [
+      0,
+      1,
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "2049N 10651E",
+    "coordinates": {
+      "lat": 20.816666666666666,
+      "lon": 11.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -1869,10 +2590,15 @@
     "nameWoDiacritics": "Nghe An",
     "subdivision": "22",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1883,10 +2609,16 @@
     "nameWoDiacritics": "Nghe Tinh",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "2024N 10609E",
+    "coordinates": {
+      "lat": 20.4,
+      "lon": 11
+    },
     "remarks": ""
   },
   {
@@ -1897,10 +2629,16 @@
     "nameWoDiacritics": "Nghi Son",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "1920N 10550E",
+    "coordinates": {
+      "lat": 19.333333333333332,
+      "lon": 10.916666666666666
+    },
     "remarks": ""
   },
   {
@@ -1911,10 +2649,16 @@
     "nameWoDiacritics": "Nguyen Van Troi Port",
     "subdivision": "DN",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1603N 10813E",
+    "coordinates": {
+      "lat": 16.05,
+      "lon": 11.35
+    },
     "remarks": ""
   },
   {
@@ -1925,10 +2669,16 @@
     "nameWoDiacritics": "Nha Be Oil Port",
     "subdivision": "SG",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "1042N 10644E",
+    "coordinates": {
+      "lat": 10.7,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -1939,10 +2689,16 @@
     "nameWoDiacritics": "Nha Trang",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1953,10 +2709,17 @@
     "nameWoDiacritics": "Nhon Trach",
     "subdivision": "39",
     "status": "RL",
-    "function": "1-3--6--",
+    "function": [
+      0,
+      2,
+      5
+    ],
     "date": "1807",
     "iata": "",
-    "coordinates": "1043N 10651E",
+    "coordinates": {
+      "lat": 10.716666666666667,
+      "lon": 11.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -1967,10 +2730,15 @@
     "nameWoDiacritics": "Ninh Binh",
     "subdivision": "18",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -1981,10 +2749,16 @@
     "nameWoDiacritics": "Ninh Hoa",
     "subdivision": "34",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "2001",
     "iata": "",
-    "coordinates": "1229N 10908E",
+    "coordinates": {
+      "lat": 12.483333333333333,
+      "lon": 11.5
+    },
     "remarks": ""
   },
   {
@@ -1995,10 +2769,15 @@
     "nameWoDiacritics": "Ninh Thuan",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2009,10 +2788,16 @@
     "nameWoDiacritics": "Phan Rang",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2023,10 +2808,15 @@
     "nameWoDiacritics": "Phan Rang-Thap Cham",
     "subdivision": "36",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "1134N 10859E",
+    "coordinates": {
+      "lat": 11.566666666666666,
+      "lon": 11.416666666666666
+    },
     "remarks": ""
   },
   {
@@ -2037,10 +2827,16 @@
     "nameWoDiacritics": "Phan Thiet",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2051,10 +2847,16 @@
     "nameWoDiacritics": "Phu Bai",
     "subdivision": "26",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "1622N 10744E",
+    "coordinates": {
+      "lat": 16.366666666666667,
+      "lon": 11.233333333333334
+    },
     "remarks": ""
   },
   {
@@ -2065,10 +2867,15 @@
     "nameWoDiacritics": "Phu Giao",
     "subdivision": "57",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "1113N 10644E",
+    "coordinates": {
+      "lat": 11.216666666666667,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -2079,10 +2886,16 @@
     "nameWoDiacritics": "Phu Ly",
     "subdivision": "63",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "2032N 10554E",
+    "coordinates": {
+      "lat": 20.533333333333335,
+      "lon": 10.916666666666666
+    },
     "remarks": ""
   },
   {
@@ -2093,10 +2906,15 @@
     "nameWoDiacritics": "Phu My",
     "subdivision": "",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2107,10 +2925,15 @@
     "nameWoDiacritics": "Phu Nhuan",
     "subdivision": "SG",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "1047N 10640E",
+    "coordinates": {
+      "lat": 10.783333333333333,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -2121,10 +2944,16 @@
     "nameWoDiacritics": "Phu Quoc",
     "subdivision": "",
     "status": "AM",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "2201",
     "iata": "",
-    "coordinates": "1013N 10358E",
+    "coordinates": {
+      "lat": 10.216666666666667,
+      "lon": 10.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -2135,10 +2964,15 @@
     "nameWoDiacritics": "Phu Tho",
     "subdivision": "68",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "2120N 10510E",
+    "coordinates": {
+      "lat": 21.333333333333332,
+      "lon": 10.85
+    },
     "remarks": ""
   },
   {
@@ -2149,10 +2983,15 @@
     "nameWoDiacritics": "Phu Yen",
     "subdivision": "32",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2163,10 +3002,15 @@
     "nameWoDiacritics": "Phu-bon",
     "subdivision": "",
     "status": "RQ",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1200N 10600E",
+    "coordinates": {
+      "lat": 12,
+      "lon": 11
+    },
     "remarks": ""
   },
   {
@@ -2177,10 +3021,16 @@
     "nameWoDiacritics": "Phuoc Long",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0407",
     "iata": "VSO",
-    "coordinates": "1043N 10657E",
+    "coordinates": {
+      "lat": 10.716666666666667,
+      "lon": 11.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -2191,10 +3041,16 @@
     "nameWoDiacritics": "Phuoc Long ICD",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0501",
     "iata": "",
-    "coordinates": "1042N 10657E",
+    "coordinates": {
+      "lat": 10.7,
+      "lon": 11.083333333333334
+    },
     "remarks": "ICD"
   },
   {
@@ -2205,10 +3061,15 @@
     "nameWoDiacritics": "Phuoe Le",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2219,10 +3080,15 @@
     "nameWoDiacritics": "Pleiku",
     "subdivision": "30",
     "status": "RQ",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "1359N 10800E",
+    "coordinates": {
+      "lat": 13.983333333333333,
+      "lon": 11.333333333333334
+    },
     "remarks": ""
   },
   {
@@ -2233,10 +3099,16 @@
     "nameWoDiacritics": "Pleiku",
     "subdivision": "28",
     "status": "RQ",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1400N 10801E",
+    "coordinates": {
+      "lat": 14,
+      "lon": 11.333333333333334
+    },
     "remarks": ""
   },
   {
@@ -2247,10 +3119,15 @@
     "nameWoDiacritics": "Po Hang",
     "subdivision": "26",
     "status": "RQ",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2261,10 +3138,15 @@
     "nameWoDiacritics": "Quanduc",
     "subdivision": "",
     "status": "RQ",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2275,10 +3157,16 @@
     "nameWoDiacritics": "Quang Binh",
     "subdivision": "24",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1730N 10620E",
+    "coordinates": {
+      "lat": 17.5,
+      "lon": 11.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -2289,10 +3177,15 @@
     "nameWoDiacritics": "Quang Long",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2303,10 +3196,15 @@
     "nameWoDiacritics": "Quang Nam",
     "subdivision": "27",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2317,10 +3215,15 @@
     "nameWoDiacritics": "Quang Ngai",
     "subdivision": "43",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1707",
     "iata": "",
-    "coordinates": "1507N 10848E",
+    "coordinates": {
+      "lat": 15.116666666666667,
+      "lon": 11.4
+    },
     "remarks": ""
   },
   {
@@ -2331,10 +3234,16 @@
     "nameWoDiacritics": "Quang Ngai",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2345,10 +3254,16 @@
     "nameWoDiacritics": "Quang Ninh",
     "subdivision": "13",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1724N 10638E",
+    "coordinates": {
+      "lat": 17.4,
+      "lon": 11.05
+    },
     "remarks": ""
   },
   {
@@ -2359,10 +3274,15 @@
     "nameWoDiacritics": "Quang Tri",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2373,10 +3293,15 @@
     "nameWoDiacritics": "Que Duong",
     "subdivision": "56",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0701",
     "iata": "",
-    "coordinates": "2109N 10610E",
+    "coordinates": {
+      "lat": 21.15,
+      "lon": 11.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -2387,10 +3312,17 @@
     "nameWoDiacritics": "Qui Nhon",
     "subdivision": "31",
     "status": "AI",
-    "function": "1-34----",
+    "function": [
+      0,
+      2,
+      3
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "1346N 10913E",
+    "coordinates": {
+      "lat": 13.766666666666667,
+      "lon": 11.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -2401,10 +3333,15 @@
     "nameWoDiacritics": "Rach Gia",
     "subdivision": "",
     "status": "RQ",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2415,10 +3352,15 @@
     "nameWoDiacritics": "Rang Dong",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1000N 10820E",
+    "coordinates": {
+      "lat": 10,
+      "lon": 11.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -2429,10 +3371,16 @@
     "nameWoDiacritics": "Rao Qua",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1827N 10519E",
+    "coordinates": {
+      "lat": 18.45,
+      "lon": 10.85
+    },
     "remarks": ""
   },
   {
@@ -2443,10 +3391,15 @@
     "nameWoDiacritics": "Red Beach",
     "subdivision": "",
     "status": "RQ",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2457,10 +3410,15 @@
     "nameWoDiacritics": "Ruby",
     "subdivision": "",
     "status": "RQ",
-    "function": "------7-",
+    "function": [
+      6
+    ],
     "date": "0907",
     "iata": "",
-    "coordinates": "1023N 10830E",
+    "coordinates": {
+      "lat": 10.383333333333333,
+      "lon": 11.383333333333333
+    },
     "remarks": ""
   },
   {
@@ -2471,10 +3429,16 @@
     "nameWoDiacritics": "Sa Dec",
     "subdivision": "45",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1018N 10546E",
+    "coordinates": {
+      "lat": 10.3,
+      "lon": 10.9
+    },
     "remarks": ""
   },
   {
@@ -2485,10 +3449,16 @@
     "nameWoDiacritics": "Sai Gon Port",
     "subdivision": "SG",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "1050N 10645E",
+    "coordinates": {
+      "lat": 10.833333333333334,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -2499,10 +3469,16 @@
     "nameWoDiacritics": "Saigon ITV/Phu My",
     "subdivision": "43",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "1036N 10701E",
+    "coordinates": {
+      "lat": 10.6,
+      "lon": 11.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -2513,10 +3489,16 @@
     "nameWoDiacritics": "Saigon Petro Oil Terminal",
     "subdivision": "SG",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "1045N 10647E",
+    "coordinates": {
+      "lat": 10.75,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -2527,10 +3509,16 @@
     "nameWoDiacritics": "Soc Trang",
     "subdivision": "52",
     "status": "AI",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "0936N 10558E",
+    "coordinates": {
+      "lat": 9.6,
+      "lon": 10.916666666666666
+    },
     "remarks": ""
   },
   {
@@ -2541,10 +3529,15 @@
     "nameWoDiacritics": "Son Duong Port",
     "subdivision": "23",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1806N 10627E",
+    "coordinates": {
+      "lat": 18.1,
+      "lon": 11.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -2555,10 +3548,16 @@
     "nameWoDiacritics": "Son La",
     "subdivision": "",
     "status": "RL",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "2119N 10354E",
+    "coordinates": {
+      "lat": 21.316666666666666,
+      "lon": 10.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -2569,10 +3568,15 @@
     "nameWoDiacritics": "Song Doc",
     "subdivision": "",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "0709N 10405E",
+    "coordinates": {
+      "lat": 7.15,
+      "lon": 10.666666666666666
+    },
     "remarks": ""
   },
   {
@@ -2583,10 +3587,16 @@
     "nameWoDiacritics": "Song Han 9",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1007",
     "iata": "",
-    "coordinates": "1603N 10813E",
+    "coordinates": {
+      "lat": 16.05,
+      "lon": 11.35
+    },
     "remarks": ""
   },
   {
@@ -2597,10 +3607,17 @@
     "nameWoDiacritics": "Song Than ICD",
     "subdivision": "57",
     "status": "RL",
-    "function": "--3--67-",
+    "function": [
+      2,
+      5,
+      6
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1046N 10643E",
+    "coordinates": {
+      "lat": 10.766666666666667,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -2611,10 +3628,15 @@
     "nameWoDiacritics": "Su Tu Den",
     "subdivision": "40",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1025N 10824E",
+    "coordinates": {
+      "lat": 10.416666666666666,
+      "lon": 11.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -2625,10 +3647,15 @@
     "nameWoDiacritics": "Tamky",
     "subdivision": "27",
     "status": "AI",
-    "function": "---4----",
+    "function": [
+      3
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1533N 10828E",
+    "coordinates": {
+      "lat": 15.55,
+      "lon": 11.366666666666667
+    },
     "remarks": ""
   },
   {
@@ -2639,10 +3666,15 @@
     "nameWoDiacritics": "Tan An",
     "subdivision": "41",
     "status": "RQ",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1001",
     "iata": "",
-    "coordinates": "1032N 10625E",
+    "coordinates": {
+      "lat": 10.533333333333333,
+      "lon": 11.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -2653,10 +3685,15 @@
     "nameWoDiacritics": "Tan Binh",
     "subdivision": "SG",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "1048N 10639E",
+    "coordinates": {
+      "lat": 10.8,
+      "lon": 11.05
+    },
     "remarks": ""
   },
   {
@@ -2667,10 +3704,15 @@
     "nameWoDiacritics": "Tan Cang",
     "subdivision": "SG",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0407",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2681,10 +3723,17 @@
     "nameWoDiacritics": "Tan Cang - Long Binh ICD",
     "subdivision": "39",
     "status": "RQ",
-    "function": "-23--6--",
+    "function": [
+      1,
+      2,
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1054N 10652E",
+    "coordinates": {
+      "lat": 10.9,
+      "lon": 11.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -2695,10 +3744,16 @@
     "nameWoDiacritics": "Tan Cang - Mien Trung Terminal",
     "subdivision": "31",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1007",
     "iata": "",
-    "coordinates": "1346N 10914E",
+    "coordinates": {
+      "lat": 13.766666666666667,
+      "lon": 11.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -2709,10 +3764,15 @@
     "nameWoDiacritics": "Tan Cang Hiep Phuoc Port",
     "subdivision": "SG",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1501",
     "iata": "",
-    "coordinates": "1038N 10643E",
+    "coordinates": {
+      "lat": 10.633333333333333,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -2723,10 +3783,16 @@
     "nameWoDiacritics": "Tan Cang Qui Nhon",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1007",
     "iata": "",
-    "coordinates": "1346N 10950E",
+    "coordinates": {
+      "lat": 13.766666666666667,
+      "lon": 11.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -2737,10 +3803,16 @@
     "nameWoDiacritics": "Tan Canh",
     "subdivision": "41",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1439N 10750E",
+    "coordinates": {
+      "lat": 14.65,
+      "lon": 11.25
+    },
     "remarks": ""
   },
   {
@@ -2751,10 +3823,15 @@
     "nameWoDiacritics": "Tan Dinh",
     "subdivision": "25",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "1647N 10711E",
+    "coordinates": {
+      "lat": 16.783333333333335,
+      "lon": 11.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -2765,10 +3842,16 @@
     "nameWoDiacritics": "Tan Dinh",
     "subdivision": "54",
     "status": "RL",
-    "function": "--3--6--",
+    "function": [
+      2,
+      5
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "1648N 10659E",
+    "coordinates": {
+      "lat": 16.8,
+      "lon": 11.083333333333334
+    },
     "remarks": ""
   },
   {
@@ -2779,10 +3862,16 @@
     "nameWoDiacritics": "Tan Son Nhat Apt",
     "subdivision": "SG",
     "status": "RL",
-    "function": "--34----",
+    "function": [
+      2,
+      3
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2793,10 +3882,15 @@
     "nameWoDiacritics": "Tan Thanh",
     "subdivision": "43",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "1448N 10786E",
+    "coordinates": {
+      "lat": 14.8,
+      "lon": 11.3
+    },
     "remarks": ""
   },
   {
@@ -2807,10 +3901,16 @@
     "nameWoDiacritics": "Tan Thuan Dong",
     "subdivision": "SG",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1044N 10643E",
+    "coordinates": {
+      "lat": 10.733333333333333,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -2821,10 +3921,15 @@
     "nameWoDiacritics": "Tan Uyen",
     "subdivision": "",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "1104N 10648E",
+    "coordinates": {
+      "lat": 11.066666666666666,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -2835,10 +3940,18 @@
     "nameWoDiacritics": "Tanamexco ICD",
     "subdivision": "SG",
     "status": "RL",
-    "function": "1-3--67-",
+    "function": [
+      0,
+      2,
+      5,
+      6
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2849,10 +3962,15 @@
     "nameWoDiacritics": "Tay Ninh",
     "subdivision": "36",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1118N 10606E",
+    "coordinates": {
+      "lat": 11.3,
+      "lon": 11
+    },
     "remarks": ""
   },
   {
@@ -2863,10 +3981,15 @@
     "nameWoDiacritics": "Thai Binh",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0105",
     "iata": "",
-    "coordinates": "2027N 10620E",
+    "coordinates": {
+      "lat": 20.45,
+      "lon": 11.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -2877,10 +4000,15 @@
     "nameWoDiacritics": "Thai Hoa",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0101",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2891,10 +4019,16 @@
     "nameWoDiacritics": "Thai Nguyen",
     "subdivision": "",
     "status": "RL",
-    "function": "-23-----",
+    "function": [
+      1,
+      2
+    ],
     "date": "0607",
     "iata": "",
-    "coordinates": "2133N 10552E",
+    "coordinates": {
+      "lat": 21.55,
+      "lon": 10.916666666666666
+    },
     "remarks": ""
   },
   {
@@ -2905,10 +4039,15 @@
     "nameWoDiacritics": "Thang Binh",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2919,10 +4058,15 @@
     "nameWoDiacritics": "Thanh Hoa",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -2933,10 +4077,15 @@
     "nameWoDiacritics": "Thanh Phuoc Port",
     "subdivision": "57",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "1104N 10648E",
+    "coordinates": {
+      "lat": 11.066666666666666,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -2947,10 +4096,16 @@
     "nameWoDiacritics": "Thi Nai Port",
     "subdivision": "31",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1346N 10915E",
+    "coordinates": {
+      "lat": 13.766666666666667,
+      "lon": 11.516666666666666
+    },
     "remarks": ""
   },
   {
@@ -2961,10 +4116,16 @@
     "nameWoDiacritics": "Thu Dau Mot",
     "subdivision": "05",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "1058N 10639E",
+    "coordinates": {
+      "lat": 10.966666666666667,
+      "lon": 11.05
+    },
     "remarks": ""
   },
   {
@@ -2975,10 +4136,16 @@
     "nameWoDiacritics": "Thuan An",
     "subdivision": "31",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1530N 10840E",
+    "coordinates": {
+      "lat": 15.5,
+      "lon": 11.4
+    },
     "remarks": ""
   },
   {
@@ -2989,10 +4156,15 @@
     "nameWoDiacritics": "Thuan An",
     "subdivision": "20",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "2023N 10621E",
+    "coordinates": {
+      "lat": 20.383333333333333,
+      "lon": 11.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -3003,10 +4175,15 @@
     "nameWoDiacritics": "Tien Giang",
     "subdivision": "46",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -3017,10 +4194,16 @@
     "nameWoDiacritics": "Tien Sa Terminal",
     "subdivision": "DN",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1401",
     "iata": "",
-    "coordinates": "1607N 10812E",
+    "coordinates": {
+      "lat": 16.116666666666667,
+      "lon": 11.35
+    },
     "remarks": ""
   },
   {
@@ -3031,10 +4214,15 @@
     "nameWoDiacritics": "Tong Cang",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0212",
     "iata": "",
-    "coordinates": "2254N 10608E",
+    "coordinates": {
+      "lat": 22.9,
+      "lon": 11
+    },
     "remarks": ""
   },
   {
@@ -3045,10 +4233,16 @@
     "nameWoDiacritics": "Tra Noc",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1007",
     "iata": "",
-    "coordinates": "1006N 10542E",
+    "coordinates": {
+      "lat": 10.1,
+      "lon": 10.9
+    },
     "remarks": ""
   },
   {
@@ -3059,10 +4253,15 @@
     "nameWoDiacritics": "Tra Vinh",
     "subdivision": "51",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -3073,10 +4272,16 @@
     "nameWoDiacritics": "Transvina Terminal",
     "subdivision": "HP",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "2052N 10641E",
+    "coordinates": {
+      "lat": 20.866666666666667,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -3087,10 +4292,15 @@
     "nameWoDiacritics": "Trung Hoa",
     "subdivision": "34",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1107",
     "iata": "",
-    "coordinates": "1237N 10909E",
+    "coordinates": {
+      "lat": 12.616666666666667,
+      "lon": 11.5
+    },
     "remarks": ""
   },
   {
@@ -3101,10 +4311,15 @@
     "nameWoDiacritics": "Trung Trach",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "1002N 10612E",
+    "coordinates": {
+      "lat": 10.033333333333333,
+      "lon": 11.016666666666666
+    },
     "remarks": ""
   },
   {
@@ -3115,10 +4330,16 @@
     "nameWoDiacritics": "Tuy Hoa",
     "subdivision": "",
     "status": "AI",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -3129,10 +4350,15 @@
     "nameWoDiacritics": "Tuyen Quang",
     "subdivision": "07",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -3143,10 +4369,15 @@
     "nameWoDiacritics": "Uyen Hung",
     "subdivision": "57",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "1104N 10647E",
+    "coordinates": {
+      "lat": 11.066666666666666,
+      "lon": 11.066666666666666
+    },
     "remarks": ""
   },
   {
@@ -3157,10 +4388,15 @@
     "nameWoDiacritics": "Van Lam",
     "subdivision": "22",
     "status": "RL",
-    "function": "-----6--",
+    "function": [
+      5
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "1841N 10531E",
+    "coordinates": {
+      "lat": 18.683333333333334,
+      "lon": 10.883333333333333
+    },
     "remarks": ""
   },
   {
@@ -3171,10 +4407,15 @@
     "nameWoDiacritics": "Van Phong",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "0507",
     "iata": "",
-    "coordinates": "2051N 10638E",
+    "coordinates": {
+      "lat": 20.85,
+      "lon": 11.05
+    },
     "remarks": ""
   },
   {
@@ -3185,10 +4426,15 @@
     "nameWoDiacritics": "Vat Cach",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1007",
     "iata": "",
-    "coordinates": "2053N 10636E",
+    "coordinates": {
+      "lat": 20.883333333333333,
+      "lon": 11.05
+    },
     "remarks": ""
   },
   {
@@ -3199,10 +4445,16 @@
     "nameWoDiacritics": "Vietnam Lee & Man Port",
     "subdivision": "73",
     "status": "RL",
-    "function": "1----6--",
+    "function": [
+      0,
+      5
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "2818N 10350E",
+    "coordinates": {
+      "lat": 28.3,
+      "lon": 10.583333333333334
+    },
     "remarks": ""
   },
   {
@@ -3213,10 +4465,15 @@
     "nameWoDiacritics": "Vinalines Hau Giang Port",
     "subdivision": "73",
     "status": "RL",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "0909N 10508E",
+    "coordinates": {
+      "lat": 9.15,
+      "lon": 10.833333333333334
+    },
     "remarks": ""
   },
   {
@@ -3227,10 +4484,16 @@
     "nameWoDiacritics": "Vinh",
     "subdivision": "22",
     "status": "RL",
-    "function": "1--4----",
+    "function": [
+      0,
+      3
+    ],
     "date": "1101",
     "iata": "VII",
-    "coordinates": "1844N 10540E",
+    "coordinates": {
+      "lat": 18.733333333333334,
+      "lon": 10.9
+    },
     "remarks": ""
   },
   {
@@ -3241,10 +4504,15 @@
     "nameWoDiacritics": "Vinh Loi",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "9501",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -3255,10 +4523,16 @@
     "nameWoDiacritics": "Vinh Long",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "0401",
     "iata": "",
-    "coordinates": "1014N 10558E",
+    "coordinates": {
+      "lat": 10.233333333333333,
+      "lon": 10.916666666666666
+    },
     "remarks": ""
   },
   {
@@ -3269,10 +4543,15 @@
     "nameWoDiacritics": "Vinh Phuc",
     "subdivision": "71",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -3283,10 +4562,15 @@
     "nameWoDiacritics": "Vinh Yen",
     "subdivision": "",
     "status": "RQ",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0901",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -3297,10 +4581,15 @@
     "nameWoDiacritics": "V?ng Ang",
     "subdivision": "",
     "status": "AA",
-    "function": "1-------",
+    "function": [
+      0
+    ],
     "date": "1301",
     "iata": "",
-    "coordinates": "1804N 10626E",
+    "coordinates": {
+      "lat": 18.066666666666666,
+      "lon": 11.033333333333333
+    },
     "remarks": ""
   },
   {
@@ -3311,10 +4600,16 @@
     "nameWoDiacritics": "Vung Ro",
     "subdivision": "",
     "status": "RQ",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1007",
     "iata": "",
-    "coordinates": "1251N 10925E",
+    "coordinates": {
+      "lat": 12.85,
+      "lon": 11.533333333333333
+    },
     "remarks": ""
   },
   {
@@ -3325,10 +4620,17 @@
     "nameWoDiacritics": "Vung Tau",
     "subdivision": "43",
     "status": "RL",
-    "function": "1-34----",
+    "function": [
+      0,
+      2,
+      3
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "1021N 10704E",
+    "coordinates": {
+      "lat": 10.35,
+      "lon": 11.166666666666666
+    },
     "remarks": ""
   },
   {
@@ -3339,10 +4641,15 @@
     "nameWoDiacritics": "Yen Bai",
     "subdivision": "06",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1101",
     "iata": "",
-    "coordinates": "2142N 10452E",
+    "coordinates": {
+      "lat": 21.7,
+      "lon": 10.75
+    },
     "remarks": ""
   },
   {
@@ -3353,10 +4660,15 @@
     "nameWoDiacritics": "Yen My",
     "subdivision": "22",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "1857N 10520E",
+    "coordinates": {
+      "lat": 18.95,
+      "lon": 10.866666666666667
+    },
     "remarks": ""
   },
   {
@@ -3367,10 +4679,15 @@
     "nameWoDiacritics": "Yen Vien",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "2105N 10555E",
+    "coordinates": {
+      "lat": 21.083333333333332,
+      "lon": 10.916666666666666
+    },
     "remarks": ""
   }
 ]

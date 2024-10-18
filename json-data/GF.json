@@ -1,254 +1,282 @@
 [
   {
-    "change": "",
     "country": "GF",
-    "location": "",
     "name": ".FRENCH GUIANA",
-    "nameWoDiacritics": "",
-    "subdivision": "",
-    "status": "",
-    "function": "",
-    "date": "",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [],
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "GF",
     "location": "CCY",
     "name": "Awala-Yalimapo",
     "nameWoDiacritics": "Awala-Yalimapo",
-    "subdivision": "",
     "status": "AA",
-    "function": "1-3-----",
-    "date": "2201",
-    "iata": "",
-    "coordinates": "0541N 05356W",
-    "remarks": ""
+    "function": [
+      0,
+      2
+    ],
+    "date": 2201,
+    "coordinates": {
+      "lat": 5.683333333333334,
+      "lon": 5.583333333333333
+    }
   },
   {
-    "change": "",
     "country": "GF",
     "location": "CAY",
     "name": "Cayenne",
     "nameWoDiacritics": "Cayenne",
-    "subdivision": "",
     "status": "AI",
-    "function": "1--45---",
-    "date": "1901",
-    "iata": "",
-    "coordinates": "0456N 05220W",
-    "remarks": ""
+    "function": [
+      0,
+      3,
+      4
+    ],
+    "date": 1901,
+    "coordinates": {
+      "lat": 4.933333333333334,
+      "lon": 5.366666666666666
+    }
   },
   {
-    "change": "",
     "country": "GF",
     "location": "DDC",
-    "name": "D�grad des Cannes",
+    "name": "DÈgrad des Cannes",
     "nameWoDiacritics": "Degrad des Cannes",
-    "subdivision": "",
     "status": "RL",
-    "function": "1-------",
-    "date": "2107",
-    "iata": "",
-    "coordinates": "0452N 05216W",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 2107,
+    "coordinates": {
+      "lat": 4.866666666666667,
+      "lon": 5.35
+    }
   },
   {
-    "change": "",
     "country": "GF",
     "location": "REM",
-    "name": "D�grad des Cannes-Pariacabo Pt/Remire",
+    "name": "DÈgrad des Cannes-Pariacabo Pt/Remire",
     "nameWoDiacritics": "Degrad des Cannes-Pariacabo Pt/Remire",
-    "subdivision": "",
     "status": "RL",
-    "function": "1-3--67-",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "0453N 05217W",
-    "remarks": ""
+    "function": [
+      0,
+      2,
+      5,
+      6
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 4.883333333333333,
+      "lon": 5.35
+    }
   },
   {
-    "change": "",
     "country": "GF",
     "location": "GDE",
     "name": "Guadeloupe",
     "nameWoDiacritics": "Guadeloupe",
-    "subdivision": "",
     "status": "RL",
-    "function": "---4----",
-    "date": "1901",
-    "iata": "",
-    "coordinates": "0444N 05347W",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 1901,
+    "coordinates": {
+      "lat": 4.733333333333333,
+      "lon": 5.566666666666666
+    }
   },
   {
-    "change": "",
     "country": "GF",
     "location": "QKR",
     "name": "Kourou",
     "nameWoDiacritics": "Kourou",
-    "subdivision": "",
     "status": "AF",
-    "function": "1-345---",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "0509N 05238W",
-    "remarks": ""
+    "function": [
+      0,
+      2,
+      3,
+      4
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 5.15,
+      "lon": 5.383333333333334
+    }
   },
   {
-    "change": "",
     "country": "GF",
     "location": "MCR",
     "name": "Macouria",
     "nameWoDiacritics": "Macouria",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1901",
-    "iata": "",
-    "coordinates": "0501N 05229W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1901,
+    "coordinates": {
+      "lat": 5.016666666666667,
+      "lon": 5.366666666666666
+    }
   },
   {
-    "change": "",
     "country": "GF",
     "location": "BCY",
     "name": "Mana",
     "nameWoDiacritics": "Mana",
-    "subdivision": "",
     "status": "AA",
-    "function": "--34----",
-    "date": "2201",
-    "iata": "",
-    "coordinates": "0536N 05349W",
-    "remarks": ""
+    "function": [
+      2,
+      3
+    ],
+    "date": 2201,
+    "coordinates": {
+      "lat": 5.6,
+      "lon": 5.566666666666666
+    }
   },
   {
-    "change": "",
     "country": "GF",
     "location": "MPY",
     "name": "Maripasoula",
     "nameWoDiacritics": "Maripasoula",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "1901",
-    "iata": "",
-    "coordinates": "0338N 05402W",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 1901,
+    "coordinates": {
+      "lat": 3.6333333333333333,
+      "lon": 5.666666666666667
+    }
   },
   {
-    "change": "",
     "country": "GF",
     "location": "MTY",
     "name": "Matoury",
     "nameWoDiacritics": "Matoury",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1901",
-    "iata": "",
-    "coordinates": "0451N 05220W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1901,
+    "coordinates": {
+      "lat": 4.85,
+      "lon": 5.366666666666666
+    }
   },
   {
-    "change": "",
     "country": "GF",
     "location": "MON",
-    "name": "Montsin�ry-Tonnegrande",
+    "name": "MontsinÈry-Tonnegrande",
     "nameWoDiacritics": "Montsinery-Tonnegrande",
-    "subdivision": "",
     "status": "AA",
-    "function": "--3-----",
-    "date": "2107",
-    "iata": "",
-    "coordinates": "0454N 05230W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 2107,
+    "coordinates": {
+      "lat": 4.9,
+      "lon": 5.383333333333334
+    }
   },
   {
-    "change": "",
     "country": "GF",
     "location": "LCY",
     "name": "Ouanary",
     "nameWoDiacritics": "Ouanary",
-    "subdivision": "",
     "status": "AA",
-    "function": "1--4----",
-    "date": "2201",
-    "iata": "",
-    "coordinates": "0413N 05140W",
-    "remarks": ""
+    "function": [
+      0,
+      3
+    ],
+    "date": 2201,
+    "coordinates": {
+      "lat": 4.216666666666667,
+      "lon": 5.233333333333333
+    }
   },
   {
-    "change": "",
     "country": "GF",
     "location": "REI",
     "name": "Regina",
     "nameWoDiacritics": "Regina",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "1901",
-    "iata": "",
-    "coordinates": "0419N 05208W",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 1901,
+    "coordinates": {
+      "lat": 4.316666666666666,
+      "lon": 5.333333333333333
+    }
   },
   {
-    "change": "",
     "country": "GF",
     "location": "OYP",
     "name": "Saint-Georges",
     "nameWoDiacritics": "Saint-Georges",
-    "subdivision": "",
     "status": "AI",
-    "function": "1-34----",
-    "date": "2207",
-    "iata": "",
-    "coordinates": "0354N 05148W",
+    "function": [
+      0,
+      2,
+      3
+    ],
+    "date": 2207,
+    "coordinates": {
+      "lat": 3.9,
+      "lon": 5.233333333333333
+    },
     "remarks": "Border"
   },
   {
-    "change": "",
     "country": "GF",
     "location": "SLM",
     "name": "Saint-Laurent-du-Maroni",
     "nameWoDiacritics": "Saint-Laurent-du-Maroni",
-    "subdivision": "",
     "status": "AA",
-    "function": "1-34----",
-    "date": "2101",
-    "iata": "",
-    "coordinates": "0530N 05402W",
-    "remarks": ""
+    "function": [
+      0,
+      2,
+      3
+    ],
+    "date": 2101,
+    "coordinates": {
+      "lat": 5.5,
+      "lon": 5.666666666666667
+    }
   },
   {
-    "change": "",
     "country": "GF",
     "location": "XAU",
     "name": "Saul",
     "nameWoDiacritics": "Saul",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "1901",
-    "iata": "",
-    "coordinates": "0337N 05313W",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 1901,
+    "coordinates": {
+      "lat": 3.6166666666666667,
+      "lon": 5.516666666666667
+    }
   },
   {
-    "change": "",
     "country": "GF",
     "location": "SMY",
     "name": "Sinnamary",
     "nameWoDiacritics": "Sinnamary",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1901",
-    "iata": "",
-    "coordinates": "0523N 05257W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1901,
+    "coordinates": {
+      "lat": 5.383333333333334,
+      "lon": 5.416666666666667
+    }
   }
 ]

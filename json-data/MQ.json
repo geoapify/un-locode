@@ -7,10 +7,13 @@
     "nameWoDiacritics": "",
     "subdivision": "",
     "status": "",
-    "function": "",
+    "function": [],
     "date": "",
     "iata": "",
-    "coordinates": "",
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    },
     "remarks": ""
   },
   {
@@ -21,10 +24,15 @@
     "nameWoDiacritics": "Bellefontaine",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "2107",
     "iata": "",
-    "coordinates": "1440N 06109W",
+    "coordinates": {
+      "lat": 14.666666666666666,
+      "lon": 6.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -35,10 +43,16 @@
     "nameWoDiacritics": "Case-Pilote",
     "subdivision": "",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "2201",
     "iata": "",
-    "coordinates": "1438N 06108W",
+    "coordinates": {
+      "lat": 14.633333333333333,
+      "lon": 6.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -49,10 +63,15 @@
     "nameWoDiacritics": "Ducos",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "0201",
     "iata": "",
-    "coordinates": "1433N 06059W",
+    "coordinates": {
+      "lat": 14.55,
+      "lon": 6.083333333333333
+    },
     "remarks": ""
   },
   {
@@ -63,10 +82,15 @@
     "nameWoDiacritics": "Fonds-Saint-Denis",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1701",
     "iata": "",
-    "coordinates": "1444N 06108W",
+    "coordinates": {
+      "lat": 14.733333333333333,
+      "lon": 6.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -77,10 +101,18 @@
     "nameWoDiacritics": "Fort-de-France",
     "subdivision": "",
     "status": "AI",
-    "function": "1-345---",
+    "function": [
+      0,
+      2,
+      3,
+      4
+    ],
     "date": "2101",
     "iata": "",
-    "coordinates": "1436N 06103W",
+    "coordinates": {
+      "lat": 14.6,
+      "lon": 6.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -91,10 +123,15 @@
     "nameWoDiacritics": "Gros-Morne",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "1442N 06100W",
+    "coordinates": {
+      "lat": 14.7,
+      "lon": 6.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -105,10 +142,15 @@
     "nameWoDiacritics": "La Trinite",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "1444N 06058W",
+    "coordinates": {
+      "lat": 14.733333333333333,
+      "lon": 6.083333333333333
+    },
     "remarks": ""
   },
   {
@@ -119,10 +161,15 @@
     "nameWoDiacritics": "Le Carbet",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1601",
     "iata": "",
-    "coordinates": "1442N 06111W",
+    "coordinates": {
+      "lat": 14.7,
+      "lon": 6.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -133,10 +180,15 @@
     "nameWoDiacritics": "Le Diamant",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1407",
     "iata": "",
-    "coordinates": "1428N 06102W",
+    "coordinates": {
+      "lat": 14.466666666666667,
+      "lon": 6.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -147,10 +199,16 @@
     "nameWoDiacritics": "Le Francois",
     "subdivision": "",
     "status": "RL",
-    "function": "-2--5---",
+    "function": [
+      1,
+      4
+    ],
     "date": "1907",
     "iata": "",
-    "coordinates": "1437N 06053W",
+    "coordinates": {
+      "lat": 14.616666666666667,
+      "lon": 6.083333333333333
+    },
     "remarks": ""
   },
   {
@@ -161,10 +219,17 @@
     "nameWoDiacritics": "Le Lamentin",
     "subdivision": "",
     "status": "RL",
-    "function": "--345---",
+    "function": [
+      2,
+      3,
+      4
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "1436N 06100W",
+    "coordinates": {
+      "lat": 14.6,
+      "lon": 6.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -175,10 +240,15 @@
     "nameWoDiacritics": "Le Lorrain",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "1450N 06104W",
+    "coordinates": {
+      "lat": 14.833333333333334,
+      "lon": 6.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -189,10 +259,16 @@
     "nameWoDiacritics": "Le Marigot",
     "subdivision": "",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "2201",
     "iata": "",
-    "coordinates": "1449N 06102W",
+    "coordinates": {
+      "lat": 14.816666666666666,
+      "lon": 6.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -203,10 +279,15 @@
     "nameWoDiacritics": "Le Marin",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "1428N 06052W",
+    "coordinates": {
+      "lat": 14.466666666666667,
+      "lon": 6.083333333333333
+    },
     "remarks": ""
   },
   {
@@ -217,10 +298,15 @@
     "nameWoDiacritics": "Le Morne-Rouge",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "1446N 06108W",
+    "coordinates": {
+      "lat": 14.766666666666667,
+      "lon": 6.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -231,10 +317,16 @@
     "nameWoDiacritics": "Le Precheur",
     "subdivision": "",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "2201",
     "iata": "",
-    "coordinates": "1448N 06114W",
+    "coordinates": {
+      "lat": 14.8,
+      "lon": 6.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -245,10 +337,16 @@
     "nameWoDiacritics": "Le Robert",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "1440N 06056W",
+    "coordinates": {
+      "lat": 14.666666666666666,
+      "lon": 6.083333333333333
+    },
     "remarks": ""
   },
   {
@@ -259,10 +357,16 @@
     "nameWoDiacritics": "Le Vauclin",
     "subdivision": "",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "2201",
     "iata": "",
-    "coordinates": "1433N 06051W",
+    "coordinates": {
+      "lat": 14.55,
+      "lon": 6.083333333333333
+    },
     "remarks": ""
   },
   {
@@ -273,10 +377,16 @@
     "nameWoDiacritics": "Les Anses-d'Arlet",
     "subdivision": "",
     "status": "AA",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "2201",
     "iata": "",
-    "coordinates": "1429N 06105W",
+    "coordinates": {
+      "lat": 14.483333333333333,
+      "lon": 6.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -287,10 +397,15 @@
     "nameWoDiacritics": "Les Trois-Ilets",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1432N 06102W",
+    "coordinates": {
+      "lat": 14.533333333333333,
+      "lon": 6.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -301,10 +416,15 @@
     "nameWoDiacritics": "Macouba",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1207",
     "iata": "",
-    "coordinates": "1452N 06108W",
+    "coordinates": {
+      "lat": 14.866666666666667,
+      "lon": 6.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -315,10 +435,16 @@
     "nameWoDiacritics": "Port de Fort-de-France Pt.",
     "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
+    "function": [
+      0,
+      2
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "1436N 06103W",
+    "coordinates": {
+      "lat": 14.6,
+      "lon": 6.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -329,10 +455,15 @@
     "nameWoDiacritics": "Riviere-Pilote",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1801",
     "iata": "",
-    "coordinates": "1429N 06054W",
+    "coordinates": {
+      "lat": 14.483333333333333,
+      "lon": 6.083333333333333
+    },
     "remarks": ""
   },
   {
@@ -343,10 +474,15 @@
     "nameWoDiacritics": "Sainte-Anne",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1607",
     "iata": "",
-    "coordinates": "1426N 06053W",
+    "coordinates": {
+      "lat": 14.433333333333334,
+      "lon": 6.083333333333333
+    },
     "remarks": ""
   },
   {
@@ -357,10 +493,15 @@
     "nameWoDiacritics": "Sainte-Marie",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1307",
     "iata": "",
-    "coordinates": "1447N 06059W",
+    "coordinates": {
+      "lat": 14.783333333333333,
+      "lon": 6.083333333333333
+    },
     "remarks": ""
   },
   {
@@ -371,10 +512,15 @@
     "nameWoDiacritics": "Saint-Joseph",
     "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
+    "function": [
+      2
+    ],
     "date": "1201",
     "iata": "",
-    "coordinates": "1440N 06102W",
+    "coordinates": {
+      "lat": 14.666666666666666,
+      "lon": 6.166666666666667
+    },
     "remarks": ""
   },
   {
@@ -385,10 +531,15 @@
     "nameWoDiacritics": "Saint-Pierre",
     "subdivision": "",
     "status": "RL",
-    "function": "0-------",
+    "function": [
+      0
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "1445N 06110W",
+    "coordinates": {
+      "lat": 14.75,
+      "lon": 6.183333333333334
+    },
     "remarks": ""
   },
   {
@@ -399,10 +550,15 @@
     "nameWoDiacritics": "Scholcher",
     "subdivision": "",
     "status": "RL",
-    "function": "----5---",
+    "function": [
+      4
+    ],
     "date": "1901",
     "iata": "",
-    "coordinates": "1436N 06106W",
+    "coordinates": {
+      "lat": 14.6,
+      "lon": 6.166666666666667
+    },
     "remarks": ""
   }
 ]

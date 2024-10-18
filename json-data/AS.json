@@ -1,86 +1,88 @@
 [
   {
-    "change": "",
     "country": "AS",
-    "location": "",
     "name": ".AMERICAN SAMOA",
-    "nameWoDiacritics": "",
-    "subdivision": "",
-    "status": "",
-    "function": "",
-    "date": "",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [],
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AS",
     "location": "API",
     "name": "Apia",
     "nameWoDiacritics": "Apia",
-    "subdivision": "",
     "status": "RL",
-    "function": "--3-----",
-    "date": "1101",
-    "iata": "",
-    "coordinates": "1350S 17144W",
-    "remarks": ""
+    "function": [
+      2
+    ],
+    "date": 1101,
+    "coordinates": {
+      "lat": -13.833333333333334,
+      "lon": 17.233333333333334
+    }
   },
   {
-    "change": "",
     "country": "AS",
     "location": "FTI",
     "name": "Fitiuta",
     "nameWoDiacritics": "Fitiuta",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9912",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9912,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AS",
     "location": "OFU",
     "name": "Ofu",
     "nameWoDiacritics": "Ofu",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9912",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9912,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "AS",
     "location": "PPG",
     "name": "Pago Pago",
     "nameWoDiacritics": "Pago Pago",
-    "subdivision": "",
     "status": "AI",
-    "function": "1--45---",
-    "date": "1707",
-    "iata": "",
-    "coordinates": "1416N 17042W",
-    "remarks": ""
+    "function": [
+      0,
+      3,
+      4
+    ],
+    "date": 1707,
+    "coordinates": {
+      "lat": 14.266666666666667,
+      "lon": 17.066666666666666
+    }
   },
   {
-    "change": "",
     "country": "AS",
     "location": "TAV",
     "name": "Tau",
     "nameWoDiacritics": "Tau",
-    "subdivision": "",
     "status": "AI",
-    "function": "---4----",
-    "date": "9912",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3
+    ],
+    "date": 9912,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   }
 ]

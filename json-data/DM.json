@@ -1,86 +1,88 @@
 [
   {
-    "change": "",
     "country": "DM",
-    "location": "",
     "name": ".DOMINICA",
-    "nameWoDiacritics": "",
-    "subdivision": "",
-    "status": "",
-    "function": "",
-    "date": "",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [],
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "DM",
     "location": "ADM",
     "name": "Anse du Mai",
     "nameWoDiacritics": "Anse du Mai",
-    "subdivision": "",
     "status": "RL",
-    "function": "1-------",
-    "date": "0212",
-    "iata": "",
-    "coordinates": "1536N 06123W",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 212,
+    "coordinates": {
+      "lat": 15.6,
+      "lon": 6.2
+    }
   },
   {
-    "change": "",
     "country": "DM",
     "location": "BEL",
     "name": "Belfast",
     "nameWoDiacritics": "Belfast",
-    "subdivision": "",
     "status": "RQ",
-    "function": "1-------",
-    "date": "0307",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 307,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "DM",
     "location": "DOM",
     "name": "Dominica",
     "nameWoDiacritics": "Dominica",
-    "subdivision": "",
     "status": "AI",
-    "function": "---45---",
-    "date": "9601",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      3,
+      4
+    ],
+    "date": 9601,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   },
   {
-    "change": "",
     "country": "DM",
     "location": "POR",
     "name": "Portsmouth",
     "nameWoDiacritics": "Portsmouth",
-    "subdivision": "",
     "status": "RL",
-    "function": "1-3-----",
-    "date": "0701",
-    "iata": "",
-    "coordinates": "1534N 06127W",
-    "remarks": ""
+    "function": [
+      0,
+      2
+    ],
+    "date": 701,
+    "coordinates": {
+      "lat": 15.566666666666666,
+      "lon": 6.2
+    }
   },
   {
-    "change": "",
     "country": "DM",
     "location": "RSU",
     "name": "Roseau",
     "nameWoDiacritics": "Roseau",
-    "subdivision": "",
     "status": "AI",
-    "function": "1-------",
-    "date": "9401",
-    "iata": "",
-    "coordinates": "",
-    "remarks": ""
+    "function": [
+      0
+    ],
+    "date": 9401,
+    "coordinates": {
+      "lat": 0,
+      "lon": 0
+    }
   }
 ]
