@@ -6,7 +6,7 @@
     "name": ".SOMALIA",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Alula",
     "nameWoDiacritics": "Alula",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -42,7 +42,7 @@
     "name": "Baidoa",
     "nameWoDiacritics": "Baidoa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -61,7 +61,7 @@
     "name": "Bardera",
     "nameWoDiacritics": "Bardera",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -80,7 +80,7 @@
     "name": "Berbera",
     "nameWoDiacritics": "Berbera",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -100,7 +100,7 @@
     "name": "Borama",
     "nameWoDiacritics": "Borama",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -119,7 +119,7 @@
     "name": "Bossaso",
     "nameWoDiacritics": "Bossaso",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -138,7 +138,7 @@
     "name": "Burao",
     "nameWoDiacritics": "Burao",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -157,7 +157,7 @@
     "name": "Candala",
     "nameWoDiacritics": "Candala",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -176,7 +176,7 @@
     "name": "Dante (Ras Hafun)",
     "nameWoDiacritics": "Dante (Ras Hafun)",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -195,7 +195,7 @@
     "name": "Dhoobleey",
     "nameWoDiacritics": "Dhoobleey",
     "subdivision": "JH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -203,7 +203,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.5,
-      "lon": 4.35
+      "lon": 42.31666666666667
     },
     "remarks": ""
   },
@@ -214,7 +214,7 @@
     "name": "Doolow",
     "nameWoDiacritics": "Doolow",
     "subdivision": "GE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -222,7 +222,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.166666666666667,
-      "lon": 4.333333333333333
+      "lon": 42.083333333333336
     },
     "remarks": ""
   },
@@ -233,7 +233,7 @@
     "name": "Eil",
     "nameWoDiacritics": "Eil",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -252,7 +252,7 @@
     "name": "El Maan",
     "nameWoDiacritics": "El Maan",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       2
@@ -261,7 +261,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.1666666666666665,
-      "lon": 4.883333333333333
+      "lon": 45.6
     },
     "remarks": ""
   },
@@ -272,7 +272,7 @@
     "name": "Erigavo",
     "nameWoDiacritics": "Erigavo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -291,7 +291,7 @@
     "name": "Gaalkacyo",
     "nameWoDiacritics": "Gaalkacyo",
     "subdivision": "MU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -299,7 +299,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.783333333333333,
-      "lon": 5.2
+      "lon": 47.43333333333333
     },
     "remarks": ""
   },
@@ -310,7 +310,7 @@
     "name": "Galcaio",
     "nameWoDiacritics": "Galcaio",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -329,7 +329,7 @@
     "name": "Garacad",
     "nameWoDiacritics": "Garacad",
     "subdivision": "MU",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       2
@@ -338,7 +338,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.933333333333334,
-      "lon": 5.516666666666667
+      "lon": 49.31666666666667
     },
     "remarks": ""
   },
@@ -349,7 +349,7 @@
     "name": "Garbaharey",
     "nameWoDiacritics": "Garbaharey",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -368,7 +368,7 @@
     "name": "Gardo",
     "nameWoDiacritics": "Gardo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -387,7 +387,7 @@
     "name": "Garoe",
     "nameWoDiacritics": "Garoe",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -406,7 +406,7 @@
     "name": "Giohar",
     "nameWoDiacritics": "Giohar",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -415,7 +415,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.7666666666666666,
-      "lon": 4.883333333333333
+      "lon": 45.516666666666666
     },
     "remarks": ""
   },
@@ -426,7 +426,7 @@
     "name": "Hargeisa",
     "nameWoDiacritics": "Hargeisa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -445,7 +445,7 @@
     "name": "Kismayu",
     "nameWoDiacritics": "Kismayu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -465,7 +465,7 @@
     "name": "Las Khoreh",
     "nameWoDiacritics": "Las Khoreh",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -484,7 +484,7 @@
     "name": "Lugh Ganane",
     "nameWoDiacritics": "Lugh Ganane",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -503,7 +503,7 @@
     "name": "Merca",
     "nameWoDiacritics": "Merca",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -522,7 +522,7 @@
     "name": "Mogadishu",
     "nameWoDiacritics": "Mogadishu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -543,7 +543,7 @@
     "name": "Obbia",
     "nameWoDiacritics": "Obbia",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -562,7 +562,7 @@
     "name": "Scusciuban",
     "nameWoDiacritics": "Scusciuban",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],

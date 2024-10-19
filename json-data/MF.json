@@ -6,7 +6,7 @@
     "name": ".SAINT MARTIN (FRENCH PART)",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Anse-Marcel",
     "nameWoDiacritics": "Anse-Marcel",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.1,
-      "lon": 6.5
+      "lon": -63.03333333333333
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Cul-de-Sac",
     "nameWoDiacritics": "Cul-de-Sac",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -50,7 +50,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.1,
-      "lon": 6.5
+      "lon": -63.03333333333333
     },
     "remarks": ""
   },
@@ -61,7 +61,7 @@
     "name": "Galisbay",
     "nameWoDiacritics": "Galisbay",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -69,7 +69,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.066666666666666,
-      "lon": 6.5
+      "lon": -63.083333333333336
     },
     "remarks": ""
   },
@@ -80,7 +80,7 @@
     "name": "Grand-Case",
     "nameWoDiacritics": "Grand-Case",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2
     ],
@@ -88,7 +88,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.1,
-      "lon": 6.5
+      "lon": -63.06666666666667
     },
     "remarks": ""
   },
@@ -99,7 +99,7 @@
     "name": "L'Esp�rance Apt/St Martin",
     "nameWoDiacritics": "L'Esperance Apt/St Martin",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3,
@@ -109,7 +109,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.1,
-      "lon": 6.5
+      "lon": -63.05
     },
     "remarks": ""
   },
@@ -120,7 +120,7 @@
     "name": "Marigot",
     "nameWoDiacritics": "Marigot",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -128,7 +128,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.066666666666666,
-      "lon": 6.5
+      "lon": -63.083333333333336
     },
     "remarks": ""
   },
@@ -139,7 +139,7 @@
     "name": "Quartier d'Orl�ans",
     "nameWoDiacritics": "Quartier d'Orleans",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -147,7 +147,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.083333333333332,
-      "lon": 6.5
+      "lon": -63.016666666666666
     },
     "remarks": ""
   }

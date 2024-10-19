@@ -6,7 +6,7 @@
     "name": ".JERSEY",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "La Fosse",
     "nameWoDiacritics": "La Fosse",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.166666666666664,
-      "lon": 0.35
+      "lon": -2.1666666666666665
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Saint Aubin",
     "nameWoDiacritics": "Saint Aubin",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -51,7 +51,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.18333333333333,
-      "lon": 0.35
+      "lon": -2.1666666666666665
     },
     "remarks": ""
   },
@@ -62,7 +62,7 @@
     "name": "Saint Clement",
     "nameWoDiacritics": "Saint Clement",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       6
@@ -71,7 +71,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.166666666666664,
-      "lon": 0.3333333333333333
+      "lon": -2.066666666666667
     },
     "remarks": ""
   },
@@ -82,7 +82,7 @@
     "name": "Saint H�lier",
     "nameWoDiacritics": "Saint Helier",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       0,
       2
@@ -91,7 +91,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.18333333333333,
-      "lon": 0.3333333333333333
+      "lon": -2.1
     },
     "remarks": "ex GB STH"
   },
@@ -102,7 +102,7 @@
     "name": "Saint Johns",
     "nameWoDiacritics": "Saint Johns",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -110,7 +110,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.25,
-      "lon": 0.3333333333333333
+      "lon": -2.1333333333333333
     },
     "remarks": ""
   },
@@ -121,7 +121,7 @@
     "name": "Saint Peter",
     "nameWoDiacritics": "Saint Peter",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -129,7 +129,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.21666666666667,
-      "lon": 0.35
+      "lon": -2.183333333333333
     },
     "remarks": ""
   },
@@ -140,7 +140,7 @@
     "name": "Saint Saviour",
     "nameWoDiacritics": "Saint Saviour",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -148,7 +148,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.18333333333333,
-      "lon": 0.3333333333333333
+      "lon": -2.066666666666667
     },
     "remarks": ""
   },
@@ -159,7 +159,7 @@
     "name": "\"States Apt",
     "nameWoDiacritics": " Jersey\"",
     "subdivision": "\"States Apt",
-    "status": " Jersey\"",
+    "status": null,
     "function": [],
     "date": "AF",
     "iata": "---4----",
@@ -176,7 +176,7 @@
     "name": "Trinity",
     "nameWoDiacritics": "Trinity",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -184,7 +184,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.233333333333334,
-      "lon": 0.3333333333333333
+      "lon": -2.0833333333333335
     },
     "remarks": "ex GB TTY"
   }

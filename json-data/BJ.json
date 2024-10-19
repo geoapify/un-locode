@@ -2,6 +2,7 @@
   {
     "country": "BJ",
     "name": ".BENIN",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -14,14 +15,14 @@
     "name": "Abomey-Calavi",
     "nameWoDiacritics": "Abomey-Calavi",
     "subdivision": "AQ",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 6.45,
-      "lon": 0.36666666666666664
+      "lon": 2.35
     }
   },
   {
@@ -29,14 +30,14 @@
     "location": "AGT",
     "name": "Agbanta",
     "nameWoDiacritics": "Agbanta",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 407,
     "coordinates": {
       "lat": 6.616666666666667,
-      "lon": 0.36666666666666664
+      "lon": 2.45
     }
   },
   {
@@ -44,7 +45,7 @@
     "location": "BOH",
     "name": "Bohicon",
     "nameWoDiacritics": "Bohicon",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -52,7 +53,7 @@
     "date": 307,
     "coordinates": {
       "lat": 7.2,
-      "lon": 0.3333333333333333
+      "lon": 2.066666666666667
     }
   },
   {
@@ -60,7 +61,7 @@
     "location": "COO",
     "name": "Cotonou",
     "nameWoDiacritics": "Cotonou",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -78,14 +79,14 @@
     "name": "Djidja",
     "nameWoDiacritics": "Djidja",
     "subdivision": "ZO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1807,
     "coordinates": {
       "lat": 7.333333333333333,
-      "lon": 0.25
+      "lon": 1.9333333333333333
     }
   },
   {
@@ -93,7 +94,7 @@
     "location": "DJA",
     "name": "Djougou",
     "nameWoDiacritics": "Djougou",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -108,7 +109,7 @@
     "location": "GLA",
     "name": "GlazouÈ",
     "nameWoDiacritics": "Glazoue",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -116,7 +117,7 @@
     "date": 307,
     "coordinates": {
       "lat": 7.966666666666667,
-      "lon": 0.35
+      "lon": 2.3
     }
   },
   {
@@ -124,7 +125,7 @@
     "location": "KDC",
     "name": "Kandi",
     "nameWoDiacritics": "Kandi",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -140,14 +141,14 @@
     "name": "Lokossa",
     "nameWoDiacritics": "Lokossa",
     "subdivision": "MO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 6.633333333333333,
-      "lon": 0.23333333333333334
+      "lon": 1.7166666666666668
     }
   },
   {
@@ -155,7 +156,7 @@
     "location": "NAE",
     "name": "Natitingou",
     "nameWoDiacritics": "Natitingou",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -171,14 +172,14 @@
     "name": "Ndali",
     "nameWoDiacritics": "Ndali",
     "subdivision": "BO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1701,
     "coordinates": {
       "lat": 9.85,
-      "lon": 0.4
+      "lon": 2.716666666666667
     }
   },
   {
@@ -187,14 +188,14 @@
     "name": "Ouidah",
     "nameWoDiacritics": "Ouidah",
     "subdivision": "AQ",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 6.366666666666666,
-      "lon": 0.3333333333333333
+      "lon": 2.0833333333333335
     }
   },
   {
@@ -202,7 +203,7 @@
     "location": "PKO",
     "name": "Parakou",
     "nameWoDiacritics": "Parakou",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -218,7 +219,7 @@
     "name": "Porto-Novo",
     "nameWoDiacritics": "Porto-Novo",
     "subdivision": "OU",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -227,7 +228,7 @@
     "date": 401,
     "coordinates": {
       "lat": 6.483333333333333,
-      "lon": 0.38333333333333336
+      "lon": 2.6166666666666667
     }
   },
   {
@@ -235,14 +236,14 @@
     "location": "SVF",
     "name": "SavÈ",
     "nameWoDiacritics": "Save",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 212,
     "coordinates": {
       "lat": 8.033333333333333,
-      "lon": 0.36666666666666664
+      "lon": 2.4833333333333334
     }
   },
   {
@@ -250,7 +251,7 @@
     "location": "SEM",
     "name": "Seme Terminal",
     "nameWoDiacritics": "Seme Terminal",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -265,14 +266,14 @@
     "location": "TAN",
     "name": "TanguiÈta",
     "nameWoDiacritics": "Tanguieta",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 10.616666666666667,
-      "lon": 0.18333333333333332
+      "lon": 1.2666666666666666
     }
   }
 ]

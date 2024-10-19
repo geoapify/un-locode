@@ -10,7 +10,7 @@ describe('UNLocode Class', () => {
             fullCode: 'USNYC',
             locationName: 'New York',
             subdivision: 'NY',
-            status: Status.ACTIVE,
+            status: Status.RECOGNISED_LOCATION,
             functionCodes: [FunctionCode.PORT, FunctionCode.RAIL_TERMINAL,
                 FunctionCode.ROAD_TERMINAL, FunctionCode.AIRPORT, FunctionCode.POSTAL_EXCHANGE_OFFICE],
             coordinates: {

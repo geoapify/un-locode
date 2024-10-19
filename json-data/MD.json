@@ -6,7 +6,7 @@
     "name": "\".MOLDOVA",
     "nameWoDiacritics": " REPUBLIC OF\"",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Anenii Noi",
     "nameWoDiacritics": "Anenii Noi",
     "subdivision": "CU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.86666666666667,
-      "lon": 3.5166666666666666
+      "lon": 29.216666666666665
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Balti (Bel'cy)",
     "nameWoDiacritics": "Balti (Bel'cy)",
     "subdivision": "BA",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -51,7 +51,7 @@
     "iata": "BZY",
     "coordinates": {
       "lat": 47.75,
-      "lon": 3.25
+      "lon": 27.916666666666668
     },
     "remarks": ""
   },
@@ -62,7 +62,7 @@
     "name": "Basarabeasca",
     "nameWoDiacritics": "Basarabeasca",
     "subdivision": "BS",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -70,7 +70,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.31666666666667,
-      "lon": 3.416666666666667
+      "lon": 28.966666666666665
     },
     "remarks": ""
   },
@@ -81,7 +81,7 @@
     "name": "Bendery",
     "nameWoDiacritics": "Bendery",
     "subdivision": "BD",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -89,7 +89,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.81666666666667,
-      "lon": 3.533333333333333
+      "lon": 29.466666666666665
     },
     "remarks": ""
   },
@@ -100,7 +100,7 @@
     "name": "Berestovitsa",
     "nameWoDiacritics": "Berestovitsa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       1
     ],
@@ -119,7 +119,7 @@
     "name": "Bolotino",
     "nameWoDiacritics": "Bolotino",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -127,7 +127,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.68333333333333,
-      "lon": 3.2
+      "lon": 27.333333333333332
     },
     "remarks": ""
   },
@@ -138,7 +138,7 @@
     "name": "Briceni",
     "nameWoDiacritics": "Briceni",
     "subdivision": "ED",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -146,7 +146,7 @@
     "iata": "",
     "coordinates": {
       "lat": 48.35,
-      "lon": 3.166666666666667
+      "lon": 27.083333333333332
     },
     "remarks": ""
   },
@@ -157,7 +157,7 @@
     "name": "Br�nzeni",
     "nameWoDiacritics": "Brinzeni",
     "subdivision": "ED",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -165,7 +165,7 @@
     "iata": "",
     "coordinates": {
       "lat": 48.083333333333336,
-      "lon": 3.1833333333333336
+      "lon": 27.166666666666668
     },
     "remarks": ""
   },
@@ -176,7 +176,7 @@
     "name": "Bulboaca",
     "nameWoDiacritics": "Bulboaca",
     "subdivision": "CU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -184,7 +184,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.86666666666667,
-      "lon": 3.5166666666666666
+      "lon": 29.3
     },
     "remarks": ""
   },
@@ -195,7 +195,7 @@
     "name": "Bulboaca",
     "nameWoDiacritics": "Bulboaca",
     "subdivision": "ED",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -203,7 +203,7 @@
     "iata": "",
     "coordinates": {
       "lat": 48.36666666666667,
-      "lon": 3.1833333333333336
+      "lon": 27.183333333333334
     },
     "remarks": ""
   },
@@ -214,7 +214,7 @@
     "name": "Burlacu",
     "nameWoDiacritics": "Burlacu",
     "subdivision": "CA",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -222,7 +222,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.03333333333333,
-      "lon": 3.3666666666666667
+      "lon": 28.4
     },
     "remarks": ""
   },
@@ -233,7 +233,7 @@
     "name": "Cahul",
     "nameWoDiacritics": "Cahul",
     "subdivision": "CA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -241,7 +241,7 @@
     "iata": "",
     "coordinates": {
       "lat": 45.916666666666664,
-      "lon": 3.35
+      "lon": 28.183333333333334
     },
     "remarks": ""
   },
@@ -252,7 +252,7 @@
     "name": "Calarasi",
     "nameWoDiacritics": "Calarasi",
     "subdivision": "CL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -260,7 +260,7 @@
     "iata": "",
     "coordinates": {
       "lat": 44.2,
-      "lon": 3.2
+      "lon": 27.333333333333332
     },
     "remarks": ""
   },
@@ -271,7 +271,7 @@
     "name": "Cantemir",
     "nameWoDiacritics": "Cantemir",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -279,7 +279,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.266666666666666,
-      "lon": 3.35
+      "lon": 28.2
     },
     "remarks": ""
   },
@@ -290,7 +290,7 @@
     "name": "Causeni",
     "nameWoDiacritics": "Causeni",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -298,7 +298,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.63333333333333,
-      "lon": 3.533333333333333
+      "lon": 29.4
     },
     "remarks": ""
   },
@@ -309,7 +309,7 @@
     "name": "Cazaclia",
     "nameWoDiacritics": "Cazaclia",
     "subdivision": "GA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -317,7 +317,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46,
-      "lon": 3.3833333333333333
+      "lon": 28.65
     },
     "remarks": ""
   },
@@ -328,7 +328,7 @@
     "name": "Ceadir-Lunga",
     "nameWoDiacritics": "Ceadir-Lunga",
     "subdivision": "GA",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -336,7 +336,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.05,
-      "lon": 3.416666666666667
+      "lon": 28.833333333333332
     },
     "remarks": ""
   },
@@ -347,7 +347,7 @@
     "name": "Chisin�u (ex Kishinev)",
     "nameWoDiacritics": "Chisinau (ex Kishinev)",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -356,7 +356,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.016666666666666,
-      "lon": 3.416666666666667
+      "lon": 28.833333333333332
     },
     "remarks": ""
   },
@@ -367,7 +367,7 @@
     "name": "Cimislia",
     "nameWoDiacritics": "Cimislia",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -375,7 +375,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.516666666666666,
-      "lon": 3.4
+      "lon": 28.783333333333335
     },
     "remarks": ""
   },
@@ -386,7 +386,7 @@
     "name": "Comrat",
     "nameWoDiacritics": "Comrat",
     "subdivision": "GA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -394,7 +394,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.3,
-      "lon": 3.3833333333333333
+      "lon": 28.65
     },
     "remarks": ""
   },
@@ -405,7 +405,7 @@
     "name": "Costesti",
     "nameWoDiacritics": "Costesti",
     "subdivision": "CU",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -413,7 +413,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.9,
-      "lon": 3.4
+      "lon": 28.766666666666666
     },
     "remarks": ""
   },
@@ -424,7 +424,7 @@
     "name": "Cricova",
     "nameWoDiacritics": "Cricova",
     "subdivision": "CU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -432,7 +432,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.13333333333333,
-      "lon": 3.416666666666667
+      "lon": 28.85
     },
     "remarks": ""
   },
@@ -443,7 +443,7 @@
     "name": "Criuleni",
     "nameWoDiacritics": "Criuleni",
     "subdivision": "CR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -451,7 +451,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.2,
-      "lon": 3.5
+      "lon": 29.15
     },
     "remarks": ""
   },
@@ -462,7 +462,7 @@
     "name": "Dubasari",
     "nameWoDiacritics": "Dubasari",
     "subdivision": "SN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -470,7 +470,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.25,
-      "lon": 3.5
+      "lon": 29.15
     },
     "remarks": ""
   },
@@ -481,7 +481,7 @@
     "name": "Edinet",
     "nameWoDiacritics": "Edinet",
     "subdivision": "ED",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -489,7 +489,7 @@
     "iata": "",
     "coordinates": {
       "lat": 48.166666666666664,
-      "lon": 3.1833333333333336
+      "lon": 27.3
     },
     "remarks": ""
   },
@@ -500,7 +500,7 @@
     "name": "Etulia",
     "nameWoDiacritics": "Etulia",
     "subdivision": "GA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -508,7 +508,7 @@
     "iata": "",
     "coordinates": {
       "lat": 45.53333333333333,
-      "lon": 3.3666666666666667
+      "lon": 28.433333333333334
     },
     "remarks": ""
   },
@@ -519,7 +519,7 @@
     "name": "Falesti",
     "nameWoDiacritics": "Falesti",
     "subdivision": "BA",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -527,7 +527,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.56666666666667,
-      "lon": 3.2333333333333334
+      "lon": 27.7
     },
     "remarks": ""
   },
@@ -538,7 +538,7 @@
     "name": "Floresti",
     "nameWoDiacritics": "Floresti",
     "subdivision": "CU",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -547,7 +547,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.983333333333334,
-      "lon": 3.5166666666666666
+      "lon": 29.166666666666668
     },
     "remarks": ""
   },
@@ -558,7 +558,7 @@
     "name": "Giurgiulesti",
     "nameWoDiacritics": "Giurgiulesti",
     "subdivision": "CA",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -567,7 +567,7 @@
     "iata": "",
     "coordinates": {
       "lat": 45.46666666666667,
-      "lon": 3.35
+      "lon": 28.183333333333334
     },
     "remarks": ""
   },
@@ -578,7 +578,7 @@
     "name": "Hincesti",
     "nameWoDiacritics": "Hincesti",
     "subdivision": "HI",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -586,7 +586,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.81666666666667,
-      "lon": 3.3833333333333333
+      "lon": 28.583333333333332
     },
     "remarks": ""
   },
@@ -597,7 +597,7 @@
     "name": "Ialoveni",
     "nameWoDiacritics": "Ialoveni",
     "subdivision": "IA",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -605,7 +605,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.93333333333333,
-      "lon": 3.4
+      "lon": 28.766666666666666
     },
     "remarks": ""
   },
@@ -616,7 +616,7 @@
     "name": "Kupchino",
     "nameWoDiacritics": "Kupchino",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -624,7 +624,7 @@
     "iata": "",
     "coordinates": {
       "lat": 48.1,
-      "lon": 3.2
+      "lon": 27.383333333333333
     },
     "remarks": ""
   },
@@ -635,7 +635,7 @@
     "name": "Lapusna",
     "nameWoDiacritics": "Lapusna",
     "subdivision": "HI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -643,7 +643,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.88333333333333,
-      "lon": 3.3666666666666667
+      "lon": 28.416666666666668
     },
     "remarks": ""
   },
@@ -654,7 +654,7 @@
     "name": "Leova",
     "nameWoDiacritics": "Leova",
     "subdivision": "LE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -662,7 +662,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.46666666666667,
-      "lon": 3.35
+      "lon": 28.25
     },
     "remarks": ""
   },
@@ -673,7 +673,7 @@
     "name": "Leusheny",
     "nameWoDiacritics": "Leusheny",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -681,7 +681,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.81666666666667,
-      "lon": 3.35
+      "lon": 28.2
     },
     "remarks": ""
   },
@@ -692,7 +692,7 @@
     "name": "Nisporeni",
     "nameWoDiacritics": "Nisporeni",
     "subdivision": "UN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -700,7 +700,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.06666666666667,
-      "lon": 3.35
+      "lon": 28.166666666666668
     },
     "remarks": ""
   },
@@ -711,7 +711,7 @@
     "name": "Orhei",
     "nameWoDiacritics": "Orhei",
     "subdivision": "OR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -719,7 +719,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.36666666666667,
-      "lon": 3.4
+      "lon": 28.816666666666666
     },
     "remarks": ""
   },
@@ -730,7 +730,7 @@
     "name": "Pleseni",
     "nameWoDiacritics": "Pleseni",
     "subdivision": "CA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -738,7 +738,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.35,
-      "lon": 3.3666666666666667
+      "lon": 28.333333333333332
     },
     "remarks": ""
   },
@@ -749,7 +749,7 @@
     "name": "Purcari",
     "nameWoDiacritics": "Purcari",
     "subdivision": "SV",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -757,7 +757,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.53333333333333,
-      "lon": 3.583333333333333
+      "lon": 29.85
     },
     "remarks": ""
   },
@@ -768,7 +768,7 @@
     "name": "Revaca",
     "nameWoDiacritics": "Revaca",
     "subdivision": "CU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -776,7 +776,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.9,
-      "lon": 3.416666666666667
+      "lon": 28.933333333333334
     },
     "remarks": ""
   },
@@ -787,7 +787,7 @@
     "name": "Ribnita",
     "nameWoDiacritics": "Ribnita",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -796,7 +796,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.75,
-      "lon": 3.5
+      "lon": 29
     },
     "remarks": ""
   },
@@ -807,7 +807,7 @@
     "name": "RIS Inland waterways",
     "nameWoDiacritics": "RIS Inland waterways",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -826,7 +826,7 @@
     "name": "Salcuta",
     "nameWoDiacritics": "Salcuta",
     "subdivision": "CS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -834,7 +834,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.583333333333336,
-      "lon": 3.5166666666666666
+      "lon": 29.233333333333334
     },
     "remarks": ""
   },
@@ -845,7 +845,7 @@
     "name": "Soroca",
     "nameWoDiacritics": "Soroca",
     "subdivision": "SO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -853,7 +853,7 @@
     "iata": "",
     "coordinates": {
       "lat": 48.166666666666664,
-      "lon": 3.35
+      "lon": 28.3
     },
     "remarks": ""
   },
@@ -864,7 +864,7 @@
     "name": "Stefan-Voda",
     "nameWoDiacritics": "Stefan-Voda",
     "subdivision": "SV",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -872,7 +872,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.5,
-      "lon": 3.55
+      "lon": 29.65
     },
     "remarks": ""
   },
@@ -883,7 +883,7 @@
     "name": "Straseni",
     "nameWoDiacritics": "Straseni",
     "subdivision": "ST",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -891,7 +891,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.13333333333333,
-      "lon": 3.3833333333333333
+      "lon": 28.6
     },
     "remarks": ""
   },
@@ -902,7 +902,7 @@
     "name": "Taraclia",
     "nameWoDiacritics": "Taraclia",
     "subdivision": "TA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -910,7 +910,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.56666666666667,
-      "lon": 3.5
+      "lon": 29.1
     },
     "remarks": ""
   },
@@ -921,7 +921,7 @@
     "name": "Taraclia",
     "nameWoDiacritics": "Taraclia",
     "subdivision": "CA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -929,7 +929,7 @@
     "iata": "",
     "coordinates": {
       "lat": 45.9,
-      "lon": 3.4
+      "lon": 28.666666666666668
     },
     "remarks": ""
   },
@@ -940,7 +940,7 @@
     "name": "Telenesti",
     "nameWoDiacritics": "Telenesti",
     "subdivision": "TE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -948,7 +948,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.71666666666667,
-      "lon": 3.3666666666666667
+      "lon": 28.45
     },
     "remarks": ""
   },
@@ -959,7 +959,7 @@
     "name": "Tiraspol",
     "nameWoDiacritics": "Tiraspol",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -968,7 +968,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.833333333333336,
-      "lon": 3.55
+      "lon": 29.633333333333333
     },
     "remarks": ""
   },
@@ -979,7 +979,7 @@
     "name": "Ungeny",
     "nameWoDiacritics": "Ungeny",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       1
     ],
@@ -998,7 +998,7 @@
     "name": "Vatra",
     "nameWoDiacritics": "Vatra",
     "subdivision": "GA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1006,7 +1006,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.06666666666667,
-      "lon": 3.4
+      "lon": 28.733333333333334
     },
     "remarks": ""
   },
@@ -1017,7 +1017,7 @@
     "name": "Vulc?nesti",
     "nameWoDiacritics": "Vulc?nesti",
     "subdivision": "GA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1025,7 +1025,7 @@
     "iata": "",
     "coordinates": {
       "lat": 45.68333333333333,
-      "lon": 3.3666666666666667
+      "lon": 28.4
     },
     "remarks": ""
   }

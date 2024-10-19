@@ -6,7 +6,7 @@
     "name": ".NAMIBIA",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Ai-Ais",
     "nameWoDiacritics": "Ai-Ais",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -42,7 +42,7 @@
     "name": "Arandis",
     "nameWoDiacritics": "Arandis",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -61,7 +61,7 @@
     "name": "Ariamsvlei",
     "nameWoDiacritics": "Ariamsvlei",
     "subdivision": "KA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -69,7 +69,7 @@
     "iata": "",
     "coordinates": {
       "lat": -28.116666666666667,
-      "lon": 2.5666666666666664
+      "lon": 19.816666666666666
     },
     "remarks": ""
   },
@@ -80,7 +80,7 @@
     "name": "Aussenkehr",
     "nameWoDiacritics": "Aussenkehr",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -88,7 +88,7 @@
     "iata": "",
     "coordinates": {
       "lat": -28.35,
-      "lon": 2.2
+      "lon": 17.383333333333333
     },
     "remarks": ""
   },
@@ -99,7 +99,7 @@
     "name": "Bagani",
     "nameWoDiacritics": "Bagani",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -118,7 +118,7 @@
     "name": "Gobabis",
     "nameWoDiacritics": "Gobabis",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -137,7 +137,7 @@
     "name": "Grootfontein",
     "nameWoDiacritics": "Grootfontein",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -156,7 +156,7 @@
     "name": "Halali",
     "nameWoDiacritics": "Halali",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -175,7 +175,7 @@
     "name": "Henties Bay (Hentiesbaai)",
     "nameWoDiacritics": "Henties Bay (Hentiesbaai)",
     "subdivision": "ER",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -183,7 +183,7 @@
     "iata": "",
     "coordinates": {
       "lat": -22.116666666666667,
-      "lon": 1.6833333333333333
+      "lon": 14.283333333333333
     },
     "remarks": ""
   },
@@ -194,7 +194,7 @@
     "name": "Karasburg",
     "nameWoDiacritics": "Karasburg",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -214,7 +214,7 @@
     "name": "Karibib",
     "nameWoDiacritics": "Karibib",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -222,7 +222,7 @@
     "iata": "",
     "coordinates": {
       "lat": -21.933333333333334,
-      "lon": 1.9166666666666665
+      "lon": 15.85
     },
     "remarks": ""
   },
@@ -233,7 +233,7 @@
     "name": "Katima Mulilo",
     "nameWoDiacritics": "Katima Mulilo",
     "subdivision": "CA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -241,7 +241,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.5,
-      "lon": 2.6833333333333336
+      "lon": 24.266666666666666
     },
     "remarks": ""
   },
@@ -252,7 +252,7 @@
     "name": "Keetmanshoop",
     "nameWoDiacritics": "Keetmanshoop",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -271,7 +271,7 @@
     "name": "L�deritz",
     "nameWoDiacritics": "Luderitz",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -280,7 +280,7 @@
     "iata": "",
     "coordinates": {
       "lat": -26.65,
-      "lon": 1.85
+      "lon": 15.166666666666666
     },
     "remarks": ""
   },
@@ -291,7 +291,7 @@
     "name": "Maltahohe",
     "nameWoDiacritics": "Maltahohe",
     "subdivision": "HA",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -299,7 +299,7 @@
     "iata": "",
     "coordinates": {
       "lat": -24.833333333333332,
-      "lon": 2.083333333333333
+      "lon": 16.983333333333334
     },
     "remarks": ""
   },
@@ -310,7 +310,7 @@
     "name": "Mariental",
     "nameWoDiacritics": "Mariental",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -329,7 +329,7 @@
     "name": "Midgard",
     "nameWoDiacritics": "Midgard",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -348,7 +348,7 @@
     "name": "Mokuti Lodge",
     "nameWoDiacritics": "Mokuti Lodge",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -367,7 +367,7 @@
     "name": "Mount Etjo Lodge",
     "nameWoDiacritics": "Mount Etjo Lodge",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -386,7 +386,7 @@
     "name": "Mpacha",
     "nameWoDiacritics": "Mpacha",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -405,7 +405,7 @@
     "name": "Namutoni",
     "nameWoDiacritics": "Namutoni",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -424,7 +424,7 @@
     "name": "Noordoewer",
     "nameWoDiacritics": "Noordoewer",
     "subdivision": "KA",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       4
@@ -433,7 +433,7 @@
     "iata": "",
     "coordinates": {
       "lat": -28.75,
-      "lon": 2.216666666666667
+      "lon": 17.616666666666667
     },
     "remarks": ""
   },
@@ -444,7 +444,7 @@
     "name": "Okahandja",
     "nameWoDiacritics": "Okahandja",
     "subdivision": "OD",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -452,7 +452,7 @@
     "iata": "",
     "coordinates": {
       "lat": -21.983333333333334,
-      "lon": 2.083333333333333
+      "lon": 16.916666666666668
     },
     "remarks": ""
   },
@@ -463,7 +463,7 @@
     "name": "Okaukuejo",
     "nameWoDiacritics": "Okaukuejo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -482,7 +482,7 @@
     "name": "Omaruru",
     "nameWoDiacritics": "Omaruru",
     "subdivision": "ER",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -490,7 +490,7 @@
     "iata": "",
     "coordinates": {
       "lat": -21.433333333333334,
-      "lon": 1.9166666666666665
+      "lon": 15.933333333333334
     },
     "remarks": ""
   },
@@ -501,7 +501,7 @@
     "name": "Omega",
     "nameWoDiacritics": "Omega",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -520,7 +520,7 @@
     "name": "Ondangwa",
     "nameWoDiacritics": "Ondangwa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -539,7 +539,7 @@
     "name": "Ongava Game Reserve",
     "nameWoDiacritics": "Ongava Game Reserve",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -558,7 +558,7 @@
     "name": "Ongwediva",
     "nameWoDiacritics": "Ongwediva",
     "subdivision": "ON",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -566,7 +566,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.766666666666666,
-      "lon": 1.9
+      "lon": 15.75
     },
     "remarks": ""
   },
@@ -577,7 +577,7 @@
     "name": "Opuwa",
     "nameWoDiacritics": "Opuwa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -596,7 +596,7 @@
     "name": "Oranjemund",
     "nameWoDiacritics": "Oranjemund",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -615,7 +615,7 @@
     "name": "Oshakati",
     "nameWoDiacritics": "Oshakati",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -635,7 +635,7 @@
     "name": "Oshikango",
     "nameWoDiacritics": "Oshikango",
     "subdivision": "OW",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -643,7 +643,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.4,
-      "lon": 1.9166666666666665
+      "lon": 15.883333333333333
     },
     "remarks": ""
   },
@@ -654,7 +654,7 @@
     "name": "Oshivelo",
     "nameWoDiacritics": "Oshivelo",
     "subdivision": "OT",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -662,7 +662,7 @@
     "iata": "",
     "coordinates": {
       "lat": -18.616666666666667,
-      "lon": 2.1833333333333336
+      "lon": 17.166666666666668
     },
     "remarks": ""
   },
@@ -673,7 +673,7 @@
     "name": "Otavi",
     "nameWoDiacritics": "Otavi",
     "subdivision": "OD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -681,7 +681,7 @@
     "iata": "",
     "coordinates": {
       "lat": -19.65,
-      "lon": 2.2
+      "lon": 17.333333333333332
     },
     "remarks": ""
   },
@@ -692,7 +692,7 @@
     "name": "Otjiwarongo",
     "nameWoDiacritics": "Otjiwarongo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -712,7 +712,7 @@
     "name": "Outjo",
     "nameWoDiacritics": "Outjo",
     "subdivision": "KU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -720,7 +720,7 @@
     "iata": "",
     "coordinates": {
       "lat": -20.116666666666667,
-      "lon": 2
+      "lon": 16.15
     },
     "remarks": ""
   },
@@ -731,7 +731,7 @@
     "name": "Ruacana",
     "nameWoDiacritics": "Ruacana",
     "subdivision": "KU",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       5
@@ -740,7 +740,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.433333333333334,
-      "lon": 1.7
+      "lon": 14.35
     },
     "remarks": ""
   },
@@ -751,7 +751,7 @@
     "name": "Rundu",
     "nameWoDiacritics": "Rundu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -770,7 +770,7 @@
     "name": "Sesriem",
     "nameWoDiacritics": "Sesriem",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -789,7 +789,7 @@
     "name": "Swakopmund",
     "nameWoDiacritics": "Swakopmund",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -809,7 +809,7 @@
     "name": "Terrace Bay",
     "nameWoDiacritics": "Terrace Bay",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -828,7 +828,7 @@
     "name": "Tsumeb",
     "nameWoDiacritics": "Tsumeb",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -847,7 +847,7 @@
     "name": "Uis",
     "nameWoDiacritics": "Uis",
     "subdivision": "ER",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -855,7 +855,7 @@
     "iata": "",
     "coordinates": {
       "lat": -21.216666666666665,
-      "lon": 1.75
+      "lon": 14.85
     },
     "remarks": ""
   },
@@ -866,7 +866,7 @@
     "name": "Walvis Bay",
     "nameWoDiacritics": "Walvis Bay",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -885,7 +885,7 @@
     "name": "Windhoek",
     "nameWoDiacritics": "Windhoek",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -905,7 +905,7 @@
     "name": "Windhoek Eros Airport",
     "nameWoDiacritics": "Windhoek Eros Airport",
     "subdivision": "KH",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -913,7 +913,7 @@
     "iata": "",
     "coordinates": {
       "lat": -22.6,
-      "lon": 2.166666666666667
+      "lon": 17.066666666666666
     },
     "remarks": ""
   }

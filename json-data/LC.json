@@ -6,7 +6,7 @@
     "name": ".SAINT LUCIA",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Castries",
     "nameWoDiacritics": "Castries",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -32,7 +32,7 @@
     "iata": "",
     "coordinates": {
       "lat": 14.016666666666667,
-      "lon": 6.083333333333333
+      "lon": -60.96666666666667
     },
     "remarks": ""
   },
@@ -43,7 +43,7 @@
     "name": "Cul de Sac",
     "nameWoDiacritics": "Cul de Sac",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -62,7 +62,7 @@
     "name": "Gros Islet",
     "nameWoDiacritics": "Gros Islet",
     "subdivision": "06",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -70,7 +70,7 @@
     "iata": "",
     "coordinates": {
       "lat": 14.066666666666666,
-      "lon": 6.083333333333333
+      "lon": -60.95
     },
     "remarks": ""
   },
@@ -81,7 +81,7 @@
     "name": "Hewanorra Intl  Apt",
     "nameWoDiacritics": "Hewanorra Intl  Apt",
     "subdivision": "11",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -89,7 +89,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.716666666666667,
-      "lon": 6.083333333333333
+      "lon": -60.95
     },
     "remarks": ""
   },
@@ -100,7 +100,7 @@
     "name": "Saint Lucia Apt",
     "nameWoDiacritics": "Saint Lucia Apt",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -109,7 +109,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.7,
-      "lon": 6.083333333333333
+      "lon": -60.93333333333333
     },
     "remarks": ""
   },
@@ -120,7 +120,7 @@
     "name": "Vieux Fort",
     "nameWoDiacritics": "Vieux Fort",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],

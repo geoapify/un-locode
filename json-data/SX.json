@@ -6,7 +6,7 @@
     "name": ".SINT MAARTEN (DUTCH PART)",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Cay Bay",
     "nameWoDiacritics": "Cay Bay",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.016666666666666,
-      "lon": 6.5
+      "lon": -63.06666666666667
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Gallis Bay",
     "nameWoDiacritics": "Gallis Bay",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -51,7 +51,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.016666666666666,
-      "lon": 6.5
+      "lon": -63.06666666666667
     },
     "remarks": ""
   },
@@ -62,7 +62,7 @@
     "name": "Marigot",
     "nameWoDiacritics": "Marigot",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -70,7 +70,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.066666666666666,
-      "lon": 6.5
+      "lon": -63.06666666666667
     },
     "remarks": ""
   },
@@ -81,7 +81,7 @@
     "name": "Philipsburg",
     "nameWoDiacritics": "Philipsburg",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -90,7 +90,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.016666666666666,
-      "lon": 6.5
+      "lon": -63.03333333333333
     },
     "remarks": ""
   },
@@ -101,7 +101,7 @@
     "name": "Sint-Maarten Apt",
     "nameWoDiacritics": "Sint-Maarten Apt",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -111,7 +111,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.05,
-      "lon": 6.5
+      "lon": -63.11666666666667
     },
     "remarks": ""
   }

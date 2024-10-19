@@ -6,7 +6,7 @@
     "name": ".MAURITANIA",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Aioun el Atrouss",
     "nameWoDiacritics": "Aioun el Atrouss",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -42,7 +42,7 @@
     "name": "Akjoujt",
     "nameWoDiacritics": "Akjoujt",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -61,7 +61,7 @@
     "name": "Aleg",
     "nameWoDiacritics": "Aleg",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -80,7 +80,7 @@
     "name": "Atar",
     "nameWoDiacritics": "Atar",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -99,7 +99,7 @@
     "name": "Bassiknou",
     "nameWoDiacritics": "Bassiknou",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -107,7 +107,7 @@
     "iata": "",
     "coordinates": {
       "lat": 15.85,
-      "lon": 0.9166666666666666
+      "lon": -5.933333333333334
     },
     "remarks": ""
   },
@@ -118,7 +118,7 @@
     "name": "Bogh�",
     "nameWoDiacritics": "Boghe",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -126,7 +126,7 @@
     "iata": "",
     "coordinates": {
       "lat": 16.583333333333332,
-      "lon": 1.6833333333333333
+      "lon": -14.266666666666667
     },
     "remarks": ""
   },
@@ -137,7 +137,7 @@
     "name": "Boutilimit",
     "nameWoDiacritics": "Boutilimit",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -156,7 +156,7 @@
     "name": "Chinguitti",
     "nameWoDiacritics": "Chinguitti",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -175,7 +175,7 @@
     "name": "El Gouera",
     "nameWoDiacritics": "El Gouera",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -194,7 +194,7 @@
     "name": "Fd�rik",
     "nameWoDiacritics": "Fderik",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -202,7 +202,7 @@
     "iata": "",
     "coordinates": {
       "lat": 22.683333333333334,
-      "lon": 1.4
+      "lon": -12.7
     },
     "remarks": ""
   },
@@ -213,7 +213,7 @@
     "name": "Ka�di",
     "nameWoDiacritics": "Kaedi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -221,7 +221,7 @@
     "iata": "",
     "coordinates": {
       "lat": 16.15,
-      "lon": 1.55
+      "lon": -13.5
     },
     "remarks": ""
   },
@@ -232,7 +232,7 @@
     "name": "Kiffa",
     "nameWoDiacritics": "Kiffa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -251,7 +251,7 @@
     "name": "Kobenni",
     "nameWoDiacritics": "Kobenni",
     "subdivision": "02",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -259,7 +259,7 @@
     "iata": "",
     "coordinates": {
       "lat": 15.816666666666666,
-      "lon": 1.5333333333333334
+      "lon": -9.366666666666667
     },
     "remarks": ""
   },
@@ -270,7 +270,7 @@
     "name": "Mbout",
     "nameWoDiacritics": "Mbout",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -289,7 +289,7 @@
     "name": "Moudj�ria",
     "nameWoDiacritics": "Moudjeria",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -297,7 +297,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.883333333333333,
-      "lon": 1.3666666666666667
+      "lon": -12.333333333333334
     },
     "remarks": ""
   },
@@ -308,7 +308,7 @@
     "name": "N�ma",
     "nameWoDiacritics": "Nema",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -316,7 +316,7 @@
     "iata": "",
     "coordinates": {
       "lat": 16.616666666666667,
-      "lon": 1.1833333333333333
+      "lon": -7.25
     },
     "remarks": ""
   },
@@ -327,7 +327,7 @@
     "name": "Nouadhibou",
     "nameWoDiacritics": "Nouadhibou",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -347,7 +347,7 @@
     "name": "Nouakchott",
     "nameWoDiacritics": "Nouakchott",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -368,7 +368,7 @@
     "name": "Point Central",
     "nameWoDiacritics": "Point Central",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -387,7 +387,7 @@
     "name": "Rosso",
     "nameWoDiacritics": "Rosso",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2,
@@ -397,7 +397,7 @@
     "iata": "",
     "coordinates": {
       "lat": 16.5,
-      "lon": 1.9166666666666665
+      "lon": -15.916666666666666
     },
     "remarks": ""
   },
@@ -408,7 +408,7 @@
     "name": "S�libaby",
     "nameWoDiacritics": "Selibaby",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -416,7 +416,7 @@
     "iata": "",
     "coordinates": {
       "lat": 15.166666666666666,
-      "lon": 1.35
+      "lon": -12.183333333333334
     },
     "remarks": ""
   },
@@ -427,7 +427,7 @@
     "name": "Tamchakett",
     "nameWoDiacritics": "Tamchakett",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -446,7 +446,7 @@
     "name": "Tichitt",
     "nameWoDiacritics": "Tichitt",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -465,7 +465,7 @@
     "name": "Tidjikja",
     "nameWoDiacritics": "Tidjikja",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -484,7 +484,7 @@
     "name": "Timb�dra",
     "nameWoDiacritics": "Timbedra",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -492,7 +492,7 @@
     "iata": "",
     "coordinates": {
       "lat": 16.25,
-      "lon": 1.35
+      "lon": -8.166666666666666
     },
     "remarks": ""
   },
@@ -503,7 +503,7 @@
     "name": "Tintane",
     "nameWoDiacritics": "Tintane",
     "subdivision": "02",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -511,7 +511,7 @@
     "iata": "",
     "coordinates": {
       "lat": 16.4,
-      "lon": 1.0166666666666666
+      "lon": -10.166666666666666
     },
     "remarks": ""
   },
@@ -522,7 +522,7 @@
     "name": "Zou�rat",
     "nameWoDiacritics": "Zouerat",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -530,7 +530,7 @@
     "iata": "",
     "coordinates": {
       "lat": 22.7,
-      "lon": 1.3666666666666667
+      "lon": -12.483333333333333
     },
     "remarks": ""
   }

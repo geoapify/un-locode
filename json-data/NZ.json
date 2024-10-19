@@ -6,7 +6,7 @@
     "name": ".NEW ZEALAND",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Ahuriri",
     "nameWoDiacritics": "Ahuriri",
     "subdivision": "HKB",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.483333333333334,
-      "lon": 18.083333333333332
+      "lon": 176.9
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Akaroa",
     "nameWoDiacritics": "Akaroa",
     "subdivision": "CAN",
-    "status": "AC",
+    "status": 1,
     "function": [
       0
     ],
@@ -50,7 +50,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.8,
-      "lon": 17.416666666666668
+      "lon": 172.95
     },
     "remarks": ""
   },
@@ -61,7 +61,7 @@
     "name": "Albany",
     "nameWoDiacritics": "Albany",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -69,7 +69,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.71666666666667,
-      "lon": 17.733333333333334
+      "lon": 174.68333333333334
     },
     "remarks": ""
   },
@@ -80,7 +80,7 @@
     "name": "Alexandra",
     "nameWoDiacritics": "Alexandra",
     "subdivision": "OTA",
-    "status": "AC",
+    "status": 1,
     "function": [
       3
     ],
@@ -99,7 +99,7 @@
     "name": "Amberley",
     "nameWoDiacritics": "Amberley",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -107,7 +107,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.166666666666664,
-      "lon": 17.4
+      "lon": 172.73333333333332
     },
     "remarks": ""
   },
@@ -118,7 +118,7 @@
     "name": "Aranui",
     "nameWoDiacritics": "Aranui",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -126,7 +126,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.516666666666666,
-      "lon": 17.4
+      "lon": 172.7
     },
     "remarks": ""
   },
@@ -137,7 +137,7 @@
     "name": "Arapuni",
     "nameWoDiacritics": "Arapuni",
     "subdivision": "WKO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -145,7 +145,7 @@
     "iata": "",
     "coordinates": {
       "lat": -38.06666666666667,
-      "lon": 17.883333333333333
+      "lon": 175.65
     },
     "remarks": ""
   },
@@ -156,7 +156,7 @@
     "name": "Ardmore",
     "nameWoDiacritics": "Ardmore",
     "subdivision": "AUK",
-    "status": "AC",
+    "status": 1,
     "function": [
       3
     ],
@@ -175,7 +175,7 @@
     "name": "Arrowtown",
     "nameWoDiacritics": "Arrowtown",
     "subdivision": "OTA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -183,7 +183,7 @@
     "iata": "",
     "coordinates": {
       "lat": -44.93333333333333,
-      "lon": 17.416666666666668
+      "lon": 168.83333333333334
     },
     "remarks": ""
   },
@@ -194,7 +194,7 @@
     "name": "Ashburton",
     "nameWoDiacritics": "Ashburton",
     "subdivision": "CAN",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       3
@@ -203,7 +203,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.916666666666664,
-      "lon": 17.233333333333334
+      "lon": 171.75
     },
     "remarks": ""
   },
@@ -214,7 +214,7 @@
     "name": "Auckland",
     "nameWoDiacritics": "Auckland",
     "subdivision": "AUK",
-    "status": "AC",
+    "status": 1,
     "function": [
       0,
       1,
@@ -226,7 +226,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.833333333333336,
-      "lon": 17.733333333333334
+      "lon": 174.8
     },
     "remarks": ""
   },
@@ -237,7 +237,7 @@
     "name": "Avalon",
     "nameWoDiacritics": "Avalon",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -245,7 +245,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.18333333333333,
-      "lon": 17.75
+      "lon": 174.93333333333334
     },
     "remarks": ""
   },
@@ -256,7 +256,7 @@
     "name": "Avondale",
     "nameWoDiacritics": "Avondale",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -264,7 +264,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.88333333333333,
-      "lon": 17.733333333333334
+      "lon": 174.7
     },
     "remarks": ""
   },
@@ -275,7 +275,7 @@
     "name": "Avonhead",
     "nameWoDiacritics": "Avonhead",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -283,7 +283,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.516666666666666,
-      "lon": 17.383333333333333
+      "lon": 172.56666666666666
     },
     "remarks": ""
   },
@@ -294,7 +294,7 @@
     "name": "Awatoto",
     "nameWoDiacritics": "Awatoto",
     "subdivision": "HKB",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -302,7 +302,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.55,
-      "lon": 18.083333333333332
+      "lon": 176.9
     },
     "remarks": ""
   },
@@ -313,7 +313,7 @@
     "name": "Balclutha",
     "nameWoDiacritics": "Balclutha",
     "subdivision": "OTA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -321,7 +321,7 @@
     "iata": "",
     "coordinates": {
       "lat": -46.233333333333334,
-      "lon": 17.566666666666666
+      "lon": 169.73333333333332
     },
     "remarks": ""
   },
@@ -332,7 +332,7 @@
     "name": "Bannockburn",
     "nameWoDiacritics": "Bannockburn",
     "subdivision": "OTA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -340,7 +340,7 @@
     "iata": "",
     "coordinates": {
       "lat": -45.083333333333336,
-      "lon": 17.516666666666666
+      "lon": 169.16666666666666
     },
     "remarks": ""
   },
@@ -351,7 +351,7 @@
     "name": "Bayswater",
     "nameWoDiacritics": "Bayswater",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -359,7 +359,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.8,
-      "lon": 17.733333333333334
+      "lon": 174.76666666666668
     },
     "remarks": ""
   },
@@ -370,7 +370,7 @@
     "name": "Belfast",
     "nameWoDiacritics": "Belfast",
     "subdivision": "CAN",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -378,7 +378,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.43333333333333,
-      "lon": 17.383333333333333
+      "lon": 172.63333333333333
     },
     "remarks": ""
   },
@@ -389,7 +389,7 @@
     "name": "Belmont",
     "nameWoDiacritics": "Belmont",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -397,7 +397,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.8,
-      "lon": 17.733333333333334
+      "lon": 174.78333333333333
     },
     "remarks": ""
   },
@@ -408,7 +408,7 @@
     "name": "Blenheim",
     "nameWoDiacritics": "Blenheim",
     "subdivision": "MBH",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       3
@@ -417,7 +417,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.516666666666666,
-      "lon": 17.583333333333332
+      "lon": 173.96666666666667
     },
     "remarks": ""
   },
@@ -428,7 +428,7 @@
     "name": "Bluff",
     "nameWoDiacritics": "Bluff",
     "subdivision": "STL",
-    "status": "AC",
+    "status": 1,
     "function": [
       0,
       1,
@@ -438,7 +438,7 @@
     "iata": "",
     "coordinates": {
       "lat": -46.6,
-      "lon": 17.35
+      "lon": 168.31666666666666
     },
     "remarks": ""
   },
@@ -449,7 +449,7 @@
     "name": "Brightwater",
     "nameWoDiacritics": "Brightwater",
     "subdivision": "NSN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -457,7 +457,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.38333333333333,
-      "lon": 17.5
+      "lon": 173.11666666666667
     },
     "remarks": ""
   },
@@ -468,7 +468,7 @@
     "name": "Bromley",
     "nameWoDiacritics": "Bromley",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -476,7 +476,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.55,
-      "lon": 17.4
+      "lon": 172.7
     },
     "remarks": ""
   },
@@ -487,7 +487,7 @@
     "name": "Bulls",
     "nameWoDiacritics": "Bulls",
     "subdivision": "MWT",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -495,7 +495,7 @@
     "iata": "",
     "coordinates": {
       "lat": -40.166666666666664,
-      "lon": 17.866666666666667
+      "lon": 175.38333333333333
     },
     "remarks": ""
   },
@@ -506,7 +506,7 @@
     "name": "Burnham",
     "nameWoDiacritics": "Burnham",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -514,7 +514,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.61666666666667,
-      "lon": 17.35
+      "lon": 172.31666666666666
     },
     "remarks": ""
   },
@@ -525,7 +525,7 @@
     "name": "Burnham Wharf",
     "nameWoDiacritics": "Burnham Wharf",
     "subdivision": "WGN",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
@@ -533,7 +533,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.3,
-      "lon": 17.733333333333334
+      "lon": 174.8
     },
     "remarks": ""
   },
@@ -544,7 +544,7 @@
     "name": "Burwood",
     "nameWoDiacritics": "Burwood",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -552,7 +552,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.5,
-      "lon": 17.4
+      "lon": 172.7
     },
     "remarks": ""
   },
@@ -563,7 +563,7 @@
     "name": "Cambridge",
     "nameWoDiacritics": "Cambridge",
     "subdivision": "WKO",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -582,7 +582,7 @@
     "name": "Carterton",
     "nameWoDiacritics": "Carterton",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -590,7 +590,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.016666666666666,
-      "lon": 17.883333333333333
+      "lon": 175.55
     },
     "remarks": ""
   },
@@ -601,7 +601,7 @@
     "name": "Chatham Island",
     "nameWoDiacritics": "Chatham Island",
     "subdivision": "CAN",
-    "status": "AC",
+    "status": 1,
     "function": [
       3
     ],
@@ -620,7 +620,7 @@
     "name": "Chelsea",
     "nameWoDiacritics": "Chelsea",
     "subdivision": "AUK",
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2
@@ -629,7 +629,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.81666666666667,
-      "lon": 17.733333333333334
+      "lon": 174.71666666666667
     },
     "remarks": ""
   },
@@ -640,7 +640,7 @@
     "name": "Cheviot",
     "nameWoDiacritics": "Cheviot",
     "subdivision": "CAN",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -648,7 +648,7 @@
     "iata": "",
     "coordinates": {
       "lat": -42.81666666666667,
-      "lon": 17.516666666666666
+      "lon": 173.26666666666668
     },
     "remarks": ""
   },
@@ -659,7 +659,7 @@
     "name": "Christchurch",
     "nameWoDiacritics": "Christchurch",
     "subdivision": "CAN",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       3
@@ -668,7 +668,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.53333333333333,
-      "lon": 17.383333333333333
+      "lon": 172.63333333333333
     },
     "remarks": ""
   },
@@ -679,7 +679,7 @@
     "name": "Clifton",
     "nameWoDiacritics": "Clifton",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -687,7 +687,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.55,
-      "lon": 17.4
+      "lon": 172.75
     },
     "remarks": ""
   },
@@ -698,7 +698,7 @@
     "name": "Clyde",
     "nameWoDiacritics": "Clyde",
     "subdivision": "OTA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -706,7 +706,7 @@
     "iata": "",
     "coordinates": {
       "lat": -45.18333333333333,
-      "lon": 17.516666666666666
+      "lon": 169.31666666666666
     },
     "remarks": ""
   },
@@ -717,7 +717,7 @@
     "name": "Coromandel",
     "nameWoDiacritics": "Coromandel",
     "subdivision": "WKO",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -725,7 +725,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.766666666666666,
-      "lon": 17.883333333333333
+      "lon": 175.5
     },
     "remarks": ""
   },
@@ -736,7 +736,7 @@
     "name": "Cromwell",
     "nameWoDiacritics": "Cromwell",
     "subdivision": "OTA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -744,7 +744,7 @@
     "iata": "",
     "coordinates": {
       "lat": -45.05,
-      "lon": 17.516666666666666
+      "lon": 169.23333333333332
     },
     "remarks": ""
   },
@@ -755,7 +755,7 @@
     "name": "Dannevirke",
     "nameWoDiacritics": "Dannevirke",
     "subdivision": "NTL",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -764,7 +764,7 @@
     "iata": "",
     "coordinates": {
       "lat": -40.2,
-      "lon": 18
+      "lon": 176.08333333333334
     },
     "remarks": ""
   },
@@ -775,7 +775,7 @@
     "name": "Dargaville",
     "nameWoDiacritics": "Dargaville",
     "subdivision": "NTL",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       3
@@ -784,7 +784,7 @@
     "iata": "",
     "coordinates": {
       "lat": -35.93333333333333,
-      "lon": 17.583333333333332
+      "lon": 173.88333333333333
     },
     "remarks": ""
   },
@@ -795,7 +795,7 @@
     "name": "Days Bay",
     "nameWoDiacritics": "Days Bay",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -803,7 +803,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.266666666666666,
-      "lon": 17.75
+      "lon": 174.91666666666666
     },
     "remarks": ""
   },
@@ -814,7 +814,7 @@
     "name": "Deep Cove",
     "nameWoDiacritics": "Deep Cove",
     "subdivision": "STL",
-    "status": "AC",
+    "status": 1,
     "function": [
       0
     ],
@@ -822,7 +822,7 @@
     "iata": "",
     "coordinates": {
       "lat": -45.45,
-      "lon": 17.166666666666668
+      "lon": 167.15
     },
     "remarks": ""
   },
@@ -833,7 +833,7 @@
     "name": "Devonport",
     "nameWoDiacritics": "Devonport",
     "subdivision": "AUK",
-    "status": "AC",
+    "status": 1,
     "function": [
       0
     ],
@@ -841,7 +841,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.833333333333336,
-      "lon": 17.733333333333334
+      "lon": 174.78333333333333
     },
     "remarks": ""
   },
@@ -852,7 +852,7 @@
     "name": "Doubtful Sound",
     "nameWoDiacritics": "Doubtful Sound",
     "subdivision": "STL",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -860,7 +860,7 @@
     "iata": "",
     "coordinates": {
       "lat": -45.28333333333333,
-      "lon": 17.083333333333332
+      "lon": 166.85
     },
     "remarks": ""
   },
@@ -871,7 +871,7 @@
     "name": "Drury",
     "nameWoDiacritics": "Drury",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -879,7 +879,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.1,
-      "lon": 17.75
+      "lon": 174.95
     },
     "remarks": ""
   },
@@ -890,7 +890,7 @@
     "name": "Dunedin",
     "nameWoDiacritics": "Dunedin",
     "subdivision": "OTA",
-    "status": "AC",
+    "status": 1,
     "function": [
       1,
       2,
@@ -900,7 +900,7 @@
     "iata": "",
     "coordinates": {
       "lat": -45.86666666666667,
-      "lon": 17.05
+      "lon": 170.5
     },
     "remarks": ""
   },
@@ -911,7 +911,7 @@
     "name": "Dusky Sound",
     "nameWoDiacritics": "Dusky Sound",
     "subdivision": "STL",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -919,7 +919,7 @@
     "iata": "",
     "coordinates": {
       "lat": -45.78333333333333,
-      "lon": 17.033333333333335
+      "lon": 166.46666666666667
     },
     "remarks": ""
   },
@@ -930,7 +930,7 @@
     "name": "Earnscleugh",
     "nameWoDiacritics": "Earnscleugh",
     "subdivision": "OTA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -938,7 +938,7 @@
     "iata": "",
     "coordinates": {
       "lat": -45.21666666666667,
-      "lon": 17.516666666666666
+      "lon": 169.31666666666666
     },
     "remarks": ""
   },
@@ -949,7 +949,7 @@
     "name": "East Tamaki",
     "nameWoDiacritics": "East Tamaki",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -957,7 +957,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.95,
-      "lon": 17.75
+      "lon": 174.9
     },
     "remarks": ""
   },
@@ -968,7 +968,7 @@
     "name": "Edendale",
     "nameWoDiacritics": "Edendale",
     "subdivision": "STL",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -977,7 +977,7 @@
     "iata": "",
     "coordinates": {
       "lat": -46.31666666666667,
-      "lon": 17.4
+      "lon": 168.78333333333333
     },
     "remarks": ""
   },
@@ -988,7 +988,7 @@
     "name": "Edgecumbe",
     "nameWoDiacritics": "Edgecumbe",
     "subdivision": "BOP",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -996,7 +996,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.96666666666667,
-      "lon": 18.066666666666666
+      "lon": 176.81666666666666
     },
     "remarks": ""
   },
@@ -1007,7 +1007,7 @@
     "name": "Eltham",
     "nameWoDiacritics": "Eltham",
     "subdivision": "TKI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1015,7 +1015,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.43333333333333,
-      "lon": 17.683333333333334
+      "lon": 174.3
     },
     "remarks": ""
   },
@@ -1026,7 +1026,7 @@
     "name": "Feilding",
     "nameWoDiacritics": "Feilding",
     "subdivision": "MWT",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1034,7 +1034,7 @@
     "iata": "",
     "coordinates": {
       "lat": -40.21666666666667,
-      "lon": 17.883333333333333
+      "lon": 175.55
     },
     "remarks": ""
   },
@@ -1045,7 +1045,7 @@
     "name": "Fendalton",
     "nameWoDiacritics": "Fendalton",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1053,7 +1053,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.516666666666666,
-      "lon": 17.383333333333333
+      "lon": 172.6
     },
     "remarks": ""
   },
@@ -1064,7 +1064,7 @@
     "name": "Fernside",
     "nameWoDiacritics": "Fernside",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1072,7 +1072,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.31666666666667,
-      "lon": 17.383333333333333
+      "lon": 172.53333333333333
     },
     "remarks": ""
   },
@@ -1083,7 +1083,7 @@
     "name": "Fortrose",
     "nameWoDiacritics": "Fortrose",
     "subdivision": "STL",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -1091,7 +1091,7 @@
     "iata": "",
     "coordinates": {
       "lat": -46.56666666666667,
-      "lon": 17.4
+      "lon": 168.8
     },
     "remarks": ""
   },
@@ -1102,7 +1102,7 @@
     "name": "Fox Glacier",
     "nameWoDiacritics": "Fox Glacier",
     "subdivision": "WTC",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1110,7 +1110,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.5,
-      "lon": 17
+      "lon": 170.08333333333334
     },
     "remarks": ""
   },
@@ -1121,7 +1121,7 @@
     "name": "Foxton",
     "nameWoDiacritics": "Foxton",
     "subdivision": "MWT",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -1129,7 +1129,7 @@
     "iata": "",
     "coordinates": {
       "lat": -40.46666666666667,
-      "lon": 17.85
+      "lon": 175.3
     },
     "remarks": ""
   },
@@ -1140,7 +1140,7 @@
     "name": "Frankton",
     "nameWoDiacritics": "Frankton",
     "subdivision": "OTA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1148,7 +1148,7 @@
     "iata": "",
     "coordinates": {
       "lat": -45.016666666666666,
-      "lon": 17.4
+      "lon": 168.71666666666667
     },
     "remarks": ""
   },
@@ -1159,7 +1159,7 @@
     "name": "Franz Josef",
     "nameWoDiacritics": "Franz Josef",
     "subdivision": "WTC",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1167,7 +1167,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.4,
-      "lon": 17.016666666666666
+      "lon": 170.18333333333334
     },
     "remarks": ""
   },
@@ -1178,7 +1178,7 @@
     "name": "Galatea",
     "nameWoDiacritics": "Galatea",
     "subdivision": "BOP",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1186,7 +1186,7 @@
     "iata": "",
     "coordinates": {
       "lat": -38.68333333333333,
-      "lon": 18.066666666666666
+      "lon": 176.78333333333333
     },
     "remarks": ""
   },
@@ -1197,7 +1197,7 @@
     "name": "Gisborne",
     "nameWoDiacritics": "Gisborne",
     "subdivision": "GIS",
-    "status": "AC",
+    "status": 1,
     "function": [
       0,
       2,
@@ -1207,7 +1207,7 @@
     "iata": "",
     "coordinates": {
       "lat": -38.666666666666664,
-      "lon": 18.333333333333332
+      "lon": 178.03333333333333
     },
     "remarks": ""
   },
@@ -1218,7 +1218,7 @@
     "name": "Glen Eden",
     "nameWoDiacritics": "Glen Eden",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1226,7 +1226,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.916666666666664,
-      "lon": 17.716666666666665
+      "lon": 174.65
     },
     "remarks": ""
   },
@@ -1237,7 +1237,7 @@
     "name": "Glenavy",
     "nameWoDiacritics": "Glenavy",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -1245,7 +1245,7 @@
     "iata": "",
     "coordinates": {
       "lat": -44.916666666666664,
-      "lon": 17.166666666666668
+      "lon": 171.1
     },
     "remarks": ""
   },
@@ -1256,7 +1256,7 @@
     "name": "Glenfield",
     "nameWoDiacritics": "Glenfield",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1264,7 +1264,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.766666666666666,
-      "lon": 17.733333333333334
+      "lon": 174.71666666666667
     },
     "remarks": ""
   },
@@ -1275,7 +1275,7 @@
     "name": "Golden Bay",
     "nameWoDiacritics": "Golden Bay",
     "subdivision": "TAS",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -1283,7 +1283,7 @@
     "iata": "",
     "coordinates": {
       "lat": -40.666666666666664,
-      "lon": 17.416666666666668
+      "lon": 172.83333333333334
     },
     "remarks": ""
   },
@@ -1294,7 +1294,7 @@
     "name": "Gore",
     "nameWoDiacritics": "Gore",
     "subdivision": "STL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1302,7 +1302,7 @@
     "iata": "",
     "coordinates": {
       "lat": -46.1,
-      "lon": 17.416666666666668
+      "lon": 168.93333333333334
     },
     "remarks": ""
   },
@@ -1313,7 +1313,7 @@
     "name": "Great Barrier Is",
     "nameWoDiacritics": "Great Barrier Is",
     "subdivision": "AUK",
-    "status": "AC",
+    "status": 1,
     "function": [
       3
     ],
@@ -1332,7 +1332,7 @@
     "name": "Greendale",
     "nameWoDiacritics": "Greendale",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1340,7 +1340,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.583333333333336,
-      "lon": 17.333333333333332
+      "lon": 172.08333333333334
     },
     "remarks": ""
   },
@@ -1351,7 +1351,7 @@
     "name": "Greerton",
     "nameWoDiacritics": "Greerton",
     "subdivision": "BOP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1359,7 +1359,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.71666666666667,
-      "lon": 18
+      "lon": 176.13333333333333
     },
     "remarks": ""
   },
@@ -1370,7 +1370,7 @@
     "name": "Greymouth",
     "nameWoDiacritics": "Greymouth",
     "subdivision": "WTC",
-    "status": "AC",
+    "status": 1,
     "function": [
       0,
       2,
@@ -1380,7 +1380,7 @@
     "iata": "",
     "coordinates": {
       "lat": -42.43333333333333,
-      "lon": 17.183333333333334
+      "lon": 171.2
     },
     "remarks": ""
   },
@@ -1391,7 +1391,7 @@
     "name": "Greytown",
     "nameWoDiacritics": "Greytown",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1399,7 +1399,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.06666666666667,
-      "lon": 17.866666666666667
+      "lon": 175.45
     },
     "remarks": ""
   },
@@ -1410,7 +1410,7 @@
     "name": "Halswell",
     "nameWoDiacritics": "Halswell",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1418,7 +1418,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.583333333333336,
-      "lon": 17.383333333333333
+      "lon": 172.56666666666666
     },
     "remarks": ""
   },
@@ -1429,7 +1429,7 @@
     "name": "Hamilton",
     "nameWoDiacritics": "Hamilton",
     "subdivision": "WKO",
-    "status": "AC",
+    "status": 1,
     "function": [
       1,
       2,
@@ -1439,7 +1439,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.78333333333333,
-      "lon": 17.85
+      "lon": 175.28333333333333
     },
     "remarks": ""
   },
@@ -1450,7 +1450,7 @@
     "name": "Harewood",
     "nameWoDiacritics": "Harewood",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1458,7 +1458,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.483333333333334,
-      "lon": 17.383333333333333
+      "lon": 172.58333333333334
     },
     "remarks": ""
   },
@@ -1469,7 +1469,7 @@
     "name": "Hastings",
     "nameWoDiacritics": "Hastings",
     "subdivision": "HKB",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1488,7 +1488,7 @@
     "name": "Hataitai",
     "nameWoDiacritics": "Hataitai",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1496,7 +1496,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.3,
-      "lon": 17.733333333333334
+      "lon": 174.8
     },
     "remarks": ""
   },
@@ -1507,7 +1507,7 @@
     "name": "Havelock",
     "nameWoDiacritics": "Havelock",
     "subdivision": "MBH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1515,7 +1515,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.28333333333333,
-      "lon": 17.566666666666666
+      "lon": 173.76666666666668
     },
     "remarks": ""
   },
@@ -1526,7 +1526,7 @@
     "name": "Havelock North",
     "nameWoDiacritics": "Havelock North",
     "subdivision": "HKB",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1534,7 +1534,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.666666666666664,
-      "lon": 18.083333333333332
+      "lon": 176.88333333333333
     },
     "remarks": ""
   },
@@ -1545,7 +1545,7 @@
     "name": "Hawarden",
     "nameWoDiacritics": "Hawarden",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1553,7 +1553,7 @@
     "iata": "",
     "coordinates": {
       "lat": -42.93333333333333,
-      "lon": 17.383333333333333
+      "lon": 172.63333333333333
     },
     "remarks": ""
   },
@@ -1564,7 +1564,7 @@
     "name": "Hawera",
     "nameWoDiacritics": "Hawera",
     "subdivision": "MWT",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1572,7 +1572,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.583333333333336,
-      "lon": 17.7
+      "lon": 174.33333333333334
     },
     "remarks": ""
   },
@@ -1583,7 +1583,7 @@
     "name": "Haywards",
     "nameWoDiacritics": "Haywards",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1591,7 +1591,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.15,
-      "lon": 17.75
+      "lon": 174.98333333333332
     },
     "remarks": ""
   },
@@ -1602,7 +1602,7 @@
     "name": "Heathcote Valley",
     "nameWoDiacritics": "Heathcote Valley",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1610,7 +1610,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.583333333333336,
-      "lon": 17.4
+      "lon": 172.71666666666667
     },
     "remarks": ""
   },
@@ -1621,7 +1621,7 @@
     "name": "Henderson",
     "nameWoDiacritics": "Henderson",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1630,7 +1630,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.86666666666667,
-      "lon": 17.716666666666665
+      "lon": 174.61666666666667
     },
     "remarks": ""
   },
@@ -1641,7 +1641,7 @@
     "name": "Herne Bay",
     "nameWoDiacritics": "Herne Bay",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1649,7 +1649,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.833333333333336,
-      "lon": 17.733333333333334
+      "lon": 174.71666666666667
     },
     "remarks": ""
   },
@@ -1660,7 +1660,7 @@
     "name": "Hillsborough",
     "nameWoDiacritics": "Hillsborough",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1668,7 +1668,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.55,
-      "lon": 17.383333333333333
+      "lon": 172.65
     },
     "remarks": ""
   },
@@ -1679,7 +1679,7 @@
     "name": "Hokitika",
     "nameWoDiacritics": "Hokitika",
     "subdivision": "WTC",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       3
@@ -1688,7 +1688,7 @@
     "iata": "",
     "coordinates": {
       "lat": -42.71666666666667,
-      "lon": 17.083333333333332
+      "lon": 170.96666666666667
     },
     "remarks": ""
   },
@@ -1699,7 +1699,7 @@
     "name": "Hornby",
     "nameWoDiacritics": "Hornby",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1707,7 +1707,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.55,
-      "lon": 17.383333333333333
+      "lon": 172.53333333333333
     },
     "remarks": ""
   },
@@ -1718,7 +1718,7 @@
     "name": "Horotiu",
     "nameWoDiacritics": "Horotiu",
     "subdivision": "WKO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1726,7 +1726,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.71666666666667,
-      "lon": 17.85
+      "lon": 175.2
     },
     "remarks": ""
   },
@@ -1737,7 +1737,7 @@
     "name": "Howick",
     "nameWoDiacritics": "Howick",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1745,7 +1745,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.88333333333333,
-      "lon": 17.75
+      "lon": 174.93333333333334
     },
     "remarks": ""
   },
@@ -1756,7 +1756,7 @@
     "name": "Huntly",
     "nameWoDiacritics": "Huntly",
     "subdivision": "WKO",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1764,7 +1764,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.55,
-      "lon": 17.833333333333332
+      "lon": 175.15
     },
     "remarks": ""
   },
@@ -1775,7 +1775,7 @@
     "name": "Inglewood",
     "nameWoDiacritics": "Inglewood",
     "subdivision": "TKI",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1783,7 +1783,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.15,
-      "lon": 17.683333333333334
+      "lon": 174.2
     },
     "remarks": ""
   },
@@ -1794,7 +1794,7 @@
     "name": "Invercargill",
     "nameWoDiacritics": "Invercargill",
     "subdivision": "STL",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       3
@@ -1803,7 +1803,7 @@
     "iata": "",
     "coordinates": {
       "lat": -46.4,
-      "lon": 17.366666666666667
+      "lon": 168.35
     },
     "remarks": ""
   },
@@ -1814,7 +1814,7 @@
     "name": "Island Bay",
     "nameWoDiacritics": "Island Bay",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1822,7 +1822,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.333333333333336,
-      "lon": 17.733333333333334
+      "lon": 174.78333333333333
     },
     "remarks": ""
   },
@@ -1833,7 +1833,7 @@
     "name": "Johnsonville",
     "nameWoDiacritics": "Johnsonville",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1841,7 +1841,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.233333333333334,
-      "lon": 17.733333333333334
+      "lon": 174.78333333333333
     },
     "remarks": ""
   },
@@ -1852,7 +1852,7 @@
     "name": "Kaiapoi",
     "nameWoDiacritics": "Kaiapoi",
     "subdivision": "CAN",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -1860,7 +1860,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.38333333333333,
-      "lon": 17.4
+      "lon": 172.66666666666666
     },
     "remarks": ""
   },
@@ -1871,7 +1871,7 @@
     "name": "Kaikohe",
     "nameWoDiacritics": "Kaikohe",
     "subdivision": "NTL",
-    "status": "AC",
+    "status": 1,
     "function": [
       3
     ],
@@ -1890,7 +1890,7 @@
     "name": "Kaikoura",
     "nameWoDiacritics": "Kaikoura",
     "subdivision": "CAN",
-    "status": "AC",
+    "status": 1,
     "function": [
       0,
       2,
@@ -1900,7 +1900,7 @@
     "iata": "",
     "coordinates": {
       "lat": -42.416666666666664,
-      "lon": 17.566666666666666
+      "lon": 173.7
     },
     "remarks": ""
   },
@@ -1911,7 +1911,7 @@
     "name": "Kaitaia",
     "nameWoDiacritics": "Kaitaia",
     "subdivision": "NTL",
-    "status": "AC",
+    "status": 1,
     "function": [
       3
     ],
@@ -1930,7 +1930,7 @@
     "name": "Kaitangata",
     "nameWoDiacritics": "Kaitangata",
     "subdivision": "OTA",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -1938,7 +1938,7 @@
     "iata": "",
     "coordinates": {
       "lat": -46.266666666666666,
-      "lon": 17.583333333333332
+      "lon": 169.85
     },
     "remarks": ""
   },
@@ -1949,7 +1949,7 @@
     "name": "Kaiwaka",
     "nameWoDiacritics": "Kaiwaka",
     "subdivision": "NTL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1957,7 +1957,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.166666666666664,
-      "lon": 17.7
+      "lon": 174.45
     },
     "remarks": ""
   },
@@ -1968,7 +1968,7 @@
     "name": "Kaiwharawhara",
     "nameWoDiacritics": "Kaiwharawhara",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1976,7 +1976,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.266666666666666,
-      "lon": 17.733333333333334
+      "lon": 174.78333333333333
     },
     "remarks": ""
   },
@@ -1987,7 +1987,7 @@
     "name": "Kakariki",
     "nameWoDiacritics": "Kakariki",
     "subdivision": "MWT",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1995,7 +1995,7 @@
     "iata": "",
     "coordinates": {
       "lat": -40.11666666666667,
-      "lon": 17.866666666666667
+      "lon": 175.45
     },
     "remarks": ""
   },
@@ -2006,7 +2006,7 @@
     "name": "Karori",
     "nameWoDiacritics": "Karori",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2014,7 +2014,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.28333333333333,
-      "lon": 17.733333333333334
+      "lon": 174.73333333333332
     },
     "remarks": ""
   },
@@ -2025,7 +2025,7 @@
     "name": "Katikati",
     "nameWoDiacritics": "Katikati",
     "subdivision": "BOP",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -2033,7 +2033,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.53333333333333,
-      "lon": 17.916666666666668
+      "lon": 175.91666666666666
     },
     "remarks": ""
   },
@@ -2044,7 +2044,7 @@
     "name": "Kauri Point",
     "nameWoDiacritics": "Kauri Point",
     "subdivision": "AUK",
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2
@@ -2053,7 +2053,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.81666666666667,
-      "lon": 17.733333333333334
+      "lon": 174.68333333333334
     },
     "remarks": ""
   },
@@ -2064,7 +2064,7 @@
     "name": "Kawau Island",
     "nameWoDiacritics": "Kawau Island",
     "subdivision": "AUK",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2072,7 +2072,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.416666666666664,
-      "lon": 17.75
+      "lon": 174.85
     },
     "remarks": ""
   },
@@ -2083,7 +2083,7 @@
     "name": "Kawerau",
     "nameWoDiacritics": "Kawerau",
     "subdivision": "BOP",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -2091,7 +2091,7 @@
     "iata": "",
     "coordinates": {
       "lat": -38.083333333333336,
-      "lon": 18.066666666666666
+      "lon": 176.68333333333334
     },
     "remarks": ""
   },
@@ -2102,7 +2102,7 @@
     "name": "Kelburn",
     "nameWoDiacritics": "Kelburn",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2110,7 +2110,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.28333333333333,
-      "lon": 17.733333333333334
+      "lon": 174.76666666666668
     },
     "remarks": ""
   },
@@ -2121,7 +2121,7 @@
     "name": "Kerikeri",
     "nameWoDiacritics": "Kerikeri",
     "subdivision": "AUK",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2129,7 +2129,7 @@
     "iata": "",
     "coordinates": {
       "lat": -35.21666666666667,
-      "lon": 17.583333333333332
+      "lon": 173.96666666666667
     },
     "remarks": ""
   },
@@ -2140,7 +2140,7 @@
     "name": "Khandallah",
     "nameWoDiacritics": "Khandallah",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2148,7 +2148,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.25,
-      "lon": 17.733333333333334
+      "lon": 174.78333333333333
     },
     "remarks": ""
   },
@@ -2159,7 +2159,7 @@
     "name": "Kilbirnie",
     "nameWoDiacritics": "Kilbirnie",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2167,7 +2167,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.31666666666667,
-      "lon": 17.733333333333334
+      "lon": 174.8
     },
     "remarks": ""
   },
@@ -2178,7 +2178,7 @@
     "name": "Kingston",
     "nameWoDiacritics": "Kingston",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2186,7 +2186,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.31666666666667,
-      "lon": 17.733333333333334
+      "lon": 174.75
     },
     "remarks": ""
   },
@@ -2197,7 +2197,7 @@
     "name": "Kinleith",
     "nameWoDiacritics": "Kinleith",
     "subdivision": "WKO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2205,7 +2205,7 @@
     "iata": "",
     "coordinates": {
       "lat": -38.28333333333333,
-      "lon": 17.916666666666668
+      "lon": 175.9
     },
     "remarks": ""
   },
@@ -2216,7 +2216,7 @@
     "name": "Kokiri",
     "nameWoDiacritics": "Kokiri",
     "subdivision": "WTC",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -2224,7 +2224,7 @@
     "iata": "",
     "coordinates": {
       "lat": -42.483333333333334,
-      "lon": 17.2
+      "lon": 171.36666666666667
     },
     "remarks": ""
   },
@@ -2235,7 +2235,7 @@
     "name": "Kopu",
     "nameWoDiacritics": "Kopu",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2243,7 +2243,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.18333333333333,
-      "lon": 17.883333333333333
+      "lon": 175.56666666666666
     },
     "remarks": ""
   },
@@ -2254,7 +2254,7 @@
     "name": "Kumeu",
     "nameWoDiacritics": "Kumeu",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -2262,7 +2262,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.766666666666666,
-      "lon": 17.716666666666665
+      "lon": 174.56666666666666
     },
     "remarks": ""
   },
@@ -2273,7 +2273,7 @@
     "name": "Lake Tekapo",
     "nameWoDiacritics": "Lake Tekapo",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2281,7 +2281,7 @@
     "iata": "",
     "coordinates": {
       "lat": -44.016666666666666,
-      "lon": 17.05
+      "lon": 170.5
     },
     "remarks": ""
   },
@@ -2292,7 +2292,7 @@
     "name": "Leeston",
     "nameWoDiacritics": "Leeston",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2300,7 +2300,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.766666666666666,
-      "lon": 17.35
+      "lon": 172.3
     },
     "remarks": ""
   },
@@ -2311,7 +2311,7 @@
     "name": "Levin",
     "nameWoDiacritics": "Levin",
     "subdivision": "MWT",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2319,7 +2319,7 @@
     "iata": "",
     "coordinates": {
       "lat": -40.63333333333333,
-      "lon": 17.85
+      "lon": 175.28333333333333
     },
     "remarks": ""
   },
@@ -2330,7 +2330,7 @@
     "name": "Lincoln",
     "nameWoDiacritics": "Lincoln",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2338,7 +2338,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.65,
-      "lon": 17.366666666666667
+      "lon": 172.48333333333332
     },
     "remarks": ""
   },
@@ -2349,7 +2349,7 @@
     "name": "Longburn",
     "nameWoDiacritics": "Longburn",
     "subdivision": "MWT",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2358,7 +2358,7 @@
     "iata": "",
     "coordinates": {
       "lat": -40.38333333333333,
-      "lon": 17.883333333333333
+      "lon": 175.55
     },
     "remarks": ""
   },
@@ -2369,7 +2369,7 @@
     "name": "Lorneville",
     "nameWoDiacritics": "Lorneville",
     "subdivision": "STL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2377,7 +2377,7 @@
     "iata": "",
     "coordinates": {
       "lat": -46.35,
-      "lon": 17.366666666666667
+      "lon": 168.35
     },
     "remarks": ""
   },
@@ -2388,7 +2388,7 @@
     "name": "Lower Hutt",
     "nameWoDiacritics": "Lower Hutt",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2396,7 +2396,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.21666666666667,
-      "lon": 17.75
+      "lon": 174.91666666666666
     },
     "remarks": ""
   },
@@ -2407,7 +2407,7 @@
     "name": "Lyall Bay",
     "nameWoDiacritics": "Lyall Bay",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2415,7 +2415,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.31666666666667,
-      "lon": 17.733333333333334
+      "lon": 174.78333333333333
     },
     "remarks": ""
   },
@@ -2426,7 +2426,7 @@
     "name": "Lyttelton",
     "nameWoDiacritics": "Lyttelton",
     "subdivision": "CAN",
-    "status": "AC",
+    "status": 1,
     "function": [
       0,
       2
@@ -2435,7 +2435,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.6,
-      "lon": 17.4
+      "lon": 172.71666666666667
     },
     "remarks": ""
   },
@@ -2446,7 +2446,7 @@
     "name": "Maari Terminal FPSO",
     "nameWoDiacritics": "Maari Terminal FPSO",
     "subdivision": "TKI",
-    "status": "RL",
+    "status": 7,
     "function": [
       6
     ],
@@ -2454,7 +2454,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.96666666666667,
-      "lon": 17.516666666666666
+      "lon": 173.28333333333333
     },
     "remarks": ""
   },
@@ -2465,7 +2465,7 @@
     "name": "Macraes Flat",
     "nameWoDiacritics": "Macraes Flat",
     "subdivision": "OTA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2473,7 +2473,7 @@
     "iata": "",
     "coordinates": {
       "lat": -45.38333333333333,
-      "lon": 17.033333333333335
+      "lon": 170.43333333333334
     },
     "remarks": ""
   },
@@ -2484,7 +2484,7 @@
     "name": "Mahia",
     "nameWoDiacritics": "Mahia",
     "subdivision": "HKB",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
@@ -2492,7 +2492,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.083333333333336,
-      "lon": 18.25
+      "lon": 177.91666666666666
     },
     "remarks": ""
   },
@@ -2503,7 +2503,7 @@
     "name": "Mairangi Bay",
     "nameWoDiacritics": "Mairangi Bay",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2511,7 +2511,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.733333333333334,
-      "lon": 17.733333333333334
+      "lon": 174.76666666666668
     },
     "remarks": ""
   },
@@ -2522,7 +2522,7 @@
     "name": "Makarewa",
     "nameWoDiacritics": "Makarewa",
     "subdivision": "STL",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2531,7 +2531,7 @@
     "iata": "",
     "coordinates": {
       "lat": -46.333333333333336,
-      "lon": 17.366666666666667
+      "lon": 168.35
     },
     "remarks": ""
   },
@@ -2542,7 +2542,7 @@
     "name": "Manakau",
     "nameWoDiacritics": "Manakau",
     "subdivision": "TAS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2550,7 +2550,7 @@
     "iata": "",
     "coordinates": {
       "lat": -40.71666666666667,
-      "lon": 17.85
+      "lon": 175.23333333333332
     },
     "remarks": ""
   },
@@ -2561,7 +2561,7 @@
     "name": "Manapouri",
     "nameWoDiacritics": "Manapouri",
     "subdivision": "STL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2569,7 +2569,7 @@
     "iata": "",
     "coordinates": {
       "lat": -45.56666666666667,
-      "lon": 17.216666666666665
+      "lon": 167.6
     },
     "remarks": ""
   },
@@ -2580,7 +2580,7 @@
     "name": "Mangakino",
     "nameWoDiacritics": "Mangakino",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -2588,7 +2588,7 @@
     "iata": "",
     "coordinates": {
       "lat": -38.38333333333333,
-      "lon": 17.9
+      "lon": 175.78333333333333
     },
     "remarks": ""
   },
@@ -2599,7 +2599,7 @@
     "name": "Mangawhai",
     "nameWoDiacritics": "Mangawhai",
     "subdivision": "NTL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2607,7 +2607,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.11666666666667,
-      "lon": 17.716666666666665
+      "lon": 174.56666666666666
     },
     "remarks": ""
   },
@@ -2618,7 +2618,7 @@
     "name": "Mangere",
     "nameWoDiacritics": "Mangere",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2626,7 +2626,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.96666666666667,
-      "lon": 17.733333333333334
+      "lon": 174.8
     },
     "remarks": ""
   },
@@ -2637,7 +2637,7 @@
     "name": "Mansion House",
     "nameWoDiacritics": "Mansion House",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2656,7 +2656,7 @@
     "name": "Manukau City",
     "nameWoDiacritics": "Manukau City",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2664,7 +2664,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.96666666666667,
-      "lon": 17.733333333333334
+      "lon": 174.8
     },
     "remarks": ""
   },
@@ -2675,7 +2675,7 @@
     "name": "Marsden Point",
     "nameWoDiacritics": "Marsden Point",
     "subdivision": "NTL",
-    "status": "AC",
+    "status": 1,
     "function": [
       0,
       2
@@ -2684,7 +2684,7 @@
     "iata": "",
     "coordinates": {
       "lat": -35.833333333333336,
-      "lon": 17.716666666666665
+      "lon": 174.5
     },
     "remarks": ""
   },
@@ -2695,7 +2695,7 @@
     "name": "Marshland",
     "nameWoDiacritics": "Marshland",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2703,7 +2703,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.483333333333334,
-      "lon": 17.383333333333333
+      "lon": 172.65
     },
     "remarks": ""
   },
@@ -2714,7 +2714,7 @@
     "name": "Martinborough",
     "nameWoDiacritics": "Martinborough",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2722,7 +2722,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.233333333333334,
-      "lon": 17.866666666666667
+      "lon": 175.46666666666667
     },
     "remarks": ""
   },
@@ -2733,7 +2733,7 @@
     "name": "Marton",
     "nameWoDiacritics": "Marton",
     "subdivision": "MWT",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -2741,7 +2741,7 @@
     "iata": "",
     "coordinates": {
       "lat": -40.083333333333336,
-      "lon": 17.866666666666667
+      "lon": 175.38333333333333
     },
     "remarks": ""
   },
@@ -2752,7 +2752,7 @@
     "name": "Masterton",
     "nameWoDiacritics": "Masterton",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2771,7 +2771,7 @@
     "name": "Matakana",
     "nameWoDiacritics": "Matakana",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2779,7 +2779,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.35,
-      "lon": 17.733333333333334
+      "lon": 174.71666666666667
     },
     "remarks": ""
   },
@@ -2790,7 +2790,7 @@
     "name": "Matamata",
     "nameWoDiacritics": "Matamata",
     "subdivision": "WKO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -2799,7 +2799,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.81666666666667,
-      "lon": 17.9
+      "lon": 175.76666666666668
     },
     "remarks": ""
   },
@@ -2810,7 +2810,7 @@
     "name": "Matangi",
     "nameWoDiacritics": "Matangi",
     "subdivision": "WKO",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -2818,7 +2818,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.8,
-      "lon": 17.866666666666667
+      "lon": 175.4
     },
     "remarks": ""
   },
@@ -2829,7 +2829,7 @@
     "name": "Mataura",
     "nameWoDiacritics": "Mataura",
     "subdivision": "STL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2837,7 +2837,7 @@
     "iata": "",
     "coordinates": {
       "lat": -46.18333333333333,
-      "lon": 17.416666666666668
+      "lon": 168.86666666666667
     },
     "remarks": ""
   },
@@ -2848,7 +2848,7 @@
     "name": "Matiatia Bay",
     "nameWoDiacritics": "Matiatia Bay",
     "subdivision": "AUK",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
@@ -2856,7 +2856,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.766666666666666,
-      "lon": 17.75
+      "lon": 174.96666666666667
     },
     "remarks": ""
   },
@@ -2867,7 +2867,7 @@
     "name": "Maungaturoto",
     "nameWoDiacritics": "Maungaturoto",
     "subdivision": "NTL",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -2875,7 +2875,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.1,
-      "lon": 17.7
+      "lon": 174.36666666666667
     },
     "remarks": ""
   },
@@ -2886,7 +2886,7 @@
     "name": "Metroport/Auckland",
     "nameWoDiacritics": "Metroport/Auckland",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2895,7 +2895,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.916666666666664,
-      "lon": 17.733333333333334
+      "lon": 174.81666666666666
     },
     "remarks": ""
   },
@@ -2906,7 +2906,7 @@
     "name": "Middleton/Christchurch",
     "nameWoDiacritics": "Middleton/Christchurch",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2926,7 +2926,7 @@
     "name": "Milford Sound",
     "nameWoDiacritics": "Milford Sound",
     "subdivision": "STL",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -2935,7 +2935,7 @@
     "iata": "",
     "coordinates": {
       "lat": -44.666666666666664,
-      "lon": 17.25
+      "lon": 167.91666666666666
     },
     "remarks": ""
   },
@@ -2946,7 +2946,7 @@
     "name": "Milson",
     "nameWoDiacritics": "Milson",
     "subdivision": "MWT",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2954,7 +2954,7 @@
     "iata": "",
     "coordinates": {
       "lat": -40.31666666666667,
-      "lon": 17.883333333333333
+      "lon": 175.6
     },
     "remarks": ""
   },
@@ -2965,7 +2965,7 @@
     "name": "Milton",
     "nameWoDiacritics": "Milton",
     "subdivision": "OTA",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2974,7 +2974,7 @@
     "iata": "",
     "coordinates": {
       "lat": -46.11666666666667,
-      "lon": 17.583333333333332
+      "lon": 169.96666666666667
     },
     "remarks": ""
   },
@@ -2985,7 +2985,7 @@
     "name": "Miramar",
     "nameWoDiacritics": "Miramar",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2993,7 +2993,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.31666666666667,
-      "lon": 17.733333333333334
+      "lon": 174.81666666666666
     },
     "remarks": ""
   },
@@ -3004,7 +3004,7 @@
     "name": "Moerewa",
     "nameWoDiacritics": "Moerewa",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3023,7 +3023,7 @@
     "name": "Morrinsville",
     "nameWoDiacritics": "Morrinsville",
     "subdivision": "WKO",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -3032,7 +3032,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.65,
-      "lon": 17.883333333333333
+      "lon": 175.53333333333333
     },
     "remarks": ""
   },
@@ -3043,7 +3043,7 @@
     "name": "Mosgiel",
     "nameWoDiacritics": "Mosgiel",
     "subdivision": "OTA",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -3052,7 +3052,7 @@
     "iata": "",
     "coordinates": {
       "lat": -45.86666666666667,
-      "lon": 17.033333333333335
+      "lon": 170.35
     },
     "remarks": ""
   },
@@ -3063,7 +3063,7 @@
     "name": "Mossburn",
     "nameWoDiacritics": "Mossburn",
     "subdivision": "STL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3071,7 +3071,7 @@
     "iata": "",
     "coordinates": {
       "lat": -45.666666666666664,
-      "lon": 17.35
+      "lon": 168.25
     },
     "remarks": ""
   },
@@ -3082,7 +3082,7 @@
     "name": "Motueka",
     "nameWoDiacritics": "Motueka",
     "subdivision": "TAS",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       3
@@ -3091,7 +3091,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.11666666666667,
-      "lon": 17.5
+      "lon": 173
     },
     "remarks": ""
   },
@@ -3102,7 +3102,7 @@
     "name": "Mount Cook",
     "nameWoDiacritics": "Mount Cook",
     "subdivision": "CAN",
-    "status": "AC",
+    "status": 1,
     "function": [
       3
     ],
@@ -3121,7 +3121,7 @@
     "name": "Mount Maunganui",
     "nameWoDiacritics": "Mount Maunganui",
     "subdivision": "BOP",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -3129,7 +3129,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.63333333333333,
-      "lon": 18.016666666666666
+      "lon": 176.18333333333334
     },
     "remarks": ""
   },
@@ -3140,7 +3140,7 @@
     "name": "Mount Wellington",
     "nameWoDiacritics": "Mount Wellington",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3148,7 +3148,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.916666666666664,
-      "lon": 17.75
+      "lon": 174.83333333333334
     },
     "remarks": ""
   },
@@ -3159,7 +3159,7 @@
     "name": "Muritai",
     "nameWoDiacritics": "Muritai",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3167,7 +3167,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.3,
-      "lon": 17.75
+      "lon": 174.88333333333333
     },
     "remarks": ""
   },
@@ -3178,7 +3178,7 @@
     "name": "Napier",
     "nameWoDiacritics": "Napier",
     "subdivision": "HKB",
-    "status": "AC",
+    "status": 1,
     "function": [
       0,
       3
@@ -3187,7 +3187,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.46666666666667,
-      "lon": 18.083333333333332
+      "lon": 176.9
     },
     "remarks": ""
   },
@@ -3198,7 +3198,7 @@
     "name": "Nelson",
     "nameWoDiacritics": "Nelson",
     "subdivision": "NSN",
-    "status": "AC",
+    "status": 1,
     "function": [
       0,
       2,
@@ -3208,7 +3208,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.25,
-      "lon": 17.516666666666666
+      "lon": 173.26666666666668
     },
     "remarks": ""
   },
@@ -3219,7 +3219,7 @@
     "name": "New Brighton",
     "nameWoDiacritics": "New Brighton",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3227,7 +3227,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.516666666666666,
-      "lon": 17.4
+      "lon": 172.73333333333332
     },
     "remarks": ""
   },
@@ -3238,7 +3238,7 @@
     "name": "New Lyn",
     "nameWoDiacritics": "New Lyn",
     "subdivision": "AUK",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -3246,7 +3246,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.9,
-      "lon": 17.733333333333334
+      "lon": 174.68333333333334
     },
     "remarks": ""
   },
@@ -3257,7 +3257,7 @@
     "name": "New Plymouth",
     "nameWoDiacritics": "New Plymouth",
     "subdivision": "TKI",
-    "status": "AC",
+    "status": 1,
     "function": [
       0,
       2,
@@ -3267,7 +3267,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.05,
-      "lon": 17.666666666666668
+      "lon": 174.01666666666668
     },
     "remarks": ""
   },
@@ -3278,7 +3278,7 @@
     "name": "Newton",
     "nameWoDiacritics": "Newton",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3286,7 +3286,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.85,
-      "lon": 17.733333333333334
+      "lon": 174.75
     },
     "remarks": ""
   },
@@ -3297,7 +3297,7 @@
     "name": "Ngaio",
     "nameWoDiacritics": "Ngaio",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3305,7 +3305,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.25,
-      "lon": 17.733333333333334
+      "lon": 174.76666666666668
     },
     "remarks": ""
   },
@@ -3316,7 +3316,7 @@
     "name": "Ngauranga",
     "nameWoDiacritics": "Ngauranga",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3324,7 +3324,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.25,
-      "lon": 17.733333333333334
+      "lon": 174.81666666666666
     },
     "remarks": ""
   },
@@ -3335,7 +3335,7 @@
     "name": "North Shore City",
     "nameWoDiacritics": "North Shore City",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3343,7 +3343,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.8,
-      "lon": 17.733333333333334
+      "lon": 174.75
     },
     "remarks": ""
   },
@@ -3354,7 +3354,7 @@
     "name": "Northcote",
     "nameWoDiacritics": "Northcote",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -3362,7 +3362,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.8,
-      "lon": 17.733333333333334
+      "lon": 174.73333333333332
     },
     "remarks": ""
   },
@@ -3373,7 +3373,7 @@
     "name": "Oamaru",
     "nameWoDiacritics": "Oamaru",
     "subdivision": "OTA",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       3
@@ -3382,7 +3382,7 @@
     "iata": "",
     "coordinates": {
       "lat": -45.083333333333336,
-      "lon": 17.083333333333332
+      "lon": 170.96666666666667
     },
     "remarks": ""
   },
@@ -3393,7 +3393,7 @@
     "name": "Offshore Tui",
     "nameWoDiacritics": "Offshore Tui",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       6
     ],
@@ -3401,7 +3401,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.416666666666664,
-      "lon": 17.516666666666666
+      "lon": 173.23333333333332
     },
     "remarks": ""
   },
@@ -3412,7 +3412,7 @@
     "name": "Ohakea",
     "nameWoDiacritics": "Ohakea",
     "subdivision": "MWT",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3431,7 +3431,7 @@
     "name": "Ohakune",
     "nameWoDiacritics": "Ohakune",
     "subdivision": "MWT",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -3439,7 +3439,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.4,
-      "lon": 17.866666666666667
+      "lon": 175.41666666666666
     },
     "remarks": ""
   },
@@ -3450,7 +3450,7 @@
     "name": "Ohariu",
     "nameWoDiacritics": "Ohariu",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3458,7 +3458,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.2,
-      "lon": 17.733333333333334
+      "lon": 174.76666666666668
     },
     "remarks": ""
   },
@@ -3469,7 +3469,7 @@
     "name": "Okarito",
     "nameWoDiacritics": "Okarito",
     "subdivision": "WTC",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3477,7 +3477,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.233333333333334,
-      "lon": 17.016666666666666
+      "lon": 170.18333333333334
     },
     "remarks": ""
   },
@@ -3488,7 +3488,7 @@
     "name": "Omihi",
     "nameWoDiacritics": "Omihi",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3496,7 +3496,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.016666666666666,
-      "lon": 17.416666666666668
+      "lon": 172.85
     },
     "remarks": ""
   },
@@ -3507,7 +3507,7 @@
     "name": "Onehunga (Manukau Harbour)",
     "nameWoDiacritics": "Onehunga (Manukau Harbour)",
     "subdivision": "AUK",
-    "status": "AC",
+    "status": 1,
     "function": [
       0
     ],
@@ -3515,7 +3515,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37,
-      "lon": 17.733333333333334
+      "lon": 174.66666666666666
     },
     "remarks": ""
   },
@@ -3526,7 +3526,7 @@
     "name": "Opotiki",
     "nameWoDiacritics": "Opotiki",
     "subdivision": "BOP",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -3534,7 +3534,7 @@
     "iata": "",
     "coordinates": {
       "lat": -38.083333333333336,
-      "lon": 18.183333333333334
+      "lon": 177.28333333333333
     },
     "remarks": ""
   },
@@ -3545,7 +3545,7 @@
     "name": "Opua",
     "nameWoDiacritics": "Opua",
     "subdivision": "NTL",
-    "status": "AC",
+    "status": 1,
     "function": [
       0
     ],
@@ -3553,7 +3553,7 @@
     "iata": "",
     "coordinates": {
       "lat": -35.31666666666667,
-      "lon": 17.666666666666668
+      "lon": 174.11666666666667
     },
     "remarks": ""
   },
@@ -3564,7 +3564,7 @@
     "name": "Opunake",
     "nameWoDiacritics": "Opunake",
     "subdivision": "TKI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3572,7 +3572,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.45,
-      "lon": 17.583333333333332
+      "lon": 173.85
     },
     "remarks": ""
   },
@@ -3583,7 +3583,7 @@
     "name": "Orakei",
     "nameWoDiacritics": "Orakei",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3591,7 +3591,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.85,
-      "lon": 17.733333333333334
+      "lon": 174.81666666666666
     },
     "remarks": ""
   },
@@ -3602,7 +3602,7 @@
     "name": "Oratia",
     "nameWoDiacritics": "Oratia",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3610,7 +3610,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.916666666666664,
-      "lon": 17.716666666666665
+      "lon": 174.61666666666667
     },
     "remarks": ""
   },
@@ -3621,7 +3621,7 @@
     "name": "Orewa",
     "nameWoDiacritics": "Orewa",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3629,7 +3629,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.56666666666667,
-      "lon": 17.733333333333334
+      "lon": 174.7
     },
     "remarks": ""
   },
@@ -3640,7 +3640,7 @@
     "name": "Orini",
     "nameWoDiacritics": "Orini",
     "subdivision": "WKO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3648,7 +3648,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.56666666666667,
-      "lon": 17.85
+      "lon": 175.3
     },
     "remarks": ""
   },
@@ -3659,7 +3659,7 @@
     "name": "Otago Harbour",
     "nameWoDiacritics": "Otago Harbour",
     "subdivision": "OTA",
-    "status": "AC",
+    "status": 1,
     "function": [
       0
     ],
@@ -3667,7 +3667,7 @@
     "iata": "",
     "coordinates": {
       "lat": -45.8,
-      "lon": 17.05
+      "lon": 170.61666666666667
     },
     "remarks": ""
   },
@@ -3678,7 +3678,7 @@
     "name": "Otahuhu",
     "nameWoDiacritics": "Otahuhu",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3686,7 +3686,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.93333333333333,
-      "lon": 17.75
+      "lon": 174.83333333333334
     },
     "remarks": ""
   },
@@ -3697,7 +3697,7 @@
     "name": "Otaki",
     "nameWoDiacritics": "Otaki",
     "subdivision": "MWT",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -3705,7 +3705,7 @@
     "iata": "",
     "coordinates": {
       "lat": -40.75,
-      "lon": 17.85
+      "lon": 175.16666666666666
     },
     "remarks": ""
   },
@@ -3716,7 +3716,7 @@
     "name": "Otematata",
     "nameWoDiacritics": "Otematata",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -3725,7 +3725,7 @@
     "iata": "",
     "coordinates": {
       "lat": -44.61666666666667,
-      "lon": 17.016666666666666
+      "lon": 170.26666666666668
     },
     "remarks": ""
   },
@@ -3736,7 +3736,7 @@
     "name": "Otorohanga",
     "nameWoDiacritics": "Otorohanga",
     "subdivision": "WKO",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -3744,7 +3744,7 @@
     "iata": "",
     "coordinates": {
       "lat": -38.18333333333333,
-      "lon": 17.85
+      "lon": 175.18333333333334
     },
     "remarks": ""
   },
@@ -3755,7 +3755,7 @@
     "name": "Paekakariki",
     "nameWoDiacritics": "Paekakariki",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -3764,7 +3764,7 @@
     "iata": "",
     "coordinates": {
       "lat": -40.96666666666667,
-      "lon": 17.75
+      "lon": 174.95
     },
     "remarks": ""
   },
@@ -3775,7 +3775,7 @@
     "name": "Paeroa",
     "nameWoDiacritics": "Paeroa",
     "subdivision": "WKO",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -3784,7 +3784,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.38333333333333,
-      "lon": 17.9
+      "lon": 175.66666666666666
     },
     "remarks": ""
   },
@@ -3795,7 +3795,7 @@
     "name": "Paihia",
     "nameWoDiacritics": "Paihia",
     "subdivision": "NTL",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -3803,7 +3803,7 @@
     "iata": "",
     "coordinates": {
       "lat": -35.28333333333333,
-      "lon": 17.666666666666668
+      "lon": 174.06666666666666
     },
     "remarks": ""
   },
@@ -3814,7 +3814,7 @@
     "name": "Pakatoa Island",
     "nameWoDiacritics": "Pakatoa Island",
     "subdivision": "AUK",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3822,7 +3822,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.78333333333333,
-      "lon": 17.85
+      "lon": 175.2
     },
     "remarks": ""
   },
@@ -3833,7 +3833,7 @@
     "name": "Pakuranga",
     "nameWoDiacritics": "Pakuranga",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3841,7 +3841,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.88333333333333,
-      "lon": 17.75
+      "lon": 174.91666666666666
     },
     "remarks": ""
   },
@@ -3852,7 +3852,7 @@
     "name": "Palmerston",
     "nameWoDiacritics": "Palmerston",
     "subdivision": "OTA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3860,7 +3860,7 @@
     "iata": "",
     "coordinates": {
       "lat": -45.483333333333334,
-      "lon": 17.066666666666666
+      "lon": 170.71666666666667
     },
     "remarks": ""
   },
@@ -3871,7 +3871,7 @@
     "name": "Palmerston North",
     "nameWoDiacritics": "Palmerston North",
     "subdivision": "MWT",
-    "status": "AC",
+    "status": 1,
     "function": [
       3
     ],
@@ -3890,7 +3890,7 @@
     "name": "Panmure",
     "nameWoDiacritics": "Panmure",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3898,7 +3898,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.88333333333333,
-      "lon": 17.75
+      "lon": 174.86666666666667
     },
     "remarks": ""
   },
@@ -3909,7 +3909,7 @@
     "name": "Papakura",
     "nameWoDiacritics": "Papakura",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       1
     ],
@@ -3917,7 +3917,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.083333333333336,
-      "lon": 17.75
+      "lon": 174.95
     },
     "remarks": ""
   },
@@ -3928,7 +3928,7 @@
     "name": "Papanui",
     "nameWoDiacritics": "Papanui",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3936,7 +3936,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.5,
-      "lon": 17.383333333333333
+      "lon": 172.61666666666667
     },
     "remarks": ""
   },
@@ -3947,7 +3947,7 @@
     "name": "Paraparaumu",
     "nameWoDiacritics": "Paraparaumu",
     "subdivision": "WGN",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3955,7 +3955,7 @@
     "iata": "",
     "coordinates": {
       "lat": -40.916666666666664,
-      "lon": 17.833333333333332
+      "lon": 175.01666666666668
     },
     "remarks": ""
   },
@@ -3966,7 +3966,7 @@
     "name": "Paremata",
     "nameWoDiacritics": "Paremata",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3974,7 +3974,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.11666666666667,
-      "lon": 17.75
+      "lon": 174.86666666666667
     },
     "remarks": ""
   },
@@ -3985,7 +3985,7 @@
     "name": "Pareora",
     "nameWoDiacritics": "Pareora",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -3994,7 +3994,7 @@
     "iata": "",
     "coordinates": {
       "lat": -44.5,
-      "lon": 17.183333333333334
+      "lon": 171.2
     },
     "remarks": ""
   },
@@ -4005,7 +4005,7 @@
     "name": "Parnell",
     "nameWoDiacritics": "Parnell",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4013,7 +4013,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.86666666666667,
-      "lon": 17.733333333333334
+      "lon": 174.78333333333333
     },
     "remarks": ""
   },
@@ -4024,7 +4024,7 @@
     "name": "Penrose",
     "nameWoDiacritics": "Penrose",
     "subdivision": "AUK",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -4032,7 +4032,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.916666666666664,
-      "lon": 17.733333333333334
+      "lon": 174.81666666666666
     },
     "remarks": ""
   },
@@ -4043,7 +4043,7 @@
     "name": "Picton",
     "nameWoDiacritics": "Picton",
     "subdivision": "MBH",
-    "status": "AC",
+    "status": 1,
     "function": [
       0,
       3
@@ -4052,7 +4052,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.28333333333333,
-      "lon": 17.666666666666668
+      "lon": 174
     },
     "remarks": ""
   },
@@ -4063,7 +4063,7 @@
     "name": "Pipitea",
     "nameWoDiacritics": "Pipitea",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       1
     ],
@@ -4071,7 +4071,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.266666666666666,
-      "lon": 17.733333333333334
+      "lon": 174.76666666666668
     },
     "remarks": ""
   },
@@ -4082,7 +4082,7 @@
     "name": "Point Chevalier",
     "nameWoDiacritics": "Point Chevalier",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4090,7 +4090,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.85,
-      "lon": 17.733333333333334
+      "lon": 174.7
     },
     "remarks": ""
   },
@@ -4101,7 +4101,7 @@
     "name": "Pokeno",
     "nameWoDiacritics": "Pokeno",
     "subdivision": "AUK",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -4109,7 +4109,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.233333333333334,
-      "lon": 17.833333333333332
+      "lon": 175
     },
     "remarks": ""
   },
@@ -4120,7 +4120,7 @@
     "name": "Ponsonby",
     "nameWoDiacritics": "Ponsonby",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4128,7 +4128,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.85,
-      "lon": 17.733333333333334
+      "lon": 174.73333333333332
     },
     "remarks": ""
   },
@@ -4139,7 +4139,7 @@
     "name": "Porirua",
     "nameWoDiacritics": "Porirua",
     "subdivision": "TAS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4147,7 +4147,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.15,
-      "lon": 17.75
+      "lon": 174.85
     },
     "remarks": ""
   },
@@ -4158,7 +4158,7 @@
     "name": "Porirua",
     "nameWoDiacritics": "Porirua",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4166,7 +4166,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.13333333333333,
-      "lon": 17.75
+      "lon": 174.85
     },
     "remarks": ""
   },
@@ -4177,7 +4177,7 @@
     "name": "Port Chalmers",
     "nameWoDiacritics": "Port Chalmers",
     "subdivision": "OTA",
-    "status": "AC",
+    "status": 1,
     "function": [
       0
     ],
@@ -4185,7 +4185,7 @@
     "iata": "",
     "coordinates": {
       "lat": -45.81666666666667,
-      "lon": 17.05
+      "lon": 170.6
     },
     "remarks": ""
   },
@@ -4196,7 +4196,7 @@
     "name": "Port Fitzroy",
     "nameWoDiacritics": "Port Fitzroy",
     "subdivision": "AUK",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4204,7 +4204,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.166666666666664,
-      "lon": 17.866666666666667
+      "lon": 175.35
     },
     "remarks": ""
   },
@@ -4215,7 +4215,7 @@
     "name": "Port Nelson",
     "nameWoDiacritics": "Port Nelson",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       5
@@ -4224,7 +4224,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.266666666666666,
-      "lon": 17.516666666666666
+      "lon": 173.26666666666668
     },
     "remarks": ""
   },
@@ -4235,7 +4235,7 @@
     "name": "Portland",
     "nameWoDiacritics": "Portland",
     "subdivision": "NTL",
-    "status": "AM",
+    "status": 4,
     "function": [
       0,
       2
@@ -4244,7 +4244,7 @@
     "iata": "",
     "coordinates": {
       "lat": -35.8,
-      "lon": 17.683333333333334
+      "lon": 174.31666666666666
     },
     "remarks": ""
   },
@@ -4255,7 +4255,7 @@
     "name": "Prebbleton",
     "nameWoDiacritics": "Prebbleton",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4263,7 +4263,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.583333333333336,
-      "lon": 17.383333333333333
+      "lon": 172.51666666666668
     },
     "remarks": ""
   },
@@ -4274,7 +4274,7 @@
     "name": "Pukekohe",
     "nameWoDiacritics": "Pukekohe",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4282,7 +4282,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.2,
-      "lon": 17.75
+      "lon": 174.95
     },
     "remarks": ""
   },
@@ -4293,7 +4293,7 @@
     "name": "Pukeuri Junction",
     "nameWoDiacritics": "Pukeuri Junction",
     "subdivision": "STL",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -4302,7 +4302,7 @@
     "iata": "",
     "coordinates": {
       "lat": -45.03333333333333,
-      "lon": 17.166666666666668
+      "lon": 171.03333333333333
     },
     "remarks": ""
   },
@@ -4313,7 +4313,7 @@
     "name": "Putaruru",
     "nameWoDiacritics": "Putaruru",
     "subdivision": "WKO",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -4321,7 +4321,7 @@
     "iata": "",
     "coordinates": {
       "lat": -38.03333333333333,
-      "lon": 17.9
+      "lon": 175.76666666666668
     },
     "remarks": ""
   },
@@ -4332,7 +4332,7 @@
     "name": "Queenstown",
     "nameWoDiacritics": "Queenstown",
     "subdivision": "OTA",
-    "status": "AC",
+    "status": 1,
     "function": [
       3
     ],
@@ -4351,7 +4351,7 @@
     "name": "Raglan",
     "nameWoDiacritics": "Raglan",
     "subdivision": "WKO",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       3
@@ -4360,7 +4360,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.666666666666664,
-      "lon": 17.833333333333332
+      "lon": 175
     },
     "remarks": ""
   },
@@ -4371,7 +4371,7 @@
     "name": "Rakaia",
     "nameWoDiacritics": "Rakaia",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4379,7 +4379,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.75,
-      "lon": 17.333333333333332
+      "lon": 172.01666666666668
     },
     "remarks": ""
   },
@@ -4390,7 +4390,7 @@
     "name": "Rangiora",
     "nameWoDiacritics": "Rangiora",
     "subdivision": "CAN",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -4398,7 +4398,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.28333333333333,
-      "lon": 17.383333333333333
+      "lon": 172.6
     },
     "remarks": ""
   },
@@ -4409,7 +4409,7 @@
     "name": "Rangiuru",
     "nameWoDiacritics": "Rangiuru",
     "subdivision": "BOP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4428,7 +4428,7 @@
     "name": "Raroa FPSO",
     "nameWoDiacritics": "Raroa FPSO",
     "subdivision": "",
-    "status": "AA",
+    "status": 0,
     "function": [
       6
     ],
@@ -4436,7 +4436,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.96666666666667,
-      "lon": 17.516666666666666
+      "lon": 173.28333333333333
     },
     "remarks": ""
   },
@@ -4447,7 +4447,7 @@
     "name": "Ravensbourne",
     "nameWoDiacritics": "Ravensbourne",
     "subdivision": "OTA",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -4457,7 +4457,7 @@
     "iata": "",
     "coordinates": {
       "lat": -45.86666666666667,
-      "lon": 17.05
+      "lon": 170.55
     },
     "remarks": ""
   },
@@ -4468,7 +4468,7 @@
     "name": "Redcliffs",
     "nameWoDiacritics": "Redcliffs",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4476,7 +4476,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.56666666666667,
-      "lon": 17.4
+      "lon": 172.73333333333332
     },
     "remarks": ""
   },
@@ -4487,7 +4487,7 @@
     "name": "Renwick",
     "nameWoDiacritics": "Renwick",
     "subdivision": "MBH",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -4495,7 +4495,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.5,
-      "lon": 17.566666666666666
+      "lon": 173.81666666666666
     },
     "remarks": ""
   },
@@ -4506,7 +4506,7 @@
     "name": "Richmond",
     "nameWoDiacritics": "Richmond",
     "subdivision": "NSN",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -4514,7 +4514,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.333333333333336,
-      "lon": 17.516666666666666
+      "lon": 173.18333333333334
     },
     "remarks": ""
   },
@@ -4525,7 +4525,7 @@
     "name": "Riverlands",
     "nameWoDiacritics": "Riverlands",
     "subdivision": "MBH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4533,7 +4533,7 @@
     "iata": "",
     "coordinates": {
       "lat": -33.53333333333333,
-      "lon": 2.3833333333333333
+      "lon": 18.6
     },
     "remarks": ""
   },
@@ -4544,7 +4544,7 @@
     "name": "Riverton",
     "nameWoDiacritics": "Riverton",
     "subdivision": "STL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4552,7 +4552,7 @@
     "iata": "",
     "coordinates": {
       "lat": -46.35,
-      "lon": 17.333333333333332
+      "lon": 168.01666666666668
     },
     "remarks": ""
   },
@@ -4563,7 +4563,7 @@
     "name": "Rolleston",
     "nameWoDiacritics": "Rolleston",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -4572,7 +4572,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.583333333333336,
-      "lon": 17.366666666666667
+      "lon": 172.38333333333333
     },
     "remarks": ""
   },
@@ -4583,7 +4583,7 @@
     "name": "Rongotai",
     "nameWoDiacritics": "Rongotai",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4591,7 +4591,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.31666666666667,
-      "lon": 17.733333333333334
+      "lon": 174.8
     },
     "remarks": ""
   },
@@ -4602,7 +4602,7 @@
     "name": "Rotorua",
     "nameWoDiacritics": "Rotorua",
     "subdivision": "BOP",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       3
@@ -4611,7 +4611,7 @@
     "iata": "",
     "coordinates": {
       "lat": -38.166666666666664,
-      "lon": 18.033333333333335
+      "lon": 176.33333333333334
     },
     "remarks": ""
   },
@@ -4622,7 +4622,7 @@
     "name": "Roxburgh",
     "nameWoDiacritics": "Roxburgh",
     "subdivision": "OTA",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -4630,7 +4630,7 @@
     "iata": "",
     "coordinates": {
       "lat": -45.53333333333333,
-      "lon": 17.516666666666666
+      "lon": 169.3
     },
     "remarks": ""
   },
@@ -4641,7 +4641,7 @@
     "name": "Russel",
     "nameWoDiacritics": "Russel",
     "subdivision": "NTL",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -4650,7 +4650,7 @@
     "iata": "",
     "coordinates": {
       "lat": -35.266666666666666,
-      "lon": 17.666666666666668
+      "lon": 174.11666666666667
     },
     "remarks": ""
   },
@@ -4661,7 +4661,7 @@
     "name": "Saint Heliers",
     "nameWoDiacritics": "Saint Heliers",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4669,7 +4669,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.85,
-      "lon": 17.75
+      "lon": 174.86666666666667
     },
     "remarks": ""
   },
@@ -4680,7 +4680,7 @@
     "name": "Seatoun",
     "nameWoDiacritics": "Seatoun",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4688,7 +4688,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.31666666666667,
-      "lon": 17.75
+      "lon": 174.83333333333334
     },
     "remarks": ""
   },
@@ -4699,7 +4699,7 @@
     "name": "Seaview",
     "nameWoDiacritics": "Seaview",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -4710,7 +4710,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.46666666666667,
-      "lon": 18.083333333333332
+      "lon": 176.91666666666666
     },
     "remarks": ""
   },
@@ -4721,7 +4721,7 @@
     "name": "Seddon",
     "nameWoDiacritics": "Seddon",
     "subdivision": "NSN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4729,7 +4729,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.666666666666664,
-      "lon": 17.666666666666668
+      "lon": 174.08333333333334
     },
     "remarks": ""
   },
@@ -4740,7 +4740,7 @@
     "name": "Shannon",
     "nameWoDiacritics": "Shannon",
     "subdivision": "MWT",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -4749,7 +4749,7 @@
     "iata": "",
     "coordinates": {
       "lat": -40.53333333333333,
-      "lon": 17.866666666666667
+      "lon": 175.41666666666666
     },
     "remarks": ""
   },
@@ -4760,7 +4760,7 @@
     "name": "Sheffield",
     "nameWoDiacritics": "Sheffield",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4768,7 +4768,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.38333333333333,
-      "lon": 17.35
+      "lon": 172.16666666666666
     },
     "remarks": ""
   },
@@ -4779,7 +4779,7 @@
     "name": "Shelly Bay",
     "nameWoDiacritics": "Shelly Bay",
     "subdivision": "WGN",
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2
@@ -4788,7 +4788,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.28333333333333,
-      "lon": 17.733333333333334
+      "lon": 174.81666666666666
     },
     "remarks": ""
   },
@@ -4799,7 +4799,7 @@
     "name": "Silverdale",
     "nameWoDiacritics": "Silverdale",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4807,7 +4807,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.6,
-      "lon": 17.716666666666665
+      "lon": 174.65
     },
     "remarks": ""
   },
@@ -4818,7 +4818,7 @@
     "name": "Silverstream",
     "nameWoDiacritics": "Silverstream",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4826,7 +4826,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.15,
-      "lon": 17.833333333333332
+      "lon": 175
     },
     "remarks": ""
   },
@@ -4837,7 +4837,7 @@
     "name": "Smithfield",
     "nameWoDiacritics": "Smithfield",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -4845,7 +4845,7 @@
     "iata": "",
     "coordinates": {
       "lat": -44.36666666666667,
-      "lon": 17.183333333333334
+      "lon": 171.23333333333332
     },
     "remarks": ""
   },
@@ -4856,7 +4856,7 @@
     "name": "Sockburn",
     "nameWoDiacritics": "Sockburn",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4864,7 +4864,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.53333333333333,
-      "lon": 17.383333333333333
+      "lon": 172.55
     },
     "remarks": ""
   },
@@ -4875,7 +4875,7 @@
     "name": "Spring Creek",
     "nameWoDiacritics": "Spring Creek",
     "subdivision": "MBH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4883,7 +4883,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.46666666666667,
-      "lon": 17.583333333333332
+      "lon": 173.96666666666667
     },
     "remarks": ""
   },
@@ -4894,7 +4894,7 @@
     "name": "Stewart Island",
     "nameWoDiacritics": "Stewart Island",
     "subdivision": "STL",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4902,7 +4902,7 @@
     "iata": "",
     "coordinates": {
       "lat": -47,
-      "lon": 17.333333333333332
+      "lon": 168
     },
     "remarks": ""
   },
@@ -4913,7 +4913,7 @@
     "name": "Stoke",
     "nameWoDiacritics": "Stoke",
     "subdivision": "NSN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4921,7 +4921,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.31666666666667,
-      "lon": 17.516666666666666
+      "lon": 173.23333333333332
     },
     "remarks": ""
   },
@@ -4932,7 +4932,7 @@
     "name": "Stratford",
     "nameWoDiacritics": "Stratford",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -4941,7 +4941,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.333333333333336,
-      "lon": 17.683333333333334
+      "lon": 174.28333333333333
     },
     "remarks": ""
   },
@@ -4952,7 +4952,7 @@
     "name": "Surfdale",
     "nameWoDiacritics": "Surfdale",
     "subdivision": "AUK",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4960,7 +4960,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.78333333333333,
-      "lon": 17.833333333333332
+      "lon": 175
     },
     "remarks": ""
   },
@@ -4971,7 +4971,7 @@
     "name": "Taharoa",
     "nameWoDiacritics": "Taharoa",
     "subdivision": "WKO",
-    "status": "AC",
+    "status": 1,
     "function": [
       0,
       2,
@@ -4981,7 +4981,7 @@
     "iata": "",
     "coordinates": {
       "lat": -38.15,
-      "lon": 17.733333333333334
+      "lon": 174.73333333333332
     },
     "remarks": ""
   },
@@ -4992,7 +4992,7 @@
     "name": "Taihape",
     "nameWoDiacritics": "Taihape",
     "subdivision": "MWT",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -5000,7 +5000,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.666666666666664,
-      "lon": 17.9
+      "lon": 175.78333333333333
     },
     "remarks": ""
   },
@@ -5011,7 +5011,7 @@
     "name": "Taita",
     "nameWoDiacritics": "Taita",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5019,7 +5019,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.2,
-      "lon": 17.75
+      "lon": 174.95
     },
     "remarks": ""
   },
@@ -5030,7 +5030,7 @@
     "name": "Takaka",
     "nameWoDiacritics": "Takaka",
     "subdivision": "TAS",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       3
@@ -5039,7 +5039,7 @@
     "iata": "",
     "coordinates": {
       "lat": -40.85,
-      "lon": 17.4
+      "lon": 172.8
     },
     "remarks": ""
   },
@@ -5050,7 +5050,7 @@
     "name": "Takanini",
     "nameWoDiacritics": "Takanini",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5058,7 +5058,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.03333333333333,
-      "lon": 17.75
+      "lon": 174.91666666666666
     },
     "remarks": ""
   },
@@ -5069,7 +5069,7 @@
     "name": "Takapau",
     "nameWoDiacritics": "Takapau",
     "subdivision": "HKB",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5088,7 +5088,7 @@
     "name": "Takapuna",
     "nameWoDiacritics": "Takapuna",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2,
@@ -5098,7 +5098,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.78333333333333,
-      "lon": 17.733333333333334
+      "lon": 174.76666666666668
     },
     "remarks": ""
   },
@@ -5109,7 +5109,7 @@
     "name": "Tamaki",
     "nameWoDiacritics": "Tamaki",
     "subdivision": "AUK",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
@@ -5117,7 +5117,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.88333333333333,
-      "lon": 17.75
+      "lon": 174.9
     },
     "remarks": "Half Moon Bay"
   },
@@ -5128,7 +5128,7 @@
     "name": "Tapanui",
     "nameWoDiacritics": "Tapanui",
     "subdivision": "OTA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5136,7 +5136,7 @@
     "iata": "",
     "coordinates": {
       "lat": -45.95,
-      "lon": 17.516666666666666
+      "lon": 169.26666666666668
     },
     "remarks": ""
   },
@@ -5147,7 +5147,7 @@
     "name": "Taradale",
     "nameWoDiacritics": "Taradale",
     "subdivision": "HKB",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5155,7 +5155,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.53333333333333,
-      "lon": 18.083333333333332
+      "lon": 176.85
     },
     "remarks": ""
   },
@@ -5166,7 +5166,7 @@
     "name": "Tarakohe",
     "nameWoDiacritics": "Tarakohe",
     "subdivision": "TAS",
-    "status": "AC",
+    "status": 1,
     "function": [
       0
     ],
@@ -5174,7 +5174,7 @@
     "iata": "",
     "coordinates": {
       "lat": -40.833333333333336,
-      "lon": 17.416666666666668
+      "lon": 172.88333333333333
     },
     "remarks": ""
   },
@@ -5185,7 +5185,7 @@
     "name": "Taumarunui",
     "nameWoDiacritics": "Taumarunui",
     "subdivision": "TKI",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -5194,7 +5194,7 @@
     "iata": "",
     "coordinates": {
       "lat": -38.88333333333333,
-      "lon": 17.85
+      "lon": 175.25
     },
     "remarks": ""
   },
@@ -5205,7 +5205,7 @@
     "name": "Taupo",
     "nameWoDiacritics": "Taupo",
     "subdivision": "WKO",
-    "status": "AC",
+    "status": 1,
     "function": [
       3
     ],
@@ -5224,7 +5224,7 @@
     "name": "Tauranga",
     "nameWoDiacritics": "Tauranga",
     "subdivision": "BOP",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       1,
@@ -5235,7 +5235,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.68333333333333,
-      "lon": 18.016666666666666
+      "lon": 176.16666666666666
     },
     "remarks": ""
   },
@@ -5246,7 +5246,7 @@
     "name": "Te Anau",
     "nameWoDiacritics": "Te Anau",
     "subdivision": "STL",
-    "status": "AC",
+    "status": 1,
     "function": [
       3
     ],
@@ -5265,7 +5265,7 @@
     "name": "Te Aroha",
     "nameWoDiacritics": "Te Aroha",
     "subdivision": "BOP",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -5273,7 +5273,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.53333333333333,
-      "lon": 17.9
+      "lon": 175.7
     },
     "remarks": ""
   },
@@ -5284,7 +5284,7 @@
     "name": "Te Awamutu",
     "nameWoDiacritics": "Te Awamutu",
     "subdivision": "WKO",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -5292,7 +5292,7 @@
     "iata": "",
     "coordinates": {
       "lat": -38,
-      "lon": 17.85
+      "lon": 175.3
     },
     "remarks": ""
   },
@@ -5303,7 +5303,7 @@
     "name": "Te Haroto",
     "nameWoDiacritics": "Te Haroto",
     "subdivision": "HKB",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5311,7 +5311,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.13333333333333,
-      "lon": 18.05
+      "lon": 176.6
     },
     "remarks": ""
   },
@@ -5322,7 +5322,7 @@
     "name": "Te Kauwhata",
     "nameWoDiacritics": "Te Kauwhata",
     "subdivision": "WKO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5330,7 +5330,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.38333333333333,
-      "lon": 17.833333333333332
+      "lon": 175.13333333333333
     },
     "remarks": ""
   },
@@ -5341,7 +5341,7 @@
     "name": "Te Kuiti",
     "nameWoDiacritics": "Te Kuiti",
     "subdivision": "WKO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5349,7 +5349,7 @@
     "iata": "",
     "coordinates": {
       "lat": -38.31666666666667,
-      "lon": 17.833333333333332
+      "lon": 175.15
     },
     "remarks": ""
   },
@@ -5360,7 +5360,7 @@
     "name": "Te Puke",
     "nameWoDiacritics": "Te Puke",
     "subdivision": "BOP",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -5368,7 +5368,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.78333333333333,
-      "lon": 18.033333333333335
+      "lon": 176.38333333333333
     },
     "remarks": ""
   },
@@ -5379,7 +5379,7 @@
     "name": "Te Puna",
     "nameWoDiacritics": "Te Puna",
     "subdivision": "BOP",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -5387,7 +5387,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.666666666666664,
-      "lon": 18
+      "lon": 176.06666666666666
     },
     "remarks": ""
   },
@@ -5398,7 +5398,7 @@
     "name": "Te Rapa",
     "nameWoDiacritics": "Te Rapa",
     "subdivision": "WKO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5406,7 +5406,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.75,
-      "lon": 17.85
+      "lon": 175.21666666666667
     },
     "remarks": ""
   },
@@ -5417,7 +5417,7 @@
     "name": "Temuka",
     "nameWoDiacritics": "Temuka",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5425,7 +5425,7 @@
     "iata": "",
     "coordinates": {
       "lat": -44.25,
-      "lon": 17.183333333333334
+      "lon": 171.26666666666668
     },
     "remarks": "Clandeboye"
   },
@@ -5436,7 +5436,7 @@
     "name": "Thames",
     "nameWoDiacritics": "Thames",
     "subdivision": "WKO",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       3
@@ -5445,7 +5445,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.13333333333333,
-      "lon": 17.883333333333333
+      "lon": 175.53333333333333
     },
     "remarks": ""
   },
@@ -5456,7 +5456,7 @@
     "name": "Timaru",
     "nameWoDiacritics": "Timaru",
     "subdivision": "CAN",
-    "status": "AC",
+    "status": 1,
     "function": [
       0,
       1,
@@ -5467,7 +5467,7 @@
     "iata": "",
     "coordinates": {
       "lat": -44.38333333333333,
-      "lon": 17.183333333333334
+      "lon": 171.25
     },
     "remarks": ""
   },
@@ -5478,7 +5478,7 @@
     "name": "Titirangi",
     "nameWoDiacritics": "Titirangi",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5486,7 +5486,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.93333333333333,
-      "lon": 17.733333333333334
+      "lon": 174.81666666666666
     },
     "remarks": ""
   },
@@ -5497,7 +5497,7 @@
     "name": "Tiwai Point-Bluff Port",
     "nameWoDiacritics": "Tiwai Point-Bluff Port",
     "subdivision": "STL",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -5506,7 +5506,7 @@
     "iata": "",
     "coordinates": {
       "lat": -46.583333333333336,
-      "lon": 17.366666666666667
+      "lon": 168.35
     },
     "remarks": ""
   },
@@ -5517,7 +5517,7 @@
     "name": "Tokoroa",
     "nameWoDiacritics": "Tokoroa",
     "subdivision": "WKO",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5525,7 +5525,7 @@
     "iata": "",
     "coordinates": {
       "lat": -38.233333333333334,
-      "lon": 17.916666666666668
+      "lon": 175.86666666666667
     },
     "remarks": ""
   },
@@ -5536,7 +5536,7 @@
     "name": "Tomoana",
     "nameWoDiacritics": "Tomoana",
     "subdivision": "HKB",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -5544,7 +5544,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.61666666666667,
-      "lon": 18.083333333333332
+      "lon": 176.85
     },
     "remarks": ""
   },
@@ -5555,7 +5555,7 @@
     "name": "Torbay",
     "nameWoDiacritics": "Torbay",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5563,7 +5563,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.7,
-      "lon": 17.733333333333334
+      "lon": 174.75
     },
     "remarks": ""
   },
@@ -5574,7 +5574,7 @@
     "name": "Trentham",
     "nameWoDiacritics": "Trentham",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -5583,7 +5583,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.13333333333333,
-      "lon": 17.833333333333332
+      "lon": 175.03333333333333
     },
     "remarks": ""
   },
@@ -5594,7 +5594,7 @@
     "name": "Tryphena",
     "nameWoDiacritics": "Tryphena",
     "subdivision": "AUK",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
@@ -5602,7 +5602,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.3,
-      "lon": 17.866666666666667
+      "lon": 175.48333333333332
     },
     "remarks": ""
   },
@@ -5613,7 +5613,7 @@
     "name": "Twizel",
     "nameWoDiacritics": "Twizel",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -5622,7 +5622,7 @@
     "iata": "",
     "coordinates": {
       "lat": -44.25,
-      "lon": 2.166666666666667
+      "lon": 17.1
     },
     "remarks": ""
   },
@@ -5633,7 +5633,7 @@
     "name": "Umuroa FPSO",
     "nameWoDiacritics": "Umuroa FPSO",
     "subdivision": "",
-    "status": "AA",
+    "status": 0,
     "function": [
       6
     ],
@@ -5641,7 +5641,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.483333333333334,
-      "lon": 17.516666666666666
+      "lon": 173.23333333333332
     },
     "remarks": ""
   },
@@ -5652,7 +5652,7 @@
     "name": "Upper Hutt",
     "nameWoDiacritics": "Upper Hutt",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5660,7 +5660,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.11666666666667,
-      "lon": 17.833333333333332
+      "lon": 175.06666666666666
     },
     "remarks": ""
   },
@@ -5671,7 +5671,7 @@
     "name": "Wadestown",
     "nameWoDiacritics": "Wadestown",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5679,7 +5679,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.266666666666666,
-      "lon": 17.733333333333334
+      "lon": 174.76666666666668
     },
     "remarks": ""
   },
@@ -5690,7 +5690,7 @@
     "name": "Waharoa",
     "nameWoDiacritics": "Waharoa",
     "subdivision": "WKO",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -5698,7 +5698,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.766666666666666,
-      "lon": 17.9
+      "lon": 175.76666666666668
     },
     "remarks": ""
   },
@@ -5709,7 +5709,7 @@
     "name": "Waiheke Island",
     "nameWoDiacritics": "Waiheke Island",
     "subdivision": "AUK",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       2,
@@ -5719,7 +5719,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.8,
-      "lon": 17.833333333333332
+      "lon": 175.1
     },
     "remarks": ""
   },
@@ -5730,7 +5730,7 @@
     "name": "Waihi",
     "nameWoDiacritics": "Waihi",
     "subdivision": "BOP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5738,7 +5738,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.38333333333333,
-      "lon": 17.916666666666668
+      "lon": 175.83333333333334
     },
     "remarks": ""
   },
@@ -5749,7 +5749,7 @@
     "name": "Waikanae",
     "nameWoDiacritics": "Waikanae",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5757,7 +5757,7 @@
     "iata": "",
     "coordinates": {
       "lat": -40.88333333333333,
-      "lon": 17.833333333333332
+      "lon": 175.06666666666666
     },
     "remarks": ""
   },
@@ -5768,7 +5768,7 @@
     "name": "Waikari",
     "nameWoDiacritics": "Waikari",
     "subdivision": "CAN",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -5776,7 +5776,7 @@
     "iata": "",
     "coordinates": {
       "lat": -42.96666666666667,
-      "lon": 17.4
+      "lon": 172.68333333333334
     },
     "remarks": ""
   },
@@ -5787,7 +5787,7 @@
     "name": "Waikawa",
     "nameWoDiacritics": "Waikawa",
     "subdivision": "STL",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -5795,7 +5795,7 @@
     "iata": "",
     "coordinates": {
       "lat": -46.63333333333333,
-      "lon": 17.5
+      "lon": 169.13333333333333
     },
     "remarks": ""
   },
@@ -5806,7 +5806,7 @@
     "name": "Wainuiomata",
     "nameWoDiacritics": "Wainuiomata",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5814,7 +5814,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.266666666666666,
-      "lon": 17.75
+      "lon": 174.95
     },
     "remarks": ""
   },
@@ -5825,7 +5825,7 @@
     "name": "Waiouru",
     "nameWoDiacritics": "Waiouru",
     "subdivision": "MWT",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -5834,7 +5834,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.46666666666667,
-      "lon": 17.9
+      "lon": 175.66666666666666
     },
     "remarks": ""
   },
@@ -5845,7 +5845,7 @@
     "name": "Waipara",
     "nameWoDiacritics": "Waipara",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5853,7 +5853,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.06666666666667,
-      "lon": 17.4
+      "lon": 172.75
     },
     "remarks": ""
   },
@@ -5864,7 +5864,7 @@
     "name": "Waipawa",
     "nameWoDiacritics": "Waipawa",
     "subdivision": "HKB",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5872,7 +5872,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.4,
-      "lon": 17.883333333333333
+      "lon": 175.5
     },
     "remarks": ""
   },
@@ -5883,7 +5883,7 @@
     "name": "Waipu",
     "nameWoDiacritics": "Waipu",
     "subdivision": "NTL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5891,7 +5891,7 @@
     "iata": "",
     "coordinates": {
       "lat": -35.983333333333334,
-      "lon": 17.7
+      "lon": 174.45
     },
     "remarks": ""
   },
@@ -5902,7 +5902,7 @@
     "name": "Waipukurau",
     "nameWoDiacritics": "Waipukurau",
     "subdivision": "HKB",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5910,7 +5910,7 @@
     "iata": "",
     "coordinates": {
       "lat": -40,
-      "lon": 18.05
+      "lon": 176.56666666666666
     },
     "remarks": ""
   },
@@ -5921,7 +5921,7 @@
     "name": "Wairau Valley",
     "nameWoDiacritics": "Wairau Valley",
     "subdivision": "MBH",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -5929,7 +5929,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.56666666666667,
-      "lon": 17.55
+      "lon": 173.53333333333333
     },
     "remarks": ""
   },
@@ -5940,7 +5940,7 @@
     "name": "Wairoa",
     "nameWoDiacritics": "Wairoa",
     "subdivision": "HKB",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       3
@@ -5949,7 +5949,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.03333333333333,
-      "lon": 18.2
+      "lon": 177.36666666666667
     },
     "remarks": ""
   },
@@ -5960,7 +5960,7 @@
     "name": "Waitakere",
     "nameWoDiacritics": "Waitakere",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -5968,7 +5968,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.85,
-      "lon": 17.716666666666665
+      "lon": 174.55
     },
     "remarks": ""
   },
@@ -5979,7 +5979,7 @@
     "name": "Waitaki",
     "nameWoDiacritics": "Waitaki",
     "subdivision": "CAN",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -5987,7 +5987,7 @@
     "iata": "",
     "coordinates": {
       "lat": -44.93333333333333,
-      "lon": 17.166666666666668
+      "lon": 171.1
     },
     "remarks": ""
   },
@@ -5998,7 +5998,7 @@
     "name": "Waitangi",
     "nameWoDiacritics": "Waitangi",
     "subdivision": "NTL",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -6006,7 +6006,7 @@
     "iata": "",
     "coordinates": {
       "lat": -35.25,
-      "lon": 17.666666666666668
+      "lon": 174.08333333333334
     },
     "remarks": ""
   },
@@ -6017,7 +6017,7 @@
     "name": "Waitara",
     "nameWoDiacritics": "Waitara",
     "subdivision": "TKI",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -6025,7 +6025,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39,
-      "lon": 17.683333333333334
+      "lon": 174.21666666666667
     },
     "remarks": ""
   },
@@ -6036,7 +6036,7 @@
     "name": "Waitoa",
     "nameWoDiacritics": "Waitoa",
     "subdivision": "WKO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -6055,7 +6055,7 @@
     "name": "Waitotara",
     "nameWoDiacritics": "Waitotara",
     "subdivision": "MWT",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -6063,7 +6063,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.8,
-      "lon": 17.733333333333334
+      "lon": 174.71666666666667
     },
     "remarks": ""
   },
@@ -6074,7 +6074,7 @@
     "name": "Waiuku",
     "nameWoDiacritics": "Waiuku",
     "subdivision": "AUK",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -6082,7 +6082,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.233333333333334,
-      "lon": 17.733333333333334
+      "lon": 174.71666666666667
     },
     "remarks": ""
   },
@@ -6093,7 +6093,7 @@
     "name": "Wallaceville",
     "nameWoDiacritics": "Wallaceville",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -6101,7 +6101,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.13333333333333,
-      "lon": 17.833333333333332
+      "lon": 175.05
     },
     "remarks": ""
   },
@@ -6112,7 +6112,7 @@
     "name": "Wanaka",
     "nameWoDiacritics": "Wanaka",
     "subdivision": "OTA",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6120,7 +6120,7 @@
     "iata": "",
     "coordinates": {
       "lat": -44.7,
-      "lon": 17.5
+      "lon": 169.15
     },
     "remarks": ""
   },
@@ -6131,7 +6131,7 @@
     "name": "Wanganui",
     "nameWoDiacritics": "Wanganui",
     "subdivision": "MWT",
-    "status": "AC",
+    "status": 1,
     "function": [
       0,
       2,
@@ -6141,7 +6141,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.93333333333333,
-      "lon": 17.75
+      "lon": 174.98333333333332
     },
     "remarks": ""
   },
@@ -6152,7 +6152,7 @@
     "name": "Warkworth",
     "nameWoDiacritics": "Warkworth",
     "subdivision": "AUK",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -6160,7 +6160,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.4,
-      "lon": 17.733333333333334
+      "lon": 174.66666666666666
     },
     "remarks": ""
   },
@@ -6171,7 +6171,7 @@
     "name": "Washdyke",
     "nameWoDiacritics": "Washdyke",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -6179,7 +6179,7 @@
     "iata": "",
     "coordinates": {
       "lat": -44.35,
-      "lon": 17.233333333333334
+      "lon": 171.66666666666666
     },
     "remarks": ""
   },
@@ -6190,7 +6190,7 @@
     "name": "Waverley",
     "nameWoDiacritics": "Waverley",
     "subdivision": "TKI",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -6198,7 +6198,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.766666666666666,
-      "lon": 17.716666666666665
+      "lon": 174.63333333333333
     },
     "remarks": ""
   },
@@ -6209,7 +6209,7 @@
     "name": "Wellington",
     "nameWoDiacritics": "Wellington",
     "subdivision": "WGN",
-    "status": "AC",
+    "status": 1,
     "function": [
       0,
       1,
@@ -6220,7 +6220,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.266666666666666,
-      "lon": 17.733333333333334
+      "lon": 174.78333333333333
     },
     "remarks": ""
   },
@@ -6231,7 +6231,7 @@
     "name": "Wellsford",
     "nameWoDiacritics": "Wellsford",
     "subdivision": "NTL",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -6239,7 +6239,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.28333333333333,
-      "lon": 17.716666666666665
+      "lon": 174.51666666666668
     },
     "remarks": ""
   },
@@ -6250,7 +6250,7 @@
     "name": "Western Springs",
     "nameWoDiacritics": "Western Springs",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -6258,7 +6258,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.86666666666667,
-      "lon": 17.733333333333334
+      "lon": 174.73333333333332
     },
     "remarks": ""
   },
@@ -6269,7 +6269,7 @@
     "name": "Westport",
     "nameWoDiacritics": "Westport",
     "subdivision": "WTC",
-    "status": "AC",
+    "status": 1,
     "function": [
       0,
       2,
@@ -6279,7 +6279,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.733333333333334,
-      "lon": 17.216666666666665
+      "lon": 171.58333333333334
     },
     "remarks": ""
   },
@@ -6290,7 +6290,7 @@
     "name": "Weymouth",
     "nameWoDiacritics": "Weymouth",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -6298,7 +6298,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.03333333333333,
-      "lon": 17.75
+      "lon": 174.86666666666667
     },
     "remarks": ""
   },
@@ -6309,7 +6309,7 @@
     "name": "Whakamaru",
     "nameWoDiacritics": "Whakamaru",
     "subdivision": "WGN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -6317,7 +6317,7 @@
     "iata": "",
     "coordinates": {
       "lat": -38.416666666666664,
-      "lon": 17.9
+      "lon": 175.8
     },
     "remarks": ""
   },
@@ -6328,7 +6328,7 @@
     "name": "Whakatane",
     "nameWoDiacritics": "Whakatane",
     "subdivision": "BOP",
-    "status": "AC",
+    "status": 1,
     "function": [
       3
     ],
@@ -6347,7 +6347,7 @@
     "name": "Whakatu",
     "nameWoDiacritics": "Whakatu",
     "subdivision": "HKB",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -6355,7 +6355,7 @@
     "iata": "",
     "coordinates": {
       "lat": -39.6,
-      "lon": 18.083333333333332
+      "lon": 176.88333333333333
     },
     "remarks": ""
   },
@@ -6366,7 +6366,7 @@
     "name": "Whangaparaoa",
     "nameWoDiacritics": "Whangaparaoa",
     "subdivision": "AUK",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -6374,7 +6374,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.63333333333333,
-      "lon": 17.733333333333334
+      "lon": 174.76666666666668
     },
     "remarks": ""
   },
@@ -6385,7 +6385,7 @@
     "name": "Whangaparapara",
     "nameWoDiacritics": "Whangaparapara",
     "subdivision": "AUK",
-    "status": "AC",
+    "status": 1,
     "function": [
       0
     ],
@@ -6393,7 +6393,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.233333333333334,
-      "lon": 17.866666666666667
+      "lon": 175.38333333333333
     },
     "remarks": ""
   },
@@ -6404,7 +6404,7 @@
     "name": "Whangarei",
     "nameWoDiacritics": "Whangarei",
     "subdivision": "NTL",
-    "status": "AC",
+    "status": 1,
     "function": [
       0,
       2,
@@ -6414,7 +6414,7 @@
     "iata": "",
     "coordinates": {
       "lat": -35.833333333333336,
-      "lon": 17.7
+      "lon": 174.48333333333332
     },
     "remarks": ""
   },
@@ -6425,7 +6425,7 @@
     "name": "Whangaroa",
     "nameWoDiacritics": "Whangaroa",
     "subdivision": "NTL",
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2
@@ -6434,7 +6434,7 @@
     "iata": "",
     "coordinates": {
       "lat": -35.03333333333333,
-      "lon": 17.566666666666666
+      "lon": 173.75
     },
     "remarks": ""
   },
@@ -6445,7 +6445,7 @@
     "name": "Whekenui",
     "nameWoDiacritics": "Whekenui",
     "subdivision": "MBH",
-    "status": "AC",
+    "status": 1,
     "function": [
       5
     ],
@@ -6453,7 +6453,7 @@
     "iata": "",
     "coordinates": {
       "lat": -41.18333333333333,
-      "lon": 17.683333333333334
+      "lon": 174.3
     },
     "remarks": ""
   },
@@ -6464,7 +6464,7 @@
     "name": "Whenuapai",
     "nameWoDiacritics": "Whenuapai",
     "subdivision": "AUK",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -6483,7 +6483,7 @@
     "name": "White Island",
     "nameWoDiacritics": "White Island",
     "subdivision": "BOP",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -6491,7 +6491,7 @@
     "iata": "",
     "coordinates": {
       "lat": -37.53333333333333,
-      "lon": 18.183333333333334
+      "lon": 177.18333333333334
     },
     "remarks": ""
   },
@@ -6502,7 +6502,7 @@
     "name": "Whitianga",
     "nameWoDiacritics": "Whitianga",
     "subdivision": "WKO",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6510,7 +6510,7 @@
     "iata": "",
     "coordinates": {
       "lat": -36.833333333333336,
-      "lon": 17.9
+      "lon": 175.7
     },
     "remarks": ""
   },
@@ -6521,7 +6521,7 @@
     "name": "Winton",
     "nameWoDiacritics": "Winton",
     "subdivision": "STL",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -6529,7 +6529,7 @@
     "iata": "",
     "coordinates": {
       "lat": -46.13333333333333,
-      "lon": 17.35
+      "lon": 168.31666666666666
     },
     "remarks": ""
   },
@@ -6540,7 +6540,7 @@
     "name": "Wiri",
     "nameWoDiacritics": "Wiri",
     "subdivision": "AUK",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -6559,7 +6559,7 @@
     "name": "Woolston",
     "nameWoDiacritics": "Woolston",
     "subdivision": "CAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -6567,7 +6567,7 @@
     "iata": "",
     "coordinates": {
       "lat": -43.55,
-      "lon": 17.4
+      "lon": 172.68333333333334
     },
     "remarks": ""
   },
@@ -6578,7 +6578,7 @@
     "name": "Wyndham",
     "nameWoDiacritics": "Wyndham",
     "subdivision": "STL",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -6586,7 +6586,7 @@
     "iata": "",
     "coordinates": {
       "lat": -46.31666666666667,
-      "lon": 17.416666666666668
+      "lon": 168.85
     },
     "remarks": ""
   }

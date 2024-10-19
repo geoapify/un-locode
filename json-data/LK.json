@@ -6,7 +6,7 @@
     "name": ".SRI LANKA",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Agalawatta",
     "nameWoDiacritics": "Agalawatta",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.533333333333333,
-      "lon": 8
+      "lon": 80.15
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Amparai",
     "nameWoDiacritics": "Amparai",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -50,7 +50,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.333333333333333,
-      "lon": 8.216666666666667
+      "lon": 81.61666666666666
     },
     "remarks": ""
   },
@@ -61,7 +61,7 @@
     "name": "Andiambalama",
     "nameWoDiacritics": "Andiambalama",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -69,7 +69,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.183333333333334,
-      "lon": 8.583333333333334
+      "lon": 79.9
     },
     "remarks": ""
   },
@@ -80,7 +80,7 @@
     "name": "Angoda",
     "nameWoDiacritics": "Angoda",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -88,7 +88,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.933333333333334,
-      "lon": 8.583333333333334
+      "lon": 79.91666666666667
     },
     "remarks": ""
   },
@@ -99,7 +99,7 @@
     "name": "Anuradhapura",
     "nameWoDiacritics": "Anuradhapura",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -118,7 +118,7 @@
     "name": "Attanagalla",
     "nameWoDiacritics": "Attanagalla",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -126,7 +126,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.1,
-      "lon": 8
+      "lon": 80.11666666666666
     },
     "remarks": ""
   },
@@ -137,7 +137,7 @@
     "name": "Attidiya",
     "nameWoDiacritics": "Attidiya",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -145,7 +145,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.833333333333333,
-      "lon": 8.583333333333334
+      "lon": 79.88333333333334
     },
     "remarks": ""
   },
@@ -156,7 +156,7 @@
     "name": "Avissawella",
     "nameWoDiacritics": "Avissawella",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -166,7 +166,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.95,
-      "lon": 8.016666666666667
+      "lon": 80.21666666666667
     },
     "remarks": ""
   },
@@ -177,7 +177,7 @@
     "name": "Badulla",
     "nameWoDiacritics": "Badulla",
     "subdivision": "3",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -185,7 +185,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.166666666666667,
-      "lon": 8.05
+      "lon": 80.53333333333333
     },
     "remarks": ""
   },
@@ -196,7 +196,7 @@
     "name": "Bandaragama",
     "nameWoDiacritics": "Bandaragama",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -204,7 +204,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.7,
-      "lon": 8.583333333333334
+      "lon": 79.98333333333333
     },
     "remarks": ""
   },
@@ -215,7 +215,7 @@
     "name": "Bataduwa",
     "nameWoDiacritics": "Bataduwa",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -223,7 +223,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.216666666666667,
-      "lon": 8
+      "lon": 80.1
     },
     "remarks": ""
   },
@@ -234,7 +234,7 @@
     "name": "Battaramulla",
     "nameWoDiacritics": "Battaramulla",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -242,7 +242,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.9,
-      "lon": 8.583333333333334
+      "lon": 79.91666666666667
     },
     "remarks": ""
   },
@@ -253,7 +253,7 @@
     "name": "Batticoloa",
     "nameWoDiacritics": "Batticoloa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -273,7 +273,7 @@
     "name": "Bentota River Apt",
     "nameWoDiacritics": "Bentota River Apt",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -281,7 +281,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.416666666666667,
-      "lon": 8.583333333333334
+      "lon": 79.98333333333333
     },
     "remarks": ""
   },
@@ -292,7 +292,7 @@
     "name": "Beruwala",
     "nameWoDiacritics": "Beruwala",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -311,7 +311,7 @@
     "name": "Biyagama",
     "nameWoDiacritics": "Biyagama",
     "subdivision": "12",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -319,7 +319,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.933333333333334,
-      "lon": 8.583333333333334
+      "lon": 79.98333333333333
     },
     "remarks": ""
   },
@@ -330,7 +330,7 @@
     "name": "Bogahawatta",
     "nameWoDiacritics": "Bogahawatta",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -338,7 +338,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.3,
-      "lon": 8.016666666666667
+      "lon": 80.16666666666667
     },
     "remarks": ""
   },
@@ -349,7 +349,7 @@
     "name": "Bulathsinhala",
     "nameWoDiacritics": "Bulathsinhala",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -357,7 +357,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.65,
-      "lon": 8.016666666666667
+      "lon": 80.16666666666667
     },
     "remarks": ""
   },
@@ -368,7 +368,7 @@
     "name": "Colombo",
     "nameWoDiacritics": "Colombo",
     "subdivision": "11",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       1,
@@ -380,7 +380,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.916666666666667,
-      "lon": 8.583333333333334
+      "lon": 79.85
     },
     "remarks": ""
   },
@@ -391,7 +391,7 @@
     "name": "Colombo/Ratmalana Apt",
     "nameWoDiacritics": "Colombo/Ratmalana Apt",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -410,7 +410,7 @@
     "name": "Dambadure",
     "nameWoDiacritics": "Dambadure",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -418,7 +418,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.116666666666666,
-      "lon": 8.583333333333334
+      "lon": 79.88333333333334
     },
     "remarks": ""
   },
@@ -429,7 +429,7 @@
     "name": "Dambulu Oya Tank Apt",
     "nameWoDiacritics": "Dambulu Oya Tank Apt",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -437,7 +437,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.85,
-      "lon": 8.05
+      "lon": 80.65
     },
     "remarks": ""
   },
@@ -448,7 +448,7 @@
     "name": "Dampelessa",
     "nameWoDiacritics": "Dampelessa",
     "subdivision": "61",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -456,7 +456,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.65,
-      "lon": 8.033333333333333
+      "lon": 80.38333333333334
     },
     "remarks": ""
   },
@@ -467,7 +467,7 @@
     "name": "Dehiwala",
     "nameWoDiacritics": "Dehiwala",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -475,7 +475,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.85,
-      "lon": 8.583333333333334
+      "lon": 79.85
     },
     "remarks": ""
   },
@@ -486,7 +486,7 @@
     "name": "Dekantana",
     "nameWoDiacritics": "Dekantana",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -505,7 +505,7 @@
     "name": "Dekatana",
     "nameWoDiacritics": "Dekatana",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -513,7 +513,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.966666666666667,
-      "lon": 8
+      "lon": 80.05
     },
     "remarks": ""
   },
@@ -524,7 +524,7 @@
     "name": "Dickwella Mawella Lagoon Apt",
     "nameWoDiacritics": "Dickwella Mawella Lagoon Apt",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -532,7 +532,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.966666666666667,
-      "lon": 8.166666666666666
+      "lon": 81
     },
     "remarks": ""
   },
@@ -543,7 +543,7 @@
     "name": "Divulapitiya",
     "nameWoDiacritics": "Divulapitiya",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -551,7 +551,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.216666666666667,
-      "lon": 8
+      "lon": 80.08333333333333
     },
     "remarks": ""
   },
@@ -562,7 +562,7 @@
     "name": "Dodangoda",
     "nameWoDiacritics": "Dodangoda",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -570,7 +570,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.533333333333333,
-      "lon": 8.033333333333333
+      "lon": 80.4
     },
     "remarks": ""
   },
@@ -581,7 +581,7 @@
     "name": "Dompe",
     "nameWoDiacritics": "Dompe",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -589,7 +589,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.95,
-      "lon": 8.05
+      "lon": 80.51666666666667
     },
     "remarks": ""
   },
@@ -600,7 +600,7 @@
     "name": "Enderamulla",
     "nameWoDiacritics": "Enderamulla",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -608,7 +608,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7,
-      "lon": 8.583333333333334
+      "lon": 79.9
     },
     "remarks": ""
   },
@@ -619,7 +619,7 @@
     "name": "Gal Oya",
     "nameWoDiacritics": "Gal Oya",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -638,7 +638,7 @@
     "name": "Galkanda",
     "nameWoDiacritics": "Galkanda",
     "subdivision": "71",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -646,7 +646,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.65,
-      "lon": 8.033333333333333
+      "lon": 80.36666666666666
     },
     "remarks": ""
   },
@@ -657,7 +657,7 @@
     "name": "Galle",
     "nameWoDiacritics": "Galle",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -676,7 +676,7 @@
     "name": "Gampaha",
     "nameWoDiacritics": "Gampaha",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -684,7 +684,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.883333333333333,
-      "lon": 8.583333333333334
+      "lon": 79.98333333333333
     },
     "remarks": ""
   },
@@ -695,7 +695,7 @@
     "name": "Gampola",
     "nameWoDiacritics": "Gampola",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -703,7 +703,7 @@
     "iata": "",
     "coordinates": {
       "lat": 8.05,
-      "lon": 8.016666666666667
+      "lon": 80.18333333333334
     },
     "remarks": ""
   },
@@ -714,7 +714,7 @@
     "name": "Ganemulla",
     "nameWoDiacritics": "Ganemulla",
     "subdivision": "12",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -722,7 +722,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.066666666666666,
-      "lon": 8.583333333333334
+      "lon": 79.95
     },
     "remarks": ""
   },
@@ -733,7 +733,7 @@
     "name": "Gelioya",
     "nameWoDiacritics": "Gelioya",
     "subdivision": "21",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -741,7 +741,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.2,
-      "lon": 8.05
+      "lon": 80.6
     },
     "remarks": ""
   },
@@ -752,7 +752,7 @@
     "name": "Gorakana",
     "nameWoDiacritics": "Gorakana",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -760,7 +760,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.766666666666667,
-      "lon": 8.583333333333334
+      "lon": 79.9
     },
     "remarks": ""
   },
@@ -771,7 +771,7 @@
     "name": "Gregory' Lake Apt (Nuwara Eliya)",
     "nameWoDiacritics": "Gregory' Lake Apt (Nuwara Eliya)",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -779,7 +779,7 @@
     "iata": "",
     "coordinates": {
       "lat": 8.45,
-      "lon": 8.183333333333334
+      "lon": 81.21666666666667
     },
     "remarks": ""
   },
@@ -790,7 +790,7 @@
     "name": "Hambantota",
     "nameWoDiacritics": "Hambantota",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -798,7 +798,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.116666666666666,
-      "lon": 8.166666666666666
+      "lon": 81.11666666666666
     },
     "remarks": ""
   },
@@ -809,7 +809,7 @@
     "name": "Hanwella",
     "nameWoDiacritics": "Hanwella",
     "subdivision": "2",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -817,7 +817,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.35,
-      "lon": 8.083333333333334
+      "lon": 80.86666666666666
     },
     "remarks": ""
   },
@@ -828,7 +828,7 @@
     "name": "Hatton",
     "nameWoDiacritics": "Hatton",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -837,7 +837,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.883333333333333,
-      "lon": 8.05
+      "lon": 80.58333333333333
     },
     "remarks": ""
   },
@@ -848,7 +848,7 @@
     "name": "Hendala",
     "nameWoDiacritics": "Hendala",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -856,7 +856,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.983333333333333,
-      "lon": 8.583333333333334
+      "lon": 79.86666666666666
     },
     "remarks": ""
   },
@@ -867,7 +867,7 @@
     "name": "Hettimulla",
     "nameWoDiacritics": "Hettimulla",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -875,7 +875,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.266666666666667,
-      "lon": 8
+      "lon": -80.08333333333333
     },
     "remarks": ""
   },
@@ -886,7 +886,7 @@
     "name": "Hingurakgoda",
     "nameWoDiacritics": "Hingurakgoda",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -894,7 +894,7 @@
     "iata": "",
     "coordinates": {
       "lat": 8.016666666666667,
-      "lon": 8.083333333333334
+      "lon": 80.95
     },
     "remarks": ""
   },
@@ -905,7 +905,7 @@
     "name": "Hirana",
     "nameWoDiacritics": "Hirana",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -913,7 +913,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.733333333333333,
-      "lon": 8.583333333333334
+      "lon": 79.9
     },
     "remarks": ""
   },
@@ -924,7 +924,7 @@
     "name": "Homagama",
     "nameWoDiacritics": "Homagama",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -932,7 +932,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.833333333333333,
-      "lon": 8
+      "lon": 80.08333333333333
     },
     "remarks": ""
   },
@@ -943,7 +943,7 @@
     "name": "Horana",
     "nameWoDiacritics": "Horana",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -951,7 +951,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.716666666666667,
-      "lon": 8
+      "lon": 80.05
     },
     "remarks": ""
   },
@@ -962,7 +962,7 @@
     "name": "Ibbawala",
     "nameWoDiacritics": "Ibbawala",
     "subdivision": "31",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -970,7 +970,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6,
-      "lon": 8.033333333333333
+      "lon": 80.4
     },
     "remarks": ""
   },
@@ -981,7 +981,7 @@
     "name": "Ingiriya",
     "nameWoDiacritics": "Ingiriya",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -989,7 +989,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.75,
-      "lon": 8.016666666666667
+      "lon": 80.16666666666667
     },
     "remarks": ""
   },
@@ -1000,7 +1000,7 @@
     "name": "Ja-Ela",
     "nameWoDiacritics": "Ja-Ela",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1008,7 +1008,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.9,
-      "lon": 8.583333333333334
+      "lon": 79.88333333333334
     },
     "remarks": ""
   },
@@ -1019,7 +1019,7 @@
     "name": "Jaffna",
     "nameWoDiacritics": "Jaffna",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -1039,7 +1039,7 @@
     "name": "Jaya Container Terminal",
     "nameWoDiacritics": "Jaya Container Terminal",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -1058,7 +1058,7 @@
     "name": "Kadawala",
     "nameWoDiacritics": "Kadawala",
     "subdivision": "2",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1066,7 +1066,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.983333333333333,
-      "lon": 8.05
+      "lon": 80.5
     },
     "remarks": ""
   },
@@ -1077,7 +1077,7 @@
     "name": "Kadugannawa",
     "nameWoDiacritics": "Kadugannawa",
     "subdivision": "21",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1085,7 +1085,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.25,
-      "lon": 8.05
+      "lon": 80.51666666666667
     },
     "remarks": ""
   },
@@ -1096,7 +1096,7 @@
     "name": "Kaduwela",
     "nameWoDiacritics": "Kaduwela",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1104,7 +1104,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.916666666666667,
-      "lon": 8.583333333333334
+      "lon": 79.96666666666667
     },
     "remarks": ""
   },
@@ -1115,7 +1115,7 @@
     "name": "Kalagedihena",
     "nameWoDiacritics": "Kalagedihena",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1123,7 +1123,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.116666666666666,
-      "lon": 8
+      "lon": 80.05
     },
     "remarks": ""
   },
@@ -1134,7 +1134,7 @@
     "name": "Kalpitiya",
     "nameWoDiacritics": "Kalpitiya",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -1153,7 +1153,7 @@
     "name": "Kalutara",
     "nameWoDiacritics": "Kalutara",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1172,7 +1172,7 @@
     "name": "Kamburupitiya",
     "nameWoDiacritics": "Kamburupitiya",
     "subdivision": "32",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -1180,7 +1180,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.083333333333333,
-      "lon": 8.05
+      "lon": 80.56666666666666
     },
     "remarks": ""
   },
@@ -1191,7 +1191,7 @@
     "name": "Kandana",
     "nameWoDiacritics": "Kandana",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1199,7 +1199,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.033333333333333,
-      "lon": 8.583333333333334
+      "lon": 79.88333333333334
     },
     "remarks": ""
   },
@@ -1210,7 +1210,7 @@
     "name": "Kandy",
     "nameWoDiacritics": "Kandy",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1229,7 +1229,7 @@
     "name": "Kankesanturai",
     "nameWoDiacritics": "Kankesanturai",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -1248,7 +1248,7 @@
     "name": "Katana West",
     "nameWoDiacritics": "Katana West",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1256,7 +1256,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.25,
-      "lon": 8.583333333333334
+      "lon": 79.9
     },
     "remarks": ""
   },
@@ -1267,7 +1267,7 @@
     "name": "Katugastota Pogolla Reservoir Apt",
     "nameWoDiacritics": "Katugastota Pogolla Reservoir Apt",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -1275,7 +1275,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.2,
-      "lon": 8.033333333333333
+      "lon": 80.41666666666667
     },
     "remarks": ""
   },
@@ -1286,7 +1286,7 @@
     "name": "Katukurunda",
     "nameWoDiacritics": "Katukurunda",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1294,7 +1294,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.033333333333333,
-      "lon": 8
+      "lon": 80.03333333333333
     },
     "remarks": ""
   },
@@ -1305,7 +1305,7 @@
     "name": "Katunayake",
     "nameWoDiacritics": "Katunayake",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -1313,7 +1313,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.166666666666667,
-      "lon": 8.583333333333334
+      "lon": 79.86666666666666
     },
     "remarks": ""
   },
@@ -1324,7 +1324,7 @@
     "name": "Katuwawala",
     "nameWoDiacritics": "Katuwawala",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -1332,7 +1332,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.266666666666667,
-      "lon": 8.066666666666666
+      "lon": 80.68333333333334
     },
     "remarks": ""
   },
@@ -1343,7 +1343,7 @@
     "name": "Kayts",
     "nameWoDiacritics": "Kayts",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -1362,7 +1362,7 @@
     "name": "Kegalle",
     "nameWoDiacritics": "Kegalle",
     "subdivision": "9",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1370,7 +1370,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.25,
-      "lon": 8.033333333333333
+      "lon": 80.35
     },
     "remarks": ""
   },
@@ -1381,7 +1381,7 @@
     "name": "Kehelwatta",
     "nameWoDiacritics": "Kehelwatta",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -1389,7 +1389,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.75,
-      "lon": 8.583333333333334
+      "lon": 79.91666666666667
     },
     "remarks": ""
   },
@@ -1400,7 +1400,7 @@
     "name": "Kelaniya",
     "nameWoDiacritics": "Kelaniya",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -1408,7 +1408,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.95,
-      "lon": 8.583333333333334
+      "lon": 79.88333333333334
     },
     "remarks": ""
   },
@@ -1419,7 +1419,7 @@
     "name": "Kelaniya River Apt",
     "nameWoDiacritics": "Kelaniya River Apt",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -1427,7 +1427,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.95,
-      "lon": 8.583333333333334
+      "lon": 79.88333333333334
     },
     "remarks": ""
   },
@@ -1438,7 +1438,7 @@
     "name": "Kesbewa",
     "nameWoDiacritics": "Kesbewa",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1446,7 +1446,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.783333333333333,
-      "lon": 8.583333333333334
+      "lon": 79.93333333333334
     },
     "remarks": ""
   },
@@ -1457,7 +1457,7 @@
     "name": "Kilinochchi",
     "nameWoDiacritics": "Kilinochchi",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1466,7 +1466,7 @@
     "iata": "",
     "coordinates": {
       "lat": 9.4,
-      "lon": 8.033333333333333
+      "lon": 80.4
     },
     "remarks": ""
   },
@@ -1477,7 +1477,7 @@
     "name": "Kiribamuna",
     "nameWoDiacritics": "Kiribamuna",
     "subdivision": "21",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1485,7 +1485,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.583333333333333,
-      "lon": 8.033333333333333
+      "lon": 80.43333333333334
     },
     "remarks": ""
   },
@@ -1496,7 +1496,7 @@
     "name": "Koggala",
     "nameWoDiacritics": "Koggala",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -1507,7 +1507,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.983333333333333,
-      "lon": 8.033333333333333
+      "lon": 80.33333333333333
     },
     "remarks": ""
   },
@@ -1518,7 +1518,7 @@
     "name": "Kolonnawa",
     "nameWoDiacritics": "Kolonnawa",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1526,7 +1526,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.916666666666667,
-      "lon": 8.583333333333334
+      "lon": 79.88333333333334
     },
     "remarks": ""
   },
@@ -1537,7 +1537,7 @@
     "name": "Kondavattavan",
     "nameWoDiacritics": "Kondavattavan",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -1546,7 +1546,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.283333333333333,
-      "lon": 8.216666666666667
+      "lon": 81.63333333333334
     },
     "remarks": ""
   },
@@ -1557,7 +1557,7 @@
     "name": "Konwelana",
     "nameWoDiacritics": "Konwelana",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1565,7 +1565,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.233333333333333,
-      "lon": 8.183333333333334
+      "lon": 81.28333333333333
     },
     "remarks": ""
   },
@@ -1576,7 +1576,7 @@
     "name": "Kotugoda",
     "nameWoDiacritics": "Kotugoda",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1584,7 +1584,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.116666666666666,
-      "lon": 8.583333333333334
+      "lon": 79.91666666666667
     },
     "remarks": ""
   },
@@ -1595,7 +1595,7 @@
     "name": "Kuliyapitiya",
     "nameWoDiacritics": "Kuliyapitiya",
     "subdivision": "61",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1603,7 +1603,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.466666666666667,
-      "lon": 8
+      "lon": 80.05
     },
     "remarks": ""
   },
@@ -1614,7 +1614,7 @@
     "name": "Kurunegala",
     "nameWoDiacritics": "Kurunegala",
     "subdivision": "61",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -1622,7 +1622,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.483333333333333,
-      "lon": 8.033333333333333
+      "lon": 80.35
     },
     "remarks": ""
   },
@@ -1633,7 +1633,7 @@
     "name": "Lunuwila",
     "nameWoDiacritics": "Lunuwila",
     "subdivision": "62",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -1641,7 +1641,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.333333333333333,
-      "lon": 8.583333333333334
+      "lon": 79.85
     },
     "remarks": ""
   },
@@ -1652,7 +1652,7 @@
     "name": "Madurawala",
     "nameWoDiacritics": "Madurawala",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1660,7 +1660,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.633333333333333,
-      "lon": 8.066666666666666
+      "lon": 80.66666666666667
     },
     "remarks": ""
   },
@@ -1671,7 +1671,7 @@
     "name": "Mahara",
     "nameWoDiacritics": "Mahara",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1679,7 +1679,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7,
-      "lon": 8.583333333333334
+      "lon": 79.93333333333334
     },
     "remarks": ""
   },
@@ -1690,7 +1690,7 @@
     "name": "Maharagama",
     "nameWoDiacritics": "Maharagama",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1698,7 +1698,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.833333333333333,
-      "lon": 8.583333333333334
+      "lon": 79.91666666666667
     },
     "remarks": ""
   },
@@ -1709,7 +1709,7 @@
     "name": "Mahaweli",
     "nameWoDiacritics": "Mahaweli",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -1717,7 +1717,7 @@
     "iata": "",
     "coordinates": {
       "lat": 8.45,
-      "lon": 8.183333333333334
+      "lon": 81.21666666666667
     },
     "remarks": ""
   },
@@ -1728,7 +1728,7 @@
     "name": "Makola",
     "nameWoDiacritics": "Makola",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1736,7 +1736,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.966666666666667,
-      "lon": 8.583333333333334
+      "lon": 79.95
     },
     "remarks": ""
   },
@@ -1747,7 +1747,7 @@
     "name": "Malwana",
     "nameWoDiacritics": "Malwana",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1755,7 +1755,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.933333333333334,
-      "lon": 8
+      "lon": 80
     },
     "remarks": ""
   },
@@ -1766,7 +1766,7 @@
     "name": "Mannar",
     "nameWoDiacritics": "Mannar",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -1785,7 +1785,7 @@
     "name": "Matale",
     "nameWoDiacritics": "Matale",
     "subdivision": "2",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1793,7 +1793,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.466666666666667,
-      "lon": 8.05
+      "lon": 80.61666666666666
     },
     "remarks": ""
   },
@@ -1804,7 +1804,7 @@
     "name": "Matara",
     "nameWoDiacritics": "Matara",
     "subdivision": "3",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1812,7 +1812,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.933333333333334,
-      "lon": 8.05
+      "lon": 80.53333333333333
     },
     "remarks": ""
   },
@@ -1823,7 +1823,7 @@
     "name": "Mattala",
     "nameWoDiacritics": "Mattala",
     "subdivision": "33",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -1831,7 +1831,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.35,
-      "lon": 8.166666666666666
+      "lon": 81.11666666666666
     },
     "remarks": ""
   },
@@ -1842,7 +1842,7 @@
     "name": "Matugama",
     "nameWoDiacritics": "Matugama",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1850,7 +1850,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.516666666666667,
-      "lon": 8
+      "lon": 80.1
     },
     "remarks": ""
   },
@@ -1861,7 +1861,7 @@
     "name": "Mawella",
     "nameWoDiacritics": "Mawella",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -1870,7 +1870,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.983333333333333,
-      "lon": 8.066666666666666
+      "lon": 80.73333333333333
     },
     "remarks": ""
   },
@@ -1881,7 +1881,7 @@
     "name": "Millaniya",
     "nameWoDiacritics": "Millaniya",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1889,7 +1889,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.65,
-      "lon": 1.7333333333333334
+      "lon": 14.8
     },
     "remarks": ""
   },
@@ -1900,7 +1900,7 @@
     "name": "Minneriya",
     "nameWoDiacritics": "Minneriya",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1919,7 +1919,7 @@
     "name": "Minuwangoda",
     "nameWoDiacritics": "Minuwangoda",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1927,7 +1927,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.166666666666667,
-      "lon": 8.583333333333334
+      "lon": 79.95
     },
     "remarks": ""
   },
@@ -1938,7 +1938,7 @@
     "name": "Mirigama",
     "nameWoDiacritics": "Mirigama",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1946,7 +1946,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.233333333333333,
-      "lon": 8
+      "lon": 80.11666666666666
     },
     "remarks": ""
   },
@@ -1957,7 +1957,7 @@
     "name": "Monaragala",
     "nameWoDiacritics": "Monaragala",
     "subdivision": "8",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1965,7 +1965,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.866666666666667,
-      "lon": 8.2
+      "lon": 81.35
     },
     "remarks": ""
   },
@@ -1976,7 +1976,7 @@
     "name": "Moragala",
     "nameWoDiacritics": "Moragala",
     "subdivision": "12",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1984,7 +1984,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.866666666666667,
-      "lon": 8.016666666666667
+      "lon": 80.25
     },
     "remarks": ""
   },
@@ -1995,7 +1995,7 @@
     "name": "Moratuwa",
     "nameWoDiacritics": "Moratuwa",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2003,7 +2003,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.766666666666667,
-      "lon": 8.583333333333334
+      "lon": 79.86666666666666
     },
     "remarks": ""
   },
@@ -2014,7 +2014,7 @@
     "name": "Mulativu",
     "nameWoDiacritics": "Mulativu",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -2033,7 +2033,7 @@
     "name": "Mulleriyawa North",
     "nameWoDiacritics": "Mulleriyawa North",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2041,7 +2041,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.95,
-      "lon": 8.583333333333334
+      "lon": 79.93333333333334
     },
     "remarks": ""
   },
@@ -2052,7 +2052,7 @@
     "name": "Nalluruwa",
     "nameWoDiacritics": "Nalluruwa",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2060,7 +2060,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.7,
-      "lon": 8.583333333333334
+      "lon": 79.91666666666667
     },
     "remarks": ""
   },
@@ -2071,7 +2071,7 @@
     "name": "Nambapana",
     "nameWoDiacritics": "Nambapana",
     "subdivision": "91",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2079,7 +2079,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.733333333333333,
-      "lon": 8.016666666666667
+      "lon": 80.2
     },
     "remarks": ""
   },
@@ -2090,7 +2090,7 @@
     "name": "Nawala",
     "nameWoDiacritics": "Nawala",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -2109,7 +2109,7 @@
     "name": "Neboda",
     "nameWoDiacritics": "Neboda",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -2117,7 +2117,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.6,
-      "lon": 8
+      "lon": 80.08333333333333
     },
     "remarks": ""
   },
@@ -2128,7 +2128,7 @@
     "name": "Negombo",
     "nameWoDiacritics": "Negombo",
     "subdivision": "12",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2136,7 +2136,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.2,
-      "lon": 8.583333333333334
+      "lon": 79.83333333333333
     },
     "remarks": ""
   },
@@ -2147,7 +2147,7 @@
     "name": "Nittambuwa",
     "nameWoDiacritics": "Nittambuwa",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2155,7 +2155,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.15,
-      "lon": 8
+      "lon": 80.1
     },
     "remarks": ""
   },
@@ -2166,7 +2166,7 @@
     "name": "Nuwaraeliya",
     "nameWoDiacritics": "Nuwaraeliya",
     "subdivision": "2",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2174,7 +2174,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.966666666666667,
-      "lon": 8.066666666666666
+      "lon": 80.76666666666667
     },
     "remarks": ""
   },
@@ -2185,7 +2185,7 @@
     "name": "Oluvil",
     "nameWoDiacritics": "Oluvil",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -2193,7 +2193,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.283333333333333,
-      "lon": 8.25
+      "lon": 81.85
     },
     "remarks": ""
   },
@@ -2204,7 +2204,7 @@
     "name": "Orugodawatte",
     "nameWoDiacritics": "Orugodawatte",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -2212,7 +2212,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.933333333333334,
-      "lon": 8.583333333333334
+      "lon": 79.86666666666666
     },
     "remarks": ""
   },
@@ -2223,7 +2223,7 @@
     "name": "Padukka",
     "nameWoDiacritics": "Padukka",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2231,7 +2231,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.816666666666666,
-      "lon": 8.083333333333334
+      "lon": 80.91666666666667
     },
     "remarks": ""
   },
@@ -2242,7 +2242,7 @@
     "name": "Palindanuwara",
     "nameWoDiacritics": "Palindanuwara",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2250,7 +2250,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.5,
-      "lon": 8.016666666666667
+      "lon": 80.26666666666667
     },
     "remarks": ""
   },
@@ -2261,7 +2261,7 @@
     "name": "Panadura",
     "nameWoDiacritics": "Panadura",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2269,7 +2269,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.7,
-      "lon": 8.583333333333334
+      "lon": 79.9
     },
     "remarks": ""
   },
@@ -2280,7 +2280,7 @@
     "name": "Panagoda",
     "nameWoDiacritics": "Panagoda",
     "subdivision": "81",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2288,7 +2288,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.966666666666667,
-      "lon": 8.166666666666666
+      "lon": 81.13333333333334
     },
     "remarks": ""
   },
@@ -2299,7 +2299,7 @@
     "name": "Pannala",
     "nameWoDiacritics": "Pannala",
     "subdivision": "61",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2307,7 +2307,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.333333333333333,
-      "lon": 8
+      "lon": 80.03333333333333
     },
     "remarks": ""
   },
@@ -2318,7 +2318,7 @@
     "name": "Pannipitiya",
     "nameWoDiacritics": "Pannipitiya",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -2326,7 +2326,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.85,
-      "lon": 8.583333333333334
+      "lon": 79.95
     },
     "remarks": ""
   },
@@ -2337,7 +2337,7 @@
     "name": "Pattiwila",
     "nameWoDiacritics": "Pattiwila",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2345,7 +2345,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.95,
-      "lon": 8.583333333333334
+      "lon": 79.95
     },
     "remarks": ""
   },
@@ -2356,7 +2356,7 @@
     "name": "Pita Kotte",
     "nameWoDiacritics": "Pita Kotte",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -2364,7 +2364,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.883333333333333,
-      "lon": 8.583333333333334
+      "lon": 79.9
     },
     "remarks": ""
   },
@@ -2375,7 +2375,7 @@
     "name": "Point Pedro",
     "nameWoDiacritics": "Point Pedro",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -2394,7 +2394,7 @@
     "name": "Polonnaruwa",
     "nameWoDiacritics": "Polonnaruwa",
     "subdivision": "71",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2402,7 +2402,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.933333333333334,
-      "lon": 8.166666666666666
+      "lon": 81
     },
     "remarks": ""
   },
@@ -2413,7 +2413,7 @@
     "name": "Porutota",
     "nameWoDiacritics": "Porutota",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -2421,7 +2421,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.266666666666667,
-      "lon": 8.583333333333334
+      "lon": 79.85
     },
     "remarks": ""
   },
@@ -2432,7 +2432,7 @@
     "name": "Pulmoddai",
     "nameWoDiacritics": "Pulmoddai",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2451,7 +2451,7 @@
     "name": "Puttalam",
     "nameWoDiacritics": "Puttalam",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -2459,7 +2459,7 @@
     "iata": "",
     "coordinates": {
       "lat": 8.033333333333333,
-      "lon": 8.566666666666666
+      "lon": 79.81666666666666
     },
     "remarks": ""
   },
@@ -2470,7 +2470,7 @@
     "name": "Ratmalana",
     "nameWoDiacritics": "Ratmalana",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2479,7 +2479,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.816666666666666,
-      "lon": 8.583333333333334
+      "lon": 79.86666666666666
     },
     "remarks": ""
   },
@@ -2490,7 +2490,7 @@
     "name": "Ratnapura",
     "nameWoDiacritics": "Ratnapura",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2498,7 +2498,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.666666666666667,
-      "lon": 8.033333333333333
+      "lon": 80.38333333333334
     },
     "remarks": ""
   },
@@ -2509,7 +2509,7 @@
     "name": "Rawatawatta",
     "nameWoDiacritics": "Rawatawatta",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -2517,7 +2517,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.783333333333333,
-      "lon": 8.583333333333334
+      "lon": 79.88333333333334
     },
     "remarks": ""
   },
@@ -2528,7 +2528,7 @@
     "name": "Siduwa",
     "nameWoDiacritics": "Siduwa",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2536,7 +2536,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.116666666666666,
-      "lon": 8.583333333333334
+      "lon": 79.88333333333334
     },
     "remarks": ""
   },
@@ -2547,7 +2547,7 @@
     "name": "Sigiriya",
     "nameWoDiacritics": "Sigiriya",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2555,7 +2555,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.933333333333334,
-      "lon": 8.066666666666666
+      "lon": 80.71666666666667
     },
     "remarks": ""
   },
@@ -2566,7 +2566,7 @@
     "name": "Siyambalagoda",
     "nameWoDiacritics": "Siyambalagoda",
     "subdivision": "33",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2574,7 +2574,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.216666666666667,
-      "lon": 8.083333333333334
+      "lon": 80.93333333333334
     },
     "remarks": ""
   },
@@ -2585,7 +2585,7 @@
     "name": "South Asia Gateway Terminal",
     "nameWoDiacritics": "South Asia Gateway Terminal",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -2604,7 +2604,7 @@
     "name": "Sri Jayawardenapura",
     "nameWoDiacritics": "Sri Jayawardenapura",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2612,7 +2612,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.883333333333333,
-      "lon": 8.583333333333334
+      "lon": 79.86666666666666
     },
     "remarks": ""
   },
@@ -2623,7 +2623,7 @@
     "name": "Talaimannar",
     "nameWoDiacritics": "Talaimannar",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -2642,7 +2642,7 @@
     "name": "Trincomalee",
     "nameWoDiacritics": "Trincomalee",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -2662,7 +2662,7 @@
     "name": "Uhana",
     "nameWoDiacritics": "Uhana",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2670,7 +2670,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.366666666666666,
-      "lon": 8.216666666666667
+      "lon": 81.63333333333334
     },
     "remarks": ""
   },
@@ -2681,7 +2681,7 @@
     "name": "Unity Container Terminal",
     "nameWoDiacritics": "Unity Container Terminal",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -2700,7 +2700,7 @@
     "name": "Vavuniya",
     "nameWoDiacritics": "Vavuniya",
     "subdivision": "4",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2708,7 +2708,7 @@
     "iata": "",
     "coordinates": {
       "lat": 8.75,
-      "lon": 8.05
+      "lon": 80.5
     },
     "remarks": ""
   },
@@ -2719,7 +2719,7 @@
     "name": "Wadakada",
     "nameWoDiacritics": "Wadakada",
     "subdivision": "32",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2727,7 +2727,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.4,
-      "lon": 8.016666666666667
+      "lon": 80.25
     },
     "remarks": ""
   },
@@ -2738,7 +2738,7 @@
     "name": "Wadduwa",
     "nameWoDiacritics": "Wadduwa",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -2746,7 +2746,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.65,
-      "lon": 8.583333333333334
+      "lon": 79.91666666666667
     },
     "remarks": ""
   },
@@ -2757,7 +2757,7 @@
     "name": "Walallawita",
     "nameWoDiacritics": "Walallawita",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2765,7 +2765,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.366666666666666,
-      "lon": 8.016666666666667
+      "lon": 80.2
     },
     "remarks": ""
   },
@@ -2776,7 +2776,7 @@
     "name": "Walpola",
     "nameWoDiacritics": "Walpola",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -2784,7 +2784,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.966666666666667,
-      "lon": 8.016666666666667
+      "lon": 80.3
     },
     "remarks": ""
   },
@@ -2795,7 +2795,7 @@
     "name": "Wattala",
     "nameWoDiacritics": "Wattala",
     "subdivision": "12",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -2803,7 +2803,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.983333333333333,
-      "lon": 8.583333333333334
+      "lon": 79.88333333333334
     },
     "remarks": ""
   },
@@ -2814,7 +2814,7 @@
     "name": "Welisara",
     "nameWoDiacritics": "Welisara",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2822,7 +2822,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.033333333333333,
-      "lon": 8.583333333333334
+      "lon": 79.9
     },
     "remarks": ""
   },
@@ -2833,7 +2833,7 @@
     "name": "Weliweriya",
     "nameWoDiacritics": "Weliweriya",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -2841,7 +2841,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.033333333333333,
-      "lon": 8
+      "lon": 80.01666666666667
     },
     "remarks": ""
   },
@@ -2852,7 +2852,7 @@
     "name": "Wellampitiya",
     "nameWoDiacritics": "Wellampitiya",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -2871,7 +2871,7 @@
     "name": "Wirawala",
     "nameWoDiacritics": "Wirawala",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -2879,7 +2879,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.25,
-      "lon": 8.183333333333334
+      "lon": 81.23333333333333
     },
     "remarks": ""
   },
@@ -2890,7 +2890,7 @@
     "name": "Yatiyantota",
     "nameWoDiacritics": "Yatiyantota",
     "subdivision": "92",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2898,7 +2898,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.016666666666667,
-      "lon": 8.016666666666667
+      "lon": 80.3
     },
     "remarks": ""
   }

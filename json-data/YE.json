@@ -6,7 +6,7 @@
     "name": ".YEMEN",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Abbse",
     "nameWoDiacritics": "Abbse",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -42,7 +42,7 @@
     "name": "'Adan",
     "nameWoDiacritics": "'Adan",
     "subdivision": "AD",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -50,7 +50,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.766666666666667,
-      "lon": 4.833333333333333
+      "lon": 45.03333333333333
     },
     "remarks": ""
   },
@@ -61,7 +61,7 @@
     "name": "Aden",
     "nameWoDiacritics": "Aden",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -82,7 +82,7 @@
     "name": "Ahwar",
     "nameWoDiacritics": "Ahwar",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -101,7 +101,7 @@
     "name": "Al Ghaydah",
     "nameWoDiacritics": "Al Ghaydah",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -120,7 +120,7 @@
     "name": "Al Mukalla",
     "nameWoDiacritics": "Al Mukalla",
     "subdivision": "HD",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -128,7 +128,7 @@
     "iata": "",
     "coordinates": {
       "lat": 14.516666666666667,
-      "lon": 5.5
+      "lon": 49.11666666666667
     },
     "remarks": ""
   },
@@ -139,7 +139,7 @@
     "name": "Albuq",
     "nameWoDiacritics": "Albuq",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -147,7 +147,7 @@
     "iata": "",
     "coordinates": {
       "lat": 15.833333333333334,
-      "lon": 4.566666666666666
+      "lon": 43.766666666666666
     },
     "remarks": ""
   },
@@ -158,7 +158,7 @@
     "name": "Aljouf",
     "nameWoDiacritics": "Aljouf",
     "subdivision": "AB",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -166,7 +166,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.833333333333334,
-      "lon": 4.916666666666667
+      "lon": 45.833333333333336
     },
     "remarks": ""
   },
@@ -177,7 +177,7 @@
     "name": "Ash Shihr",
     "nameWoDiacritics": "Ash Shihr",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -196,7 +196,7 @@
     "name": "Ataq",
     "nameWoDiacritics": "Ataq",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -215,7 +215,7 @@
     "name": "Balhaf",
     "nameWoDiacritics": "Balhaf",
     "subdivision": "SH",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -223,7 +223,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.966666666666667,
-      "lon": 5.35
+      "lon": 48.18333333333333
     },
     "remarks": ""
   },
@@ -234,7 +234,7 @@
     "name": "Beidah",
     "nameWoDiacritics": "Beidah",
     "subdivision": "BA",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -242,7 +242,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.983333333333333,
-      "lon": 4.883333333333333
+      "lon": 45.56666666666667
     },
     "remarks": ""
   },
@@ -253,7 +253,7 @@
     "name": "Beihan",
     "nameWoDiacritics": "Beihan",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -272,7 +272,7 @@
     "name": "Bogoa",
     "nameWoDiacritics": "Bogoa",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       2
     ],
@@ -291,7 +291,7 @@
     "name": "Dathina",
     "nameWoDiacritics": "Dathina",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -310,7 +310,7 @@
     "name": "Dhala",
     "nameWoDiacritics": "Dhala",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -329,7 +329,7 @@
     "name": "Dhamar",
     "nameWoDiacritics": "Dhamar",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -348,7 +348,7 @@
     "name": "El Katieb",
     "nameWoDiacritics": "El Katieb",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -367,7 +367,7 @@
     "name": "Harad",
     "nameWoDiacritics": "Harad",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -386,7 +386,7 @@
     "name": "Haura",
     "nameWoDiacritics": "Haura",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -405,7 +405,7 @@
     "name": "Hodeidah",
     "nameWoDiacritics": "Hodeidah",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -415,7 +415,7 @@
     "iata": "",
     "coordinates": {
       "lat": 14.833333333333334,
-      "lon": 4.416666666666667
+      "lon": 42.9
     },
     "remarks": ""
   },
@@ -426,7 +426,7 @@
     "name": "Ibb",
     "nameWoDiacritics": "Ibb",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -445,7 +445,7 @@
     "name": "Kamaran",
     "nameWoDiacritics": "Kamaran",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -464,7 +464,7 @@
     "name": "Khokha",
     "nameWoDiacritics": "Khokha",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -483,7 +483,7 @@
     "name": "Lahj",
     "nameWoDiacritics": "Lahj",
     "subdivision": "LA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -491,7 +491,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.05,
-      "lon": 4.75
+      "lon": 44.88333333333333
     },
     "remarks": ""
   },
@@ -502,7 +502,7 @@
     "name": "Lawdar",
     "nameWoDiacritics": "Lawdar",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -521,7 +521,7 @@
     "name": "Little Aden",
     "nameWoDiacritics": "Little Aden",
     "subdivision": "AD",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -530,7 +530,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.733333333333333,
-      "lon": 4.75
+      "lon": 44.86666666666667
     },
     "remarks": ""
   },
@@ -541,7 +541,7 @@
     "name": "Lodar",
     "nameWoDiacritics": "Lodar",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -560,7 +560,7 @@
     "name": "Loheiya",
     "nameWoDiacritics": "Loheiya",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -579,7 +579,7 @@
     "name": "Ma'allah",
     "nameWoDiacritics": "Ma'allah",
     "subdivision": "AD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -587,7 +587,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.783333333333333,
-      "lon": 4.833333333333333
+      "lon": 45
     },
     "remarks": ""
   },
@@ -598,7 +598,7 @@
     "name": "Mareb",
     "nameWoDiacritics": "Mareb",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -619,7 +619,7 @@
     "name": "Mayfa'ah",
     "nameWoDiacritics": "Mayfa'ah",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -638,7 +638,7 @@
     "name": "Mokha",
     "nameWoDiacritics": "Mokha",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -657,7 +657,7 @@
     "name": "Mukalla",
     "nameWoDiacritics": "Mukalla",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -677,7 +677,7 @@
     "name": "Mukeiras",
     "nameWoDiacritics": "Mukeiras",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -696,7 +696,7 @@
     "name": "Nishtun",
     "nameWoDiacritics": "Nishtun",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -715,7 +715,7 @@
     "name": "Perim Island",
     "nameWoDiacritics": "Perim Island",
     "subdivision": "TA",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -723,7 +723,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.65,
-      "lon": 4.533333333333333
+      "lon": 43.416666666666664
     },
     "remarks": ""
   },
@@ -734,7 +734,7 @@
     "name": "Qishn",
     "nameWoDiacritics": "Qishn",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -753,7 +753,7 @@
     "name": "Ras Al Kalib",
     "nameWoDiacritics": "Ras Al Kalib",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -772,7 +772,7 @@
     "name": "Ras Isa Terminal",
     "nameWoDiacritics": "Ras Isa Terminal",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -780,7 +780,7 @@
     "iata": "",
     "coordinates": {
       "lat": 15.2,
-      "lon": 4.4
+      "lon": 42.666666666666664
     },
     "remarks": ""
   },
@@ -791,7 +791,7 @@
     "name": "Raudha",
     "nameWoDiacritics": "Raudha",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -810,7 +810,7 @@
     "name": "Riyan Mukalla",
     "nameWoDiacritics": "Riyan Mukalla",
     "subdivision": "HD",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -818,7 +818,7 @@
     "iata": "",
     "coordinates": {
       "lat": 14.65,
-      "lon": 5.533333333333333
+      "lon": 49.333333333333336
     },
     "remarks": ""
   },
@@ -829,7 +829,7 @@
     "name": "Sadah",
     "nameWoDiacritics": "Sadah",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -850,7 +850,7 @@
     "name": "Saleef Port",
     "nameWoDiacritics": "Saleef Port",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -869,7 +869,7 @@
     "name": "Sana'a",
     "nameWoDiacritics": "Sana'a",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -888,7 +888,7 @@
     "name": "Seiyun",
     "nameWoDiacritics": "Seiyun",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -907,7 +907,7 @@
     "name": "Suqutr�",
     "nameWoDiacritics": "Suqutra",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -916,7 +916,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.5,
-      "lon": 5.666666666666667
+      "lon": 54
     },
     "remarks": ""
   },
@@ -927,7 +927,7 @@
     "name": "Taiz",
     "nameWoDiacritics": "Taiz",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -946,7 +946,7 @@
     "name": "Wadi Ain",
     "nameWoDiacritics": "Wadi Ain",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -954,7 +954,7 @@
     "iata": "",
     "coordinates": {
       "lat": 14.866666666666667,
-      "lon": 4.883333333333333
+      "lon": 45.53333333333333
     },
     "remarks": ""
   }

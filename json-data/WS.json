@@ -6,7 +6,7 @@
     "name": ".SAMOA",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Apia",
     "nameWoDiacritics": "Apia",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -44,7 +44,7 @@
     "name": "Asau",
     "nameWoDiacritics": "Asau",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -64,7 +64,7 @@
     "name": "Fagali'i Airport",
     "nameWoDiacritics": "Fagali'i Airport",
     "subdivision": "TU",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -72,7 +72,7 @@
     "iata": "",
     "coordinates": {
       "lat": -14.166666666666666,
-      "lon": 17.233333333333334
+      "lon": -171.66666666666666
     },
     "remarks": ""
   },
@@ -83,7 +83,7 @@
     "name": "Lalomalava",
     "nameWoDiacritics": "Lalomalava",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -102,7 +102,7 @@
     "name": "Maota Savaii Is",
     "nameWoDiacritics": "Maota Savaii Is",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -121,7 +121,7 @@
     "name": "Salelologa",
     "nameWoDiacritics": "Salelologa",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -140,7 +140,7 @@
     "name": "Savaii",
     "nameWoDiacritics": "Savaii",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],

@@ -6,7 +6,7 @@
     "name": "\".SAINT HELENA",
     "nameWoDiacritics": " ASCENSION AND TRISTAN DA CUNHA\"",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Ascension",
     "nameWoDiacritics": "Ascension",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": -7.95,
-      "lon": 1.7
+      "lon": -14.35
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Georgetown",
     "nameWoDiacritics": "Georgetown",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -62,7 +62,7 @@
     "name": "Jamestown",
     "nameWoDiacritics": "Jamestown",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -81,7 +81,7 @@
     "name": "Levelwood",
     "nameWoDiacritics": "Levelwood",
     "subdivision": "HL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -89,7 +89,7 @@
     "iata": "",
     "coordinates": {
       "lat": -15.133333333333333,
-      "lon": 0.9
+      "lon": -5.683333333333334
     },
     "remarks": ""
   },
@@ -100,7 +100,7 @@
     "name": "Rupert's Bay",
     "nameWoDiacritics": "Rupert's Bay",
     "subdivision": "HL",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
@@ -108,7 +108,7 @@
     "iata": "",
     "coordinates": {
       "lat": -15.916666666666666,
-      "lon": 0.9
+      "lon": -5.7
     },
     "remarks": ""
   },
@@ -119,7 +119,7 @@
     "name": "Tristan da Cunha",
     "nameWoDiacritics": "Tristan da Cunha",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       4

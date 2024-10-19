@@ -2,6 +2,7 @@
   {
     "country": "BN",
     "name": ".BRUNEI DARUSSALAM",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -14,7 +15,7 @@
     "name": "Bandar Seri Begawan",
     "nameWoDiacritics": "Bandar Seri Begawan",
     "subdivision": "BM",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -24,7 +25,7 @@
     "date": 1601,
     "coordinates": {
       "lat": 4.883333333333333,
-      "lon": 11.75
+      "lon": 114.93333333333334
     }
   },
   {
@@ -33,14 +34,14 @@
     "name": "Bangar",
     "nameWoDiacritics": "Bangar",
     "subdivision": "TE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1907,
     "coordinates": {
       "lat": 4.716666666666667,
-      "lon": 11.9
+      "lon": 115.66666666666667
     }
   },
   {
@@ -48,7 +49,7 @@
     "location": "KUB",
     "name": "Kuala Belait",
     "nameWoDiacritics": "Kuala Belait",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -64,7 +65,7 @@
     "location": "LUM",
     "name": "Lumut",
     "nameWoDiacritics": "Lumut",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -79,7 +80,7 @@
     "location": "MUA",
     "name": "Muara",
     "nameWoDiacritics": "Muara",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -94,7 +95,7 @@
     "location": "SER",
     "name": "Seria",
     "nameWoDiacritics": "Seria",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -109,7 +110,7 @@
     "location": "TAS",
     "name": "Tanjong Salirong",
     "nameWoDiacritics": "Tanjong Salirong",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -125,14 +126,14 @@
     "name": "Tutong",
     "nameWoDiacritics": "Tutong",
     "subdivision": "TU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1907,
     "coordinates": {
       "lat": 4.8,
-      "lon": 11.716666666666667
+      "lon": 114.65
     }
   }
 ]

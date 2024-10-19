@@ -6,7 +6,7 @@
     "name": ".SOUTH SUDAN",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Aweil",
     "nameWoDiacritics": "Aweil",
     "subdivision": "BN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": 8.766666666666667,
-      "lon": 3.2
+      "lon": 27.383333333333333
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Bentiu Town",
     "nameWoDiacritics": "Bentiu Town",
     "subdivision": "UY",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -50,7 +50,7 @@
     "iata": "",
     "coordinates": {
       "lat": 9.266666666666667,
-      "lon": 3.5666666666666664
+      "lon": 29.783333333333335
     },
     "remarks": ""
   },
@@ -61,7 +61,7 @@
     "name": "Boma",
     "nameWoDiacritics": "Boma",
     "subdivision": "JG",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -69,7 +69,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.166666666666667,
-      "lon": 3.7
+      "lon": 34.46666666666667
     },
     "remarks": ""
   },
@@ -80,7 +80,7 @@
     "name": "Bor",
     "nameWoDiacritics": "Bor",
     "subdivision": "JG",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -88,7 +88,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.666666666666667,
-      "lon": 3.55
+      "lon": 33.63333333333333
     },
     "remarks": ""
   },
@@ -99,7 +99,7 @@
     "name": "Juba",
     "nameWoDiacritics": "Juba",
     "subdivision": "EC",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -108,7 +108,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.85,
-      "lon": 3.216666666666667
+      "lon": 31.616666666666667
     },
     "remarks": ""
   },
@@ -119,7 +119,7 @@
     "name": "Kajo Keji",
     "nameWoDiacritics": "Kajo Keji",
     "subdivision": "EC",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -127,7 +127,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.8333333333333335,
-      "lon": 3.216666666666667
+      "lon": 31.65
     },
     "remarks": ""
   },
@@ -138,7 +138,7 @@
     "name": "Kaya",
     "nameWoDiacritics": "Kaya",
     "subdivision": "EC",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -146,7 +146,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.55,
-      "lon": 3.0833333333333335
+      "lon": 30.866666666666667
     },
     "remarks": ""
   },
@@ -157,7 +157,7 @@
     "name": "Malakal",
     "nameWoDiacritics": "Malakal",
     "subdivision": "NU",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -166,7 +166,7 @@
     "iata": "",
     "coordinates": {
       "lat": 9.533333333333333,
-      "lon": 3.216666666666667
+      "lon": 31.65
     },
     "remarks": ""
   },
@@ -177,7 +177,7 @@
     "name": "Nimule",
     "nameWoDiacritics": "Nimule",
     "subdivision": "EE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -185,7 +185,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.6,
-      "lon": 3.3333333333333335
+      "lon": 32.05
     },
     "remarks": ""
   },
@@ -196,7 +196,7 @@
     "name": "Raga",
     "nameWoDiacritics": "Raga",
     "subdivision": "BW",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -204,7 +204,7 @@
     "iata": "",
     "coordinates": {
       "lat": 8.45,
-      "lon": 2.9
+      "lon": 25.666666666666668
     },
     "remarks": ""
   },
@@ -215,7 +215,7 @@
     "name": "Rumbek",
     "nameWoDiacritics": "Rumbek",
     "subdivision": "LK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -223,7 +223,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.8,
-      "lon": 3.5666666666666664
+      "lon": 29.7
     },
     "remarks": ""
   },
@@ -234,7 +234,7 @@
     "name": "Rumbek",
     "nameWoDiacritics": "Rumbek",
     "subdivision": "LK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -242,7 +242,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.8,
-      "lon": 3.5666666666666664
+      "lon": 29.683333333333334
     },
     "remarks": ""
   },
@@ -253,7 +253,7 @@
     "name": "Tonj",
     "nameWoDiacritics": "Tonj",
     "subdivision": "WR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -261,7 +261,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.266666666666667,
-      "lon": 3.4
+      "lon": 28.75
     },
     "remarks": ""
   },
@@ -272,7 +272,7 @@
     "name": "Torit",
     "nameWoDiacritics": "Torit",
     "subdivision": "EE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -280,7 +280,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.4,
-      "lon": 3.3833333333333333
+      "lon": 32.56666666666667
     },
     "remarks": ""
   },
@@ -291,7 +291,7 @@
     "name": "Warrap",
     "nameWoDiacritics": "Warrap",
     "subdivision": "WR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -299,7 +299,7 @@
     "iata": "",
     "coordinates": {
       "lat": 8,
-      "lon": 3.416666666666667
+      "lon": 28.85
     },
     "remarks": ""
   },
@@ -310,7 +310,7 @@
     "name": "Wau",
     "nameWoDiacritics": "Wau",
     "subdivision": "BW",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -319,7 +319,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.7,
-      "lon": 3.333333333333333
+      "lon": 28
     },
     "remarks": ""
   },
@@ -330,7 +330,7 @@
     "name": "Yambio",
     "nameWoDiacritics": "Yambio",
     "subdivision": "EW",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -338,7 +338,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.566666666666666,
-      "lon": 3.3666666666666667
+      "lon": 28.383333333333333
     },
     "remarks": ""
   },
@@ -349,7 +349,7 @@
     "name": "Yida",
     "nameWoDiacritics": "Yida",
     "subdivision": "UY",
-    "status": "AM",
+    "status": 4,
     "function": [
       2,
       3
@@ -358,7 +358,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.1,
-      "lon": 3
+      "lon": 30.083333333333332
     },
     "remarks": ""
   }

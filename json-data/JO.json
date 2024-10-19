@@ -6,7 +6,7 @@
     "name": ".JORDAN",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Abu Alandah",
     "nameWoDiacritics": "Abu Alandah",
     "subdivision": "AM",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -32,7 +32,7 @@
     "iata": "",
     "coordinates": {
       "lat": 31.9,
-      "lon": 3.9166666666666665
+      "lon": 35.96666666666667
     },
     "remarks": ""
   },
@@ -43,7 +43,7 @@
     "name": "Ad-Dulayl",
     "nameWoDiacritics": "Ad-Dulayl",
     "subdivision": "AZ",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -51,7 +51,7 @@
     "iata": "",
     "coordinates": {
       "lat": 32.11666666666667,
-      "lon": 4.016666666666667
+      "lon": 36.266666666666666
     },
     "remarks": ""
   },
@@ -62,7 +62,7 @@
     "name": "Ajloun",
     "nameWoDiacritics": "Ajloun",
     "subdivision": "AJ",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -70,7 +70,7 @@
     "iata": "",
     "coordinates": {
       "lat": 32.333333333333336,
-      "lon": 3.9
+      "lon": 35.71666666666667
     },
     "remarks": ""
   },
@@ -81,7 +81,7 @@
     "name": "Al 'Aqabah",
     "nameWoDiacritics": "Al 'Aqabah",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       3
@@ -90,7 +90,7 @@
     "iata": "",
     "coordinates": {
       "lat": 29.533333333333335,
-      "lon": 3.8333333333333335
+      "lon": 35
     },
     "remarks": ""
   },
@@ -101,7 +101,7 @@
     "name": "Al Azraq",
     "nameWoDiacritics": "Al Azraq",
     "subdivision": "AZ",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -109,7 +109,7 @@
     "iata": "",
     "coordinates": {
       "lat": 31.9,
-      "lon": 4.083333333333333
+      "lon": 36.88333333333333
     },
     "remarks": ""
   },
@@ -120,7 +120,7 @@
     "name": "Al Fuhays",
     "nameWoDiacritics": "Al Fuhays",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -128,7 +128,7 @@
     "iata": "",
     "coordinates": {
       "lat": 32.016666666666666,
-      "lon": 3.9
+      "lon": 35.766666666666666
     },
     "remarks": ""
   },
@@ -139,7 +139,7 @@
     "name": "Al Jizah",
     "nameWoDiacritics": "Al Jizah",
     "subdivision": "AM",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -147,7 +147,7 @@
     "iata": "",
     "coordinates": {
       "lat": 31.7,
-      "lon": 3.9166666666666665
+      "lon": 35.95
     },
     "remarks": ""
   },
@@ -158,7 +158,7 @@
     "name": "Al Salt",
     "nameWoDiacritics": "Al Salt",
     "subdivision": "BA",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -166,7 +166,7 @@
     "iata": "",
     "coordinates": {
       "lat": 32.016666666666666,
-      "lon": 3.9
+      "lon": 35.71666666666667
     },
     "remarks": ""
   },
@@ -177,7 +177,7 @@
     "name": "Al-Karak",
     "nameWoDiacritics": "Al-Karak",
     "subdivision": "KA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -185,7 +185,7 @@
     "iata": "",
     "coordinates": {
       "lat": 31.183333333333334,
-      "lon": 3.9
+      "lon": 35.7
     },
     "remarks": ""
   },
@@ -196,7 +196,7 @@
     "name": "Amman",
     "nameWoDiacritics": "Amman",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -216,7 +216,7 @@
     "name": "'Aqaba",
     "nameWoDiacritics": "'Aqaba",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -225,7 +225,7 @@
     "iata": "",
     "coordinates": {
       "lat": 29.516666666666666,
-      "lon": 3.8333333333333335
+      "lon": 35
     },
     "remarks": ""
   },
@@ -236,7 +236,7 @@
     "name": "Ar Ramtha",
     "nameWoDiacritics": "Ar Ramtha",
     "subdivision": "IR",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -244,7 +244,7 @@
     "iata": "",
     "coordinates": {
       "lat": 32.55,
-      "lon": 4
+      "lon": 36
     },
     "remarks": ""
   },
@@ -255,7 +255,7 @@
     "name": "As Safi",
     "nameWoDiacritics": "As Safi",
     "subdivision": "KA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -263,7 +263,7 @@
     "iata": "",
     "coordinates": {
       "lat": 31.033333333333335,
-      "lon": 3.8666666666666667
+      "lon": 35.46666666666667
     },
     "remarks": ""
   },
@@ -274,7 +274,7 @@
     "name": "As Samra'",
     "nameWoDiacritics": "As Samra'",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -282,7 +282,7 @@
     "iata": "",
     "coordinates": {
       "lat": 31.366666666666667,
-      "lon": 3.9
+      "lon": 35.75
     },
     "remarks": ""
   },
@@ -293,7 +293,7 @@
     "name": "At Tafilah",
     "nameWoDiacritics": "At Tafilah",
     "subdivision": "AT",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -301,7 +301,7 @@
     "iata": "",
     "coordinates": {
       "lat": 30.833333333333332,
-      "lon": 3.8833333333333333
+      "lon": 35.6
     },
     "remarks": ""
   },
@@ -312,7 +312,7 @@
     "name": "Az Zarqa'",
     "nameWoDiacritics": "Az Zarqa'",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -320,7 +320,7 @@
     "iata": "QZA",
     "coordinates": {
       "lat": 32.083333333333336,
-      "lon": 4
+      "lon": 36.1
     },
     "remarks": ""
   },
@@ -331,7 +331,7 @@
     "name": "Irbid",
     "nameWoDiacritics": "Irbid",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2
     ],
@@ -350,7 +350,7 @@
     "name": "Jerash",
     "nameWoDiacritics": "Jerash",
     "subdivision": "JA",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -358,7 +358,7 @@
     "iata": "",
     "coordinates": {
       "lat": 32.266666666666666,
-      "lon": 3.9166666666666665
+      "lon": 35.88333333333333
     },
     "remarks": ""
   },
@@ -369,7 +369,7 @@
     "name": "King Hussein Bridge",
     "nameWoDiacritics": "King Hussein Bridge",
     "subdivision": "BA",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -377,7 +377,7 @@
     "iata": "",
     "coordinates": {
       "lat": 31.866666666666667,
-      "lon": 3.8833333333333333
+      "lon": 35.53333333333333
     },
     "remarks": "BORDER"
   },
@@ -388,7 +388,7 @@
     "name": "Ma'an",
     "nameWoDiacritics": "Ma'an",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -396,7 +396,7 @@
     "iata": "",
     "coordinates": {
       "lat": 30.2,
-      "lon": 3.9
+      "lon": 35.733333333333334
     },
     "remarks": ""
   },
@@ -407,7 +407,7 @@
     "name": "Madaba",
     "nameWoDiacritics": "Madaba",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -415,7 +415,7 @@
     "iata": "",
     "coordinates": {
       "lat": 31.716666666666665,
-      "lon": 3.9
+      "lon": 35.8
     },
     "remarks": ""
   },
@@ -426,7 +426,7 @@
     "name": "Mafruq",
     "nameWoDiacritics": "Mafruq",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -434,7 +434,7 @@
     "iata": "",
     "coordinates": {
       "lat": 32.333333333333336,
-      "lon": 4.016666666666667
+      "lon": 36.233333333333334
     },
     "remarks": ""
   },
@@ -445,7 +445,7 @@
     "name": "Prince Hasan Air Base",
     "nameWoDiacritics": "Prince Hasan Air Base",
     "subdivision": "MA",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2,
       3
@@ -454,7 +454,7 @@
     "iata": "",
     "coordinates": {
       "lat": 32.166666666666664,
-      "lon": 4.166666666666667
+      "lon": 37.15
     },
     "remarks": ""
   },
@@ -465,7 +465,7 @@
     "name": "Qir Moav",
     "nameWoDiacritics": "Qir Moav",
     "subdivision": "KA",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -473,7 +473,7 @@
     "iata": "",
     "coordinates": {
       "lat": 31.183333333333334,
-      "lon": 3.9
+      "lon": 35.7
     },
     "remarks": ""
   },
@@ -484,7 +484,7 @@
     "name": "Sahab",
     "nameWoDiacritics": "Sahab",
     "subdivision": "AM",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -492,7 +492,7 @@
     "iata": "",
     "coordinates": {
       "lat": 31.866666666666667,
-      "lon": 4
+      "lon": 36
     },
     "remarks": ""
   },
@@ -503,7 +503,7 @@
     "name": "Sheikh Hussein Bridge",
     "nameWoDiacritics": "Sheikh Hussein Bridge",
     "subdivision": "IR",
-    "status": "RL",
+    "status": 7,
     "function": [
       7
     ],
@@ -511,7 +511,7 @@
     "iata": "",
     "coordinates": {
       "lat": 32.483333333333334,
-      "lon": 3.8833333333333333
+      "lon": 35.56666666666667
     },
     "remarks": ""
   },
@@ -522,7 +522,7 @@
     "name": "Shoubak",
     "nameWoDiacritics": "Shoubak",
     "subdivision": "MN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -530,7 +530,7 @@
     "iata": "",
     "coordinates": {
       "lat": 30.516666666666666,
-      "lon": 3.8833333333333333
+      "lon": 35.55
     },
     "remarks": ""
   },
@@ -541,7 +541,7 @@
     "name": "Zarka Free Zone",
     "nameWoDiacritics": "Zarka Free Zone",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -549,7 +549,7 @@
     "iata": "",
     "coordinates": {
       "lat": 32.083333333333336,
-      "lon": 4
+      "lon": 36.1
     },
     "remarks": ""
   }

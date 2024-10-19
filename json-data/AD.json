@@ -2,6 +2,7 @@
   {
     "country": "AD",
     "name": ".ANDORRA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "ALV",
     "name": "Andorra la Vella",
     "nameWoDiacritics": "Andorra la Vella",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3,
@@ -22,7 +23,7 @@
     "date": 601,
     "coordinates": {
       "lat": 42.5,
-      "lon": 0.21666666666666667
+      "lon": 1.5166666666666666
     }
   },
   {
@@ -30,14 +31,14 @@
     "location": "CAN",
     "name": "Canillo",
     "nameWoDiacritics": "Canillo",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 42.56666666666667,
-      "lon": 0.21666666666666667
+      "lon": 1.5833333333333335
     }
   },
   {
@@ -45,14 +46,14 @@
     "location": "ENC",
     "name": "Encamp",
     "nameWoDiacritics": "Encamp",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 42.53333333333333,
-      "lon": 0.21666666666666667
+      "lon": 1.5666666666666667
     }
   },
   {
@@ -60,14 +61,14 @@
     "location": "ESC",
     "name": "Escaldes-Engordany",
     "nameWoDiacritics": "Escaldes-Engordany",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 42.516666666666666,
-      "lon": 0.21666666666666667
+      "lon": 1.55
     }
   },
   {
@@ -76,14 +77,14 @@
     "name": "Esc‡s",
     "nameWoDiacritics": "Escas",
     "subdivision": 4,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 42.55,
-      "lon": 0.21666666666666667
+      "lon": 1.5166666666666666
     }
   },
   {
@@ -91,7 +92,7 @@
     "location": "FMO",
     "name": "La Farga de Moles",
     "nameWoDiacritics": "La Farga de Moles",
-    "status": "RQ",
+    "status": 9,
     "function": [],
     "date": 307,
     "coordinates": {
@@ -104,14 +105,14 @@
     "location": "LMA",
     "name": "La Massana",
     "nameWoDiacritics": "La Massana",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 42.56666666666667,
-      "lon": 0.2
+      "lon": 1.4833333333333334
     }
   },
   {
@@ -119,14 +120,14 @@
     "location": "ORD",
     "name": "Ordino",
     "nameWoDiacritics": "Ordino",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 42.55,
-      "lon": 0.21666666666666667
+      "lon": 1.5166666666666666
     }
   },
   {
@@ -134,12 +135,12 @@
     "location": "PAS",
     "name": "Pas de la Casa",
     "nameWoDiacritics": "Pas de la Casa",
-    "status": "RL",
+    "status": 7,
     "function": [],
     "date": 307,
     "coordinates": {
       "lat": 42.55,
-      "lon": 0.23333333333333334
+      "lon": 1.7333333333333334
     }
   },
   {
@@ -147,14 +148,14 @@
     "location": "SJL",
     "name": "Sant Juli‡ de LÚria",
     "nameWoDiacritics": "Sant Julia de Loria",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 42.46666666666667,
-      "lon": 0.21666666666666667
+      "lon": 1.5
     }
   },
   {
@@ -162,14 +163,14 @@
     "location": "SCO",
     "name": "Santa Coloma",
     "nameWoDiacritics": "Santa Coloma",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 42.5,
-      "lon": 0.21666666666666667
+      "lon": 1.5
     }
   }
 ]

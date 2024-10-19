@@ -6,7 +6,7 @@
     "name": ".SAINT PIERRE AND MIQUELON",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Miquelon",
     "nameWoDiacritics": "Miquelon",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.1,
-      "lon": 6.033333333333333
+      "lon": -56.38333333333333
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Saint-Pierre",
     "nameWoDiacritics": "Saint-Pierre",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -52,7 +52,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.766666666666666,
-      "lon": 6.016666666666667
+      "lon": -56.166666666666664
     },
     "remarks": ""
   }

@@ -6,7 +6,7 @@
     "name": ".KIRIBATI",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Abaiang",
     "nameWoDiacritics": "Abaiang",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -42,7 +42,7 @@
     "name": "Abemama",
     "nameWoDiacritics": "Abemama",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -61,7 +61,7 @@
     "name": "Aranuka",
     "nameWoDiacritics": "Aranuka",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -80,7 +80,7 @@
     "name": "Arorae Island",
     "nameWoDiacritics": "Arorae Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -99,7 +99,7 @@
     "name": "Beru",
     "nameWoDiacritics": "Beru",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -118,7 +118,7 @@
     "name": "Birnie Island",
     "nameWoDiacritics": "Birnie Island",
     "subdivision": "P",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -126,7 +126,7 @@
     "iata": "",
     "coordinates": {
       "lat": -3.5833333333333335,
-      "lon": 17.216666666666665
+      "lon": -171.51666666666668
     },
     "remarks": ""
   },
@@ -137,7 +137,7 @@
     "name": "Butaritari",
     "nameWoDiacritics": "Butaritari",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -156,7 +156,7 @@
     "name": "Canton Island",
     "nameWoDiacritics": "Canton Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -175,7 +175,7 @@
     "name": "Christmas Island",
     "nameWoDiacritics": "Christmas Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -194,7 +194,7 @@
     "name": "Enderbury Island",
     "nameWoDiacritics": "Enderbury Island",
     "subdivision": "P",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -202,7 +202,7 @@
     "iata": "",
     "coordinates": {
       "lat": -3.15,
-      "lon": 17.166666666666668
+      "lon": -171.08333333333334
     },
     "remarks": ""
   },
@@ -213,7 +213,7 @@
     "name": "Fanning Islands",
     "nameWoDiacritics": "Fanning Islands",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -232,7 +232,7 @@
     "name": "Hull Island",
     "nameWoDiacritics": "Hull Island",
     "subdivision": "P",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -240,7 +240,7 @@
     "iata": "",
     "coordinates": {
       "lat": -4.516666666666667,
-      "lon": 17.35
+      "lon": -172.18333333333334
     },
     "remarks": ""
   },
@@ -251,7 +251,7 @@
     "name": "Kuria",
     "nameWoDiacritics": "Kuria",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -270,7 +270,7 @@
     "name": "Maiana",
     "nameWoDiacritics": "Maiana",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -289,7 +289,7 @@
     "name": "Makin Island",
     "nameWoDiacritics": "Makin Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -308,7 +308,7 @@
     "name": "Marakei",
     "nameWoDiacritics": "Marakei",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -327,7 +327,7 @@
     "name": "Mckean Island",
     "nameWoDiacritics": "Mckean Island",
     "subdivision": "P",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -335,7 +335,7 @@
     "iata": "",
     "coordinates": {
       "lat": -3.5833333333333335,
-      "lon": 17.666666666666668
+      "lon": -174.11666666666667
     },
     "remarks": ""
   },
@@ -346,7 +346,7 @@
     "name": "Nikumaroro",
     "nameWoDiacritics": "Nikumaroro",
     "subdivision": "P",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -354,7 +354,7 @@
     "iata": "",
     "coordinates": {
       "lat": -4.683333333333334,
-      "lon": 17.716666666666665
+      "lon": -174.51666666666668
     },
     "remarks": ""
   },
@@ -365,7 +365,7 @@
     "name": "Nikunau",
     "nameWoDiacritics": "Nikunau",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -384,7 +384,7 @@
     "name": "Nonouti",
     "nameWoDiacritics": "Nonouti",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -403,7 +403,7 @@
     "name": "Onotoa",
     "nameWoDiacritics": "Onotoa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -422,7 +422,7 @@
     "name": "Phoenix Islands",
     "nameWoDiacritics": "Phoenix Islands",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -441,7 +441,7 @@
     "name": "Sydney Island",
     "nameWoDiacritics": "Sydney Island",
     "subdivision": "P",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -449,7 +449,7 @@
     "iata": "",
     "coordinates": {
       "lat": -4.466666666666667,
-      "lon": 17.183333333333334
+      "lon": -171.25
     },
     "remarks": ""
   },
@@ -460,7 +460,7 @@
     "name": "Tabiteuea North",
     "nameWoDiacritics": "Tabiteuea North",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -479,7 +479,7 @@
     "name": "Tabiteuea South",
     "nameWoDiacritics": "Tabiteuea South",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -498,7 +498,7 @@
     "name": "Tabuaeran",
     "nameWoDiacritics": "Tabuaeran",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -517,7 +517,7 @@
     "name": "Tamana Island",
     "nameWoDiacritics": "Tamana Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -536,7 +536,7 @@
     "name": "Tarawa",
     "nameWoDiacritics": "Tarawa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -556,7 +556,7 @@
     "name": "Teraina",
     "nameWoDiacritics": "Teraina",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -575,7 +575,7 @@
     "name": "Washington Islands",
     "nameWoDiacritics": "Washington Islands",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],

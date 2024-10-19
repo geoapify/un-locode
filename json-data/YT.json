@@ -6,7 +6,7 @@
     "name": ".MAYOTTE",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Bandrele",
     "nameWoDiacritics": "Bandrele",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -32,7 +32,7 @@
     "iata": "",
     "coordinates": {
       "lat": -12.9,
-      "lon": 4.85
+      "lon": 45.166666666666664
     },
     "remarks": ""
   },
@@ -43,7 +43,7 @@
     "name": "Bou�ni",
     "nameWoDiacritics": "Boueni",
     "subdivision": "",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -51,7 +51,7 @@
     "iata": "",
     "coordinates": {
       "lat": -12.933333333333334,
-      "lon": 4.833333333333333
+      "lon": 45.11666666666667
     },
     "remarks": "Coordinates modified"
   },
@@ -62,7 +62,7 @@
     "name": "Chiconi",
     "nameWoDiacritics": "Chiconi",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -70,7 +70,7 @@
     "iata": "",
     "coordinates": {
       "lat": -12.833333333333334,
-      "lon": 4.833333333333333
+      "lon": 45.11666666666667
     },
     "remarks": ""
   },
@@ -81,7 +81,7 @@
     "name": "Chirongui",
     "nameWoDiacritics": "Chirongui",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -89,7 +89,7 @@
     "iata": "",
     "coordinates": {
       "lat": -12.933333333333334,
-      "lon": 4.833333333333333
+      "lon": 45.15
     },
     "remarks": ""
   },
@@ -100,7 +100,7 @@
     "name": "Dzaoudzi-Pamandzi Apt",
     "nameWoDiacritics": "Dzaoudzi-Pamandzi Apt",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -109,7 +109,7 @@
     "iata": "",
     "coordinates": {
       "lat": -12.8,
-      "lon": 4.85
+      "lon": 45.28333333333333
     },
     "remarks": ""
   },
@@ -120,7 +120,7 @@
     "name": "Kani-K�li",
     "nameWoDiacritics": "Kani-Keli",
     "subdivision": "",
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2
@@ -129,7 +129,7 @@
     "iata": "",
     "coordinates": {
       "lat": -12.95,
-      "lon": 4.833333333333333
+      "lon": 45.1
     },
     "remarks": ""
   },
@@ -140,7 +140,7 @@
     "name": "Koungou",
     "nameWoDiacritics": "Koungou",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -148,7 +148,7 @@
     "iata": "",
     "coordinates": {
       "lat": -12.733333333333333,
-      "lon": 4.85
+      "lon": 45.2
     },
     "remarks": ""
   },
@@ -159,7 +159,7 @@
     "name": "Longoni",
     "nameWoDiacritics": "Longoni",
     "subdivision": "",
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2
@@ -168,7 +168,7 @@
     "iata": "",
     "coordinates": {
       "lat": -12.716666666666667,
-      "lon": 4.85
+      "lon": 45.166666666666664
     },
     "remarks": ""
   },
@@ -179,7 +179,7 @@
     "name": "Mamoudzou",
     "nameWoDiacritics": "Mamoudzou",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -187,7 +187,7 @@
     "iata": "",
     "coordinates": {
       "lat": -12.783333333333333,
-      "lon": 4.85
+      "lon": 45.233333333333334
     },
     "remarks": ""
   },
@@ -198,7 +198,7 @@
     "name": "Mtsamboro",
     "nameWoDiacritics": "Mtsamboro",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -206,7 +206,7 @@
     "iata": "",
     "coordinates": {
       "lat": -12.7,
-      "lon": 4.833333333333333
+      "lon": 45.06666666666667
     },
     "remarks": ""
   },
@@ -217,7 +217,7 @@
     "name": "Passamainty",
     "nameWoDiacritics": "Passamainty",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -225,7 +225,7 @@
     "iata": "",
     "coordinates": {
       "lat": -12.8,
-      "lon": 4.85
+      "lon": 45.21666666666667
     },
     "remarks": ""
   },
@@ -236,7 +236,7 @@
     "name": "Sada",
     "nameWoDiacritics": "Sada",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -244,7 +244,7 @@
     "iata": "",
     "coordinates": {
       "lat": -12.85,
-      "lon": 4.833333333333333
+      "lon": 45.1
     },
     "remarks": ""
   }

@@ -6,7 +6,7 @@
     "name": ".TUNISIA",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Akouda",
     "nameWoDiacritics": "Akouda",
     "subdivision": "51",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.86666666666667,
-      "lon": 1.05
+      "lon": 10.566666666666666
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Al Hammamat",
     "nameWoDiacritics": "Al Hammamat",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -53,7 +53,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.4,
-      "lon": 1.05
+      "lon": 10.616666666666667
     },
     "remarks": ""
   },
@@ -64,7 +64,7 @@
     "name": "Al Manarah",
     "nameWoDiacritics": "Al Manarah",
     "subdivision": "52",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -72,7 +72,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.7,
-      "lon": 1.0666666666666667
+      "lon": 10.783333333333333
     },
     "remarks": ""
   },
@@ -83,7 +83,7 @@
     "name": "Al Mars�",
     "nameWoDiacritics": "Al Marsa",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -94,7 +94,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.88333333333333,
-      "lon": 1.0333333333333334
+      "lon": 10.333333333333334
     },
     "remarks": ""
   },
@@ -105,7 +105,7 @@
     "name": "Al Qasrayn",
     "nameWoDiacritics": "Al Qasrayn",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -114,7 +114,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.166666666666664,
-      "lon": 1.4166666666666667
+      "lon": 8.833333333333334
     },
     "remarks": ""
   },
@@ -125,7 +125,7 @@
     "name": "Al Qayrawan",
     "nameWoDiacritics": "Al Qayrawan",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -133,7 +133,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.666666666666664,
-      "lon": 1
+      "lon": 10.083333333333334
     },
     "remarks": ""
   },
@@ -144,7 +144,7 @@
     "name": "Ariana",
     "nameWoDiacritics": "Ariana",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -153,7 +153,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.85,
-      "lon": 1.0166666666666666
+      "lon": 10.183333333333334
     },
     "remarks": ""
   },
@@ -164,7 +164,7 @@
     "name": "Ashtart Terminal",
     "nameWoDiacritics": "Ashtart Terminal",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -183,7 +183,7 @@
     "name": "B�ja",
     "nameWoDiacritics": "Beja",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -192,7 +192,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.733333333333334,
-      "lon": 1.5166666666666666
+      "lon": 9.183333333333334
     },
     "remarks": ""
   },
@@ -203,7 +203,7 @@
     "name": "Ben Arous",
     "nameWoDiacritics": "Ben Arous",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -211,7 +211,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.75,
-      "lon": 1.0166666666666666
+      "lon": 10.216666666666667
     },
     "remarks": ""
   },
@@ -222,7 +222,7 @@
     "name": "Ben Gardane",
     "nameWoDiacritics": "Ben Gardane",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       2
     ],
@@ -241,7 +241,7 @@
     "name": "Beni Khalled",
     "nameWoDiacritics": "Beni Khalled",
     "subdivision": "21",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -249,7 +249,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.65,
-      "lon": 1.05
+      "lon": 10.6
     },
     "remarks": ""
   },
@@ -260,7 +260,7 @@
     "name": "Bin Arous",
     "nameWoDiacritics": "Bin Arous",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -268,7 +268,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.75,
-      "lon": 1.0166666666666666
+      "lon": 10.316666666666666
     },
     "remarks": ""
   },
@@ -279,7 +279,7 @@
     "name": "Bir Mcherga",
     "nameWoDiacritics": "Bir Mcherga",
     "subdivision": "22",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -287,7 +287,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.516666666666666,
-      "lon": 1.5833333333333333
+      "lon": 9.95
     },
     "remarks": ""
   },
@@ -298,7 +298,7 @@
     "name": "Bizerte",
     "nameWoDiacritics": "Bizerte",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0,
       1,
@@ -320,7 +320,7 @@
     "name": "Borj Cedria",
     "nameWoDiacritics": "Borj Cedria",
     "subdivision": "21",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -329,7 +329,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.7,
-      "lon": 1.0333333333333334
+      "lon": 10.4
     },
     "remarks": ""
   },
@@ -340,7 +340,7 @@
     "name": "Borj el Bey",
     "nameWoDiacritics": "Borj el Bey",
     "subdivision": "51",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -348,7 +348,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.03333333333333,
-      "lon": 1.0166666666666666
+      "lon": 10.3
     },
     "remarks": ""
   },
@@ -359,7 +359,7 @@
     "name": "Bou Argoub",
     "nameWoDiacritics": "Bou Argoub",
     "subdivision": "21",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -367,7 +367,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.53333333333333,
-      "lon": 1.05
+      "lon": 10.55
     },
     "remarks": ""
   },
@@ -378,7 +378,7 @@
     "name": "Bou Ficha",
     "nameWoDiacritics": "Bou Ficha",
     "subdivision": "51",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -386,7 +386,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.3,
-      "lon": 1.0333333333333334
+      "lon": 10.45
     },
     "remarks": ""
   },
@@ -397,7 +397,7 @@
     "name": "Boumhel",
     "nameWoDiacritics": "Boumhel",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -405,7 +405,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.71666666666667,
-      "lon": 1.0166666666666666
+      "lon": 10.3
     },
     "remarks": ""
   },
@@ -416,7 +416,7 @@
     "name": "Bu Hajar",
     "nameWoDiacritics": "Bu Hajar",
     "subdivision": "52",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -424,7 +424,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.68333333333333,
-      "lon": 1.0833333333333333
+      "lon": 10.866666666666667
     },
     "remarks": ""
   },
@@ -435,7 +435,7 @@
     "name": "Bu Mirdas",
     "nameWoDiacritics": "Bu Mirdas",
     "subdivision": "53",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -444,7 +444,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.45,
-      "lon": 1.0666666666666667
+      "lon": 10.733333333333333
     },
     "remarks": ""
   },
@@ -455,7 +455,7 @@
     "name": "Bu Urqub",
     "nameWoDiacritics": "Bu Urqub",
     "subdivision": "21",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -463,7 +463,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.53333333333333,
-      "lon": 1.05
+      "lon": 10.55
     },
     "remarks": ""
   },
@@ -474,7 +474,7 @@
     "name": "Carthage",
     "nameWoDiacritics": "Carthage",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -482,7 +482,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.85,
-      "lon": 1.0166666666666666
+      "lon": 10.316666666666666
     },
     "remarks": ""
   },
@@ -493,7 +493,7 @@
     "name": "Chaouat",
     "nameWoDiacritics": "Chaouat",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -501,7 +501,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.86666666666667,
-      "lon": 1.5833333333333333
+      "lon": 9.95
     },
     "remarks": ""
   },
@@ -512,7 +512,7 @@
     "name": "Chebba",
     "nameWoDiacritics": "Chebba",
     "subdivision": "53",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -521,7 +521,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.233333333333334,
-      "lon": 1.1666666666666667
+      "lon": 11.1
     },
     "remarks": ""
   },
@@ -532,7 +532,7 @@
     "name": "Dar Chabanne",
     "nameWoDiacritics": "Dar Chabanne",
     "subdivision": "21",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -540,7 +540,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.46666666666667,
-      "lon": 1.0666666666666667
+      "lon": 10.75
     },
     "remarks": ""
   },
@@ -551,7 +551,7 @@
     "name": "Didon",
     "nameWoDiacritics": "Didon",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -559,7 +559,7 @@
     "iata": "",
     "coordinates": {
       "lat": 33.766666666666666,
-      "lon": 1.25
+      "lon": 11.9
     },
     "remarks": ""
   },
@@ -570,7 +570,7 @@
     "name": "Djerba",
     "nameWoDiacritics": "Djerba",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -591,7 +591,7 @@
     "name": "El Borma",
     "nameWoDiacritics": "El Borma",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -610,7 +610,7 @@
     "name": "El Fahs",
     "nameWoDiacritics": "El Fahs",
     "subdivision": "22",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -618,7 +618,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.36666666666667,
-      "lon": 1.5833333333333333
+      "lon": 9.9
     },
     "remarks": ""
   },
@@ -629,7 +629,7 @@
     "name": "El Fahs",
     "nameWoDiacritics": "El Fahs",
     "subdivision": "22",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -638,7 +638,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.36666666666667,
-      "lon": 1.5833333333333333
+      "lon": 9.9
     },
     "remarks": ""
   },
@@ -649,7 +649,7 @@
     "name": "El Hamma",
     "nameWoDiacritics": "El Hamma",
     "subdivision": "81",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -657,7 +657,7 @@
     "iata": "",
     "coordinates": {
       "lat": 33.9,
-      "lon": 1.5666666666666667
+      "lon": 9.8
     },
     "remarks": ""
   },
@@ -668,7 +668,7 @@
     "name": "El Jem",
     "nameWoDiacritics": "El Jem",
     "subdivision": "53",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -676,7 +676,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.3,
-      "lon": 1.0666666666666667
+      "lon": 10.716666666666667
     },
     "remarks": ""
   },
@@ -687,7 +687,7 @@
     "name": "El Mourouj",
     "nameWoDiacritics": "El Mourouj",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -695,7 +695,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.666666666666664,
-      "lon": 1
+      "lon": 10.15
     },
     "remarks": ""
   },
@@ -706,7 +706,7 @@
     "name": "Enfida",
     "nameWoDiacritics": "Enfida",
     "subdivision": "51",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -714,7 +714,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.13333333333333,
-      "lon": 1.0333333333333334
+      "lon": 10.366666666666667
     },
     "remarks": ""
   },
@@ -725,7 +725,7 @@
     "name": "Enfidha Hammamet Intl Apt",
     "nameWoDiacritics": "Enfidha Hammamet Intl Apt",
     "subdivision": "51",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -733,7 +733,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.06666666666667,
-      "lon": 1.0333333333333334
+      "lon": 10.433333333333334
     },
     "remarks": ""
   },
@@ -744,7 +744,7 @@
     "name": "Essouassi",
     "nameWoDiacritics": "Essouassi",
     "subdivision": "53",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -752,7 +752,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.333333333333336,
-      "lon": 1.05
+      "lon": 10.533333333333333
     },
     "remarks": ""
   },
@@ -763,7 +763,7 @@
     "name": "Ez Zahra",
     "nameWoDiacritics": "Ez Zahra",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -771,7 +771,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.75,
-      "lon": 1.0166666666666666
+      "lon": 10.316666666666666
     },
     "remarks": ""
   },
@@ -782,7 +782,7 @@
     "name": "Fouchana",
     "nameWoDiacritics": "Fouchana",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -790,7 +790,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.68333333333333,
-      "lon": 1.0166666666666666
+      "lon": 10.166666666666666
     },
     "remarks": ""
   },
@@ -801,7 +801,7 @@
     "name": "Gab�s",
     "nameWoDiacritics": "Gabes",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -810,7 +810,7 @@
     "iata": "",
     "coordinates": {
       "lat": 33.88333333333333,
-      "lon": 1
+      "lon": 10.116666666666667
     },
     "remarks": ""
   },
@@ -821,7 +821,7 @@
     "name": "Gafsa",
     "nameWoDiacritics": "Gafsa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -840,7 +840,7 @@
     "name": "Grombalia",
     "nameWoDiacritics": "Grombalia",
     "subdivision": "21",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -849,7 +849,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.6,
-      "lon": 1.05
+      "lon": 10.5
     },
     "remarks": ""
   },
@@ -860,7 +860,7 @@
     "name": "Hammamet",
     "nameWoDiacritics": "Hammamet",
     "subdivision": "21",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -868,7 +868,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.4,
-      "lon": 1.05
+      "lon": 10.616666666666667
     },
     "remarks": ""
   },
@@ -879,7 +879,7 @@
     "name": "Hammam-Lif",
     "nameWoDiacritics": "Hammam-Lif",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -887,7 +887,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.71666666666667,
-      "lon": 1.0333333333333334
+      "lon": 10.333333333333334
     },
     "remarks": ""
   },
@@ -898,7 +898,7 @@
     "name": "Isis",
     "nameWoDiacritics": "Isis",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       6
     ],
@@ -906,7 +906,7 @@
     "iata": "",
     "coordinates": {
       "lat": 34.61666666666667,
-      "lon": 1.3666666666666667
+      "lon": 12.416666666666666
     },
     "remarks": ""
   },
@@ -917,7 +917,7 @@
     "name": "Jammal",
     "nameWoDiacritics": "Jammal",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -925,7 +925,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.63333333333333,
-      "lon": 1.0666666666666667
+      "lon": 10.75
     },
     "remarks": ""
   },
@@ -936,7 +936,7 @@
     "name": "Jarjis",
     "nameWoDiacritics": "Jarjis",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -944,7 +944,7 @@
     "iata": "",
     "coordinates": {
       "lat": 33.5,
-      "lon": 1.1666666666666667
+      "lon": -11.1
     },
     "remarks": "a.k.a Zarzis"
   },
@@ -955,7 +955,7 @@
     "name": "Jebel Jelloud",
     "nameWoDiacritics": "Jebel Jelloud",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -963,7 +963,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.766666666666666,
-      "lon": 1.0166666666666666
+      "lon": 10.2
     },
     "remarks": ""
   },
@@ -974,7 +974,7 @@
     "name": "Jundubah",
     "nameWoDiacritics": "Jundubah",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -982,7 +982,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.5,
-      "lon": 1.4
+      "lon": 8.766666666666667
     },
     "remarks": ""
   },
@@ -993,7 +993,7 @@
     "name": "Kairouan",
     "nameWoDiacritics": "Kairouan",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1012,7 +1012,7 @@
     "name": "Kalaa Kebira",
     "nameWoDiacritics": "Kalaa Kebira",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       1,
       2
@@ -1032,7 +1032,7 @@
     "name": "Kasserine",
     "nameWoDiacritics": "Kasserine",
     "subdivision": "42",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1040,7 +1040,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.166666666666664,
-      "lon": 1.4
+      "lon": 8.816666666666666
     },
     "remarks": ""
   },
@@ -1051,7 +1051,7 @@
     "name": "Kebili",
     "nameWoDiacritics": "Kebili",
     "subdivision": "73",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -1060,7 +1060,7 @@
     "iata": "",
     "coordinates": {
       "lat": 33.7,
-      "lon": 1.4166666666666667
+      "lon": 8.966666666666667
     },
     "remarks": ""
   },
@@ -1071,7 +1071,7 @@
     "name": "Kerkena",
     "nameWoDiacritics": "Kerkena",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       2
     ],
@@ -1090,7 +1090,7 @@
     "name": "Kondar",
     "nameWoDiacritics": "Kondar",
     "subdivision": "51",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1098,7 +1098,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.916666666666664,
-      "lon": 1.0166666666666666
+      "lon": 10.3
     },
     "remarks": ""
   },
@@ -1109,7 +1109,7 @@
     "name": "Korba",
     "nameWoDiacritics": "Korba",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       2
     ],
@@ -1128,7 +1128,7 @@
     "name": "Ksar Hellal",
     "nameWoDiacritics": "Ksar Hellal",
     "subdivision": "52",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1136,7 +1136,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.65,
-      "lon": 1.0833333333333333
+      "lon": 10.9
     },
     "remarks": ""
   },
@@ -1147,7 +1147,7 @@
     "name": "Ksibet el M�diouni",
     "nameWoDiacritics": "Ksibet el Mediouni",
     "subdivision": "52",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -1155,7 +1155,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.666666666666664,
-      "lon": 1.0833333333333333
+      "lon": 10.833333333333334
     },
     "remarks": ""
   },
@@ -1166,7 +1166,7 @@
     "name": "Ksour Essaf",
     "nameWoDiacritics": "Ksour Essaf",
     "subdivision": "53",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1174,7 +1174,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.416666666666664,
-      "lon": 1.0833333333333333
+      "lon": 10.983333333333333
     },
     "remarks": ""
   },
@@ -1185,7 +1185,7 @@
     "name": "La Goulette Nord (Halqueloued)",
     "nameWoDiacritics": "La Goulette Nord (Halqueloued)",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0,
       1,
@@ -1206,7 +1206,7 @@
     "name": "La Marsa",
     "nameWoDiacritics": "La Marsa",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1214,7 +1214,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.86666666666667,
-      "lon": 1.0166666666666666
+      "lon": 10.316666666666666
     },
     "remarks": ""
   },
@@ -1225,7 +1225,7 @@
     "name": "La Mohammedia",
     "nameWoDiacritics": "La Mohammedia",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1233,7 +1233,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.666666666666664,
-      "lon": 1
+      "lon": 10.15
     },
     "remarks": ""
   },
@@ -1244,7 +1244,7 @@
     "name": "La Mornaghia",
     "nameWoDiacritics": "La Mornaghia",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1252,7 +1252,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.75,
-      "lon": 1
+      "lon": 10.016666666666667
     },
     "remarks": ""
   },
@@ -1263,7 +1263,7 @@
     "name": "La Skhirra",
     "nameWoDiacritics": "La Skhirra",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0,
       1,
@@ -1284,7 +1284,7 @@
     "name": "La Soukra",
     "nameWoDiacritics": "La Soukra",
     "subdivision": "12",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1292,7 +1292,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.86666666666667,
-      "lon": 1.0166666666666666
+      "lon": 10.25
     },
     "remarks": ""
   },
@@ -1303,7 +1303,7 @@
     "name": "Lafayette/Tunis",
     "nameWoDiacritics": "Lafayette/Tunis",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1311,7 +1311,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.81666666666667,
-      "lon": 1.0166666666666666
+      "lon": 10.183333333333334
     },
     "remarks": ""
   },
@@ -1322,7 +1322,7 @@
     "name": "Le Bardo",
     "nameWoDiacritics": "Le Bardo",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1330,7 +1330,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.8,
-      "lon": 1
+      "lon": 10.133333333333333
     },
     "remarks": ""
   },
@@ -1341,7 +1341,7 @@
     "name": "Le Kef",
     "nameWoDiacritics": "Le Kef",
     "subdivision": "33",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1349,7 +1349,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.166666666666664,
-      "lon": 1.4
+      "lon": 8.7
     },
     "remarks": ""
   },
@@ -1360,7 +1360,7 @@
     "name": "Le Kram",
     "nameWoDiacritics": "Le Kram",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1368,7 +1368,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.833333333333336,
-      "lon": 1.0166666666666666
+      "lon": 10.316666666666666
     },
     "remarks": ""
   },
@@ -1379,7 +1379,7 @@
     "name": "Les Berges du Lac",
     "nameWoDiacritics": "Les Berges du Lac",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1398,7 +1398,7 @@
     "name": "Madanin",
     "nameWoDiacritics": "Madanin",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1406,7 +1406,7 @@
     "iata": "",
     "coordinates": {
       "lat": 33.35,
-      "lon": 1.0333333333333334
+      "lon": 10.483333333333333
     },
     "remarks": ""
   },
@@ -1417,7 +1417,7 @@
     "name": "Mahdia",
     "nameWoDiacritics": "Mahdia",
     "subdivision": "53",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -1427,7 +1427,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.5,
-      "lon": 1.1666666666666667
+      "lon": 11.05
     },
     "remarks": ""
   },
@@ -1438,7 +1438,7 @@
     "name": "Mahires",
     "nameWoDiacritics": "Mahires",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1447,7 +1447,7 @@
     "iata": "",
     "coordinates": {
       "lat": 34.53333333333333,
-      "lon": 1.05
+      "lon": 10.5
     },
     "remarks": ""
   },
@@ -1458,7 +1458,7 @@
     "name": "Majaz al Bab",
     "nameWoDiacritics": "Majaz al Bab",
     "subdivision": "31",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1466,7 +1466,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.65,
-      "lon": 1.55
+      "lon": 9.616666666666667
     },
     "remarks": ""
   },
@@ -1477,7 +1477,7 @@
     "name": "Manouba",
     "nameWoDiacritics": "Manouba",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1485,7 +1485,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.8,
-      "lon": 1
+      "lon": 10.1
     },
     "remarks": ""
   },
@@ -1496,7 +1496,7 @@
     "name": "Mateur",
     "nameWoDiacritics": "Mateur",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       1,
       2
@@ -1516,7 +1516,7 @@
     "name": "Medenine",
     "nameWoDiacritics": "Medenine",
     "subdivision": "82",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1524,7 +1524,7 @@
     "iata": "",
     "coordinates": {
       "lat": 33.35,
-      "lon": 1.05
+      "lon": 10.5
     },
     "remarks": ""
   },
@@ -1535,7 +1535,7 @@
     "name": "M�grine",
     "nameWoDiacritics": "Megrine",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1543,7 +1543,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.766666666666666,
-      "lon": 1.0166666666666666
+      "lon": 10.233333333333333
     },
     "remarks": ""
   },
@@ -1554,7 +1554,7 @@
     "name": "M�grine-Lescure",
     "nameWoDiacritics": "Megrine-Lescure",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1562,7 +1562,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.766666666666666,
-      "lon": 1.0166666666666666
+      "lon": 10.2
     },
     "remarks": ""
   },
@@ -1573,7 +1573,7 @@
     "name": "Menzel Bourguiba",
     "nameWoDiacritics": "Menzel Bourguiba",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0,
       1,
@@ -1594,7 +1594,7 @@
     "name": "Menzel Farsi",
     "nameWoDiacritics": "Menzel Farsi",
     "subdivision": "52",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1602,7 +1602,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.53333333333333,
-      "lon": 1.0833333333333333
+      "lon": 10.866666666666667
     },
     "remarks": ""
   },
@@ -1613,7 +1613,7 @@
     "name": "Menzel Temime",
     "nameWoDiacritics": "Menzel Temime",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       2
     ],
@@ -1632,7 +1632,7 @@
     "name": "Mesjed Aissa",
     "nameWoDiacritics": "Mesjed Aissa",
     "subdivision": "52",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1640,7 +1640,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.71666666666667,
-      "lon": 1.0666666666666667
+      "lon": 10.716666666666667
     },
     "remarks": ""
   },
@@ -1651,7 +1651,7 @@
     "name": "Metlaoui",
     "nameWoDiacritics": "Metlaoui",
     "subdivision": "71",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1659,7 +1659,7 @@
     "iata": "",
     "coordinates": {
       "lat": 34.31666666666667,
-      "lon": 1.3666666666666667
+      "lon": 8.4
     },
     "remarks": ""
   },
@@ -1670,7 +1670,7 @@
     "name": "Moknine",
     "nameWoDiacritics": "Moknine",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       2
     ],
@@ -1689,7 +1689,7 @@
     "name": "Monastir",
     "nameWoDiacritics": "Monastir",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3,
@@ -1710,7 +1710,7 @@
     "name": "Mornag",
     "nameWoDiacritics": "Mornag",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1718,7 +1718,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.68333333333333,
-      "lon": 1
+      "lon": 10.016666666666667
     },
     "remarks": ""
   },
@@ -1729,7 +1729,7 @@
     "name": "Naassen",
     "nameWoDiacritics": "Naassen",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1737,7 +1737,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.68333333333333,
-      "lon": 1.0166666666666666
+      "lon": 10.233333333333333
     },
     "remarks": ""
   },
@@ -1748,7 +1748,7 @@
     "name": "Nabeul",
     "nameWoDiacritics": "Nabeul",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       1,
       2
@@ -1768,7 +1768,7 @@
     "name": "Nassene",
     "nameWoDiacritics": "Nassene",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1776,7 +1776,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.7,
-      "lon": 1.0166666666666666
+      "lon": 10.233333333333333
     },
     "remarks": ""
   },
@@ -1787,7 +1787,7 @@
     "name": "Nefta",
     "nameWoDiacritics": "Nefta",
     "subdivision": "72",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1795,7 +1795,7 @@
     "iata": "",
     "coordinates": {
       "lat": 33.86666666666667,
-      "lon": 1.25
+      "lon": 7.866666666666667
     },
     "remarks": ""
   },
@@ -1806,7 +1806,7 @@
     "name": "Oudna",
     "nameWoDiacritics": "Oudna",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -1814,7 +1814,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.266666666666666,
-      "lon": 1.2166666666666668
+      "lon": 11.65
     },
     "remarks": ""
   },
@@ -1825,7 +1825,7 @@
     "name": "Qasr Hallal",
     "nameWoDiacritics": "Qasr Hallal",
     "subdivision": "52",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1833,7 +1833,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.63333333333333,
-      "lon": 1.0833333333333333
+      "lon": 10.883333333333333
     },
     "remarks": ""
   },
@@ -1844,7 +1844,7 @@
     "name": "Qulaybiyah",
     "nameWoDiacritics": "Qulaybiyah",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1852,7 +1852,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.85,
-      "lon": 1.1666666666666667
+      "lon": 11.1
     },
     "remarks": ""
   },
@@ -1863,7 +1863,7 @@
     "name": "Rad�s",
     "nameWoDiacritics": "Rades",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -1873,7 +1873,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.766666666666666,
-      "lon": 1.0166666666666666
+      "lon": 10.266666666666667
     },
     "remarks": ""
   },
@@ -1884,7 +1884,7 @@
     "name": "Sahline",
     "nameWoDiacritics": "Sahline",
     "subdivision": "52",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1892,7 +1892,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.75,
-      "lon": 1.0666666666666667
+      "lon": 10.7
     },
     "remarks": ""
   },
@@ -1903,7 +1903,7 @@
     "name": "Sejoumi",
     "nameWoDiacritics": "Sejoumi",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1911,7 +1911,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.75,
-      "lon": 1
+      "lon": 10.116666666666667
     },
     "remarks": ""
   },
@@ -1922,7 +1922,7 @@
     "name": "Sfax",
     "nameWoDiacritics": "Sfax",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       1,
@@ -1944,7 +1944,7 @@
     "name": "Sidi Bu Zayd",
     "nameWoDiacritics": "Sidi Bu Zayd",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1952,7 +1952,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.03333333333333,
-      "lon": 1.5333333333333334
+      "lon": 9.483333333333333
     },
     "remarks": ""
   },
@@ -1963,7 +1963,7 @@
     "name": "Siliana",
     "nameWoDiacritics": "Siliana",
     "subdivision": "34",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1971,7 +1971,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.083333333333336,
-      "lon": 1.5333333333333334
+      "lon": 9.366666666666667
     },
     "remarks": ""
   },
@@ -1982,7 +1982,7 @@
     "name": "Sloughia",
     "nameWoDiacritics": "Sloughia",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1990,7 +1990,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.583333333333336,
-      "lon": 1.55
+      "lon": 9.516666666666667
     },
     "remarks": ""
   },
@@ -2001,7 +2001,7 @@
     "name": "Soliman",
     "nameWoDiacritics": "Soliman",
     "subdivision": "21",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -2010,7 +2010,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.68333333333333,
-      "lon": 1.0333333333333334
+      "lon": 10.483333333333333
     },
     "remarks": ""
   },
@@ -2021,7 +2021,7 @@
     "name": "Sousse",
     "nameWoDiacritics": "Sousse",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0,
       1,
@@ -2043,7 +2043,7 @@
     "name": "Tabarka",
     "nameWoDiacritics": "Tabarka",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -2064,7 +2064,7 @@
     "name": "Tabulbah",
     "nameWoDiacritics": "Tabulbah",
     "subdivision": "52",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2072,7 +2072,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.65,
-      "lon": 1.0833333333333333
+      "lon": 10.966666666666667
     },
     "remarks": ""
   },
@@ -2083,7 +2083,7 @@
     "name": "Tazarka",
     "nameWoDiacritics": "Tazarka",
     "subdivision": "21",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2091,7 +2091,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.55,
-      "lon": 1.0833333333333333
+      "lon": 10.833333333333334
     },
     "remarks": ""
   },
@@ -2102,7 +2102,7 @@
     "name": "Tazerka Terminal",
     "nameWoDiacritics": "Tazerka Terminal",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -2110,7 +2110,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.6,
-      "lon": 1.2333333333333334
+      "lon": 11.683333333333334
     },
     "remarks": ""
   },
@@ -2121,7 +2121,7 @@
     "name": "Tebourba",
     "nameWoDiacritics": "Tebourba",
     "subdivision": "12",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2130,7 +2130,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.833333333333336,
-      "lon": 1.5833333333333333
+      "lon": 9.833333333333334
     },
     "remarks": ""
   },
@@ -2141,7 +2141,7 @@
     "name": "Tozeur",
     "nameWoDiacritics": "Tozeur",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2160,7 +2160,7 @@
     "name": "Tunis",
     "nameWoDiacritics": "Tunis",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       1,
@@ -2183,7 +2183,7 @@
     "name": "Utique",
     "nameWoDiacritics": "Utique",
     "subdivision": "23",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2191,7 +2191,7 @@
     "iata": "",
     "coordinates": {
       "lat": 37.05,
-      "lon": 1
+      "lon": 10.066666666666666
     },
     "remarks": ""
   },
@@ -2202,7 +2202,7 @@
     "name": "Zaghouan",
     "nameWoDiacritics": "Zaghouan",
     "subdivision": "22",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -2211,7 +2211,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.4,
-      "lon": 1
+      "lon": 10.15
     },
     "remarks": ""
   },
@@ -2222,7 +2222,7 @@
     "name": "Zarzis",
     "nameWoDiacritics": "Zarzis",
     "subdivision": "82",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -2231,7 +2231,7 @@
     "iata": "",
     "coordinates": {
       "lat": 33.5,
-      "lon": 1.1666666666666667
+      "lon": 11.116666666666667
     },
     "remarks": ""
   },
@@ -2242,7 +2242,7 @@
     "name": "Zriba",
     "nameWoDiacritics": "Zriba",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -2250,7 +2250,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.333333333333336,
-      "lon": 1.0166666666666666
+      "lon": 10.25
     },
     "remarks": ""
   }

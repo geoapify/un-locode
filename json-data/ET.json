@@ -2,6 +2,7 @@
   {
     "country": "ET",
     "name": ".ETHIOPIA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "ADD",
     "name": "Addis Ababa",
     "nameWoDiacritics": "Addis Ababa",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -28,7 +29,7 @@
     "location": "AMH",
     "name": "Arba Mintch",
     "nameWoDiacritics": "Arba Mintch",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -43,7 +44,7 @@
     "location": "ASO",
     "name": "Asosa",
     "nameWoDiacritics": "Asosa",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -59,14 +60,14 @@
     "name": "Assella",
     "nameWoDiacritics": "Assella",
     "subdivision": "OR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1807,
     "coordinates": {
       "lat": 7.95,
-      "lon": 4.5
+      "lon": 39.13333333333333
     }
   },
   {
@@ -74,7 +75,7 @@
     "location": "AWA",
     "name": "Awassa",
     "nameWoDiacritics": "Awassa",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -89,7 +90,7 @@
     "location": "AXU",
     "name": "Axum",
     "nameWoDiacritics": "Axum",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -104,7 +105,7 @@
     "location": "BJR",
     "name": "Bahar Dar",
     "nameWoDiacritics": "Bahar Dar",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -120,14 +121,14 @@
     "name": "Bedele",
     "nameWoDiacritics": "Bedele",
     "subdivision": "OR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 8.45,
-      "lon": 4.033333333333333
+      "lon": 36.35
     }
   },
   {
@@ -135,14 +136,14 @@
     "location": "BEI",
     "name": "Beica",
     "nameWoDiacritics": "Beica",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 9.383333333333333,
-      "lon": 3.716666666666667
+      "lon": 34.53333333333333
     }
   },
   {
@@ -150,7 +151,7 @@
     "location": "BCY",
     "name": "Bulchi",
     "nameWoDiacritics": "Bulchi",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -165,7 +166,7 @@
     "location": "DBM",
     "name": "Debra Marcos",
     "nameWoDiacritics": "Debra Marcos",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -180,14 +181,14 @@
     "location": "DBT",
     "name": "Debra Tabor",
     "nameWoDiacritics": "Debra Tabor",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 11.85,
-      "lon": 4.333333333333333
+      "lon": 38
     }
   },
   {
@@ -195,7 +196,7 @@
     "location": "DEM",
     "name": "Dembidollo",
     "nameWoDiacritics": "Dembidollo",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -210,7 +211,7 @@
     "location": "DSE",
     "name": "Dessie",
     "nameWoDiacritics": "Dessie",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -225,7 +226,7 @@
     "location": "DIR",
     "name": "Dire Dawa",
     "nameWoDiacritics": "Dire Dawa",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -241,14 +242,14 @@
     "name": "Dolo Odo",
     "nameWoDiacritics": "Dolo Odo",
     "subdivision": "SO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1201,
     "coordinates": {
       "lat": 4.183333333333334,
-      "lon": 4.333333333333333
+      "lon": 42.06666666666667
     }
   },
   {
@@ -257,14 +258,14 @@
     "name": "Dubti",
     "nameWoDiacritics": "Dubti",
     "subdivision": "AF",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 11.733333333333333,
-      "lon": 4.166666666666667
+      "lon": 41.083333333333336
     }
   },
   {
@@ -273,14 +274,14 @@
     "name": "Dukem",
     "nameWoDiacritics": "Dukem",
     "subdivision": "OR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 8.8,
-      "lon": 4.416666666666667
+      "lon": 38.9
     }
   },
   {
@@ -288,7 +289,7 @@
     "location": "GMB",
     "name": "Gambela",
     "nameWoDiacritics": "Gambela",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -303,7 +304,7 @@
     "location": "ETE",
     "name": "Genda Wuha",
     "nameWoDiacritics": "Genda Wuha",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -318,14 +319,14 @@
     "location": "GNN",
     "name": "Ghinnir",
     "nameWoDiacritics": "Ghinnir",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 7.25,
-      "lon": 4.066666666666666
+      "lon": 40.71666666666667
     }
   },
   {
@@ -334,14 +335,14 @@
     "name": "Gibe",
     "nameWoDiacritics": "Gibe",
     "subdivision": "OR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 7.75,
-      "lon": 4.183333333333334
+      "lon": 37.18333333333333
     }
   },
   {
@@ -350,14 +351,14 @@
     "name": "Giza",
     "nameWoDiacritics": "Giza",
     "subdivision": "TI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 13.683333333333334,
-      "lon": 4.55
+      "lon": 39.5
     }
   },
   {
@@ -365,7 +366,7 @@
     "location": "GOB",
     "name": "Goba",
     "nameWoDiacritics": "Goba",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -380,14 +381,14 @@
     "location": "GDE",
     "name": "Gode",
     "nameWoDiacritics": "Gode",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 5.9,
-      "lon": 4.55
+      "lon": 43.61666666666667
     }
   },
   {
@@ -395,7 +396,7 @@
     "location": "GDQ",
     "name": "Gondar",
     "nameWoDiacritics": "Gondar",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -410,7 +411,7 @@
     "location": "GOR",
     "name": "Gore",
     "nameWoDiacritics": "Gore",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -426,14 +427,14 @@
     "name": "Harar",
     "nameWoDiacritics": "Harar",
     "subdivision": "HA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 9.3,
-      "lon": 4.333333333333333
+      "lon": 42.11666666666667
     }
   },
   {
@@ -442,14 +443,14 @@
     "name": "Hartishek",
     "nameWoDiacritics": "Hartishek",
     "subdivision": "SO",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
     "date": 2007,
     "coordinates": {
       "lat": 9.15,
-      "lon": 4.533333333333333
+      "lon": 43.35
     }
   },
   {
@@ -458,14 +459,14 @@
     "name": "Holeta Genet",
     "nameWoDiacritics": "Holeta Genet",
     "subdivision": "OR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1701,
     "coordinates": {
       "lat": 9.05,
-      "lon": 4.383333333333333
+      "lon": 38.5
     }
   },
   {
@@ -473,7 +474,7 @@
     "location": "HUE",
     "name": "Humera",
     "nameWoDiacritics": "Humera",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -488,14 +489,14 @@
     "location": "JIJ",
     "name": "Jijiga",
     "nameWoDiacritics": "Jijiga",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 9.35,
-      "lon": 4.4
+      "lon": 42.8
     }
   },
   {
@@ -503,7 +504,7 @@
     "location": "JIM",
     "name": "Jimma",
     "nameWoDiacritics": "Jimma",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -518,7 +519,7 @@
     "location": "BCO",
     "name": "Jinka",
     "nameWoDiacritics": "Jinka",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -533,14 +534,14 @@
     "location": "ABK",
     "name": "Kabri Dar",
     "nameWoDiacritics": "Kabri Dar",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 6.733333333333333,
-      "lon": 4.683333333333334
+      "lon": 44.25
     }
   },
   {
@@ -548,14 +549,14 @@
     "location": "LFO",
     "name": "K'elafo",
     "nameWoDiacritics": "K'elafo",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 212,
     "coordinates": {
       "lat": 5.616666666666667,
-      "lon": 4.666666666666667
+      "lon": 44.13333333333333
     }
   },
   {
@@ -564,14 +565,14 @@
     "name": "Kembolcha",
     "nameWoDiacritics": "Kembolcha",
     "subdivision": "OR",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 901,
     "coordinates": {
       "lat": 7.5,
-      "lon": 4.183333333333334
+      "lon": 41.18333333333333
     }
   },
   {
@@ -580,14 +581,14 @@
     "name": "Kombolcha",
     "nameWoDiacritics": "Kombolcha",
     "subdivision": "AM",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1801,
     "coordinates": {
       "lat": 11.083333333333334,
-      "lon": 4.566666666666666
+      "lon": 39.733333333333334
     }
   },
   {
@@ -595,14 +596,14 @@
     "location": "LLI",
     "name": "Lalibela",
     "nameWoDiacritics": "Lalibela",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 12.033333333333333,
-      "lon": 4.5
+      "lon": 39.03333333333333
     }
   },
   {
@@ -610,7 +611,7 @@
     "location": "MQX",
     "name": "Makale",
     "nameWoDiacritics": "Makale",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -625,7 +626,7 @@
     "location": "MKS",
     "name": "Mekane Selam",
     "nameWoDiacritics": "Mekane Selam",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -641,14 +642,14 @@
     "name": "Mekele",
     "nameWoDiacritics": "Mekele",
     "subdivision": "TI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 13.483333333333333,
-      "lon": 4.533333333333333
+      "lon": 39.46666666666667
     }
   },
   {
@@ -656,7 +657,7 @@
     "location": "MZX",
     "name": "Mena",
     "nameWoDiacritics": "Mena",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -670,7 +671,7 @@
     "location": "MTF",
     "name": "Mizan Teferi",
     "nameWoDiacritics": "Mizan Teferi",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -686,14 +687,14 @@
     "name": "Mojo",
     "nameWoDiacritics": "Mojo",
     "subdivision": "OR",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 8.6,
-      "lon": 4.5
+      "lon": 39.11666666666667
     }
   },
   {
@@ -702,14 +703,14 @@
     "name": "Mojo Dry Port",
     "nameWoDiacritics": "Mojo Dry Port",
     "subdivision": "OR",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1601,
     "coordinates": {
       "lat": 8.566666666666666,
-      "lon": 4.5
+      "lon": 39.13333333333333
     }
   },
   {
@@ -717,14 +718,14 @@
     "location": "OTA",
     "name": "Mot'a",
     "nameWoDiacritics": "Mot'a",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 212,
     "coordinates": {
       "lat": 11.083333333333334,
-      "lon": 4.25
+      "lon": 37.86666666666667
     }
   },
   {
@@ -732,14 +733,14 @@
     "location": "MYS",
     "name": "Moyale",
     "nameWoDiacritics": "Moyale",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 3.466666666666667,
-      "lon": 4.5
+      "lon": 39.083333333333336
     }
   },
   {
@@ -747,7 +748,7 @@
     "location": "MUJ",
     "name": "Mui",
     "nameWoDiacritics": "Mui",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -762,14 +763,14 @@
     "location": "NZR",
     "name": "Nazret",
     "nameWoDiacritics": "Nazret",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 8.55,
-      "lon": 4.516666666666667
+      "lon": 39.266666666666666
     }
   },
   {
@@ -778,14 +779,14 @@
     "name": "Nefas Mewch'a",
     "nameWoDiacritics": "Nefas Mewch'a",
     "subdivision": "AM",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1607,
     "coordinates": {
       "lat": 11.733333333333333,
-      "lon": 4.366666666666667
+      "lon": 38.46666666666667
     }
   },
   {
@@ -793,14 +794,14 @@
     "location": "EGL",
     "name": "Neghelli",
     "nameWoDiacritics": "Neghelli",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 5.266666666666667,
-      "lon": 4.566666666666666
+      "lon": 39.71666666666667
     }
   },
   {
@@ -809,14 +810,14 @@
     "name": "Pugnido",
     "nameWoDiacritics": "Pugnido",
     "subdivision": "GA",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
     "date": 2007,
     "coordinates": {
       "lat": 7.633333333333333,
-      "lon": 3.6833333333333336
+      "lon": 34.25
     }
   },
   {
@@ -825,14 +826,14 @@
     "name": "Sebeta",
     "nameWoDiacritics": "Sebeta",
     "subdivision": "OR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 8.916666666666666,
-      "lon": 4.383333333333333
+      "lon": 38.61666666666667
     }
   },
   {
@@ -841,14 +842,14 @@
     "name": "Semera",
     "nameWoDiacritics": "Semera",
     "subdivision": "AF",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1801,
     "coordinates": {
       "lat": 11.783333333333333,
-      "lon": 4.166666666666667
+      "lon": 41
     }
   },
   {
@@ -857,14 +858,14 @@
     "name": "Shashemene",
     "nameWoDiacritics": "Shashemene",
     "subdivision": "OR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 7.2,
-      "lon": 4.383333333333333
+      "lon": 38.6
     }
   },
   {
@@ -873,14 +874,14 @@
     "name": "Shire",
     "nameWoDiacritics": "Shire",
     "subdivision": "TI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1801,
     "coordinates": {
       "lat": 14.133333333333333,
-      "lon": 4.366666666666667
+      "lon": 38.4
     }
   },
   {
@@ -888,7 +889,7 @@
     "location": "SXU",
     "name": "Soddu",
     "nameWoDiacritics": "Soddu",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -903,14 +904,14 @@
     "location": "SOD",
     "name": "Sodo",
     "nameWoDiacritics": "Sodo",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 601,
     "coordinates": {
       "lat": 8.583333333333334,
-      "lon": 3.9
+      "lon": 35.81666666666667
     }
   },
   {
@@ -918,7 +919,7 @@
     "location": "TIE",
     "name": "Tippi",
     "nameWoDiacritics": "Tippi",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -933,7 +934,7 @@
     "location": "WAC",
     "name": "Waca",
     "nameWoDiacritics": "Waca",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],

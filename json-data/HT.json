@@ -2,6 +2,7 @@
   {
     "country": "HT",
     "name": ".HAITI",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -14,14 +15,14 @@
     "name": "Baie de Saint-Marc",
     "nameWoDiacritics": "Baie de Saint-Marc",
     "subdivision": "AR",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1307,
     "coordinates": {
       "lat": 19.116666666666667,
-      "lon": 7.4
+      "lon": -72.7
     }
   },
   {
@@ -29,7 +30,7 @@
     "location": "CAP",
     "name": "Cap-HaÔtien",
     "nameWoDiacritics": "Cap-Haitien",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -37,7 +38,7 @@
     "date": 212,
     "coordinates": {
       "lat": 19.75,
-      "lon": 7.35
+      "lon": -72.2
     }
   },
   {
@@ -45,7 +46,7 @@
     "location": "CRC",
     "name": "Caracol",
     "nameWoDiacritics": "Caracol",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2,
@@ -54,7 +55,7 @@
     "date": 607,
     "coordinates": {
       "lat": 19.683333333333334,
-      "lon": 7.333333333333333
+      "lon": -72.01666666666667
     }
   },
   {
@@ -63,14 +64,14 @@
     "name": "Carrefour",
     "nameWoDiacritics": "Carrefour",
     "subdivision": "OU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 18.533333333333335,
-      "lon": 7.366666666666666
+      "lon": -72.4
     }
   },
   {
@@ -79,14 +80,14 @@
     "name": "Croix des Bouquets",
     "nameWoDiacritics": "Croix des Bouquets",
     "subdivision": "OU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 18.566666666666666,
-      "lon": 7.35
+      "lon": -72.21666666666667
     }
   },
   {
@@ -95,7 +96,7 @@
     "name": "Fond Mombin",
     "nameWoDiacritics": "Fond Mombin",
     "subdivision": "OU",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -111,14 +112,14 @@
     "name": "Fond-des-Blancs",
     "nameWoDiacritics": "Fond-des-Blancs",
     "subdivision": "SD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1801,
     "coordinates": {
       "lat": 18.283333333333335,
-      "lon": 7.5
+      "lon": -73.13333333333334
     }
   },
   {
@@ -127,7 +128,7 @@
     "name": "Fort Liberte",
     "nameWoDiacritics": "Fort Liberte",
     "subdivision": "NE",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -143,7 +144,7 @@
     "name": "GonaÔves",
     "nameWoDiacritics": "Gonaives",
     "subdivision": "AR",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -159,14 +160,14 @@
     "name": "Hincha",
     "nameWoDiacritics": "Hincha",
     "subdivision": "CE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 19.15,
-      "lon": 7.333333333333333
+      "lon": -72.01666666666667
     }
   },
   {
@@ -175,7 +176,7 @@
     "name": "Jacmel",
     "nameWoDiacritics": "Jacmel",
     "subdivision": "SE",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       3
@@ -192,7 +193,7 @@
     "name": "JÈrÈmie",
     "nameWoDiacritics": "Jeremie",
     "subdivision": "GA",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -209,14 +210,14 @@
     "name": "Labadie",
     "nameWoDiacritics": "Labadie",
     "subdivision": "AR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 19.516666666666666,
-      "lon": 7.366666666666666
+      "lon": -72.48333333333333
     }
   },
   {
@@ -225,7 +226,7 @@
     "name": "Lafiteau",
     "nameWoDiacritics": "Lafiteau",
     "subdivision": "OU",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2
@@ -233,7 +234,7 @@
     "date": 2101,
     "coordinates": {
       "lat": 18.683333333333334,
-      "lon": 7.366666666666666
+      "lon": -72.35
     }
   },
   {
@@ -242,14 +243,14 @@
     "name": "Lafito Port",
     "nameWoDiacritics": "Lafito Port",
     "subdivision": "OU",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1801,
     "coordinates": {
       "lat": 18.683333333333334,
-      "lon": 7.366666666666666
+      "lon": -72.35
     }
   },
   {
@@ -258,14 +259,14 @@
     "name": "Leogane",
     "nameWoDiacritics": "Leogane",
     "subdivision": "OU",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
     "date": 1001,
     "coordinates": {
       "lat": 18.5,
-      "lon": 7.383333333333334
+      "lon": -72.63333333333334
     }
   },
   {
@@ -274,7 +275,7 @@
     "name": "Les Cayes",
     "nameWoDiacritics": "Les Cayes",
     "subdivision": "SD",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -290,14 +291,14 @@
     "name": "Martinique",
     "nameWoDiacritics": "Martinique",
     "subdivision": "ND",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1401,
     "coordinates": {
       "lat": 19.816666666666666,
-      "lon": 7.383333333333334
+      "lon": -72.53333333333333
     }
   },
   {
@@ -306,7 +307,7 @@
     "name": "Miragoane",
     "nameWoDiacritics": "Miragoane",
     "subdivision": "NI",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -322,14 +323,14 @@
     "name": "PÈtion-Ville",
     "nameWoDiacritics": "Petion-Ville",
     "subdivision": "NE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1801,
     "coordinates": {
       "lat": 18.516666666666666,
-      "lon": 7.35
+      "lon": -72.28333333333333
     }
   },
   {
@@ -338,14 +339,14 @@
     "name": "Petit Go‚ve",
     "nameWoDiacritics": "Petit Goave",
     "subdivision": "OU",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1307,
     "coordinates": {
       "lat": 18.433333333333334,
-      "lon": 7.416666666666667
+      "lon": -72.86666666666666
     }
   },
   {
@@ -354,7 +355,7 @@
     "name": "Port de Paix",
     "nameWoDiacritics": "Port de Paix",
     "subdivision": "NO",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -370,7 +371,7 @@
     "name": "Port-au-Prince",
     "nameWoDiacritics": "Port-au-Prince",
     "subdivision": "OU",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -388,14 +389,14 @@
     "name": "Poty",
     "nameWoDiacritics": "Poty",
     "subdivision": "SD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 18.333333333333332,
-      "lon": 7.666666666666667
+      "lon": -74.08333333333333
     }
   },
   {
@@ -404,14 +405,14 @@
     "name": "Santo",
     "nameWoDiacritics": "Santo",
     "subdivision": "OU",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1001,
     "coordinates": {
       "lat": 18.483333333333334,
-      "lon": 7.366666666666666
+      "lon": -72.48333333333333
     }
   },
   {
@@ -420,14 +421,14 @@
     "name": "Tabarre",
     "nameWoDiacritics": "Tabarre",
     "subdivision": "OU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 18.583333333333332,
-      "lon": 7.35
+      "lon": -72.26666666666667
     }
   },
   {
@@ -436,14 +437,14 @@
     "name": "Ti Tanyin",
     "nameWoDiacritics": "Ti Tanyin",
     "subdivision": "OU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 18.716666666666665,
-      "lon": 7.366666666666666
+      "lon": -72.35
     }
   },
   {
@@ -452,14 +453,14 @@
     "name": "Turgeau",
     "nameWoDiacritics": "Turgeau",
     "subdivision": "OU",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
     "date": 1001,
     "coordinates": {
       "lat": 18.533333333333335,
-      "lon": 7.35
+      "lon": -72.31666666666666
     }
   }
 ]

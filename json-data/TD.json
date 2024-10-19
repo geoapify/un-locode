@@ -6,7 +6,7 @@
     "name": ".CHAD",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Ab�ch�",
     "nameWoDiacritics": "Abeche",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.816666666666666,
-      "lon": 2.066666666666667
+      "lon": 20.816666666666666
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Abou-De�a",
     "nameWoDiacritics": "Abou-Deia",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -50,7 +50,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.45,
-      "lon": 2.5166666666666666
+      "lon": 19.283333333333335
     },
     "remarks": ""
   },
@@ -61,7 +61,7 @@
     "name": "Am Timan",
     "nameWoDiacritics": "Am Timan",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -80,7 +80,7 @@
     "name": "Amdjarass",
     "nameWoDiacritics": "Amdjarass",
     "subdivision": "EE",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -88,7 +88,7 @@
     "iata": "",
     "coordinates": {
       "lat": 16.05,
-      "lon": 2.4166666666666665
+      "lon": 22.833333333333332
     },
     "remarks": ""
   },
@@ -99,7 +99,7 @@
     "name": "Ati",
     "nameWoDiacritics": "Ati",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -118,7 +118,7 @@
     "name": "Badila",
     "nameWoDiacritics": "Badila",
     "subdivision": "LR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -126,7 +126,7 @@
     "iata": "",
     "coordinates": {
       "lat": 8.35,
-      "lon": 2.0166666666666666
+      "lon": 16.283333333333335
     },
     "remarks": ""
   },
@@ -137,7 +137,7 @@
     "name": "Baga Sola",
     "nameWoDiacritics": "Baga Sola",
     "subdivision": "LC",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -145,7 +145,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.533333333333333,
-      "lon": 1.6833333333333333
+      "lon": 14.3
     },
     "remarks": ""
   },
@@ -156,7 +156,7 @@
     "name": "Banda",
     "nameWoDiacritics": "Banda",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -164,7 +164,7 @@
     "iata": "",
     "coordinates": {
       "lat": 9.15,
-      "lon": 2.3666666666666667
+      "lon": 18.366666666666667
     },
     "remarks": ""
   },
@@ -175,7 +175,7 @@
     "name": "Bitkine",
     "nameWoDiacritics": "Bitkine",
     "subdivision": "GR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -183,7 +183,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.966666666666667,
-      "lon": 2.35
+      "lon": 18.2
     },
     "remarks": ""
   },
@@ -194,7 +194,7 @@
     "name": "Bokoro",
     "nameWoDiacritics": "Bokoro",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -213,7 +213,7 @@
     "name": "Bol",
     "nameWoDiacritics": "Bol",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -232,7 +232,7 @@
     "name": "Bongor",
     "nameWoDiacritics": "Bongor",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -251,7 +251,7 @@
     "name": "Bousso",
     "nameWoDiacritics": "Bousso",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -270,7 +270,7 @@
     "name": "Chagoua",
     "nameWoDiacritics": "Chagoua",
     "subdivision": "CB",
-    "status": "AM",
+    "status": 4,
     "function": [
       5
     ],
@@ -278,7 +278,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.083333333333334,
-      "lon": 1.8333333333333335
+      "lon": 15.083333333333334
     },
     "remarks": ""
   },
@@ -289,7 +289,7 @@
     "name": "Doba",
     "nameWoDiacritics": "Doba",
     "subdivision": "MC",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -297,7 +297,7 @@
     "iata": "",
     "coordinates": {
       "lat": 8.633333333333333,
-      "lon": 2.083333333333333
+      "lon": 16.833333333333332
     },
     "remarks": ""
   },
@@ -308,7 +308,7 @@
     "name": "Faya",
     "nameWoDiacritics": "Faya",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -327,7 +327,7 @@
     "name": "Gadang-Haddad-Dandi",
     "nameWoDiacritics": "Gadang-Haddad-Dandi",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -346,7 +346,7 @@
     "name": "Gaya",
     "nameWoDiacritics": "Gaya",
     "subdivision": "KA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -354,7 +354,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.9,
-      "lon": 1.8833333333333333
+      "lon": 15.5
     },
     "remarks": ""
   },
@@ -365,7 +365,7 @@
     "name": "Gore",
     "nameWoDiacritics": "Gore",
     "subdivision": "LR",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -373,7 +373,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.916666666666667,
-      "lon": 2.05
+      "lon": 16.633333333333333
     },
     "remarks": ""
   },
@@ -384,7 +384,7 @@
     "name": "Goz Beida",
     "nameWoDiacritics": "Goz Beida",
     "subdivision": "SI",
-    "status": "AM",
+    "status": 4,
     "function": [
       2,
       3
@@ -393,7 +393,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.216666666666667,
-      "lon": 2.2
+      "lon": 21.4
     },
     "remarks": ""
   },
@@ -404,7 +404,7 @@
     "name": "Guereda",
     "nameWoDiacritics": "Guereda",
     "subdivision": "WF",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -412,7 +412,7 @@
     "iata": "",
     "coordinates": {
       "lat": 14.516666666666667,
-      "lon": 2.3333333333333335
+      "lon": 22.083333333333332
     },
     "remarks": ""
   },
@@ -423,7 +423,7 @@
     "name": "Iriba",
     "nameWoDiacritics": "Iriba",
     "subdivision": "WF",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -431,7 +431,7 @@
     "iata": "",
     "coordinates": {
       "lat": 15.116666666666667,
-      "lon": 2.35
+      "lon": 22.25
     },
     "remarks": ""
   },
@@ -442,7 +442,7 @@
     "name": "K�lo",
     "nameWoDiacritics": "Kelo",
     "subdivision": "TA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -450,7 +450,7 @@
     "iata": "",
     "coordinates": {
       "lat": 9.316666666666666,
-      "lon": 1.9
+      "lon": 15.8
     },
     "remarks": ""
   },
@@ -461,7 +461,7 @@
     "name": "Kom�",
     "nameWoDiacritics": "Kome",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -470,7 +470,7 @@
     "iata": "",
     "coordinates": {
       "lat": 8.45,
-      "lon": 2.0666666666666664
+      "lon": 16.7
     },
     "remarks": ""
   },
@@ -481,7 +481,7 @@
     "name": "Koumara",
     "nameWoDiacritics": "Koumara",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -489,7 +489,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.95,
-      "lon": 1.8833333333333333
+      "lon": 15.5
     },
     "remarks": ""
   },
@@ -500,7 +500,7 @@
     "name": "Koumra",
     "nameWoDiacritics": "Koumra",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -508,7 +508,7 @@
     "iata": "",
     "coordinates": {
       "lat": 8.9,
-      "lon": 2.216666666666667
+      "lon": 17.55
     },
     "remarks": ""
   },
@@ -519,7 +519,7 @@
     "name": "Kyab�",
     "nameWoDiacritics": "Kyabe",
     "subdivision": "MC",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -528,7 +528,7 @@
     "iata": "",
     "coordinates": {
       "lat": 9.45,
-      "lon": 2.416666666666667
+      "lon": 18.95
     },
     "remarks": ""
   },
@@ -539,7 +539,7 @@
     "name": "Lai",
     "nameWoDiacritics": "Lai",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -558,7 +558,7 @@
     "name": "L�r�",
     "nameWoDiacritics": "Lere",
     "subdivision": "MO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -566,7 +566,7 @@
     "iata": "",
     "coordinates": {
       "lat": 9.65,
-      "lon": 1.6833333333333333
+      "lon": 14.216666666666667
     },
     "remarks": ""
   },
@@ -577,7 +577,7 @@
     "name": "Mangara",
     "nameWoDiacritics": "Mangara",
     "subdivision": "MC",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -585,7 +585,7 @@
     "iata": "",
     "coordinates": {
       "lat": 8.983333333333333,
-      "lon": 2.333333333333333
+      "lon": 18.083333333333332
     },
     "remarks": ""
   },
@@ -596,7 +596,7 @@
     "name": "Mao",
     "nameWoDiacritics": "Mao",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -615,7 +615,7 @@
     "name": "Melfi",
     "nameWoDiacritics": "Melfi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -634,7 +634,7 @@
     "name": "Mongo",
     "nameWoDiacritics": "Mongo",
     "subdivision": "GR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -642,7 +642,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.183333333333334,
-      "lon": 2.4
+      "lon": 18.7
     },
     "remarks": ""
   },
@@ -653,7 +653,7 @@
     "name": "Mongo",
     "nameWoDiacritics": "Mongo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -672,7 +672,7 @@
     "name": "Moundou",
     "nameWoDiacritics": "Moundou",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -691,7 +691,7 @@
     "name": "Moussoro",
     "nameWoDiacritics": "Moussoro",
     "subdivision": "KA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -699,7 +699,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.65,
-      "lon": 2.033333333333333
+      "lon": 16.483333333333334
     },
     "remarks": ""
   },
@@ -710,7 +710,7 @@
     "name": "N'Djamena",
     "nameWoDiacritics": "N'Djamena",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -719,7 +719,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.116666666666667,
-      "lon": 1.8333333333333335
+      "lon": 15.05
     },
     "remarks": ""
   },
@@ -730,7 +730,7 @@
     "name": "Oum Hadjer",
     "nameWoDiacritics": "Oum Hadjer",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -749,7 +749,7 @@
     "name": "Pala",
     "nameWoDiacritics": "Pala",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -768,7 +768,7 @@
     "name": "Sarh",
     "nameWoDiacritics": "Sarh",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -788,7 +788,7 @@
     "name": "Soba",
     "nameWoDiacritics": "Soba",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -796,7 +796,7 @@
     "iata": "",
     "coordinates": {
       "lat": 15.366666666666667,
-      "lon": 2.2333333333333334
+      "lon": 21.783333333333335
     },
     "remarks": ""
   },
@@ -807,7 +807,7 @@
     "name": "Zakouma",
     "nameWoDiacritics": "Zakouma",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],

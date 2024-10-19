@@ -2,6 +2,7 @@
   {
     "country": "AQ",
     "name": ".ANTARCTICA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,14 +14,14 @@
     "location": "ABA",
     "name": "Aboa",
     "nameWoDiacritics": "Aboa",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -73.05,
-      "lon": 1.5333333333333332
+      "lon": -13.416666666666666
     }
   },
   {
@@ -28,14 +29,14 @@
     "location": "AMS",
     "name": "Amundsen-Scott",
     "nameWoDiacritics": "Amundsen-Scott",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 507,
     "coordinates": {
       "lat": -89.98333333333333,
-      "lon": 14.516666666666666
+      "lon": 139.26666666666668
     }
   },
   {
@@ -43,14 +44,14 @@
     "location": "ARC",
     "name": "Arctowski",
     "nameWoDiacritics": "Arctowski",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -62.15,
-      "lon": 6.366666666666667
+      "lon": -58.46666666666667
     }
   },
   {
@@ -58,14 +59,14 @@
     "location": "ART",
     "name": "Artigas",
     "nameWoDiacritics": "Artigas",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -62.18333333333333,
-      "lon": 6.416666666666667
+      "lon": -58.9
     }
   },
   {
@@ -73,14 +74,14 @@
     "location": "APT",
     "name": "Arturo Prat",
     "nameWoDiacritics": "Arturo Prat",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -62.5,
-      "lon": 6.566666666666666
+      "lon": -59.68333333333333
     }
   },
   {
@@ -88,14 +89,14 @@
     "location": "BEL",
     "name": "Belgrano II",
     "nameWoDiacritics": "Belgrano II",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 507,
     "coordinates": {
       "lat": -77.86666666666666,
-      "lon": 3.716666666666667
+      "lon": -34.61666666666667
     }
   },
   {
@@ -103,14 +104,14 @@
     "location": "BHN",
     "name": "Bellingshausen",
     "nameWoDiacritics": "Bellingshausen",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -62.18333333333333,
-      "lon": 6.416666666666667
+      "lon": -58.95
     }
   },
   {
@@ -118,14 +119,14 @@
     "location": "CAS",
     "name": "Casey Station",
     "nameWoDiacritics": "Casey Station",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 907,
     "coordinates": {
       "lat": -66.28333333333333,
-      "lon": 11.05
+      "lon": 110.51666666666667
     }
   },
   {
@@ -133,14 +134,14 @@
     "location": "CFZ",
     "name": "Comandante Ferraz",
     "nameWoDiacritics": "Comandante Ferraz",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -62.083333333333336,
-      "lon": 6.366666666666667
+      "lon": -58.38333333333333
     }
   },
   {
@@ -148,14 +149,14 @@
     "location": "CON",
     "name": "Concordia",
     "nameWoDiacritics": "Concordia",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 507,
     "coordinates": {
       "lat": -75.1,
-      "lon": 12.533333333333333
+      "lon": 123.38333333333334
     }
   },
   {
@@ -163,14 +164,14 @@
     "location": "DAV",
     "name": "Davis Station",
     "nameWoDiacritics": "Davis Station",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 907,
     "coordinates": {
       "lat": -68.56666666666666,
-      "lon": 8.25
+      "lon": 77.96666666666667
     }
   },
   {
@@ -178,14 +179,14 @@
     "location": "DMF",
     "name": "Dome Fuji",
     "nameWoDiacritics": "Dome Fuji",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 507,
     "coordinates": {
       "lat": -77.31666666666666,
-      "lon": 4.566666666666666
+      "lon": 39.7
     }
   },
   {
@@ -193,14 +194,14 @@
     "location": "DRZ",
     "name": "Druzhnaya 4",
     "nameWoDiacritics": "Druzhnaya 4",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 507,
     "coordinates": {
       "lat": -69.73333333333333,
-      "lon": 7.566666666666666
+      "lon": 73.7
     }
   },
   {
@@ -208,14 +209,14 @@
     "location": "DDU",
     "name": "Dumont d'Urville Station",
     "nameWoDiacritics": "Dumont d'Urville Station",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 907,
     "coordinates": {
       "lat": -66.65,
-      "lon": 14
+      "lon": 140
     }
   },
   {
@@ -223,14 +224,14 @@
     "location": "ESC",
     "name": "Escudero",
     "nameWoDiacritics": "Escudero",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -62.2,
-      "lon": 6.416666666666667
+      "lon": -58.95
     }
   },
   {
@@ -238,14 +239,14 @@
     "location": "ESP",
     "name": "Esperanza",
     "nameWoDiacritics": "Esperanza",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -63.38333333333333,
-      "lon": 6.083333333333333
+      "lon": -56.983333333333334
     }
   },
   {
@@ -253,14 +254,14 @@
     "location": "GDC",
     "name": "Gabriel de Castilla",
     "nameWoDiacritics": "Gabriel de Castilla",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 507,
     "coordinates": {
       "lat": -62.983333333333334,
-      "lon": 6.066666666666666
+      "lon": -60.68333333333333
     }
   },
   {
@@ -268,14 +269,14 @@
     "location": "OHG",
     "name": "General Bernardo O'higgins",
     "nameWoDiacritics": "General Bernardo O'higgins",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -63.31666666666667,
-      "lon": 6.25
+      "lon": -57.9
     }
   },
   {
@@ -283,14 +284,14 @@
     "location": "GWL",
     "name": "Great Wall",
     "nameWoDiacritics": "Great Wall",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -62.21666666666667,
-      "lon": 6.416666666666667
+      "lon": -58.96666666666667
     }
   },
   {
@@ -298,14 +299,14 @@
     "location": "HLY",
     "name": "Halley",
     "nameWoDiacritics": "Halley",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -75.56666666666666,
-      "lon": 3.05
+      "lon": -26.533333333333335
     }
   },
   {
@@ -313,14 +314,14 @@
     "location": "JBS",
     "name": "Jang Bogo Station",
     "nameWoDiacritics": "Jang Bogo Station",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1601,
     "coordinates": {
       "lat": -74.6,
-      "lon": 16.683333333333334
+      "lon": 164.2
     }
   },
   {
@@ -328,14 +329,14 @@
     "location": "JCP",
     "name": "Juan Carlos Primero",
     "nameWoDiacritics": "Juan Carlos Primero",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -62.65,
-      "lon": 6.033333333333333
+      "lon": -60.38333333333333
     }
   },
   {
@@ -343,14 +344,14 @@
     "location": "JUB",
     "name": "Jubany",
     "nameWoDiacritics": "Jubany",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -62.233333333333334,
-      "lon": 6.383333333333333
+      "lon": -58.65
     }
   },
   {
@@ -358,14 +359,14 @@
     "location": "KSG",
     "name": "King Sejong",
     "nameWoDiacritics": "King Sejong",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -62.21666666666667,
-      "lon": 6.4
+      "lon": -58.78333333333333
     }
   },
   {
@@ -373,14 +374,14 @@
     "location": "KHN",
     "name": "Kohnen",
     "nameWoDiacritics": "Kohnen",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -75,
-      "lon": 0
+      "lon": 0.06666666666666667
     }
   },
   {
@@ -388,14 +389,14 @@
     "location": "LAW",
     "name": "Law Base",
     "nameWoDiacritics": "Law Base",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -69.38333333333334,
-      "lon": 8.033333333333333
+      "lon": 76.38333333333334
     }
   },
   {
@@ -403,14 +404,14 @@
     "location": "MTR",
     "name": "Maitri",
     "nameWoDiacritics": "Maitri",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 507,
     "coordinates": {
       "lat": -70.75,
-      "lon": 1.2333333333333334
+      "lon": 11.733333333333333
     }
   },
   {
@@ -418,14 +419,14 @@
     "location": "MRB",
     "name": "Marambio",
     "nameWoDiacritics": "Marambio",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -64.23333333333333,
-      "lon": 6.05
+      "lon": -56.65
     }
   },
   {
@@ -433,14 +434,14 @@
     "location": "MZU",
     "name": "Mario Zucchelli",
     "nameWoDiacritics": "Mario Zucchelli",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -74.68333333333334,
-      "lon": 16.666666666666668
+      "lon": 164.11666666666667
     },
     "remarks": "ex Terra Nova Bay Station"
   },
@@ -449,14 +450,14 @@
     "location": "MAW",
     "name": "Mawson Station",
     "nameWoDiacritics": "Mawson Station",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 907,
     "coordinates": {
       "lat": -67.6,
-      "lon": 6.416666666666667
+      "lon": 62.86666666666667
     }
   },
   {
@@ -464,7 +465,7 @@
     "location": "MCM",
     "name": "McMurdo",
     "nameWoDiacritics": "McMurdo",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       3
@@ -472,7 +473,7 @@
     "date": 507,
     "coordinates": {
       "lat": -77.83333333333333,
-      "lon": 17.066666666666666
+      "lon": 166.66666666666666
     }
   },
   {
@@ -480,14 +481,14 @@
     "location": "MIR",
     "name": "Mirny",
     "nameWoDiacritics": "Mirny",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -66.55,
-      "lon": 9.5
+      "lon": 93
     }
   },
   {
@@ -495,14 +496,14 @@
     "location": "NEU",
     "name": "Neumayer",
     "nameWoDiacritics": "Neumayer",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 507,
     "coordinates": {
       "lat": -70.63333333333334,
-      "lon": 1.35
+      "lon": -8.25
     }
   },
   {
@@ -510,14 +511,14 @@
     "location": "NOV",
     "name": "Novolazarevskaya",
     "nameWoDiacritics": "Novolazarevskaya",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 507,
     "coordinates": {
       "lat": -70.76666666666667,
-      "lon": 1.25
+      "lon": 11.85
     }
   },
   {
@@ -525,14 +526,14 @@
     "location": "ORC",
     "name": "Orcadas",
     "nameWoDiacritics": "Orcadas",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -60.733333333333334,
-      "lon": 4.733333333333333
+      "lon": -44.733333333333334
     }
   },
   {
@@ -540,14 +541,14 @@
     "location": "PLM",
     "name": "Palmer",
     "nameWoDiacritics": "Palmer",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -64.76666666666667,
-      "lon": 6.666666666666667
+      "lon": -64.05
     }
   },
   {
@@ -555,14 +556,14 @@
     "location": "PFS",
     "name": "Port Foster",
     "nameWoDiacritics": "Port Foster",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1101,
     "coordinates": {
       "lat": -63,
-      "lon": 6.05
+      "lon": -60.56666666666667
     }
   },
   {
@@ -570,14 +571,14 @@
     "location": "PRO",
     "name": "Progress",
     "nameWoDiacritics": "Progress",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -69.4,
-      "lon": 8.033333333333333
+      "lon": 76.38333333333334
     }
   },
   {
@@ -585,14 +586,14 @@
     "location": "ROT",
     "name": "Rothera",
     "nameWoDiacritics": "Rothera",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -67.56666666666666,
-      "lon": 7.333333333333333
+      "lon": -68.11666666666666
     }
   },
   {
@@ -600,14 +601,14 @@
     "location": "SMT",
     "name": "San MartÌn",
     "nameWoDiacritics": "San Martin",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -68.11666666666666,
-      "lon": 7.166666666666667
+      "lon": -67.1
     }
   },
   {
@@ -615,14 +616,14 @@
     "location": "SNA",
     "name": "SANAE IV",
     "nameWoDiacritics": "SANAE IV",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 507,
     "coordinates": {
       "lat": -71.66666666666667,
-      "lon": 0.4
+      "lon": -2.8166666666666664
     }
   },
   {
@@ -630,14 +631,14 @@
     "location": "SBA",
     "name": "Scott Base",
     "nameWoDiacritics": "Scott Base",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 507,
     "coordinates": {
       "lat": -77.85,
-      "lon": 17.066666666666666
+      "lon": 166.75
     }
   },
   {
@@ -645,14 +646,14 @@
     "location": "SGN",
     "name": "Signy",
     "nameWoDiacritics": "Signy",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -60.71666666666667,
-      "lon": 4.883333333333333
+      "lon": -45.6
     }
   },
   {
@@ -660,14 +661,14 @@
     "location": "SYW",
     "name": "Syowa",
     "nameWoDiacritics": "Syowa",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -69,
-      "lon": 4.55
+      "lon": 39.583333333333336
     }
   },
   {
@@ -675,14 +676,14 @@
     "location": "TNM",
     "name": "Teniente R. Marsh",
     "nameWoDiacritics": "Teniente R. Marsh",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 507,
     "coordinates": {
       "lat": -62.21666666666667,
-      "lon": 6.416666666666667
+      "lon": -58.916666666666664
     }
   },
   {
@@ -690,14 +691,14 @@
     "location": "TOR",
     "name": "Tor",
     "nameWoDiacritics": "Tor",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 507,
     "coordinates": {
       "lat": -71.88333333333334,
-      "lon": 0.8333333333333334
+      "lon": 5.15
     }
   },
   {
@@ -705,14 +706,14 @@
     "location": "TRL",
     "name": "Troll",
     "nameWoDiacritics": "Troll",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 507,
     "coordinates": {
       "lat": -72,
-      "lon": 0.38333333333333336
+      "lon": 2.533333333333333
     }
   },
   {
@@ -720,14 +721,14 @@
     "location": "VKY",
     "name": "Vernadsky",
     "nameWoDiacritics": "Vernadsky",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -65.23333333333333,
-      "lon": 6.683333333333334
+      "lon": -64.25
     }
   },
   {
@@ -735,14 +736,14 @@
     "location": "VOS",
     "name": "Vostok",
     "nameWoDiacritics": "Vostok",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 507,
     "coordinates": {
       "lat": -78.46666666666667,
-      "lon": 11.066666666666666
+      "lon": 106.8
     }
   },
   {
@@ -750,14 +751,14 @@
     "location": "WSA",
     "name": "Wasa",
     "nameWoDiacritics": "Wasa",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -73.05,
-      "lon": 1.5333333333333332
+      "lon": -13.416666666666666
     }
   },
   {
@@ -765,14 +766,14 @@
     "location": "ZGN",
     "name": "Zhongshan",
     "nameWoDiacritics": "Zhongshan",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": -69.36666666666666,
-      "lon": 8.033333333333333
+      "lon": 76.38333333333334
     }
   }
 ]

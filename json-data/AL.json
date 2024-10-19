@@ -2,6 +2,7 @@
   {
     "country": "AL",
     "name": ".ALBANIA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,14 +14,14 @@
     "location": "ARG",
     "name": "Argyrokastro",
     "nameWoDiacritics": "Argyrokastro",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1001,
     "coordinates": {
       "lat": 40.11666666666667,
-      "lon": 2.0166666666666666
+      "lon": 20.216666666666665
     }
   },
   {
@@ -29,7 +30,7 @@
     "name": "Berat",
     "nameWoDiacritics": "Berat",
     "subdivision": "BR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -37,7 +38,7 @@
     "date": 701,
     "coordinates": {
       "lat": 40.71666666666667,
-      "lon": 2.583333333333333
+      "lon": 19.95
     }
   },
   {
@@ -46,14 +47,14 @@
     "name": "BulqizÎ",
     "nameWoDiacritics": "Bulqize",
     "subdivision": 9,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1801,
     "coordinates": {
       "lat": 41.483333333333334,
-      "lon": 2.0166666666666666
+      "lon": 20.216666666666665
     }
   },
   {
@@ -62,14 +63,14 @@
     "name": "Butrint",
     "nameWoDiacritics": "Butrint",
     "subdivision": "SR",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 39.75,
-      "lon": 2
+      "lon": 20.016666666666666
     }
   },
   {
@@ -77,7 +78,7 @@
     "location": "DRZ",
     "name": "DurrÎs",
     "nameWoDiacritics": "Durres",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -93,7 +94,7 @@
     "name": "Elbasan",
     "nameWoDiacritics": "Elbasan",
     "subdivision": "EL",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -101,7 +102,7 @@
     "date": 1101,
     "coordinates": {
       "lat": 41.1,
-      "lon": 2
+      "lon": 20.066666666666666
     }
   },
   {
@@ -109,7 +110,7 @@
     "location": "FIE",
     "name": "Fier",
     "nameWoDiacritics": "Fier",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -117,7 +118,7 @@
     "date": 701,
     "coordinates": {
       "lat": 40.733333333333334,
-      "lon": 2.55
+      "lon": 19.566666666666666
     }
   },
   {
@@ -126,14 +127,14 @@
     "name": "Fushe Arrez",
     "nameWoDiacritics": "Fushe Arrez",
     "subdivision": "SH",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 901,
     "coordinates": {
       "lat": 42.05,
-      "lon": 2
+      "lon": 20.016666666666666
     }
   },
   {
@@ -142,7 +143,7 @@
     "name": "GjirokastÎr",
     "nameWoDiacritics": "Gjirokaster",
     "subdivision": "GJ",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -150,7 +151,7 @@
     "date": 701,
     "coordinates": {
       "lat": 40.083333333333336,
-      "lon": 2
+      "lon": 20.15
     }
   },
   {
@@ -159,14 +160,14 @@
     "name": "Himare",
     "nameWoDiacritics": "Himare",
     "subdivision": "SR",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 40.13333333333333,
-      "lon": 2.5666666666666664
+      "lon": 19.716666666666665
     }
   },
   {
@@ -175,14 +176,14 @@
     "name": "KorÁÎ",
     "nameWoDiacritics": "Korce",
     "subdivision": "KO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 501,
     "coordinates": {
       "lat": 40.61666666666667,
-      "lon": 2.066666666666667
+      "lon": 20.766666666666666
     }
   },
   {
@@ -191,7 +192,7 @@
     "name": "KukÎs",
     "nameWoDiacritics": "Kukes",
     "subdivision": "KU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -199,7 +200,7 @@
     "date": 1707,
     "coordinates": {
       "lat": 42.083333333333336,
-      "lon": 2.033333333333333
+      "lon": 20.416666666666668
     }
   },
   {
@@ -208,14 +209,14 @@
     "name": "Lezhe",
     "nameWoDiacritics": "Lezhe",
     "subdivision": "LE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 41.78333333333333,
-      "lon": 2.55
+      "lon": 19.633333333333333
     }
   },
   {
@@ -224,14 +225,14 @@
     "name": "LushnjÎ",
     "nameWoDiacritics": "Lushnje",
     "subdivision": "LU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 40.93333333333333,
-      "lon": 2.5666666666666664
+      "lon": 19.7
     }
   },
   {
@@ -240,14 +241,14 @@
     "name": "Mbreshtan",
     "nameWoDiacritics": "Mbreshtan",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1701,
     "coordinates": {
       "lat": 40.7,
-      "lon": 2.583333333333333
+      "lon": 19.866666666666667
     }
   },
   {
@@ -256,14 +257,14 @@
     "name": "Milot",
     "nameWoDiacritics": "Milot",
     "subdivision": 8,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1801,
     "coordinates": {
       "lat": 41.666666666666664,
-      "lon": 2.5666666666666664
+      "lon": 19.716666666666665
     }
   },
   {
@@ -272,7 +273,7 @@
     "name": "Romano Port",
     "nameWoDiacritics": "Romano Port",
     "subdivision": 2,
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -280,7 +281,7 @@
     "date": 1901,
     "coordinates": {
       "lat": 41.36666666666667,
-      "lon": 2.533333333333333
+      "lon": 19.416666666666668
     }
   },
   {
@@ -289,14 +290,14 @@
     "name": "SarandÎ",
     "nameWoDiacritics": "Sarande",
     "subdivision": "SR",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 212,
     "coordinates": {
       "lat": 39.88333333333333,
-      "lon": 2
+      "lon": 20
     }
   },
   {
@@ -305,14 +306,14 @@
     "name": "ShÎngjin",
     "nameWoDiacritics": "Shengjin",
     "subdivision": "LE",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 212,
     "coordinates": {
       "lat": 41.8,
-      "lon": 2.55
+      "lon": 19.566666666666666
     }
   },
   {
@@ -320,14 +321,14 @@
     "location": "SHK",
     "name": "Shkoder",
     "nameWoDiacritics": "Shkoder",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 42.06666666666667,
-      "lon": 2.55
+      "lon": 19.516666666666666
     }
   },
   {
@@ -336,14 +337,14 @@
     "name": "Shkozet",
     "nameWoDiacritics": "Shkozet",
     "subdivision": "KA",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 42.03333333333333,
-      "lon": 2.55
+      "lon": 19.566666666666666
     }
   },
   {
@@ -351,7 +352,7 @@
     "location": "TEN",
     "name": "Tenes",
     "nameWoDiacritics": "Tenes",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -366,7 +367,7 @@
     "location": "TIA",
     "name": "Tirana",
     "nameWoDiacritics": "Tirana",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -383,14 +384,14 @@
     "name": "VlorÎ",
     "nameWoDiacritics": "Vlore",
     "subdivision": "VL",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1501,
     "coordinates": {
       "lat": 40.46666666666667,
-      "lon": 2.533333333333333
+      "lon": 19.483333333333334
     }
   },
   {
@@ -399,14 +400,14 @@
     "name": "Vore",
     "nameWoDiacritics": "Vore",
     "subdivision": "TR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 41.38333333333333,
-      "lon": 2.55
+      "lon": 19.65
     }
   }
 ]

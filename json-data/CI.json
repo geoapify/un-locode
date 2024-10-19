@@ -2,6 +2,7 @@
   {
     "country": "CI",
     "name": ".C‘TE D'IVOIRE",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "OGO",
     "name": "Abengourou",
     "nameWoDiacritics": "Abengourou",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -29,7 +30,7 @@
     "name": "Abidjan",
     "nameWoDiacritics": "Abidjan",
     "subdivision": "AB",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -38,7 +39,7 @@
     "date": 1701,
     "coordinates": {
       "lat": 5.333333333333333,
-      "lon": 0.6666666666666666
+      "lon": -4.016666666666667
     }
   },
   {
@@ -46,14 +47,14 @@
     "location": "ABO",
     "name": "Aboisso",
     "nameWoDiacritics": "Aboisso",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 5.466666666666667,
-      "lon": 0.5166666666666667
+      "lon": -3.2
     }
   },
   {
@@ -61,14 +62,14 @@
     "location": "ADZ",
     "name": "AdzopÈ",
     "nameWoDiacritics": "Adzope",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 401,
     "coordinates": {
       "lat": 6.1,
-      "lon": 0.5833333333333334
+      "lon": -3.85
     }
   },
   {
@@ -76,7 +77,7 @@
     "location": "AGB",
     "name": "Agboville",
     "nameWoDiacritics": "Agboville",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -84,7 +85,7 @@
     "date": 401,
     "coordinates": {
       "lat": 5.933333333333334,
-      "lon": 0.6833333333333333
+      "lon": -4.216666666666667
     }
   },
   {
@@ -92,7 +93,7 @@
     "location": "AFI",
     "name": "Amalfi",
     "nameWoDiacritics": "Amalfi",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -107,7 +108,7 @@
     "location": "ASS",
     "name": "Assinie-Mafia",
     "nameWoDiacritics": "Assinie-Mafia",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -115,7 +116,7 @@
     "date": 701,
     "coordinates": {
       "lat": 5.116666666666666,
-      "lon": 0.5166666666666667
+      "lon": -3.283333333333333
     }
   },
   {
@@ -123,7 +124,7 @@
     "location": "BAO",
     "name": "Baobab Terminal",
     "nameWoDiacritics": "Baobab Terminal",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -131,7 +132,7 @@
     "date": 901,
     "coordinates": {
       "lat": 4.95,
-      "lon": 0.7166666666666667
+      "lon": -4.55
     }
   },
   {
@@ -140,14 +141,14 @@
     "name": "Bingerville",
     "nameWoDiacritics": "Bingerville",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 5.35,
-      "lon": 0.5833333333333334
+      "lon": -3.9
     }
   },
   {
@@ -155,7 +156,7 @@
     "location": "BDK",
     "name": "Bondoukou",
     "nameWoDiacritics": "Bondoukou",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -170,14 +171,14 @@
     "location": "BGG",
     "name": "Bongouanou",
     "nameWoDiacritics": "Bongouanou",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 6.65,
-      "lon": 0.6833333333333333
+      "lon": -4.2
     }
   },
   {
@@ -185,14 +186,14 @@
     "location": "BON",
     "name": "Bonoua",
     "nameWoDiacritics": "Bonoua",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 401,
     "coordinates": {
       "lat": 5.266666666666667,
-      "lon": 0.55
+      "lon": -3.6
     }
   },
   {
@@ -200,14 +201,14 @@
     "location": "BRZ",
     "name": "Borotou",
     "nameWoDiacritics": "Borotou",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 8.733333333333333,
-      "lon": 1.2
+      "lon": -7.483333333333333
     }
   },
   {
@@ -215,7 +216,7 @@
     "location": "BYK",
     "name": "BouakÈ",
     "nameWoDiacritics": "Bouake",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -230,14 +231,14 @@
     "location": "BQO",
     "name": "Bouna",
     "nameWoDiacritics": "Bouna",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 9.266666666666667,
-      "lon": 0.5
+      "lon": -3
     }
   },
   {
@@ -245,14 +246,14 @@
     "location": "BXI",
     "name": "Boundiali",
     "nameWoDiacritics": "Boundiali",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 9.516666666666667,
-      "lon": 1.0333333333333334
+      "lon": -6.483333333333333
     }
   },
   {
@@ -260,14 +261,14 @@
     "location": "BUU",
     "name": "Buyo",
     "nameWoDiacritics": "Buyo",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 6.266666666666667,
-      "lon": 1.1666666666666667
+      "lon": -7.05
     }
   },
   {
@@ -275,14 +276,14 @@
     "location": "COD",
     "name": "Cocody",
     "nameWoDiacritics": "Cocody",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 5.35,
-      "lon": 0.6666666666666666
+      "lon": -4
     }
   },
   {
@@ -290,7 +291,7 @@
     "location": "DAB",
     "name": "Dabou",
     "nameWoDiacritics": "Dabou",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -298,7 +299,7 @@
     "date": 407,
     "coordinates": {
       "lat": 5.316666666666666,
-      "lon": 0.7
+      "lon": -4.366666666666666
     }
   },
   {
@@ -306,7 +307,7 @@
     "location": "DJO",
     "name": "Daloa",
     "nameWoDiacritics": "Daloa",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -321,14 +322,14 @@
     "location": "DNC",
     "name": "Danane",
     "nameWoDiacritics": "Danane",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 7.25,
-      "lon": 1.3333333333333333
+      "lon": -8.15
     }
   },
   {
@@ -336,14 +337,14 @@
     "location": "DIM",
     "name": "Dimbokro",
     "nameWoDiacritics": "Dimbokro",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 6.65,
-      "lon": 0.7333333333333333
+      "lon": -4.666666666666667
     }
   },
   {
@@ -351,14 +352,14 @@
     "location": "DIV",
     "name": "Divo",
     "nameWoDiacritics": "Divo",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 5.833333333333333,
-      "lon": 0.8666666666666667
+      "lon": -5.35
     }
   },
   {
@@ -367,14 +368,14 @@
     "name": "Djibi",
     "nameWoDiacritics": "Djibi",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 5.45,
-      "lon": 0.5833333333333334
+      "lon": -3.9833333333333334
     }
   },
   {
@@ -382,14 +383,14 @@
     "location": "ESP",
     "name": "Espoir",
     "nameWoDiacritics": "Espoir",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 907,
     "coordinates": {
       "lat": 5.066666666666666,
-      "lon": 0.7
+      "lon": -4.383333333333334
     }
   },
   {
@@ -397,7 +398,7 @@
     "location": "FEK",
     "name": "FerkessÈdougou",
     "nameWoDiacritics": "Ferkessedougou",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -405,7 +406,7 @@
     "date": 212,
     "coordinates": {
       "lat": 9.6,
-      "lon": 0.85
+      "lon": -5.2
     }
   },
   {
@@ -413,7 +414,7 @@
     "location": "FRE",
     "name": "Fresco",
     "nameWoDiacritics": "Fresco",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -421,7 +422,7 @@
     "date": 701,
     "coordinates": {
       "lat": 5.083333333333333,
-      "lon": 0.8833333333333333
+      "lon": -5.566666666666666
     }
   },
   {
@@ -429,7 +430,7 @@
     "location": "GGN",
     "name": "Gagnoa",
     "nameWoDiacritics": "Gagnoa",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -437,7 +438,7 @@
     "date": 401,
     "coordinates": {
       "lat": 6.133333333333334,
-      "lon": 0.9166666666666666
+      "lon": -5.933333333333334
     }
   },
   {
@@ -445,14 +446,14 @@
     "location": "GBA",
     "name": "Gbabam",
     "nameWoDiacritics": "Gbabam",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 212,
     "coordinates": {
       "lat": 5.466666666666667,
-      "lon": 0.8833333333333333
+      "lon": -5.583333333333333
     }
   },
   {
@@ -460,7 +461,7 @@
     "location": "GLU",
     "name": "Grand Lahou",
     "nameWoDiacritics": "Grand Lahou",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -468,7 +469,7 @@
     "date": 701,
     "coordinates": {
       "lat": 5.133333333333334,
-      "lon": 0.8333333333333334
+      "lon": -5.016666666666667
     }
   },
   {
@@ -477,14 +478,14 @@
     "name": "Grand-BÈrÈby",
     "nameWoDiacritics": "Grand-Bereby",
     "subdivision": 9,
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 1501,
     "coordinates": {
       "lat": 4.666666666666667,
-      "lon": 1.1666666666666667
+      "lon": -7.066666666666666
     }
   },
   {
@@ -493,7 +494,7 @@
     "name": "GuiembÈ",
     "nameWoDiacritics": "Guiembe",
     "subdivision": "SV",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -501,7 +502,7 @@
     "date": 1601,
     "coordinates": {
       "lat": 9.233333333333333,
-      "lon": 0.9
+      "lon": -5.716666666666667
     }
   },
   {
@@ -509,7 +510,7 @@
     "location": "GGO",
     "name": "Guiglo",
     "nameWoDiacritics": "Guiglo",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -517,7 +518,7 @@
     "date": 401,
     "coordinates": {
       "lat": 6.533333333333333,
-      "lon": 1.2
+      "lon": -7.483333333333333
     }
   },
   {
@@ -525,14 +526,14 @@
     "location": "JAC",
     "name": "Jacqueville",
     "nameWoDiacritics": "Jacqueville",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 212,
     "coordinates": {
       "lat": 5.2,
-      "lon": 0.7
+      "lon": -4.416666666666667
     }
   },
   {
@@ -540,14 +541,14 @@
     "location": "KTC",
     "name": "Katiola",
     "nameWoDiacritics": "Katiola",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 9.65,
-      "lon": 1.2166666666666666
+      "lon": -7.616666666666667
     }
   },
   {
@@ -555,7 +556,7 @@
     "location": "HGO",
     "name": "Korhogo",
     "nameWoDiacritics": "Korhogo",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -570,14 +571,14 @@
     "location": "KOS",
     "name": "Kosagi",
     "nameWoDiacritics": "Kosagi",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 212,
     "coordinates": {
       "lat": 8.216666666666667,
-      "lon": 1.3333333333333333
+      "lon": -8.1
     }
   },
   {
@@ -586,14 +587,14 @@
     "name": "Koumassi",
     "nameWoDiacritics": "Koumassi",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 5.283333333333333,
-      "lon": 0.5833333333333334
+      "lon": -3.966666666666667
     }
   },
   {
@@ -601,14 +602,14 @@
     "location": "LKT",
     "name": "Lakota",
     "nameWoDiacritics": "Lakota",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 5.85,
-      "lon": 0.9
+      "lon": -5.683333333333334
     }
   },
   {
@@ -616,7 +617,7 @@
     "location": "MJC",
     "name": "Man",
     "nameWoDiacritics": "Man",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -631,14 +632,14 @@
     "location": "MOK",
     "name": "Mankono",
     "nameWoDiacritics": "Mankono",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 8.016666666666667,
-      "lon": 1
+      "lon": -6.15
     }
   },
   {
@@ -646,14 +647,14 @@
     "location": "XMB",
     "name": "M'Bahiakro",
     "nameWoDiacritics": "M'Bahiakro",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 7.45,
-      "lon": 0.7
+      "lon": -4.333333333333333
     }
   },
   {
@@ -661,14 +662,14 @@
     "location": "NKL",
     "name": "Nakala",
     "nameWoDiacritics": "Nakala",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 601,
     "coordinates": {
       "lat": 8.466666666666667,
-      "lon": 0.6833333333333333
+      "lon": -4.266666666666667
     }
   },
   {
@@ -676,14 +677,14 @@
     "location": "KEO",
     "name": "OdiennÈ",
     "nameWoDiacritics": "Odienne",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 212,
     "coordinates": {
       "lat": 9.5,
-      "lon": 1.2166666666666666
+      "lon": -7.566666666666666
     }
   },
   {
@@ -691,14 +692,14 @@
     "location": "OFI",
     "name": "Ouango Fitni",
     "nameWoDiacritics": "Ouango Fitni",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 9.6,
-      "lon": 0.6666666666666666
+      "lon": -4.016666666666667
     }
   },
   {
@@ -706,14 +707,14 @@
     "location": "PBT",
     "name": "Port-BouÎt",
     "nameWoDiacritics": "Port-Bouet",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 212,
     "coordinates": {
       "lat": 5.25,
-      "lon": 0.5833333333333334
+      "lon": -3.966666666666667
     }
   },
   {
@@ -722,7 +723,7 @@
     "name": "San-PÈdro",
     "nameWoDiacritics": "San-Pedro",
     "subdivision": 9,
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -731,7 +732,7 @@
     "date": 1401,
     "coordinates": {
       "lat": 4.733333333333333,
-      "lon": 1.05
+      "lon": -6.616666666666667
     }
   },
   {
@@ -739,7 +740,7 @@
     "location": "ZSS",
     "name": "Sassandra",
     "nameWoDiacritics": "Sassandra",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -755,7 +756,7 @@
     "location": "SEQ",
     "name": "Seguela",
     "nameWoDiacritics": "Seguela",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -770,14 +771,14 @@
     "location": "SGL",
     "name": "SÈguÈla",
     "nameWoDiacritics": "Seguela",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 601,
     "coordinates": {
       "lat": 7.95,
-      "lon": 1.0666666666666667
+      "lon": -6.666666666666667
     }
   },
   {
@@ -785,14 +786,14 @@
     "location": "SFR",
     "name": "Sinfra",
     "nameWoDiacritics": "Sinfra",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 6.616666666666667,
-      "lon": 0.9166666666666666
+      "lon": -5.916666666666667
     }
   },
   {
@@ -800,14 +801,14 @@
     "location": "TBX",
     "name": "Taabo",
     "nameWoDiacritics": "Taabo",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 6.216666666666667,
-      "lon": 0.8333333333333334
+      "lon": -5.116666666666666
     }
   },
   {
@@ -815,7 +816,7 @@
     "location": "TXU",
     "name": "Tabou",
     "nameWoDiacritics": "Tabou",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -830,14 +831,14 @@
     "location": "TIA",
     "name": "TiassalÈ",
     "nameWoDiacritics": "Tiassale",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 401,
     "coordinates": {
       "lat": 5.883333333333333,
-      "lon": 0.7333333333333333
+      "lon": -4.816666666666666
     }
   },
   {
@@ -845,14 +846,14 @@
     "location": "TGX",
     "name": "Tingrela",
     "nameWoDiacritics": "Tingrela",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 10.483333333333333,
-      "lon": 1.0333333333333334
+      "lon": -6.4
     }
   },
   {
@@ -860,14 +861,14 @@
     "location": "TOZ",
     "name": "Touba",
     "nameWoDiacritics": "Touba",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 8.266666666666667,
-      "lon": 1.2333333333333334
+      "lon": -7.666666666666667
     }
   },
   {
@@ -876,14 +877,14 @@
     "name": "Vridi",
     "nameWoDiacritics": "Vridi",
     "subdivision": 10,
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 5.25,
-      "lon": 0.5833333333333334
+      "lon": -3.9833333333333334
     }
   },
   {
@@ -891,7 +892,7 @@
     "location": "ASK",
     "name": "Yamoussoukro",
     "nameWoDiacritics": "Yamoussoukro",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -907,14 +908,14 @@
     "name": "Yopougon",
     "nameWoDiacritics": "Yopougon",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 5.333333333333333,
-      "lon": 0.6666666666666666
+      "lon": -4.066666666666666
     }
   },
   {
@@ -923,14 +924,14 @@
     "name": "Yopougon-Attie",
     "nameWoDiacritics": "Yopougon-Attie",
     "subdivision": 16,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 5.35,
-      "lon": 0.6666666666666666
+      "lon": -4.066666666666666
     }
   },
   {
@@ -938,14 +939,14 @@
     "location": "ZUE",
     "name": "Zuenoula",
     "nameWoDiacritics": "Zuenoula",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 7.416666666666667,
-      "lon": 1
+      "lon": -6.033333333333333
     }
   }
 ]

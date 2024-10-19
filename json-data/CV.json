@@ -2,6 +2,7 @@
   {
     "country": "CV",
     "name": ".CAPE VERDE",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -14,14 +15,14 @@
     "name": "Assomada",
     "nameWoDiacritics": "Assomada",
     "subdivision": "CA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 15.1,
-      "lon": 2.5666666666666664
+      "lon": -23.683333333333334
     }
   },
   {
@@ -29,14 +30,14 @@
     "location": "BVC",
     "name": "Boa Vista",
     "nameWoDiacritics": "Boa Vista",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 2.8333333333333335,
-      "lon": 6.066666666666666
+      "lon": -60.68333333333333
     }
   },
   {
@@ -44,14 +45,14 @@
     "location": "BVR",
     "name": "Brava",
     "nameWoDiacritics": "Brava",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": -31.666666666666668,
-      "lon": 6.05
+      "lon": -56.583333333333336
     }
   },
   {
@@ -60,14 +61,14 @@
     "name": "Ilha do Sal",
     "nameWoDiacritics": "Ilha do Sal",
     "subdivision": "SL",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 1307,
     "coordinates": {
       "lat": 16.75,
-      "lon": 2.4166666666666665
+      "lon": -22.916666666666668
     }
   },
   {
@@ -75,7 +76,7 @@
     "location": "MMO",
     "name": "Maio",
     "nameWoDiacritics": "Maio",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -91,7 +92,7 @@
     "name": "Mindelo",
     "nameWoDiacritics": "Mindelo",
     "subdivision": "SV",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -99,7 +100,7 @@
     "date": 1307,
     "coordinates": {
       "lat": 16.883333333333333,
-      "lon": 2.8333333333333335
+      "lon": -25
     }
   },
   {
@@ -107,7 +108,7 @@
     "location": "MTI",
     "name": "Mosteiros",
     "nameWoDiacritics": "Mosteiros",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -122,7 +123,7 @@
     "location": "PAL",
     "name": "Palmeira",
     "nameWoDiacritics": "Palmeira",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -137,7 +138,7 @@
     "location": "PLM",
     "name": "Pedra de Lume",
     "nameWoDiacritics": "Pedra de Lume",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -153,14 +154,14 @@
     "name": "Porto Grande",
     "nameWoDiacritics": "Porto Grande",
     "subdivision": "SV",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1307,
     "coordinates": {
       "lat": 16.866666666666667,
-      "lon": 2.8333333333333335
+      "lon": -25
     }
   },
   {
@@ -169,14 +170,14 @@
     "name": "Porto Inglez",
     "nameWoDiacritics": "Porto Inglez",
     "subdivision": "MA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 15.133333333333333,
-      "lon": 2.5166666666666666
+      "lon": -23.216666666666665
     }
   },
   {
@@ -184,7 +185,7 @@
     "location": "PON",
     "name": "Porto Novo",
     "nameWoDiacritics": "Porto Novo",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -199,7 +200,7 @@
     "location": "POP",
     "name": "Porto Preguica",
     "nameWoDiacritics": "Porto Preguica",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -214,7 +215,7 @@
     "location": "RAI",
     "name": "Praia",
     "nameWoDiacritics": "Praia",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -230,7 +231,7 @@
     "location": "SAR",
     "name": "Sal Rei",
     "nameWoDiacritics": "Sal Rei",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -245,7 +246,7 @@
     "location": "SAM",
     "name": "Santa Maria",
     "nameWoDiacritics": "Santa Maria",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -261,14 +262,14 @@
     "name": "Santiago",
     "nameWoDiacritics": "Santiago",
     "subdivision": "MA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 15.133333333333333,
-      "lon": 2.55
+      "lon": -23.533333333333335
     }
   },
   {
@@ -276,7 +277,7 @@
     "location": "NTO",
     "name": "Santo Antao",
     "nameWoDiacritics": "Santo Antao",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -292,14 +293,14 @@
     "name": "Sao Filipe",
     "nameWoDiacritics": "Sao Filipe",
     "subdivision": "SF",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 1307,
     "coordinates": {
       "lat": 14.9,
-      "lon": 2.716666666666667
+      "lon": -24.516666666666666
     }
   },
   {
@@ -307,7 +308,7 @@
     "location": "SNE",
     "name": "Sao Nicolau",
     "nameWoDiacritics": "Sao Nicolau",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -322,7 +323,7 @@
     "location": "VXE",
     "name": "Sao Vicente",
     "nameWoDiacritics": "Sao Vicente",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -339,7 +340,7 @@
     "location": "TAR",
     "name": "Tarrafal",
     "nameWoDiacritics": "Tarrafal",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],

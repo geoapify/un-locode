@@ -6,7 +6,7 @@
     "name": ".LIECHTENSTEIN",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Balzers",
     "nameWoDiacritics": "Balzers",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.06666666666667,
-      "lon": 1.55
+      "lon": 9.5
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Eschen",
     "nameWoDiacritics": "Eschen",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -50,7 +50,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.2,
-      "lon": 1.55
+      "lon": 9.516666666666667
     },
     "remarks": ""
   },
@@ -61,7 +61,7 @@
     "name": "Gamprin-Bendern",
     "nameWoDiacritics": "Gamprin-Bendern",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -80,7 +80,7 @@
     "name": "Mauren",
     "nameWoDiacritics": "Mauren",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -88,7 +88,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.21666666666667,
-      "lon": 1.55
+      "lon": 9.533333333333333
     },
     "remarks": ""
   },
@@ -99,7 +99,7 @@
     "name": "Nendeln",
     "nameWoDiacritics": "Nendeln",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -107,7 +107,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.2,
-      "lon": 1.55
+      "lon": 9.55
     },
     "remarks": ""
   },
@@ -118,7 +118,7 @@
     "name": "Planken",
     "nameWoDiacritics": "Planken",
     "subdivision": "05",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -126,7 +126,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.18333333333333,
-      "lon": 1.55
+      "lon": 9.533333333333333
     },
     "remarks": ""
   },
@@ -137,7 +137,7 @@
     "name": "Ruggell",
     "nameWoDiacritics": "Ruggell",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -145,7 +145,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.233333333333334,
-      "lon": 1.55
+      "lon": 9.516666666666667
     },
     "remarks": ""
   },
@@ -156,7 +156,7 @@
     "name": "Schaan",
     "nameWoDiacritics": "Schaan",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -165,7 +165,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.166666666666664,
-      "lon": 1.55
+      "lon": 9.5
     },
     "remarks": ""
   },
@@ -176,7 +176,7 @@
     "name": "Schaanwald",
     "nameWoDiacritics": "Schaanwald",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       7
@@ -185,7 +185,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.21666666666667,
-      "lon": 1.55
+      "lon": 9.566666666666666
     },
     "remarks": ""
   },
@@ -196,7 +196,7 @@
     "name": "Triesen",
     "nameWoDiacritics": "Triesen",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -215,7 +215,7 @@
     "name": "Vaduz",
     "nameWoDiacritics": "Vaduz",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -223,7 +223,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.15,
-      "lon": 1.55
+      "lon": 9.533333333333333
     },
     "remarks": ""
   }

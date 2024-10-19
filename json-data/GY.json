@@ -2,6 +2,7 @@
   {
     "country": "GY",
     "name": ".GUYANA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,14 +14,14 @@
     "location": "ANT",
     "name": "Adventure",
     "nameWoDiacritics": "Adventure",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 7.083333333333333,
-      "lon": 6.366666666666667
+      "lon": -58.483333333333334
     }
   },
   {
@@ -29,14 +30,14 @@
     "name": "Agricola Village",
     "nameWoDiacritics": "Agricola Village",
     "subdivision": "DE",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 6.466666666666667,
-      "lon": 6.35
+      "lon": -58.166666666666664
     }
   },
   {
@@ -44,7 +45,7 @@
     "location": "AHL",
     "name": "Aishalton",
     "nameWoDiacritics": "Aishalton",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -59,7 +60,7 @@
     "location": "NAI",
     "name": "Annai",
     "nameWoDiacritics": "Annai",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -74,7 +75,7 @@
     "location": "BMJ",
     "name": "Baramita",
     "nameWoDiacritics": "Baramita",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -90,14 +91,14 @@
     "name": "Bartica",
     "nameWoDiacritics": "Bartica",
     "subdivision": "UD",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 5.783333333333333,
-      "lon": 6.216666666666667
+      "lon": -57.63333333333333
     }
   },
   {
@@ -105,7 +106,7 @@
     "location": "GFO",
     "name": "Bartica",
     "nameWoDiacritics": "Bartica",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -121,7 +122,7 @@
     "location": "BCG",
     "name": "Bemichi",
     "nameWoDiacritics": "Bemichi",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -137,14 +138,14 @@
     "name": "Bourda",
     "nameWoDiacritics": "Bourda",
     "subdivision": "DE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 6.816666666666666,
-      "lon": 6.333333333333333
+      "lon": -58.15
     }
   },
   {
@@ -152,14 +153,14 @@
     "location": "CAY",
     "name": "Cayenne",
     "nameWoDiacritics": "Cayenne",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1801,
     "coordinates": {
       "lat": 4.933333333333334,
-      "lon": 5.35
+      "lon": -52.31666666666667
     }
   },
   {
@@ -168,14 +169,14 @@
     "name": "Diamond",
     "nameWoDiacritics": "Diamond",
     "subdivision": "ES",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1801,
     "coordinates": {
       "lat": 6.716666666666667,
-      "lon": 6.35
+      "lon": -58.18333333333333
     }
   },
   {
@@ -183,7 +184,7 @@
     "location": "EKE",
     "name": "Ekereku",
     "nameWoDiacritics": "Ekereku",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -199,14 +200,14 @@
     "name": "Enmore",
     "nameWoDiacritics": "Enmore",
     "subdivision": "DE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 6.766666666666667,
-      "lon": 6.25
+      "lon": -57.983333333333334
     }
   },
   {
@@ -215,7 +216,7 @@
     "name": "Everton",
     "nameWoDiacritics": "Everton",
     "subdivision": "DE",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       2,
@@ -224,7 +225,7 @@
     "date": 701,
     "coordinates": {
       "lat": 6.916666666666667,
-      "lon": 6.366666666666667
+      "lon": -58.333333333333336
     }
   },
   {
@@ -232,7 +233,7 @@
     "location": "GEO",
     "name": "Georgetown",
     "nameWoDiacritics": "Georgetown",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -249,7 +250,7 @@
     "location": "IMB",
     "name": "Imbaimadai",
     "nameWoDiacritics": "Imbaimadai",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -264,7 +265,7 @@
     "location": "KAI",
     "name": "Kaieteur",
     "nameWoDiacritics": "Kaieteur",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -279,7 +280,7 @@
     "location": "KAR",
     "name": "Kamarang",
     "nameWoDiacritics": "Kamarang",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -294,7 +295,7 @@
     "location": "KRM",
     "name": "Karanambo",
     "nameWoDiacritics": "Karanambo",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -309,7 +310,7 @@
     "location": "KRG",
     "name": "Karasabai",
     "nameWoDiacritics": "Karasabai",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -324,7 +325,7 @@
     "location": "KTO",
     "name": "Kato",
     "nameWoDiacritics": "Kato",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -339,7 +340,7 @@
     "location": "KKG",
     "name": "Konawaruk",
     "nameWoDiacritics": "Konawaruk",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -354,7 +355,7 @@
     "location": "KPG",
     "name": "Kurupung",
     "nameWoDiacritics": "Kurupung",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -369,7 +370,7 @@
     "location": "LTM",
     "name": "Lethem",
     "nameWoDiacritics": "Lethem",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -384,14 +385,14 @@
     "location": "LDN",
     "name": "Linden",
     "nameWoDiacritics": "Linden",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 101,
     "coordinates": {
       "lat": 6,
-      "lon": 6.35
+      "lon": -58.28333333333333
     }
   },
   {
@@ -399,7 +400,7 @@
     "location": "LUB",
     "name": "Lumid Pau",
     "nameWoDiacritics": "Lumid Pau",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -414,7 +415,7 @@
     "location": "USI",
     "name": "Mabaruma",
     "nameWoDiacritics": "Mabaruma",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -429,7 +430,7 @@
     "location": "MKZ",
     "name": "Mackenzie",
     "nameWoDiacritics": "Mackenzie",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -438,7 +439,7 @@
     "date": 607,
     "coordinates": {
       "lat": 6,
-      "lon": 6.35
+      "lon": -58.28333333333333
     }
   },
   {
@@ -446,7 +447,7 @@
     "location": "MHA",
     "name": "Mahdia",
     "nameWoDiacritics": "Mahdia",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -461,7 +462,7 @@
     "location": "VEG",
     "name": "Maikwak",
     "nameWoDiacritics": "Maikwak",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -476,7 +477,7 @@
     "location": "MWJ",
     "name": "Matthews Ridge",
     "nameWoDiacritics": "Matthews Ridge",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -491,7 +492,7 @@
     "location": "MYM",
     "name": "Monkey Mountain",
     "nameWoDiacritics": "Monkey Mountain",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -506,7 +507,7 @@
     "location": "NAM",
     "name": "New Amsterdam",
     "nameWoDiacritics": "New Amsterdam",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -523,7 +524,7 @@
     "location": "OGL",
     "name": "Ogle",
     "nameWoDiacritics": "Ogle",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -538,7 +539,7 @@
     "location": "ORJ",
     "name": "Orinduik",
     "nameWoDiacritics": "Orinduik",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -553,7 +554,7 @@
     "location": "PMT",
     "name": "Paramakotoi",
     "nameWoDiacritics": "Paramakotoi",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -568,7 +569,7 @@
     "location": "PRR",
     "name": "Paruima",
     "nameWoDiacritics": "Paruima",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -583,7 +584,7 @@
     "location": "PIQ",
     "name": "Pipillipai",
     "nameWoDiacritics": "Pipillipai",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -598,7 +599,7 @@
     "location": "PKM",
     "name": "Port Kaituma",
     "nameWoDiacritics": "Port Kaituma",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -614,14 +615,14 @@
     "name": "Rosignol",
     "nameWoDiacritics": "Rosignol",
     "subdivision": "MA",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 6.283333333333333,
-      "lon": 6.216666666666667
+      "lon": -57.53333333333333
     }
   },
   {
@@ -629,7 +630,7 @@
     "location": "SDC",
     "name": "Sandcreek",
     "nameWoDiacritics": "Sandcreek",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -644,7 +645,7 @@
     "location": "SKM",
     "name": "Skeldon",
     "nameWoDiacritics": "Skeldon",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -659,7 +660,7 @@
     "location": "THI",
     "name": "Thimery",
     "nameWoDiacritics": "Thimery",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],

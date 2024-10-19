@@ -6,7 +6,7 @@
     "name": ".TONGA",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "'Eua Island",
     "nameWoDiacritics": "'Eua Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": -21.366666666666667,
-      "lon": 17.75
+      "lon": -174.93333333333334
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Ha'apai",
     "nameWoDiacritics": "Ha'apai",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -62,7 +62,7 @@
     "name": "Neiafu",
     "nameWoDiacritics": "Neiafu",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -81,7 +81,7 @@
     "name": "Niuafo'ou",
     "nameWoDiacritics": "Niuafo'ou",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -100,7 +100,7 @@
     "name": "Niuatoputapu",
     "nameWoDiacritics": "Niuatoputapu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -119,7 +119,7 @@
     "name": "Nuku'alofa",
     "nameWoDiacritics": "Nuku'alofa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -129,7 +129,7 @@
     "iata": "",
     "coordinates": {
       "lat": -21.133333333333333,
-      "lon": 17.85
+      "lon": -175.2
     },
     "remarks": ""
   },
@@ -140,7 +140,7 @@
     "name": "Pangai",
     "nameWoDiacritics": "Pangai",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -159,7 +159,7 @@
     "name": "Vava'u",
     "nameWoDiacritics": "Vava'u",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],

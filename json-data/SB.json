@@ -6,7 +6,7 @@
     "name": ".SOLOMON ISLANDS",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Afutara",
     "nameWoDiacritics": "Afutara",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -42,7 +42,7 @@
     "name": "\"Allardyce Harbour",
     "nameWoDiacritics": " Sta Isabel Is\"",
     "subdivision": "\"Allardyce Harbour",
-    "status": " Sta Isabel Is\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -59,7 +59,7 @@
     "name": "Anuha Island",
     "nameWoDiacritics": "Anuha Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -67,7 +67,7 @@
     "iata": "",
     "coordinates": {
       "lat": -8.983333333333333,
-      "lon": 16.016666666666666
+      "lon": 160.21666666666667
     },
     "remarks": ""
   },
@@ -78,7 +78,7 @@
     "name": "Aola Bay",
     "nameWoDiacritics": "Aola Bay",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -97,7 +97,7 @@
     "name": "Arona",
     "nameWoDiacritics": "Arona",
     "subdivision": "CE",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -105,7 +105,7 @@
     "iata": "",
     "coordinates": {
       "lat": -9.216666666666667,
-      "lon": 16.183333333333334
+      "lon": 161.21666666666667
     },
     "remarks": ""
   },
@@ -116,7 +116,7 @@
     "name": "Ato'ifi",
     "nameWoDiacritics": "Ato'ifi",
     "subdivision": "ML",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -124,7 +124,7 @@
     "iata": "",
     "coordinates": {
       "lat": -8.85,
-      "lon": 16.166666666666668
+      "lon": 161.01666666666668
     },
     "remarks": ""
   },
@@ -135,7 +135,7 @@
     "name": "\"Auki",
     "nameWoDiacritics": " Malaita Is\"",
     "subdivision": "\"Auki",
-    "status": " Malaita Is\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1--4----",
@@ -152,7 +152,7 @@
     "name": "\"Avu Avu",
     "nameWoDiacritics": " Guadalcanal Is\"",
     "subdivision": "\"Avu Avu",
-    "status": " Guadalcanal Is\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "---4----",
@@ -169,7 +169,7 @@
     "name": "Balalai Island",
     "nameWoDiacritics": "Balalai Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -177,7 +177,7 @@
     "iata": "",
     "coordinates": {
       "lat": -6.983333333333333,
-      "lon": 15.916666666666666
+      "lon": 155.88333333333333
     },
     "remarks": ""
   },
@@ -188,7 +188,7 @@
     "name": "Barakoma",
     "nameWoDiacritics": "Barakoma",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -207,7 +207,7 @@
     "name": "Barora Ite Island",
     "nameWoDiacritics": "Barora Ite Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -215,7 +215,7 @@
     "iata": "",
     "coordinates": {
       "lat": -7.583333333333333,
-      "lon": 16.366666666666667
+      "lon": 158.4
     },
     "remarks": ""
   },
@@ -226,7 +226,7 @@
     "name": "Batuna",
     "nameWoDiacritics": "Batuna",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -245,7 +245,7 @@
     "name": "Bellona",
     "nameWoDiacritics": "Bellona",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -253,7 +253,7 @@
     "iata": "",
     "coordinates": {
       "lat": -11.283333333333333,
-      "lon": 16.566666666666666
+      "lon": 159.78333333333333
     },
     "remarks": ""
   },
@@ -264,7 +264,7 @@
     "name": "Choiseul Bay",
     "nameWoDiacritics": "Choiseul Bay",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -273,7 +273,7 @@
     "iata": "",
     "coordinates": {
       "lat": -6.7,
-      "lon": 16.033333333333335
+      "lon": 156.43333333333334
     },
     "remarks": ""
   },
@@ -284,7 +284,7 @@
     "name": "Fera Island",
     "nameWoDiacritics": "Fera Island",
     "subdivision": "IS",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -292,7 +292,7 @@
     "iata": "",
     "coordinates": {
       "lat": -8.1,
-      "lon": 16.55
+      "lon": 159.58333333333334
     },
     "remarks": ""
   },
@@ -303,7 +303,7 @@
     "name": "Filuo",
     "nameWoDiacritics": "Filuo",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -311,7 +311,7 @@
     "iata": "",
     "coordinates": {
       "lat": -7.766666666666667,
-      "lon": 16.383333333333333
+      "lon": 158.65
     },
     "remarks": ""
   },
@@ -322,7 +322,7 @@
     "name": "Geva",
     "nameWoDiacritics": "Geva",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -341,7 +341,7 @@
     "name": "Gizo",
     "nameWoDiacritics": "Gizo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -350,7 +350,7 @@
     "iata": "",
     "coordinates": {
       "lat": -8.1,
-      "lon": 16.083333333333332
+      "lon": 156.85
     },
     "remarks": ""
   },
@@ -361,7 +361,7 @@
     "name": "Guadalcanal",
     "nameWoDiacritics": "Guadalcanal",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -369,7 +369,7 @@
     "iata": "",
     "coordinates": {
       "lat": -9.516666666666667,
-      "lon": 16.016666666666666
+      "lon": 160.18333333333334
     },
     "remarks": ""
   },
@@ -380,7 +380,7 @@
     "name": "\"Honiara",
     "nameWoDiacritics": " Guadalcanal Is\"",
     "subdivision": "\"Honiara",
-    "status": " Guadalcanal Is\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1--45---",
@@ -397,7 +397,7 @@
     "name": "Jajao",
     "nameWoDiacritics": "Jajao",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -405,7 +405,7 @@
     "iata": "",
     "coordinates": {
       "lat": -8.2,
-      "lon": 16.516666666666666
+      "lon": 159.26666666666668
     },
     "remarks": ""
   },
@@ -416,7 +416,7 @@
     "name": "Kaghau Island",
     "nameWoDiacritics": "Kaghau Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -424,7 +424,7 @@
     "iata": "",
     "coordinates": {
       "lat": -7.333333333333333,
-      "lon": 16.216666666666665
+      "lon": 157.58333333333334
     },
     "remarks": ""
   },
@@ -435,7 +435,7 @@
     "name": "\"Kirakira",
     "nameWoDiacritics": " San Cristobal Is\"",
     "subdivision": "\"Kirakira",
-    "status": " San Cristobal Is\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1--4----",
@@ -452,7 +452,7 @@
     "name": "Kukundu",
     "nameWoDiacritics": "Kukundu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -471,7 +471,7 @@
     "name": "Kwai Harbour",
     "nameWoDiacritics": "Kwai Harbour",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -490,7 +490,7 @@
     "name": "Kwailabesi",
     "nameWoDiacritics": "Kwailabesi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -509,7 +509,7 @@
     "name": "Lata",
     "nameWoDiacritics": "Lata",
     "subdivision": "TE",
-    "status": "AM",
+    "status": 4,
     "function": [
       0,
       2,
@@ -519,7 +519,7 @@
     "iata": "",
     "coordinates": {
       "lat": -10.716666666666667,
-      "lon": 16.9
+      "lon": 165.8
     },
     "remarks": ""
   },
@@ -530,7 +530,7 @@
     "name": "Lever Harbour",
     "nameWoDiacritics": "Lever Harbour",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -538,7 +538,7 @@
     "iata": "",
     "coordinates": {
       "lat": -8.016666666666667,
-      "lon": 16.216666666666665
+      "lon": 157.6
     },
     "remarks": ""
   },
@@ -549,7 +549,7 @@
     "name": "Lofung",
     "nameWoDiacritics": "Lofung",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -568,7 +568,7 @@
     "name": "\"Marau Sound",
     "nameWoDiacritics": " Guadalcanal Is\"",
     "subdivision": "\"Marau Sound",
-    "status": " Guadalcanal Is\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1--4----",
@@ -585,7 +585,7 @@
     "name": "\"Mbambanakira",
     "nameWoDiacritics": " Guadalcanal Is\"",
     "subdivision": "\"Mbambanakira",
-    "status": " Guadalcanal Is\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "---4----",
@@ -602,7 +602,7 @@
     "name": "Mono",
     "nameWoDiacritics": "Mono",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -621,7 +621,7 @@
     "name": "\"Munda",
     "nameWoDiacritics": " New Georgia\"",
     "subdivision": "\"Munda",
-    "status": " New Georgia\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "---4----",
@@ -638,7 +638,7 @@
     "name": "Nana Apt / Star Harbour",
     "nameWoDiacritics": "Nana Apt / Star Harbour",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -646,7 +646,7 @@
     "iata": "",
     "coordinates": {
       "lat": -10.783333333333333,
-      "lon": 16.35
+      "lon": 162.3
     },
     "remarks": ""
   },
@@ -657,7 +657,7 @@
     "name": "Nemba",
     "nameWoDiacritics": "Nemba",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -666,7 +666,7 @@
     "iata": "",
     "coordinates": {
       "lat": -10.766666666666667,
-      "lon": 16.9
+      "lon": 165.7
     },
     "remarks": ""
   },
@@ -677,7 +677,7 @@
     "name": "Nggatokae Island",
     "nameWoDiacritics": "Nggatokae Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -685,7 +685,7 @@
     "iata": "",
     "coordinates": {
       "lat": -8.766666666666667,
-      "lon": 16.35
+      "lon": 158.18333333333334
     },
     "remarks": ""
   },
@@ -696,7 +696,7 @@
     "name": "\"Noro",
     "nameWoDiacritics": " New Georgia\"",
     "subdivision": "\"Noro",
-    "status": " New Georgia\"",
+    "status": null,
     "function": [],
     "date": "AC",
     "iata": "1-------",
@@ -713,7 +713,7 @@
     "name": "\"Onepusu",
     "nameWoDiacritics": " Malaita Island\"",
     "subdivision": "\"Onepusu",
-    "status": " Malaita Island\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "---4----",
@@ -730,7 +730,7 @@
     "name": "Ontong Java",
     "nameWoDiacritics": "Ontong Java",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -749,7 +749,7 @@
     "name": "\"Parasi",
     "nameWoDiacritics": " Malaita Island\"",
     "subdivision": "\"Parasi",
-    "status": " Malaita Island\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "---4----",
@@ -766,7 +766,7 @@
     "name": "Pulisingau",
     "nameWoDiacritics": "Pulisingau",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -774,7 +774,7 @@
     "iata": "",
     "coordinates": {
       "lat": -7.883333333333333,
-      "lon": 16.183333333333334
+      "lon": 157.16666666666666
     },
     "remarks": ""
   },
@@ -785,7 +785,7 @@
     "name": "Ramata",
     "nameWoDiacritics": "Ramata",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -804,7 +804,7 @@
     "name": "Rennell Island",
     "nameWoDiacritics": "Rennell Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -823,7 +823,7 @@
     "name": "\"Ringgi Cove",
     "nameWoDiacritics": " Kolombangara\"",
     "subdivision": "\"Ringgi Cove",
-    "status": " Kolombangara\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1--4----",
@@ -840,7 +840,7 @@
     "name": "Santa Ana",
     "nameWoDiacritics": "Santa Ana",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -859,7 +859,7 @@
     "name": "Santa Cruz Is",
     "nameWoDiacritics": "Santa Cruz Is",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -879,7 +879,7 @@
     "name": "Savo",
     "nameWoDiacritics": "Savo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -898,7 +898,7 @@
     "name": "Seghe",
     "nameWoDiacritics": "Seghe",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -906,7 +906,7 @@
     "iata": "",
     "coordinates": {
       "lat": -8.566666666666666,
-      "lon": 16.25
+      "lon": 157.88333333333333
     },
     "remarks": ""
   },
@@ -917,7 +917,7 @@
     "name": "Shortland Harbour",
     "nameWoDiacritics": "Shortland Harbour",
     "subdivision": "",
-    "status": "AC",
+    "status": 1,
     "function": [
       0
     ],
@@ -925,7 +925,7 @@
     "iata": "",
     "coordinates": {
       "lat": -7.083333333333333,
-      "lon": 15.916666666666666
+      "lon": 155.86666666666667
     },
     "remarks": ""
   },
@@ -936,7 +936,7 @@
     "name": "Suavanao",
     "nameWoDiacritics": "Suavanao",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -955,7 +955,7 @@
     "name": "Tarapaina",
     "nameWoDiacritics": "Tarapaina",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -974,7 +974,7 @@
     "name": "\"Tulagi",
     "nameWoDiacritics": " Ngella\"",
     "subdivision": "\"Tulagi",
-    "status": " Ngella\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1--4----",
@@ -991,7 +991,7 @@
     "name": "Viru Harbour",
     "nameWoDiacritics": "Viru Harbour",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -1011,7 +1011,7 @@
     "name": "\"Yandina",
     "nameWoDiacritics": " Russell Island\"",
     "subdivision": "\"Yandina",
-    "status": " Russell Island\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1-34----",

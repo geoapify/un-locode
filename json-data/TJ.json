@@ -6,7 +6,7 @@
     "name": ".TAJIKISTAN",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Chkalovsk",
     "nameWoDiacritics": "Chkalovsk",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": 40.233333333333334,
-      "lon": 7.566666666666666
+      "lon": 69.68333333333334
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Dushanbe",
     "nameWoDiacritics": "Dushanbe",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -61,7 +61,7 @@
     "name": "Garm",
     "nameWoDiacritics": "Garm",
     "subdivision": "GB",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -69,7 +69,7 @@
     "iata": "",
     "coordinates": {
       "lat": 39.016666666666666,
-      "lon": 7.033333333333333
+      "lon": 70.36666666666666
     },
     "remarks": ""
   },
@@ -80,7 +80,7 @@
     "name": "Isfara",
     "nameWoDiacritics": "Isfara",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -88,7 +88,7 @@
     "iata": "",
     "coordinates": {
       "lat": 40.11666666666667,
-      "lon": 7.05
+      "lon": 70.63333333333334
     },
     "remarks": ""
   },
@@ -99,7 +99,7 @@
     "name": "Khirmanak",
     "nameWoDiacritics": "Khirmanak",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -107,7 +107,7 @@
     "iata": "",
     "coordinates": {
       "lat": 38.583333333333336,
-      "lon": 7.383333333333333
+      "lon": 68.55
     },
     "remarks": ""
   },
@@ -118,7 +118,7 @@
     "name": "Khudzhand",
     "nameWoDiacritics": "Khudzhand",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -137,7 +137,7 @@
     "name": "Khujand",
     "nameWoDiacritics": "Khujand",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -145,7 +145,7 @@
     "iata": "",
     "coordinates": {
       "lat": 40.266666666666666,
-      "lon": 7.55
+      "lon": 69.61666666666666
     },
     "remarks": ""
   },
@@ -156,7 +156,7 @@
     "name": "Kulob",
     "nameWoDiacritics": "Kulob",
     "subdivision": "KT",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -164,7 +164,7 @@
     "iata": "",
     "coordinates": {
       "lat": 37.9,
-      "lon": 7.566666666666666
+      "lon": 69.76666666666667
     },
     "remarks": ""
   },
@@ -175,7 +175,7 @@
     "name": "Nurak (Nurek)",
     "nameWoDiacritics": "Nurak (Nurek)",
     "subdivision": "KT",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -183,7 +183,7 @@
     "iata": "",
     "coordinates": {
       "lat": 38.38333333333333,
-      "lon": 7.516666666666667
+      "lon": 69.31666666666666
     },
     "remarks": ""
   },
@@ -194,7 +194,7 @@
     "name": "Penjikent",
     "nameWoDiacritics": "Penjikent",
     "subdivision": "SU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -202,7 +202,7 @@
     "iata": "",
     "coordinates": {
       "lat": 39.5,
-      "lon": 7.216666666666667
+      "lon": 67.6
     },
     "remarks": ""
   },
@@ -213,7 +213,7 @@
     "name": "Qurghonteppa",
     "nameWoDiacritics": "Qurghonteppa",
     "subdivision": "KT",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -222,7 +222,7 @@
     "iata": "",
     "coordinates": {
       "lat": 37.833333333333336,
-      "lon": 7.4
+      "lon": 68.76666666666667
     },
     "remarks": ""
   },
@@ -233,7 +233,7 @@
     "name": "Shaartuz",
     "nameWoDiacritics": "Shaartuz",
     "subdivision": "KT",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -242,7 +242,7 @@
     "iata": "",
     "coordinates": {
       "lat": 37.25,
-      "lon": 7.333333333333333
+      "lon": 68.13333333333334
     },
     "remarks": ""
   },
@@ -253,7 +253,7 @@
     "name": "Vahdat",
     "nameWoDiacritics": "Vahdat",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -261,7 +261,7 @@
     "iata": "",
     "coordinates": {
       "lat": 38.55,
-      "lon": 7.5
+      "lon": 69.01666666666667
     },
     "remarks": ""
   }

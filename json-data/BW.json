@@ -2,6 +2,7 @@
   {
     "country": "BW",
     "name": ".BOTSWANA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -14,7 +15,7 @@
     "name": "Dukwi",
     "nameWoDiacritics": "Dukwi",
     "subdivision": "CE",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -22,7 +23,7 @@
     "date": 1201,
     "coordinates": {
       "lat": -20.583333333333332,
-      "lon": 3.05
+      "lon": 26.533333333333335
     }
   },
   {
@@ -31,7 +32,7 @@
     "name": "Francistown",
     "nameWoDiacritics": "Francistown",
     "subdivision": "NE",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -41,7 +42,7 @@
     "date": 407,
     "coordinates": {
       "lat": -21.166666666666668,
-      "lon": 3.216666666666667
+      "lon": 27.516666666666666
     }
   },
   {
@@ -49,14 +50,14 @@
     "location": "GAB",
     "name": "Gaberones Camp",
     "nameWoDiacritics": "Gaberones Camp",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1007,
     "coordinates": {
       "lat": -24.666666666666668,
-      "lon": 2.9166666666666665
+      "lon": 25.916666666666668
     }
   },
   {
@@ -64,7 +65,7 @@
     "location": "GBE",
     "name": "Gaborone",
     "nameWoDiacritics": "Gaborone",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3,
@@ -74,7 +75,7 @@
     "date": 907,
     "coordinates": {
       "lat": -24.666666666666668,
-      "lon": 2.9166666666666665
+      "lon": 25.916666666666668
     }
   },
   {
@@ -82,7 +83,7 @@
     "location": "GNZ",
     "name": "Ghanzi",
     "nameWoDiacritics": "Ghanzi",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -98,7 +99,7 @@
     "location": "HUK",
     "name": "Hukuntsi",
     "nameWoDiacritics": "Hukuntsi",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -113,7 +114,7 @@
     "location": "JWA",
     "name": "Jwaneng",
     "nameWoDiacritics": "Jwaneng",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -128,7 +129,7 @@
     "location": "BBK",
     "name": "Kasane",
     "nameWoDiacritics": "Kasane",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -143,7 +144,7 @@
     "location": "KHW",
     "name": "Khwai River Lodge",
     "nameWoDiacritics": "Khwai River Lodge",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -158,14 +159,14 @@
     "location": "LET",
     "name": "Letlhakane",
     "nameWoDiacritics": "Letlhakane",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 601,
     "coordinates": {
       "lat": -21.416666666666668,
-      "lon": 2.8833333333333333
+      "lon": 25.583333333333332
     }
   },
   {
@@ -173,7 +174,7 @@
     "location": "LOQ",
     "name": "Lobatse",
     "nameWoDiacritics": "Lobatse",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -188,7 +189,7 @@
     "location": "MAH",
     "name": "Mahalapye",
     "nameWoDiacritics": "Mahalapye",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -197,7 +198,7 @@
     "date": 601,
     "coordinates": {
       "lat": -23.1,
-      "lon": 3.083333333333333
+      "lon": 26.833333333333332
     }
   },
   {
@@ -205,7 +206,7 @@
     "location": "MUB",
     "name": "Maun",
     "nameWoDiacritics": "Maun",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -221,14 +222,14 @@
     "name": "Mogoditshane",
     "nameWoDiacritics": "Mogoditshane",
     "subdivision": "KW",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": -24.616666666666667,
-      "lon": 2.9166666666666665
+      "lon": 25.85
     }
   },
   {
@@ -236,7 +237,7 @@
     "location": "ORP",
     "name": "Orapa",
     "nameWoDiacritics": "Orapa",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -251,7 +252,7 @@
     "location": "PAL",
     "name": "Palapye",
     "nameWoDiacritics": "Palapye",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -259,7 +260,7 @@
     "date": 601,
     "coordinates": {
       "lat": -22.566666666666666,
-      "lon": 3.166666666666667
+      "lon": 27.133333333333333
     }
   },
   {
@@ -267,7 +268,7 @@
     "location": "RSA",
     "name": "Ramotswa",
     "nameWoDiacritics": "Ramotswa",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -275,7 +276,7 @@
     "date": 401,
     "coordinates": {
       "lat": -24.866666666666667,
-      "lon": 2.9
+      "lon": 25.816666666666666
     }
   },
   {
@@ -283,7 +284,7 @@
     "location": "SVT",
     "name": "Savuti",
     "nameWoDiacritics": "Savuti",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -298,7 +299,7 @@
     "location": "PKW",
     "name": "Selebi-Phikwe",
     "nameWoDiacritics": "Selebi-Phikwe",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -313,14 +314,14 @@
     "location": "SER",
     "name": "Serowe",
     "nameWoDiacritics": "Serowe",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 601,
     "coordinates": {
       "lat": -22.383333333333333,
-      "lon": 3.0666666666666664
+      "lon": 26.7
     }
   },
   {
@@ -328,7 +329,7 @@
     "location": "SWX",
     "name": "Shakawe",
     "nameWoDiacritics": "Shakawe",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -343,7 +344,7 @@
     "location": "SXN",
     "name": "Suapan",
     "nameWoDiacritics": "Suapan",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -358,7 +359,7 @@
     "location": "SUN",
     "name": "Sunnyside",
     "nameWoDiacritics": "Sunnyside",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -373,7 +374,7 @@
     "location": "TBY",
     "name": "Tsabong",
     "nameWoDiacritics": "Tsabong",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -388,7 +389,7 @@
     "location": "TLD",
     "name": "Tuli Lodge",
     "nameWoDiacritics": "Tuli Lodge",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],

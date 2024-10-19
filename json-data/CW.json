@@ -2,6 +2,7 @@
   {
     "country": "CW",
     "name": ".CURA«AO",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,14 +14,14 @@
     "location": "BUB",
     "name": "Bullenbaai",
     "nameWoDiacritics": "Bullenbaai",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1101,
     "coordinates": {
       "lat": 12.166666666666666,
-      "lon": 7.5
+      "lon": -69
     }
   },
   {
@@ -28,14 +29,14 @@
     "location": "CRB",
     "name": "Caracas Baai",
     "nameWoDiacritics": "Caracas Baai",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
     "date": 1101,
     "coordinates": {
       "lat": 12.066666666666666,
-      "lon": 7.416666666666667
+      "lon": -68.85
     }
   },
   {
@@ -43,7 +44,7 @@
     "location": "CUR",
     "name": "CuraÁao",
     "nameWoDiacritics": "Curacao",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -52,7 +53,7 @@
     "date": 1101,
     "coordinates": {
       "lat": 12.166666666666666,
-      "lon": 7.5
+      "lon": -69
     }
   },
   {
@@ -60,14 +61,14 @@
     "location": "DGT",
     "name": "Dominguito",
     "nameWoDiacritics": "Dominguito",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 12.1,
-      "lon": 7.416666666666667
+      "lon": -68.9
     }
   },
   {
@@ -75,14 +76,14 @@
     "location": "EMM",
     "name": "Emmastad",
     "nameWoDiacritics": "Emmastad",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 12.133333333333333,
-      "lon": 7.416666666666667
+      "lon": -68.91666666666667
     }
   },
   {
@@ -90,14 +91,14 @@
     "location": "FUI",
     "name": "Fuikbaai",
     "nameWoDiacritics": "Fuikbaai",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
     "date": 1101,
     "coordinates": {
       "lat": 12.05,
-      "lon": 7.4
+      "lon": -68.81666666666666
     }
   },
   {
@@ -105,14 +106,14 @@
     "location": "GBG",
     "name": "Grote Berg",
     "nameWoDiacritics": "Grote Berg",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1801,
     "coordinates": {
       "lat": 12.183333333333334,
-      "lon": 7.416666666666667
+      "lon": -68.98333333333333
     }
   },
   {
@@ -120,14 +121,14 @@
     "location": "OTB",
     "name": "Otrobanda",
     "nameWoDiacritics": "Otrobanda",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 12.133333333333333,
-      "lon": 7.416666666666667
+      "lon": -68.95
     }
   },
   {
@@ -135,14 +136,14 @@
     "location": "PUN",
     "name": "Punda",
     "nameWoDiacritics": "Punda",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 12.1,
-      "lon": 7.416666666666667
+      "lon": -68.91666666666667
     }
   },
   {
@@ -150,14 +151,14 @@
     "location": "STR",
     "name": "Santa Rosa",
     "nameWoDiacritics": "Santa Rosa",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 12.116666666666667,
-      "lon": 7.416666666666667
+      "lon": -68.88333333333334
     }
   },
   {
@@ -165,14 +166,14 @@
     "location": "SMB",
     "name": "Sint Michielsbaai",
     "nameWoDiacritics": "Sint Michielsbaai",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1101,
     "coordinates": {
       "lat": 12.15,
-      "lon": 7.416666666666667
+      "lon": -68.98333333333333
     }
   },
   {
@@ -180,14 +181,14 @@
     "location": "SFF",
     "name": "Suffisant Dorp",
     "nameWoDiacritics": "Suffisant Dorp",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 12.15,
-      "lon": 7.416666666666667
+      "lon": -68.91666666666667
     }
   },
   {
@@ -195,14 +196,14 @@
     "location": "WIL",
     "name": "Willemstad",
     "nameWoDiacritics": "Willemstad",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
     "date": 1101,
     "coordinates": {
       "lat": 12.1,
-      "lon": 7.416666666666667
+      "lon": -68.91666666666667
     }
   },
   {
@@ -210,14 +211,14 @@
     "location": "ZEE",
     "name": "Zeelandia",
     "nameWoDiacritics": "Zeelandia",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 12.116666666666667,
-      "lon": 7.416666666666667
+      "lon": -68.9
     }
   }
 ]

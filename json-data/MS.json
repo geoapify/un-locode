@@ -6,7 +6,7 @@
     "name": ".MONTSERRAT",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Brades",
     "nameWoDiacritics": "Brades",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": 16.783333333333335,
-      "lon": 6.35
+      "lon": -62.2
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Little Bay",
     "nameWoDiacritics": "Little Bay",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -51,7 +51,7 @@
     "iata": "",
     "coordinates": {
       "lat": 16.8,
-      "lon": 6.35
+      "lon": -62.2
     },
     "remarks": ""
   },
@@ -62,7 +62,7 @@
     "name": "Montserrat",
     "nameWoDiacritics": "Montserrat",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -81,7 +81,7 @@
     "name": "Plymouth",
     "nameWoDiacritics": "Plymouth",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       4

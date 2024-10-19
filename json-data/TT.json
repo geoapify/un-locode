@@ -6,7 +6,7 @@
     "name": ".TRINIDAD AND TOBAGO",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Arima",
     "nameWoDiacritics": "Arima",
     "subdivision": "ARI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -32,7 +32,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.633333333333333,
-      "lon": 6.183333333333334
+      "lon": -61.28333333333333
     },
     "remarks": ""
   },
@@ -43,7 +43,7 @@
     "name": "Arouca",
     "nameWoDiacritics": "Arouca",
     "subdivision": "TUP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -51,7 +51,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.633333333333333,
-      "lon": 6.2
+      "lon": -61.333333333333336
     },
     "remarks": ""
   },
@@ -62,7 +62,7 @@
     "name": "Balmain",
     "nameWoDiacritics": "Balmain",
     "subdivision": "CTT",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -70,7 +70,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.416666666666666,
-      "lon": 6.2
+      "lon": -61.43333333333333
     },
     "remarks": ""
   },
@@ -81,7 +81,7 @@
     "name": "Barataria",
     "nameWoDiacritics": "Barataria",
     "subdivision": "SJL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -89,7 +89,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.65,
-      "lon": 6.2
+      "lon": -61.46666666666667
     },
     "remarks": ""
   },
@@ -100,7 +100,7 @@
     "name": "Barrackpore",
     "nameWoDiacritics": "Barrackpore",
     "subdivision": "PED",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -108,7 +108,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.2,
-      "lon": 6.2
+      "lon": -61.4
     },
     "remarks": ""
   },
@@ -119,7 +119,7 @@
     "name": "Brighton = La Brea",
     "nameWoDiacritics": "Brighton = La Brea",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -136,7 +136,7 @@
     "name": "Canaan",
     "nameWoDiacritics": "Canaan",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -144,7 +144,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.15,
-      "lon": 6.066666666666666
+      "lon": -60.81666666666667
     },
     "remarks": ""
   },
@@ -155,7 +155,7 @@
     "name": "Carapichaima",
     "nameWoDiacritics": "Carapichaima",
     "subdivision": "CTT",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -163,7 +163,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.466666666666667,
-      "lon": 6.2
+      "lon": -61.45
     },
     "remarks": ""
   },
@@ -174,7 +174,7 @@
     "name": "Carenage",
     "nameWoDiacritics": "Carenage",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -183,7 +183,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.683333333333334,
-      "lon": 6.216666666666667
+      "lon": -61.6
     },
     "remarks": ""
   },
@@ -194,7 +194,7 @@
     "name": "Caroni",
     "nameWoDiacritics": "Caroni",
     "subdivision": "ARI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -202,7 +202,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.65,
-      "lon": 6.216666666666667
+      "lon": -61.53333333333333
     },
     "remarks": ""
   },
@@ -213,7 +213,7 @@
     "name": "Chaguanas",
     "nameWoDiacritics": "Chaguanas",
     "subdivision": "CHA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -221,7 +221,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.516666666666667,
-      "lon": 6.2
+      "lon": -61.416666666666664
     },
     "remarks": ""
   },
@@ -232,7 +232,7 @@
     "name": "Chaguaramas",
     "nameWoDiacritics": "Chaguaramas",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -251,7 +251,7 @@
     "name": "Champs Fleurs/Port-of-Spain",
     "nameWoDiacritics": "Champs Fleurs/Port-of-Spain",
     "subdivision": "POS",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -259,7 +259,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.65,
-      "lon": 6.216666666666667
+      "lon": -61.516666666666666
     },
     "remarks": ""
   },
@@ -270,7 +270,7 @@
     "name": "Charlotteville",
     "nameWoDiacritics": "Charlotteville",
     "subdivision": "ETO",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -279,7 +279,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.316666666666666,
-      "lon": 6.05
+      "lon": -60.55
     },
     "remarks": ""
   },
@@ -290,7 +290,7 @@
     "name": "Chase Village",
     "nameWoDiacritics": "Chase Village",
     "subdivision": "CTT",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -298,7 +298,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.466666666666667,
-      "lon": 6.2
+      "lon": -61.416666666666664
     },
     "remarks": ""
   },
@@ -309,7 +309,7 @@
     "name": "Claxton Bay",
     "nameWoDiacritics": "Claxton Bay",
     "subdivision": "CTT",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -318,7 +318,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.35,
-      "lon": 6.2
+      "lon": -61.46666666666667
     },
     "remarks": ""
   },
@@ -329,7 +329,7 @@
     "name": "Couva",
     "nameWoDiacritics": "Couva",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -338,7 +338,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.416666666666666,
-      "lon": 6.2
+      "lon": -61.45
     },
     "remarks": ""
   },
@@ -349,7 +349,7 @@
     "name": "Cunupia",
     "nameWoDiacritics": "Cunupia",
     "subdivision": "CHA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -357,7 +357,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.55,
-      "lon": 6.2
+      "lon": -61.36666666666667
     },
     "remarks": ""
   },
@@ -368,7 +368,7 @@
     "name": "Curepe",
     "nameWoDiacritics": "Curepe",
     "subdivision": "TUP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -376,7 +376,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.633333333333333,
-      "lon": 6.2
+      "lon": -61.4
     },
     "remarks": ""
   },
@@ -387,7 +387,7 @@
     "name": "Dabadie",
     "nameWoDiacritics": "Dabadie",
     "subdivision": "CTT",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -395,7 +395,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.616666666666667,
-      "lon": 6.183333333333334
+      "lon": -61.31666666666667
     },
     "remarks": ""
   },
@@ -406,7 +406,7 @@
     "name": "Dabadie",
     "nameWoDiacritics": "Dabadie",
     "subdivision": "TUP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -414,7 +414,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.616666666666667,
-      "lon": 6.183333333333334
+      "lon": -61.31666666666667
     },
     "remarks": ""
   },
@@ -425,7 +425,7 @@
     "name": "Diego Martin",
     "nameWoDiacritics": "Diego Martin",
     "subdivision": "DMN",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -433,7 +433,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.716666666666667,
-      "lon": 6.216666666666667
+      "lon": -61.56666666666667
     },
     "remarks": ""
   },
@@ -444,7 +444,7 @@
     "name": "Freeport",
     "nameWoDiacritics": "Freeport",
     "subdivision": "CTT",
-    "status": "AM",
+    "status": 4,
     "function": [
       0,
       2
@@ -453,7 +453,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.45,
-      "lon": 6.2
+      "lon": -61.416666666666664
     },
     "remarks": ""
   },
@@ -464,7 +464,7 @@
     "name": "Fyzabad",
     "nameWoDiacritics": "Fyzabad",
     "subdivision": "SIP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -472,7 +472,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.183333333333334,
-      "lon": 6.216666666666667
+      "lon": -61.55
     },
     "remarks": ""
   },
@@ -483,7 +483,7 @@
     "name": "Gasparillo",
     "nameWoDiacritics": "Gasparillo",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -491,7 +491,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.316666666666666,
-      "lon": 6.2
+      "lon": -61.416666666666664
     },
     "remarks": ""
   },
@@ -502,7 +502,7 @@
     "name": "Glencoe",
     "nameWoDiacritics": "Glencoe",
     "subdivision": "DMN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -510,7 +510,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.666666666666666,
-      "lon": 6.216666666666667
+      "lon": -61.56666666666667
     },
     "remarks": ""
   },
@@ -521,7 +521,7 @@
     "name": "Guapo",
     "nameWoDiacritics": "Guapo",
     "subdivision": "PTF",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -529,7 +529,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.183333333333334,
-      "lon": 6.216666666666667
+      "lon": -61.65
     },
     "remarks": ""
   },
@@ -540,7 +540,7 @@
     "name": "Guayaguayare",
     "nameWoDiacritics": "Guayaguayare",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -549,7 +549,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.133333333333333,
-      "lon": 6.166666666666667
+      "lon": -61.03333333333333
     },
     "remarks": ""
   },
@@ -560,7 +560,7 @@
     "name": "La Brea (Brighton)",
     "nameWoDiacritics": "La Brea (Brighton)",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -579,7 +579,7 @@
     "name": "Laventille",
     "nameWoDiacritics": "Laventille",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2,
       5
@@ -588,7 +588,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.65,
-      "lon": 6.2
+      "lon": -61.483333333333334
     },
     "remarks": ""
   },
@@ -599,7 +599,7 @@
     "name": "Longdenville",
     "nameWoDiacritics": "Longdenville",
     "subdivision": "CHA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -607,7 +607,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.516666666666667,
-      "lon": 6.2
+      "lon": -61.38333333333333
     },
     "remarks": ""
   },
@@ -618,7 +618,7 @@
     "name": "Macoya",
     "nameWoDiacritics": "Macoya",
     "subdivision": "TUP",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -626,7 +626,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.633333333333333,
-      "lon": 6.2
+      "lon": -61.38333333333333
     },
     "remarks": ""
   },
@@ -637,7 +637,7 @@
     "name": "Marabella",
     "nameWoDiacritics": "Marabella",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -645,7 +645,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.283333333333333,
-      "lon": 6.2
+      "lon": -61.45
     },
     "remarks": ""
   },
@@ -656,7 +656,7 @@
     "name": "Maraval",
     "nameWoDiacritics": "Maraval",
     "subdivision": "DMN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -664,7 +664,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.7,
-      "lon": 6.216666666666667
+      "lon": -61.516666666666666
     },
     "remarks": ""
   },
@@ -675,7 +675,7 @@
     "name": "Montrose",
     "nameWoDiacritics": "Montrose",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -683,7 +683,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.2,
-      "lon": 6.05
+      "lon": -60.65
     },
     "remarks": ""
   },
@@ -694,7 +694,7 @@
     "name": "Morvant/Port-of-Spain",
     "nameWoDiacritics": "Morvant/Port-of-Spain",
     "subdivision": "POS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -703,7 +703,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.65,
-      "lon": 6.2
+      "lon": -61.46666666666667
     },
     "remarks": ""
   },
@@ -714,7 +714,7 @@
     "name": "Mount Hope",
     "nameWoDiacritics": "Mount Hope",
     "subdivision": "SJL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -722,7 +722,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.65,
-      "lon": 6.2
+      "lon": -61.43333333333333
     },
     "remarks": ""
   },
@@ -733,7 +733,7 @@
     "name": "Penal",
     "nameWoDiacritics": "Penal",
     "subdivision": "SFO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -741,7 +741,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.166666666666666,
-      "lon": 6.2
+      "lon": -61.46666666666667
     },
     "remarks": ""
   },
@@ -752,7 +752,7 @@
     "name": "Piarco",
     "nameWoDiacritics": "Piarco",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -771,7 +771,7 @@
     "name": "Plymouth",
     "nameWoDiacritics": "Plymouth",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -790,7 +790,7 @@
     "name": "Point Fortin",
     "nameWoDiacritics": "Point Fortin",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -809,7 +809,7 @@
     "name": "Point Galeota",
     "nameWoDiacritics": "Point Galeota",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -828,7 +828,7 @@
     "name": "Point Lisas",
     "nameWoDiacritics": "Point Lisas",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -847,7 +847,7 @@
     "name": "Point Lizza",
     "nameWoDiacritics": "Point Lizza",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -855,7 +855,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.433333333333334,
-      "lon": 6.2
+      "lon": -61.483333333333334
     },
     "remarks": ""
   },
@@ -866,7 +866,7 @@
     "name": "Pointe a Pierre",
     "nameWoDiacritics": "Pointe a Pierre",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -885,7 +885,7 @@
     "name": "Port-of-Spain",
     "nameWoDiacritics": "Port-of-Spain",
     "subdivision": "POS",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -895,7 +895,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.65,
-      "lon": 6.216666666666667
+      "lon": -61.516666666666666
     },
     "remarks": ""
   },
@@ -906,7 +906,7 @@
     "name": "Princes Town",
     "nameWoDiacritics": "Princes Town",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -914,7 +914,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.266666666666667,
-      "lon": 6.2
+      "lon": -61.38333333333333
     },
     "remarks": ""
   },
@@ -925,7 +925,7 @@
     "name": "Rio Claro",
     "nameWoDiacritics": "Rio Claro",
     "subdivision": "RCM",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -933,7 +933,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.3,
-      "lon": 6.183333333333334
+      "lon": -61.18333333333333
     },
     "remarks": ""
   },
@@ -944,7 +944,7 @@
     "name": "Saint Clair",
     "nameWoDiacritics": "Saint Clair",
     "subdivision": "POS",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -952,7 +952,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.666666666666666,
-      "lon": 6.216666666666667
+      "lon": -61.516666666666666
     },
     "remarks": ""
   },
@@ -963,7 +963,7 @@
     "name": "Saint Mary's",
     "nameWoDiacritics": "Saint Mary's",
     "subdivision": "CTT",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -972,7 +972,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.216666666666667,
-      "lon": 6.216666666666667
+      "lon": -61.53333333333333
     },
     "remarks": ""
   },
@@ -983,7 +983,7 @@
     "name": "San Fernando",
     "nameWoDiacritics": "San Fernando",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -1002,7 +1002,7 @@
     "name": "San Juan/Port-of-Spain",
     "nameWoDiacritics": "San Juan/Port-of-Spain",
     "subdivision": "POS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1010,7 +1010,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.65,
-      "lon": 6.2
+      "lon": -61.45
     },
     "remarks": ""
   },
@@ -1021,7 +1021,7 @@
     "name": "Sangre Grande",
     "nameWoDiacritics": "Sangre Grande",
     "subdivision": "SGE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1029,7 +1029,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.583333333333334,
-      "lon": 6.166666666666667
+      "lon": -61.11666666666667
     },
     "remarks": ""
   },
@@ -1040,7 +1040,7 @@
     "name": "Scarborough",
     "nameWoDiacritics": "Scarborough",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1048,7 +1048,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.166666666666666,
-      "lon": 6.066666666666666
+      "lon": -60.733333333333334
     },
     "remarks": ""
   },
@@ -1059,7 +1059,7 @@
     "name": "Scarborough/Tobago",
     "nameWoDiacritics": "Scarborough/Tobago",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -1078,7 +1078,7 @@
     "name": "Siparia",
     "nameWoDiacritics": "Siparia",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1086,7 +1086,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.133333333333333,
-      "lon": 6.216666666666667
+      "lon": -61.5
     },
     "remarks": ""
   },
@@ -1097,7 +1097,7 @@
     "name": "South Oropouche",
     "nameWoDiacritics": "South Oropouche",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1105,7 +1105,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.216666666666667,
-      "lon": 6.216666666666667
+      "lon": -61.55
     },
     "remarks": ""
   },
@@ -1116,7 +1116,7 @@
     "name": "Tacarigua",
     "nameWoDiacritics": "Tacarigua",
     "subdivision": "TUP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1124,7 +1124,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.633333333333333,
-      "lon": 6.2
+      "lon": -61.36666666666667
     },
     "remarks": ""
   },
@@ -1135,7 +1135,7 @@
     "name": "Tembladora",
     "nameWoDiacritics": "Tembladora",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0,
       3
@@ -1155,7 +1155,7 @@
     "name": "Tobago",
     "nameWoDiacritics": "Tobago",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1174,7 +1174,7 @@
     "name": "Toco",
     "nameWoDiacritics": "Toco",
     "subdivision": "POS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1182,7 +1182,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.833333333333334,
-      "lon": 6.083333333333333
+      "lon": -60.95
     },
     "remarks": ""
   },
@@ -1193,7 +1193,7 @@
     "name": "Trincity",
     "nameWoDiacritics": "Trincity",
     "subdivision": "TUP",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1202,7 +1202,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.633333333333333,
-      "lon": 6.2
+      "lon": -61.36666666666667
     },
     "remarks": ""
   },
@@ -1213,7 +1213,7 @@
     "name": "Tunapuna",
     "nameWoDiacritics": "Tunapuna",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1232,7 +1232,7 @@
     "name": "Valencia",
     "nameWoDiacritics": "Valencia",
     "subdivision": "SGE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1240,7 +1240,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.65,
-      "lon": 6.183333333333334
+      "lon": -61.2
     },
     "remarks": ""
   },
@@ -1251,7 +1251,7 @@
     "name": "Valsayn",
     "nameWoDiacritics": "Valsayn",
     "subdivision": "TUP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1259,7 +1259,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.65,
-      "lon": 6.2
+      "lon": -61.416666666666664
     },
     "remarks": ""
   },
@@ -1270,7 +1270,7 @@
     "name": "Vista Bella",
     "nameWoDiacritics": "Vista Bella",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1278,7 +1278,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.283333333333333,
-      "lon": 6.2
+      "lon": -61.45
     },
     "remarks": ""
   },
@@ -1289,7 +1289,7 @@
     "name": "Woodbrook",
     "nameWoDiacritics": "Woodbrook",
     "subdivision": "PTF",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1297,7 +1297,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.65,
-      "lon": 6.216666666666667
+      "lon": -61.53333333333333
     },
     "remarks": ""
   }

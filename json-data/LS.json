@@ -6,7 +6,7 @@
     "name": ".LESOTHO",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Butha-Buthe",
     "nameWoDiacritics": "Butha-Buthe",
     "subdivision": "B",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -33,7 +33,7 @@
     "iata": "",
     "coordinates": {
       "lat": -28.783333333333335,
-      "lon": 3.35
+      "lon": 28.233333333333334
     },
     "remarks": ""
   },
@@ -44,7 +44,7 @@
     "name": "Lebakeng",
     "nameWoDiacritics": "Lebakeng",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -63,7 +63,7 @@
     "name": "Leribe",
     "nameWoDiacritics": "Leribe",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -82,7 +82,7 @@
     "name": "Lesobeng",
     "nameWoDiacritics": "Lesobeng",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -101,7 +101,7 @@
     "name": "Mafeteng",
     "nameWoDiacritics": "Mafeteng",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -120,7 +120,7 @@
     "name": "Maputsoe",
     "nameWoDiacritics": "Maputsoe",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -129,7 +129,7 @@
     "iata": "",
     "coordinates": {
       "lat": -28.883333333333333,
-      "lon": 3.25
+      "lon": 27.9
     },
     "remarks": ""
   },
@@ -140,7 +140,7 @@
     "name": "Maseru",
     "nameWoDiacritics": "Maseru",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -160,7 +160,7 @@
     "name": "Matsaile",
     "nameWoDiacritics": "Matsaile",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -179,7 +179,7 @@
     "name": "Mohale's Hoek",
     "nameWoDiacritics": "Mohale's Hoek",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -187,7 +187,7 @@
     "iata": "",
     "coordinates": {
       "lat": -30.15,
-      "lon": 3.2
+      "lon": 27.466666666666665
     },
     "remarks": ""
   },
@@ -198,7 +198,7 @@
     "name": "Mokhotlong",
     "nameWoDiacritics": "Mokhotlong",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -217,7 +217,7 @@
     "name": "Nkaus",
     "nameWoDiacritics": "Nkaus",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       3
     ],
@@ -236,7 +236,7 @@
     "name": "Pelaneng",
     "nameWoDiacritics": "Pelaneng",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -255,7 +255,7 @@
     "name": "Qacha's Nek",
     "nameWoDiacritics": "Qacha's Nek",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -263,7 +263,7 @@
     "iata": "",
     "coordinates": {
       "lat": -30.116666666666667,
-      "lon": 3.4
+      "lon": 28.683333333333334
     },
     "remarks": ""
   },
@@ -274,7 +274,7 @@
     "name": "Quthing",
     "nameWoDiacritics": "Quthing",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -293,7 +293,7 @@
     "name": "Sehonghong",
     "nameWoDiacritics": "Sehonghong",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -312,7 +312,7 @@
     "name": "Sekakes",
     "nameWoDiacritics": "Sekakes",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -331,7 +331,7 @@
     "name": "Semongkong",
     "nameWoDiacritics": "Semongkong",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -350,7 +350,7 @@
     "name": "Seshutes",
     "nameWoDiacritics": "Seshutes",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -369,7 +369,7 @@
     "name": "Thaba-Tseka",
     "nameWoDiacritics": "Thaba-Tseka",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -388,7 +388,7 @@
     "name": "Tlokoeng",
     "nameWoDiacritics": "Tlokoeng",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],

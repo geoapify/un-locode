@@ -2,6 +2,7 @@
   {
     "country": "FJ",
     "name": ".FIJI",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "BFJ",
     "name": "Ba",
     "nameWoDiacritics": "Ba",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -28,7 +29,7 @@
     "location": "BXL",
     "name": "Blue Lagoon",
     "nameWoDiacritics": "Blue Lagoon",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -43,7 +44,7 @@
     "location": "BVF",
     "name": "Bua",
     "nameWoDiacritics": "Bua",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -58,7 +59,7 @@
     "location": "CST",
     "name": "Castaway",
     "nameWoDiacritics": "Castaway",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -73,7 +74,7 @@
     "location": "ICI",
     "name": "Cicia",
     "nameWoDiacritics": "Cicia",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -89,7 +90,7 @@
     "name": "Denarau",
     "nameWoDiacritics": "Denarau",
     "subdivision": 11,
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2,
@@ -98,7 +99,7 @@
     "date": 1907,
     "coordinates": {
       "lat": -17.766666666666666,
-      "lon": 18.2
+      "lon": 177.38333333333333
     }
   },
   {
@@ -106,14 +107,14 @@
     "location": "ELL",
     "name": "Ellington Wharf",
     "nameWoDiacritics": "Ellington Wharf",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1107,
     "coordinates": {
       "lat": -17.35,
-      "lon": 18.35
+      "lon": 178.21666666666667
     }
   },
   {
@@ -121,7 +122,7 @@
     "location": "KDV",
     "name": "Kandavu",
     "nameWoDiacritics": "Kandavu",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -136,7 +137,7 @@
     "location": "KXF",
     "name": "Koro Island",
     "nameWoDiacritics": "Koro Island",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -151,7 +152,7 @@
     "location": "KVU",
     "name": "Korolevu",
     "nameWoDiacritics": "Korolevu",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -167,7 +168,7 @@
     "name": "Labasa",
     "nameWoDiacritics": "Labasa",
     "subdivision": 7,
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       3
@@ -175,7 +176,7 @@
     "date": 1701,
     "coordinates": {
       "lat": -16.416666666666668,
-      "lon": 18.533333333333335
+      "lon": 179.38333333333333
     }
   },
   {
@@ -183,7 +184,7 @@
     "location": "LKB",
     "name": "Lakeba",
     "nameWoDiacritics": "Lakeba",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -198,7 +199,7 @@
     "location": "LUC",
     "name": "Laucala Is",
     "nameWoDiacritics": "Laucala Is",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -214,7 +215,7 @@
     "name": "Lautoka",
     "nameWoDiacritics": "Lautoka",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -223,7 +224,7 @@
     "date": 1701,
     "coordinates": {
       "lat": -17.616666666666667,
-      "lon": 18.2
+      "lon": 177.45
     }
   },
   {
@@ -231,7 +232,7 @@
     "location": "MAL",
     "name": "Malau (Labasa)",
     "nameWoDiacritics": "Malau (Labasa)",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -239,7 +240,7 @@
     "date": 701,
     "coordinates": {
       "lat": -16.366666666666667,
-      "lon": 18.533333333333335
+      "lon": 179.38333333333333
     }
   },
   {
@@ -248,14 +249,14 @@
     "name": "Malolo Lailai Island",
     "nameWoDiacritics": "Malolo Lailai Island",
     "subdivision": "W",
-    "status": "AI",
+    "status": 3,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": -17.783333333333335,
-      "lon": 18.183333333333334
+      "lon": 177.2
     }
   },
   {
@@ -263,7 +264,7 @@
     "location": "MNF",
     "name": "Mana Island",
     "nameWoDiacritics": "Mana Island",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -278,7 +279,7 @@
     "location": "MFJ",
     "name": "Moala",
     "nameWoDiacritics": "Moala",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -293,7 +294,7 @@
     "location": "MOM",
     "name": "Momi",
     "nameWoDiacritics": "Momi",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -302,7 +303,7 @@
     "date": 701,
     "coordinates": {
       "lat": -17.916666666666668,
-      "lon": 18.183333333333334
+      "lon": 177.28333333333333
     }
   },
   {
@@ -310,7 +311,7 @@
     "location": "NAN",
     "name": "Nadi",
     "nameWoDiacritics": "Nadi",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -326,7 +327,7 @@
     "location": "NAM",
     "name": "Nambouwalu",
     "nameWoDiacritics": "Nambouwalu",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -334,7 +335,7 @@
     "date": 701,
     "coordinates": {
       "lat": -16.983333333333334,
-      "lon": 18.4
+      "lon": 178.7
     }
   },
   {
@@ -342,7 +343,7 @@
     "location": "NTA",
     "name": "Natadola",
     "nameWoDiacritics": "Natadola",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -357,7 +358,7 @@
     "location": "NGI",
     "name": "Ngau Island",
     "nameWoDiacritics": "Ngau Island",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -373,14 +374,14 @@
     "name": "Ono-i-Lau",
     "nameWoDiacritics": "Ono-i-Lau",
     "subdivision": "E",
-    "status": "AI",
+    "status": 3,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": -20.666666666666668,
-      "lon": 18.4
+      "lon": -178.71666666666667
     }
   },
   {
@@ -388,7 +389,7 @@
     "location": "PHR",
     "name": "Pacific Harbor",
     "nameWoDiacritics": "Pacific Harbor",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -403,7 +404,7 @@
     "location": "RBI",
     "name": "Rabi",
     "nameWoDiacritics": "Rabi",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -418,7 +419,7 @@
     "location": "RTA",
     "name": "Rotuma",
     "nameWoDiacritics": "Rotuma",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -434,7 +435,7 @@
     "location": "AQS",
     "name": "Saqani",
     "nameWoDiacritics": "Saqani",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -449,7 +450,7 @@
     "location": "SVU",
     "name": "Savusavu",
     "nameWoDiacritics": "Savusavu",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -465,7 +466,7 @@
     "location": "SIN",
     "name": "Singatoka",
     "nameWoDiacritics": "Singatoka",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -473,7 +474,7 @@
     "date": 701,
     "coordinates": {
       "lat": -18.166666666666668,
-      "lon": 18.216666666666665
+      "lon": 177.51666666666668
     }
   },
   {
@@ -482,7 +483,7 @@
     "name": "Suva",
     "nameWoDiacritics": "Suva",
     "subdivision": 12,
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -491,7 +492,7 @@
     "date": 1701,
     "coordinates": {
       "lat": -18.133333333333333,
-      "lon": 18.366666666666667
+      "lon": 178.45
     }
   },
   {
@@ -499,7 +500,7 @@
     "location": "TVU",
     "name": "Taveuni",
     "nameWoDiacritics": "Taveuni",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -514,7 +515,7 @@
     "location": "TTL",
     "name": "Turtle Island",
     "nameWoDiacritics": "Turtle Island",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -530,14 +531,14 @@
     "name": "Vanua Mbalavu",
     "nameWoDiacritics": "Vanua Mbalavu",
     "subdivision": "E",
-    "status": "AI",
+    "status": 3,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": -17.233333333333334,
-      "lon": 18.416666666666668
+      "lon": -178.95
     }
   },
   {
@@ -545,7 +546,7 @@
     "location": "VAT",
     "name": "Vatia Wharf",
     "nameWoDiacritics": "Vatia Wharf",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -553,7 +554,7 @@
     "date": 701,
     "coordinates": {
       "lat": -17.4,
-      "lon": 18.233333333333334
+      "lon": 177.76666666666668
     }
   },
   {
@@ -561,7 +562,7 @@
     "location": "VAU",
     "name": "Vatukoula",
     "nameWoDiacritics": "Vatukoula",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -576,7 +577,7 @@
     "location": "VTF",
     "name": "Vatulele",
     "nameWoDiacritics": "Vatulele",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -591,14 +592,14 @@
     "location": "VUD",
     "name": "Vuda",
     "nameWoDiacritics": "Vuda",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1201,
     "coordinates": {
       "lat": -17.6,
-      "lon": 18.216666666666665
+      "lon": 177.5
     }
   },
   {
@@ -606,14 +607,14 @@
     "location": "WAI",
     "name": "Wairiki",
     "nameWoDiacritics": "Wairiki",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1101,
     "coordinates": {
       "lat": -16.916666666666668,
-      "lon": 18.4
+      "lon": 178.66666666666666
     }
   },
   {
@@ -621,7 +622,7 @@
     "location": "KAY",
     "name": "Wakaya Island",
     "nameWoDiacritics": "Wakaya Island",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -636,7 +637,7 @@
     "location": "YAS",
     "name": "Yasawa Island",
     "nameWoDiacritics": "Yasawa Island",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],

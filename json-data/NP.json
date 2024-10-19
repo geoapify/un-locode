@@ -6,7 +6,7 @@
     "name": ".NEPAL",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Annapurna",
     "nameWoDiacritics": "Annapurna",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -42,7 +42,7 @@
     "name": "Baglung",
     "nameWoDiacritics": "Baglung",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -61,7 +61,7 @@
     "name": "Baitadi",
     "nameWoDiacritics": "Baitadi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -80,7 +80,7 @@
     "name": "Bajhang",
     "nameWoDiacritics": "Bajhang",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -99,7 +99,7 @@
     "name": "Bajura",
     "nameWoDiacritics": "Bajura",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -118,7 +118,7 @@
     "name": "Bhadrapur",
     "nameWoDiacritics": "Bhadrapur",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -137,7 +137,7 @@
     "name": "Bhairahawa",
     "nameWoDiacritics": "Bhairahawa",
     "subdivision": "LU",
-    "status": "AA",
+    "status": 0,
     "function": [
       5
     ],
@@ -145,7 +145,7 @@
     "iata": "",
     "coordinates": {
       "lat": 27.5,
-      "lon": 8.533333333333333
+      "lon": 83.45
     },
     "remarks": ""
   },
@@ -156,7 +156,7 @@
     "name": "Bhairawa",
     "nameWoDiacritics": "Bhairawa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -175,7 +175,7 @@
     "name": "Bharatpur",
     "nameWoDiacritics": "Bharatpur",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -194,7 +194,7 @@
     "name": "Bhojpur",
     "nameWoDiacritics": "Bhojpur",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -213,7 +213,7 @@
     "name": "Biratnagar",
     "nameWoDiacritics": "Biratnagar",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -233,7 +233,7 @@
     "name": "Biratnagar",
     "nameWoDiacritics": "Biratnagar",
     "subdivision": "KO",
-    "status": "AA",
+    "status": 0,
     "function": [
       5
     ],
@@ -241,7 +241,7 @@
     "iata": "",
     "coordinates": {
       "lat": 26.483333333333334,
-      "lon": 9.183333333333334
+      "lon": 87.28333333333333
     },
     "remarks": ""
   },
@@ -252,7 +252,7 @@
     "name": "Birgunj",
     "nameWoDiacritics": "Birgunj",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       2
     ],
@@ -271,7 +271,7 @@
     "name": "Birgunj ICD",
     "nameWoDiacritics": "Birgunj ICD",
     "subdivision": "NA",
-    "status": "AA",
+    "status": 0,
     "function": [
       5
     ],
@@ -279,7 +279,7 @@
     "iata": "",
     "coordinates": {
       "lat": 27.016666666666666,
-      "lon": 8.75
+      "lon": 84.86666666666666
     },
     "remarks": ""
   },
@@ -290,7 +290,7 @@
     "name": "Butwal",
     "nameWoDiacritics": "Butwal",
     "subdivision": "LU",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -298,7 +298,7 @@
     "iata": "",
     "coordinates": {
       "lat": 27.7,
-      "lon": 8.533333333333333
+      "lon": 83.45
     },
     "remarks": ""
   },
@@ -309,7 +309,7 @@
     "name": "Chaurjhari",
     "nameWoDiacritics": "Chaurjhari",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -328,7 +328,7 @@
     "name": "Dadeldhura",
     "nameWoDiacritics": "Dadeldhura",
     "subdivision": "MA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -336,7 +336,7 @@
     "iata": "",
     "coordinates": {
       "lat": 29.3,
-      "lon": 8.05
+      "lon": 80.58333333333333
     },
     "remarks": ""
   },
@@ -347,7 +347,7 @@
     "name": "Dang",
     "nameWoDiacritics": "Dang",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -366,7 +366,7 @@
     "name": "Darchula",
     "nameWoDiacritics": "Darchula",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -385,7 +385,7 @@
     "name": "Dhading",
     "nameWoDiacritics": "Dhading",
     "subdivision": "BA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -393,7 +393,7 @@
     "iata": "",
     "coordinates": {
       "lat": 27.866666666666667,
-      "lon": 8.75
+      "lon": 84.91666666666667
     },
     "remarks": ""
   },
@@ -404,7 +404,7 @@
     "name": "Dhangarhi",
     "nameWoDiacritics": "Dhangarhi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -423,7 +423,7 @@
     "name": "Dhaulagiri",
     "nameWoDiacritics": "Dhaulagiri",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -442,7 +442,7 @@
     "name": "Dolpa",
     "nameWoDiacritics": "Dolpa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -461,7 +461,7 @@
     "name": "Gorkha",
     "nameWoDiacritics": "Gorkha",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -480,7 +480,7 @@
     "name": "Hetauda",
     "nameWoDiacritics": "Hetauda",
     "subdivision": "NA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -488,7 +488,7 @@
     "iata": "",
     "coordinates": {
       "lat": 27.416666666666668,
-      "lon": 8.833333333333334
+      "lon": 85.03333333333333
     },
     "remarks": ""
   },
@@ -499,7 +499,7 @@
     "name": "Ilam",
     "nameWoDiacritics": "Ilam",
     "subdivision": "ME",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -507,7 +507,7 @@
     "iata": "",
     "coordinates": {
       "lat": 26.9,
-      "lon": 9.25
+      "lon": 87.93333333333334
     },
     "remarks": ""
   },
@@ -518,7 +518,7 @@
     "name": "Janakpur",
     "nameWoDiacritics": "Janakpur",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -537,7 +537,7 @@
     "name": "Jiri",
     "nameWoDiacritics": "Jiri",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -556,7 +556,7 @@
     "name": "Jomsom",
     "nameWoDiacritics": "Jomsom",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -575,7 +575,7 @@
     "name": "Jumla",
     "nameWoDiacritics": "Jumla",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -594,7 +594,7 @@
     "name": "Kailali",
     "nameWoDiacritics": "Kailali",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       2
     ],
@@ -613,7 +613,7 @@
     "name": "Kakarbitta",
     "nameWoDiacritics": "Kakarbitta",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -632,7 +632,7 @@
     "name": "Kanchenjunga",
     "nameWoDiacritics": "Kanchenjunga",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -640,7 +640,7 @@
     "iata": "",
     "coordinates": {
       "lat": 27.716666666666665,
-      "lon": 9.35
+      "lon": 88.21666666666667
     },
     "remarks": ""
   },
@@ -651,7 +651,7 @@
     "name": "Kathmandu",
     "nameWoDiacritics": "Kathmandu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3,
@@ -672,7 +672,7 @@
     "name": "Krishnanagar",
     "nameWoDiacritics": "Krishnanagar",
     "subdivision": "LU",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
@@ -680,7 +680,7 @@
     "iata": "",
     "coordinates": {
       "lat": 27.5,
-      "lon": 8.4
+      "lon": 82.78333333333333
     },
     "remarks": ""
   },
@@ -691,7 +691,7 @@
     "name": "Lamidanda",
     "nameWoDiacritics": "Lamidanda",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -710,7 +710,7 @@
     "name": "Langtang",
     "nameWoDiacritics": "Langtang",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -729,7 +729,7 @@
     "name": "Lukla",
     "nameWoDiacritics": "Lukla",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -748,7 +748,7 @@
     "name": "Mahendranagar",
     "nameWoDiacritics": "Mahendranagar",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -756,7 +756,7 @@
     "iata": "",
     "coordinates": {
       "lat": 29.25,
-      "lon": 8
+      "lon": 80.13333333333334
     },
     "remarks": ""
   },
@@ -767,7 +767,7 @@
     "name": "Manang",
     "nameWoDiacritics": "Manang",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -786,7 +786,7 @@
     "name": "Meghauli",
     "nameWoDiacritics": "Meghauli",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -805,7 +805,7 @@
     "name": "Mountain",
     "nameWoDiacritics": "Mountain",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -824,7 +824,7 @@
     "name": "Nawalparasi",
     "nameWoDiacritics": "Nawalparasi",
     "subdivision": "LU",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       5
@@ -833,7 +833,7 @@
     "iata": "",
     "coordinates": {
       "lat": 27.533333333333335,
-      "lon": 8.566666666666666
+      "lon": 83.66666666666667
     },
     "remarks": ""
   },
@@ -844,7 +844,7 @@
     "name": "Nepalganj",
     "nameWoDiacritics": "Nepalganj",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -863,7 +863,7 @@
     "name": "Phaplu",
     "nameWoDiacritics": "Phaplu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -882,7 +882,7 @@
     "name": "Pokhara",
     "nameWoDiacritics": "Pokhara",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -901,7 +901,7 @@
     "name": "Rajbiraj",
     "nameWoDiacritics": "Rajbiraj",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -920,7 +920,7 @@
     "name": "Ramechhap",
     "nameWoDiacritics": "Ramechhap",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -939,7 +939,7 @@
     "name": "Rolpa",
     "nameWoDiacritics": "Rolpa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -958,7 +958,7 @@
     "name": "Rukumkot",
     "nameWoDiacritics": "Rukumkot",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -977,7 +977,7 @@
     "name": "Rumjatar",
     "nameWoDiacritics": "Rumjatar",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -996,7 +996,7 @@
     "name": "Rupandehi",
     "nameWoDiacritics": "Rupandehi",
     "subdivision": "P5",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1004,7 +1004,7 @@
     "iata": "",
     "coordinates": {
       "lat": 27.583333333333332,
-      "lon": 8.533333333333333
+      "lon": 83.43333333333334
     },
     "remarks": ""
   },
@@ -1015,7 +1015,7 @@
     "name": "Sanfebagar",
     "nameWoDiacritics": "Sanfebagar",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1034,7 +1034,7 @@
     "name": "Silgarhi-Doti",
     "nameWoDiacritics": "Silgarhi-Doti",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1042,7 +1042,7 @@
     "iata": "",
     "coordinates": {
       "lat": 29.266666666666666,
-      "lon": 8.083333333333334
+      "lon": 80.98333333333333
     },
     "remarks": ""
   },
@@ -1053,7 +1053,7 @@
     "name": "Simara",
     "nameWoDiacritics": "Simara",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1072,7 +1072,7 @@
     "name": "Simikot",
     "nameWoDiacritics": "Simikot",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1091,7 +1091,7 @@
     "name": "Sunauli",
     "nameWoDiacritics": "Sunauli",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       2
     ],
@@ -1110,7 +1110,7 @@
     "name": "Surkhet",
     "nameWoDiacritics": "Surkhet",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1129,7 +1129,7 @@
     "name": "Syangboche",
     "nameWoDiacritics": "Syangboche",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1148,7 +1148,7 @@
     "name": "Taplejung",
     "nameWoDiacritics": "Taplejung",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1167,7 +1167,7 @@
     "name": "Tikapur",
     "nameWoDiacritics": "Tikapur",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1186,7 +1186,7 @@
     "name": "Triveni",
     "nameWoDiacritics": "Triveni",
     "subdivision": "GA",
-    "status": "AA",
+    "status": 0,
     "function": [
       2,
       5
@@ -1195,7 +1195,7 @@
     "iata": "",
     "coordinates": {
       "lat": 27.45,
-      "lon": 8.583333333333334
+      "lon": 83.9
     },
     "remarks": "Border"
   },
@@ -1206,7 +1206,7 @@
     "name": "Tumlingtar",
     "nameWoDiacritics": "Tumlingtar",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1214,7 +1214,7 @@
     "iata": "",
     "coordinates": {
       "lat": 27.3,
-      "lon": 9.183333333333334
+      "lon": 87.2
     },
     "remarks": ""
   }

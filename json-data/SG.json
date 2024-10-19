@@ -6,7 +6,7 @@
     "name": ".SINGAPORE",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Bukit Merah Estate",
     "nameWoDiacritics": "Bukit Merah Estate",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -32,7 +32,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.2833333333333332,
-      "lon": 10.566666666666666
+      "lon": 103.81666666666666
     },
     "remarks": ""
   },
@@ -43,7 +43,7 @@
     "name": "Changi",
     "nameWoDiacritics": "Changi",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2,
@@ -53,7 +53,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.3166666666666667,
-      "lon": 10.666666666666666
+      "lon": 104
     },
     "remarks": ""
   },
@@ -64,7 +64,7 @@
     "name": "Choa Chu Kang",
     "nameWoDiacritics": "Choa Chu Kang",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -72,7 +72,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.2833333333333332,
-      "lon": 10.583333333333334
+      "lon": 103.85
     },
     "remarks": ""
   },
@@ -83,7 +83,7 @@
     "name": "Clementi",
     "nameWoDiacritics": "Clementi",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -91,7 +91,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.2833333333333332,
-      "lon": 10.583333333333334
+      "lon": 103.85
     },
     "remarks": ""
   },
@@ -102,7 +102,7 @@
     "name": "Jurong/Singapore",
     "nameWoDiacritics": "Jurong/Singapore",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -111,7 +111,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.3333333333333333,
-      "lon": 10.566666666666666
+      "lon": 103.7
     },
     "remarks": ""
   },
@@ -122,7 +122,7 @@
     "name": "Keppel Wharves",
     "nameWoDiacritics": "Keppel Wharves",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -141,7 +141,7 @@
     "name": "PASIR PANJANG Terminal",
     "nameWoDiacritics": "PASIR PANJANG Terminal",
     "subdivision": "05",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -150,7 +150,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.2833333333333332,
-      "lon": 10.566666666666666
+      "lon": 103.76666666666667
     },
     "remarks": ""
   },
@@ -161,7 +161,7 @@
     "name": "Pasir Panjang Wharves",
     "nameWoDiacritics": "Pasir Panjang Wharves",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -169,7 +169,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.2666666666666666,
-      "lon": 10.566666666666666
+      "lon": 103.78333333333333
     },
     "remarks": ""
   },
@@ -180,7 +180,7 @@
     "name": "Pasir Ris New Town",
     "nameWoDiacritics": "Pasir Ris New Town",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -188,7 +188,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.3666666666666667,
-      "lon": 10.583333333333334
+      "lon": 103.93333333333334
     },
     "remarks": ""
   },
@@ -199,7 +199,7 @@
     "name": "Paya Lebar",
     "nameWoDiacritics": "Paya Lebar",
     "subdivision": "02",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -208,7 +208,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.35,
-      "lon": 10.583333333333334
+      "lon": 103.88333333333334
     },
     "remarks": ""
   },
@@ -219,7 +219,7 @@
     "name": "Pioneer",
     "nameWoDiacritics": "Pioneer",
     "subdivision": "05",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -227,7 +227,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.3166666666666667,
-      "lon": 10.566666666666666
+      "lon": 103.68333333333334
     },
     "remarks": ""
   },
@@ -238,7 +238,7 @@
     "name": "Pulau Ayer Chawan",
     "nameWoDiacritics": "Pulau Ayer Chawan",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -246,7 +246,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.2666666666666666,
-      "lon": 10.566666666666666
+      "lon": 103.7
     },
     "remarks": ""
   },
@@ -257,7 +257,7 @@
     "name": "Pulau Bukom",
     "nameWoDiacritics": "Pulau Bukom",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -276,7 +276,7 @@
     "name": "Pulau Sebarok",
     "nameWoDiacritics": "Pulau Sebarok",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -295,7 +295,7 @@
     "name": "Seletar",
     "nameWoDiacritics": "Seletar",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -314,7 +314,7 @@
     "name": "Sembawang Port",
     "nameWoDiacritics": "Sembawang Port",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -333,7 +333,7 @@
     "name": "Singapore",
     "nameWoDiacritics": "Singapore",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -354,7 +354,7 @@
     "name": "Singapore Container Terminal",
     "nameWoDiacritics": "Singapore Container Terminal",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -373,7 +373,7 @@
     "name": "Tampines",
     "nameWoDiacritics": "Tampines",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -382,7 +382,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.3333333333333333,
-      "lon": 10.583333333333334
+      "lon": 103.93333333333334
     },
     "remarks": ""
   },
@@ -393,7 +393,7 @@
     "name": "Tanjong Pagar",
     "nameWoDiacritics": "Tanjong Pagar",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -412,7 +412,7 @@
     "name": "Tanjong Penjuru",
     "nameWoDiacritics": "Tanjong Penjuru",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -431,7 +431,7 @@
     "name": "Telok Ayer Basin",
     "nameWoDiacritics": "Telok Ayer Basin",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -450,7 +450,7 @@
     "name": "Tengah",
     "nameWoDiacritics": "Tengah",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -469,7 +469,7 @@
     "name": "Toa Payoh",
     "nameWoDiacritics": "Toa Payoh",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -477,7 +477,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.3333333333333333,
-      "lon": 10.583333333333334
+      "lon": 103.85
     },
     "remarks": ""
   },
@@ -488,7 +488,7 @@
     "name": "Tuas",
     "nameWoDiacritics": "Tuas",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -497,7 +497,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.3166666666666667,
-      "lon": 10.55
+      "lon": 103.65
     },
     "remarks": ""
   },
@@ -508,7 +508,7 @@
     "name": "West Coast Town",
     "nameWoDiacritics": "West Coast Town",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -516,7 +516,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.2833333333333332,
-      "lon": 10.583333333333334
+      "lon": 103.85
     },
     "remarks": ""
   },
@@ -527,7 +527,7 @@
     "name": "Woodlands",
     "nameWoDiacritics": "Woodlands",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],

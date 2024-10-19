@@ -2,6 +2,7 @@
   {
     "country": "IE",
     "name": ".IRELAND",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,14 +14,14 @@
     "location": "AYF",
     "name": "Abbeyfeale",
     "nameWoDiacritics": "Abbeyfeale",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 201,
     "coordinates": {
       "lat": 52.38333333333333,
-      "lon": 1.5166666666666666
+      "lon": -9.3
     }
   },
   {
@@ -28,7 +29,7 @@
     "location": "ABB",
     "name": "Abbeyleix",
     "nameWoDiacritics": "Abbeyleix",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -44,14 +45,14 @@
     "name": "Achonry",
     "nameWoDiacritics": "Achonry",
     "subdivision": "SO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 54.06666666666667,
-      "lon": 1.4
+      "lon": -8.666666666666666
     }
   },
   {
@@ -60,14 +61,14 @@
     "name": "Adare",
     "nameWoDiacritics": "Adare",
     "subdivision": "LK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 52.56666666666667,
-      "lon": 1.4
+      "lon": -8.783333333333333
     }
   },
   {
@@ -76,14 +77,14 @@
     "name": "Aherla",
     "nameWoDiacritics": "Aherla",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 51.85,
-      "lon": 1.4
+      "lon": -8.733333333333333
     }
   },
   {
@@ -91,7 +92,7 @@
     "location": "ALQ",
     "name": "Alexandra Quay",
     "nameWoDiacritics": "Alexandra Quay",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -106,7 +107,7 @@
     "location": "ARO",
     "name": "Alexandra Road Oil",
     "nameWoDiacritics": "Alexandra Road Oil",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -122,14 +123,14 @@
     "name": "Annacarty",
     "nameWoDiacritics": "Annacarty",
     "subdivision": "TA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 52.56666666666667,
-      "lon": 1.3333333333333333
+      "lon": -8.116666666666667
     }
   },
   {
@@ -138,7 +139,7 @@
     "name": "Annacotty",
     "nameWoDiacritics": "Annacotty",
     "subdivision": "LK",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       5
@@ -146,7 +147,7 @@
     "date": 907,
     "coordinates": {
       "lat": 52.4,
-      "lon": 1.35
+      "lon": -8.3
     }
   },
   {
@@ -155,14 +156,14 @@
     "name": "Annagassan",
     "nameWoDiacritics": "Annagassan",
     "subdivision": "LH",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 53.88333333333333,
-      "lon": 1.0333333333333334
+      "lon": -6.333333333333333
     }
   },
   {
@@ -170,7 +171,7 @@
     "location": "ARA",
     "name": "Ardara",
     "nameWoDiacritics": "Ardara",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -185,14 +186,14 @@
     "location": "ACH",
     "name": "Ardcath",
     "nameWoDiacritics": "Ardcath",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 53.6,
-      "lon": 1.0333333333333334
+      "lon": -6.383333333333334
     }
   },
   {
@@ -201,14 +202,14 @@
     "name": "Ardee",
     "nameWoDiacritics": "Ardee",
     "subdivision": "LH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 53.85,
-      "lon": 1.05
+      "lon": -6.533333333333333
     }
   },
   {
@@ -217,14 +218,14 @@
     "name": "Ardfert",
     "nameWoDiacritics": "Ardfert",
     "subdivision": "KY",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 52.31666666666667,
-      "lon": 1.5666666666666667
+      "lon": -9.783333333333333
     }
   },
   {
@@ -233,14 +234,14 @@
     "name": "Ardfinnan",
     "nameWoDiacritics": "Ardfinnan",
     "subdivision": "TA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 52.3,
-      "lon": 1.25
+      "lon": -7.866666666666667
     }
   },
   {
@@ -249,7 +250,7 @@
     "name": "Ardmore",
     "nameWoDiacritics": "Ardmore",
     "subdivision": "WD",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -257,7 +258,7 @@
     "date": 207,
     "coordinates": {
       "lat": 51.95,
-      "lon": 1.2333333333333334
+      "lon": -7.716666666666667
     }
   },
   {
@@ -265,7 +266,7 @@
     "location": "ARK",
     "name": "Arklow",
     "nameWoDiacritics": "Arklow",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -281,7 +282,7 @@
     "name": "Arklow Head (Ie009)",
     "nameWoDiacritics": "Arklow Head (Ie009)",
     "subdivision": "WW",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -297,14 +298,14 @@
     "name": "Arthurstown",
     "nameWoDiacritics": "Arthurstown",
     "subdivision": "KE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1901,
     "coordinates": {
       "lat": 53.21666666666667,
-      "lon": 1.05
+      "lon": -6.566666666666666
     }
   },
   {
@@ -312,7 +313,7 @@
     "location": "ASH",
     "name": "Ashbourne",
     "nameWoDiacritics": "Ashbourne",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -328,14 +329,14 @@
     "name": "Ashford",
     "nameWoDiacritics": "Ashford",
     "subdivision": "WW",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 53,
-      "lon": 1
+      "lon": -6.116666666666666
     }
   },
   {
@@ -343,7 +344,7 @@
     "location": "ASK",
     "name": "Askeaton",
     "nameWoDiacritics": "Askeaton",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -358,14 +359,14 @@
     "location": "ABY",
     "name": "Athboy",
     "nameWoDiacritics": "Athboy",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 201,
     "coordinates": {
       "lat": 53.61666666666667,
-      "lon": 1.0833333333333333
+      "lon": -6.916666666666667
     }
   },
   {
@@ -373,14 +374,14 @@
     "location": "ARY",
     "name": "Athenry",
     "nameWoDiacritics": "Athenry",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 201,
     "coordinates": {
       "lat": 53.28333333333333,
-      "lon": 1.4
+      "lon": -8.733333333333333
     }
   },
   {
@@ -389,14 +390,14 @@
     "name": "Athleague",
     "nameWoDiacritics": "Athleague",
     "subdivision": "RN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 53.56666666666667,
-      "lon": 1.35
+      "lon": -8.25
     }
   },
   {
@@ -404,7 +405,7 @@
     "location": "ATH",
     "name": "Athlone",
     "nameWoDiacritics": "Athlone",
-    "status": "RQ",
+    "status": 9,
     "function": [
       4
     ],
@@ -419,7 +420,7 @@
     "location": "ATY",
     "name": "Athy",
     "nameWoDiacritics": "Athy",
-    "status": "RQ",
+    "status": 9,
     "function": [
       1,
       2
@@ -435,7 +436,7 @@
     "location": "AUG",
     "name": "Aughinish Island",
     "nameWoDiacritics": "Aughinish Island",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -450,14 +451,14 @@
     "location": "AUM",
     "name": "Aughrim",
     "nameWoDiacritics": "Aughrim",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 201,
     "coordinates": {
       "lat": 52.85,
-      "lon": 1.0166666666666666
+      "lon": -6.316666666666666
     }
   },
   {
@@ -466,7 +467,7 @@
     "name": "Avoca",
     "nameWoDiacritics": "Avoca",
     "subdivision": "WW",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -474,7 +475,7 @@
     "date": 207,
     "coordinates": {
       "lat": 52.85,
-      "lon": 1.0166666666666666
+      "lon": -6.2
     }
   },
   {
@@ -482,7 +483,7 @@
     "location": "BIF",
     "name": "B & I Ferryport",
     "nameWoDiacritics": "B & I Ferryport",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -497,7 +498,7 @@
     "location": "BIT",
     "name": "B & I Terminal",
     "nameWoDiacritics": "B & I Terminal",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -513,7 +514,7 @@
     "name": "Bagenalstown",
     "nameWoDiacritics": "Bagenalstown",
     "subdivision": "CW",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -521,7 +522,7 @@
     "date": 207,
     "coordinates": {
       "lat": 52.7,
-      "lon": 1.0833333333333333
+      "lon": -6.95
     }
   },
   {
@@ -530,14 +531,14 @@
     "name": "Bailieborough",
     "nameWoDiacritics": "Bailieborough",
     "subdivision": "CN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 53.9,
-      "lon": 1.0833333333333333
+      "lon": -6.966666666666667
     }
   },
   {
@@ -546,7 +547,7 @@
     "name": "Balbriggan",
     "nameWoDiacritics": "Balbriggan",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -555,7 +556,7 @@
     "date": 1301,
     "coordinates": {
       "lat": 53.61666666666667,
-      "lon": 1.0166666666666666
+      "lon": -6.183333333333334
     }
   },
   {
@@ -563,7 +564,7 @@
     "location": "BAL",
     "name": "Baldonnel",
     "nameWoDiacritics": "Baldonnel",
-    "status": "AF",
+    "status": 2,
     "function": [
       3
     ],
@@ -579,14 +580,14 @@
     "name": "Baldoyle",
     "nameWoDiacritics": "Baldoyle",
     "subdivision": "D",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": 53.4,
-      "lon": 1
+      "lon": -6.133333333333334
     }
   },
   {
@@ -595,14 +596,14 @@
     "name": "Ballagh",
     "nameWoDiacritics": "Ballagh",
     "subdivision": "LK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 52.36666666666667,
-      "lon": 1.5
+      "lon": -9.066666666666666
     }
   },
   {
@@ -611,14 +612,14 @@
     "name": "Ballaghaderreen",
     "nameWoDiacritics": "Ballaghaderreen",
     "subdivision": "RN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": 53.9,
-      "lon": 1.3833333333333333
+      "lon": -8.583333333333334
     }
   },
   {
@@ -627,7 +628,7 @@
     "name": "Ballina",
     "nameWoDiacritics": "Ballina",
     "subdivision": "MO",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -635,7 +636,7 @@
     "date": 1207,
     "coordinates": {
       "lat": 54.11666666666667,
-      "lon": 1.5166666666666666
+      "lon": -9.166666666666666
     }
   },
   {
@@ -644,7 +645,7 @@
     "name": "Ballina",
     "nameWoDiacritics": "Ballina",
     "subdivision": "TA",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -652,7 +653,7 @@
     "date": 1207,
     "coordinates": {
       "lat": 52.8,
-      "lon": 1.3666666666666667
+      "lon": -8.433333333333334
     }
   },
   {
@@ -661,14 +662,14 @@
     "name": "Ballinakill",
     "nameWoDiacritics": "Ballinakill",
     "subdivision": "LS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 52.86666666666667,
-      "lon": 1.1833333333333333
+      "lon": -7.3
     }
   },
   {
@@ -676,7 +677,7 @@
     "location": "BAM",
     "name": "Ballinamore",
     "nameWoDiacritics": "Ballinamore",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -692,7 +693,7 @@
     "location": "BAE",
     "name": "Ballinasloe",
     "nameWoDiacritics": "Ballinasloe",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -708,14 +709,14 @@
     "name": "Ballincollig",
     "nameWoDiacritics": "Ballincollig",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1501,
     "coordinates": {
       "lat": 51.88333333333333,
-      "lon": 1.3833333333333333
+      "lon": -8.583333333333334
     }
   },
   {
@@ -724,7 +725,7 @@
     "name": "Ballindine",
     "nameWoDiacritics": "Ballindine",
     "subdivision": "MO",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -733,7 +734,7 @@
     "date": 407,
     "coordinates": {
       "lat": 53.666666666666664,
-      "lon": 1.4166666666666667
+      "lon": -8.966666666666667
     }
   },
   {
@@ -741,14 +742,14 @@
     "location": "BAN",
     "name": "Ballineen",
     "nameWoDiacritics": "Ballineen",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 51.733333333333334,
-      "lon": 1.4166666666666667
+      "lon": -8.95
     }
   },
   {
@@ -757,7 +758,7 @@
     "name": "Ballinrobe",
     "nameWoDiacritics": "Ballinrobe",
     "subdivision": "MO",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -773,14 +774,14 @@
     "name": "Ballinskelligs",
     "nameWoDiacritics": "Ballinskelligs",
     "subdivision": "KY",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 51.8,
-      "lon": 1.0166666666666666
+      "lon": -10.283333333333333
     }
   },
   {
@@ -788,14 +789,14 @@
     "location": "BAV",
     "name": "Ballivor",
     "nameWoDiacritics": "Ballivor",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 53.53333333333333,
-      "lon": 1.0833333333333333
+      "lon": -6.95
     }
   },
   {
@@ -804,14 +805,14 @@
     "name": "Ballon",
     "nameWoDiacritics": "Ballon",
     "subdivision": "CW",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 52.733333333333334,
-      "lon": 1.0666666666666667
+      "lon": -6.766666666666667
     }
   },
   {
@@ -820,14 +821,14 @@
     "name": "Ballsbridge",
     "nameWoDiacritics": "Ballsbridge",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 53.31666666666667,
-      "lon": 1.0166666666666666
+      "lon": -6.216666666666667
     }
   },
   {
@@ -836,14 +837,14 @@
     "name": "Ballybay",
     "nameWoDiacritics": "Ballybay",
     "subdivision": "MN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 54.11666666666667,
-      "lon": 1.0833333333333333
+      "lon": -6.9
     }
   },
   {
@@ -852,14 +853,14 @@
     "name": "Ballybin",
     "nameWoDiacritics": "Ballybin",
     "subdivision": "LH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 54.05,
-      "lon": 1.05
+      "lon": -6.516666666666667
     }
   },
   {
@@ -867,14 +868,14 @@
     "location": "BBY",
     "name": "Ballybofey",
     "nameWoDiacritics": "Ballybofey",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 201,
     "coordinates": {
       "lat": 54.78333333333333,
-      "lon": 1.2333333333333334
+      "lon": -7.766666666666667
     }
   },
   {
@@ -883,14 +884,14 @@
     "name": "Ballyboghil (Ballyboughal)",
     "nameWoDiacritics": "Ballyboghil (Ballyboughal)",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1001,
     "coordinates": {
       "lat": 53.516666666666666,
-      "lon": 1.0166666666666666
+      "lon": -6.25
     }
   },
   {
@@ -899,14 +900,14 @@
     "name": "Ballyboro",
     "nameWoDiacritics": "Ballyboro",
     "subdivision": "WX",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": 52.46666666666667,
-      "lon": 1.0666666666666667
+      "lon": -6.733333333333333
     }
   },
   {
@@ -915,14 +916,14 @@
     "name": "Ballycollin",
     "nameWoDiacritics": "Ballycollin",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.15,
-      "lon": 1.2333333333333334
+      "lon": -7.716666666666667
     }
   },
   {
@@ -931,14 +932,14 @@
     "name": "Ballyconnell",
     "nameWoDiacritics": "Ballyconnell",
     "subdivision": "CN",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 901,
     "coordinates": {
       "lat": 54.11666666666667,
-      "lon": 1.2166666666666666
+      "lon": -7.583333333333333
     }
   },
   {
@@ -947,14 +948,14 @@
     "name": "Ballycotton",
     "nameWoDiacritics": "Ballycotton",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 51.833333333333336,
-      "lon": 1.3333333333333333
+      "lon": -8
     }
   },
   {
@@ -963,14 +964,14 @@
     "name": "Ballydavid",
     "nameWoDiacritics": "Ballydavid",
     "subdivision": "KY",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1201,
     "coordinates": {
       "lat": 52.21666666666667,
-      "lon": 1.0333333333333334
+      "lon": -10.35
     }
   },
   {
@@ -979,14 +980,14 @@
     "name": "Ballydehob",
     "nameWoDiacritics": "Ballydehob",
     "subdivision": "CO",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 51.55,
-      "lon": 1.5333333333333334
+      "lon": -9.466666666666667
     }
   },
   {
@@ -995,14 +996,14 @@
     "name": "Ballydesmond",
     "nameWoDiacritics": "Ballydesmond",
     "subdivision": "CO",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 52.166666666666664,
-      "lon": 1.5166666666666666
+      "lon": -9.233333333333333
     }
   },
   {
@@ -1011,7 +1012,7 @@
     "name": "Ballyfermot",
     "nameWoDiacritics": "Ballyfermot",
     "subdivision": "D",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -1026,7 +1027,7 @@
     "location": "BLG",
     "name": "Ballygar",
     "nameWoDiacritics": "Ballygar",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1042,14 +1043,14 @@
     "name": "Ballyhahil",
     "nameWoDiacritics": "Ballyhahil",
     "subdivision": "LK",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 901,
     "coordinates": {
       "lat": 52.55,
-      "lon": 10.516666666666666
+      "lon": -99.18333333333334
     }
   },
   {
@@ -1057,7 +1058,7 @@
     "location": "BHS",
     "name": "Ballyhaunis",
     "nameWoDiacritics": "Ballyhaunis",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1073,14 +1074,14 @@
     "name": "Ballyhoolahan",
     "nameWoDiacritics": "Ballyhoolahan",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 52.15,
-      "lon": 1.5
+      "lon": -9.05
     }
   },
   {
@@ -1089,14 +1090,14 @@
     "name": "Ballyjamesduff",
     "nameWoDiacritics": "Ballyjamesduff",
     "subdivision": "CN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 53.85,
-      "lon": 1.1833333333333333
+      "lon": -7.2
     }
   },
   {
@@ -1105,14 +1106,14 @@
     "name": "Ballylanders",
     "nameWoDiacritics": "Ballylanders",
     "subdivision": "LK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 52.36666666666667,
-      "lon": 1.3666666666666667
+      "lon": -8.333333333333334
     }
   },
   {
@@ -1121,14 +1122,14 @@
     "name": "Ballymacarbry",
     "nameWoDiacritics": "Ballymacarbry",
     "subdivision": "WD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 52.25,
-      "lon": 1.2333333333333334
+      "lon": -7.716666666666667
     }
   },
   {
@@ -1137,14 +1138,14 @@
     "name": "Ballymahon",
     "nameWoDiacritics": "Ballymahon",
     "subdivision": "LD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 501,
     "coordinates": {
       "lat": 53.56666666666667,
-      "lon": 1.2333333333333334
+      "lon": -7.766666666666667
     }
   },
   {
@@ -1153,14 +1154,14 @@
     "name": "Ballymoney",
     "nameWoDiacritics": "Ballymoney",
     "subdivision": "DL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1607,
     "coordinates": {
       "lat": 55.03333333333333,
-      "lon": 1.2166666666666666
+      "lon": -7.5
     }
   },
   {
@@ -1169,14 +1170,14 @@
     "name": "Ballymote",
     "nameWoDiacritics": "Ballymote",
     "subdivision": "SO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 54.083333333333336,
-      "lon": 1.3833333333333333
+      "lon": -8.516666666666667
     }
   },
   {
@@ -1184,14 +1185,14 @@
     "location": "BMT",
     "name": "Ballymount",
     "nameWoDiacritics": "Ballymount",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 601,
     "coordinates": {
       "lat": 53.31666666666667,
-      "lon": 1.0333333333333334
+      "lon": -6.366666666666666
     }
   },
   {
@@ -1200,7 +1201,7 @@
     "name": "Ballymurray",
     "nameWoDiacritics": "Ballymurray",
     "subdivision": "RN",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1208,7 +1209,7 @@
     "date": 1207,
     "coordinates": {
       "lat": 53.583333333333336,
-      "lon": 1.3333333333333333
+      "lon": -8.116666666666667
     }
   },
   {
@@ -1216,7 +1217,7 @@
     "location": "BGY",
     "name": "Ballynacargy",
     "nameWoDiacritics": "Ballynacargy",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       5
@@ -1224,7 +1225,7 @@
     "date": 1007,
     "coordinates": {
       "lat": 53.56666666666667,
-      "lon": 1.2166666666666666
+      "lon": -7.533333333333333
     }
   },
   {
@@ -1233,14 +1234,14 @@
     "name": "Ballyragget",
     "nameWoDiacritics": "Ballyragget",
     "subdivision": "KK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 52.78333333333333,
-      "lon": 1.1833333333333333
+      "lon": -7.316666666666666
     }
   },
   {
@@ -1248,7 +1249,7 @@
     "location": "BSN",
     "name": "Ballyshannon",
     "nameWoDiacritics": "Ballyshannon",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -1264,14 +1265,14 @@
     "name": "Ballyvaughan",
     "nameWoDiacritics": "Ballyvaughan",
     "subdivision": "CE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 53.11666666666667,
-      "lon": 1.5
+      "lon": -9.15
     }
   },
   {
@@ -1280,14 +1281,14 @@
     "name": "Ballyvourney",
     "nameWoDiacritics": "Ballyvourney",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1607,
     "coordinates": {
       "lat": 51.93333333333333,
-      "lon": 1.5166666666666666
+      "lon": -9.166666666666666
     }
   },
   {
@@ -1295,7 +1296,7 @@
     "location": "BTM",
     "name": "Baltimore",
     "nameWoDiacritics": "Baltimore",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -1311,14 +1312,14 @@
     "name": "Baltinglass",
     "nameWoDiacritics": "Baltinglass",
     "subdivision": "WW",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 52.93333333333333,
-      "lon": 1.0666666666666667
+      "lon": -6.7
     }
   },
   {
@@ -1327,14 +1328,14 @@
     "name": "Banagher",
     "nameWoDiacritics": "Banagher",
     "subdivision": "OY",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 53.18333333333333,
-      "lon": 1.25
+      "lon": -7.983333333333333
     },
     "remarks": "Offaly"
   },
@@ -1343,14 +1344,14 @@
     "location": "BDO",
     "name": "Bandon",
     "nameWoDiacritics": "Bandon",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 201,
     "coordinates": {
       "lat": 51.75,
-      "lon": 1.4
+      "lon": -8.733333333333333
     }
   },
   {
@@ -1358,7 +1359,7 @@
     "location": "BNG",
     "name": "Bangor",
     "nameWoDiacritics": "Bangor",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -1366,7 +1367,7 @@
     "date": 601,
     "coordinates": {
       "lat": 54.13333333333333,
-      "lon": 1.5666666666666667
+      "lon": -9.733333333333333
     }
   },
   {
@@ -1375,14 +1376,14 @@
     "name": "Bangor Erris",
     "nameWoDiacritics": "Bangor Erris",
     "subdivision": "MO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 54.13333333333333,
-      "lon": 1.5666666666666667
+      "lon": -9.733333333333333
     }
   },
   {
@@ -1391,7 +1392,7 @@
     "name": "Bantry",
     "nameWoDiacritics": "Bantry",
     "subdivision": "CO",
-    "status": "AF",
+    "status": 2,
     "function": [
       0,
       2,
@@ -1400,7 +1401,7 @@
     "date": 507,
     "coordinates": {
       "lat": 51.68333333333333,
-      "lon": 1.5333333333333334
+      "lon": -9.45
     }
   },
   {
@@ -1409,14 +1410,14 @@
     "name": "Bantry Harbour",
     "nameWoDiacritics": "Bantry Harbour",
     "subdivision": "CO",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 1501,
     "coordinates": {
       "lat": 51.68333333333333,
-      "lon": 1.5333333333333334
+      "lon": -9.45
     }
   },
   {
@@ -1425,14 +1426,14 @@
     "name": "Bawnboy",
     "nameWoDiacritics": "Bawnboy",
     "subdivision": "CN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 54.11666666666667,
-      "lon": 1.2333333333333334
+      "lon": -7.683333333333334
     }
   },
   {
@@ -1440,14 +1441,14 @@
     "location": "BEF",
     "name": "Belfast",
     "nameWoDiacritics": "Belfast",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 54.583333333333336,
-      "lon": 0.9166666666666666
+      "lon": -5.916666666666667
     }
   },
   {
@@ -1456,7 +1457,7 @@
     "name": "Belmullet",
     "nameWoDiacritics": "Belmullet",
     "subdivision": "MO",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -1464,7 +1465,7 @@
     "date": 1207,
     "coordinates": {
       "lat": 54.21666666666667,
-      "lon": 1.5833333333333333
+      "lon": -9.983333333333333
     }
   },
   {
@@ -1473,14 +1474,14 @@
     "name": "Belturbet",
     "nameWoDiacritics": "Belturbet",
     "subdivision": "CN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 54.1,
-      "lon": 1.2
+      "lon": -7.433333333333334
     }
   },
   {
@@ -1489,14 +1490,14 @@
     "name": "Bettystown",
     "nameWoDiacritics": "Bettystown",
     "subdivision": "MH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1401,
     "coordinates": {
       "lat": 53.7,
-      "lon": 1.0166666666666666
+      "lon": -6.233333333333333
     }
   },
   {
@@ -1505,14 +1506,14 @@
     "name": "Birdhill",
     "nameWoDiacritics": "Birdhill",
     "subdivision": "TA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 52.75,
-      "lon": 1.3666666666666667
+      "lon": -8.433333333333334
     }
   },
   {
@@ -1521,14 +1522,14 @@
     "name": "Birr",
     "nameWoDiacritics": "Birr",
     "subdivision": "OY",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 53.083333333333336,
-      "lon": 1.25
+      "lon": -7.9
     }
   },
   {
@@ -1537,14 +1538,14 @@
     "name": "Bishops Village",
     "nameWoDiacritics": "Bishops Village",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1707,
     "coordinates": {
       "lat": 51.56666666666667,
-      "lon": 1.5166666666666666
+      "lon": -9.283333333333333
     }
   },
   {
@@ -1553,7 +1554,7 @@
     "name": "Blackrock",
     "nameWoDiacritics": "Blackrock",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1561,7 +1562,7 @@
     "date": 207,
     "coordinates": {
       "lat": 53.3,
-      "lon": 1.0166666666666666
+      "lon": -6.183333333333334
     }
   },
   {
@@ -1570,14 +1571,14 @@
     "name": "Blackwater",
     "nameWoDiacritics": "Blackwater",
     "subdivision": "WX",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 52.43333333333333,
-      "lon": 1.0333333333333334
+      "lon": -6.333333333333333
     }
   },
   {
@@ -1585,7 +1586,7 @@
     "location": "BHT",
     "name": "Blanchardstown",
     "nameWoDiacritics": "Blanchardstown",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -1594,7 +1595,7 @@
     "date": 601,
     "coordinates": {
       "lat": 53.38333333333333,
-      "lon": 1.0333333333333334
+      "lon": -6.366666666666666
     }
   },
   {
@@ -1603,14 +1604,14 @@
     "name": "Blarney",
     "nameWoDiacritics": "Blarney",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1607,
     "coordinates": {
       "lat": 51.93333333333333,
-      "lon": 1.3833333333333333
+      "lon": -8.566666666666666
     }
   },
   {
@@ -1619,14 +1620,14 @@
     "name": "Blessington",
     "nameWoDiacritics": "Blessington",
     "subdivision": "WW",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 53.166666666666664,
-      "lon": 1.05
+      "lon": -6.516666666666667
     }
   },
   {
@@ -1635,14 +1636,14 @@
     "name": "Borris",
     "nameWoDiacritics": "Borris",
     "subdivision": "CW",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 407,
     "coordinates": {
       "lat": 52.6,
-      "lon": 1.0833333333333333
+      "lon": -6.916666666666667
     }
   },
   {
@@ -1651,14 +1652,14 @@
     "name": "Borris in Ossory",
     "nameWoDiacritics": "Borris in Ossory",
     "subdivision": "LS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 52.93333333333333,
-      "lon": 1.2166666666666666
+      "lon": -7.633333333333333
     }
   },
   {
@@ -1667,14 +1668,14 @@
     "name": "Borrisoleigh",
     "nameWoDiacritics": "Borrisoleigh",
     "subdivision": "TA",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1001,
     "coordinates": {
       "lat": 52.75,
-      "lon": 1.25
+      "lon": -7.95
     }
   },
   {
@@ -1683,14 +1684,14 @@
     "name": "Boyle",
     "nameWoDiacritics": "Boyle",
     "subdivision": "RN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 53.96666666666667,
-      "lon": 1.35
+      "lon": -8.3
     }
   },
   {
@@ -1699,14 +1700,14 @@
     "name": "Bray",
     "nameWoDiacritics": "Bray",
     "subdivision": "WW",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 53.2,
-      "lon": 1
+      "lon": -6.083333333333333
     }
   },
   {
@@ -1715,14 +1716,14 @@
     "name": "Bree",
     "nameWoDiacritics": "Bree",
     "subdivision": "WX",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 52.43333333333333,
-      "lon": 1.05
+      "lon": -6.6
     }
   },
   {
@@ -1731,14 +1732,14 @@
     "name": "Bridge End",
     "nameWoDiacritics": "Bridge End",
     "subdivision": "DL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 55.016666666666666,
-      "lon": 1.2
+      "lon": -7.383333333333334
     }
   },
   {
@@ -1747,7 +1748,7 @@
     "name": "Broadford",
     "nameWoDiacritics": "Broadford",
     "subdivision": "CW",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -1763,14 +1764,14 @@
     "name": "Bruree",
     "nameWoDiacritics": "Bruree",
     "subdivision": "LK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 52.416666666666664,
-      "lon": 1.3833333333333333
+      "lon": -8.65
     }
   },
   {
@@ -1779,14 +1780,14 @@
     "name": "Bunbeg",
     "nameWoDiacritics": "Bunbeg",
     "subdivision": "DL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 55.05,
-      "lon": 1.35
+      "lon": -8.3
     }
   },
   {
@@ -1795,14 +1796,14 @@
     "name": "Bunclody",
     "nameWoDiacritics": "Bunclody",
     "subdivision": "WX",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 52.65,
-      "lon": 1.05
+      "lon": -6.65
     }
   },
   {
@@ -1810,7 +1811,7 @@
     "location": "BUC",
     "name": "Buncrana",
     "nameWoDiacritics": "Buncrana",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -1826,14 +1827,14 @@
     "name": "Bunratty",
     "nameWoDiacritics": "Bunratty",
     "subdivision": "CE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 52.68333333333333,
-      "lon": 1.4
+      "lon": -8.8
     }
   },
   {
@@ -1841,7 +1842,7 @@
     "location": "BFO",
     "name": "Burnfoot",
     "nameWoDiacritics": "Burnfoot",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -1849,7 +1850,7 @@
     "date": 601,
     "coordinates": {
       "lat": 55.05,
-      "lon": 1.2
+      "lon": -7.4
     }
   },
   {
@@ -1857,7 +1858,7 @@
     "location": "BUR",
     "name": "Burtonport",
     "nameWoDiacritics": "Burtonport",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -1865,7 +1866,7 @@
     "date": 1301,
     "coordinates": {
       "lat": 54.983333333333334,
-      "lon": 1.3666666666666667
+      "lon": -8.433333333333334
     }
   },
   {
@@ -1874,14 +1875,14 @@
     "name": "Butlerstown",
     "nameWoDiacritics": "Butlerstown",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 51.583333333333336,
-      "lon": 1.4
+      "lon": -8.716666666666667
     }
   },
   {
@@ -1889,7 +1890,7 @@
     "location": "CHR",
     "name": "Caher",
     "nameWoDiacritics": "Caher",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -1904,14 +1905,14 @@
     "location": "CAI",
     "name": "Cahir (An Chathair)",
     "nameWoDiacritics": "Cahir (An Chathair)",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
     "date": 201,
     "coordinates": {
       "lat": 52.36666666666667,
-      "lon": 1.25
+      "lon": -7.916666666666667
     }
   },
   {
@@ -1919,7 +1920,7 @@
     "location": "CHE",
     "name": "Cahirciveen",
     "nameWoDiacritics": "Cahirciveen",
-    "status": "AF",
+    "status": 2,
     "function": [
       0,
       2,
@@ -1928,7 +1929,7 @@
     "date": 1301,
     "coordinates": {
       "lat": 51.95,
-      "lon": 1.0166666666666666
+      "lon": -10.216666666666667
     }
   },
   {
@@ -1937,14 +1938,14 @@
     "name": "Callan",
     "nameWoDiacritics": "Callan",
     "subdivision": "KK",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 52.53333333333333,
-      "lon": 1.2
+      "lon": -7.383333333333334
     }
   },
   {
@@ -1953,14 +1954,14 @@
     "name": "Camolin",
     "nameWoDiacritics": "Camolin",
     "subdivision": "WX",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 52.6,
-      "lon": 1.0333333333333334
+      "lon": -6.416666666666667
     }
   },
   {
@@ -1969,14 +1970,14 @@
     "name": "Cappoquin",
     "nameWoDiacritics": "Cappoquin",
     "subdivision": "WD",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 52.13333333333333,
-      "lon": 1.25
+      "lon": -7.85
     }
   },
   {
@@ -1984,7 +1985,7 @@
     "location": "CAR",
     "name": "Carlingford",
     "nameWoDiacritics": "Carlingford",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -2000,7 +2001,7 @@
     "location": "CAW",
     "name": "Carlow",
     "nameWoDiacritics": "Carlow",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -2016,14 +2017,14 @@
     "name": "Carn",
     "nameWoDiacritics": "Carn",
     "subdivision": "DL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 54.56666666666667,
-      "lon": 1.25
+      "lon": -7.833333333333333
     }
   },
   {
@@ -2032,14 +2033,14 @@
     "name": "Carndonagh",
     "nameWoDiacritics": "Carndonagh",
     "subdivision": "DL",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 55.25,
-      "lon": 1.1833333333333333
+      "lon": -7.266666666666667
     }
   },
   {
@@ -2048,14 +2049,14 @@
     "name": "Carrick",
     "nameWoDiacritics": "Carrick",
     "subdivision": "DL",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 901,
     "coordinates": {
       "lat": 54.6,
-      "lon": 1.3333333333333333
+      "lon": -8.1
     }
   },
   {
@@ -2063,7 +2064,7 @@
     "location": "CAN",
     "name": "Carrickcarnan",
     "nameWoDiacritics": "Carrickcarnan",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -2078,7 +2079,7 @@
     "location": "CAS",
     "name": "Carrickmacross",
     "nameWoDiacritics": "Carrickmacross",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -2094,14 +2095,14 @@
     "name": "Carrickmines",
     "nameWoDiacritics": "Carrickmines",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 53.25,
-      "lon": 1.0166666666666666
+      "lon": -6.166666666666667
     }
   },
   {
@@ -2110,14 +2111,14 @@
     "name": "Carrick-on-Shannon",
     "nameWoDiacritics": "Carrick-on-Shannon",
     "subdivision": "LM",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": 53.95,
-      "lon": 1.3333333333333333
+      "lon": -8.083333333333334
     }
   },
   {
@@ -2126,7 +2127,7 @@
     "name": "Carrick-on-Suir",
     "nameWoDiacritics": "Carrick-on-Suir",
     "subdivision": "TA",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -2135,7 +2136,7 @@
     "date": 1207,
     "coordinates": {
       "lat": 52.333333333333336,
-      "lon": 1.2
+      "lon": -7.4
     }
   },
   {
@@ -2144,14 +2145,14 @@
     "name": "Carrigaline",
     "nameWoDiacritics": "Carrigaline",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 51.8,
-      "lon": 1.3666666666666667
+      "lon": -8.383333333333333
     }
   },
   {
@@ -2160,14 +2161,14 @@
     "name": "Carrigans",
     "nameWoDiacritics": "Carrigans",
     "subdivision": "DL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 54.95,
-      "lon": 1.2
+      "lon": -7.433333333333334
     }
   },
   {
@@ -2176,14 +2177,14 @@
     "name": "Carrigtohill",
     "nameWoDiacritics": "Carrigtohill",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 51.9,
-      "lon": 1.35
+      "lon": -8.25
     }
   },
   {
@@ -2191,7 +2192,7 @@
     "location": "QSH",
     "name": "Cashel",
     "nameWoDiacritics": "Cashel",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -2207,14 +2208,14 @@
     "name": "Casteltownroche",
     "nameWoDiacritics": "Casteltownroche",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 52.166666666666664,
-      "lon": 1.3666666666666667
+      "lon": -8.45
     }
   },
   {
@@ -2222,7 +2223,7 @@
     "location": "CLB",
     "name": "Castlebar",
     "nameWoDiacritics": "Castlebar",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -2238,7 +2239,7 @@
     "location": "CAM",
     "name": "Castlebellingham",
     "nameWoDiacritics": "Castlebellingham",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -2253,14 +2254,14 @@
     "location": "CBY",
     "name": "Castleblaney",
     "nameWoDiacritics": "Castleblaney",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 54.11666666666667,
-      "lon": 1.0666666666666667
+      "lon": -6.733333333333333
     }
   },
   {
@@ -2269,14 +2270,14 @@
     "name": "Castlecomer",
     "nameWoDiacritics": "Castlecomer",
     "subdivision": "KK",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": 52.8,
-      "lon": 1.1833333333333333
+      "lon": -7.216666666666667
     }
   },
   {
@@ -2284,7 +2285,7 @@
     "location": "CAL",
     "name": "Castleconnell",
     "nameWoDiacritics": "Castleconnell",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -2300,14 +2301,14 @@
     "name": "Castledermot",
     "nameWoDiacritics": "Castledermot",
     "subdivision": "KE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 52.9,
-      "lon": 1.0833333333333333
+      "lon": -6.833333333333333
     }
   },
   {
@@ -2315,7 +2316,7 @@
     "location": "CFI",
     "name": "Castlefinn",
     "nameWoDiacritics": "Castlefinn",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2,
@@ -2324,7 +2325,7 @@
     "date": 601,
     "coordinates": {
       "lat": 54.8,
-      "lon": 1.2166666666666666
+      "lon": -7.6
     }
   },
   {
@@ -2333,7 +2334,7 @@
     "name": "Castleisland",
     "nameWoDiacritics": "Castleisland",
     "subdivision": "KY",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2341,7 +2342,7 @@
     "date": 207,
     "coordinates": {
       "lat": 52.233333333333334,
-      "lon": 1.5333333333333334
+      "lon": -9.466666666666667
     }
   },
   {
@@ -2350,14 +2351,14 @@
     "name": "Castlemahon",
     "nameWoDiacritics": "Castlemahon",
     "subdivision": "LK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 52.416666666666664,
-      "lon": 1.5
+      "lon": -9
     }
   },
   {
@@ -2366,14 +2367,14 @@
     "name": "Castlemaine",
     "nameWoDiacritics": "Castlemaine",
     "subdivision": "KY",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 52.166666666666664,
-      "lon": 1.5666666666666667
+      "lon": -9.7
     }
   },
   {
@@ -2382,7 +2383,7 @@
     "name": "Castlenock",
     "nameWoDiacritics": "Castlenock",
     "subdivision": "CW",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -2398,14 +2399,14 @@
     "name": "Castlepollard",
     "nameWoDiacritics": "Castlepollard",
     "subdivision": "WH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 53.666666666666664,
-      "lon": 1.1833333333333333
+      "lon": -7.3
     }
   },
   {
@@ -2413,7 +2414,7 @@
     "location": "CAA",
     "name": "Castlerea",
     "nameWoDiacritics": "Castlerea",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -2429,7 +2430,7 @@
     "name": "Castletown",
     "nameWoDiacritics": "Castletown",
     "subdivision": "LS",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2437,7 +2438,7 @@
     "date": 501,
     "coordinates": {
       "lat": 52.96666666666667,
-      "lon": 1.2
+      "lon": -7.483333333333333
     }
   },
   {
@@ -2446,7 +2447,7 @@
     "name": "Castletown Bearhaven",
     "nameWoDiacritics": "Castletown Bearhaven",
     "subdivision": "CO",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2
@@ -2454,7 +2455,7 @@
     "date": 1207,
     "coordinates": {
       "lat": 51.65,
-      "lon": 1.5833333333333333
+      "lon": -9.916666666666666
     }
   },
   {
@@ -2462,7 +2463,7 @@
     "location": "CAU",
     "name": "Causeway",
     "nameWoDiacritics": "Causeway",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2477,7 +2478,7 @@
     "location": "CAV",
     "name": "Cavan",
     "nameWoDiacritics": "Cavan",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -2492,14 +2493,14 @@
     "location": "CEL",
     "name": "Celbridge",
     "nameWoDiacritics": "Celbridge",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 601,
     "coordinates": {
       "lat": 53.333333333333336,
-      "lon": 1.05
+      "lon": -6.55
     }
   },
   {
@@ -2508,14 +2509,14 @@
     "name": "Charlestown",
     "nameWoDiacritics": "Charlestown",
     "subdivision": "MO",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.95,
-      "lon": 1.4
+      "lon": -8.783333333333333
     }
   },
   {
@@ -2524,14 +2525,14 @@
     "name": "Charleville",
     "nameWoDiacritics": "Charleville",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 52.35,
-      "lon": 1.4
+      "lon": -8.666666666666666
     }
   },
   {
@@ -2540,14 +2541,14 @@
     "name": "Churchtown",
     "nameWoDiacritics": "Churchtown",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 52.266666666666666,
-      "lon": 1.4
+      "lon": -8.733333333333333
     }
   },
   {
@@ -2556,14 +2557,14 @@
     "name": "Clane",
     "nameWoDiacritics": "Clane",
     "subdivision": "KE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 53.28333333333333,
-      "lon": 1.0666666666666667
+      "lon": -6.683333333333334
     }
   },
   {
@@ -2571,7 +2572,7 @@
     "location": "CLA",
     "name": "Clara",
     "nameWoDiacritics": "Clara",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2589,7 +2590,7 @@
     "name": "Clare Island",
     "nameWoDiacritics": "Clare Island",
     "subdivision": "MO",
-    "status": "AM",
+    "status": 4,
     "function": [
       0,
       2
@@ -2597,7 +2598,7 @@
     "date": 2307,
     "coordinates": {
       "lat": 53.8,
-      "lon": 1.5833333333333333
+      "lon": -9.95
     }
   },
   {
@@ -2606,7 +2607,7 @@
     "name": "Clarecastle",
     "nameWoDiacritics": "Clarecastle",
     "subdivision": "CE",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -2614,7 +2615,7 @@
     "date": 207,
     "coordinates": {
       "lat": 52.81666666666667,
-      "lon": 1.4166666666666667
+      "lon": -8.95
     }
   },
   {
@@ -2623,14 +2624,14 @@
     "name": "Claremorris",
     "nameWoDiacritics": "Claremorris",
     "subdivision": "MO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 53.71666666666667,
-      "lon": 1.5
+      "lon": -9
     }
   },
   {
@@ -2638,7 +2639,7 @@
     "location": "CLI",
     "name": "Clifden",
     "nameWoDiacritics": "Clifden",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       1,
@@ -2657,14 +2658,14 @@
     "name": "Clogherhead",
     "nameWoDiacritics": "Clogherhead",
     "subdivision": "LH",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.78333333333333,
-      "lon": 1.0166666666666666
+      "lon": -6.233333333333333
     }
   },
   {
@@ -2673,14 +2674,14 @@
     "name": "Cloghjordan",
     "nameWoDiacritics": "Cloghjordan",
     "subdivision": "TA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1401,
     "coordinates": {
       "lat": 52.93333333333333,
-      "lon": 1.3333333333333333
+      "lon": -8.033333333333333
     }
   },
   {
@@ -2688,7 +2689,7 @@
     "location": "CLO",
     "name": "Cloghore",
     "nameWoDiacritics": "Cloghore",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -2703,7 +2704,7 @@
     "location": "CLR",
     "name": "Cloghran",
     "nameWoDiacritics": "Cloghran",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -2711,7 +2712,7 @@
     "date": 212,
     "coordinates": {
       "lat": 53.416666666666664,
-      "lon": 1.0166666666666666
+      "lon": -6.233333333333333
     }
   },
   {
@@ -2720,14 +2721,14 @@
     "name": "Clonakilty",
     "nameWoDiacritics": "Clonakilty",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 51.61666666666667,
-      "lon": 1.4166666666666667
+      "lon": -8.883333333333333
     }
   },
   {
@@ -2736,14 +2737,14 @@
     "name": "Clonaslee",
     "nameWoDiacritics": "Clonaslee",
     "subdivision": "LS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 53.13333333333333,
-      "lon": 1.2166666666666666
+      "lon": -7.516666666666667
     }
   },
   {
@@ -2752,14 +2753,14 @@
     "name": "Clonbulloge",
     "nameWoDiacritics": "Clonbulloge",
     "subdivision": "OY",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 53.25,
-      "lon": 1.1666666666666667
+      "lon": -7.083333333333333
     }
   },
   {
@@ -2767,7 +2768,7 @@
     "location": "CLK",
     "name": "Clondalkin",
     "nameWoDiacritics": "Clondalkin",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -2782,7 +2783,7 @@
     "location": "CLE",
     "name": "Clonee",
     "nameWoDiacritics": "Clonee",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -2797,14 +2798,14 @@
     "location": "CLS",
     "name": "Clones",
     "nameWoDiacritics": "Clones",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 201,
     "coordinates": {
       "lat": 54.166666666666664,
-      "lon": 1.1833333333333333
+      "lon": -7.233333333333333
     }
   },
   {
@@ -2812,7 +2813,7 @@
     "location": "CLL",
     "name": "Clonmel",
     "nameWoDiacritics": "Clonmel",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -2828,14 +2829,14 @@
     "name": "Clonshaugh",
     "nameWoDiacritics": "Clonshaugh",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.38333333333333,
-      "lon": 1.0166666666666666
+      "lon": -6.233333333333333
     }
   },
   {
@@ -2843,14 +2844,14 @@
     "location": "CTT",
     "name": "Clontibret",
     "nameWoDiacritics": "Clontibret",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 54.2,
-      "lon": 1.0833333333333333
+      "lon": -6.833333333333333
     }
   },
   {
@@ -2859,14 +2860,14 @@
     "name": "Cloonlara",
     "nameWoDiacritics": "Cloonlara",
     "subdivision": "CE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 52.71666666666667,
-      "lon": 1.3833333333333333
+      "lon": -8.55
     }
   },
   {
@@ -2874,7 +2875,7 @@
     "location": "CCT",
     "name": "Coastal Control Terminal",
     "nameWoDiacritics": "Coastal Control Terminal",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -2889,7 +2890,7 @@
     "location": "COB",
     "name": "Cobh",
     "nameWoDiacritics": "Cobh",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -2904,7 +2905,7 @@
     "location": "COL",
     "name": "Collinstown",
     "nameWoDiacritics": "Collinstown",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -2920,14 +2921,14 @@
     "name": "Collon",
     "nameWoDiacritics": "Collon",
     "subdivision": "LH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 53.766666666666666,
-      "lon": 1.0333333333333334
+      "lon": -6.483333333333333
     }
   },
   {
@@ -2935,14 +2936,14 @@
     "location": "CLY",
     "name": "Collooney",
     "nameWoDiacritics": "Collooney",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 201,
     "coordinates": {
       "lat": 54.18333333333333,
-      "lon": 1.3666666666666667
+      "lon": -8.483333333333333
     }
   },
   {
@@ -2951,14 +2952,14 @@
     "name": "Coolea",
     "nameWoDiacritics": "Coolea",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 51.916666666666664,
-      "lon": 1.5166666666666666
+      "lon": -9.216666666666667
     }
   },
   {
@@ -2967,7 +2968,7 @@
     "name": "Coolock",
     "nameWoDiacritics": "Coolock",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -2975,7 +2976,7 @@
     "date": 901,
     "coordinates": {
       "lat": 53.38333333333333,
-      "lon": 1.0166666666666666
+      "lon": -6.183333333333334
     }
   },
   {
@@ -2984,7 +2985,7 @@
     "name": "Coolshannagh",
     "nameWoDiacritics": "Coolshannagh",
     "subdivision": "MN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2999,7 +3000,7 @@
     "location": "CBR",
     "name": "Coomhola Bridge",
     "nameWoDiacritics": "Coomhola Bridge",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2,
       3
@@ -3007,7 +3008,7 @@
     "date": 1007,
     "coordinates": {
       "lat": 51.75,
-      "lon": 1.5333333333333334
+      "lon": -9.45
     }
   },
   {
@@ -3016,14 +3017,14 @@
     "name": "Cootehill",
     "nameWoDiacritics": "Cootehill",
     "subdivision": "CN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 54.06666666666667,
-      "lon": 1.1666666666666667
+      "lon": -7.083333333333333
     }
   },
   {
@@ -3031,7 +3032,7 @@
     "location": "ORK",
     "name": "Cork",
     "nameWoDiacritics": "Cork",
-    "status": "AF",
+    "status": 2,
     "function": [
       0,
       3,
@@ -3048,14 +3049,14 @@
     "location": "CRN",
     "name": "Corrin",
     "nameWoDiacritics": "Corrin",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 52.1,
-      "lon": 1.35
+      "lon": -8.266666666666667
     }
   },
   {
@@ -3064,14 +3065,14 @@
     "name": "Cratloe",
     "nameWoDiacritics": "Cratloe",
     "subdivision": "CE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 52.68333333333333,
-      "lon": 1.4
+      "lon": -8.75
     }
   },
   {
@@ -3080,14 +3081,14 @@
     "name": "Craughwell",
     "nameWoDiacritics": "Craughwell",
     "subdivision": "G",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.2,
-      "lon": 1.35
+      "lon": -8.216666666666667
     }
   },
   {
@@ -3095,7 +3096,7 @@
     "location": "CRO",
     "name": "Crookhaven",
     "nameWoDiacritics": "Crookhaven",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -3110,14 +3111,14 @@
     "location": "CKS",
     "name": "Crookstown",
     "nameWoDiacritics": "Crookstown",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 201,
     "coordinates": {
       "lat": 51.833333333333336,
-      "lon": 1.4
+      "lon": -8.816666666666666
     }
   },
   {
@@ -3126,14 +3127,14 @@
     "name": "Crossdoney",
     "nameWoDiacritics": "Crossdoney",
     "subdivision": "CN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1201,
     "coordinates": {
       "lat": 53.95,
-      "lon": 1.2
+      "lon": -7.433333333333334
     }
   },
   {
@@ -3142,14 +3143,14 @@
     "name": "Crosserlough",
     "nameWoDiacritics": "Crosserlough",
     "subdivision": "CN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.88333333333333,
-      "lon": 1.1833333333333333
+      "lon": -7.283333333333333
     }
   },
   {
@@ -3158,14 +3159,14 @@
     "name": "Curracloe",
     "nameWoDiacritics": "Curracloe",
     "subdivision": "WX",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 52.38333333333333,
-      "lon": 1.0333333333333334
+      "lon": -6.383333333333334
     }
   },
   {
@@ -3174,14 +3175,14 @@
     "name": "Curragh",
     "nameWoDiacritics": "Curragh",
     "subdivision": "KE",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 53.13333333333333,
-      "lon": 1.0666666666666667
+      "lon": -6.816666666666666
     }
   },
   {
@@ -3190,7 +3191,7 @@
     "name": "Dalkey",
     "nameWoDiacritics": "Dalkey",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -3198,7 +3199,7 @@
     "date": 1301,
     "coordinates": {
       "lat": 53.266666666666666,
-      "lon": 1
+      "lon": -6.1
     }
   },
   {
@@ -3207,14 +3208,14 @@
     "name": "Deans Grange",
     "nameWoDiacritics": "Deans Grange",
     "subdivision": "D",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": 53.28333333333333,
-      "lon": 1.0166666666666666
+      "lon": -6.166666666666667
     }
   },
   {
@@ -3223,14 +3224,14 @@
     "name": "Delgany",
     "nameWoDiacritics": "Delgany",
     "subdivision": "WW",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 53.11666666666667,
-      "lon": 1
+      "lon": -6.083333333333333
     }
   },
   {
@@ -3239,14 +3240,14 @@
     "name": "Derrybeg",
     "nameWoDiacritics": "Derrybeg",
     "subdivision": "DL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 55.083333333333336,
-      "lon": 1.35
+      "lon": -8.283333333333333
     }
   },
   {
@@ -3254,7 +3255,7 @@
     "location": "DER",
     "name": "Derryveagh",
     "nameWoDiacritics": "Derryveagh",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -3269,7 +3270,7 @@
     "location": "DIN",
     "name": "Dingle",
     "nameWoDiacritics": "Dingle",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -3285,14 +3286,14 @@
     "name": "Donabate",
     "nameWoDiacritics": "Donabate",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 53.483333333333334,
-      "lon": 1
+      "lon": -6.15
     }
   },
   {
@@ -3301,7 +3302,7 @@
     "name": "Donegal",
     "nameWoDiacritics": "Donegal",
     "subdivision": "DL",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -3319,14 +3320,14 @@
     "name": "Donoughmore",
     "nameWoDiacritics": "Donoughmore",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 51.983333333333334,
-      "lon": 1.4
+      "lon": -8.75
     }
   },
   {
@@ -3335,14 +3336,14 @@
     "name": "Doolin",
     "nameWoDiacritics": "Doolin",
     "subdivision": "CE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 53.016666666666666,
-      "lon": 1.5333333333333334
+      "lon": -9.383333333333333
     }
   },
   {
@@ -3351,7 +3352,7 @@
     "name": "Doonbeg",
     "nameWoDiacritics": "Doonbeg",
     "subdivision": "CE",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -3360,7 +3361,7 @@
     "date": 1301,
     "coordinates": {
       "lat": 52.733333333333334,
-      "lon": 1.55
+      "lon": -9.516666666666667
     }
   },
   {
@@ -3369,14 +3370,14 @@
     "name": "Dooneen",
     "nameWoDiacritics": "Dooneen",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 51.5,
-      "lon": 1.5166666666666666
+      "lon": -9.216666666666667
     }
   },
   {
@@ -3385,14 +3386,14 @@
     "name": "Douglas",
     "nameWoDiacritics": "Douglas",
     "subdivision": "CO",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1007,
     "coordinates": {
       "lat": 51.86666666666667,
-      "lon": 1.3666666666666667
+      "lon": -8.433333333333334
     }
   },
   {
@@ -3401,14 +3402,14 @@
     "name": "Drinagh",
     "nameWoDiacritics": "Drinagh",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1107,
     "coordinates": {
       "lat": 51.65,
-      "lon": 15.566666666666666
+      "lon": -149.75
     }
   },
   {
@@ -3416,7 +3417,7 @@
     "location": "DRO",
     "name": "Drogheda",
     "nameWoDiacritics": "Drogheda",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -3432,14 +3433,14 @@
     "name": "Drogheda Maxol Facility",
     "nameWoDiacritics": "Drogheda Maxol Facility",
     "subdivision": "LH",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1207,
     "coordinates": {
       "lat": 53.71666666666667,
-      "lon": 1.0333333333333334
+      "lon": -6.333333333333333
     }
   },
   {
@@ -3448,14 +3449,14 @@
     "name": "Drogheda Premiere Periclase",
     "nameWoDiacritics": "Drogheda Premiere Periclase",
     "subdivision": "LH",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.71666666666667,
-      "lon": 6.316666666666666
+      "lon": -62.516666666666666
     }
   },
   {
@@ -3464,14 +3465,14 @@
     "name": "Droichead Nua",
     "nameWoDiacritics": "Droichead Nua",
     "subdivision": "KE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 53.166666666666664,
-      "lon": 1.0666666666666667
+      "lon": -6.783333333333333
     }
   },
   {
@@ -3479,14 +3480,14 @@
     "location": "DRA",
     "name": "Dromara",
     "nameWoDiacritics": "Dromara",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 54.36666666666667,
-      "lon": 1
+      "lon": -6.016666666666667
     }
   },
   {
@@ -3495,14 +3496,14 @@
     "name": "Dromcolliher",
     "nameWoDiacritics": "Dromcolliher",
     "subdivision": "LK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 52.333333333333336,
-      "lon": 1.4166666666666667
+      "lon": -8.916666666666666
     }
   },
   {
@@ -3511,14 +3512,14 @@
     "name": "Dromod",
     "nameWoDiacritics": "Dromod",
     "subdivision": "LM",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 53.86666666666667,
-      "lon": 1.25
+      "lon": -7.916666666666667
     }
   },
   {
@@ -3527,14 +3528,14 @@
     "name": "Drumone",
     "nameWoDiacritics": "Drumone",
     "subdivision": "MH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 53.71666666666667,
-      "lon": 1.1666666666666667
+      "lon": -7.15
     }
   },
   {
@@ -3543,14 +3544,14 @@
     "name": "Drumree",
     "nameWoDiacritics": "Drumree",
     "subdivision": "MH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 53.5,
-      "lon": 1.05
+      "lon": -6.566666666666666
     }
   },
   {
@@ -3559,14 +3560,14 @@
     "name": "Drumshanbo",
     "nameWoDiacritics": "Drumshanbo",
     "subdivision": "LM",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 54.15,
-      "lon": 1.3333333333333333
+      "lon": -8.033333333333333
     }
   },
   {
@@ -3574,7 +3575,7 @@
     "location": "DUB",
     "name": "Dublin",
     "nameWoDiacritics": "Dublin",
-    "status": "AF",
+    "status": 2,
     "function": [
       0,
       1,
@@ -3593,14 +3594,14 @@
     "name": "Dublin-Dublin Ferryport Terminals",
     "nameWoDiacritics": "Dublin-Dublin Ferryport Terminals",
     "subdivision": "D",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1207,
     "coordinates": {
       "lat": 53.31666666666667,
-      "lon": 1.0166666666666666
+      "lon": -6.233333333333333
     }
   },
   {
@@ -3609,14 +3610,14 @@
     "name": "Dublin-Ferryport Terminal 1",
     "nameWoDiacritics": "Dublin-Ferryport Terminal 1",
     "subdivision": "D",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1207,
     "coordinates": {
       "lat": 53.31666666666667,
-      "lon": 1.0166666666666666
+      "lon": -6.183333333333334
     }
   },
   {
@@ -3625,14 +3626,14 @@
     "name": "Dublin-Ferryport Terminal 2",
     "nameWoDiacritics": "Dublin-Ferryport Terminal 2",
     "subdivision": "D",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1207,
     "coordinates": {
       "lat": 53.31666666666667,
-      "lon": 1.0166666666666666
+      "lon": -6.2
     }
   },
   {
@@ -3641,14 +3642,14 @@
     "name": "Dublin-Ferryport Terminal 3",
     "nameWoDiacritics": "Dublin-Ferryport Terminal 3",
     "subdivision": "D",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1207,
     "coordinates": {
       "lat": 53.31666666666667,
-      "lon": 1.0166666666666666
+      "lon": -6.233333333333333
     }
   },
   {
@@ -3657,14 +3658,14 @@
     "name": "Dublin-Marine Terminal",
     "nameWoDiacritics": "Dublin-Marine Terminal",
     "subdivision": "D",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1207,
     "coordinates": {
       "lat": 53.333333333333336,
-      "lon": 1.0166666666666666
+      "lon": -6.233333333333333
     }
   },
   {
@@ -3673,14 +3674,14 @@
     "name": "Duleek",
     "nameWoDiacritics": "Duleek",
     "subdivision": "MH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 53.65,
-      "lon": 1.0333333333333334
+      "lon": -6.416666666666667
     }
   },
   {
@@ -3688,14 +3689,14 @@
     "location": "DLG",
     "name": "Dun Laoghaire",
     "nameWoDiacritics": "Dun Laoghaire",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
     "date": 1301,
     "coordinates": {
       "lat": 53.3,
-      "lon": 1
+      "lon": -6.133333333333334
     }
   },
   {
@@ -3703,7 +3704,7 @@
     "location": "DNB",
     "name": "Dunboyne",
     "nameWoDiacritics": "Dunboyne",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3719,7 +3720,7 @@
     "name": "Duncannon/Saint Helens",
     "nameWoDiacritics": "Duncannon/Saint Helens",
     "subdivision": "WX",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -3727,7 +3728,7 @@
     "date": 1301,
     "coordinates": {
       "lat": 52.21666666666667,
-      "lon": 1.0833333333333333
+      "lon": -6.983333333333333
     }
   },
   {
@@ -3735,7 +3736,7 @@
     "location": "DDK",
     "name": "Dundalk",
     "nameWoDiacritics": "Dundalk",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -3751,7 +3752,7 @@
     "name": "Dunfanaghy",
     "nameWoDiacritics": "Dunfanaghy",
     "subdivision": "DL",
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2
@@ -3759,7 +3760,7 @@
     "date": 1207,
     "coordinates": {
       "lat": 55.18333333333333,
-      "lon": 1.25
+      "lon": -7.966666666666667
     }
   },
   {
@@ -3768,7 +3769,7 @@
     "name": "Dungarvan",
     "nameWoDiacritics": "Dungarvan",
     "subdivision": "KK",
-    "status": "AF",
+    "status": 2,
     "function": [
       0,
       2
@@ -3776,7 +3777,7 @@
     "date": 1207,
     "coordinates": {
       "lat": 52.583333333333336,
-      "lon": 1.1666666666666667
+      "lon": -7.083333333333333
     }
   },
   {
@@ -3785,14 +3786,14 @@
     "name": "Dunglow",
     "nameWoDiacritics": "Dunglow",
     "subdivision": "DL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 54.95,
-      "lon": 1.3666666666666667
+      "lon": -8.35
     }
   },
   {
@@ -3801,14 +3802,14 @@
     "name": "Dunlavin",
     "nameWoDiacritics": "Dunlavin",
     "subdivision": "WW",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.05,
-      "lon": 1.0666666666666667
+      "lon": -6.7
     }
   },
   {
@@ -3816,14 +3817,14 @@
     "location": "DNL",
     "name": "Dunleer",
     "nameWoDiacritics": "Dunleer",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 53.833333333333336,
-      "lon": 1.0333333333333334
+      "lon": -6.383333333333334
     }
   },
   {
@@ -3831,7 +3832,7 @@
     "location": "DNW",
     "name": "Dunmanway",
     "nameWoDiacritics": "Dunmanway",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -3846,7 +3847,7 @@
     "location": "DNM",
     "name": "Dunmore East",
     "nameWoDiacritics": "Dunmore East",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -3862,14 +3863,14 @@
     "name": "Dunshaughlin",
     "nameWoDiacritics": "Dunshaughlin",
     "subdivision": "MH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 53.5,
-      "lon": 1.05
+      "lon": -6.533333333333333
     }
   },
   {
@@ -3877,7 +3878,7 @@
     "location": "DOW",
     "name": "Durrow",
     "nameWoDiacritics": "Durrow",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -3885,7 +3886,7 @@
     "date": 601,
     "coordinates": {
       "lat": 52.85,
-      "lon": 1.2
+      "lon": -7.4
     }
   },
   {
@@ -3894,7 +3895,7 @@
     "name": "Easkey/Rathlee",
     "nameWoDiacritics": "Easkey/Rathlee",
     "subdivision": "SO",
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2
@@ -3902,7 +3903,7 @@
     "date": 1301,
     "coordinates": {
       "lat": 54.28333333333333,
-      "lon": 1.4166666666666667
+      "lon": -8.966666666666667
     }
   },
   {
@@ -3911,14 +3912,14 @@
     "name": "Edenderry",
     "nameWoDiacritics": "Edenderry",
     "subdivision": "OY",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 53.333333333333336,
-      "lon": 1.1666666666666667
+      "lon": -7.05
     }
   },
   {
@@ -3927,14 +3928,14 @@
     "name": "Emyvale",
     "nameWoDiacritics": "Emyvale",
     "subdivision": "MN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 54.333333333333336,
-      "lon": 1.0833333333333333
+      "lon": -6.95
     }
   },
   {
@@ -3943,7 +3944,7 @@
     "name": "Enfield",
     "nameWoDiacritics": "Enfield",
     "subdivision": "MH",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -3951,7 +3952,7 @@
     "date": 701,
     "coordinates": {
       "lat": 53.4,
-      "lon": 1.0666666666666667
+      "lon": -6.816666666666666
     }
   },
   {
@@ -3959,14 +3960,14 @@
     "location": "ENI",
     "name": "Ennis",
     "nameWoDiacritics": "Ennis",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 201,
     "coordinates": {
       "lat": 52.833333333333336,
-      "lon": 1.4166666666666667
+      "lon": -8.966666666666667
     }
   },
   {
@@ -3974,7 +3975,7 @@
     "location": "ENN",
     "name": "Enniscorthy",
     "nameWoDiacritics": "Enniscorthy",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -3990,14 +3991,14 @@
     "name": "Enniskean",
     "nameWoDiacritics": "Enniskean",
     "subdivision": "CO",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 51.733333333333334,
-      "lon": 1.4166666666666667
+      "lon": -8.916666666666666
     }
   },
   {
@@ -4006,7 +4007,7 @@
     "name": "Ennistymon",
     "nameWoDiacritics": "Ennistymon",
     "subdivision": "CE",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -4014,7 +4015,7 @@
     "date": 1401,
     "coordinates": {
       "lat": 52.93333333333333,
-      "lon": 1.5166666666666666
+      "lon": -9.283333333333333
     }
   },
   {
@@ -4023,14 +4024,14 @@
     "name": "ESB Poolbeg-Dublin",
     "nameWoDiacritics": "ESB Poolbeg-Dublin",
     "subdivision": "D",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1207,
     "coordinates": {
       "lat": 53.333333333333336,
-      "lon": 1.0166666666666666
+      "lon": -6.183333333333334
     }
   },
   {
@@ -4038,7 +4039,7 @@
     "location": "FFO",
     "name": "Farranfore",
     "nameWoDiacritics": "Farranfore",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2,
       5
@@ -4046,7 +4047,7 @@
     "date": 607,
     "coordinates": {
       "lat": 52.166666666666664,
-      "lon": 1.55
+      "lon": -9.55
     }
   },
   {
@@ -4055,7 +4056,7 @@
     "name": "Fenit",
     "nameWoDiacritics": "Fenit",
     "subdivision": "KY",
-    "status": "AF",
+    "status": 2,
     "function": [
       0,
       2
@@ -4063,7 +4064,7 @@
     "date": 1207,
     "coordinates": {
       "lat": 52.266666666666666,
-      "lon": 1.5833333333333333
+      "lon": -9.866666666666667
     }
   },
   {
@@ -4072,14 +4073,14 @@
     "name": "Ferbane",
     "nameWoDiacritics": "Ferbane",
     "subdivision": "OY",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.266666666666666,
-      "lon": 1.2333333333333334
+      "lon": -7.816666666666666
     }
   },
   {
@@ -4087,7 +4088,7 @@
     "location": "FER",
     "name": "Fermoy",
     "nameWoDiacritics": "Fermoy",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4104,14 +4105,14 @@
     "name": "Ferrybank",
     "nameWoDiacritics": "Ferrybank",
     "subdivision": "WD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1701,
     "coordinates": {
       "lat": 52.25,
-      "lon": 1.1666666666666667
+      "lon": -7.1
     }
   },
   {
@@ -4120,7 +4121,7 @@
     "name": "Fethard/Slade",
     "nameWoDiacritics": "Fethard/Slade",
     "subdivision": "TA",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -4128,7 +4129,7 @@
     "date": 1301,
     "coordinates": {
       "lat": 52.2,
-      "lon": 1.0833333333333333
+      "lon": -6.833333333333333
     }
   },
   {
@@ -4136,7 +4137,7 @@
     "location": "FID",
     "name": "Fiddown",
     "nameWoDiacritics": "Fiddown",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -4152,14 +4153,14 @@
     "name": "Finglas",
     "nameWoDiacritics": "Finglas",
     "subdivision": "D",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.38333333333333,
-      "lon": 1.0166666666666666
+      "lon": -6.283333333333333
     }
   },
   {
@@ -4167,7 +4168,7 @@
     "location": "FIN",
     "name": "Fintona",
     "nameWoDiacritics": "Fintona",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -4175,7 +4176,7 @@
     "date": 1201,
     "coordinates": {
       "lat": 54.5,
-      "lon": 1.1833333333333333
+      "lon": -7.316666666666666
     }
   },
   {
@@ -4184,14 +4185,14 @@
     "name": "Flogas Products Drogheda",
     "nameWoDiacritics": "Flogas Products Drogheda",
     "subdivision": "LH",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1207,
     "coordinates": {
       "lat": 53.71666666666667,
-      "lon": 1.0333333333333334
+      "lon": -6.35
     }
   },
   {
@@ -4200,14 +4201,14 @@
     "name": "Ford's Wharf (Topaz Energy Terminal)",
     "nameWoDiacritics": "Ford's Wharf (Topaz Energy Terminal)",
     "subdivision": "CO",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1207,
     "coordinates": {
       "lat": 51.88333333333333,
-      "lon": 1.3666666666666667
+      "lon": -8.433333333333334
     }
   },
   {
@@ -4216,14 +4217,14 @@
     "name": "Foxford",
     "nameWoDiacritics": "Foxford",
     "subdivision": "MO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.983333333333334,
-      "lon": 1.5
+      "lon": -9.116666666666667
     }
   },
   {
@@ -4231,7 +4232,7 @@
     "location": "FOV",
     "name": "Foynes",
     "nameWoDiacritics": "Foynes",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -4246,7 +4247,7 @@
     "location": "FCW",
     "name": "Frank Cassin Wharf",
     "nameWoDiacritics": "Frank Cassin Wharf",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -4262,14 +4263,14 @@
     "name": "Frenchpark",
     "nameWoDiacritics": "Frenchpark",
     "subdivision": "RN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.86666666666667,
-      "lon": 1.3666666666666667
+      "lon": -8.4
     }
   },
   {
@@ -4278,14 +4279,14 @@
     "name": "Freshford",
     "nameWoDiacritics": "Freshford",
     "subdivision": "KK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 52.733333333333334,
-      "lon": 1.2
+      "lon": -7.383333333333334
     }
   },
   {
@@ -4294,14 +4295,14 @@
     "name": "Galmoy",
     "nameWoDiacritics": "Galmoy",
     "subdivision": "KK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 52.78333333333333,
-      "lon": 1.2166666666666666
+      "lon": -7.566666666666666
     }
   },
   {
@@ -4309,7 +4310,7 @@
     "location": "GWY",
     "name": "Galway",
     "nameWoDiacritics": "Galway",
-    "status": "AF",
+    "status": 2,
     "function": [
       0,
       2,
@@ -4328,14 +4329,14 @@
     "name": "Gilloge",
     "nameWoDiacritics": "Gilloge",
     "subdivision": "CE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1607,
     "coordinates": {
       "lat": 52.68333333333333,
-      "lon": 1.3833333333333333
+      "lon": -8.566666666666666
     }
   },
   {
@@ -4344,14 +4345,14 @@
     "name": "Glanmire",
     "nameWoDiacritics": "Glanmire",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 51.9,
-      "lon": 1.3666666666666667
+      "lon": -8.383333333333333
     }
   },
   {
@@ -4360,14 +4361,14 @@
     "name": "Glasnevin",
     "nameWoDiacritics": "Glasnevin",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": 53.36666666666667,
-      "lon": 1.0166666666666666
+      "lon": -6.283333333333333
     }
   },
   {
@@ -4376,14 +4377,14 @@
     "name": "Glenamaddy",
     "nameWoDiacritics": "Glenamaddy",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 53.6,
-      "lon": 1.3833333333333333
+      "lon": -8.55
     }
   },
   {
@@ -4392,14 +4393,14 @@
     "name": "Glenbeigh",
     "nameWoDiacritics": "Glenbeigh",
     "subdivision": "KY",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 52.05,
-      "lon": 1.5833333333333333
+      "lon": -9.933333333333334
     }
   },
   {
@@ -4408,7 +4409,7 @@
     "name": "Glengarriff",
     "nameWoDiacritics": "Glengarriff",
     "subdivision": "CO",
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2
@@ -4416,7 +4417,7 @@
     "date": 1207,
     "coordinates": {
       "lat": 51.75,
-      "lon": 1.55
+      "lon": -9.55
     }
   },
   {
@@ -4425,14 +4426,14 @@
     "name": "Goresbridge",
     "nameWoDiacritics": "Goresbridge",
     "subdivision": "KK",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 901,
     "coordinates": {
       "lat": 52.61666666666667,
-      "lon": 1.0833333333333333
+      "lon": -6.983333333333333
     }
   },
   {
@@ -4441,7 +4442,7 @@
     "name": "Gorey",
     "nameWoDiacritics": "Gorey",
     "subdivision": "WX",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -4449,7 +4450,7 @@
     "date": 207,
     "coordinates": {
       "lat": 52.65,
-      "lon": 1.0166666666666666
+      "lon": -6.3
     }
   },
   {
@@ -4458,7 +4459,7 @@
     "name": "Gormanston",
     "nameWoDiacritics": "Gormanston",
     "subdivision": "MH",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -4466,7 +4467,7 @@
     "date": 207,
     "coordinates": {
       "lat": 53.61666666666667,
-      "lon": 1.0166666666666666
+      "lon": -6.233333333333333
     }
   },
   {
@@ -4475,7 +4476,7 @@
     "name": "Gort",
     "nameWoDiacritics": "Gort",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -4483,7 +4484,7 @@
     "date": 207,
     "coordinates": {
       "lat": 53.05,
-      "lon": 1.4
+      "lon": -8.8
     }
   },
   {
@@ -4492,7 +4493,7 @@
     "name": "Gortahork",
     "nameWoDiacritics": "Gortahork",
     "subdivision": "DL",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -4500,7 +4501,7 @@
     "date": 901,
     "coordinates": {
       "lat": 55.11666666666667,
-      "lon": 1.3333333333333333
+      "lon": -8.133333333333333
     }
   },
   {
@@ -4508,7 +4509,7 @@
     "location": "GOW",
     "name": "Gowran",
     "nameWoDiacritics": "Gowran",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       5
@@ -4516,7 +4517,7 @@
     "date": 1001,
     "coordinates": {
       "lat": 57.61666666666667,
-      "lon": 1.2
+      "lon": -7.4
     }
   },
   {
@@ -4525,14 +4526,14 @@
     "name": "Graiguenamanagh",
     "nameWoDiacritics": "Graiguenamanagh",
     "subdivision": "KK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1707,
     "coordinates": {
       "lat": 52.53333333333333,
-      "lon": 1.0833333333333333
+      "lon": -6.95
     }
   },
   {
@@ -4541,14 +4542,14 @@
     "name": "Grangegeeth",
     "nameWoDiacritics": "Grangegeeth",
     "subdivision": "MH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1807,
     "coordinates": {
       "lat": 53.75,
-      "lon": 1.05
+      "lon": -6.533333333333333
     }
   },
   {
@@ -4557,14 +4558,14 @@
     "name": "Grannagh",
     "nameWoDiacritics": "Grannagh",
     "subdivision": "WD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 52.25,
-      "lon": 1.1666666666666667
+      "lon": -7.1
     }
   },
   {
@@ -4573,7 +4574,7 @@
     "name": "Greencastle",
     "nameWoDiacritics": "Greencastle",
     "subdivision": "DL",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -4581,7 +4582,7 @@
     "date": 1601,
     "coordinates": {
       "lat": 55.2,
-      "lon": 1.0833333333333333
+      "lon": -6.983333333333333
     }
   },
   {
@@ -4589,7 +4590,7 @@
     "location": "GRN",
     "name": "Greenore",
     "nameWoDiacritics": "Greenore",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -4605,14 +4606,14 @@
     "name": "Grenagh",
     "nameWoDiacritics": "Grenagh",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 52.016666666666666,
-      "lon": 1.3833333333333333
+      "lon": -8.6
     }
   },
   {
@@ -4621,14 +4622,14 @@
     "name": "Greystones",
     "nameWoDiacritics": "Greystones",
     "subdivision": "WW",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 53.13333333333333,
-      "lon": 1
+      "lon": -6.05
     }
   },
   {
@@ -4637,14 +4638,14 @@
     "name": "Gurteen",
     "nameWoDiacritics": "Gurteen",
     "subdivision": "LM",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1701,
     "coordinates": {
       "lat": 54.31666666666667,
-      "lon": 1.35
+      "lon": -8.3
     }
   },
   {
@@ -4652,7 +4653,7 @@
     "location": "HAU",
     "name": "Haulbowline",
     "nameWoDiacritics": "Haulbowline",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -4668,14 +4669,14 @@
     "name": "Holly Hill",
     "nameWoDiacritics": "Holly Hill",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 51.666666666666664,
-      "lon": 1.5833333333333333
+      "lon": -9.833333333333334
     }
   },
   {
@@ -4684,14 +4685,14 @@
     "name": "Hollystown",
     "nameWoDiacritics": "Hollystown",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.416666666666664,
-      "lon": 1.0333333333333334
+      "lon": -6.366666666666666
     }
   },
   {
@@ -4700,7 +4701,7 @@
     "name": "Holywood",
     "nameWoDiacritics": "Holywood",
     "subdivision": "CW",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -4715,7 +4716,7 @@
     "location": "HOW",
     "name": "Howth",
     "nameWoDiacritics": "Howth",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -4731,14 +4732,14 @@
     "name": "Inishannon (Inis Eonain)",
     "nameWoDiacritics": "Inishannon (Inis Eonain)",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 51.766666666666666,
-      "lon": 1.3833333333333333
+      "lon": -8.65
     }
   },
   {
@@ -4746,7 +4747,7 @@
     "location": "INQ",
     "name": "Inisheer",
     "nameWoDiacritics": "Inisheer",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4761,7 +4762,7 @@
     "location": "IIA",
     "name": "Inishmaan",
     "nameWoDiacritics": "Inishmaan",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4776,7 +4777,7 @@
     "location": "IOR",
     "name": "Inishmore",
     "nameWoDiacritics": "Inishmore",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4791,14 +4792,14 @@
     "location": "INV",
     "name": "Inveran",
     "nameWoDiacritics": "Inveran",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 53.233333333333334,
-      "lon": 1.5333333333333334
+      "lon": -9.433333333333334
     }
   },
   {
@@ -4806,7 +4807,7 @@
     "location": "IRD",
     "name": "Irish Rail Freight Depot",
     "nameWoDiacritics": "Irish Rail Freight Depot",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -4822,7 +4823,7 @@
     "name": "Jamestown",
     "nameWoDiacritics": "Jamestown",
     "subdivision": "LM",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -4838,14 +4839,14 @@
     "name": "Johnstown",
     "nameWoDiacritics": "Johnstown",
     "subdivision": "MH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 53.4,
-      "lon": 1.0833333333333333
+      "lon": -6.833333333333333
     }
   },
   {
@@ -4854,14 +4855,14 @@
     "name": "Julianstown",
     "nameWoDiacritics": "Julianstown",
     "subdivision": "MH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 53.666666666666664,
-      "lon": 1.0166666666666666
+      "lon": -6.266666666666667
     }
   },
   {
@@ -4869,7 +4870,7 @@
     "location": "KNT",
     "name": "Kanturk",
     "nameWoDiacritics": "Kanturk",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -4885,14 +4886,14 @@
     "name": "Kells",
     "nameWoDiacritics": "Kells",
     "subdivision": "MH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 53.71666666666667,
-      "lon": 1.0833333333333333
+      "lon": -6.866666666666667
     }
   },
   {
@@ -4900,7 +4901,7 @@
     "location": "KEN",
     "name": "Kenmare",
     "nameWoDiacritics": "Kenmare",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4916,7 +4917,7 @@
     "location": "KIR",
     "name": "Kerry County",
     "nameWoDiacritics": "Kerry County",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4932,14 +4933,14 @@
     "name": "Kilbeggan",
     "nameWoDiacritics": "Kilbeggan",
     "subdivision": "WH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 53.36666666666667,
-      "lon": 1.2166666666666666
+      "lon": -7.5
     }
   },
   {
@@ -4948,14 +4949,14 @@
     "name": "Kilcar",
     "nameWoDiacritics": "Kilcar",
     "subdivision": "DL",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1001,
     "coordinates": {
       "lat": 54.61666666666667,
-      "lon": 1.3833333333333333
+      "lon": -8.583333333333334
     }
   },
   {
@@ -4963,7 +4964,7 @@
     "location": "KCL",
     "name": "Kilclare",
     "nameWoDiacritics": "Kilclare",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -4978,14 +4979,14 @@
     "location": "KCK",
     "name": "Kilcock",
     "nameWoDiacritics": "Kilcock",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 201,
     "coordinates": {
       "lat": 53.4,
-      "lon": 1.0666666666666667
+      "lon": -6.666666666666667
     }
   },
   {
@@ -4994,14 +4995,14 @@
     "name": "Kilcolgan",
     "nameWoDiacritics": "Kilcolgan",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 53.2,
-      "lon": 1.4166666666666667
+      "lon": -8.85
     }
   },
   {
@@ -5010,7 +5011,7 @@
     "name": "Kilcoole",
     "nameWoDiacritics": "Kilcoole",
     "subdivision": "WW",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       2
@@ -5027,14 +5028,14 @@
     "name": "Kilcormac",
     "nameWoDiacritics": "Kilcormac",
     "subdivision": "OY",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1401,
     "coordinates": {
       "lat": 53.166666666666664,
-      "lon": 1.2333333333333334
+      "lon": -7.716666666666667
     }
   },
   {
@@ -5043,14 +5044,14 @@
     "name": "Kildalkey",
     "nameWoDiacritics": "Kildalkey",
     "subdivision": "MH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1401,
     "coordinates": {
       "lat": 53.56666666666667,
-      "lon": 1.0833333333333333
+      "lon": -6.9
     }
   },
   {
@@ -5058,7 +5059,7 @@
     "location": "KIL",
     "name": "Kildare",
     "nameWoDiacritics": "Kildare",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -5074,14 +5075,14 @@
     "name": "Kildorrery",
     "nameWoDiacritics": "Kildorrery",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1501,
     "coordinates": {
       "lat": 52.233333333333334,
-      "lon": 1.3666666666666667
+      "lon": -8.416666666666666
     }
   },
   {
@@ -5089,7 +5090,7 @@
     "location": "KLK",
     "name": "Kilkenny",
     "nameWoDiacritics": "Kilkenny",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -5106,14 +5107,14 @@
     "name": "Kilkieran",
     "nameWoDiacritics": "Kilkieran",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.31666666666667,
-      "lon": 1.5666666666666667
+      "lon": -9.733333333333333
     }
   },
   {
@@ -5122,14 +5123,14 @@
     "name": "kilkishen",
     "nameWoDiacritics": "kilkishen",
     "subdivision": "CE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 52.8,
-      "lon": 1.4
+      "lon": -8.75
     }
   },
   {
@@ -5137,7 +5138,7 @@
     "location": "KIK",
     "name": "Kill, Kildare",
     "nameWoDiacritics": "Kill, Kildare",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -5152,7 +5153,7 @@
     "location": "KLA",
     "name": "Killala",
     "nameWoDiacritics": "Killala",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -5170,14 +5171,14 @@
     "name": "Killaloe",
     "nameWoDiacritics": "Killaloe",
     "subdivision": "CE",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 52.8,
-      "lon": 1.3666666666666667
+      "lon": -8.433333333333334
     }
   },
   {
@@ -5185,7 +5186,7 @@
     "location": "KLY",
     "name": "Killarney",
     "nameWoDiacritics": "Killarney",
-    "status": "RQ",
+    "status": 9,
     "function": [
       1,
       2
@@ -5202,14 +5203,14 @@
     "name": "Killavullen",
     "nameWoDiacritics": "Killavullen",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1801,
     "coordinates": {
       "lat": 52.13333333333333,
-      "lon": 1.3833333333333333
+      "lon": -8.5
     }
   },
   {
@@ -5218,14 +5219,14 @@
     "name": "Killeedy",
     "nameWoDiacritics": "Killeedy",
     "subdivision": "LK",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 52.38333333333333,
-      "lon": 1.5
+      "lon": -9.066666666666666
     }
   },
   {
@@ -5234,14 +5235,14 @@
     "name": "Killeenaran",
     "nameWoDiacritics": "Killeenaran",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 53.18333333333333,
-      "lon": 1.4166666666666667
+      "lon": -8.916666666666666
     }
   },
   {
@@ -5250,7 +5251,7 @@
     "name": "Killenard",
     "nameWoDiacritics": "Killenard",
     "subdivision": "LS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       4
@@ -5267,14 +5268,14 @@
     "name": "Killeshandra",
     "nameWoDiacritics": "Killeshandra",
     "subdivision": "CN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 54,
-      "lon": 1.2166666666666666
+      "lon": -7.516666666666667
     }
   },
   {
@@ -5282,14 +5283,14 @@
     "location": "KIY",
     "name": "Killiney",
     "nameWoDiacritics": "Killiney",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 6,
     "coordinates": {
       "lat": 53.25,
-      "lon": 1
+      "lon": -6.1
     }
   },
   {
@@ -5298,14 +5299,14 @@
     "name": "Killorglin",
     "nameWoDiacritics": "Killorglin",
     "subdivision": "KY",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 52.1,
-      "lon": 1.5666666666666667
+      "lon": -9.783333333333333
     }
   },
   {
@@ -5313,7 +5314,7 @@
     "location": "KBS",
     "name": "Killybegs",
     "nameWoDiacritics": "Killybegs",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -5329,14 +5330,14 @@
     "name": "Killygordon",
     "nameWoDiacritics": "Killygordon",
     "subdivision": "DL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 54.8,
-      "lon": 1.2333333333333334
+      "lon": -7.683333333333334
     }
   },
   {
@@ -5345,14 +5346,14 @@
     "name": "Kilmacthomas",
     "nameWoDiacritics": "Kilmacthomas",
     "subdivision": "WD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 52.2,
-      "lon": 1.2
+      "lon": -7.416666666666667
     }
   },
   {
@@ -5361,14 +5362,14 @@
     "name": "Kilmainham Wood",
     "nameWoDiacritics": "Kilmainham Wood",
     "subdivision": "MH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1707,
     "coordinates": {
       "lat": 53.85,
-      "lon": 1.0666666666666667
+      "lon": -6.8
     }
   },
   {
@@ -5377,14 +5378,14 @@
     "name": "Kilmallock",
     "nameWoDiacritics": "Kilmallock",
     "subdivision": "LK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 52.4,
-      "lon": 1.3833333333333333
+      "lon": -8.566666666666666
     }
   },
   {
@@ -5392,7 +5393,7 @@
     "location": "KKA",
     "name": "Kilmokea",
     "nameWoDiacritics": "Kilmokea",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -5408,14 +5409,14 @@
     "name": "Kilmore Quay",
     "nameWoDiacritics": "Kilmore Quay",
     "subdivision": "WX",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 52.166666666666664,
-      "lon": 1.05
+      "lon": -6.583333333333333
     }
   },
   {
@@ -5424,14 +5425,14 @@
     "name": "Kilmurry",
     "nameWoDiacritics": "Kilmurry",
     "subdivision": "CE",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 52.8,
-      "lon": 1.5333333333333334
+      "lon": -9.45
     }
   },
   {
@@ -5440,14 +5441,14 @@
     "name": "Kilnaleck",
     "nameWoDiacritics": "Kilnaleck",
     "subdivision": "CN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 53.86666666666667,
-      "lon": 1.1833333333333333
+      "lon": -7.316666666666666
     }
   },
   {
@@ -5457,7 +5458,7 @@
     "name": "Kilronan",
     "nameWoDiacritics": "Kilronan",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2,
@@ -5466,7 +5467,7 @@
     "date": 2307,
     "coordinates": {
       "lat": 53.11666666666667,
-      "lon": 1.5666666666666667
+      "lon": -9.666666666666666
     },
     "remarks": "@Fun"
   },
@@ -5476,14 +5477,14 @@
     "name": "Kilronan",
     "nameWoDiacritics": "Kilronan",
     "subdivision": "CE",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 52.65,
-      "lon": 1.5666666666666667
+      "lon": -9.666666666666666
     }
   },
   {
@@ -5491,7 +5492,7 @@
     "location": "KLR",
     "name": "Kilrush",
     "nameWoDiacritics": "Kilrush",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -5507,14 +5508,14 @@
     "name": "Kilsheelan",
     "nameWoDiacritics": "Kilsheelan",
     "subdivision": "TA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 52.35,
-      "lon": 1.2166666666666666
+      "lon": -7.566666666666666
     }
   },
   {
@@ -5523,14 +5524,14 @@
     "name": "Kiltamagh",
     "nameWoDiacritics": "Kiltamagh",
     "subdivision": "MO",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.85,
-      "lon": 1.5
+      "lon": -9
     }
   },
   {
@@ -5539,14 +5540,14 @@
     "name": "Kilteel",
     "nameWoDiacritics": "Kilteel",
     "subdivision": "KE",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.233333333333334,
-      "lon": 1.05
+      "lon": -6.516666666666667
     }
   },
   {
@@ -5555,14 +5556,14 @@
     "name": "Kilternan",
     "nameWoDiacritics": "Kilternan",
     "subdivision": "D",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.21666666666667,
-      "lon": 1.0166666666666666
+      "lon": -6.183333333333334
     }
   },
   {
@@ -5571,14 +5572,14 @@
     "name": "Kilworth",
     "nameWoDiacritics": "Kilworth",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1107,
     "coordinates": {
       "lat": 52.166666666666664,
-      "lon": 1.35
+      "lon": -8.233333333333333
     }
   },
   {
@@ -5586,7 +5587,7 @@
     "location": "KCT",
     "name": "Kingscourt",
     "nameWoDiacritics": "Kingscourt",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5602,7 +5603,7 @@
     "name": "Kinnegad",
     "nameWoDiacritics": "Kinnegad",
     "subdivision": "WH",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -5617,7 +5618,7 @@
     "location": "KLN",
     "name": "Kinsale",
     "nameWoDiacritics": "Kinsale",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -5633,7 +5634,7 @@
     "name": "Kinsealy",
     "nameWoDiacritics": "Kinsealy",
     "subdivision": "D",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -5649,14 +5650,14 @@
     "name": "Kinvarra",
     "nameWoDiacritics": "Kinvarra",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 53.13333333333333,
-      "lon": 1.4166666666666667
+      "lon": -8.933333333333334
     }
   },
   {
@@ -5664,7 +5665,7 @@
     "location": "NOC",
     "name": "Knock",
     "nameWoDiacritics": "Knock",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5681,14 +5682,14 @@
     "name": "Knockalough",
     "nameWoDiacritics": "Knockalough",
     "subdivision": "CE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1801,
     "coordinates": {
       "lat": 52.7,
-      "lon": 1.5166666666666666
+      "lon": -9.25
     }
   },
   {
@@ -5697,14 +5698,14 @@
     "name": "Knocktopher",
     "nameWoDiacritics": "Knocktopher",
     "subdivision": "KK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1401,
     "coordinates": {
       "lat": 52.483333333333334,
-      "lon": 1.1833333333333333
+      "lon": -7.2
     }
   },
   {
@@ -5713,14 +5714,14 @@
     "name": "Lanesborough",
     "nameWoDiacritics": "Lanesborough",
     "subdivision": "LD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.666666666666664,
-      "lon": 1.25
+      "lon": -7.983333333333333
     }
   },
   {
@@ -5728,7 +5729,7 @@
     "location": "LEI",
     "name": "Leitrim",
     "nameWoDiacritics": "Leitrim",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -5743,7 +5744,7 @@
     "location": "LEX",
     "name": "Leixlip",
     "nameWoDiacritics": "Leixlip",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -5758,7 +5759,7 @@
     "location": "LTR",
     "name": "Letterkenny",
     "nameWoDiacritics": "Letterkenny",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -5773,7 +5774,7 @@
     "location": "LIF",
     "name": "Lifford",
     "nameWoDiacritics": "Lifford",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -5788,7 +5789,7 @@
     "location": "LMK",
     "name": "Limerick",
     "nameWoDiacritics": "Limerick",
-    "status": "AF",
+    "status": 2,
     "function": [
       0,
       3,
@@ -5806,14 +5807,14 @@
     "name": "Lisdoonvarna",
     "nameWoDiacritics": "Lisdoonvarna",
     "subdivision": "CE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.016666666666666,
-      "lon": 1.5166666666666666
+      "lon": -9.283333333333333
     }
   },
   {
@@ -5822,14 +5823,14 @@
     "name": "Lisnarick",
     "nameWoDiacritics": "Lisnarick",
     "subdivision": "SO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 54.46666666666667,
-      "lon": 1.2333333333333334
+      "lon": -7.683333333333334
     }
   },
   {
@@ -5837,7 +5838,7 @@
     "location": "LST",
     "name": "Listowel",
     "nameWoDiacritics": "Listowel",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -5852,7 +5853,7 @@
     "location": "LIC",
     "name": "Little Island/Cork",
     "nameWoDiacritics": "Little Island/Cork",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -5860,7 +5861,7 @@
     "date": 601,
     "coordinates": {
       "lat": 51.9,
-      "lon": 1.3666666666666667
+      "lon": -8.35
     }
   },
   {
@@ -5869,14 +5870,14 @@
     "name": "Loch Gowna",
     "nameWoDiacritics": "Loch Gowna",
     "subdivision": "CN",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1001,
     "coordinates": {
       "lat": 53.85,
-      "lon": 1.2166666666666666
+      "lon": -7.55
     }
   },
   {
@@ -5884,7 +5885,7 @@
     "location": "LON",
     "name": "Longford",
     "nameWoDiacritics": "Longford",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -5900,14 +5901,14 @@
     "name": "Lough Egish",
     "nameWoDiacritics": "Lough Egish",
     "subdivision": "MN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 54.06666666666667,
-      "lon": 1.0666666666666667
+      "lon": -6.8
     }
   },
   {
@@ -5916,14 +5917,14 @@
     "name": "Loughlinstown",
     "nameWoDiacritics": "Loughlinstown",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1701,
     "coordinates": {
       "lat": 53.233333333333334,
-      "lon": 1
+      "lon": -6.116666666666666
     }
   },
   {
@@ -5931,7 +5932,7 @@
     "location": "LOU",
     "name": "Loughrea",
     "nameWoDiacritics": "Loughrea",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -5946,7 +5947,7 @@
     "location": "LTH",
     "name": "Louth",
     "nameWoDiacritics": "Louth",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -5962,14 +5963,14 @@
     "name": "Lucan",
     "nameWoDiacritics": "Lucan",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 53.35,
-      "lon": 1.0333333333333334
+      "lon": -6.433333333333334
     }
   },
   {
@@ -5978,7 +5979,7 @@
     "name": "Lurganm Armagh",
     "nameWoDiacritics": "Lurganm Armagh",
     "subdivision": "CW",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -5993,7 +5994,7 @@
     "location": "MCR",
     "name": "Macroom",
     "nameWoDiacritics": "Macroom",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -6008,7 +6009,7 @@
     "location": "MAG",
     "name": "Maghera",
     "nameWoDiacritics": "Maghera",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -6026,14 +6027,14 @@
     "name": "Magheraroarty",
     "nameWoDiacritics": "Magheraroarty",
     "subdivision": "DL",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1401,
     "coordinates": {
       "lat": 55.13333333333333,
-      "lon": 1.35
+      "lon": -8.166666666666666
     }
   },
   {
@@ -6042,14 +6043,14 @@
     "name": "Malahide",
     "nameWoDiacritics": "Malahide",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 53.45,
-      "lon": 1
+      "lon": -6.133333333333334
     }
   },
   {
@@ -6057,7 +6058,7 @@
     "location": "MAL",
     "name": "Mallow",
     "nameWoDiacritics": "Mallow",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -6073,14 +6074,14 @@
     "name": "Manorhamilton",
     "nameWoDiacritics": "Manorhamilton",
     "subdivision": "LM",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 54.3,
-      "lon": 1.35
+      "lon": -8.166666666666666
     }
   },
   {
@@ -6088,7 +6089,7 @@
     "location": "MAP",
     "name": "Marino Point",
     "nameWoDiacritics": "Marino Point",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -6104,14 +6105,14 @@
     "name": "Marshmeadows/New Ross",
     "nameWoDiacritics": "Marshmeadows/New Ross",
     "subdivision": "WX",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1207,
     "coordinates": {
       "lat": 52.38333333333333,
-      "lon": 1.0833333333333333
+      "lon": -6.95
     }
   },
   {
@@ -6119,7 +6120,7 @@
     "location": "MAY",
     "name": "Maynooth",
     "nameWoDiacritics": "Maynooth",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -6135,14 +6136,14 @@
     "name": "Mayo",
     "nameWoDiacritics": "Mayo",
     "subdivision": "MO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 53.75,
-      "lon": 1.5
+      "lon": -9.116666666666667
     }
   },
   {
@@ -6150,7 +6151,7 @@
     "location": "MID",
     "name": "Midleton",
     "nameWoDiacritics": "Midleton",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -6166,14 +6167,14 @@
     "name": "Millstreet",
     "nameWoDiacritics": "Millstreet",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 52.05,
-      "lon": 1.5
+      "lon": -9.05
     }
   },
   {
@@ -6182,14 +6183,14 @@
     "name": "Milltown",
     "nameWoDiacritics": "Milltown",
     "subdivision": "G",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1001,
     "coordinates": {
       "lat": 53.61666666666667,
-      "lon": 1.4166666666666667
+      "lon": -8.9
     }
   },
   {
@@ -6198,14 +6199,14 @@
     "name": "Milltown Malbay",
     "nameWoDiacritics": "Milltown Malbay",
     "subdivision": "CE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 52.85,
-      "lon": 1.5333333333333334
+      "lon": -9.4
     }
   },
   {
@@ -6214,14 +6215,14 @@
     "name": "Mitchelstown",
     "nameWoDiacritics": "Mitchelstown",
     "subdivision": "CO",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 52.25,
-      "lon": 1.35
+      "lon": -8.266666666666667
     }
   },
   {
@@ -6229,14 +6230,14 @@
     "location": "MOA",
     "name": "Moate",
     "nameWoDiacritics": "Moate",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 53.38333333333333,
-      "lon": 1.2333333333333334
+      "lon": -7.716666666666667
     }
   },
   {
@@ -6245,14 +6246,14 @@
     "name": "Mogeely",
     "nameWoDiacritics": "Mogeely",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 51.916666666666664,
-      "lon": 1.3333333333333333
+      "lon": -8.05
     }
   },
   {
@@ -6260,7 +6261,7 @@
     "location": "MON",
     "name": "Monaghan",
     "nameWoDiacritics": "Monaghan",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -6276,14 +6277,14 @@
     "name": "Monasterboice",
     "nameWoDiacritics": "Monasterboice",
     "subdivision": "LH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 53.766666666666666,
-      "lon": 1.0333333333333334
+      "lon": -6.383333333333334
     }
   },
   {
@@ -6292,14 +6293,14 @@
     "name": "Monesterevin",
     "nameWoDiacritics": "Monesterevin",
     "subdivision": "KE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 53.11666666666667,
-      "lon": 1.1666666666666667
+      "lon": -7.05
     }
   },
   {
@@ -6307,7 +6308,7 @@
     "location": "MOT",
     "name": "Moneypoint",
     "nameWoDiacritics": "Moneypoint",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -6323,14 +6324,14 @@
     "name": "Mount Bellew",
     "nameWoDiacritics": "Mount Bellew",
     "subdivision": "G",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.46666666666667,
-      "lon": 1.3833333333333333
+      "lon": -8.5
     }
   },
   {
@@ -6339,14 +6340,14 @@
     "name": "Mountmellick",
     "nameWoDiacritics": "Mountmellick",
     "subdivision": "LS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 53.11666666666667,
-      "lon": 1.1833333333333333
+      "lon": -7.316666666666666
     }
   },
   {
@@ -6355,14 +6356,14 @@
     "name": "Mountrath",
     "nameWoDiacritics": "Mountrath",
     "subdivision": "LS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1107,
     "coordinates": {
       "lat": 52.983333333333334,
-      "lon": 1.2
+      "lon": -7.466666666666667
     }
   },
   {
@@ -6371,7 +6372,7 @@
     "name": "Moville",
     "nameWoDiacritics": "Moville",
     "subdivision": "DL",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -6379,7 +6380,7 @@
     "date": 207,
     "coordinates": {
       "lat": 55.18333333333333,
-      "lon": 1.1666666666666667
+      "lon": -7.033333333333333
     }
   },
   {
@@ -6387,7 +6388,7 @@
     "location": "MOB",
     "name": "Moy Bridge",
     "nameWoDiacritics": "Moy Bridge",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -6403,14 +6404,14 @@
     "name": "Moycullen",
     "nameWoDiacritics": "Moycullen",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1801,
     "coordinates": {
       "lat": 53.333333333333336,
-      "lon": 1.5166666666666666
+      "lon": -9.2
     }
   },
   {
@@ -6419,14 +6420,14 @@
     "name": "Mulhurddart",
     "nameWoDiacritics": "Mulhurddart",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": 53.4,
-      "lon": 1.0333333333333334
+      "lon": -6.4
     }
   },
   {
@@ -6435,14 +6436,14 @@
     "name": "Mullagh",
     "nameWoDiacritics": "Mullagh",
     "subdivision": "CN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 53.8,
-      "lon": 1.0833333333333333
+      "lon": -6.933333333333334
     }
   },
   {
@@ -6451,14 +6452,14 @@
     "name": "Mullagh",
     "nameWoDiacritics": "Mullagh",
     "subdivision": "MH",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.45,
-      "lon": 1.05
+      "lon": -6.633333333333333
     }
   },
   {
@@ -6466,7 +6467,7 @@
     "location": "MLL",
     "name": "Mulligan",
     "nameWoDiacritics": "Mulligan",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -6482,14 +6483,14 @@
     "name": "Mullinahone",
     "nameWoDiacritics": "Mullinahone",
     "subdivision": "TA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1707,
     "coordinates": {
       "lat": 52.5,
-      "lon": 1.2166666666666666
+      "lon": -7.5
     }
   },
   {
@@ -6497,7 +6498,7 @@
     "location": "MUL",
     "name": "Mullingar",
     "nameWoDiacritics": "Mullingar",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -6513,14 +6514,14 @@
     "name": "Multyfarnham",
     "nameWoDiacritics": "Multyfarnham",
     "subdivision": "WH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 53.61666666666667,
-      "lon": 1.2
+      "lon": -7.383333333333334
     }
   },
   {
@@ -6529,7 +6530,7 @@
     "name": "Murroe",
     "nameWoDiacritics": "Murroe",
     "subdivision": "LK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -6537,7 +6538,7 @@
     "date": 901,
     "coordinates": {
       "lat": 52.65,
-      "lon": 1.3666666666666667
+      "lon": -8.383333333333333
     }
   },
   {
@@ -6546,14 +6547,14 @@
     "name": "Naas",
     "nameWoDiacritics": "Naas",
     "subdivision": "KE",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 53.2,
-      "lon": 1.0666666666666667
+      "lon": -6.666666666666667
     }
   },
   {
@@ -6562,14 +6563,14 @@
     "name": "Naul",
     "nameWoDiacritics": "Naul",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 53.583333333333336,
-      "lon": 1.0166666666666666
+      "lon": -6.283333333333333
     }
   },
   {
@@ -6578,7 +6579,7 @@
     "name": "Navan (An Uaimh)",
     "nameWoDiacritics": "Navan (An Uaimh)",
     "subdivision": "MH",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -6586,7 +6587,7 @@
     "date": 1207,
     "coordinates": {
       "lat": 53.65,
-      "lon": 1.0666666666666667
+      "lon": -6.666666666666667
     },
     "remarks": "Meath"
   },
@@ -6596,7 +6597,7 @@
     "name": "Nenagh",
     "nameWoDiacritics": "Nenagh",
     "subdivision": "TA",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -6604,7 +6605,7 @@
     "date": 207,
     "coordinates": {
       "lat": 52.86666666666667,
-      "lon": 1.35
+      "lon": -8.183333333333334
     }
   },
   {
@@ -6613,14 +6614,14 @@
     "name": "New Ross",
     "nameWoDiacritics": "New Ross",
     "subdivision": "WX",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
     "date": 1207,
     "coordinates": {
       "lat": 52.38333333333333,
-      "lon": 1.0833333333333333
+      "lon": -6.933333333333334
     }
   },
   {
@@ -6629,14 +6630,14 @@
     "name": "New Ross-Raheen/Roberscon",
     "nameWoDiacritics": "New Ross-Raheen/Roberscon",
     "subdivision": "WX",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1207,
     "coordinates": {
       "lat": 52.38333333333333,
-      "lon": 1.0833333333333333
+      "lon": -6.95
     }
   },
   {
@@ -6645,14 +6646,14 @@
     "name": "Newbliss",
     "nameWoDiacritics": "Newbliss",
     "subdivision": "MN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 54.15,
-      "lon": 1.1666666666666667
+      "lon": -7.133333333333334
     }
   },
   {
@@ -6661,14 +6662,14 @@
     "name": "Newbridge",
     "nameWoDiacritics": "Newbridge",
     "subdivision": "KE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 53.166666666666664,
-      "lon": 1.0666666666666667
+      "lon": -6.8
     }
   },
   {
@@ -6677,14 +6678,14 @@
     "name": "Newcastle",
     "nameWoDiacritics": "Newcastle",
     "subdivision": "D",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.3,
-      "lon": 1.05
+      "lon": -6.5
     }
   },
   {
@@ -6692,7 +6693,7 @@
     "location": "NEW",
     "name": "Newcastle West",
     "nameWoDiacritics": "Newcastle West",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -6708,14 +6709,14 @@
     "name": "Newmarket",
     "nameWoDiacritics": "Newmarket",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 52.21666666666667,
-      "lon": 1.5
+      "lon": -9
     }
   },
   {
@@ -6724,14 +6725,14 @@
     "name": "Newmarket on Fergus",
     "nameWoDiacritics": "Newmarket on Fergus",
     "subdivision": "CE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 52.75,
-      "lon": 1.4166666666666667
+      "lon": -8.883333333333333
     }
   },
   {
@@ -6740,7 +6741,7 @@
     "name": "Newport",
     "nameWoDiacritics": "Newport",
     "subdivision": "MO",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -6748,7 +6749,7 @@
     "date": 1101,
     "coordinates": {
       "lat": 53.88333333333333,
-      "lon": 1.55
+      "lon": -9.533333333333333
     }
   },
   {
@@ -6756,7 +6757,7 @@
     "location": "NAY",
     "name": "Newtonabbey",
     "nameWoDiacritics": "Newtonabbey",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -6765,7 +6766,7 @@
     "date": 601,
     "coordinates": {
       "lat": 54.65,
-      "lon": 0.9166666666666666
+      "lon": -5.933333333333334
     }
   },
   {
@@ -6774,7 +6775,7 @@
     "name": "Newtown",
     "nameWoDiacritics": "Newtown",
     "subdivision": "WX",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -6790,14 +6791,14 @@
     "name": "Newtown Mount Kennedy",
     "nameWoDiacritics": "Newtown Mount Kennedy",
     "subdivision": "WW",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": 53.083333333333336,
-      "lon": 1
+      "lon": -6.116666666666666
     }
   },
   {
@@ -6805,14 +6806,14 @@
     "location": "OCA",
     "name": "Ocallaghansmills",
     "nameWoDiacritics": "Ocallaghansmills",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 52.833333333333336,
-      "lon": 1.4
+      "lon": -8.683333333333334
     }
   },
   {
@@ -6820,7 +6821,7 @@
     "location": "NOV",
     "name": "Oldcastle",
     "nameWoDiacritics": "Oldcastle",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -6828,7 +6829,7 @@
     "date": 601,
     "coordinates": {
       "lat": 53.766666666666666,
-      "lon": 1.1833333333333333
+      "lon": -7.166666666666667
     }
   },
   {
@@ -6837,14 +6838,14 @@
     "name": "Oranmore",
     "nameWoDiacritics": "Oranmore",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 53.266666666666666,
-      "lon": 1.4166666666666667
+      "lon": -8.916666666666666
     }
   },
   {
@@ -6853,14 +6854,14 @@
     "name": "Oughterard",
     "nameWoDiacritics": "Oughterard",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 53.416666666666664,
-      "lon": 1.5333333333333334
+      "lon": -9.333333333333334
     }
   },
   {
@@ -6869,14 +6870,14 @@
     "name": "Ovens",
     "nameWoDiacritics": "Ovens",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1901,
     "coordinates": {
       "lat": 51.86666666666667,
-      "lon": 1.4
+      "lon": -8.666666666666666
     }
   },
   {
@@ -6885,14 +6886,14 @@
     "name": "Palmerston",
     "nameWoDiacritics": "Palmerston",
     "subdivision": "D",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.35,
-      "lon": 1.0333333333333334
+      "lon": -6.366666666666666
     }
   },
   {
@@ -6900,7 +6901,7 @@
     "location": "PAT",
     "name": "Pandoro Terminal",
     "nameWoDiacritics": "Pandoro Terminal",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -6915,7 +6916,7 @@
     "location": "PAP",
     "name": "Parnell Place",
     "nameWoDiacritics": "Parnell Place",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -6931,7 +6932,7 @@
     "name": "Passage West",
     "nameWoDiacritics": "Passage West",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -6939,7 +6940,7 @@
     "date": 1501,
     "coordinates": {
       "lat": 51.86666666666667,
-      "lon": 1.3666666666666667
+      "lon": -8.35
     }
   },
   {
@@ -6948,14 +6949,14 @@
     "name": "Piltown",
     "nameWoDiacritics": "Piltown",
     "subdivision": "KK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1607,
     "coordinates": {
       "lat": 52.35,
-      "lon": 1.2
+      "lon": -7.333333333333333
     }
   },
   {
@@ -6964,14 +6965,14 @@
     "name": "Pluckerstown Bridge",
     "nameWoDiacritics": "Pluckerstown Bridge",
     "subdivision": "KE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1707,
     "coordinates": {
       "lat": 53.233333333333334,
-      "lon": 1.0833333333333333
+      "lon": -6.866666666666667
     }
   },
   {
@@ -6980,7 +6981,7 @@
     "name": "Portarlington",
     "nameWoDiacritics": "Portarlington",
     "subdivision": "LS",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -6988,7 +6989,7 @@
     "date": 212,
     "coordinates": {
       "lat": 53.15,
-      "lon": 1.1833333333333333
+      "lon": -7.166666666666667
     }
   },
   {
@@ -6996,14 +6997,14 @@
     "location": "PGN",
     "name": "Portglenone",
     "nameWoDiacritics": "Portglenone",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 54.86666666666667,
-      "lon": 1.0333333333333334
+      "lon": -6.466666666666667
     }
   },
   {
@@ -7012,7 +7013,7 @@
     "name": "Portlaoise",
     "nameWoDiacritics": "Portlaoise",
     "subdivision": "LS",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -7021,7 +7022,7 @@
     "date": 207,
     "coordinates": {
       "lat": 53.03333333333333,
-      "lon": 1.1833333333333333
+      "lon": -7.266666666666667
     }
   },
   {
@@ -7030,14 +7031,14 @@
     "name": "Portmarnock",
     "nameWoDiacritics": "Portmarnock",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 53.416666666666664,
-      "lon": 1
+      "lon": -6.133333333333334
     }
   },
   {
@@ -7045,14 +7046,14 @@
     "location": "PTA",
     "name": "Portumna",
     "nameWoDiacritics": "Portumna",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1007,
     "coordinates": {
       "lat": 53.083333333333336,
-      "lon": 1.35
+      "lon": -8.216666666666667
     }
   },
   {
@@ -7061,14 +7062,14 @@
     "name": "Raheenagh",
     "nameWoDiacritics": "Raheenagh",
     "subdivision": "LK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1701,
     "coordinates": {
       "lat": 52.36666666666667,
-      "lon": 1.5
+      "lon": -9.033333333333333
     }
   },
   {
@@ -7077,7 +7078,7 @@
     "name": "Ramelton",
     "nameWoDiacritics": "Ramelton",
     "subdivision": "DL",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -7085,7 +7086,7 @@
     "date": 407,
     "coordinates": {
       "lat": 55.03333333333333,
-      "lon": 1.2166666666666666
+      "lon": -7.633333333333333
     }
   },
   {
@@ -7093,14 +7094,14 @@
     "location": "RNG",
     "name": "Rathangan",
     "nameWoDiacritics": "Rathangan",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 53.21666666666667,
-      "lon": 1.0833333333333333
+      "lon": -6.983333333333333
     }
   },
   {
@@ -7109,14 +7110,14 @@
     "name": "Rathcoole",
     "nameWoDiacritics": "Rathcoole",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 53.266666666666666,
-      "lon": 1.0333333333333334
+      "lon": -6.466666666666667
     }
   },
   {
@@ -7124,14 +7125,14 @@
     "location": "RCC",
     "name": "Rathcormack",
     "nameWoDiacritics": "Rathcormack",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 601,
     "coordinates": {
       "lat": 52.083333333333336,
-      "lon": 1.35
+      "lon": -8.283333333333333
     }
   },
   {
@@ -7140,14 +7141,14 @@
     "name": "Rathdowney",
     "nameWoDiacritics": "Rathdowney",
     "subdivision": "LS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 52.85,
-      "lon": 1.2166666666666666
+      "lon": -7.566666666666666
     }
   },
   {
@@ -7156,7 +7157,7 @@
     "name": "Rathdrum",
     "nameWoDiacritics": "Rathdrum",
     "subdivision": "WW",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       2
@@ -7164,7 +7165,7 @@
     "date": 901,
     "coordinates": {
       "lat": 52.916666666666664,
-      "lon": 1.0166666666666666
+      "lon": -6.233333333333333
     }
   },
   {
@@ -7173,7 +7174,7 @@
     "name": "Rathkeale",
     "nameWoDiacritics": "Rathkeale",
     "subdivision": "LK",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -7181,7 +7182,7 @@
     "date": 207,
     "coordinates": {
       "lat": 52.516666666666666,
-      "lon": 1.4166666666666667
+      "lon": -8.933333333333334
     }
   },
   {
@@ -7189,7 +7190,7 @@
     "location": "RAM",
     "name": "Rathmore",
     "nameWoDiacritics": "Rathmore",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -7205,7 +7206,7 @@
     "name": "Rathmullan",
     "nameWoDiacritics": "Rathmullan",
     "subdivision": "DL",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -7213,7 +7214,7 @@
     "date": 1201,
     "coordinates": {
       "lat": 55.1,
-      "lon": 1.2166666666666666
+      "lon": -7.533333333333333
     }
   },
   {
@@ -7222,14 +7223,14 @@
     "name": "Rathnew",
     "nameWoDiacritics": "Rathnew",
     "subdivision": "WW",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 52.983333333333334,
-      "lon": 1
+      "lon": -6.083333333333333
     }
   },
   {
@@ -7238,14 +7239,14 @@
     "name": "Rathowen",
     "nameWoDiacritics": "Rathowen",
     "subdivision": "WH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 53.65,
-      "lon": 1.2166666666666666
+      "lon": -7.5
     }
   },
   {
@@ -7254,14 +7255,14 @@
     "name": "Ratoath",
     "nameWoDiacritics": "Ratoath",
     "subdivision": "MH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 53.5,
-      "lon": 1.0333333333333334
+      "lon": -6.45
     }
   },
   {
@@ -7270,14 +7271,14 @@
     "name": "Redhouse",
     "nameWoDiacritics": "Redhouse",
     "subdivision": "KK",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1707,
     "coordinates": {
       "lat": 52.583333333333336,
-      "lon": 1.2
+      "lon": -7.416666666666667
     }
   },
   {
@@ -7286,14 +7287,14 @@
     "name": "Rhode",
     "nameWoDiacritics": "Rhode",
     "subdivision": "OY",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.35,
-      "lon": 1.1833333333333333
+      "lon": -7.2
     }
   },
   {
@@ -7302,14 +7303,14 @@
     "name": "Ringaskiddy",
     "nameWoDiacritics": "Ringaskiddy",
     "subdivision": "CO",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
     "date": 1207,
     "coordinates": {
       "lat": 51.833333333333336,
-      "lon": 1.35
+      "lon": -8.316666666666666
     }
   },
   {
@@ -7318,14 +7319,14 @@
     "name": "Ringaskiddy Deepwater Terminal",
     "nameWoDiacritics": "Ringaskiddy Deepwater Terminal",
     "subdivision": "CO",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1207,
     "coordinates": {
       "lat": 51.833333333333336,
-      "lon": 1.35
+      "lon": -8.316666666666666
     }
   },
   {
@@ -7334,14 +7335,14 @@
     "name": "Ringaskiddy Passenger Terminal",
     "nameWoDiacritics": "Ringaskiddy Passenger Terminal",
     "subdivision": "CO",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1207,
     "coordinates": {
       "lat": 51.833333333333336,
-      "lon": 1.35
+      "lon": -8.316666666666666
     }
   },
   {
@@ -7349,7 +7350,7 @@
     "location": "RVM",
     "name": "River Moy",
     "nameWoDiacritics": "River Moy",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -7365,14 +7366,14 @@
     "name": "Riverstown",
     "nameWoDiacritics": "Riverstown",
     "subdivision": "LH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 53.983333333333334,
-      "lon": 1.0166666666666666
+      "lon": -6.216666666666667
     }
   },
   {
@@ -7381,14 +7382,14 @@
     "name": "Rockmills",
     "nameWoDiacritics": "Rockmills",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 52.21666666666667,
-      "lon": 1.3666666666666667
+      "lon": -8.4
     }
   },
   {
@@ -7397,14 +7398,14 @@
     "name": "Roosky",
     "nameWoDiacritics": "Roosky",
     "subdivision": "RN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 53.833333333333336,
-      "lon": 1.25
+      "lon": -7.916666666666667
     }
   },
   {
@@ -7413,14 +7414,14 @@
     "name": "Roscommon",
     "nameWoDiacritics": "Roscommon",
     "subdivision": "RN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 53.63333333333333,
-      "lon": 1.35
+      "lon": -8.2
     }
   },
   {
@@ -7428,7 +7429,7 @@
     "location": "RSC",
     "name": "Roscrea",
     "nameWoDiacritics": "Roscrea",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -7443,14 +7444,14 @@
     "location": "RNS",
     "name": "Rosenallis",
     "nameWoDiacritics": "Rosenallis",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 53.13333333333333,
-      "lon": 1.2
+      "lon": -7.4
     }
   },
   {
@@ -7459,14 +7460,14 @@
     "name": "Ross Carbery",
     "nameWoDiacritics": "Ross Carbery",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 51.56666666666667,
-      "lon": 1.5
+      "lon": -9.033333333333333
     }
   },
   {
@@ -7474,7 +7475,7 @@
     "location": "RAV",
     "name": "Rossaveel",
     "nameWoDiacritics": "Rossaveel",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -7490,14 +7491,14 @@
     "name": "Rossaveel",
     "nameWoDiacritics": "Rossaveel",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1401,
     "coordinates": {
       "lat": 53.266666666666666,
-      "lon": 1.55
+      "lon": -9.55
     }
   },
   {
@@ -7506,14 +7507,14 @@
     "name": "Rosses Point",
     "nameWoDiacritics": "Rosses Point",
     "subdivision": "SO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 54.3,
-      "lon": 1.3833333333333333
+      "lon": -8.566666666666666
     }
   },
   {
@@ -7521,7 +7522,7 @@
     "location": "ROE",
     "name": "Rosslare",
     "nameWoDiacritics": "Rosslare",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -7536,7 +7537,7 @@
     "location": "ROS",
     "name": "Rosslare Harbour",
     "nameWoDiacritics": "Rosslare Harbour",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -7552,14 +7553,14 @@
     "name": "Roundwood",
     "nameWoDiacritics": "Roundwood",
     "subdivision": "WW",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 53.05,
-      "lon": 1.0166666666666666
+      "lon": -6.216666666666667
     }
   },
   {
@@ -7567,7 +7568,7 @@
     "location": "RUS",
     "name": "Rushbrooke",
     "nameWoDiacritics": "Rushbrooke",
-    "status": "AF",
+    "status": 2,
     "function": [
       0,
       1,
@@ -7576,7 +7577,7 @@
     "date": 212,
     "coordinates": {
       "lat": 51.85,
-      "lon": 1.35
+      "lon": -8.316666666666666
     }
   },
   {
@@ -7584,7 +7585,7 @@
     "location": "SAG",
     "name": "Saggart",
     "nameWoDiacritics": "Saggart",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -7600,14 +7601,14 @@
     "name": "Saint Margaret's",
     "nameWoDiacritics": "Saint Margaret's",
     "subdivision": "D",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 53.416666666666664,
-      "lon": 1.0166666666666666
+      "lon": -6.3
     }
   },
   {
@@ -7616,14 +7617,14 @@
     "name": "Sallins",
     "nameWoDiacritics": "Sallins",
     "subdivision": "KE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 53.233333333333334,
-      "lon": 1.05
+      "lon": -6.65
     }
   },
   {
@@ -7632,14 +7633,14 @@
     "name": "Salt Hill",
     "nameWoDiacritics": "Salt Hill",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": 53.25,
-      "lon": 1.5
+      "lon": -9.1
     }
   },
   {
@@ -7648,14 +7649,14 @@
     "name": "Sandycove",
     "nameWoDiacritics": "Sandycove",
     "subdivision": "DL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 53.28333333333333,
-      "lon": 1
+      "lon": -6.1
     }
   },
   {
@@ -7664,14 +7665,14 @@
     "name": "Sandyford",
     "nameWoDiacritics": "Sandyford",
     "subdivision": "D",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1001,
     "coordinates": {
       "lat": 53.266666666666666,
-      "lon": 1.0166666666666666
+      "lon": -6.216666666666667
     }
   },
   {
@@ -7679,14 +7680,14 @@
     "location": "SAN",
     "name": "Santry/Dublin",
     "nameWoDiacritics": "Santry/Dublin",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 601,
     "coordinates": {
       "lat": 53.4,
-      "lon": 1.0166666666666666
+      "lon": -6.266666666666667
     }
   },
   {
@@ -7694,7 +7695,7 @@
     "location": "SCF",
     "name": "Scariff",
     "nameWoDiacritics": "Scariff",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -7711,7 +7712,7 @@
     "name": "Shannon",
     "nameWoDiacritics": "Shannon",
     "subdivision": "CE",
-    "status": "AF",
+    "status": 2,
     "function": [
       0,
       3,
@@ -7720,7 +7721,7 @@
     "date": 1207,
     "coordinates": {
       "lat": 52.7,
-      "lon": 1.4166666666666667
+      "lon": -8.85
     }
   },
   {
@@ -7729,14 +7730,14 @@
     "name": "Shercock",
     "nameWoDiacritics": "Shercock",
     "subdivision": "CN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 54,
-      "lon": 1.0833333333333333
+      "lon": -6.9
     }
   },
   {
@@ -7745,14 +7746,14 @@
     "name": "Shillelagh",
     "nameWoDiacritics": "Shillelagh",
     "subdivision": "WW",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1001,
     "coordinates": {
       "lat": 52.75,
-      "lon": 1.05
+      "lon": -6.533333333333333
     }
   },
   {
@@ -7761,14 +7762,14 @@
     "name": "Shrule",
     "nameWoDiacritics": "Shrule",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 53.516666666666666,
-      "lon": 1.5
+      "lon": -9.083333333333334
     }
   },
   {
@@ -7777,14 +7778,14 @@
     "name": "Sixmilebridge",
     "nameWoDiacritics": "Sixmilebridge",
     "subdivision": "CE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 52.733333333333334,
-      "lon": 1.4
+      "lon": -8.766666666666667
     }
   },
   {
@@ -7793,14 +7794,14 @@
     "name": "Skerries",
     "nameWoDiacritics": "Skerries",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 53.56666666666667,
-      "lon": 1
+      "lon": -6.1
     }
   },
   {
@@ -7809,14 +7810,14 @@
     "name": "Skibbereen",
     "nameWoDiacritics": "Skibbereen",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 51.56666666666667,
-      "lon": 1.5166666666666666
+      "lon": -9.283333333333333
     }
   },
   {
@@ -7825,14 +7826,14 @@
     "name": "Skreen",
     "nameWoDiacritics": "Skreen",
     "subdivision": "SO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 54.233333333333334,
-      "lon": 1.4
+      "lon": -8.716666666666667
     }
   },
   {
@@ -7841,14 +7842,14 @@
     "name": "Skryne",
     "nameWoDiacritics": "Skryne",
     "subdivision": "MH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.583333333333336,
-      "lon": 1.05
+      "lon": -6.55
     }
   },
   {
@@ -7857,7 +7858,7 @@
     "name": "Skull",
     "nameWoDiacritics": "Skull",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -7865,7 +7866,7 @@
     "date": 212,
     "coordinates": {
       "lat": 51.516666666666666,
-      "lon": 1.55
+      "lon": -9.533333333333333
     }
   },
   {
@@ -7874,14 +7875,14 @@
     "name": "Skull (Schull)",
     "nameWoDiacritics": "Skull (Schull)",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 51.53333333333333,
-      "lon": 1.55
+      "lon": -9.55
     }
   },
   {
@@ -7889,14 +7890,14 @@
     "location": "SLN",
     "name": "Slane",
     "nameWoDiacritics": "Slane",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 53.7,
-      "lon": 1.05
+      "lon": -6.533333333333333
     }
   },
   {
@@ -7905,14 +7906,14 @@
     "name": "Slieveroe",
     "nameWoDiacritics": "Slieveroe",
     "subdivision": "KK",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 52.28333333333333,
-      "lon": 1.1666666666666667
+      "lon": -7.066666666666666
     }
   },
   {
@@ -7920,7 +7921,7 @@
     "location": "SLI",
     "name": "Sligo",
     "nameWoDiacritics": "Sligo",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -7936,7 +7937,7 @@
     "location": "SXL",
     "name": "Sligo Apt",
     "nameWoDiacritics": "Sligo Apt",
-    "status": "AF",
+    "status": 2,
     "function": [
       3
     ],
@@ -7952,14 +7953,14 @@
     "name": "Sneem",
     "nameWoDiacritics": "Sneem",
     "subdivision": "KY",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 51.85,
-      "lon": 1.5833333333333333
+      "lon": -9.916666666666666
     }
   },
   {
@@ -7968,7 +7969,7 @@
     "name": "Spiddal",
     "nameWoDiacritics": "Spiddal",
     "subdivision": "G",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -7976,7 +7977,7 @@
     "date": 1301,
     "coordinates": {
       "lat": 53.233333333333334,
-      "lon": 1.5166666666666666
+      "lon": -9.3
     }
   },
   {
@@ -7985,14 +7986,14 @@
     "name": "St Johnston",
     "nameWoDiacritics": "St Johnston",
     "subdivision": "DL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 54.93333333333333,
-      "lon": 1.2
+      "lon": -7.45
     }
   },
   {
@@ -8001,14 +8002,14 @@
     "name": "Stokestown/New Ross",
     "nameWoDiacritics": "Stokestown/New Ross",
     "subdivision": "WX",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1207,
     "coordinates": {
       "lat": 52.35,
-      "lon": 1.0833333333333333
+      "lon": -6.983333333333333
     }
   },
   {
@@ -8017,14 +8018,14 @@
     "name": "Stradbally",
     "nameWoDiacritics": "Stradbally",
     "subdivision": "LS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 53,
-      "lon": 1.1666666666666667
+      "lon": -7.15
     }
   },
   {
@@ -8033,14 +8034,14 @@
     "name": "Stradone",
     "nameWoDiacritics": "Stradone",
     "subdivision": "CN",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1001,
     "coordinates": {
       "lat": 53.983333333333334,
-      "lon": 1.1833333333333333
+      "lon": -7.233333333333333
     }
   },
   {
@@ -8048,14 +8049,14 @@
     "location": "STF",
     "name": "Straffan",
     "nameWoDiacritics": "Straffan",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 201,
     "coordinates": {
       "lat": 53.3,
-      "lon": 1.05
+      "lon": -6.6
     }
   },
   {
@@ -8064,14 +8065,14 @@
     "name": "Summerhill",
     "nameWoDiacritics": "Summerhill",
     "subdivision": "MH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.483333333333334,
-      "lon": 1.0666666666666667
+      "lon": -6.733333333333333
     }
   },
   {
@@ -8080,14 +8081,14 @@
     "name": "Swords",
     "nameWoDiacritics": "Swords",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 53.45,
-      "lon": 1.0166666666666666
+      "lon": -6.216666666666667
     }
   },
   {
@@ -8096,14 +8097,14 @@
     "name": "Tallaght",
     "nameWoDiacritics": "Tallaght",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 53.28333333333333,
-      "lon": 1.0333333333333334
+      "lon": -6.333333333333333
     }
   },
   {
@@ -8112,14 +8113,14 @@
     "name": "Tallow",
     "nameWoDiacritics": "Tallow",
     "subdivision": "WD",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 901,
     "coordinates": {
       "lat": 52.083333333333336,
-      "lon": 1.3333333333333333
+      "lon": -8
     }
   },
   {
@@ -8127,7 +8128,7 @@
     "location": "TAR",
     "name": "Tarbert",
     "nameWoDiacritics": "Tarbert",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -8142,7 +8143,7 @@
     "location": "TEM",
     "name": "Templemore",
     "nameWoDiacritics": "Templemore",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -8158,14 +8159,14 @@
     "name": "Templeogue",
     "nameWoDiacritics": "Templeogue",
     "subdivision": "D",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.28333333333333,
-      "lon": 1.0166666666666666
+      "lon": -6.3
     }
   },
   {
@@ -8174,14 +8175,14 @@
     "name": "Termonfeckin",
     "nameWoDiacritics": "Termonfeckin",
     "subdivision": "LH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 53.75,
-      "lon": 1.0166666666666666
+      "lon": -6.266666666666667
     }
   },
   {
@@ -8189,7 +8190,7 @@
     "location": "THO",
     "name": "Thomastown",
     "nameWoDiacritics": "Thomastown",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -8204,7 +8205,7 @@
     "location": "THR",
     "name": "Thurles",
     "nameWoDiacritics": "Thurles",
-    "status": "RQ",
+    "status": 9,
     "function": [
       1,
       2
@@ -8221,14 +8222,14 @@
     "name": "Timoleague",
     "nameWoDiacritics": "Timoleague",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1107,
     "coordinates": {
       "lat": 51.63333333333333,
-      "lon": 1.4
+      "lon": -8.766666666666667
     }
   },
   {
@@ -8237,14 +8238,14 @@
     "name": "Tinahely",
     "nameWoDiacritics": "Tinahely",
     "subdivision": "WW",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 52.8,
-      "lon": 1.0333333333333334
+      "lon": -6.466666666666667
     }
   },
   {
@@ -8252,7 +8253,7 @@
     "location": "TPY",
     "name": "Tipperary",
     "nameWoDiacritics": "Tipperary",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -8267,7 +8268,7 @@
     "location": "TIV",
     "name": "Tivoli",
     "nameWoDiacritics": "Tivoli",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -8283,7 +8284,7 @@
     "name": "Tober",
     "nameWoDiacritics": "Tober",
     "subdivision": "OY",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -8291,7 +8292,7 @@
     "date": 901,
     "coordinates": {
       "lat": 53.36666666666667,
-      "lon": 1.2166666666666666
+      "lon": -7.65
     }
   },
   {
@@ -8300,14 +8301,14 @@
     "name": "Togher",
     "nameWoDiacritics": "Togher",
     "subdivision": "CO",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 51.86666666666667,
-      "lon": 1.3666666666666667
+      "lon": -8.483333333333333
     }
   },
   {
@@ -8316,14 +8317,14 @@
     "name": "Tom Roes Point Terminal/Drogheda",
     "nameWoDiacritics": "Tom Roes Point Terminal/Drogheda",
     "subdivision": "LH",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1207,
     "coordinates": {
       "lat": 53.71666666666667,
-      "lon": 1.0166666666666666
+      "lon": -6.3
     }
   },
   {
@@ -8333,14 +8334,14 @@
     "name": "Town Quays/Drogheda",
     "nameWoDiacritics": "Town Quays/Drogheda",
     "subdivision": "LH",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 2307,
     "coordinates": {
       "lat": 53.71666666666667,
-      "lon": 1.0333333333333334
+      "lon": -6.333333333333333
     },
     "remarks": "@Coo"
   },
@@ -8349,7 +8350,7 @@
     "location": "TRA",
     "name": "Tralee",
     "nameWoDiacritics": "Tralee",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -8365,7 +8366,7 @@
     "location": "TME",
     "name": "Tramore",
     "nameWoDiacritics": "Tramore",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -8380,7 +8381,7 @@
     "location": "TRI",
     "name": "Trim",
     "nameWoDiacritics": "Trim",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -8396,14 +8397,14 @@
     "name": "Tuam",
     "nameWoDiacritics": "Tuam",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 901,
     "coordinates": {
       "lat": 53.516666666666666,
-      "lon": 1.4166666666666667
+      "lon": -8.85
     }
   },
   {
@@ -8411,7 +8412,7 @@
     "location": "TUB",
     "name": "Tubbercurry",
     "nameWoDiacritics": "Tubbercurry",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -8427,14 +8428,14 @@
     "name": "Tulla",
     "nameWoDiacritics": "Tulla",
     "subdivision": "CE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 52.85,
-      "lon": 1.4
+      "lon": -8.75
     }
   },
   {
@@ -8443,7 +8444,7 @@
     "name": "Tullamore",
     "nameWoDiacritics": "Tullamore",
     "subdivision": "OY",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -8451,7 +8452,7 @@
     "date": 207,
     "coordinates": {
       "lat": 53.266666666666666,
-      "lon": 1.2
+      "lon": -7.483333333333333
     }
   },
   {
@@ -8459,7 +8460,7 @@
     "location": "TUW",
     "name": "Tullow",
     "nameWoDiacritics": "Tullow",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -8475,14 +8476,14 @@
     "name": "Tullylease",
     "nameWoDiacritics": "Tullylease",
     "subdivision": "CO",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 52.3,
-      "lon": 1.4166666666666667
+      "lon": -8.95
     }
   },
   {
@@ -8491,14 +8492,14 @@
     "name": "Tullynamalra",
     "nameWoDiacritics": "Tullynamalra",
     "subdivision": "MN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1801,
     "coordinates": {
       "lat": 54.05,
-      "lon": 1.0666666666666667
+      "lon": -6.816666666666666
     }
   },
   {
@@ -8507,7 +8508,7 @@
     "name": "Tynagh",
     "nameWoDiacritics": "Tynagh",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -8515,7 +8516,7 @@
     "date": 507,
     "coordinates": {
       "lat": 53.13333333333333,
-      "lon": 1.3666666666666667
+      "lon": -8.366666666666667
     }
   },
   {
@@ -8523,14 +8524,14 @@
     "location": "UTN",
     "name": "Urlingford",
     "nameWoDiacritics": "Urlingford",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 52.71666666666667,
-      "lon": 1.2166666666666666
+      "lon": -7.583333333333333
     }
   },
   {
@@ -8538,7 +8539,7 @@
     "location": "VIR",
     "name": "Virginia",
     "nameWoDiacritics": "Virginia",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -8553,7 +8554,7 @@
     "location": "WAL",
     "name": "Walkinstown",
     "nameWoDiacritics": "Walkinstown",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -8568,14 +8569,14 @@
     "location": "WRL",
     "name": "Waterfall",
     "nameWoDiacritics": "Waterfall",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 51.85,
-      "lon": 1.3833333333333333
+      "lon": -8.55
     }
   },
   {
@@ -8584,7 +8585,7 @@
     "name": "Waterford",
     "nameWoDiacritics": "Waterford",
     "subdivision": "WD",
-    "status": "AF",
+    "status": 2,
     "function": [
       0,
       2,
@@ -8594,7 +8595,7 @@
     "date": 1207,
     "coordinates": {
       "lat": 52.25,
-      "lon": 1.1666666666666667
+      "lon": -7.1
     }
   },
   {
@@ -8603,14 +8604,14 @@
     "name": "Waterford City Quays",
     "nameWoDiacritics": "Waterford City Quays",
     "subdivision": "WD",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1207,
     "coordinates": {
       "lat": 52.25,
-      "lon": 1.1666666666666667
+      "lon": -7.1
     }
   },
   {
@@ -8619,14 +8620,14 @@
     "name": "Waterford Great Island (ESB)",
     "nameWoDiacritics": "Waterford Great Island (ESB)",
     "subdivision": "WD",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1207,
     "coordinates": {
       "lat": 52.266666666666666,
-      "lon": 1.0833333333333333
+      "lon": -6.983333333333333
     }
   },
   {
@@ -8635,14 +8636,14 @@
     "name": "Watergrasshill",
     "nameWoDiacritics": "Watergrasshill",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 52,
-      "lon": 1.3666666666666667
+      "lon": -8.333333333333334
     }
   },
   {
@@ -8651,14 +8652,14 @@
     "name": "Waterville",
     "nameWoDiacritics": "Waterville",
     "subdivision": "KY",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 51.833333333333336,
-      "lon": 1.0166666666666666
+      "lon": -10.166666666666666
     }
   },
   {
@@ -8666,7 +8667,7 @@
     "location": "WES",
     "name": "Westport",
     "nameWoDiacritics": "Westport",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -8681,7 +8682,7 @@
     "location": "WEX",
     "name": "Wexford",
     "nameWoDiacritics": "Wexford",
-    "status": "AF",
+    "status": 2,
     "function": [
       0,
       3
@@ -8697,7 +8698,7 @@
     "location": "WHI",
     "name": "Whitegate",
     "nameWoDiacritics": "Whitegate",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -8713,14 +8714,14 @@
     "name": "White's Cross",
     "nameWoDiacritics": "White's Cross",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1607,
     "coordinates": {
       "lat": 51.93333333333333,
-      "lon": 1.3666666666666667
+      "lon": -8.433333333333334
     }
   },
   {
@@ -8729,14 +8730,14 @@
     "name": "Whitestown",
     "nameWoDiacritics": "Whitestown",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 53.38333333333333,
-      "lon": 1.0333333333333334
+      "lon": -6.4
     }
   },
   {
@@ -8744,7 +8745,7 @@
     "location": "WIC",
     "name": "Wicklow",
     "nameWoDiacritics": "Wicklow",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -8760,7 +8761,7 @@
     "name": "Wilton",
     "nameWoDiacritics": "Wilton",
     "subdivision": "CO",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       5
@@ -8776,7 +8777,7 @@
     "location": "YOU",
     "name": "Youghal",
     "nameWoDiacritics": "Youghal",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],

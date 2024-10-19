@@ -6,7 +6,7 @@
     "name": ".SURINAME",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Albina",
     "nameWoDiacritics": "Albina",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -43,7 +43,7 @@
     "name": "Awaradam",
     "nameWoDiacritics": "Awaradam",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -62,7 +62,7 @@
     "name": "Botopasie",
     "nameWoDiacritics": "Botopasie",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -81,7 +81,7 @@
     "name": "Brokopondo",
     "nameWoDiacritics": "Brokopondo",
     "subdivision": "BR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -89,7 +89,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.066666666666666,
-      "lon": 5.75
+      "lon": -54.96666666666667
     },
     "remarks": ""
   },
@@ -100,7 +100,7 @@
     "name": "Djoemoe",
     "nameWoDiacritics": "Djoemoe",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -119,7 +119,7 @@
     "name": "Drietabbetje",
     "nameWoDiacritics": "Drietabbetje",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -138,7 +138,7 @@
     "name": "Houttuin",
     "nameWoDiacritics": "Houttuin",
     "subdivision": "WA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -146,7 +146,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.733333333333333,
-      "lon": 5.85
+      "lon": -55.166666666666664
     },
     "remarks": ""
   },
@@ -157,7 +157,7 @@
     "name": "Jarikaba",
     "nameWoDiacritics": "Jarikaba",
     "subdivision": "SA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -165,7 +165,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.783333333333333,
-      "lon": 5.866666666666667
+      "lon": -55.43333333333333
     },
     "remarks": ""
   },
@@ -176,7 +176,7 @@
     "name": "Kasikasima",
     "nameWoDiacritics": "Kasikasima",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -195,7 +195,7 @@
     "name": "Kwatta",
     "nameWoDiacritics": "Kwatta",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -203,7 +203,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.816666666666666,
-      "lon": 5.85
+      "lon": -55.25
     },
     "remarks": ""
   },
@@ -214,7 +214,7 @@
     "name": "Ladouanie",
     "nameWoDiacritics": "Ladouanie",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -233,7 +233,7 @@
     "name": "Lelydorp",
     "nameWoDiacritics": "Lelydorp",
     "subdivision": "WA",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -243,7 +243,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.7,
-      "lon": 5.85
+      "lon": -55.233333333333334
     },
     "remarks": ""
   },
@@ -254,7 +254,7 @@
     "name": "Meerzorg",
     "nameWoDiacritics": "Meerzorg",
     "subdivision": "CM",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -262,7 +262,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.816666666666666,
-      "lon": 5.833333333333333
+      "lon": -55.15
     },
     "remarks": ""
   },
@@ -273,7 +273,7 @@
     "name": "Moengo",
     "nameWoDiacritics": "Moengo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -293,7 +293,7 @@
     "name": "Nieuw Amsterdam",
     "nameWoDiacritics": "Nieuw Amsterdam",
     "subdivision": "CM",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -301,7 +301,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.883333333333333,
-      "lon": 5.833333333333333
+      "lon": -55.083333333333336
     },
     "remarks": ""
   },
@@ -312,7 +312,7 @@
     "name": "Nieuw Nickerie",
     "nameWoDiacritics": "Nieuw Nickerie",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -332,7 +332,7 @@
     "name": "Paloemeu",
     "nameWoDiacritics": "Paloemeu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -351,7 +351,7 @@
     "name": "Paramaribo",
     "nameWoDiacritics": "Paramaribo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -372,7 +372,7 @@
     "name": "Paramaribo Zorg en Hoop Airport",
     "nameWoDiacritics": "Paramaribo Zorg en Hoop Airport",
     "subdivision": "PR",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -380,7 +380,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.8,
-      "lon": 5.85
+      "lon": -55.18333333333333
     },
     "remarks": ""
   },
@@ -391,7 +391,7 @@
     "name": "Paranam",
     "nameWoDiacritics": "Paranam",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -410,7 +410,7 @@
     "name": "Saramacca Polder",
     "nameWoDiacritics": "Saramacca Polder",
     "subdivision": "WA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -418,7 +418,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.816666666666666,
-      "lon": 5.85
+      "lon": -55.25
     },
     "remarks": ""
   },
@@ -429,7 +429,7 @@
     "name": "Smalkalden",
     "nameWoDiacritics": "Smalkalden",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -448,7 +448,7 @@
     "name": "Stoelmans Eiland",
     "nameWoDiacritics": "Stoelmans Eiland",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -467,7 +467,7 @@
     "name": "Totness",
     "nameWoDiacritics": "Totness",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -486,7 +486,7 @@
     "name": "Wageningen",
     "nameWoDiacritics": "Wageningen",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -506,7 +506,7 @@
     "name": "Washabo",
     "nameWoDiacritics": "Washabo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -525,7 +525,7 @@
     "name": "Zanderij",
     "nameWoDiacritics": "Zanderij",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -533,7 +533,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.45,
-      "lon": 5.85
+      "lon": -55.18333333333333
     },
     "remarks": ""
   }

@@ -2,6 +2,7 @@
   {
     "country": "BF",
     "name": ".BURKINA FASO",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "ABD",
     "name": "Aribinda",
     "nameWoDiacritics": "Aribinda",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -29,7 +30,7 @@
     "location": "ARL",
     "name": "Arly",
     "nameWoDiacritics": "Arly",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -44,7 +45,7 @@
     "location": "BNR",
     "name": "Banfora",
     "nameWoDiacritics": "Banfora",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -59,7 +60,7 @@
     "location": "BER",
     "name": "BÈrÈgadougou",
     "nameWoDiacritics": "Beregadougou",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -67,7 +68,7 @@
     "date": 401,
     "coordinates": {
       "lat": 10.766666666666667,
-      "lon": 0.7333333333333333
+      "lon": -4.75
     }
   },
   {
@@ -76,14 +77,14 @@
     "name": "Bobo-Dioulasso",
     "nameWoDiacritics": "Bobo-Dioulasso",
     "subdivision": "HOU",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 212,
     "coordinates": {
       "lat": 11.2,
-      "lon": 0.6833333333333333
+      "lon": -4.3
     }
   },
   {
@@ -91,7 +92,7 @@
     "location": "BOG",
     "name": "BogandÈ",
     "nameWoDiacritics": "Bogande",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -99,7 +100,7 @@
     "iata": "XBG",
     "coordinates": {
       "lat": 12.983333333333333,
-      "lon": 0
+      "lon": -0.13333333333333333
     }
   },
   {
@@ -108,14 +109,14 @@
     "name": "Boromo",
     "nameWoDiacritics": "Boromo",
     "subdivision": "BAL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1401,
     "coordinates": {
       "lat": 11.75,
-      "lon": 0.4166666666666667
+      "lon": -2.9333333333333336
     }
   },
   {
@@ -123,7 +124,7 @@
     "location": "BOU",
     "name": "Boulsa",
     "nameWoDiacritics": "Boulsa",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -140,14 +141,14 @@
     "name": "Bousse",
     "nameWoDiacritics": "Bousse",
     "subdivision": "OUB",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1607,
     "coordinates": {
       "lat": 12.65,
-      "lon": 0.25
+      "lon": -1.8833333333333333
     }
   },
   {
@@ -155,14 +156,14 @@
     "location": "DGU",
     "name": "DÈdougou",
     "nameWoDiacritics": "Dedougou",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 212,
     "coordinates": {
       "lat": 12.466666666666667,
-      "lon": 0.5333333333333333
+      "lon": -3.466666666666667
     }
   },
   {
@@ -170,7 +171,7 @@
     "location": "DIP",
     "name": "Diapaga",
     "nameWoDiacritics": "Diapaga",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -185,7 +186,7 @@
     "location": "DBG",
     "name": "DiÈbougou",
     "nameWoDiacritics": "Diebougou",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -193,7 +194,7 @@
     "iata": "XDE",
     "coordinates": {
       "lat": 10.966666666666667,
-      "lon": 0.5166666666666667
+      "lon": -3.25
     }
   },
   {
@@ -201,7 +202,7 @@
     "location": "DJI",
     "name": "Djibo",
     "nameWoDiacritics": "Djibo",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -217,7 +218,7 @@
     "location": "DOR",
     "name": "Dori",
     "nameWoDiacritics": "Dori",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -232,14 +233,14 @@
     "location": "FNG",
     "name": "Fada-Ngourma",
     "nameWoDiacritics": "Fada-Ngourma",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 212,
     "coordinates": {
       "lat": 12.066666666666666,
-      "lon": 0.03333333333333333
+      "lon": 0.35
     }
   },
   {
@@ -247,7 +248,7 @@
     "location": "GAO",
     "name": "Gaoua",
     "nameWoDiacritics": "Gaoua",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -263,7 +264,7 @@
     "location": "GOG",
     "name": "Gorom-Gorom",
     "nameWoDiacritics": "Gorom-Gorom",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -280,14 +281,14 @@
     "name": "HoundÈ",
     "nameWoDiacritics": "Hounde",
     "subdivision": "TUI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1701,
     "coordinates": {
       "lat": 11.5,
-      "lon": 0.55
+      "lon": -3.5166666666666666
     }
   },
   {
@@ -295,7 +296,7 @@
     "location": "KAN",
     "name": "Kantchari",
     "nameWoDiacritics": "Kantchari",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -311,7 +312,7 @@
     "location": "KAY",
     "name": "Kaya",
     "nameWoDiacritics": "Kaya",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -327,14 +328,14 @@
     "location": "KOS",
     "name": "Kossodo",
     "nameWoDiacritics": "Kossodo",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 12.416666666666666,
-      "lon": 0.2
+      "lon": -1.4666666666666668
     }
   },
   {
@@ -342,7 +343,7 @@
     "location": "KOU",
     "name": "Koudougou",
     "nameWoDiacritics": "Koudougou",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -350,7 +351,7 @@
     "date": 5,
     "coordinates": {
       "lat": 12.233333333333333,
-      "lon": 0.36666666666666664
+      "lon": -2.3666666666666667
     }
   },
   {
@@ -358,14 +359,14 @@
     "location": "KOR",
     "name": "Kourouma",
     "nameWoDiacritics": "Kourouma",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": 11.616666666666667,
-      "lon": 0.7333333333333333
+      "lon": -4.8
     }
   },
   {
@@ -373,7 +374,7 @@
     "location": "LEO",
     "name": "LÈo",
     "nameWoDiacritics": "Leo",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -381,7 +382,7 @@
     "iata": "XLU",
     "coordinates": {
       "lat": 11.1,
-      "lon": 0.3333333333333333
+      "lon": -2.1
     }
   },
   {
@@ -390,14 +391,14 @@
     "name": "Mana",
     "nameWoDiacritics": "Mana",
     "subdivision": "BAL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1401,
     "coordinates": {
       "lat": 11.866666666666667,
-      "lon": 0.5333333333333333
+      "lon": -3.3666666666666667
     }
   },
   {
@@ -406,14 +407,14 @@
     "name": "Natougou",
     "nameWoDiacritics": "Natougou",
     "subdivision": "TAP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1607,
     "coordinates": {
       "lat": 12.616666666666667,
-      "lon": 0.23333333333333334
+      "lon": 1.6833333333333333
     }
   },
   {
@@ -421,7 +422,7 @@
     "location": "NOU",
     "name": "Nouna",
     "nameWoDiacritics": "Nouna",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -438,14 +439,14 @@
     "name": "Orodara",
     "nameWoDiacritics": "Orodara",
     "subdivision": "KEN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1701,
     "coordinates": {
       "lat": 10.983333333333333,
-      "lon": 0.75
+      "lon": -4.916666666666667
     }
   },
   {
@@ -453,7 +454,7 @@
     "location": "OUA",
     "name": "Ouagadougou",
     "nameWoDiacritics": "Ouagadougou",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -469,7 +470,7 @@
     "location": "OUG",
     "name": "Ouahigouya",
     "nameWoDiacritics": "Ouahigouya",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -484,7 +485,7 @@
     "location": "PAM",
     "name": "Pama",
     "nameWoDiacritics": "Pama",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -501,14 +502,14 @@
     "name": "PÈni",
     "nameWoDiacritics": "Peni",
     "subdivision": "HOU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 10.95,
-      "lon": 0.7
+      "lon": -4.483333333333333
     }
   },
   {
@@ -516,7 +517,7 @@
     "location": "PUP",
     "name": "Po",
     "nameWoDiacritics": "Po",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -531,14 +532,14 @@
     "location": "POU",
     "name": "Poura",
     "nameWoDiacritics": "Poura",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 401,
     "coordinates": {
       "lat": 10.65,
-      "lon": 0.5
+      "lon": -3.0833333333333335
     }
   },
   {
@@ -547,14 +548,14 @@
     "name": "SaponÈ",
     "nameWoDiacritics": "Sapone",
     "subdivision": "BAZ",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 401,
     "coordinates": {
       "lat": 12.1,
-      "lon": 0.21666666666666667
+      "lon": -1.55
     }
   },
   {
@@ -562,7 +563,7 @@
     "location": "SEB",
     "name": "Sebba",
     "nameWoDiacritics": "Sebba",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -578,7 +579,7 @@
     "location": "TMQ",
     "name": "Tambao",
     "nameWoDiacritics": "Tambao",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -594,14 +595,14 @@
     "name": "Tema",
     "nameWoDiacritics": "Tema",
     "subdivision": "PAS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 13.083333333333334,
-      "lon": 0.23333333333333334
+      "lon": -1.7833333333333332
     }
   },
   {
@@ -609,7 +610,7 @@
     "location": "TEG",
     "name": "Tenkodogo",
     "nameWoDiacritics": "Tenkodogo",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -624,7 +625,7 @@
     "location": "TUQ",
     "name": "Tougan",
     "nameWoDiacritics": "Tougan",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -640,14 +641,14 @@
     "name": "Wona (Ouona)",
     "nameWoDiacritics": "Wona (Ouona)",
     "subdivision": "TUI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 11.966666666666667,
-      "lon": 0.5333333333333333
+      "lon": -3.4166666666666665
     }
   },
   {
@@ -656,14 +657,14 @@
     "name": "Yako",
     "nameWoDiacritics": "Yako",
     "subdivision": "PAS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 12.966666666666667,
-      "lon": 0.35
+      "lon": -2.2666666666666666
     }
   },
   {
@@ -672,14 +673,14 @@
     "name": "Yaramoko",
     "nameWoDiacritics": "Yaramoko",
     "subdivision": "MOU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 11.8,
-      "lon": 0.5166666666666667
+      "lon": -3.283333333333333
     }
   },
   {
@@ -687,7 +688,7 @@
     "location": "ZAB",
     "name": "ZabrÈ",
     "nameWoDiacritics": "Zabre",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -695,7 +696,7 @@
     "iata": "XZA",
     "coordinates": {
       "lat": 11.166666666666666,
-      "lon": 0.05
+      "lon": -0.6333333333333333
     }
   },
   {
@@ -703,14 +704,14 @@
     "location": "ZIG",
     "name": "Ziga",
     "nameWoDiacritics": "Ziga",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 12.616666666666667,
-      "lon": 0.06666666666666667
+      "lon": -0.8166666666666667
     }
   },
   {
@@ -719,7 +720,7 @@
     "name": "ZiniarÈ",
     "nameWoDiacritics": "Ziniare",
     "subdivision": "OUB",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -727,7 +728,7 @@
     "date": 1407,
     "coordinates": {
       "lat": 12.583333333333334,
-      "lon": 0.18333333333333332
+      "lon": -1.3
     }
   }
 ]

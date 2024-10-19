@@ -2,6 +2,7 @@
   {
     "country": "GW",
     "name": ".GUINEA-BISSAU",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -14,14 +15,14 @@
     "name": "Bafat·",
     "nameWoDiacritics": "Bafata",
     "subdivision": "BA",
-    "status": "AM",
+    "status": 4,
     "function": [
       5
     ],
     "date": 2007,
     "coordinates": {
       "lat": 12.166666666666666,
-      "lon": 1.7333333333333334
+      "lon": -14.666666666666666
     }
   },
   {
@@ -29,14 +30,14 @@
     "location": "BNT",
     "name": "Binta",
     "nameWoDiacritics": "Binta",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 12.416666666666666,
-      "lon": 1.85
+      "lon": -15.316666666666666
     }
   },
   {
@@ -45,7 +46,7 @@
     "name": "Bissau",
     "nameWoDiacritics": "Bissau",
     "subdivision": "BS",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -55,7 +56,7 @@
     "date": 401,
     "coordinates": {
       "lat": 11.85,
-      "lon": 1.8833333333333333
+      "lon": -15.583333333333334
     }
   },
   {
@@ -63,7 +64,7 @@
     "location": "BOL",
     "name": "Bolama",
     "nameWoDiacritics": "Bolama",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -71,7 +72,7 @@
     "date": 401,
     "coordinates": {
       "lat": 11.583333333333334,
-      "lon": 1.8666666666666667
+      "lon": -15.466666666666667
     }
   },
   {
@@ -79,7 +80,7 @@
     "location": "BQE",
     "name": "Bubaque",
     "nameWoDiacritics": "Bubaque",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -88,7 +89,7 @@
     "date": 401,
     "coordinates": {
       "lat": 11.283333333333333,
-      "lon": 1.9166666666666665
+      "lon": -15.833333333333334
     }
   },
   {
@@ -97,7 +98,7 @@
     "name": "Cacheu",
     "nameWoDiacritics": "Cacheu",
     "subdivision": "CA",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -105,7 +106,7 @@
     "date": 401,
     "coordinates": {
       "lat": 12.266666666666667,
-      "lon": 2
+      "lon": -16.15
     }
   },
   {
@@ -113,14 +114,14 @@
     "location": "CJA",
     "name": "Canjaja",
     "nameWoDiacritics": "Canjaja",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 12.383333333333333,
-      "lon": 1.8666666666666667
+      "lon": -15.35
     }
   },
   {
@@ -128,14 +129,14 @@
     "location": "FAR",
     "name": "Farim",
     "nameWoDiacritics": "Farim",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 12.483333333333333,
-      "lon": 1.85
+      "lon": -15.216666666666667
     }
   }
 ]

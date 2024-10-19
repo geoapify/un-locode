@@ -2,6 +2,7 @@
   {
     "country": "BA",
     "name": ".BOSNIA AND HERZEGOVINA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -14,7 +15,7 @@
     "name": "Banja Luka",
     "nameWoDiacritics": "Banja Luka",
     "subdivision": "SRP",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -22,7 +23,7 @@
     "date": 1207,
     "coordinates": {
       "lat": 44.766666666666666,
-      "lon": 2.1833333333333336
+      "lon": 17.183333333333334
     }
   },
   {
@@ -31,14 +32,14 @@
     "name": "Berkovici",
     "nameWoDiacritics": "Berkovici",
     "subdivision": "SRP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1707,
     "coordinates": {
       "lat": 43.083333333333336,
-      "lon": 2.35
+      "lon": 18.166666666666668
     }
   },
   {
@@ -47,14 +48,14 @@
     "name": "Bihac",
     "nameWoDiacritics": "Bihac",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 407,
     "coordinates": {
       "lat": 44.81666666666667,
-      "lon": 1.9166666666666665
+      "lon": 15.866666666666667
     }
   },
   {
@@ -63,7 +64,7 @@
     "name": "Bijeljina",
     "nameWoDiacritics": "Bijeljina",
     "subdivision": "SRP",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -71,7 +72,7 @@
     "date": 501,
     "coordinates": {
       "lat": 44.75,
-      "lon": 2.5166666666666666
+      "lon": 19.2
     }
   },
   {
@@ -79,7 +80,7 @@
     "location": "BIR",
     "name": "Biracevac",
     "nameWoDiacritics": "Biracevac",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       2
@@ -96,14 +97,14 @@
     "name": "Blazuj, Sarajevo",
     "nameWoDiacritics": "Blazuj, Sarajevo",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 501,
     "coordinates": {
       "lat": 43.833333333333336,
-      "lon": 2.35
+      "lon": 18.25
     }
   },
   {
@@ -111,7 +112,7 @@
     "location": "BKR",
     "name": "Bosanska Krupa",
     "nameWoDiacritics": "Bosanska Krupa",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -119,7 +120,7 @@
     "date": 701,
     "coordinates": {
       "lat": 44.88333333333333,
-      "lon": 2
+      "lon": 16.15
     }
   },
   {
@@ -128,7 +129,7 @@
     "name": "Bosanski Brod (Srpski Brod)",
     "nameWoDiacritics": "Bosanski Brod (Srpski Brod)",
     "subdivision": "SRP",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -136,7 +137,7 @@
     "date": 407,
     "coordinates": {
       "lat": 45.13333333333333,
-      "lon": 2.25
+      "lon": 17.983333333333334
     }
   },
   {
@@ -145,14 +146,14 @@
     "name": "Bosanski Petrovac",
     "nameWoDiacritics": "Bosanski Petrovac",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 44.55,
-      "lon": 2.033333333333333
+      "lon": 16.366666666666667
     }
   },
   {
@@ -161,7 +162,7 @@
     "name": "Brcko",
     "nameWoDiacritics": "Brcko",
     "subdivision": "SRP",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -169,7 +170,7 @@
     "date": 407,
     "coordinates": {
       "lat": 44.86666666666667,
-      "lon": 2.4
+      "lon": 18.8
     }
   },
   {
@@ -177,14 +178,14 @@
     "location": "BUD",
     "name": "Budinscina",
     "nameWoDiacritics": "Budinscina",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 46.11666666666667,
-      "lon": 2.0166666666666666
+      "lon": 16.2
     }
   },
   {
@@ -192,7 +193,7 @@
     "location": "BUG",
     "name": "Bugojno",
     "nameWoDiacritics": "Bugojno",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -200,7 +201,7 @@
     "date": 701,
     "coordinates": {
       "lat": 44.05,
-      "lon": 2.2
+      "lon": 17.433333333333334
     }
   },
   {
@@ -209,14 +210,14 @@
     "name": "Busovaca",
     "nameWoDiacritics": "Busovaca",
     "subdivision": 6,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 44.083333333333336,
-      "lon": 2.25
+      "lon": 17.866666666666667
     }
   },
   {
@@ -225,7 +226,7 @@
     "name": "Cazin",
     "nameWoDiacritics": "Cazin",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -233,7 +234,7 @@
     "date": 1407,
     "coordinates": {
       "lat": 44.96666666666667,
-      "lon": 1.9166666666666665
+      "lon": 15.933333333333334
     }
   },
   {
@@ -242,14 +243,14 @@
     "name": "Celinac",
     "nameWoDiacritics": "Celinac",
     "subdivision": "SRP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1707,
     "coordinates": {
       "lat": 44.71666666666667,
-      "lon": 2.1833333333333336
+      "lon": 17.316666666666666
     }
   },
   {
@@ -257,14 +258,14 @@
     "location": "CIT",
     "name": "Citluk",
     "nameWoDiacritics": "Citluk",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 901,
     "coordinates": {
       "lat": 43.516666666666666,
-      "lon": 2.2333333333333334
+      "lon": 17.733333333333334
     }
   },
   {
@@ -273,14 +274,14 @@
     "name": "Derventa",
     "nameWoDiacritics": "Derventa",
     "subdivision": "SRP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 407,
     "coordinates": {
       "lat": 44.96666666666667,
-      "lon": 2.25
+      "lon": 17.9
     }
   },
   {
@@ -289,14 +290,14 @@
     "name": "Doboj",
     "nameWoDiacritics": "Doboj",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 44.11666666666667,
-      "lon": 2.333333333333333
+      "lon": 18.1
     }
   },
   {
@@ -304,7 +305,7 @@
     "location": "DOJ",
     "name": "Domaljevac",
     "nameWoDiacritics": "Domaljevac",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -312,7 +313,7 @@
     "date": 1201,
     "coordinates": {
       "lat": 45.05,
-      "lon": 2.3833333333333333
+      "lon": 18.566666666666666
     }
   },
   {
@@ -321,7 +322,7 @@
     "name": "Donji Vakuf",
     "nameWoDiacritics": "Donji Vakuf",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -329,7 +330,7 @@
     "date": 407,
     "coordinates": {
       "lat": 44.13333333333333,
-      "lon": 2.2
+      "lon": 17.4
     }
   },
   {
@@ -337,14 +338,14 @@
     "location": "DBA",
     "name": "Dubica",
     "nameWoDiacritics": "Dubica",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 44.516666666666666,
-      "lon": 2.083333333333333
+      "lon": 16.983333333333334
     }
   },
   {
@@ -353,14 +354,14 @@
     "name": "Durdevik",
     "nameWoDiacritics": "Durdevik",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 2001,
     "coordinates": {
       "lat": 44.4,
-      "lon": 2.3833333333333333
+      "lon": 18.65
     }
   },
   {
@@ -368,7 +369,7 @@
     "location": "FOJ",
     "name": "Fojnica",
     "nameWoDiacritics": "Fojnica",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -376,7 +377,7 @@
     "date": 1201,
     "coordinates": {
       "lat": 43.95,
-      "lon": 2.25
+      "lon": 17.9
     }
   },
   {
@@ -384,14 +385,14 @@
     "location": "GOZ",
     "name": "Gorazde",
     "nameWoDiacritics": "Gorazde",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 43.666666666666664,
-      "lon": 2.416666666666667
+      "lon": 18.983333333333334
     }
   },
   {
@@ -400,14 +401,14 @@
     "name": "Gornji Vakuf-Uskoplje",
     "nameWoDiacritics": "Gornji Vakuf-Uskoplje",
     "subdivision": 6,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 43.93333333333333,
-      "lon": 2.216666666666667
+      "lon": 17.583333333333332
     }
   },
   {
@@ -416,14 +417,14 @@
     "name": "Gracanica",
     "nameWoDiacritics": "Gracanica",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1607,
     "coordinates": {
       "lat": 44.7,
-      "lon": 2.35
+      "lon": 18.3
     }
   },
   {
@@ -432,14 +433,14 @@
     "name": "Gradacac",
     "nameWoDiacritics": "Gradacac",
     "subdivision": 10,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 44.86666666666667,
-      "lon": 2.3666666666666667
+      "lon": 18.416666666666668
     }
   },
   {
@@ -448,14 +449,14 @@
     "name": "Gradiska",
     "nameWoDiacritics": "Gradiska",
     "subdivision": "SRP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 501,
     "coordinates": {
       "lat": 45.13333333333333,
-      "lon": 2.1833333333333336
+      "lon": 17.25
     }
   },
   {
@@ -463,14 +464,14 @@
     "location": "GRU",
     "name": "Grude",
     "nameWoDiacritics": "Grude",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 43.35,
-      "lon": 2.2
+      "lon": 17.416666666666668
     }
   },
   {
@@ -478,14 +479,14 @@
     "location": "HDC",
     "name": "Hadzici",
     "nameWoDiacritics": "Hadzici",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 44.4,
-      "lon": 2.416666666666667
+      "lon": 18.833333333333332
     }
   },
   {
@@ -494,14 +495,14 @@
     "name": "Hresa",
     "nameWoDiacritics": "Hresa",
     "subdivision": "SRP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 501,
     "coordinates": {
       "lat": 43.86666666666667,
-      "lon": 2.3666666666666667
+      "lon": 18.483333333333334
     }
   },
   {
@@ -509,7 +510,7 @@
     "location": "JBA",
     "name": "Jablanica",
     "nameWoDiacritics": "Jablanica",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -517,7 +518,7 @@
     "date": 1201,
     "coordinates": {
       "lat": 43.65,
-      "lon": 2.2333333333333334
+      "lon": 17.75
     }
   },
   {
@@ -525,14 +526,14 @@
     "location": "JAJ",
     "name": "Jajce",
     "nameWoDiacritics": "Jajce",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 901,
     "coordinates": {
       "lat": 40.333333333333336,
-      "lon": 2.1833333333333336
+      "lon": 17.25
     }
   },
   {
@@ -541,14 +542,14 @@
     "name": "Kacuni",
     "nameWoDiacritics": "Kacuni",
     "subdivision": 7,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 44.05,
-      "lon": 2.25
+      "lon": 17.933333333333334
     }
   },
   {
@@ -557,14 +558,14 @@
     "name": "Kakanj",
     "nameWoDiacritics": "Kakanj",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 44.11666666666667,
-      "lon": 2.333333333333333
+      "lon": 18.116666666666667
     }
   },
   {
@@ -573,14 +574,14 @@
     "name": "Kalesija",
     "nameWoDiacritics": "Kalesija",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 407,
     "coordinates": {
       "lat": 44.43333333333333,
-      "lon": 2.416666666666667
+      "lon": 18.9
     }
   },
   {
@@ -589,14 +590,14 @@
     "name": "Kiseljak",
     "nameWoDiacritics": "Kiseljak",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 407,
     "coordinates": {
       "lat": 43.93333333333333,
-      "lon": 2.333333333333333
+      "lon": 18.066666666666666
     }
   },
   {
@@ -605,14 +606,14 @@
     "name": "Kladanj",
     "nameWoDiacritics": "Kladanj",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1607,
     "coordinates": {
       "lat": 44.21666666666667,
-      "lon": 2.4
+      "lon": 18.683333333333334
     }
   },
   {
@@ -620,14 +621,14 @@
     "location": "KLJ",
     "name": "Kljuc",
     "nameWoDiacritics": "Kljuc",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 601,
     "coordinates": {
       "lat": 43.95,
-      "lon": 2.333333333333333
+      "lon": 18.083333333333332
     }
   },
   {
@@ -636,7 +637,7 @@
     "name": "Konjic",
     "nameWoDiacritics": "Konjic",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -644,7 +645,7 @@
     "date": 407,
     "coordinates": {
       "lat": 43.61666666666667,
-      "lon": 2.25
+      "lon": 17.966666666666665
     }
   },
   {
@@ -653,14 +654,14 @@
     "name": "Kresevo",
     "nameWoDiacritics": "Kresevo",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 407,
     "coordinates": {
       "lat": 43.85,
-      "lon": 2.333333333333333
+      "lon": 18.033333333333335
     }
   },
   {
@@ -668,14 +669,14 @@
     "location": "KNU",
     "name": "Krupa na Uni",
     "nameWoDiacritics": "Krupa na Uni",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 44.86666666666667,
-      "lon": 2
+      "lon": 16.15
     }
   },
   {
@@ -684,14 +685,14 @@
     "name": "Laktasi",
     "nameWoDiacritics": "Laktasi",
     "subdivision": "SRP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 407,
     "coordinates": {
       "lat": 44.9,
-      "lon": 2.1833333333333336
+      "lon": 17.3
     }
   },
   {
@@ -700,14 +701,14 @@
     "name": "Livno",
     "nameWoDiacritics": "Livno",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 501,
     "coordinates": {
       "lat": 43.81666666666667,
-      "lon": 2.166666666666667
+      "lon": 17
     }
   },
   {
@@ -716,14 +717,14 @@
     "name": "Ljubuski",
     "nameWoDiacritics": "Ljubuski",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 407,
     "coordinates": {
       "lat": 43.18333333333333,
-      "lon": 2.216666666666667
+      "lon": 17.533333333333335
     }
   },
   {
@@ -731,14 +732,14 @@
     "location": "LKV",
     "name": "Lukavac",
     "nameWoDiacritics": "Lukavac",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 44.766666666666666,
-      "lon": 2.416666666666667
+      "lon": 18.883333333333333
     }
   },
   {
@@ -747,7 +748,7 @@
     "name": "Maglaj",
     "nameWoDiacritics": "Maglaj",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -756,7 +757,7 @@
     "date": 501,
     "coordinates": {
       "lat": 44.53333333333333,
-      "lon": 2.333333333333333
+      "lon": 18.083333333333332
     }
   },
   {
@@ -765,7 +766,7 @@
     "name": "Matuzici",
     "nameWoDiacritics": "Matuzici",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -773,7 +774,7 @@
     "date": 407,
     "coordinates": {
       "lat": 44.68333333333333,
-      "lon": 2.333333333333333
+      "lon": 18.05
     }
   },
   {
@@ -782,14 +783,14 @@
     "name": "Medugorje",
     "nameWoDiacritics": "Medugorje",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 501,
     "coordinates": {
       "lat": 43.18333333333333,
-      "lon": 2.2333333333333334
+      "lon": 17.666666666666668
     }
   },
   {
@@ -797,7 +798,7 @@
     "location": "MOD",
     "name": "Modrica",
     "nameWoDiacritics": "Modrica",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -805,7 +806,7 @@
     "date": 601,
     "coordinates": {
       "lat": 44.95,
-      "lon": 2.35
+      "lon": 18.283333333333335
     }
   },
   {
@@ -813,7 +814,7 @@
     "location": "OMO",
     "name": "Mostar",
     "nameWoDiacritics": "Mostar",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -828,7 +829,7 @@
     "location": "MRA",
     "name": "Mravnjac",
     "nameWoDiacritics": "Mravnjac",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -836,7 +837,7 @@
     "date": 701,
     "coordinates": {
       "lat": 43.63333333333333,
-      "lon": 2.416666666666667
+      "lon": 18.933333333333334
     }
   },
   {
@@ -845,14 +846,14 @@
     "name": "Mrkonji Grad",
     "nameWoDiacritics": "Mrkonji Grad",
     "subdivision": "SRP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 407,
     "coordinates": {
       "lat": 44.4,
-      "lon": 2.166666666666667
+      "lon": 17.083333333333332
     }
   },
   {
@@ -860,7 +861,7 @@
     "location": "NEM",
     "name": "Neum",
     "nameWoDiacritics": "Neum",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -868,7 +869,7 @@
     "date": 1201,
     "coordinates": {
       "lat": 42.916666666666664,
-      "lon": 2.216666666666667
+      "lon": 17.616666666666667
     }
   },
   {
@@ -877,14 +878,14 @@
     "name": "Nevesinje",
     "nameWoDiacritics": "Nevesinje",
     "subdivision": "SRP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1401,
     "coordinates": {
       "lat": 43.25,
-      "lon": 2.333333333333333
+      "lon": 18.1
     }
   },
   {
@@ -892,14 +893,14 @@
     "location": "ORA",
     "name": "Orasje",
     "nameWoDiacritics": "Orasje",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
     "date": 1007,
     "coordinates": {
       "lat": 45.03333333333333,
-      "lon": 2.4
+      "lon": 18.7
     }
   },
   {
@@ -908,14 +909,14 @@
     "name": "Osmaci",
     "nameWoDiacritics": "Osmaci",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1807,
     "coordinates": {
       "lat": 44.4,
-      "lon": 2.416666666666667
+      "lon": 18.9
     }
   },
   {
@@ -924,14 +925,14 @@
     "name": "Ozimica",
     "nameWoDiacritics": "Ozimica",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1701,
     "coordinates": {
       "lat": 44.46666666666667,
-      "lon": 2.333333333333333
+      "lon": 18.033333333333335
     }
   },
   {
@@ -940,14 +941,14 @@
     "name": "Pale",
     "nameWoDiacritics": "Pale",
     "subdivision": "SRP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1707,
     "coordinates": {
       "lat": 43.8,
-      "lon": 2.3833333333333333
+      "lon": 18.566666666666666
     }
   },
   {
@@ -956,14 +957,14 @@
     "name": "Perduhovo Selo",
     "nameWoDiacritics": "Perduhovo Selo",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 501,
     "coordinates": {
       "lat": 44.166666666666664,
-      "lon": 2.0666666666666664
+      "lon": 16.8
     }
   },
   {
@@ -972,14 +973,14 @@
     "name": "Posusje",
     "nameWoDiacritics": "Posusje",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 501,
     "coordinates": {
       "lat": 43.46666666666667,
-      "lon": 2.1833333333333336
+      "lon": 17.316666666666666
     }
   },
   {
@@ -988,7 +989,7 @@
     "name": "Prijedor",
     "nameWoDiacritics": "Prijedor",
     "subdivision": "SRP",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -996,7 +997,7 @@
     "date": 407,
     "coordinates": {
       "lat": 44.96666666666667,
-      "lon": 2.0666666666666664
+      "lon": 16.7
     }
   },
   {
@@ -1004,7 +1005,7 @@
     "location": "PJR",
     "name": "Prnjavor",
     "nameWoDiacritics": "Prnjavor",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1020,7 +1021,7 @@
     "name": "Rajlovac",
     "nameWoDiacritics": "Rajlovac",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -1029,7 +1030,7 @@
     "date": 401,
     "coordinates": {
       "lat": 43.86666666666667,
-      "lon": 2.35
+      "lon": 18.3
     }
   },
   {
@@ -1037,7 +1038,7 @@
     "location": "SMT",
     "name": "Sanski Most",
     "nameWoDiacritics": "Sanski Most",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -1045,7 +1046,7 @@
     "date": 1201,
     "coordinates": {
       "lat": 44.766666666666666,
-      "lon": 2.0666666666666664
+      "lon": 16.666666666666668
     }
   },
   {
@@ -1054,7 +1055,7 @@
     "name": "Sarajevo",
     "nameWoDiacritics": "Sarajevo",
     "subdivision": 9,
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -1062,7 +1063,7 @@
     "date": 1207,
     "coordinates": {
       "lat": 43.85,
-      "lon": 2.3666666666666667
+      "lon": 18.383333333333333
     }
   },
   {
@@ -1071,14 +1072,14 @@
     "name": "Sekovici",
     "nameWoDiacritics": "Sekovici",
     "subdivision": "SRP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 407,
     "coordinates": {
       "lat": 44.28333333333333,
-      "lon": 2.416666666666667
+      "lon": 18.85
     }
   },
   {
@@ -1087,14 +1088,14 @@
     "name": "Siroki Brijeg",
     "nameWoDiacritics": "Siroki Brijeg",
     "subdivision": "SRP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 43.35,
-      "lon": 2.416666666666667
+      "lon": 18.883333333333333
     }
   },
   {
@@ -1103,14 +1104,14 @@
     "name": "Srebrenica",
     "nameWoDiacritics": "Srebrenica",
     "subdivision": "SRP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": 44.1,
-      "lon": 2.5166666666666666
+      "lon": 19.3
     }
   },
   {
@@ -1118,14 +1119,14 @@
     "location": "SRB",
     "name": "Srebrenik",
     "nameWoDiacritics": "Srebrenik",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 44.7,
-      "lon": 2.3666666666666667
+      "lon": 18.483333333333334
     }
   },
   {
@@ -1134,14 +1135,14 @@
     "name": "Srpsko Orasje",
     "nameWoDiacritics": "Srpsko Orasje",
     "subdivision": "SRP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 407,
     "coordinates": {
       "lat": 44.93333333333333,
-      "lon": 2.3833333333333333
+      "lon": 18.633333333333333
     }
   },
   {
@@ -1150,7 +1151,7 @@
     "name": "Stijena",
     "nameWoDiacritics": "Stijena",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1158,7 +1159,7 @@
     "date": 407,
     "coordinates": {
       "lat": 44.93333333333333,
-      "lon": 2
+      "lon": 16.016666666666666
     }
   },
   {
@@ -1167,14 +1168,14 @@
     "name": "Stolac",
     "nameWoDiacritics": "Stolac",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1801,
     "coordinates": {
       "lat": 43.083333333333336,
-      "lon": 2.25
+      "lon": 17.95
     }
   },
   {
@@ -1182,14 +1183,14 @@
     "location": "SUH",
     "name": "Suha",
     "nameWoDiacritics": "Suha",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 44.3,
-      "lon": 2.4
+      "lon": 18.733333333333334
     }
   },
   {
@@ -1198,14 +1199,14 @@
     "name": "Tesanj",
     "nameWoDiacritics": "Tesanj",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 407,
     "coordinates": {
       "lat": 44.6,
-      "lon": 2.25
+      "lon": 17.983333333333334
     }
   },
   {
@@ -1214,14 +1215,14 @@
     "name": "Teslic",
     "nameWoDiacritics": "Teslic",
     "subdivision": "SRP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 407,
     "coordinates": {
       "lat": 44.6,
-      "lon": 2.25
+      "lon": 17.85
     }
   },
   {
@@ -1229,14 +1230,14 @@
     "location": "TIH",
     "name": "Tihaljina",
     "nameWoDiacritics": "Tihaljina",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 43.31666666666667,
-      "lon": 2.2
+      "lon": 17.366666666666667
     }
   },
   {
@@ -1244,14 +1245,14 @@
     "location": "TOM",
     "name": "Tomislavgrad",
     "nameWoDiacritics": "Tomislavgrad",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 43.71666666666667,
-      "lon": 2.1833333333333336
+      "lon": 17.233333333333334
     }
   },
   {
@@ -1259,14 +1260,14 @@
     "location": "TNK",
     "name": "Travnik",
     "nameWoDiacritics": "Travnik",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 901,
     "coordinates": {
       "lat": 44.21666666666667,
-      "lon": 2.2333333333333334
+      "lon": 17.666666666666668
     }
   },
   {
@@ -1274,14 +1275,14 @@
     "location": "TBJ",
     "name": "Trebinje",
     "nameWoDiacritics": "Trebinje",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 42.7,
-      "lon": 2.3666666666666667
+      "lon": 18.333333333333332
     }
   },
   {
@@ -1289,7 +1290,7 @@
     "location": "TZL",
     "name": "Tuzla",
     "nameWoDiacritics": "Tuzla",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -1298,7 +1299,7 @@
     "date": 101,
     "coordinates": {
       "lat": 44.53333333333333,
-      "lon": 2.4
+      "lon": 18.666666666666668
     }
   },
   {
@@ -1306,7 +1307,7 @@
     "location": "UJV",
     "name": "Ugljevik",
     "nameWoDiacritics": "Ugljevik",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1321,14 +1322,14 @@
     "location": "VKB",
     "name": "Velika Kladusa",
     "nameWoDiacritics": "Velika Kladusa",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 45.18333333333333,
-      "lon": 1.9
+      "lon": 15.8
     }
   },
   {
@@ -1337,14 +1338,14 @@
     "name": "Visoko",
     "nameWoDiacritics": "Visoko",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": 43.983333333333334,
-      "lon": 2.35
+      "lon": 18.183333333333334
     }
   },
   {
@@ -1352,14 +1353,14 @@
     "location": "VIT",
     "name": "Vitez",
     "nameWoDiacritics": "Vitez",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 507,
     "coordinates": {
       "lat": 44.15,
-      "lon": 2.2333333333333334
+      "lon": 17.766666666666666
     }
   },
   {
@@ -1367,7 +1368,7 @@
     "location": "VGS",
     "name": "Vogosca",
     "nameWoDiacritics": "Vogosca",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -1375,7 +1376,7 @@
     "date": 1201,
     "coordinates": {
       "lat": 43.9,
-      "lon": 2.3666666666666667
+      "lon": 18.35
     }
   },
   {
@@ -1384,14 +1385,14 @@
     "name": "Zavidovici",
     "nameWoDiacritics": "Zavidovici",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 44.43333333333333,
-      "lon": 2.333333333333333
+      "lon": 18.133333333333333
     }
   },
   {
@@ -1399,7 +1400,7 @@
     "location": "ZCA",
     "name": "Zenica",
     "nameWoDiacritics": "Zenica",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1415,14 +1416,14 @@
     "name": "Zepce",
     "nameWoDiacritics": "Zepce",
     "subdivision": "BIH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 44.416666666666664,
-      "lon": 2.333333333333333
+      "lon": 18.016666666666666
     }
   },
   {
@@ -1430,7 +1431,7 @@
     "location": "ZNK",
     "name": "Zvornik",
     "nameWoDiacritics": "Zvornik",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -1439,7 +1440,7 @@
     "date": 601,
     "coordinates": {
       "lat": 44.38333333333333,
-      "lon": 2.5
+      "lon": 19.1
     }
   }
 ]

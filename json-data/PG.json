@@ -6,7 +6,7 @@
     "name": ".PAPUA NEW GUINEA",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Abau",
     "nameWoDiacritics": "Abau",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -43,7 +43,7 @@
     "name": "Admiralty Island = Manus Island",
     "nameWoDiacritics": "Admiralty Island = Manus Island",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -60,7 +60,7 @@
     "name": "Afore",
     "nameWoDiacritics": "Afore",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -79,7 +79,7 @@
     "name": "Agaun",
     "nameWoDiacritics": "Agaun",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -98,7 +98,7 @@
     "name": "Ahioma",
     "nameWoDiacritics": "Ahioma",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -117,7 +117,7 @@
     "name": "Aiambak",
     "nameWoDiacritics": "Aiambak",
     "subdivision": "WPD",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -125,7 +125,7 @@
     "iata": "",
     "coordinates": {
       "lat": -7.35,
-      "lon": 14.183333333333334
+      "lon": 141.26666666666668
     },
     "remarks": ""
   },
@@ -136,7 +136,7 @@
     "name": "Aiome",
     "nameWoDiacritics": "Aiome",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -155,7 +155,7 @@
     "name": "Aitape",
     "nameWoDiacritics": "Aitape",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -174,7 +174,7 @@
     "name": "Aiyura",
     "nameWoDiacritics": "Aiyura",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -193,7 +193,7 @@
     "name": "Akinum",
     "nameWoDiacritics": "Akinum",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -212,7 +212,7 @@
     "name": "Alcester Island",
     "nameWoDiacritics": "Alcester Island",
     "subdivision": "MBA",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -220,7 +220,7 @@
     "iata": "",
     "coordinates": {
       "lat": -9.566666666666666,
-      "lon": 15.366666666666667
+      "lon": 152.45
     },
     "remarks": ""
   },
@@ -231,7 +231,7 @@
     "name": "Alotau",
     "nameWoDiacritics": "Alotau",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -251,7 +251,7 @@
     "name": "Ama",
     "nameWoDiacritics": "Ama",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -270,7 +270,7 @@
     "name": "Amanab",
     "nameWoDiacritics": "Amanab",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -289,7 +289,7 @@
     "name": "Amazon Bay",
     "nameWoDiacritics": "Amazon Bay",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -308,7 +308,7 @@
     "name": "Amboin",
     "nameWoDiacritics": "Amboin",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -327,7 +327,7 @@
     "name": "Ambunti",
     "nameWoDiacritics": "Ambunti",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -346,7 +346,7 @@
     "name": "Amio",
     "nameWoDiacritics": "Amio",
     "subdivision": "EBR",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -354,7 +354,7 @@
     "iata": "",
     "coordinates": {
       "lat": -6.116666666666666,
-      "lon": 15.066666666666666
+      "lon": 150.75
     },
     "remarks": ""
   },
@@ -365,7 +365,7 @@
     "name": "Andakombe",
     "nameWoDiacritics": "Andakombe",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -373,7 +373,7 @@
     "iata": "",
     "coordinates": {
       "lat": -7.133333333333334,
-      "lon": 14.9
+      "lon": 145.73333333333332
     },
     "remarks": ""
   },
@@ -384,7 +384,7 @@
     "name": "Anewa Bay",
     "nameWoDiacritics": "Anewa Bay",
     "subdivision": "NSB",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -392,7 +392,7 @@
     "iata": "",
     "coordinates": {
       "lat": -6.2,
-      "lon": 15.883333333333333
+      "lon": 155.55
     },
     "remarks": ""
   },
@@ -403,7 +403,7 @@
     "name": "Angoram",
     "nameWoDiacritics": "Angoram",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -422,7 +422,7 @@
     "name": "Anguganak",
     "nameWoDiacritics": "Anguganak",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -441,7 +441,7 @@
     "name": "Annanberg",
     "nameWoDiacritics": "Annanberg",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -460,7 +460,7 @@
     "name": "April River",
     "nameWoDiacritics": "April River",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -479,7 +479,7 @@
     "name": "Aragip",
     "nameWoDiacritics": "Aragip",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -498,7 +498,7 @@
     "name": "Arawa",
     "nameWoDiacritics": "Arawa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -507,7 +507,7 @@
     "iata": "",
     "coordinates": {
       "lat": -6.216666666666667,
-      "lon": 15.883333333333333
+      "lon": 155.55
     },
     "remarks": "IMPC"
   },
@@ -518,7 +518,7 @@
     "name": "Aroa",
     "nameWoDiacritics": "Aroa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -537,7 +537,7 @@
     "name": "Arona",
     "nameWoDiacritics": "Arona",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -556,7 +556,7 @@
     "name": "Asapa",
     "nameWoDiacritics": "Asapa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -575,7 +575,7 @@
     "name": "Aseki",
     "nameWoDiacritics": "Aseki",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -594,7 +594,7 @@
     "name": "Asirim",
     "nameWoDiacritics": "Asirim",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -613,7 +613,7 @@
     "name": "Atkamba",
     "nameWoDiacritics": "Atkamba",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -632,7 +632,7 @@
     "name": "Aua Island",
     "nameWoDiacritics": "Aua Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -651,7 +651,7 @@
     "name": "Aumo",
     "nameWoDiacritics": "Aumo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -670,7 +670,7 @@
     "name": "Awaba",
     "nameWoDiacritics": "Awaba",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -689,7 +689,7 @@
     "name": "Awar",
     "nameWoDiacritics": "Awar",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -708,7 +708,7 @@
     "name": "Baibara",
     "nameWoDiacritics": "Baibara",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -727,7 +727,7 @@
     "name": "Baimuru",
     "nameWoDiacritics": "Baimuru",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -746,7 +746,7 @@
     "name": "Baindoung",
     "nameWoDiacritics": "Baindoung",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -765,7 +765,7 @@
     "name": "Bali",
     "nameWoDiacritics": "Bali",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -784,7 +784,7 @@
     "name": "Balimo",
     "nameWoDiacritics": "Balimo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -803,7 +803,7 @@
     "name": "Bambu",
     "nameWoDiacritics": "Bambu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -822,7 +822,7 @@
     "name": "Bamu",
     "nameWoDiacritics": "Bamu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -841,7 +841,7 @@
     "name": "Banz",
     "nameWoDiacritics": "Banz",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -860,7 +860,7 @@
     "name": "Bapi",
     "nameWoDiacritics": "Bapi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -879,7 +879,7 @@
     "name": "Bawan",
     "nameWoDiacritics": "Bawan",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -898,7 +898,7 @@
     "name": "Bensbach",
     "nameWoDiacritics": "Bensbach",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -917,7 +917,7 @@
     "name": "Bereina",
     "nameWoDiacritics": "Bereina",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -936,7 +936,7 @@
     "name": "Bewani",
     "nameWoDiacritics": "Bewani",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -955,7 +955,7 @@
     "name": "Bialla",
     "nameWoDiacritics": "Bialla",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -974,7 +974,7 @@
     "name": "Biangabip",
     "nameWoDiacritics": "Biangabip",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -982,7 +982,7 @@
     "iata": "",
     "coordinates": {
       "lat": -6.066666666666666,
-      "lon": 14.75
+      "lon": 144.93333333333334
     },
     "remarks": ""
   },
@@ -993,7 +993,7 @@
     "name": "Biaru",
     "nameWoDiacritics": "Biaru",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1012,7 +1012,7 @@
     "name": "Biliau",
     "nameWoDiacritics": "Biliau",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1031,7 +1031,7 @@
     "name": "Bimin",
     "nameWoDiacritics": "Bimin",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1050,7 +1050,7 @@
     "name": "Biniguni",
     "nameWoDiacritics": "Biniguni",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1069,7 +1069,7 @@
     "name": "Boana",
     "nameWoDiacritics": "Boana",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1088,7 +1088,7 @@
     "name": "Boang",
     "nameWoDiacritics": "Boang",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1107,7 +1107,7 @@
     "name": "Bodinumu",
     "nameWoDiacritics": "Bodinumu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1126,7 +1126,7 @@
     "name": "Boigu Island",
     "nameWoDiacritics": "Boigu Island",
     "subdivision": "WPD",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -1134,7 +1134,7 @@
     "iata": "",
     "coordinates": {
       "lat": -9.266666666666667,
-      "lon": 14.35
+      "lon": 142.21666666666667
     },
     "remarks": ""
   },
@@ -1145,7 +1145,7 @@
     "name": "Boku",
     "nameWoDiacritics": "Boku",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1164,7 +1164,7 @@
     "name": "Bolovip",
     "nameWoDiacritics": "Bolovip",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1183,7 +1183,7 @@
     "name": "Bomai",
     "nameWoDiacritics": "Bomai",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1202,7 +1202,7 @@
     "name": "Boridi",
     "nameWoDiacritics": "Boridi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1221,7 +1221,7 @@
     "name": "Boroko",
     "nameWoDiacritics": "Boroko",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       4
@@ -1241,7 +1241,7 @@
     "name": "Boset",
     "nameWoDiacritics": "Boset",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1260,7 +1260,7 @@
     "name": "Brahman",
     "nameWoDiacritics": "Brahman",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1279,7 +1279,7 @@
     "name": "Buin",
     "nameWoDiacritics": "Buin",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1298,7 +1298,7 @@
     "name": "Buka",
     "nameWoDiacritics": "Buka",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -1318,7 +1318,7 @@
     "name": "Bulolo",
     "nameWoDiacritics": "Bulolo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1337,7 +1337,7 @@
     "name": "Buna",
     "nameWoDiacritics": "Buna",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -1356,7 +1356,7 @@
     "name": "Bundi",
     "nameWoDiacritics": "Bundi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1375,7 +1375,7 @@
     "name": "Bunsil",
     "nameWoDiacritics": "Bunsil",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1394,7 +1394,7 @@
     "name": "Cape Gloucester",
     "nameWoDiacritics": "Cape Gloucester",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1413,7 +1413,7 @@
     "name": "Cape Orford",
     "nameWoDiacritics": "Cape Orford",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1432,7 +1432,7 @@
     "name": "Cape Rodney",
     "nameWoDiacritics": "Cape Rodney",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1451,7 +1451,7 @@
     "name": "Cape Vogel",
     "nameWoDiacritics": "Cape Vogel",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1470,7 +1470,7 @@
     "name": "Caution Bay",
     "nameWoDiacritics": "Caution Bay",
     "subdivision": "CPM",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -1478,7 +1478,7 @@
     "iata": "",
     "coordinates": {
       "lat": -9.333333333333334,
-      "lon": 15.083333333333334
+      "lon": 146.93333333333334
     },
     "remarks": ""
   },
@@ -1489,7 +1489,7 @@
     "name": "Chungribu",
     "nameWoDiacritics": "Chungribu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1508,7 +1508,7 @@
     "name": "Conflict Group",
     "nameWoDiacritics": "Conflict Group",
     "subdivision": "MBA",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -1516,7 +1516,7 @@
     "iata": "",
     "coordinates": {
       "lat": -10.783333333333333,
-      "lon": 15.233333333333333
+      "lon": 151.8
     },
     "remarks": ""
   },
@@ -1527,7 +1527,7 @@
     "name": "Dabo",
     "nameWoDiacritics": "Dabo",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -1535,7 +1535,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.133333333333333,
-      "lon": 4.35
+      "lon": 42.166666666666664
     },
     "remarks": ""
   },
@@ -1546,7 +1546,7 @@
     "name": "Dalbertis",
     "nameWoDiacritics": "Dalbertis",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1565,7 +1565,7 @@
     "name": "Daru",
     "nameWoDiacritics": "Daru",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -1585,7 +1585,7 @@
     "name": "Daugo",
     "nameWoDiacritics": "Daugo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1604,7 +1604,7 @@
     "name": "Daup",
     "nameWoDiacritics": "Daup",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1623,7 +1623,7 @@
     "name": "Debepare",
     "nameWoDiacritics": "Debepare",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1642,7 +1642,7 @@
     "name": "Deboyne Lagoon",
     "nameWoDiacritics": "Deboyne Lagoon",
     "subdivision": "MBA",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -1650,7 +1650,7 @@
     "iata": "",
     "coordinates": {
       "lat": -10.783333333333333,
-      "lon": 15.366666666666667
+      "lon": 152.4
     },
     "remarks": ""
   },
@@ -1661,7 +1661,7 @@
     "name": "Derim",
     "nameWoDiacritics": "Derim",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1680,7 +1680,7 @@
     "name": "Dinangat",
     "nameWoDiacritics": "Dinangat",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1699,7 +1699,7 @@
     "name": "Dios",
     "nameWoDiacritics": "Dios",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1718,7 +1718,7 @@
     "name": "Dodoima",
     "nameWoDiacritics": "Dodoima",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1737,7 +1737,7 @@
     "name": "Doini",
     "nameWoDiacritics": "Doini",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1756,7 +1756,7 @@
     "name": "Dorobisoro",
     "nameWoDiacritics": "Dorobisoro",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1775,7 +1775,7 @@
     "name": "Dumpu",
     "nameWoDiacritics": "Dumpu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1794,7 +1794,7 @@
     "name": "Efogi",
     "nameWoDiacritics": "Efogi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1813,7 +1813,7 @@
     "name": "Eia",
     "nameWoDiacritics": "Eia",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1832,7 +1832,7 @@
     "name": "Eliptamin",
     "nameWoDiacritics": "Eliptamin",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1851,7 +1851,7 @@
     "name": "Embessa",
     "nameWoDiacritics": "Embessa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1870,7 +1870,7 @@
     "name": "Emirau",
     "nameWoDiacritics": "Emirau",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1889,7 +1889,7 @@
     "name": "Emo",
     "nameWoDiacritics": "Emo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1908,7 +1908,7 @@
     "name": "Engati",
     "nameWoDiacritics": "Engati",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1927,7 +1927,7 @@
     "name": "Erave",
     "nameWoDiacritics": "Erave",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1946,7 +1946,7 @@
     "name": "Erume",
     "nameWoDiacritics": "Erume",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1965,7 +1965,7 @@
     "name": "Esa'ala",
     "nameWoDiacritics": "Esa'ala",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1984,7 +1984,7 @@
     "name": "Fane",
     "nameWoDiacritics": "Fane",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2003,7 +2003,7 @@
     "name": "Feramin",
     "nameWoDiacritics": "Feramin",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2022,7 +2022,7 @@
     "name": "Finschhafen",
     "nameWoDiacritics": "Finschhafen",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -2042,7 +2042,7 @@
     "name": "Freida River",
     "nameWoDiacritics": "Freida River",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2061,7 +2061,7 @@
     "name": "Fulleborn",
     "nameWoDiacritics": "Fulleborn",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -2081,7 +2081,7 @@
     "name": "Fuma",
     "nameWoDiacritics": "Fuma",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2100,7 +2100,7 @@
     "name": "Garaina",
     "nameWoDiacritics": "Garaina",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2119,7 +2119,7 @@
     "name": "Garasa",
     "nameWoDiacritics": "Garasa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2138,7 +2138,7 @@
     "name": "Garuahi",
     "nameWoDiacritics": "Garuahi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2157,7 +2157,7 @@
     "name": "Gasmata Island",
     "nameWoDiacritics": "Gasmata Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -2177,7 +2177,7 @@
     "name": "Gasuke",
     "nameWoDiacritics": "Gasuke",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2196,7 +2196,7 @@
     "name": "Gawa Island",
     "nameWoDiacritics": "Gawa Island",
     "subdivision": "MBA",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -2204,7 +2204,7 @@
     "iata": "",
     "coordinates": {
       "lat": -8.966666666666667,
-      "lon": 15.25
+      "lon": 151.98333333333332
     },
     "remarks": ""
   },
@@ -2215,7 +2215,7 @@
     "name": "Gewoia",
     "nameWoDiacritics": "Gewoia",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2234,7 +2234,7 @@
     "name": "Gilau",
     "nameWoDiacritics": "Gilau",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -2253,7 +2253,7 @@
     "name": "Gnarowein",
     "nameWoDiacritics": "Gnarowein",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2272,7 +2272,7 @@
     "name": "Gonalia",
     "nameWoDiacritics": "Gonalia",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2291,7 +2291,7 @@
     "name": "Gora",
     "nameWoDiacritics": "Gora",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2310,7 +2310,7 @@
     "name": "Goroka",
     "nameWoDiacritics": "Goroka",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2329,7 +2329,7 @@
     "name": "Green Islands",
     "nameWoDiacritics": "Green Islands",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -2349,7 +2349,7 @@
     "name": "Green River",
     "nameWoDiacritics": "Green River",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2368,7 +2368,7 @@
     "name": "Guari",
     "nameWoDiacritics": "Guari",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2387,7 +2387,7 @@
     "name": "Guasopa",
     "nameWoDiacritics": "Guasopa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2406,7 +2406,7 @@
     "name": "Gulgubip",
     "nameWoDiacritics": "Gulgubip",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2425,7 +2425,7 @@
     "name": "Guriaso",
     "nameWoDiacritics": "Guriaso",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2444,7 +2444,7 @@
     "name": "Gusap",
     "nameWoDiacritics": "Gusap",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2463,7 +2463,7 @@
     "name": "Habi",
     "nameWoDiacritics": "Habi",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -2471,7 +2471,7 @@
     "iata": "",
     "coordinates": {
       "lat": -6.283333333333333,
-      "lon": 14.866666666666667
+      "lon": 145.36666666666667
     },
     "remarks": ""
   },
@@ -2482,7 +2482,7 @@
     "name": "Haelogo",
     "nameWoDiacritics": "Haelogo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2501,7 +2501,7 @@
     "name": "Hatzfeldthaven",
     "nameWoDiacritics": "Hatzfeldthaven",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2520,7 +2520,7 @@
     "name": "Hawabango",
     "nameWoDiacritics": "Hawabango",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2539,7 +2539,7 @@
     "name": "Hayfields",
     "nameWoDiacritics": "Hayfields",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2558,7 +2558,7 @@
     "name": "Heiweni",
     "nameWoDiacritics": "Heiweni",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2577,7 +2577,7 @@
     "name": "Hivaro",
     "nameWoDiacritics": "Hivaro",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2596,7 +2596,7 @@
     "name": "Honinabi",
     "nameWoDiacritics": "Honinabi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2615,7 +2615,7 @@
     "name": "Hoskins",
     "nameWoDiacritics": "Hoskins",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -2635,7 +2635,7 @@
     "name": "Iamalele",
     "nameWoDiacritics": "Iamalele",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2654,7 +2654,7 @@
     "name": "Iaura",
     "nameWoDiacritics": "Iaura",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2673,7 +2673,7 @@
     "name": "Iboki",
     "nameWoDiacritics": "Iboki",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2692,7 +2692,7 @@
     "name": "Ihu",
     "nameWoDiacritics": "Ihu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2711,7 +2711,7 @@
     "name": "Ileg",
     "nameWoDiacritics": "Ileg",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2730,7 +2730,7 @@
     "name": "Imane",
     "nameWoDiacritics": "Imane",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2749,7 +2749,7 @@
     "name": "Imonda",
     "nameWoDiacritics": "Imonda",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2768,7 +2768,7 @@
     "name": "Indagen",
     "nameWoDiacritics": "Indagen",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2787,7 +2787,7 @@
     "name": "Inus",
     "nameWoDiacritics": "Inus",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2806,7 +2806,7 @@
     "name": "Iokea",
     "nameWoDiacritics": "Iokea",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2825,7 +2825,7 @@
     "name": "Ioma",
     "nameWoDiacritics": "Ioma",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2844,7 +2844,7 @@
     "name": "Itogama",
     "nameWoDiacritics": "Itogama",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -2853,7 +2853,7 @@
     "iata": "",
     "coordinates": {
       "lat": -9.183333333333334,
-      "lon": 15.35
+      "lon": 148.25
     },
     "remarks": ""
   },
@@ -2864,7 +2864,7 @@
     "name": "Jacksons",
     "nameWoDiacritics": "Jacksons",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -2883,7 +2883,7 @@
     "name": "Jacquinot Bay",
     "nameWoDiacritics": "Jacquinot Bay",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2902,7 +2902,7 @@
     "name": "Josephstaal",
     "nameWoDiacritics": "Josephstaal",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2921,7 +2921,7 @@
     "name": "Kabwum",
     "nameWoDiacritics": "Kabwum",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2940,7 +2940,7 @@
     "name": "Kagi",
     "nameWoDiacritics": "Kagi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2959,7 +2959,7 @@
     "name": "Kagua",
     "nameWoDiacritics": "Kagua",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2978,7 +2978,7 @@
     "name": "Kaiapit",
     "nameWoDiacritics": "Kaiapit",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2997,7 +2997,7 @@
     "name": "Kaibola",
     "nameWoDiacritics": "Kaibola",
     "subdivision": "MBA",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -3005,7 +3005,7 @@
     "iata": "",
     "coordinates": {
       "lat": -8.416666666666666,
-      "lon": 15.166666666666666
+      "lon": 151.1
     },
     "remarks": ""
   },
@@ -3016,7 +3016,7 @@
     "name": "Kaintiba",
     "nameWoDiacritics": "Kaintiba",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3035,7 +3035,7 @@
     "name": "Kairuku",
     "nameWoDiacritics": "Kairuku",
     "subdivision": "CPM",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -3044,7 +3044,7 @@
     "iata": "",
     "coordinates": {
       "lat": -8.833333333333334,
-      "lon": 15.05
+      "lon": 146.53333333333333
     },
     "remarks": "@Coo"
   },
@@ -3055,7 +3055,7 @@
     "name": "Kakapo",
     "nameWoDiacritics": "Kakapo",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -3074,7 +3074,7 @@
     "name": "Kalo",
     "nameWoDiacritics": "Kalo",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -3093,7 +3093,7 @@
     "name": "Kamberatoro",
     "nameWoDiacritics": "Kamberatoro",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3112,7 +3112,7 @@
     "name": "Kamina",
     "nameWoDiacritics": "Kamina",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3131,7 +3131,7 @@
     "name": "Kamiraba",
     "nameWoDiacritics": "Kamiraba",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3150,7 +3150,7 @@
     "name": "Kamulai",
     "nameWoDiacritics": "Kamulai",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3169,7 +3169,7 @@
     "name": "Kamusi",
     "nameWoDiacritics": "Kamusi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3188,7 +3188,7 @@
     "name": "Kanabea",
     "nameWoDiacritics": "Kanabea",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3207,7 +3207,7 @@
     "name": "Kanainj",
     "nameWoDiacritics": "Kanainj",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3226,7 +3226,7 @@
     "name": "Kandep",
     "nameWoDiacritics": "Kandep",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3245,7 +3245,7 @@
     "name": "Kandrian",
     "nameWoDiacritics": "Kandrian",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3264,7 +3264,7 @@
     "name": "Kanua",
     "nameWoDiacritics": "Kanua",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3283,7 +3283,7 @@
     "name": "Kapal",
     "nameWoDiacritics": "Kapal",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -3291,7 +3291,7 @@
     "iata": "",
     "coordinates": {
       "lat": -8.633333333333333,
-      "lon": 14.416666666666666
+      "lon": 142.85
     },
     "remarks": ""
   },
@@ -3302,7 +3302,7 @@
     "name": "Kar",
     "nameWoDiacritics": "Kar",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3321,7 +3321,7 @@
     "name": "Karato",
     "nameWoDiacritics": "Karato",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3340,7 +3340,7 @@
     "name": "Karawari",
     "nameWoDiacritics": "Karawari",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3359,7 +3359,7 @@
     "name": "Karimui",
     "nameWoDiacritics": "Karimui",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3378,7 +3378,7 @@
     "name": "Karkar Is",
     "nameWoDiacritics": "Karkar Is",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -3388,7 +3388,7 @@
     "iata": "",
     "coordinates": {
       "lat": -4.633333333333333,
-      "lon": 14.916666666666666
+      "lon": 145.96666666666667
     },
     "remarks": ""
   },
@@ -3399,7 +3399,7 @@
     "name": "Karoola",
     "nameWoDiacritics": "Karoola",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3418,7 +3418,7 @@
     "name": "Kasanombe",
     "nameWoDiacritics": "Kasanombe",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3437,7 +3437,7 @@
     "name": "Kavieng",
     "nameWoDiacritics": "Kavieng",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -3457,7 +3457,7 @@
     "name": "Kawito",
     "nameWoDiacritics": "Kawito",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3476,7 +3476,7 @@
     "name": "Keglsugl",
     "nameWoDiacritics": "Keglsugl",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3495,7 +3495,7 @@
     "name": "Kelanoa",
     "nameWoDiacritics": "Kelanoa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3514,7 +3514,7 @@
     "name": "Kerau",
     "nameWoDiacritics": "Kerau",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3533,7 +3533,7 @@
     "name": "Kerema",
     "nameWoDiacritics": "Kerema",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -3553,7 +3553,7 @@
     "name": "Kibuli",
     "nameWoDiacritics": "Kibuli",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -3561,7 +3561,7 @@
     "iata": "",
     "coordinates": {
       "lat": -8.883333333333333,
-      "lon": 14.4
+      "lon": 142.78333333333333
     },
     "remarks": ""
   },
@@ -3572,7 +3572,7 @@
     "name": "Kieta",
     "nameWoDiacritics": "Kieta",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -3592,7 +3592,7 @@
     "name": "Kikinonda",
     "nameWoDiacritics": "Kikinonda",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3611,7 +3611,7 @@
     "name": "Kikori",
     "nameWoDiacritics": "Kikori",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3630,7 +3630,7 @@
     "name": "Kimbe",
     "nameWoDiacritics": "Kimbe",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -3649,7 +3649,7 @@
     "name": "Kira",
     "nameWoDiacritics": "Kira",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3668,7 +3668,7 @@
     "name": "Kisengan",
     "nameWoDiacritics": "Kisengan",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3687,7 +3687,7 @@
     "name": "Kitava",
     "nameWoDiacritics": "Kitava",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3706,7 +3706,7 @@
     "name": "Kiunga",
     "nameWoDiacritics": "Kiunga",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -3726,7 +3726,7 @@
     "name": "Kiwai Island",
     "nameWoDiacritics": "Kiwai Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3745,7 +3745,7 @@
     "name": "Koinambe",
     "nameWoDiacritics": "Koinambe",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3764,7 +3764,7 @@
     "name": "Kokoda",
     "nameWoDiacritics": "Kokoda",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3783,7 +3783,7 @@
     "name": "Kokoro",
     "nameWoDiacritics": "Kokoro",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3802,7 +3802,7 @@
     "name": "Kol",
     "nameWoDiacritics": "Kol",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3821,7 +3821,7 @@
     "name": "Komaio",
     "nameWoDiacritics": "Komaio",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3840,7 +3840,7 @@
     "name": "Komako",
     "nameWoDiacritics": "Komako",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3859,7 +3859,7 @@
     "name": "Komo-Manda",
     "nameWoDiacritics": "Komo-Manda",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3878,7 +3878,7 @@
     "name": "Kompiam",
     "nameWoDiacritics": "Kompiam",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3897,7 +3897,7 @@
     "name": "Kondubol",
     "nameWoDiacritics": "Kondubol",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -3905,7 +3905,7 @@
     "iata": "",
     "coordinates": {
       "lat": -10.2,
-      "lon": 15.566666666666666
+      "lon": 149.7
     },
     "remarks": ""
   },
@@ -3916,7 +3916,7 @@
     "name": "Konge",
     "nameWoDiacritics": "Konge",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3935,7 +3935,7 @@
     "name": "Kopi",
     "nameWoDiacritics": "Kopi",
     "subdivision": "GPK",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -3943,7 +3943,7 @@
     "iata": "",
     "coordinates": {
       "lat": -7.3,
-      "lon": 14.683333333333334
+      "lon": 144.18333333333334
     },
     "remarks": ""
   },
@@ -3954,7 +3954,7 @@
     "name": "Kopiago",
     "nameWoDiacritics": "Kopiago",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3973,7 +3973,7 @@
     "name": "Koroba",
     "nameWoDiacritics": "Koroba",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3992,7 +3992,7 @@
     "name": "Kosipe",
     "nameWoDiacritics": "Kosipe",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4011,7 +4011,7 @@
     "name": "Kumul",
     "nameWoDiacritics": "Kumul",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       6
@@ -4020,7 +4020,7 @@
     "iata": "",
     "coordinates": {
       "lat": -8.1,
-      "lon": 14.716666666666667
+      "lon": 144.56666666666666
     },
     "remarks": ""
   },
@@ -4031,7 +4031,7 @@
     "name": "Kundiawa",
     "nameWoDiacritics": "Kundiawa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4050,7 +4050,7 @@
     "name": "Kungum",
     "nameWoDiacritics": "Kungum",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4069,7 +4069,7 @@
     "name": "Kupiano",
     "nameWoDiacritics": "Kupiano",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4088,7 +4088,7 @@
     "name": "Kuri",
     "nameWoDiacritics": "Kuri",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4107,7 +4107,7 @@
     "name": "Kurwina",
     "nameWoDiacritics": "Kurwina",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4126,7 +4126,7 @@
     "name": "Kuyol",
     "nameWoDiacritics": "Kuyol",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -4134,7 +4134,7 @@
     "iata": "",
     "coordinates": {
       "lat": 38.483333333333334,
-      "lon": 13
+      "lon": 126.03333333333333
     },
     "remarks": ""
   },
@@ -4145,7 +4145,7 @@
     "name": "Lablab",
     "nameWoDiacritics": "Lablab",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4164,7 +4164,7 @@
     "name": "Lae",
     "nameWoDiacritics": "Lae",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -4184,7 +4184,7 @@
     "name": "Laiagam",
     "nameWoDiacritics": "Laiagam",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4203,7 +4203,7 @@
     "name": "Lake Murray",
     "nameWoDiacritics": "Lake Murray",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4222,7 +4222,7 @@
     "name": "Lakuramau",
     "nameWoDiacritics": "Lakuramau",
     "subdivision": "NIK",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -4230,7 +4230,7 @@
     "iata": "",
     "coordinates": {
       "lat": -2.8833333333333333,
-      "lon": 15.183333333333334
+      "lon": 151.25
     },
     "remarks": ""
   },
@@ -4241,7 +4241,7 @@
     "name": "Lamassa",
     "nameWoDiacritics": "Lamassa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4260,7 +4260,7 @@
     "name": "Lambom Island",
     "nameWoDiacritics": "Lambom Island",
     "subdivision": "NIK",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -4268,7 +4268,7 @@
     "iata": "",
     "coordinates": {
       "lat": -4.8,
-      "lon": 15.416666666666666
+      "lon": 152.83333333333334
     },
     "remarks": ""
   },
@@ -4279,7 +4279,7 @@
     "name": "Langimar",
     "nameWoDiacritics": "Langimar",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4298,7 +4298,7 @@
     "name": "Laughlan Atoll",
     "nameWoDiacritics": "Laughlan Atoll",
     "subdivision": "MBA",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -4306,7 +4306,7 @@
     "iata": "",
     "coordinates": {
       "lat": -9.283333333333333,
-      "lon": 15.566666666666666
+      "lon": 153.66666666666666
     },
     "remarks": ""
   },
@@ -4317,7 +4317,7 @@
     "name": "Lehu",
     "nameWoDiacritics": "Lehu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4336,7 +4336,7 @@
     "name": "Leitre",
     "nameWoDiacritics": "Leitre",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4355,7 +4355,7 @@
     "name": "Lengbati",
     "nameWoDiacritics": "Lengbati",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4374,7 +4374,7 @@
     "name": "Leron Plains",
     "nameWoDiacritics": "Leron Plains",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4393,7 +4393,7 @@
     "name": "Lese",
     "nameWoDiacritics": "Lese",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4412,7 +4412,7 @@
     "name": "Lihir Island",
     "nameWoDiacritics": "Lihir Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -4432,7 +4432,7 @@
     "name": "Linga Linga",
     "nameWoDiacritics": "Linga Linga",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4451,7 +4451,7 @@
     "name": "Loani",
     "nameWoDiacritics": "Loani",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4470,7 +4470,7 @@
     "name": "Loloho",
     "nameWoDiacritics": "Loloho",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -4489,7 +4489,7 @@
     "name": "Lombrum",
     "nameWoDiacritics": "Lombrum",
     "subdivision": "MRL",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -4497,7 +4497,7 @@
     "iata": "",
     "coordinates": {
       "lat": -2.033333333333333,
-      "lon": 15.2
+      "lon": 147.36666666666667
     },
     "remarks": ""
   },
@@ -4508,7 +4508,7 @@
     "name": "Londolovit",
     "nameWoDiacritics": "Londolovit",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -4517,7 +4517,7 @@
     "iata": "",
     "coordinates": {
       "lat": -3.066666666666667,
-      "lon": 15.383333333333333
+      "lon": 152.61666666666667
     },
     "remarks": ""
   },
@@ -4528,7 +4528,7 @@
     "name": "Long Island",
     "nameWoDiacritics": "Long Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4547,7 +4547,7 @@
     "name": "\"Lorengau",
     "nameWoDiacritics": " Manus Island\"",
     "subdivision": "\"Lorengau",
-    "status": " Manus Island\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -4564,7 +4564,7 @@
     "name": "Losuia",
     "nameWoDiacritics": "Losuia",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4583,7 +4583,7 @@
     "name": "Lowai",
     "nameWoDiacritics": "Lowai",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4602,7 +4602,7 @@
     "name": "Lumi",
     "nameWoDiacritics": "Lumi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4621,7 +4621,7 @@
     "name": "Madang",
     "nameWoDiacritics": "Madang",
     "subdivision": "MPM",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -4630,7 +4630,7 @@
     "iata": "",
     "coordinates": {
       "lat": -5.216666666666667,
-      "lon": 14.9
+      "lon": 145.78333333333333
     },
     "remarks": ""
   },
@@ -4641,7 +4641,7 @@
     "name": "Makini",
     "nameWoDiacritics": "Makini",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4660,7 +4660,7 @@
     "name": "Mal",
     "nameWoDiacritics": "Mal",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4679,7 +4679,7 @@
     "name": "Malalaua",
     "nameWoDiacritics": "Malalaua",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4698,7 +4698,7 @@
     "name": "Malam",
     "nameWoDiacritics": "Malam",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -4706,7 +4706,7 @@
     "iata": "",
     "coordinates": {
       "lat": -8.716666666666667,
-      "lon": 14.383333333333333
+      "lon": 142.65
     },
     "remarks": ""
   },
@@ -4717,7 +4717,7 @@
     "name": "Malekolon",
     "nameWoDiacritics": "Malekolon",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4736,7 +4736,7 @@
     "name": "Mamai",
     "nameWoDiacritics": "Mamai",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4755,7 +4755,7 @@
     "name": "Manam Island",
     "nameWoDiacritics": "Manam Island",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -4774,7 +4774,7 @@
     "name": "Manare",
     "nameWoDiacritics": "Manare",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4793,7 +4793,7 @@
     "name": "Manda",
     "nameWoDiacritics": "Manda",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -4802,7 +4802,7 @@
     "iata": "KOM",
     "coordinates": {
       "lat": -7,
-      "lon": 14.166666666666666
+      "lon": 141.15
     },
     "remarks": ""
   },
@@ -4813,7 +4813,7 @@
     "name": "Manetai",
     "nameWoDiacritics": "Manetai",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4832,7 +4832,7 @@
     "name": "Manga",
     "nameWoDiacritics": "Manga",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4851,7 +4851,7 @@
     "name": "Manguna",
     "nameWoDiacritics": "Manguna",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4870,7 +4870,7 @@
     "name": "Manumu",
     "nameWoDiacritics": "Manumu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4889,7 +4889,7 @@
     "name": "Manus Island",
     "nameWoDiacritics": "Manus Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4908,7 +4908,7 @@
     "name": "Mapoda",
     "nameWoDiacritics": "Mapoda",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4927,7 +4927,7 @@
     "name": "Mapua",
     "nameWoDiacritics": "Mapua",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4946,7 +4946,7 @@
     "name": "Maramuni",
     "nameWoDiacritics": "Maramuni",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4965,7 +4965,7 @@
     "name": "Marawaka",
     "nameWoDiacritics": "Marawaka",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4984,7 +4984,7 @@
     "name": "Margarima",
     "nameWoDiacritics": "Margarima",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5003,7 +5003,7 @@
     "name": "Maron",
     "nameWoDiacritics": "Maron",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5022,7 +5022,7 @@
     "name": "Masa",
     "nameWoDiacritics": "Masa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5041,7 +5041,7 @@
     "name": "May River",
     "nameWoDiacritics": "May River",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5060,7 +5060,7 @@
     "name": "Mendi",
     "nameWoDiacritics": "Mendi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5079,7 +5079,7 @@
     "name": "Menyamya",
     "nameWoDiacritics": "Menyamya",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5098,7 +5098,7 @@
     "name": "Mesalia",
     "nameWoDiacritics": "Mesalia",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5117,7 +5117,7 @@
     "name": "Mielelek",
     "nameWoDiacritics": "Mielelek",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -5136,7 +5136,7 @@
     "name": "Mindik",
     "nameWoDiacritics": "Mindik",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5155,7 +5155,7 @@
     "name": "Minj",
     "nameWoDiacritics": "Minj",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5174,7 +5174,7 @@
     "name": "Misima Island",
     "nameWoDiacritics": "Misima Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -5194,7 +5194,7 @@
     "name": "Miyanmin",
     "nameWoDiacritics": "Miyanmin",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5213,7 +5213,7 @@
     "name": "Moki",
     "nameWoDiacritics": "Moki",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5232,7 +5232,7 @@
     "name": "Morehead",
     "nameWoDiacritics": "Morehead",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5251,7 +5251,7 @@
     "name": "Moro",
     "nameWoDiacritics": "Moro",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5270,7 +5270,7 @@
     "name": "Morobe",
     "nameWoDiacritics": "Morobe",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5289,7 +5289,7 @@
     "name": "Motukea Island",
     "nameWoDiacritics": "Motukea Island",
     "subdivision": "NCD",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -5297,7 +5297,7 @@
     "iata": "",
     "coordinates": {
       "lat": -9.433333333333334,
-      "lon": 15.166666666666666
+      "lon": 147.1
     },
     "remarks": ""
   },
@@ -5308,7 +5308,7 @@
     "name": "Mougulu",
     "nameWoDiacritics": "Mougulu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5327,7 +5327,7 @@
     "name": "Mount Aue",
     "nameWoDiacritics": "Mount Aue",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5346,7 +5346,7 @@
     "name": "Mount Hagen",
     "nameWoDiacritics": "Mount Hagen",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5365,7 +5365,7 @@
     "name": "Munbil",
     "nameWoDiacritics": "Munbil",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5384,7 +5384,7 @@
     "name": "Munduku",
     "nameWoDiacritics": "Munduku",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5403,7 +5403,7 @@
     "name": "Mussau",
     "nameWoDiacritics": "Mussau",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5422,7 +5422,7 @@
     "name": "Nadunumu",
     "nameWoDiacritics": "Nadunumu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5441,7 +5441,7 @@
     "name": "Namatanai",
     "nameWoDiacritics": "Namatanai",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -5461,7 +5461,7 @@
     "name": "Nambaiyufa",
     "nameWoDiacritics": "Nambaiyufa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5480,7 +5480,7 @@
     "name": "Namudi",
     "nameWoDiacritics": "Namudi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5499,7 +5499,7 @@
     "name": "Nankina",
     "nameWoDiacritics": "Nankina",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5518,7 +5518,7 @@
     "name": "Naoro",
     "nameWoDiacritics": "Naoro",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5537,7 +5537,7 @@
     "name": "Napa Napa",
     "nameWoDiacritics": "Napa Napa",
     "subdivision": "NCD",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -5545,7 +5545,7 @@
     "iata": "",
     "coordinates": {
       "lat": -9.45,
-      "lon": 15.166666666666666
+      "lon": 147.11666666666667
     },
     "remarks": ""
   },
@@ -5556,7 +5556,7 @@
     "name": "Negarbo",
     "nameWoDiacritics": "Negarbo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5575,7 +5575,7 @@
     "name": "Ningerum",
     "nameWoDiacritics": "Ningerum",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5594,7 +5594,7 @@
     "name": "Nipa",
     "nameWoDiacritics": "Nipa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5613,7 +5613,7 @@
     "name": "Nissan Island",
     "nameWoDiacritics": "Nissan Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5632,7 +5632,7 @@
     "name": "Nomad River",
     "nameWoDiacritics": "Nomad River",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5651,7 +5651,7 @@
     "name": "Nomane",
     "nameWoDiacritics": "Nomane",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5670,7 +5670,7 @@
     "name": "Nowata",
     "nameWoDiacritics": "Nowata",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5689,7 +5689,7 @@
     "name": "Nuguria",
     "nameWoDiacritics": "Nuguria",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5708,7 +5708,7 @@
     "name": "Nuku",
     "nameWoDiacritics": "Nuku",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5727,7 +5727,7 @@
     "name": "Nutuve",
     "nameWoDiacritics": "Nutuve",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5746,7 +5746,7 @@
     "name": "Obo",
     "nameWoDiacritics": "Obo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5765,7 +5765,7 @@
     "name": "Ogeranang",
     "nameWoDiacritics": "Ogeranang",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5784,7 +5784,7 @@
     "name": "Okao",
     "nameWoDiacritics": "Okao",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -5792,7 +5792,7 @@
     "iata": "",
     "coordinates": {
       "lat": -3.9166666666666665,
-      "lon": 12.016666666666666
+      "lon": 116.2
     },
     "remarks": ""
   },
@@ -5803,7 +5803,7 @@
     "name": "Oksapmin",
     "nameWoDiacritics": "Oksapmin",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5822,7 +5822,7 @@
     "name": "Olsobip",
     "nameWoDiacritics": "Olsobip",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5841,7 +5841,7 @@
     "name": "Omkalai",
     "nameWoDiacritics": "Omkalai",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5860,7 +5860,7 @@
     "name": "Omora",
     "nameWoDiacritics": "Omora",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5879,7 +5879,7 @@
     "name": "Ononge",
     "nameWoDiacritics": "Ononge",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5898,7 +5898,7 @@
     "name": "Open Bay",
     "nameWoDiacritics": "Open Bay",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5917,7 +5917,7 @@
     "name": "Oram",
     "nameWoDiacritics": "Oram",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5936,7 +5936,7 @@
     "name": "Oria",
     "nameWoDiacritics": "Oria",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5955,7 +5955,7 @@
     "name": "Orobay",
     "nameWoDiacritics": "Orobay",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -5974,7 +5974,7 @@
     "name": "Ossima",
     "nameWoDiacritics": "Ossima",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5993,7 +5993,7 @@
     "name": "Paiela",
     "nameWoDiacritics": "Paiela",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6012,7 +6012,7 @@
     "name": "Pambwa",
     "nameWoDiacritics": "Pambwa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6031,7 +6031,7 @@
     "name": "Pangia",
     "nameWoDiacritics": "Pangia",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6050,7 +6050,7 @@
     "name": "Pangoa",
     "nameWoDiacritics": "Pangoa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6069,7 +6069,7 @@
     "name": "Param",
     "nameWoDiacritics": "Param",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6088,7 +6088,7 @@
     "name": "Pimaga",
     "nameWoDiacritics": "Pimaga",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6107,7 +6107,7 @@
     "name": "Pindiu",
     "nameWoDiacritics": "Pindiu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6126,7 +6126,7 @@
     "name": "Pondo Harbour",
     "nameWoDiacritics": "Pondo Harbour",
     "subdivision": "EBR",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -6134,7 +6134,7 @@
     "iata": "",
     "coordinates": {
       "lat": -4.566666666666666,
-      "lon": 15.216666666666667
+      "lon": 151.61666666666667
     },
     "remarks": ""
   },
@@ -6145,7 +6145,7 @@
     "name": "Popondetta",
     "nameWoDiacritics": "Popondetta",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6164,7 +6164,7 @@
     "name": "Porgera",
     "nameWoDiacritics": "Porgera",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6183,7 +6183,7 @@
     "name": "Port Moresby",
     "nameWoDiacritics": "Port Moresby",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -6203,7 +6203,7 @@
     "name": "Puas",
     "nameWoDiacritics": "Puas",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6222,7 +6222,7 @@
     "name": "Pumani",
     "nameWoDiacritics": "Pumani",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6241,7 +6241,7 @@
     "name": "Pureni",
     "nameWoDiacritics": "Pureni",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6260,7 +6260,7 @@
     "name": "Rabaraba",
     "nameWoDiacritics": "Rabaraba",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6279,7 +6279,7 @@
     "name": "Rabaul",
     "nameWoDiacritics": "Rabaul",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -6299,7 +6299,7 @@
     "name": "Rakanda",
     "nameWoDiacritics": "Rakanda",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6318,7 +6318,7 @@
     "name": "Rambutyo Island",
     "nameWoDiacritics": "Rambutyo Island",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -6337,7 +6337,7 @@
     "name": "Robinson River",
     "nameWoDiacritics": "Robinson River",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -6357,7 +6357,7 @@
     "name": "Rumginae",
     "nameWoDiacritics": "Rumginae",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6376,7 +6376,7 @@
     "name": "Russel Island",
     "nameWoDiacritics": "Russel Island",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -6395,7 +6395,7 @@
     "name": "Ruti",
     "nameWoDiacritics": "Ruti",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6414,7 +6414,7 @@
     "name": "Sabah",
     "nameWoDiacritics": "Sabah",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6433,7 +6433,7 @@
     "name": "Safia",
     "nameWoDiacritics": "Safia",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6452,7 +6452,7 @@
     "name": "Sagarai",
     "nameWoDiacritics": "Sagarai",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6471,7 +6471,7 @@
     "name": "Saibai",
     "nameWoDiacritics": "Saibai",
     "subdivision": "WPD",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -6479,7 +6479,7 @@
     "iata": "",
     "coordinates": {
       "lat": -9.383333333333333,
-      "lon": 14.383333333333333
+      "lon": 142.61666666666667
     },
     "remarks": ""
   },
@@ -6490,7 +6490,7 @@
     "name": "Saidor",
     "nameWoDiacritics": "Saidor",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6509,7 +6509,7 @@
     "name": "Salamaua",
     "nameWoDiacritics": "Salamaua",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -6528,7 +6528,7 @@
     "name": "Salamo",
     "nameWoDiacritics": "Salamo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6547,7 +6547,7 @@
     "name": "Samarai",
     "nameWoDiacritics": "Samarai",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -6556,7 +6556,7 @@
     "iata": "",
     "coordinates": {
       "lat": -10.633333333333333,
-      "lon": 15.05
+      "lon": 150.63333333333333
     },
     "remarks": ""
   },
@@ -6567,7 +6567,7 @@
     "name": "Sangapi",
     "nameWoDiacritics": "Sangapi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6586,7 +6586,7 @@
     "name": "Sapmanga",
     "nameWoDiacritics": "Sapmanga",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6605,7 +6605,7 @@
     "name": "Satwag",
     "nameWoDiacritics": "Satwag",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6624,7 +6624,7 @@
     "name": "Sauren",
     "nameWoDiacritics": "Sauren",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6643,7 +6643,7 @@
     "name": "Schauten",
     "nameWoDiacritics": "Schauten",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -6662,7 +6662,7 @@
     "name": "Sehulea",
     "nameWoDiacritics": "Sehulea",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6681,7 +6681,7 @@
     "name": "Selbang",
     "nameWoDiacritics": "Selbang",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6700,7 +6700,7 @@
     "name": "Sepik Plains",
     "nameWoDiacritics": "Sepik Plains",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6719,7 +6719,7 @@
     "name": "Sialum",
     "nameWoDiacritics": "Sialum",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6738,7 +6738,7 @@
     "name": "Siassi",
     "nameWoDiacritics": "Siassi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6757,7 +6757,7 @@
     "name": "Sila",
     "nameWoDiacritics": "Sila",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6776,7 +6776,7 @@
     "name": "Silur",
     "nameWoDiacritics": "Silur",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6795,7 +6795,7 @@
     "name": "Sim",
     "nameWoDiacritics": "Sim",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6814,7 +6814,7 @@
     "name": "Simbai",
     "nameWoDiacritics": "Simbai",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6833,7 +6833,7 @@
     "name": "Simberi Island",
     "nameWoDiacritics": "Simberi Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6852,7 +6852,7 @@
     "name": "Singaua",
     "nameWoDiacritics": "Singaua",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6871,7 +6871,7 @@
     "name": "Sipul",
     "nameWoDiacritics": "Sipul",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -6890,7 +6890,7 @@
     "name": "Sissano",
     "nameWoDiacritics": "Sissano",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6909,7 +6909,7 @@
     "name": "Siwea",
     "nameWoDiacritics": "Siwea",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6928,7 +6928,7 @@
     "name": "Sokar Island",
     "nameWoDiacritics": "Sokar Island",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -6947,7 +6947,7 @@
     "name": "Sopu",
     "nameWoDiacritics": "Sopu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6966,7 +6966,7 @@
     "name": "Stockholm",
     "nameWoDiacritics": "Stockholm",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -6985,7 +6985,7 @@
     "name": "Suabi",
     "nameWoDiacritics": "Suabi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7004,7 +7004,7 @@
     "name": "Suki",
     "nameWoDiacritics": "Suki",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7023,7 +7023,7 @@
     "name": "Sule",
     "nameWoDiacritics": "Sule",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7042,7 +7042,7 @@
     "name": "Suria",
     "nameWoDiacritics": "Suria",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7061,7 +7061,7 @@
     "name": "Tabibuga",
     "nameWoDiacritics": "Tabibuga",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7080,7 +7080,7 @@
     "name": "Tabubil",
     "nameWoDiacritics": "Tabubil",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7099,7 +7099,7 @@
     "name": "Tagula",
     "nameWoDiacritics": "Tagula",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -7119,7 +7119,7 @@
     "name": "Talasea",
     "nameWoDiacritics": "Talasea",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -7139,7 +7139,7 @@
     "name": "Tambanum",
     "nameWoDiacritics": "Tambanum",
     "subdivision": "ESW",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -7147,7 +7147,7 @@
     "iata": "",
     "coordinates": {
       "lat": -4.2,
-      "lon": 14.55
+      "lon": 143.6
     },
     "remarks": ""
   },
@@ -7158,7 +7158,7 @@
     "name": "Tambutyo Island",
     "nameWoDiacritics": "Tambutyo Island",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -7177,7 +7177,7 @@
     "name": "Tami Island",
     "nameWoDiacritics": "Tami Island",
     "subdivision": "MPL",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -7185,7 +7185,7 @@
     "iata": "",
     "coordinates": {
       "lat": -6.766666666666667,
-      "lon": 15.25
+      "lon": 147.9
     },
     "remarks": ""
   },
@@ -7196,7 +7196,7 @@
     "name": "Tapini",
     "nameWoDiacritics": "Tapini",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7215,7 +7215,7 @@
     "name": "Tarabo",
     "nameWoDiacritics": "Tarabo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7234,7 +7234,7 @@
     "name": "Tarakbits",
     "nameWoDiacritics": "Tarakbits",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7253,7 +7253,7 @@
     "name": "Tari",
     "nameWoDiacritics": "Tari",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7272,7 +7272,7 @@
     "name": "Taskul",
     "nameWoDiacritics": "Taskul",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7291,7 +7291,7 @@
     "name": "Taugu Island",
     "nameWoDiacritics": "Taugu Island",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -7310,7 +7310,7 @@
     "name": "Tauta",
     "nameWoDiacritics": "Tauta",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7329,7 +7329,7 @@
     "name": "Tawa",
     "nameWoDiacritics": "Tawa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7348,7 +7348,7 @@
     "name": "Tekadu",
     "nameWoDiacritics": "Tekadu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7367,7 +7367,7 @@
     "name": "Tekin",
     "nameWoDiacritics": "Tekin",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7386,7 +7386,7 @@
     "name": "Telefomin",
     "nameWoDiacritics": "Telefomin",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7405,7 +7405,7 @@
     "name": "Teptep",
     "nameWoDiacritics": "Teptep",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7424,7 +7424,7 @@
     "name": "Terapo",
     "nameWoDiacritics": "Terapo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7443,7 +7443,7 @@
     "name": "Tetebedi",
     "nameWoDiacritics": "Tetebedi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -7452,7 +7452,7 @@
     "iata": "",
     "coordinates": {
       "lat": -9.15,
-      "lon": 15.333333333333334
+      "lon": 148.05
     },
     "remarks": ""
   },
@@ -7463,7 +7463,7 @@
     "name": "Tilfalmin",
     "nameWoDiacritics": "Tilfalmin",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7482,7 +7482,7 @@
     "name": "Timbunke",
     "nameWoDiacritics": "Timbunke",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7501,7 +7501,7 @@
     "name": "Tinboli",
     "nameWoDiacritics": "Tinboli",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7520,7 +7520,7 @@
     "name": "Tingwon",
     "nameWoDiacritics": "Tingwon",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7539,7 +7539,7 @@
     "name": "Tol",
     "nameWoDiacritics": "Tol",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7558,7 +7558,7 @@
     "name": "Tolokiwa Island",
     "nameWoDiacritics": "Tolokiwa Island",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -7577,7 +7577,7 @@
     "name": "Tonu",
     "nameWoDiacritics": "Tonu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7596,7 +7596,7 @@
     "name": "Torembi",
     "nameWoDiacritics": "Torembi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7615,7 +7615,7 @@
     "name": "Torokina",
     "nameWoDiacritics": "Torokina",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7634,7 +7634,7 @@
     "name": "Tsewi",
     "nameWoDiacritics": "Tsewi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7653,7 +7653,7 @@
     "name": "Tsili Tsili",
     "nameWoDiacritics": "Tsili Tsili",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7672,7 +7672,7 @@
     "name": "Tufi",
     "nameWoDiacritics": "Tufi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -7692,7 +7692,7 @@
     "name": "Tumolbil",
     "nameWoDiacritics": "Tumolbil",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7711,7 +7711,7 @@
     "name": "Ulamona",
     "nameWoDiacritics": "Ulamona",
     "subdivision": "WBK",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -7719,7 +7719,7 @@
     "iata": "",
     "coordinates": {
       "lat": -5,
-      "lon": 15.183333333333334
+      "lon": 151.25
     },
     "remarks": ""
   },
@@ -7730,7 +7730,7 @@
     "name": "Umba",
     "nameWoDiacritics": "Umba",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7749,7 +7749,7 @@
     "name": "Upiara",
     "nameWoDiacritics": "Upiara",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7768,7 +7768,7 @@
     "name": "Uroubi",
     "nameWoDiacritics": "Uroubi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7787,7 +7787,7 @@
     "name": "Usino",
     "nameWoDiacritics": "Usino",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7806,7 +7806,7 @@
     "name": "Uvol",
     "nameWoDiacritics": "Uvol",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7825,7 +7825,7 @@
     "name": "Vailala",
     "nameWoDiacritics": "Vailala",
     "subdivision": "GPK",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -7834,7 +7834,7 @@
     "iata": "",
     "coordinates": {
       "lat": -7.95,
-      "lon": 14.866666666666667
+      "lon": 145.45
     },
     "remarks": ""
   },
@@ -7845,7 +7845,7 @@
     "name": "Vanimo",
     "nameWoDiacritics": "Vanimo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -7865,7 +7865,7 @@
     "name": "Vivigani",
     "nameWoDiacritics": "Vivigani",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7884,7 +7884,7 @@
     "name": "Wabag",
     "nameWoDiacritics": "Wabag",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7903,7 +7903,7 @@
     "name": "Wabo",
     "nameWoDiacritics": "Wabo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7922,7 +7922,7 @@
     "name": "Wagau",
     "nameWoDiacritics": "Wagau",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7941,7 +7941,7 @@
     "name": "Wakunai",
     "nameWoDiacritics": "Wakunai",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7960,7 +7960,7 @@
     "name": "Wanigela",
     "nameWoDiacritics": "Wanigela",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7979,7 +7979,7 @@
     "name": "Wantoat",
     "nameWoDiacritics": "Wantoat",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -7998,7 +7998,7 @@
     "name": "Wanuma",
     "nameWoDiacritics": "Wanuma",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -8017,7 +8017,7 @@
     "name": "Wapenamanda",
     "nameWoDiacritics": "Wapenamanda",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -8036,7 +8036,7 @@
     "name": "Wapolu",
     "nameWoDiacritics": "Wapolu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -8055,7 +8055,7 @@
     "name": "Wasu",
     "nameWoDiacritics": "Wasu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -8074,7 +8074,7 @@
     "name": "Wasua",
     "nameWoDiacritics": "Wasua",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -8093,7 +8093,7 @@
     "name": "Wasum",
     "nameWoDiacritics": "Wasum",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -8112,7 +8112,7 @@
     "name": "Watabung",
     "nameWoDiacritics": "Watabung",
     "subdivision": "EHG",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -8121,7 +8121,7 @@
     "iata": "",
     "coordinates": {
       "lat": -6.083333333333333,
-      "lon": 14.85
+      "lon": 145.21666666666667
     },
     "remarks": ""
   },
@@ -8132,7 +8132,7 @@
     "name": "Wau",
     "nameWoDiacritics": "Wau",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -8151,7 +8151,7 @@
     "name": "Wawoi Falls",
     "nameWoDiacritics": "Wawoi Falls",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -8170,7 +8170,7 @@
     "name": "Weam",
     "nameWoDiacritics": "Weam",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -8189,7 +8189,7 @@
     "name": "Wedau",
     "nameWoDiacritics": "Wedau",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -8208,7 +8208,7 @@
     "name": "Wewak",
     "nameWoDiacritics": "Wewak",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -8228,7 +8228,7 @@
     "name": "Wipim",
     "nameWoDiacritics": "Wipim",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -8247,7 +8247,7 @@
     "name": "Witu",
     "nameWoDiacritics": "Witu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -8266,7 +8266,7 @@
     "name": "Woitape",
     "nameWoDiacritics": "Woitape",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -8285,7 +8285,7 @@
     "name": "Wonenara",
     "nameWoDiacritics": "Wonenara",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -8304,7 +8304,7 @@
     "name": "Woodlark",
     "nameWoDiacritics": "Woodlark",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -8323,7 +8323,7 @@
     "name": "Wuvulu Is",
     "nameWoDiacritics": "Wuvulu Is",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -8342,7 +8342,7 @@
     "name": "Yalumet",
     "nameWoDiacritics": "Yalumet",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -8361,7 +8361,7 @@
     "name": "Yapsiei",
     "nameWoDiacritics": "Yapsiei",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -8380,7 +8380,7 @@
     "name": "Yasuru",
     "nameWoDiacritics": "Yasuru",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -8399,7 +8399,7 @@
     "name": "Yegepa",
     "nameWoDiacritics": "Yegepa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -8418,7 +8418,7 @@
     "name": "Yellow River",
     "nameWoDiacritics": "Yellow River",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -8437,7 +8437,7 @@
     "name": "Yenkis",
     "nameWoDiacritics": "Yenkis",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -8456,7 +8456,7 @@
     "name": "Yentchan",
     "nameWoDiacritics": "Yentchan",
     "subdivision": "ESW",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -8464,7 +8464,7 @@
     "iata": "",
     "coordinates": {
       "lat": -4.133333333333334,
-      "lon": 14.516666666666667
+      "lon": 143.25
     },
     "remarks": ""
   },
@@ -8475,7 +8475,7 @@
     "name": "Yeva",
     "nameWoDiacritics": "Yeva",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -8494,7 +8494,7 @@
     "name": "Yongai",
     "nameWoDiacritics": "Yongai",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -8513,7 +8513,7 @@
     "name": "Yule Island",
     "nameWoDiacritics": "Yule Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -8533,7 +8533,7 @@
     "name": "Zenag",
     "nameWoDiacritics": "Zenag",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],

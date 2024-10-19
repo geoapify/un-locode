@@ -2,6 +2,7 @@
   {
     "country": "DM",
     "name": ".DOMINICA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,14 +14,14 @@
     "location": "ADM",
     "name": "Anse du Mai",
     "nameWoDiacritics": "Anse du Mai",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 212,
     "coordinates": {
       "lat": 15.6,
-      "lon": 6.2
+      "lon": -61.38333333333333
     }
   },
   {
@@ -28,7 +29,7 @@
     "location": "BEL",
     "name": "Belfast",
     "nameWoDiacritics": "Belfast",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -43,7 +44,7 @@
     "location": "DOM",
     "name": "Dominica",
     "nameWoDiacritics": "Dominica",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -59,7 +60,7 @@
     "location": "POR",
     "name": "Portsmouth",
     "nameWoDiacritics": "Portsmouth",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -67,7 +68,7 @@
     "date": 701,
     "coordinates": {
       "lat": 15.566666666666666,
-      "lon": 6.2
+      "lon": -61.45
     }
   },
   {
@@ -75,7 +76,7 @@
     "location": "RSU",
     "name": "Roseau",
     "nameWoDiacritics": "Roseau",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],

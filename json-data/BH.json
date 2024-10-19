@@ -2,6 +2,7 @@
   {
     "country": "BH",
     "name": ".BAHRAIN",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -14,14 +15,14 @@
     "name": "A'ali",
     "nameWoDiacritics": "A'ali",
     "subdivision": 15,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1707,
     "coordinates": {
       "lat": 26.15,
-      "lon": 5.05
+      "lon": 50.516666666666666
     }
   },
   {
@@ -29,14 +30,14 @@
     "location": "ADA",
     "name": "Adliya",
     "nameWoDiacritics": "Adliya",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 26.216666666666665,
-      "lon": 5.05
+      "lon": 50.583333333333336
     }
   },
   {
@@ -44,14 +45,14 @@
     "location": "ALA",
     "name": "Al Hajar",
     "nameWoDiacritics": "Al Hajar",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 26.2,
-      "lon": 5.05
+      "lon": 50.5
     }
   },
   {
@@ -60,7 +61,7 @@
     "name": "Al Hidd",
     "nameWoDiacritics": "Al Hidd",
     "subdivision": 15,
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2,
@@ -70,7 +71,7 @@
     "date": 1101,
     "coordinates": {
       "lat": 26.233333333333334,
-      "lon": 5.05
+      "lon": 50.65
     }
   },
   {
@@ -78,14 +79,14 @@
     "location": "AMA",
     "name": "Al Ma'amir",
     "nameWoDiacritics": "Al Ma'amir",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 26.133333333333333,
-      "lon": 5.05
+      "lon": 50.6
     }
   },
   {
@@ -94,7 +95,7 @@
     "name": "Al Manamah",
     "nameWoDiacritics": "Al Manamah",
     "subdivision": 13,
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -102,7 +103,7 @@
     "date": 1301,
     "coordinates": {
       "lat": 26.233333333333334,
-      "lon": 5.05
+      "lon": 50.56666666666667
     }
   },
   {
@@ -111,14 +112,14 @@
     "name": "Al Muharraq",
     "nameWoDiacritics": "Al Muharraq",
     "subdivision": 15,
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1101,
     "coordinates": {
       "lat": 26.25,
-      "lon": 5.05
+      "lon": 50.6
     }
   },
   {
@@ -127,7 +128,7 @@
     "name": "Bahrain International Airport",
     "nameWoDiacritics": "Bahrain International Airport",
     "subdivision": 15,
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -135,7 +136,7 @@
     "date": 1101,
     "coordinates": {
       "lat": 26.266666666666666,
-      "lon": 5.05
+      "lon": 50.63333333333333
     }
   },
   {
@@ -143,14 +144,14 @@
     "location": "TOW",
     "name": "Hamad Town",
     "nameWoDiacritics": "Hamad Town",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 26.1,
-      "lon": 5.05
+      "lon": 50.5
     }
   },
   {
@@ -159,14 +160,14 @@
     "name": "ISA Air Base",
     "nameWoDiacritics": "ISA Air Base",
     "subdivision": 14,
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 1601,
     "coordinates": {
       "lat": 25.916666666666668,
-      "lon": 5.05
+      "lon": 50.583333333333336
     }
   },
   {
@@ -174,14 +175,14 @@
     "location": "JAL",
     "name": "Jidd 'Ali",
     "nameWoDiacritics": "Jidd 'Ali",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 26.166666666666668,
-      "lon": 5.05
+      "lon": 50.55
     }
   },
   {
@@ -190,14 +191,14 @@
     "name": "Jidhafs",
     "nameWoDiacritics": "Jidhafs",
     "subdivision": 17,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 26.216666666666665,
-      "lon": 2.05
+      "lon": 20.533333333333335
     }
   },
   {
@@ -206,14 +207,14 @@
     "name": "Khalifa Bin Salman Port",
     "nameWoDiacritics": "Khalifa Bin Salman Port",
     "subdivision": 15,
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1101,
     "coordinates": {
       "lat": 26.2,
-      "lon": 5.05
+      "lon": 50.61666666666667
     }
   },
   {
@@ -222,12 +223,12 @@
     "name": "King Fahed Causeway",
     "nameWoDiacritics": "King Fahed Causeway",
     "subdivision": 17,
-    "status": "AA",
+    "status": 0,
     "function": [],
     "date": 1101,
     "coordinates": {
       "lat": 26.183333333333334,
-      "lon": 5.016666666666667
+      "lon": 50.31666666666667
     }
   },
   {
@@ -235,14 +236,14 @@
     "location": "MTH",
     "name": "Madinat Hamad",
     "nameWoDiacritics": "Madinat Hamad",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 26.1,
-      "lon": 5.05
+      "lon": 50.5
     }
   },
   {
@@ -251,14 +252,14 @@
     "name": "Mina Sulman Port",
     "nameWoDiacritics": "Mina Sulman Port",
     "subdivision": 13,
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1101,
     "coordinates": {
       "lat": 26.2,
-      "lon": 5.05
+      "lon": 50.61666666666667
     }
   },
   {
@@ -267,14 +268,14 @@
     "name": "Qalali",
     "nameWoDiacritics": "Qalali",
     "subdivision": 15,
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 26.266666666666666,
-      "lon": 5.033333333333333
+      "lon": 50.483333333333334
     }
   },
   {
@@ -283,14 +284,14 @@
     "name": "Ras Abu Jarjur",
     "nameWoDiacritics": "Ras Abu Jarjur",
     "subdivision": 14,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 2001,
     "coordinates": {
       "lat": 26.066666666666666,
-      "lon": 5.05
+      "lon": 50.61666666666667
     }
   },
   {
@@ -299,14 +300,14 @@
     "name": "Riffa",
     "nameWoDiacritics": "Riffa",
     "subdivision": 15,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 26.116666666666667,
-      "lon": 5.05
+      "lon": 50.55
     }
   },
   {
@@ -315,14 +316,14 @@
     "name": "Sanad",
     "nameWoDiacritics": "Sanad",
     "subdivision": 15,
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 26.15,
-      "lon": 5.05
+      "lon": 50.56666666666667
     }
   },
   {
@@ -331,14 +332,14 @@
     "name": "Sitrah",
     "nameWoDiacritics": "Sitrah",
     "subdivision": 16,
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1101,
     "coordinates": {
       "lat": 26.133333333333333,
-      "lon": 5.05
+      "lon": 50.61666666666667
     }
   },
   {
@@ -346,14 +347,14 @@
     "location": "TUB",
     "name": "Tubli",
     "nameWoDiacritics": "Tubli",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 26.183333333333334,
-      "lon": 5.05
+      "lon": 50.53333333333333
     }
   },
   {
@@ -361,14 +362,14 @@
     "location": "UAH",
     "name": "Umm al Hassam",
     "nameWoDiacritics": "Umm al Hassam",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 26.2,
-      "lon": 5.05
+      "lon": 50.583333333333336
     }
   }
 ]

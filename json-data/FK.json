@@ -2,6 +2,7 @@
   {
     "country": "FK",
     "name": ".FALKLAND ISLANDS (MALVINAS)",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "FBE",
     "name": "Fox Bay",
     "nameWoDiacritics": "Fox Bay",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       4
@@ -29,7 +30,7 @@
     "location": "MPN",
     "name": "Mount Pleasant",
     "nameWoDiacritics": "Mount Pleasant",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -45,7 +46,7 @@
     "location": "PSY",
     "name": "Port Stanley",
     "nameWoDiacritics": "Port Stanley",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -61,14 +62,14 @@
     "location": "PWI",
     "name": "Port William",
     "nameWoDiacritics": "Port William",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": -51.666666666666664,
-      "lon": 6.233333333333333
+      "lon": -57.8
     }
   }
 ]

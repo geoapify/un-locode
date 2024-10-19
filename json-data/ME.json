@@ -6,7 +6,7 @@
     "name": ".MONTENEGRO",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Bar",
     "nameWoDiacritics": "Bar",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -33,7 +33,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.083333333333336,
-      "lon": 2.5
+      "lon": 19.083333333333332
     },
     "remarks": ""
   },
@@ -44,7 +44,7 @@
     "name": "Berane (Yvangrad)",
     "nameWoDiacritics": "Berane (Yvangrad)",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -54,7 +54,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.85,
-      "lon": 2.583333333333333
+      "lon": 19.866666666666667
     },
     "remarks": ""
   },
@@ -65,7 +65,7 @@
     "name": "Bijela",
     "nameWoDiacritics": "Bijela",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -74,7 +74,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.45,
-      "lon": 2.4
+      "lon": 18.666666666666668
     },
     "remarks": ""
   },
@@ -85,7 +85,7 @@
     "name": "Bijelo Polje",
     "nameWoDiacritics": "Bijelo Polje",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -93,7 +93,7 @@
     "iata": "",
     "coordinates": {
       "lat": 43.03333333333333,
-      "lon": 2.5666666666666664
+      "lon": 19.733333333333334
     },
     "remarks": ""
   },
@@ -104,7 +104,7 @@
     "name": "Budva",
     "nameWoDiacritics": "Budva",
     "subdivision": "05",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -113,7 +113,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.28333333333333,
-      "lon": 2.416666666666667
+      "lon": 18.833333333333332
     },
     "remarks": ""
   },
@@ -124,7 +124,7 @@
     "name": "Cetinje",
     "nameWoDiacritics": "Cetinje",
     "subdivision": "06",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -132,7 +132,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.36666666666667,
-      "lon": 2.416666666666667
+      "lon": 18.916666666666668
     },
     "remarks": ""
   },
@@ -143,7 +143,7 @@
     "name": "Danilovgrad",
     "nameWoDiacritics": "Danilovgrad",
     "subdivision": "07",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -151,7 +151,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.55,
-      "lon": 2.5
+      "lon": 19.1
     },
     "remarks": ""
   },
@@ -162,7 +162,7 @@
     "name": "Hercegnovi",
     "nameWoDiacritics": "Hercegnovi",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -173,7 +173,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.45,
-      "lon": 2.3833333333333333
+      "lon": 18.533333333333335
     },
     "remarks": ""
   },
@@ -184,7 +184,7 @@
     "name": "Igalo",
     "nameWoDiacritics": "Igalo",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -193,7 +193,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.46666666666667,
-      "lon": 2.3833333333333333
+      "lon": 18.516666666666666
     },
     "remarks": ""
   },
@@ -204,7 +204,7 @@
     "name": "Kotor",
     "nameWoDiacritics": "Kotor",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2,
@@ -214,7 +214,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.416666666666664,
-      "lon": 2.4
+      "lon": 18.766666666666666
     },
     "remarks": ""
   },
@@ -225,7 +225,7 @@
     "name": "Ljajkovici",
     "nameWoDiacritics": "Ljajkovici",
     "subdivision": "16",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -233,7 +233,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.36666666666667,
-      "lon": 2.5166666666666666
+      "lon": 19.2
     },
     "remarks": ""
   },
@@ -244,7 +244,7 @@
     "name": "Mojkovac",
     "nameWoDiacritics": "Mojkovac",
     "subdivision": "11",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -252,7 +252,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.95,
-      "lon": 2.55
+      "lon": 19.566666666666666
     },
     "remarks": ""
   },
@@ -263,7 +263,7 @@
     "name": "Niksic",
     "nameWoDiacritics": "Niksic",
     "subdivision": "12",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -272,7 +272,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.766666666666666,
-      "lon": 2.416666666666667
+      "lon": 18.933333333333334
     },
     "remarks": ""
   },
@@ -283,7 +283,7 @@
     "name": "Petrovac",
     "nameWoDiacritics": "Petrovac",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -292,7 +292,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.2,
-      "lon": 2.416666666666667
+      "lon": 18.933333333333334
     },
     "remarks": ""
   },
@@ -303,7 +303,7 @@
     "name": "Pljevlja",
     "nameWoDiacritics": "Pljevlja",
     "subdivision": "14",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -311,7 +311,7 @@
     "iata": "",
     "coordinates": {
       "lat": 43.35,
-      "lon": 2.533333333333333
+      "lon": 19.35
     },
     "remarks": ""
   },
@@ -322,7 +322,7 @@
     "name": "Podgorica",
     "nameWoDiacritics": "Podgorica",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -332,7 +332,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.43333333333333,
-      "lon": 2.5166666666666666
+      "lon": 19.25
     },
     "remarks": ""
   },
@@ -343,7 +343,7 @@
     "name": "Rijeka Crnojevica",
     "nameWoDiacritics": "Rijeka Crnojevica",
     "subdivision": "16",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -351,7 +351,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.35,
-      "lon": 2.5
+      "lon": 19.033333333333335
     },
     "remarks": ""
   },
@@ -362,7 +362,7 @@
     "name": "Risan (Risano)",
     "nameWoDiacritics": "Risan (Risano)",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       2
@@ -371,7 +371,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.516666666666666,
-      "lon": 2.4
+      "lon": 18.7
     },
     "remarks": ""
   },
@@ -382,7 +382,7 @@
     "name": "Tivat",
     "nameWoDiacritics": "Tivat",
     "subdivision": "19",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2,
@@ -392,7 +392,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.43333333333333,
-      "lon": 2.4
+      "lon": 18.7
     },
     "remarks": ""
   },
@@ -403,7 +403,7 @@
     "name": "Ulcinj",
     "nameWoDiacritics": "Ulcinj",
     "subdivision": "20",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -412,7 +412,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.916666666666664,
-      "lon": 2.5166666666666666
+      "lon": 19.2
     },
     "remarks": ""
   },
@@ -423,7 +423,7 @@
     "name": "Zabljak",
     "nameWoDiacritics": "Zabljak",
     "subdivision": "21",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -432,7 +432,7 @@
     "iata": "",
     "coordinates": {
       "lat": 43.15,
-      "lon": 2.5
+      "lon": 19.116666666666667
     },
     "remarks": ""
   },
@@ -443,7 +443,7 @@
     "name": "Zelenika",
     "nameWoDiacritics": "Zelenika",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -453,7 +453,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.45,
-      "lon": 2.3833333333333333
+      "lon": 18.583333333333332
     },
     "remarks": ""
   }

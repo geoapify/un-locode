@@ -6,7 +6,7 @@
     "name": ".LAO PEOPLE'S DEMOCRATIC REPUBLIC",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Attopeu",
     "nameWoDiacritics": "Attopeu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -32,7 +32,7 @@
     "iata": "",
     "coordinates": {
       "lat": 14.816666666666666,
-      "lon": 11.066666666666666
+      "lon": 106.81666666666666
     },
     "remarks": ""
   },
@@ -43,7 +43,7 @@
     "name": "Ban Houaynamleuk",
     "nameWoDiacritics": "Ban Houaynamleuk",
     "subdivision": "BL",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
@@ -51,7 +51,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.366666666666667,
-      "lon": 10.5
+      "lon": 103.11666666666666
     },
     "remarks": ""
   },
@@ -62,7 +62,7 @@
     "name": "Ban Houei",
     "nameWoDiacritics": "Ban Houei",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -81,7 +81,7 @@
     "name": "Ban Thanal�ng",
     "nameWoDiacritics": "Ban Thanaleng",
     "subdivision": "VT",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -89,7 +89,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.883333333333333,
-      "lon": 10.4
+      "lon": 102.71666666666667
     },
     "remarks": ""
   },
@@ -100,7 +100,7 @@
     "name": "Boten",
     "nameWoDiacritics": "Boten",
     "subdivision": "LM",
-    "status": "AA",
+    "status": 0,
     "function": [
       1,
       2
@@ -109,7 +109,7 @@
     "iata": "",
     "coordinates": {
       "lat": 21.166666666666668,
-      "lon": 10.233333333333333
+      "lon": 101.66666666666667
     },
     "remarks": ""
   },
@@ -120,7 +120,7 @@
     "name": "Danesavan",
     "nameWoDiacritics": "Danesavan",
     "subdivision": "SV",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
@@ -128,7 +128,7 @@
     "iata": "",
     "coordinates": {
       "lat": 16.616666666666667,
-      "lon": 11.05
+      "lon": 106.58333333333333
     },
     "remarks": ""
   },
@@ -139,7 +139,7 @@
     "name": "Hin Hoeup",
     "nameWoDiacritics": "Hin Hoeup",
     "subdivision": "VI",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
@@ -147,7 +147,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.616666666666667,
-      "lon": 10.35
+      "lon": 102.31666666666666
     },
     "remarks": ""
   },
@@ -158,7 +158,7 @@
     "name": "Houeisay",
     "nameWoDiacritics": "Houeisay",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -167,7 +167,7 @@
     "iata": "",
     "coordinates": {
       "lat": 20.25,
-      "lon": 10.033333333333333
+      "lon": 100.43333333333334
     },
     "remarks": ""
   },
@@ -178,7 +178,7 @@
     "name": "Kenthao",
     "nameWoDiacritics": "Kenthao",
     "subdivision": "XA",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
@@ -186,7 +186,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.716666666666665,
-      "lon": 10.2
+      "lon": 101.38333333333334
     },
     "remarks": ""
   },
@@ -197,7 +197,7 @@
     "name": "Khong",
     "nameWoDiacritics": "Khong",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -216,7 +216,7 @@
     "name": "Lalay",
     "nameWoDiacritics": "Lalay",
     "subdivision": "SL",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
@@ -224,7 +224,7 @@
     "iata": "",
     "coordinates": {
       "lat": 16.3,
-      "lon": 11.083333333333334
+      "lon": 106.95
     },
     "remarks": ""
   },
@@ -235,7 +235,7 @@
     "name": "Lantouy",
     "nameWoDiacritics": "Lantouy",
     "subdivision": "PH",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
@@ -243,7 +243,7 @@
     "iata": "",
     "coordinates": {
       "lat": 22.466666666666665,
-      "lon": 10.233333333333333
+      "lon": 101.7
     },
     "remarks": ""
   },
@@ -254,7 +254,7 @@
     "name": "Luang Namtha",
     "nameWoDiacritics": "Luang Namtha",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -263,7 +263,7 @@
     "iata": "",
     "coordinates": {
       "lat": 20.966666666666665,
-      "lon": 10.2
+      "lon": 101.38333333333334
     },
     "remarks": ""
   },
@@ -274,7 +274,7 @@
     "name": "Luang Prabang",
     "nameWoDiacritics": "Luang Prabang",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -284,7 +284,7 @@
     "iata": "",
     "coordinates": {
       "lat": 19.883333333333333,
-      "lon": 10.35
+      "lon": 102.2
     },
     "remarks": ""
   },
@@ -295,7 +295,7 @@
     "name": "Muang Ngeun",
     "nameWoDiacritics": "Muang Ngeun",
     "subdivision": "XA",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
@@ -303,7 +303,7 @@
     "iata": "",
     "coordinates": {
       "lat": 19.6,
-      "lon": 10.166666666666666
+      "lon": 101.1
     },
     "remarks": ""
   },
@@ -314,7 +314,7 @@
     "name": "Muong Sai",
     "nameWoDiacritics": "Muong Sai",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -333,7 +333,7 @@
     "name": "Nameo",
     "nameWoDiacritics": "Nameo",
     "subdivision": "HO",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
@@ -341,7 +341,7 @@
     "iata": "",
     "coordinates": {
       "lat": 20.283333333333335,
-      "lon": 10.716666666666667
+      "lon": 104.61666666666666
     },
     "remarks": ""
   },
@@ -352,7 +352,7 @@
     "name": "Namkan",
     "nameWoDiacritics": "Namkan",
     "subdivision": "XI",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
@@ -360,7 +360,7 @@
     "iata": "",
     "coordinates": {
       "lat": 19.45,
-      "lon": 10.666666666666666
+      "lon": 104.06666666666666
     },
     "remarks": ""
   },
@@ -371,7 +371,7 @@
     "name": "Namphao",
     "nameWoDiacritics": "Namphao",
     "subdivision": "BL",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
@@ -379,7 +379,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.366666666666667,
-      "lon": 10.833333333333334
+      "lon": 105.15
     },
     "remarks": ""
   },
@@ -390,7 +390,7 @@
     "name": "Naphao",
     "nameWoDiacritics": "Naphao",
     "subdivision": "KH",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
@@ -398,7 +398,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.65,
-      "lon": 10.9
+      "lon": 105.75
     },
     "remarks": ""
   },
@@ -409,7 +409,7 @@
     "name": "Nateuy",
     "nameWoDiacritics": "Nateuy",
     "subdivision": "LM",
-    "status": "AA",
+    "status": 0,
     "function": [
       1,
       2,
@@ -419,7 +419,7 @@
     "iata": "",
     "coordinates": {
       "lat": 21.05,
-      "lon": 10.216666666666667
+      "lon": 101.63333333333334
     },
     "remarks": ""
   },
@@ -430,7 +430,7 @@
     "name": "Nongnokkhian",
     "nameWoDiacritics": "Nongnokkhian",
     "subdivision": "AT",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
@@ -438,7 +438,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.916666666666666,
-      "lon": 11
+      "lon": 106.01666666666667
     },
     "remarks": ""
   },
@@ -449,7 +449,7 @@
     "name": "Oudomxay",
     "nameWoDiacritics": "Oudomxay",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -459,7 +459,7 @@
     "iata": "",
     "coordinates": {
       "lat": 20.666666666666668,
-      "lon": 10.25
+      "lon": 101.98333333333333
     },
     "remarks": ""
   },
@@ -470,7 +470,7 @@
     "name": "Paksane",
     "nameWoDiacritics": "Paksane",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -479,7 +479,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.383333333333333,
-      "lon": 10.55
+      "lon": 103.65
     },
     "remarks": ""
   },
@@ -490,7 +490,7 @@
     "name": "Pakxe",
     "nameWoDiacritics": "Pakxe",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -499,7 +499,7 @@
     "iata": "",
     "coordinates": {
       "lat": 15.116666666666667,
-      "lon": 10.9
+      "lon": 105.76666666666667
     },
     "remarks": ""
   },
@@ -510,7 +510,7 @@
     "name": "Panghai",
     "nameWoDiacritics": "Panghai",
     "subdivision": "LM",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
@@ -518,7 +518,7 @@
     "iata": "",
     "coordinates": {
       "lat": 21.2,
-      "lon": 10.183333333333334
+      "lon": 101.23333333333333
     },
     "remarks": ""
   },
@@ -529,7 +529,7 @@
     "name": "Panghok",
     "nameWoDiacritics": "Panghok",
     "subdivision": "PH",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
@@ -537,7 +537,7 @@
     "iata": "",
     "coordinates": {
       "lat": 21.2,
-      "lon": 10.416666666666666
+      "lon": 102.9
     },
     "remarks": ""
   },
@@ -548,7 +548,7 @@
     "name": "Phongsaly",
     "nameWoDiacritics": "Phongsaly",
     "subdivision": "PH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -557,7 +557,7 @@
     "iata": "",
     "coordinates": {
       "lat": 21.666666666666668,
-      "lon": 10.333333333333334
+      "lon": 102.1
     },
     "remarks": ""
   },
@@ -568,7 +568,7 @@
     "name": "Phonhong",
     "nameWoDiacritics": "Phonhong",
     "subdivision": "VI",
-    "status": "AA",
+    "status": 0,
     "function": [
       1,
       2
@@ -577,7 +577,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.483333333333334,
-      "lon": 10.366666666666667
+      "lon": 102.4
     },
     "remarks": ""
   },
@@ -588,7 +588,7 @@
     "name": "Phu Keua",
     "nameWoDiacritics": "Phu Keua",
     "subdivision": "AT",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
@@ -596,7 +596,7 @@
     "iata": "",
     "coordinates": {
       "lat": 14.7,
-      "lon": 11.216666666666667
+      "lon": 107.55
     },
     "remarks": ""
   },
@@ -607,7 +607,7 @@
     "name": "Sam Neua",
     "nameWoDiacritics": "Sam Neua",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -616,7 +616,7 @@
     "iata": "",
     "coordinates": {
       "lat": 20.4,
-      "lon": 10.666666666666666
+      "lon": 104.03333333333333
     },
     "remarks": ""
   },
@@ -627,7 +627,7 @@
     "name": "Saravane",
     "nameWoDiacritics": "Saravane",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -636,7 +636,7 @@
     "iata": "",
     "coordinates": {
       "lat": 15.7,
-      "lon": 11.033333333333333
+      "lon": 106.4
     },
     "remarks": ""
   },
@@ -647,7 +647,7 @@
     "name": "Savannakh�t",
     "nameWoDiacritics": "Savannakhet",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -656,7 +656,7 @@
     "iata": "ZVK",
     "coordinates": {
       "lat": 16.55,
-      "lon": 10.733333333333333
+      "lon": 104.75
     },
     "remarks": ""
   },
@@ -667,7 +667,7 @@
     "name": "Sayaboury",
     "nameWoDiacritics": "Sayaboury",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -676,7 +676,7 @@
     "iata": "",
     "coordinates": {
       "lat": 19.25,
-      "lon": 10.233333333333333
+      "lon": 101.7
     },
     "remarks": ""
   },
@@ -687,7 +687,7 @@
     "name": "Sekong",
     "nameWoDiacritics": "Sekong",
     "subdivision": "XE",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
@@ -695,7 +695,7 @@
     "iata": "",
     "coordinates": {
       "lat": 15.333333333333334,
-      "lon": 11.066666666666666
+      "lon": 106.71666666666667
     },
     "remarks": ""
   },
@@ -706,7 +706,7 @@
     "name": "Seno",
     "nameWoDiacritics": "Seno",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -725,7 +725,7 @@
     "name": "Thakhek",
     "nameWoDiacritics": "Thakhek",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3,
@@ -735,7 +735,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.483333333333334,
-      "lon": 10.733333333333333
+      "lon": 104.73333333333333
     },
     "remarks": ""
   },
@@ -746,7 +746,7 @@
     "name": "Thanaleng",
     "nameWoDiacritics": "Thanaleng",
     "subdivision": "VT",
-    "status": "AM",
+    "status": 4,
     "function": [
       1,
       2,
@@ -757,7 +757,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.883333333333333,
-      "lon": 10.4
+      "lon": 102.71666666666667
     },
     "remarks": "Border@Fun@Sta@Sub"
   },
@@ -768,7 +768,7 @@
     "name": "Thanalouang",
     "nameWoDiacritics": "Thanalouang",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -776,7 +776,7 @@
     "iata": "",
     "coordinates": {
       "lat": 20.716666666666665,
-      "lon": 10.35
+      "lon": 102.2
     },
     "remarks": ""
   },
@@ -787,7 +787,7 @@
     "name": "Udomxay",
     "nameWoDiacritics": "Udomxay",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -806,7 +806,7 @@
     "name": "Vangrieng",
     "nameWoDiacritics": "Vangrieng",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -816,7 +816,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.916666666666668,
-      "lon": 10.366666666666667
+      "lon": 102.43333333333334
     },
     "remarks": ""
   },
@@ -827,7 +827,7 @@
     "name": "Vangtao",
     "nameWoDiacritics": "Vangtao",
     "subdivision": "CH",
-    "status": "AA",
+    "status": 0,
     "function": [
       2,
       5
@@ -836,7 +836,7 @@
     "iata": "",
     "coordinates": {
       "lat": 15.116666666666667,
-      "lon": 10.866666666666667
+      "lon": 105.45
     },
     "remarks": ""
   },
@@ -847,7 +847,7 @@
     "name": "Vangtoud",
     "nameWoDiacritics": "Vangtoud",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -866,7 +866,7 @@
     "name": "Viengxay",
     "nameWoDiacritics": "Viengxay",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -885,7 +885,7 @@
     "name": "Vientiane",
     "nameWoDiacritics": "Vientiane",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -896,7 +896,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.966666666666665,
-      "lon": 10.383333333333333
+      "lon": 102.55
     },
     "remarks": ""
   },
@@ -907,7 +907,7 @@
     "name": "Xayabury",
     "nameWoDiacritics": "Xayabury",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -926,7 +926,7 @@
     "name": "Xieng Khouang",
     "nameWoDiacritics": "Xieng Khouang",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -935,7 +935,7 @@
     "iata": "",
     "coordinates": {
       "lat": 19.45,
-      "lon": 10.5
+      "lon": 103.15
     },
     "remarks": ""
   },
@@ -946,7 +946,7 @@
     "name": "Xienglom",
     "nameWoDiacritics": "Xienglom",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],

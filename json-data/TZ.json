@@ -6,7 +6,7 @@
     "name": "\".TANZANIA",
     "nameWoDiacritics": " UNITED REPUBLIC OF\"",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "African Inland Container Depot",
     "nameWoDiacritics": "African Inland Container Depot",
     "subdivision": "02",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": -6.833333333333333,
-      "lon": 4.516666666666667
+      "lon": 39.233333333333334
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Arusha",
     "nameWoDiacritics": "Arusha",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -62,7 +62,7 @@
     "name": "Babati",
     "nameWoDiacritics": "Babati",
     "subdivision": "26",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -70,7 +70,7 @@
     "iata": "",
     "coordinates": {
       "lat": -4.216666666666667,
-      "lon": 3.9
+      "lon": 35.75
     },
     "remarks": ""
   },
@@ -81,7 +81,7 @@
     "name": "Biharamulo",
     "nameWoDiacritics": "Biharamulo",
     "subdivision": "05",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -89,7 +89,7 @@
     "iata": "",
     "coordinates": {
       "lat": -2.6166666666666667,
-      "lon": 3.183333333333333
+      "lon": 31.3
     },
     "remarks": ""
   },
@@ -100,7 +100,7 @@
     "name": "Bukoba",
     "nameWoDiacritics": "Bukoba",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -119,7 +119,7 @@
     "name": "Dar es Salaam",
     "nameWoDiacritics": "Dar es Salaam",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       1,
@@ -131,7 +131,7 @@
     "iata": "",
     "coordinates": {
       "lat": -6.8,
-      "lon": 4.516666666666667
+      "lon": 39.28333333333333
     },
     "remarks": ""
   },
@@ -142,7 +142,7 @@
     "name": "Dodoma",
     "nameWoDiacritics": "Dodoma",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -161,7 +161,7 @@
     "name": "Geita",
     "nameWoDiacritics": "Geita",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -181,7 +181,7 @@
     "name": "Ikwiriri",
     "nameWoDiacritics": "Ikwiriri",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -190,7 +190,7 @@
     "iata": "",
     "coordinates": {
       "lat": -7.983333333333333,
-      "lon": 4.5
+      "lon": 39.016666666666666
     },
     "remarks": ""
   },
@@ -201,7 +201,7 @@
     "name": "Iringa",
     "nameWoDiacritics": "Iringa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -220,7 +220,7 @@
     "name": "Isaka",
     "nameWoDiacritics": "Isaka",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -228,7 +228,7 @@
     "iata": "",
     "coordinates": {
       "lat": -3.8666666666666667,
-      "lon": 3.4166666666666665
+      "lon": 32.93333333333333
     },
     "remarks": ""
   },
@@ -239,7 +239,7 @@
     "name": "Kabanga",
     "nameWoDiacritics": "Kabanga",
     "subdivision": "05",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -247,7 +247,7 @@
     "iata": "",
     "coordinates": {
       "lat": -2.6333333333333333,
-      "lon": 3.033333333333333
+      "lon": 30.466666666666665
     },
     "remarks": ""
   },
@@ -258,7 +258,7 @@
     "name": "Kagera",
     "nameWoDiacritics": "Kagera",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -267,7 +267,7 @@
     "iata": "",
     "coordinates": {
       "lat": -4.65,
-      "lon": 3.066666666666667
+      "lon": 30.666666666666668
     },
     "remarks": ""
   },
@@ -278,7 +278,7 @@
     "name": "Kahama",
     "nameWoDiacritics": "Kahama",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -286,7 +286,7 @@
     "iata": "",
     "coordinates": {
       "lat": -3.8166666666666664,
-      "lon": 3.3833333333333333
+      "lon": 32.583333333333336
     },
     "remarks": ""
   },
@@ -297,7 +297,7 @@
     "name": "Kasulu",
     "nameWoDiacritics": "Kasulu",
     "subdivision": "08",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -306,7 +306,7 @@
     "iata": "",
     "coordinates": {
       "lat": -4.566666666666666,
-      "lon": 3
+      "lon": 30.1
     },
     "remarks": ""
   },
@@ -317,7 +317,7 @@
     "name": "Kibaha",
     "nameWoDiacritics": "Kibaha",
     "subdivision": "19",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -326,7 +326,7 @@
     "iata": "",
     "coordinates": {
       "lat": -6.766666666666667,
-      "lon": 4.416666666666667
+      "lon": 38.916666666666664
     },
     "remarks": ""
   },
@@ -337,7 +337,7 @@
     "name": "Kibondo",
     "nameWoDiacritics": "Kibondo",
     "subdivision": "08",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -345,7 +345,7 @@
     "iata": "",
     "coordinates": {
       "lat": -3.5833333333333335,
-      "lon": 3.066666666666667
+      "lon": 30.716666666666665
     },
     "remarks": ""
   },
@@ -356,7 +356,7 @@
     "name": "Kidatu",
     "nameWoDiacritics": "Kidatu",
     "subdivision": "16",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -364,7 +364,7 @@
     "iata": "",
     "coordinates": {
       "lat": -7.7,
-      "lon": 4.083333333333333
+      "lon": 36.95
     },
     "remarks": ""
   },
@@ -375,7 +375,7 @@
     "name": "Kigoma",
     "nameWoDiacritics": "Kigoma",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -395,7 +395,7 @@
     "name": "Kilimanjaro",
     "nameWoDiacritics": "Kilimanjaro",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -414,7 +414,7 @@
     "name": "Kilwa",
     "nameWoDiacritics": "Kilwa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -433,7 +433,7 @@
     "name": "Kilwa Kivinje",
     "nameWoDiacritics": "Kilwa Kivinje",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -452,7 +452,7 @@
     "name": "Kilwa Masoko",
     "nameWoDiacritics": "Kilwa Masoko",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -471,7 +471,7 @@
     "name": "Kisesa",
     "nameWoDiacritics": "Kisesa",
     "subdivision": "22",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -479,7 +479,7 @@
     "iata": "",
     "coordinates": {
       "lat": -3.0833333333333335,
-      "lon": 3.6666666666666665
+      "lon": 34.15
     },
     "remarks": ""
   },
@@ -490,7 +490,7 @@
     "name": "Kitagata",
     "nameWoDiacritics": "Kitagata",
     "subdivision": "08",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -498,7 +498,7 @@
     "iata": "",
     "coordinates": {
       "lat": -4.3,
-      "lon": 3.033333333333333
+      "lon": 30.483333333333334
     },
     "remarks": ""
   },
@@ -509,7 +509,7 @@
     "name": "Korogwe",
     "nameWoDiacritics": "Korogwe",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -517,7 +517,7 @@
     "iata": "",
     "coordinates": {
       "lat": -5.15,
-      "lon": 4.366666666666667
+      "lon": 38.483333333333334
     },
     "remarks": ""
   },
@@ -528,7 +528,7 @@
     "name": "Kurasini",
     "nameWoDiacritics": "Kurasini",
     "subdivision": "02",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -536,7 +536,7 @@
     "iata": "",
     "coordinates": {
       "lat": -6.85,
-      "lon": 4.516666666666667
+      "lon": 39.28333333333333
     },
     "remarks": ""
   },
@@ -547,7 +547,7 @@
     "name": "Lake Manyara",
     "nameWoDiacritics": "Lake Manyara",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -566,7 +566,7 @@
     "name": "Lindi",
     "nameWoDiacritics": "Lindi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -586,7 +586,7 @@
     "name": "Lushoto",
     "nameWoDiacritics": "Lushoto",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -605,7 +605,7 @@
     "name": "Mafia",
     "nameWoDiacritics": "Mafia",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -624,7 +624,7 @@
     "name": "Makumbako",
     "nameWoDiacritics": "Makumbako",
     "subdivision": "29",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -632,7 +632,7 @@
     "iata": "",
     "coordinates": {
       "lat": -8.85,
-      "lon": 3.75
+      "lon": 34.833333333333336
     },
     "remarks": ""
   },
@@ -643,7 +643,7 @@
     "name": "Malagarasi",
     "nameWoDiacritics": "Malagarasi",
     "subdivision": "08",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -651,7 +651,7 @@
     "iata": "",
     "coordinates": {
       "lat": -5.1,
-      "lon": 3.0833333333333335
+      "lon": 30.833333333333332
     },
     "remarks": ""
   },
@@ -662,7 +662,7 @@
     "name": "Marungu",
     "nameWoDiacritics": "Marungu",
     "subdivision": "08",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -670,7 +670,7 @@
     "iata": "",
     "coordinates": {
       "lat": -3.6166666666666667,
-      "lon": 4.4
+      "lon": 38.71666666666667
     },
     "remarks": ""
   },
@@ -681,7 +681,7 @@
     "name": "Masasi",
     "nameWoDiacritics": "Masasi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -700,7 +700,7 @@
     "name": "Mbeya",
     "nameWoDiacritics": "Mbeya",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -719,7 +719,7 @@
     "name": "Michiuja",
     "nameWoDiacritics": "Michiuja",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -738,7 +738,7 @@
     "name": "Mikindani",
     "nameWoDiacritics": "Mikindani",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -757,7 +757,7 @@
     "name": "Mikumi",
     "nameWoDiacritics": "Mikumi",
     "subdivision": "16",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -765,7 +765,7 @@
     "iata": "",
     "coordinates": {
       "lat": -7.4,
-      "lon": 4.083333333333333
+      "lon": 36.983333333333334
     },
     "remarks": ""
   },
@@ -776,7 +776,7 @@
     "name": "\"Mkokotoni",
     "nameWoDiacritics": " Zanzibar\"",
     "subdivision": "\"Mkokotoni",
-    "status": " Zanzibar\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -793,7 +793,7 @@
     "name": "Mlimba",
     "nameWoDiacritics": "Mlimba",
     "subdivision": "16",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -801,7 +801,7 @@
     "iata": "",
     "coordinates": {
       "lat": -8.8,
-      "lon": 3.9
+      "lon": 35.8
     },
     "remarks": ""
   },
@@ -812,7 +812,7 @@
     "name": "Mohoro",
     "nameWoDiacritics": "Mohoro",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -831,7 +831,7 @@
     "name": "Morogoro",
     "nameWoDiacritics": "Morogoro",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -839,7 +839,7 @@
     "iata": "",
     "coordinates": {
       "lat": -6.816666666666666,
-      "lon": 4.216666666666667
+      "lon": 37.65
     },
     "remarks": ""
   },
@@ -850,7 +850,7 @@
     "name": "Moshi",
     "nameWoDiacritics": "Moshi",
     "subdivision": "09",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -859,7 +859,7 @@
     "iata": "QSI",
     "coordinates": {
       "lat": -3.35,
-      "lon": 4.2
+      "lon": 37.333333333333336
     },
     "remarks": ""
   },
@@ -870,7 +870,7 @@
     "name": "Mpanda",
     "nameWoDiacritics": "Mpanda",
     "subdivision": "28",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -879,7 +879,7 @@
     "iata": "",
     "coordinates": {
       "lat": -6.35,
-      "lon": 3.1666666666666665
+      "lon": 31.066666666666666
     },
     "remarks": ""
   },
@@ -890,7 +890,7 @@
     "name": "Mtsora",
     "nameWoDiacritics": "Mtsora",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -909,7 +909,7 @@
     "name": "Mtwara",
     "nameWoDiacritics": "Mtwara",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -929,7 +929,7 @@
     "name": "Musoma",
     "nameWoDiacritics": "Musoma",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -948,7 +948,7 @@
     "name": "Mutukula",
     "nameWoDiacritics": "Mutukula",
     "subdivision": "05",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -956,7 +956,7 @@
     "iata": "",
     "coordinates": {
       "lat": -1,
-      "lon": 3.2
+      "lon": 31.4
     },
     "remarks": ""
   },
@@ -967,7 +967,7 @@
     "name": "Mwadui",
     "nameWoDiacritics": "Mwadui",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -986,7 +986,7 @@
     "name": "Mwanza",
     "nameWoDiacritics": "Mwanza",
     "subdivision": "18",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -995,7 +995,7 @@
     "iata": "",
     "coordinates": {
       "lat": -2.5166666666666666,
-      "lon": 3.4166666666666665
+      "lon": 32.9
     },
     "remarks": ""
   },
@@ -1006,7 +1006,7 @@
     "name": "Nachingwea",
     "nameWoDiacritics": "Nachingwea",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1025,7 +1025,7 @@
     "name": "Njombe",
     "nameWoDiacritics": "Njombe",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1044,7 +1044,7 @@
     "name": "Nzega",
     "nameWoDiacritics": "Nzega",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1052,7 +1052,7 @@
     "iata": "",
     "coordinates": {
       "lat": -3.6166666666666667,
-      "lon": 3.5833333333333335
+      "lon": 33.93333333333333
     },
     "remarks": ""
   },
@@ -1063,7 +1063,7 @@
     "name": "Pangani",
     "nameWoDiacritics": "Pangani",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -1082,7 +1082,7 @@
     "name": "Pemba",
     "nameWoDiacritics": "Pemba",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -1102,7 +1102,7 @@
     "name": "Rijiju",
     "nameWoDiacritics": "Rijiju",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -1121,7 +1121,7 @@
     "name": "Samanga",
     "nameWoDiacritics": "Samanga",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -1140,7 +1140,7 @@
     "name": "Sanya Juu",
     "nameWoDiacritics": "Sanya Juu",
     "subdivision": "09",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1148,7 +1148,7 @@
     "iata": "",
     "coordinates": {
       "lat": -3.183333333333333,
-      "lon": 4.166666666666667
+      "lon": 37.06666666666667
     },
     "remarks": ""
   },
@@ -1159,7 +1159,7 @@
     "name": "Seronera",
     "nameWoDiacritics": "Seronera",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1178,7 +1178,7 @@
     "name": "Shinyanga",
     "nameWoDiacritics": "Shinyanga",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1197,7 +1197,7 @@
     "name": "Shirati",
     "nameWoDiacritics": "Shirati",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1205,7 +1205,7 @@
     "iata": "",
     "coordinates": {
       "lat": -1.1333333333333333,
-      "lon": 3.5833333333333335
+      "lon": 33.983333333333334
     },
     "remarks": ""
   },
@@ -1216,7 +1216,7 @@
     "name": "Singida",
     "nameWoDiacritics": "Singida",
     "subdivision": "23",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1224,7 +1224,7 @@
     "iata": "",
     "coordinates": {
       "lat": -4.816666666666666,
-      "lon": 3.7333333333333334
+      "lon": 34.75
     },
     "remarks": ""
   },
@@ -1235,7 +1235,7 @@
     "name": "Songea",
     "nameWoDiacritics": "Songea",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1254,7 +1254,7 @@
     "name": "Sumbawanga",
     "nameWoDiacritics": "Sumbawanga",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1273,7 +1273,7 @@
     "name": "Tabora",
     "nameWoDiacritics": "Tabora",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1292,7 +1292,7 @@
     "name": "Tanga",
     "nameWoDiacritics": "Tanga",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -1312,7 +1312,7 @@
     "name": "Tunduna",
     "nameWoDiacritics": "Tunduna",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       2
     ],
@@ -1331,7 +1331,7 @@
     "name": "Wesha",
     "nameWoDiacritics": "Wesha",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -1350,7 +1350,7 @@
     "name": "Yombo",
     "nameWoDiacritics": "Yombo",
     "subdivision": "19",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1358,7 +1358,7 @@
     "iata": "",
     "coordinates": {
       "lat": -6.583333333333333,
-      "lon": 4.416666666666667
+      "lon": 38.833333333333336
     },
     "remarks": ""
   },
@@ -1369,7 +1369,7 @@
     "name": "Zanzibar",
     "nameWoDiacritics": "Zanzibar",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,

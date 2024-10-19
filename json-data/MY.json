@@ -6,7 +6,7 @@
     "name": ".MALAYSIA",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Abu",
     "nameWoDiacritics": "Abu",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.116666666666666,
-      "lon": 10.85
+      "lon": 105.28333333333333
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Air Itam/Penang",
     "nameWoDiacritics": "Air Itam/Penang",
     "subdivision": "07",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -50,7 +50,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.4,
-      "lon": 10.016666666666667
+      "lon": 100.28333333333333
     },
     "remarks": ""
   },
@@ -61,7 +61,7 @@
     "name": "Alor Gajah",
     "nameWoDiacritics": "Alor Gajah",
     "subdivision": "04",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -70,7 +70,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.3666666666666667,
-      "lon": 10.35
+      "lon": 102.2
     },
     "remarks": ""
   },
@@ -81,7 +81,7 @@
     "name": "Alor Setar",
     "nameWoDiacritics": "Alor Setar",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -100,7 +100,7 @@
     "name": "Ampang",
     "nameWoDiacritics": "Ampang",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -108,7 +108,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.15,
-      "lon": 10.233333333333333
+      "lon": 101.76666666666667
     },
     "remarks": ""
   },
@@ -119,7 +119,7 @@
     "name": "Angsi",
     "nameWoDiacritics": "Angsi",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -127,7 +127,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.083333333333333,
-      "lon": 10.733333333333333
+      "lon": 104.68333333333334
     },
     "remarks": ""
   },
@@ -138,7 +138,7 @@
     "name": "Ba Kelalan",
     "nameWoDiacritics": "Ba Kelalan",
     "subdivision": "13",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -147,7 +147,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.9833333333333334,
-      "lon": 11.883333333333333
+      "lon": 115.61666666666666
     },
     "remarks": ""
   },
@@ -158,7 +158,7 @@
     "name": "Bagan Datok",
     "nameWoDiacritics": "Bagan Datok",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -177,7 +177,7 @@
     "name": "Bagan Luar (Butterworth)",
     "nameWoDiacritics": "Bagan Luar (Butterworth)",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0,
       2,
@@ -198,7 +198,7 @@
     "name": "Bahau",
     "nameWoDiacritics": "Bahau",
     "subdivision": "05",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -206,7 +206,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.5,
-      "lon": 10.366666666666667
+      "lon": 102.41666666666667
     },
     "remarks": ""
   },
@@ -217,7 +217,7 @@
     "name": "Bakapit",
     "nameWoDiacritics": "Bakapit",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -236,7 +236,7 @@
     "name": "Balakong",
     "nameWoDiacritics": "Balakong",
     "subdivision": "10",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -244,7 +244,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.0166666666666666,
-      "lon": 10.233333333333333
+      "lon": 101.75
     },
     "remarks": ""
   },
@@ -255,7 +255,7 @@
     "name": "Balik Pulau",
     "nameWoDiacritics": "Balik Pulau",
     "subdivision": "07",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -263,7 +263,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.35,
-      "lon": 10.016666666666667
+      "lon": 100.23333333333333
     },
     "remarks": ""
   },
@@ -274,7 +274,7 @@
     "name": "Bandar Baru Bangi",
     "nameWoDiacritics": "Bandar Baru Bangi",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -282,7 +282,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.95,
-      "lon": 10.233333333333333
+      "lon": 101.76666666666667
     },
     "remarks": ""
   },
@@ -293,7 +293,7 @@
     "name": "Bandar Baru Selayang",
     "nameWoDiacritics": "Bandar Baru Selayang",
     "subdivision": "10",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -301,7 +301,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.2666666666666666,
-      "lon": 10.216666666666667
+      "lon": 101.65
     },
     "remarks": ""
   },
@@ -312,7 +312,7 @@
     "name": "Bandar Enstek",
     "nameWoDiacritics": "Bandar Enstek",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -320,7 +320,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.75,
-      "lon": 10.233333333333333
+      "lon": 101.73333333333333
     },
     "remarks": ""
   },
@@ -331,7 +331,7 @@
     "name": "Bandar Maharani",
     "nameWoDiacritics": "Bandar Maharani",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -350,7 +350,7 @@
     "name": "Bandar Sri Damansara",
     "nameWoDiacritics": "Bandar Sri Damansara",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -358,7 +358,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.183333333333333,
-      "lon": 10.216666666666667
+      "lon": 101.6
     },
     "remarks": ""
   },
@@ -369,7 +369,7 @@
     "name": "Bandar Tenggara",
     "nameWoDiacritics": "Bandar Tenggara",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -377,7 +377,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.8666666666666667,
-      "lon": 10.55
+      "lon": 103.61666666666666
     },
     "remarks": ""
   },
@@ -388,7 +388,7 @@
     "name": "Bangau",
     "nameWoDiacritics": "Bangau",
     "subdivision": "12",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -396,7 +396,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.95,
-      "lon": 12.066666666666666
+      "lon": 116.7
     },
     "remarks": ""
   },
@@ -407,7 +407,7 @@
     "name": "Bangi",
     "nameWoDiacritics": "Bangi",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -415,7 +415,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.9,
-      "lon": 10.233333333333333
+      "lon": 101.78333333333333
     },
     "remarks": ""
   },
@@ -426,7 +426,7 @@
     "name": "Banting",
     "nameWoDiacritics": "Banting",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -434,7 +434,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.8166666666666664,
-      "lon": 10.2
+      "lon": 101.48333333333333
     },
     "remarks": ""
   },
@@ -445,7 +445,7 @@
     "name": "Bario",
     "nameWoDiacritics": "Bario",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -464,7 +464,7 @@
     "name": "Batang Kali",
     "nameWoDiacritics": "Batang Kali",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -472,7 +472,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.466666666666667,
-      "lon": 10.216666666666667
+      "lon": 101.63333333333334
     },
     "remarks": ""
   },
@@ -483,7 +483,7 @@
     "name": "\"Batu Batu",
     "nameWoDiacritics": " Sabah\"",
     "subdivision": "\"Batu Batu",
-    "status": " Sabah\"",
+    "status": null,
     "function": [
       0,
       1
@@ -503,7 +503,7 @@
     "name": "Batu Caves",
     "nameWoDiacritics": "Batu Caves",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -511,7 +511,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.2333333333333334,
-      "lon": 10.233333333333333
+      "lon": 101.66666666666667
     },
     "remarks": ""
   },
@@ -522,7 +522,7 @@
     "name": "Batu Gajah",
     "nameWoDiacritics": "Batu Gajah",
     "subdivision": "08",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -530,7 +530,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.466666666666667,
-      "lon": 10.166666666666666
+      "lon": 101.05
     },
     "remarks": ""
   },
@@ -541,7 +541,7 @@
     "name": "Batu Kawan",
     "nameWoDiacritics": "Batu Kawan",
     "subdivision": "07",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -551,7 +551,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.25,
-      "lon": 10.033333333333333
+      "lon": 100.41666666666667
     },
     "remarks": ""
   },
@@ -562,7 +562,7 @@
     "name": "\"Batu Lintang",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Batu Lintang",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [
       0,
       1
@@ -582,7 +582,7 @@
     "name": "Batu Maung",
     "nameWoDiacritics": "Batu Maung",
     "subdivision": "07",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -590,7 +590,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.283333333333333,
-      "lon": 10.016666666666667
+      "lon": 100.28333333333333
     },
     "remarks": ""
   },
@@ -601,7 +601,7 @@
     "name": "Batu Pahat",
     "nameWoDiacritics": "Batu Pahat",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -620,7 +620,7 @@
     "name": "\"Bau",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Bau",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -637,7 +637,7 @@
     "name": "Bayan Lepas",
     "nameWoDiacritics": "Bayan Lepas",
     "subdivision": "07",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -645,7 +645,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.283333333333333,
-      "lon": 10.016666666666667
+      "lon": 100.25
     },
     "remarks": ""
   },
@@ -656,7 +656,7 @@
     "name": "Beaufort",
     "nameWoDiacritics": "Beaufort",
     "subdivision": "12",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -666,7 +666,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.333333333333333,
-      "lon": 11.9
+      "lon": 115.75
     },
     "remarks": ""
   },
@@ -677,7 +677,7 @@
     "name": "Bedong",
     "nameWoDiacritics": "Bedong",
     "subdivision": "12",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -685,7 +685,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.583333333333333,
-      "lon": 12.05
+      "lon": 116.65
     },
     "remarks": ""
   },
@@ -696,7 +696,7 @@
     "name": "Bedong",
     "nameWoDiacritics": "Bedong",
     "subdivision": "02",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -704,7 +704,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.716666666666667,
-      "lon": 10.05
+      "lon": 100.51666666666667
     },
     "remarks": ""
   },
@@ -715,7 +715,7 @@
     "name": "\"Belaga",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Belaga",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1--4----",
@@ -732,7 +732,7 @@
     "name": "\"Beluran",
     "nameWoDiacritics": " Sabah\"",
     "subdivision": "\"Beluran",
-    "status": " Sabah\"",
+    "status": null,
     "function": [
       0,
       1
@@ -752,7 +752,7 @@
     "name": "Bentong",
     "nameWoDiacritics": "Bentong",
     "subdivision": "06",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -760,7 +760,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.533333333333333,
-      "lon": 10.25
+      "lon": 101.91666666666667
     },
     "remarks": ""
   },
@@ -771,7 +771,7 @@
     "name": "\"Benut",
     "nameWoDiacritics": " Johor\"",
     "subdivision": "\"Benut",
-    "status": " Johor\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -788,7 +788,7 @@
     "name": "Beranang",
     "nameWoDiacritics": "Beranang",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -797,7 +797,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.8833333333333333,
-      "lon": 10.25
+      "lon": 101.86666666666666
     },
     "remarks": ""
   },
@@ -808,7 +808,7 @@
     "name": "Berangan",
     "nameWoDiacritics": "Berangan",
     "subdivision": "03",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -816,7 +816,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.166666666666667,
-      "lon": 10.35
+      "lon": 102.2
     },
     "remarks": ""
   },
@@ -827,7 +827,7 @@
     "name": "\"Betong",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Betong",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -844,7 +844,7 @@
     "name": "\"Biawak",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Biawak",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -861,7 +861,7 @@
     "name": "Bidor",
     "nameWoDiacritics": "Bidor",
     "subdivision": "08",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -869,7 +869,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.116666666666666,
-      "lon": 10.183333333333334
+      "lon": 101.28333333333333
     },
     "remarks": ""
   },
@@ -880,7 +880,7 @@
     "name": "\"Binatang",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Binatang",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -897,7 +897,7 @@
     "name": "Bintangor",
     "nameWoDiacritics": "Bintangor",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -916,7 +916,7 @@
     "name": "\"Bintulu",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Bintulu",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1-------",
@@ -933,7 +933,7 @@
     "name": "Bukit Beruntung",
     "nameWoDiacritics": "Bukit Beruntung",
     "subdivision": "10",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -952,7 +952,7 @@
     "name": "Bukit Kayu Hitam",
     "nameWoDiacritics": "Bukit Kayu Hitam",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -960,7 +960,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.5,
-      "lon": 10.033333333333333
+      "lon": 100.41666666666667
     },
     "remarks": ""
   },
@@ -971,7 +971,7 @@
     "name": "Bukit Keteri",
     "nameWoDiacritics": "Bukit Keteri",
     "subdivision": "09",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -980,7 +980,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.533333333333333,
-      "lon": 10.016666666666667
+      "lon": 100.25
     },
     "remarks": ""
   },
@@ -991,7 +991,7 @@
     "name": "Bukit Mertajam",
     "nameWoDiacritics": "Bukit Mertajam",
     "subdivision": "07",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -999,7 +999,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.366666666666666,
-      "lon": 10.033333333333333
+      "lon": 100.46666666666667
     },
     "remarks": ""
   },
@@ -1010,7 +1010,7 @@
     "name": "Bukit Raja",
     "nameWoDiacritics": "Bukit Raja",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1019,7 +1019,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.1,
-      "lon": 10.2
+      "lon": 101.43333333333334
     },
     "remarks": ""
   },
@@ -1030,7 +1030,7 @@
     "name": "\"Bunan Gega",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Bunan Gega",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -1047,7 +1047,7 @@
     "name": "Bunga Kekwa",
     "nameWoDiacritics": "Bunga Kekwa",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       6
     ],
@@ -1055,7 +1055,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.05,
-      "lon": 10.666666666666666
+      "lon": 104.06666666666666
     },
     "remarks": ""
   },
@@ -1066,7 +1066,7 @@
     "name": "Bunga Raya",
     "nameWoDiacritics": "Bunga Raya",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -1074,7 +1074,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.95,
-      "lon": 10.666666666666666
+      "lon": 104.1
     },
     "remarks": ""
   },
@@ -1085,7 +1085,7 @@
     "name": "Butterworth",
     "nameWoDiacritics": "Butterworth",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1093,7 +1093,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.416666666666667,
-      "lon": 10.033333333333333
+      "lon": 100.4
     },
     "remarks": ""
   },
@@ -1104,7 +1104,7 @@
     "name": "Butterworth = Bagan Luar",
     "nameWoDiacritics": "Butterworth = Bagan Luar",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -1121,7 +1121,7 @@
     "name": "Cakerawala Terminal",
     "nameWoDiacritics": "Cakerawala Terminal",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       6
     ],
@@ -1129,7 +1129,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.116666666666666,
-      "lon": 10.5
+      "lon": 103.1
     },
     "remarks": ""
   },
@@ -1140,7 +1140,7 @@
     "name": "Cameron Highlands",
     "nameWoDiacritics": "Cameron Highlands",
     "subdivision": "06",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1148,7 +1148,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.483333333333333,
-      "lon": 10.2
+      "lon": 101.45
     },
     "remarks": ""
   },
@@ -1159,7 +1159,7 @@
     "name": "Carey Island Estate",
     "nameWoDiacritics": "Carey Island Estate",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -1167,7 +1167,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.9166666666666665,
-      "lon": 10.2
+      "lon": 101.4
     },
     "remarks": ""
   },
@@ -1178,7 +1178,7 @@
     "name": "Cendor",
     "nameWoDiacritics": "Cendor",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -1186,7 +1186,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.566666666666666,
-      "lon": 10.716666666666667
+      "lon": 104.55
     },
     "remarks": ""
   },
@@ -1197,7 +1197,7 @@
     "name": "Cheras",
     "nameWoDiacritics": "Cheras",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1205,7 +1205,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.05,
-      "lon": 10.233333333333333
+      "lon": 101.76666666666667
     },
     "remarks": ""
   },
@@ -1216,7 +1216,7 @@
     "name": "Cheras",
     "nameWoDiacritics": "Cheras",
     "subdivision": "14",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -1224,7 +1224,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.1,
-      "lon": 10.233333333333333
+      "lon": 101.71666666666667
     },
     "remarks": ""
   },
@@ -1235,7 +1235,7 @@
     "name": "Cukai",
     "nameWoDiacritics": "Cukai",
     "subdivision": "11",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -1243,7 +1243,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.25,
-      "lon": 10.533333333333333
+      "lon": 103.41666666666667
     },
     "remarks": ""
   },
@@ -1254,7 +1254,7 @@
     "name": "Cyberjaya",
     "nameWoDiacritics": "Cyberjaya",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1262,7 +1262,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.9166666666666665,
-      "lon": 10.216666666666667
+      "lon": 101.65
     },
     "remarks": ""
   },
@@ -1273,7 +1273,7 @@
     "name": "Damansara",
     "nameWoDiacritics": "Damansara",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1281,7 +1281,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.1333333333333333,
-      "lon": 10.216666666666667
+      "lon": 101.63333333333334
     },
     "remarks": ""
   },
@@ -1292,7 +1292,7 @@
     "name": "Danjindawai",
     "nameWoDiacritics": "Danjindawai",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -1311,7 +1311,7 @@
     "name": "\"Daro",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Daro",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -1328,7 +1328,7 @@
     "name": "Endau",
     "nameWoDiacritics": "Endau",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -1347,7 +1347,7 @@
     "name": "Falim",
     "nameWoDiacritics": "Falim",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1355,7 +1355,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.75,
-      "lon": 10.166666666666666
+      "lon": 101.06666666666666
     },
     "remarks": ""
   },
@@ -1366,7 +1366,7 @@
     "name": "Gebeng",
     "nameWoDiacritics": "Gebeng",
     "subdivision": "06",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1375,7 +1375,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.966666666666667,
-      "lon": 10.533333333333333
+      "lon": 103.41666666666667
     },
     "remarks": ""
   },
@@ -1386,7 +1386,7 @@
     "name": "Gelang Patah",
     "nameWoDiacritics": "Gelang Patah",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1405,7 +1405,7 @@
     "name": "Gelugor",
     "nameWoDiacritics": "Gelugor",
     "subdivision": "06",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1413,7 +1413,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.416666666666667,
-      "lon": 10.016666666666667
+      "lon": 100.31666666666666
     },
     "remarks": ""
   },
@@ -1424,7 +1424,7 @@
     "name": "Genting",
     "nameWoDiacritics": "Genting",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -1432,7 +1432,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.7,
-      "lon": 10.35
+      "lon": 98.16666666666667
     },
     "remarks": ""
   },
@@ -1443,7 +1443,7 @@
     "name": "George Town",
     "nameWoDiacritics": "George Town",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1451,7 +1451,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.416666666666667,
-      "lon": 10.033333333333333
+      "lon": 100.33333333333333
     },
     "remarks": ""
   },
@@ -1462,7 +1462,7 @@
     "name": "Gua Musang",
     "nameWoDiacritics": "Gua Musang",
     "subdivision": "03",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1471,7 +1471,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.883333333333333,
-      "lon": 10.25
+      "lon": 101.96666666666667
     },
     "remarks": ""
   },
@@ -1482,7 +1482,7 @@
     "name": "Hutan Melintang",
     "nameWoDiacritics": "Hutan Melintang",
     "subdivision": "08",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -1490,7 +1490,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.8833333333333333,
-      "lon": 10.083333333333334
+      "lon": 100.93333333333334
     },
     "remarks": ""
   },
@@ -1501,7 +1501,7 @@
     "name": "Inanam",
     "nameWoDiacritics": "Inanam",
     "subdivision": "12",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1509,7 +1509,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.983333333333333,
-      "lon": 12
+      "lon": 116.13333333333334
     },
     "remarks": ""
   },
@@ -1520,7 +1520,7 @@
     "name": "Ipoh",
     "nameWoDiacritics": "Ipoh",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1539,7 +1539,7 @@
     "name": "\"Jambongan",
     "nameWoDiacritics": " Sabah\"",
     "subdivision": "\"Jambongan",
-    "status": " Sabah\"",
+    "status": null,
     "function": [
       0,
       1
@@ -1559,7 +1559,7 @@
     "name": "Jelapang",
     "nameWoDiacritics": "Jelapang",
     "subdivision": "08",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1567,7 +1567,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.633333333333333,
-      "lon": 10.166666666666666
+      "lon": 101.05
     },
     "remarks": ""
   },
@@ -1578,7 +1578,7 @@
     "name": "Jelutong",
     "nameWoDiacritics": "Jelutong",
     "subdivision": "07",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -1586,7 +1586,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.4,
-      "lon": 10.016666666666667
+      "lon": 100.31666666666666
     },
     "remarks": ""
   },
@@ -1597,7 +1597,7 @@
     "name": "Jeram",
     "nameWoDiacritics": "Jeram",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1605,7 +1605,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.216666666666667,
-      "lon": 10.183333333333334
+      "lon": 101.31666666666666
     },
     "remarks": ""
   },
@@ -1616,7 +1616,7 @@
     "name": "Jertih",
     "nameWoDiacritics": "Jertih",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1624,7 +1624,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.75,
-      "lon": 10.383333333333333
+      "lon": 102.5
     },
     "remarks": ""
   },
@@ -1635,7 +1635,7 @@
     "name": "\"Jitra",
     "nameWoDiacritics": " Kedah\"",
     "subdivision": "\"Jitra",
-    "status": " Kedah\"",
+    "status": null,
     "function": [],
     "date": "RQ",
     "iata": "--3-----",
@@ -1652,7 +1652,7 @@
     "name": "Johor Bahru",
     "nameWoDiacritics": "Johor Bahru",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -1672,7 +1672,7 @@
     "name": "\"Kabong",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Kabong",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -1689,7 +1689,7 @@
     "name": "Kajang",
     "nameWoDiacritics": "Kajang",
     "subdivision": "10",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1697,7 +1697,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.9833333333333334,
-      "lon": 10.233333333333333
+      "lon": 101.78333333333333
     },
     "remarks": ""
   },
@@ -1708,7 +1708,7 @@
     "name": "Kampar",
     "nameWoDiacritics": "Kampar",
     "subdivision": "08",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1716,7 +1716,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.3,
-      "lon": 10.166666666666666
+      "lon": 101.15
     },
     "remarks": ""
   },
@@ -1727,7 +1727,7 @@
     "name": "Kampong Tanjong Kupang",
     "nameWoDiacritics": "Kampong Tanjong Kupang",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -1736,7 +1736,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.35,
-      "lon": 10.55
+      "lon": 103.58333333333333
     },
     "remarks": ""
   },
@@ -1747,7 +1747,7 @@
     "name": "Kampong Tasek",
     "nameWoDiacritics": "Kampong Tasek",
     "subdivision": "08",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1756,7 +1756,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.65,
-      "lon": 10.166666666666666
+      "lon": 101.1
     },
     "remarks": ""
   },
@@ -1767,7 +1767,7 @@
     "name": "Kampong Ulu Redang",
     "nameWoDiacritics": "Kampong Ulu Redang",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1775,7 +1775,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.783333333333333,
-      "lon": 10.5
+      "lon": 103.01666666666667
     },
     "remarks": ""
   },
@@ -1786,7 +1786,7 @@
     "name": "Kampung Jawa",
     "nameWoDiacritics": "Kampung Jawa",
     "subdivision": "06",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1794,7 +1794,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.7,
-      "lon": 10.55
+      "lon": 103.58333333333333
     },
     "remarks": ""
   },
@@ -1805,7 +1805,7 @@
     "name": "Kampung Kelang Lama",
     "nameWoDiacritics": "Kampung Kelang Lama",
     "subdivision": "02",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1813,7 +1813,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.383333333333334,
-      "lon": 10.05
+      "lon": 100.56666666666666
     },
     "remarks": ""
   },
@@ -1824,7 +1824,7 @@
     "name": "Kampung Tanjung Langsat",
     "nameWoDiacritics": "Kampung Tanjung Langsat",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -1832,7 +1832,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.4666666666666668,
-      "lon": 10.666666666666666
+      "lon": 104.01666666666667
     },
     "remarks": ""
   },
@@ -1843,7 +1843,7 @@
     "name": "Kampung Tikam Batu",
     "nameWoDiacritics": "Kampung Tikam Batu",
     "subdivision": "02",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1851,7 +1851,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.583333333333333,
-      "lon": 10.033333333333333
+      "lon": 100.41666666666667
     },
     "remarks": ""
   },
@@ -1862,7 +1862,7 @@
     "name": "Kamunting",
     "nameWoDiacritics": "Kamunting",
     "subdivision": "08",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1870,7 +1870,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.883333333333333,
-      "lon": 10.066666666666666
+      "lon": 100.73333333333333
     },
     "remarks": ""
   },
@@ -1881,7 +1881,7 @@
     "name": "Kangar",
     "nameWoDiacritics": "Kangar",
     "subdivision": "09",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1889,7 +1889,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.433333333333334,
-      "lon": 10.016666666666667
+      "lon": 100.18333333333334
     },
     "remarks": ""
   },
@@ -1900,7 +1900,7 @@
     "name": "Kapar",
     "nameWoDiacritics": "Kapar",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1908,7 +1908,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.1333333333333333,
-      "lon": 10.2
+      "lon": 101.36666666666666
     },
     "remarks": ""
   },
@@ -1919,7 +1919,7 @@
     "name": "\"Kapit",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Kapit",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "---4----",
@@ -1936,7 +1936,7 @@
     "name": "Kejit",
     "nameWoDiacritics": "Kejit",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -1955,7 +1955,7 @@
     "name": "Kelang Baharu",
     "nameWoDiacritics": "Kelang Baharu",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2,
       5
@@ -1964,7 +1964,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.683333333333334,
-      "lon": 10.05
+      "lon": 100.58333333333333
     },
     "remarks": ""
   },
@@ -1975,7 +1975,7 @@
     "name": "Kemaman",
     "nameWoDiacritics": "Kemaman",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -1994,7 +1994,7 @@
     "name": "Keningau",
     "nameWoDiacritics": "Keningau",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -2002,7 +2002,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.333333333333333,
-      "lon": 12.016666666666666
+      "lon": 116.16666666666667
     },
     "remarks": ""
   },
@@ -2013,7 +2013,7 @@
     "name": "Kepong",
     "nameWoDiacritics": "Kepong",
     "subdivision": "14",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -2021,7 +2021,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.216666666666667,
-      "lon": 10.216666666666667
+      "lon": 101.63333333333334
     },
     "remarks": ""
   },
@@ -2032,7 +2032,7 @@
     "name": "Kepong Cubitt Forest Village",
     "nameWoDiacritics": "Kepong Cubitt Forest Village",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2040,7 +2040,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.183333333333333,
-      "lon": 10.216666666666667
+      "lon": 101.56666666666666
     },
     "remarks": ""
   },
@@ -2051,7 +2051,7 @@
     "name": "Kerteh",
     "nameWoDiacritics": "Kerteh",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2060,7 +2060,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.516666666666667,
-      "lon": 10.533333333333333
+      "lon": 103.45
     },
     "remarks": ""
   },
@@ -2071,7 +2071,7 @@
     "name": "Kertih",
     "nameWoDiacritics": "Kertih",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -2079,7 +2079,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.516666666666667,
-      "lon": 10.533333333333333
+      "lon": 103.45
     },
     "remarks": ""
   },
@@ -2090,7 +2090,7 @@
     "name": "Kijal",
     "nameWoDiacritics": "Kijal",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -2109,7 +2109,7 @@
     "name": "Kikeh",
     "nameWoDiacritics": "Kikeh",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       6
     ],
@@ -2117,7 +2117,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.866666666666667,
-      "lon": 11.683333333333334
+      "lon": 114.28333333333333
     },
     "remarks": ""
   },
@@ -2128,7 +2128,7 @@
     "name": "\"Kimanis",
     "nameWoDiacritics": " Sabah\"",
     "subdivision": "\"Kimanis",
-    "status": " Sabah\"",
+    "status": null,
     "function": [
       0,
       1
@@ -2148,7 +2148,7 @@
     "name": "Klang",
     "nameWoDiacritics": "Klang",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2157,7 +2157,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.033333333333333,
-      "lon": 10.2
+      "lon": 101.45
     },
     "remarks": ""
   },
@@ -2168,7 +2168,7 @@
     "name": "Kluang",
     "nameWoDiacritics": "Kluang",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2176,7 +2176,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.033333333333333,
-      "lon": 10.533333333333333
+      "lon": 103.33333333333333
     },
     "remarks": ""
   },
@@ -2187,7 +2187,7 @@
     "name": "Kluang",
     "nameWoDiacritics": "Kluang",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -2195,7 +2195,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.033333333333333,
-      "lon": 10.516666666666667
+      "lon": 103.31666666666666
     },
     "remarks": ""
   },
@@ -2206,7 +2206,7 @@
     "name": "\"Kota Belud",
     "nameWoDiacritics": " Sabah\"",
     "subdivision": "\"Kota Belud",
-    "status": " Sabah\"",
+    "status": null,
     "function": [
       0,
       1
@@ -2226,7 +2226,7 @@
     "name": "Kota Bharu",
     "nameWoDiacritics": "Kota Bharu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -2246,7 +2246,7 @@
     "name": "\"Kota Kinabalu",
     "nameWoDiacritics": " Sabah\"",
     "subdivision": "\"Kota Kinabalu",
-    "status": " Sabah\"",
+    "status": null,
     "function": [
       0,
       1
@@ -2266,7 +2266,7 @@
     "name": "Kota Marudu",
     "nameWoDiacritics": "Kota Marudu",
     "subdivision": "12",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -2274,7 +2274,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.5,
-      "lon": 12.066666666666666
+      "lon": 116.76666666666667
     },
     "remarks": "@Sub@Coo"
   },
@@ -2285,7 +2285,7 @@
     "name": "Kota Sarang Semut",
     "nameWoDiacritics": "Kota Sarang Semut",
     "subdivision": "02",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -2293,7 +2293,7 @@
     "iata": "",
     "coordinates": {
       "lat": 56.5,
-      "lon": 10.4
+      "lon": 102.66666666666667
     },
     "remarks": ""
   },
@@ -2304,7 +2304,7 @@
     "name": "Kota Tinggi",
     "nameWoDiacritics": "Kota Tinggi",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -2323,7 +2323,7 @@
     "name": "Krety",
     "nameWoDiacritics": "Krety",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -2342,7 +2342,7 @@
     "name": "Kuala Baram",
     "nameWoDiacritics": "Kuala Baram",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -2361,7 +2361,7 @@
     "name": "\"Kuala Belud",
     "nameWoDiacritics": " Sabah\"",
     "subdivision": "\"Kuala Belud",
-    "status": " Sabah\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -2378,7 +2378,7 @@
     "name": "Kuala Besar",
     "nameWoDiacritics": "Kuala Besar",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -2397,7 +2397,7 @@
     "name": "Kuala Besut",
     "nameWoDiacritics": "Kuala Besut",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -2405,7 +2405,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.833333333333333,
-      "lon": 10.383333333333333
+      "lon": 102.56666666666666
     },
     "remarks": ""
   },
@@ -2416,7 +2416,7 @@
     "name": "Kuala Dungun",
     "nameWoDiacritics": "Kuala Dungun",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -2425,7 +2425,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.783333333333333,
-      "lon": 10.533333333333333
+      "lon": 103.43333333333334
     },
     "remarks": ""
   },
@@ -2436,7 +2436,7 @@
     "name": "Kuala Gula",
     "nameWoDiacritics": "Kuala Gula",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -2455,7 +2455,7 @@
     "name": "Kuala Kangsar",
     "nameWoDiacritics": "Kuala Kangsar",
     "subdivision": "08",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2463,7 +2463,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.766666666666667,
-      "lon": 10.083333333333334
+      "lon": 100.95
     },
     "remarks": ""
   },
@@ -2474,7 +2474,7 @@
     "name": "Kuala Kedah",
     "nameWoDiacritics": "Kuala Kedah",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -2493,7 +2493,7 @@
     "name": "Kuala Ketil",
     "nameWoDiacritics": "Kuala Ketil",
     "subdivision": "14",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -2512,7 +2512,7 @@
     "name": "Kuala Krai",
     "nameWoDiacritics": "Kuala Krai",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       1,
       2
@@ -2521,7 +2521,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.533333333333333,
-      "lon": 10.35
+      "lon": 102.18333333333334
     },
     "remarks": ""
   },
@@ -2532,7 +2532,7 @@
     "name": "Kuala Langat",
     "nameWoDiacritics": "Kuala Langat",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2541,7 +2541,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.75,
-      "lon": 10.216666666666667
+      "lon": 101.58333333333333
     },
     "remarks": ""
   },
@@ -2552,7 +2552,7 @@
     "name": "Kuala Lumpur",
     "nameWoDiacritics": "Kuala Lumpur",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -2572,7 +2572,7 @@
     "name": "\"Kuala Penyu",
     "nameWoDiacritics": " Sabah\"",
     "subdivision": "\"Kuala Penyu",
-    "status": " Sabah\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -2589,7 +2589,7 @@
     "name": "Kuala Perlis",
     "nameWoDiacritics": "Kuala Perlis",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -2608,7 +2608,7 @@
     "name": "Kuala Pilah",
     "nameWoDiacritics": "Kuala Pilah",
     "subdivision": "05",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2616,7 +2616,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.7333333333333334,
-      "lon": 10.35
+      "lon": 102.25
     },
     "remarks": ""
   },
@@ -2627,7 +2627,7 @@
     "name": "Kuala Rompin",
     "nameWoDiacritics": "Kuala Rompin",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -2646,7 +2646,7 @@
     "name": "Kuala Sedili",
     "nameWoDiacritics": "Kuala Sedili",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -2665,7 +2665,7 @@
     "name": "\"Kuala Segama",
     "nameWoDiacritics": " Sabah\"",
     "subdivision": "\"Kuala Segama",
-    "status": " Sabah\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -2682,7 +2682,7 @@
     "name": "Kuala Selangor",
     "nameWoDiacritics": "Kuala Selangor",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -2691,7 +2691,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.3333333333333335,
-      "lon": 10.166666666666666
+      "lon": 101.05
     },
     "remarks": ""
   },
@@ -2702,7 +2702,7 @@
     "name": "Kuala Terengganu",
     "nameWoDiacritics": "Kuala Terengganu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -2722,7 +2722,7 @@
     "name": "Kuantan (Tanjong Gelang)",
     "nameWoDiacritics": "Kuantan (Tanjong Gelang)",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -2742,7 +2742,7 @@
     "name": "\"Kuching",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Kuching",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1--45---",
@@ -2759,7 +2759,7 @@
     "name": "\"Kudat",
     "nameWoDiacritics": " Sabah\"",
     "subdivision": "\"Kudat",
-    "status": " Sabah\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1-34----",
@@ -2776,7 +2776,7 @@
     "name": "Kukup",
     "nameWoDiacritics": "Kukup",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -2795,7 +2795,7 @@
     "name": "Kulai",
     "nameWoDiacritics": "Kulai",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2803,7 +2803,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.6666666666666665,
-      "lon": 10.55
+      "lon": 103.6
     },
     "remarks": ""
   },
@@ -2814,7 +2814,7 @@
     "name": "Kulim",
     "nameWoDiacritics": "Kulim",
     "subdivision": "02",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2822,7 +2822,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.35,
-      "lon": 10.05
+      "lon": 100.53333333333333
     },
     "remarks": ""
   },
@@ -2833,7 +2833,7 @@
     "name": "\"Kunak",
     "nameWoDiacritics": " Sabah\"",
     "subdivision": "\"Kunak",
-    "status": " Sabah\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -2850,7 +2850,7 @@
     "name": "Labuan",
     "nameWoDiacritics": "Labuan",
     "subdivision": "15",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -2859,7 +2859,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.283333333333333,
-      "lon": 11.85
+      "lon": 115.23333333333333
     },
     "remarks": "@Sub@Coo"
   },
@@ -2870,7 +2870,7 @@
     "name": "Labuan Haji",
     "nameWoDiacritics": "Labuan Haji",
     "subdivision": "12",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -2878,7 +2878,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.483333333333333,
-      "lon": 12.383333333333333
+      "lon": 118.63333333333334
     },
     "remarks": ""
   },
@@ -2889,7 +2889,7 @@
     "name": "\"Lahad Datu",
     "nameWoDiacritics": " Sabah\"",
     "subdivision": "\"Lahad Datu",
-    "status": " Sabah\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1--4----",
@@ -2906,7 +2906,7 @@
     "name": "Lahat",
     "nameWoDiacritics": "Lahat",
     "subdivision": "08",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2915,7 +2915,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.55,
-      "lon": 10.166666666666666
+      "lon": 101.03333333333333
     },
     "remarks": ""
   },
@@ -2926,7 +2926,7 @@
     "name": "Langkap",
     "nameWoDiacritics": "Langkap",
     "subdivision": "08",
-    "status": "RQ",
+    "status": 9,
     "function": [
       1,
       2
@@ -2935,7 +2935,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.083333333333333,
-      "lon": 10.183333333333334
+      "lon": 101.25
     },
     "remarks": ""
   },
@@ -2946,7 +2946,7 @@
     "name": "Langkawi",
     "nameWoDiacritics": "Langkawi",
     "subdivision": "02",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -2956,7 +2956,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.366666666666666,
-      "lon": 10.566666666666666
+      "lon": 99.8
     },
     "remarks": ""
   },
@@ -2967,7 +2967,7 @@
     "name": "\"Lawas",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Lawas",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1--4----",
@@ -2984,7 +2984,7 @@
     "name": "\"Limbang",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Limbang",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1-------",
@@ -3001,7 +3001,7 @@
     "name": "\"Lingga",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Lingga",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -3018,7 +3018,7 @@
     "name": "Long Akah",
     "nameWoDiacritics": "Long Akah",
     "subdivision": "13",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -3026,7 +3026,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.3166666666666664,
-      "lon": 11.733333333333333
+      "lon": 114.78333333333333
     },
     "remarks": ""
   },
@@ -3037,7 +3037,7 @@
     "name": "Long Banga",
     "nameWoDiacritics": "Long Banga",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -3045,7 +3045,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.183333333333333,
-      "lon": 11.866666666666667
+      "lon": 115.41666666666667
     },
     "remarks": ""
   },
@@ -3056,7 +3056,7 @@
     "name": "Long Lama",
     "nameWoDiacritics": "Long Lama",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -3064,7 +3064,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.7666666666666666,
-      "lon": 11.7
+      "lon": 114.4
     },
     "remarks": ""
   },
@@ -3075,7 +3075,7 @@
     "name": "Long Lellang",
     "nameWoDiacritics": "Long Lellang",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -3083,7 +3083,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.4166666666666665,
-      "lon": 11.833333333333334
+      "lon": 115.13333333333334
     },
     "remarks": ""
   },
@@ -3094,7 +3094,7 @@
     "name": "Long Pasia",
     "nameWoDiacritics": "Long Pasia",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -3102,7 +3102,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.383333333333334,
-      "lon": 11.9
+      "lon": 115.73333333333333
     },
     "remarks": ""
   },
@@ -3113,7 +3113,7 @@
     "name": "Long Semado",
     "nameWoDiacritics": "Long Semado",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3132,7 +3132,7 @@
     "name": "Long Seridan",
     "nameWoDiacritics": "Long Seridan",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3151,7 +3151,7 @@
     "name": "Long Sukang",
     "nameWoDiacritics": "Long Sukang",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3170,7 +3170,7 @@
     "name": "Lubok Antu",
     "nameWoDiacritics": "Lubok Antu",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3178,7 +3178,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.0833333333333333,
-      "lon": 11.333333333333334
+      "lon": 112
     },
     "remarks": ""
   },
@@ -3189,7 +3189,7 @@
     "name": "Lumut",
     "nameWoDiacritics": "Lumut",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -3208,7 +3208,7 @@
     "name": "Lunas",
     "nameWoDiacritics": "Lunas",
     "subdivision": "02",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3216,7 +3216,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.433333333333334,
-      "lon": 10.05
+      "lon": 100.53333333333333
     },
     "remarks": ""
   },
@@ -3227,7 +3227,7 @@
     "name": "\"Lundu",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Lundu",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -3244,7 +3244,7 @@
     "name": "\"Lutong",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Lutong",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -3261,7 +3261,7 @@
     "name": "Mak Mandin",
     "nameWoDiacritics": "Mak Mandin",
     "subdivision": "07",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3269,7 +3269,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.416666666666667,
-      "lon": 10.033333333333333
+      "lon": 100.36666666666666
     },
     "remarks": ""
   },
@@ -3280,7 +3280,7 @@
     "name": "Malacca",
     "nameWoDiacritics": "Malacca",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -3300,7 +3300,7 @@
     "name": "Manjung",
     "nameWoDiacritics": "Manjung",
     "subdivision": "08",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -3308,7 +3308,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.15,
-      "lon": 10.05
+      "lon": 100.61666666666666
     },
     "remarks": ""
   },
@@ -3319,7 +3319,7 @@
     "name": "\"Marudi",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Marudi",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1--4----",
@@ -3336,7 +3336,7 @@
     "name": "Masai",
     "nameWoDiacritics": "Masai",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3344,7 +3344,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.5,
-      "lon": 10.583333333333334
+      "lon": 103.88333333333334
     },
     "remarks": ""
   },
@@ -3355,7 +3355,7 @@
     "name": "Melaka",
     "nameWoDiacritics": "Melaka",
     "subdivision": "14",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -3374,7 +3374,7 @@
     "name": "\"Mempakul",
     "nameWoDiacritics": " Sabah\"",
     "subdivision": "\"Mempakul",
-    "status": " Sabah\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -3391,7 +3391,7 @@
     "name": "Menglembu",
     "nameWoDiacritics": "Menglembu",
     "subdivision": "08",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -3400,7 +3400,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.566666666666666,
-      "lon": 10.166666666666666
+      "lon": 101.03333333333333
     },
     "remarks": ""
   },
@@ -3411,7 +3411,7 @@
     "name": "Mentakab",
     "nameWoDiacritics": "Mentakab",
     "subdivision": "06",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3419,7 +3419,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.4833333333333334,
-      "lon": 10.366666666666667
+      "lon": 102.35
     },
     "remarks": ""
   },
@@ -3430,7 +3430,7 @@
     "name": "Menumbok",
     "nameWoDiacritics": "Menumbok",
     "subdivision": "12",
-    "status": "AM",
+    "status": 4,
     "function": [
       0,
       2
@@ -3439,7 +3439,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.3,
-      "lon": 11.866666666666667
+      "lon": 115.36666666666666
     },
     "remarks": ""
   },
@@ -3450,7 +3450,7 @@
     "name": "Merbok",
     "nameWoDiacritics": "Merbok",
     "subdivision": "02",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -3459,7 +3459,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.716666666666667,
-      "lon": 10.033333333333333
+      "lon": 100.41666666666667
     },
     "remarks": ""
   },
@@ -3470,7 +3470,7 @@
     "name": "Mersing",
     "nameWoDiacritics": "Mersing",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -3490,7 +3490,7 @@
     "name": "Meru",
     "nameWoDiacritics": "Meru",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3498,7 +3498,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.1333333333333333,
-      "lon": 10.2
+      "lon": 101.43333333333334
     },
     "remarks": ""
   },
@@ -3509,7 +3509,7 @@
     "name": "\"Miri",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Miri",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1-------",
@@ -3526,7 +3526,7 @@
     "name": "Mostyn",
     "nameWoDiacritics": "Mostyn",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -3534,7 +3534,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.616666666666667,
-      "lon": 12.333333333333334
+      "lon": 118.15
     },
     "remarks": ""
   },
@@ -3545,7 +3545,7 @@
     "name": "Muar",
     "nameWoDiacritics": "Muar",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -3564,7 +3564,7 @@
     "name": "Muda Marine Terminal",
     "nameWoDiacritics": "Muda Marine Terminal",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -3572,7 +3572,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.583333333333333,
-      "lon": 10.416666666666666
+      "lon": 102.98333333333333
     },
     "remarks": ""
   },
@@ -3583,7 +3583,7 @@
     "name": "\"Mukah",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Mukah",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1--4----",
@@ -3600,7 +3600,7 @@
     "name": "Mulu",
     "nameWoDiacritics": "Mulu",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -3608,7 +3608,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.05,
-      "lon": 11.733333333333333
+      "lon": 114.8
     },
     "remarks": ""
   },
@@ -3619,7 +3619,7 @@
     "name": "Nenasi",
     "nameWoDiacritics": "Nenasi",
     "subdivision": "06",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -3628,7 +3628,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.1333333333333333,
-      "lon": 10.533333333333333
+      "lon": 103.45
     },
     "remarks": ""
   },
@@ -3639,7 +3639,7 @@
     "name": "Nibong Tebal",
     "nameWoDiacritics": "Nibong Tebal",
     "subdivision": "06",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -3647,7 +3647,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.166666666666667,
-      "lon": 10.033333333333333
+      "lon": 100.48333333333333
     },
     "remarks": ""
   },
@@ -3658,7 +3658,7 @@
     "name": "Nibong Tebal",
     "nameWoDiacritics": "Nibong Tebal",
     "subdivision": "07",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -3666,7 +3666,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.166666666666667,
-      "lon": 10.033333333333333
+      "lon": 100.46666666666667
     },
     "remarks": ""
   },
@@ -3677,7 +3677,7 @@
     "name": "Nilai",
     "nameWoDiacritics": "Nilai",
     "subdivision": "05",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -3685,7 +3685,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.8166666666666664,
-      "lon": 10.233333333333333
+      "lon": 101.8
     },
     "remarks": ""
   },
@@ -3696,7 +3696,7 @@
     "name": "North Pt",
     "nameWoDiacritics": "North Pt",
     "subdivision": "10",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -3715,7 +3715,7 @@
     "name": "Northport/Pt Klang",
     "nameWoDiacritics": "Northport/Pt Klang",
     "subdivision": "14",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -3734,7 +3734,7 @@
     "name": "Nusajaya",
     "nameWoDiacritics": "Nusajaya",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3742,7 +3742,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.4666666666666668,
-      "lon": 10.55
+      "lon": 103.63333333333334
     },
     "remarks": ""
   },
@@ -3753,7 +3753,7 @@
     "name": "Padang Besar",
     "nameWoDiacritics": "Padang Besar",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3761,7 +3761,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.383333333333334,
-      "lon": 10.016666666666667
+      "lon": 100.3
     },
     "remarks": ""
   },
@@ -3772,7 +3772,7 @@
     "name": "Padang Serai",
     "nameWoDiacritics": "Padang Serai",
     "subdivision": "02",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3780,7 +3780,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.516666666666667,
-      "lon": 10.05
+      "lon": 100.55
     },
     "remarks": ""
   },
@@ -3791,7 +3791,7 @@
     "name": "Paka",
     "nameWoDiacritics": "Paka",
     "subdivision": "11",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -3799,7 +3799,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.65,
-      "lon": 10.533333333333333
+      "lon": 103.43333333333334
     },
     "remarks": ""
   },
@@ -3810,7 +3810,7 @@
     "name": "\"Paloh",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Paloh",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -3827,7 +3827,7 @@
     "name": "Pamol",
     "nameWoDiacritics": "Pamol",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3846,7 +3846,7 @@
     "name": "Panchang",
     "nameWoDiacritics": "Panchang",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -3865,7 +3865,7 @@
     "name": "Pandamaran",
     "nameWoDiacritics": "Pandamaran",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -3873,7 +3873,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.0166666666666666,
-      "lon": 10.233333333333333
+      "lon": 101.7
     },
     "remarks": ""
   },
@@ -3884,7 +3884,7 @@
     "name": "Pangkur",
     "nameWoDiacritics": "Pangkur",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3892,7 +3892,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.216666666666667,
-      "lon": 10.05
+      "lon": 100.56666666666666
     },
     "remarks": ""
   },
@@ -3903,7 +3903,7 @@
     "name": "Pantai Remis",
     "nameWoDiacritics": "Pantai Remis",
     "subdivision": "08",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3911,7 +3911,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.45,
-      "lon": 10.05
+      "lon": 100.63333333333334
     },
     "remarks": ""
   },
@@ -3922,7 +3922,7 @@
     "name": "Papar",
     "nameWoDiacritics": "Papar",
     "subdivision": "12",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3930,7 +3930,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.733333333333333,
-      "lon": 11.916666666666666
+      "lon": 115.93333333333334
     },
     "remarks": ""
   },
@@ -3941,7 +3941,7 @@
     "name": "Parit Raja",
     "nameWoDiacritics": "Parit Raja",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3949,7 +3949,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.8666666666666667,
-      "lon": 10.5
+      "lon": 103.11666666666666
     },
     "remarks": ""
   },
@@ -3960,7 +3960,7 @@
     "name": "Pasir Gogok",
     "nameWoDiacritics": "Pasir Gogok",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -3979,7 +3979,7 @@
     "name": "\"Pasir Gudang",
     "nameWoDiacritics": " Johor\"",
     "subdivision": "\"Pasir Gudang",
-    "status": " Johor\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -3996,7 +3996,7 @@
     "name": "Pasir Hitam",
     "nameWoDiacritics": "Pasir Hitam",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -4015,7 +4015,7 @@
     "name": "Pasir Puteh",
     "nameWoDiacritics": "Pasir Puteh",
     "subdivision": "03",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4023,7 +4023,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.833333333333333,
-      "lon": 10.366666666666667
+      "lon": 102.4
     },
     "remarks": ""
   },
@@ -4034,7 +4034,7 @@
     "name": "Pedena",
     "nameWoDiacritics": "Pedena",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -4053,7 +4053,7 @@
     "name": "Pekan",
     "nameWoDiacritics": "Pekan",
     "subdivision": "06",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4061,7 +4061,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.5,
-      "lon": 10.533333333333333
+      "lon": 103.41666666666667
     },
     "remarks": ""
   },
@@ -4072,7 +4072,7 @@
     "name": "Penang",
     "nameWoDiacritics": "Penang",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -4080,7 +4080,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.166666666666667,
-      "lon": 10.033333333333333
+      "lon": 100.46666666666667
     },
     "remarks": ""
   },
@@ -4091,7 +4091,7 @@
     "name": "Penang (Georgetown)",
     "nameWoDiacritics": "Penang (Georgetown)",
     "subdivision": "07",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -4100,7 +4100,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.416666666666667,
-      "lon": 10.016666666666667
+      "lon": 100.31666666666666
     },
     "remarks": ""
   },
@@ -4111,7 +4111,7 @@
     "name": "Penara Marine Terminal",
     "nameWoDiacritics": "Penara Marine Terminal",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -4119,7 +4119,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.116666666666666,
-      "lon": 10.833333333333334
+      "lon": 105.01666666666667
     },
     "remarks": ""
   },
@@ -4130,7 +4130,7 @@
     "name": "Pending",
     "nameWoDiacritics": "Pending",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -4139,7 +4139,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.55,
-      "lon": 11.033333333333333
+      "lon": 110.38333333333334
     },
     "remarks": ""
   },
@@ -4150,7 +4150,7 @@
     "name": "Pengerang",
     "nameWoDiacritics": "Pengerang",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -4158,7 +4158,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.3666666666666667,
-      "lon": 10.666666666666666
+      "lon": 104.11666666666666
     },
     "remarks": ""
   },
@@ -4169,7 +4169,7 @@
     "name": "Pengkalan Kubor",
     "nameWoDiacritics": "Pengkalan Kubor",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -4188,7 +4188,7 @@
     "name": "Perai",
     "nameWoDiacritics": "Perai",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -4198,7 +4198,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.383333333333334,
-      "lon": 10.033333333333333
+      "lon": 100.38333333333334
     },
     "remarks": ""
   },
@@ -4209,7 +4209,7 @@
     "name": "Petaling Jaya",
     "nameWoDiacritics": "Petaling Jaya",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4217,7 +4217,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.0833333333333335,
-      "lon": 10.216666666666667
+      "lon": 101.65
     },
     "remarks": ""
   },
@@ -4228,7 +4228,7 @@
     "name": "Pontian",
     "nameWoDiacritics": "Pontian",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -4247,7 +4247,7 @@
     "name": "Port Dickson",
     "nameWoDiacritics": "Port Dickson",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -4266,7 +4266,7 @@
     "name": "Port Klang (Ferry Port)",
     "nameWoDiacritics": "Port Klang (Ferry Port)",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -4274,7 +4274,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.0166666666666666,
-      "lon": 10.2
+      "lon": 101.36666666666666
     },
     "remarks": ""
   },
@@ -4285,7 +4285,7 @@
     "name": "Port Klang (Pelabuhan Klang)",
     "nameWoDiacritics": "Port Klang (Pelabuhan Klang)",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -4296,7 +4296,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3,
-      "lon": 10.2
+      "lon": 101.4
     },
     "remarks": "Port Klang"
   },
@@ -4307,7 +4307,7 @@
     "name": "Prai",
     "nameWoDiacritics": "Prai",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -4326,7 +4326,7 @@
     "name": "Puchong",
     "nameWoDiacritics": "Puchong",
     "subdivision": "10",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -4345,7 +4345,7 @@
     "name": "\"Pulau Batik",
     "nameWoDiacritics": " Sabah\"",
     "subdivision": "\"Pulau Batik",
-    "status": " Sabah\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -4362,7 +4362,7 @@
     "name": "Pulau Bruit",
     "nameWoDiacritics": "Pulau Bruit",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -4370,7 +4370,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.5833333333333335,
-      "lon": 11.2
+      "lon": 111.33333333333333
     },
     "remarks": ""
   },
@@ -4381,7 +4381,7 @@
     "name": "Pulau Indah",
     "nameWoDiacritics": "Pulau Indah",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -4390,7 +4390,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.9333333333333336,
-      "lon": 10.183333333333334
+      "lon": 101.31666666666666
     },
     "remarks": ""
   },
@@ -4401,7 +4401,7 @@
     "name": "Pulau Jarak",
     "nameWoDiacritics": "Pulau Jarak",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [
       0
     ],
@@ -4409,7 +4409,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.966666666666667,
-      "lon": 10
+      "lon": 100.08333333333333
     },
     "remarks": ""
   },
@@ -4420,7 +4420,7 @@
     "name": "Pulau Lang Lang",
     "nameWoDiacritics": "Pulau Lang Lang",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -4428,7 +4428,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.4,
-      "lon": 11.583333333333334
+      "lon": 113.83333333333333
     },
     "remarks": ""
   },
@@ -4439,7 +4439,7 @@
     "name": "Pulau Pisang",
     "nameWoDiacritics": "Pulau Pisang",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -4458,7 +4458,7 @@
     "name": "\"Pulau Tambisan",
     "nameWoDiacritics": " Sabah\"",
     "subdivision": "\"Pulau Tambisan",
-    "status": " Sabah\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -4475,7 +4475,7 @@
     "name": "Pulau Tikus",
     "nameWoDiacritics": "Pulau Tikus",
     "subdivision": "07",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -4483,7 +4483,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.433333333333334,
-      "lon": 10.016666666666667
+      "lon": 100.31666666666666
     },
     "remarks": ""
   },
@@ -4494,7 +4494,7 @@
     "name": "\"Punang",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Punang",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -4511,7 +4511,7 @@
     "name": "Puncak Alam",
     "nameWoDiacritics": "Puncak Alam",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4519,7 +4519,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.216666666666667,
-      "lon": 10.2
+      "lon": 101.43333333333334
     },
     "remarks": ""
   },
@@ -4530,7 +4530,7 @@
     "name": "Pusing",
     "nameWoDiacritics": "Pusing",
     "subdivision": "08",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -4549,7 +4549,7 @@
     "name": "Putrajaya",
     "nameWoDiacritics": "Putrajaya",
     "subdivision": "16",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4557,7 +4557,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.9166666666666665,
-      "lon": 10.233333333333333
+      "lon": 101.7
     },
     "remarks": ""
   },
@@ -4568,7 +4568,7 @@
     "name": "Ranau",
     "nameWoDiacritics": "Ranau",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4587,7 +4587,7 @@
     "name": "Rawang",
     "nameWoDiacritics": "Rawang",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -4596,7 +4596,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.3166666666666664,
-      "lon": 10.216666666666667
+      "lon": 101.58333333333333
     },
     "remarks": ""
   },
@@ -4607,7 +4607,7 @@
     "name": "Redang",
     "nameWoDiacritics": "Redang",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -4615,7 +4615,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.766666666666667,
-      "lon": 10.5
+      "lon": 103
     },
     "remarks": ""
   },
@@ -4626,7 +4626,7 @@
     "name": "\"Rejang",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Rejang",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -4643,7 +4643,7 @@
     "name": "Rembau",
     "nameWoDiacritics": "Rembau",
     "subdivision": "05",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -4651,7 +4651,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.5833333333333335,
-      "lon": 10.333333333333334
+      "lon": 102.1
     },
     "remarks": ""
   },
@@ -4662,7 +4662,7 @@
     "name": "Sabahat",
     "nameWoDiacritics": "Sabahat",
     "subdivision": "12",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -4670,7 +4670,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.066666666666666,
-      "lon": 12.5
+      "lon": 119.03333333333333
     },
     "remarks": ""
   },
@@ -4681,7 +4681,7 @@
     "name": "Samalaju",
     "nameWoDiacritics": "Samalaju",
     "subdivision": "13",
-    "status": "AM",
+    "status": 4,
     "function": [
       0,
       2
@@ -4690,7 +4690,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.95,
-      "lon": 11.55
+      "lon": 113.53333333333333
     },
     "remarks": ""
   },
@@ -4701,7 +4701,7 @@
     "name": "Samu",
     "nameWoDiacritics": "Samu",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -4709,7 +4709,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.55,
-      "lon": 11.216666666666667
+      "lon": 111.53333333333333
     },
     "remarks": ""
   },
@@ -4720,7 +4720,7 @@
     "name": "\"Sandakan",
     "nameWoDiacritics": " Sabah\"",
     "subdivision": "\"Sandakan",
-    "status": " Sabah\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1--4----",
@@ -4737,7 +4737,7 @@
     "name": "Sarikei",
     "nameWoDiacritics": "Sarikei",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -4746,7 +4746,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.1166666666666667,
-      "lon": 11.216666666666667
+      "lon": 111.51666666666667
     },
     "remarks": ""
   },
@@ -4757,7 +4757,7 @@
     "name": "Seberang Perai Selatan",
     "nameWoDiacritics": "Seberang Perai Selatan",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -4765,7 +4765,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.2,
-      "lon": 10.033333333333333
+      "lon": 100.45
     },
     "remarks": ""
   },
@@ -4776,7 +4776,7 @@
     "name": "Sebuyau",
     "nameWoDiacritics": "Sebuyau",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -4784,7 +4784,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.5166666666666666,
-      "lon": 11.083333333333334
+      "lon": 110.93333333333334
     },
     "remarks": ""
   },
@@ -4795,7 +4795,7 @@
     "name": "Segamat",
     "nameWoDiacritics": "Segamat",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -4805,7 +4805,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.5,
-      "lon": 10.4
+      "lon": 102.81666666666666
     },
     "remarks": ""
   },
@@ -4816,7 +4816,7 @@
     "name": "Segari",
     "nameWoDiacritics": "Segari",
     "subdivision": "08",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4824,7 +4824,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.35,
-      "lon": 10.05
+      "lon": 100.63333333333334
     },
     "remarks": ""
   },
@@ -4835,7 +4835,7 @@
     "name": "\"Sejingkat",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Sejingkat",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -4852,7 +4852,7 @@
     "name": "\"Selalang",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Selalang",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -4869,7 +4869,7 @@
     "name": "Selama",
     "nameWoDiacritics": "Selama",
     "subdivision": "08",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4877,7 +4877,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.216666666666667,
-      "lon": 10.066666666666666
+      "lon": 100.7
     },
     "remarks": ""
   },
@@ -4888,7 +4888,7 @@
     "name": "Selangkor",
     "nameWoDiacritics": "Selangkor",
     "subdivision": "14",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -4907,7 +4907,7 @@
     "name": "Selekoh",
     "nameWoDiacritics": "Selekoh",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -4915,7 +4915,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.9166666666666665,
-      "lon": 10.066666666666666
+      "lon": 100.78333333333333
     },
     "remarks": ""
   },
@@ -4926,7 +4926,7 @@
     "name": "\"Sematan",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Sematan",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1--4----",
@@ -4943,7 +4943,7 @@
     "name": "Semenyih",
     "nameWoDiacritics": "Semenyih",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -4951,7 +4951,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.95,
-      "lon": 10.25
+      "lon": 101.85
     },
     "remarks": ""
   },
@@ -4962,7 +4962,7 @@
     "name": "\"Semporna",
     "nameWoDiacritics": " Sabah\"",
     "subdivision": "\"Semporna",
-    "status": " Sabah\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1--4----",
@@ -4979,7 +4979,7 @@
     "name": "Senai",
     "nameWoDiacritics": "Senai",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -4989,7 +4989,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.6,
-      "lon": 10.55
+      "lon": 103.65
     },
     "remarks": ""
   },
@@ -5000,7 +5000,7 @@
     "name": "Senari - Sarawak",
     "nameWoDiacritics": "Senari - Sarawak",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -5009,7 +5009,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.6,
-      "lon": 11.033333333333333
+      "lon": 110.43333333333334
     },
     "remarks": ""
   },
@@ -5020,7 +5020,7 @@
     "name": "Senawang",
     "nameWoDiacritics": "Senawang",
     "subdivision": "05",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -5029,7 +5029,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.7,
-      "lon": 10.25
+      "lon": 101.96666666666667
     },
     "remarks": ""
   },
@@ -5040,7 +5040,7 @@
     "name": "Sendayan Village",
     "nameWoDiacritics": "Sendayan Village",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -5048,7 +5048,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.6833333333333336,
-      "lon": 10.25
+      "lon": 101.85
     },
     "remarks": ""
   },
@@ -5059,7 +5059,7 @@
     "name": "\"Sepang",
     "nameWoDiacritics": " Selangor\"",
     "subdivision": "\"Sepang",
-    "status": " Selangor\"",
+    "status": null,
     "function": [
       0,
       1
@@ -5079,7 +5079,7 @@
     "name": "Sepulot",
     "nameWoDiacritics": "Sepulot",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5098,7 +5098,7 @@
     "name": "Seremban",
     "nameWoDiacritics": "Seremban",
     "subdivision": "05",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -5107,7 +5107,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.716666666666667,
-      "lon": 10.25
+      "lon": 101.93333333333334
     },
     "remarks": ""
   },
@@ -5118,7 +5118,7 @@
     "name": "Seri Kembangan",
     "nameWoDiacritics": "Seri Kembangan",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -5127,7 +5127,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.0166666666666666,
-      "lon": 10.233333333333333
+      "lon": 101.7
     },
     "remarks": ""
   },
@@ -5138,7 +5138,7 @@
     "name": "Shah Alam",
     "nameWoDiacritics": "Shah Alam",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -5157,7 +5157,7 @@
     "name": "\"Sibu",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Sibu",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1--4----",
@@ -5174,7 +5174,7 @@
     "name": "Sijingkat",
     "nameWoDiacritics": "Sijingkat",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -5193,7 +5193,7 @@
     "name": "Sik",
     "nameWoDiacritics": "Sik",
     "subdivision": "02",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5201,7 +5201,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.816666666666666,
-      "lon": 10.066666666666666
+      "lon": 100.73333333333333
     },
     "remarks": ""
   },
@@ -5212,7 +5212,7 @@
     "name": "Silay",
     "nameWoDiacritics": "Silay",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -5231,7 +5231,7 @@
     "name": "\"Simanggang",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Simanggang",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -5248,7 +5248,7 @@
     "name": "Simpang Ampat",
     "nameWoDiacritics": "Simpang Ampat",
     "subdivision": "07",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5256,7 +5256,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.483333333333333,
-      "lon": 10.033333333333333
+      "lon": 100.43333333333334
     },
     "remarks": ""
   },
@@ -5267,7 +5267,7 @@
     "name": "Simpang Lima",
     "nameWoDiacritics": "Simpang Lima",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -5275,7 +5275,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.233333333333333,
-      "lon": 10.066666666666666
+      "lon": 100.7
     },
     "remarks": ""
   },
@@ -5286,7 +5286,7 @@
     "name": "\"Simpangan",
     "nameWoDiacritics": " Sabah\"",
     "subdivision": "\"Simpangan",
-    "status": " Sabah\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -5303,7 +5303,7 @@
     "name": "\"Simunjan",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Simunjan",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -5320,7 +5320,7 @@
     "name": "Sindumin",
     "nameWoDiacritics": "Sindumin",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -5339,7 +5339,7 @@
     "name": "\"Sipitang",
     "nameWoDiacritics": " Sabah\"",
     "subdivision": "\"Sipitang",
-    "status": " Sabah\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1-------",
@@ -5356,7 +5356,7 @@
     "name": "Siran",
     "nameWoDiacritics": "Siran",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -5375,7 +5375,7 @@
     "name": "\"Sirikin",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Sirikin",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -5392,7 +5392,7 @@
     "name": "Sitiawan",
     "nameWoDiacritics": "Sitiawan",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5411,7 +5411,7 @@
     "name": "Sobak Bernam",
     "nameWoDiacritics": "Sobak Bernam",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5419,7 +5419,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.7666666666666666,
-      "lon": 10.083333333333334
+      "lon": 100.96666666666667
     },
     "remarks": ""
   },
@@ -5430,7 +5430,7 @@
     "name": "Sri Medan",
     "nameWoDiacritics": "Sri Medan",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -5449,7 +5449,7 @@
     "name": "Subang Jaya",
     "nameWoDiacritics": "Subang Jaya",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -5458,7 +5458,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.066666666666667,
-      "lon": 10.216666666666667
+      "lon": 101.58333333333333
     },
     "remarks": ""
   },
@@ -5469,7 +5469,7 @@
     "name": "Subang Kuala Lumpur Apt",
     "nameWoDiacritics": "Subang Kuala Lumpur Apt",
     "subdivision": "10",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -5478,7 +5478,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.1333333333333333,
-      "lon": 10.216666666666667
+      "lon": 101.55
     },
     "remarks": ""
   },
@@ -5489,7 +5489,7 @@
     "name": "\"Sundar",
     "nameWoDiacritics": " Sarawak\"",
     "subdivision": "\"Sundar",
-    "status": " Sarawak\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -5506,7 +5506,7 @@
     "name": "Sungai Bakap",
     "nameWoDiacritics": "Sungai Bakap",
     "subdivision": "07",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -5514,7 +5514,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.216666666666667,
-      "lon": 10.05
+      "lon": 100.5
     },
     "remarks": ""
   },
@@ -5525,7 +5525,7 @@
     "name": "Sungai Bakau",
     "nameWoDiacritics": "Sungai Bakau",
     "subdivision": "07",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5533,7 +5533,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.133333333333334,
-      "lon": 10.033333333333333
+      "lon": 100.41666666666667
     },
     "remarks": ""
   },
@@ -5544,7 +5544,7 @@
     "name": "Sungai Besi",
     "nameWoDiacritics": "Sungai Besi",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -5552,7 +5552,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.05,
-      "lon": 10.233333333333333
+      "lon": -101.7
     },
     "remarks": ""
   },
@@ -5563,7 +5563,7 @@
     "name": "Sungai Buloh",
     "nameWoDiacritics": "Sungai Buloh",
     "subdivision": "10",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -5571,7 +5571,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.216666666666667,
-      "lon": 10.216666666666667
+      "lon": 101.56666666666666
     },
     "remarks": ""
   },
@@ -5582,7 +5582,7 @@
     "name": "Sungai Buluh",
     "nameWoDiacritics": "Sungai Buluh",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -5591,7 +5591,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.2,
-      "lon": 10.216666666666667
+      "lon": 101.58333333333333
     },
     "remarks": ""
   },
@@ -5602,7 +5602,7 @@
     "name": "Sungai Gadut",
     "nameWoDiacritics": "Sungai Gadut",
     "subdivision": "05",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5610,7 +5610,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.6666666666666665,
-      "lon": 10.333333333333334
+      "lon": 102
     },
     "remarks": ""
   },
@@ -5621,7 +5621,7 @@
     "name": "Sungai Lalang",
     "nameWoDiacritics": "Sungai Lalang",
     "subdivision": "02",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5629,7 +5629,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.7,
-      "lon": 10.05
+      "lon": 100.51666666666667
     },
     "remarks": ""
   },
@@ -5640,7 +5640,7 @@
     "name": "Sungai Merah",
     "nameWoDiacritics": "Sungai Merah",
     "subdivision": "13",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -5648,7 +5648,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.3333333333333335,
-      "lon": 11.25
+      "lon": 111.83333333333333
     },
     "remarks": ""
   },
@@ -5659,7 +5659,7 @@
     "name": "Sungai Nibong",
     "nameWoDiacritics": "Sungai Nibong",
     "subdivision": "13",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -5667,7 +5667,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.2666666666666666,
-      "lon": 11.233333333333333
+      "lon": 111.73333333333333
     },
     "remarks": ""
   },
@@ -5678,7 +5678,7 @@
     "name": "Sungai Nibong",
     "nameWoDiacritics": "Sungai Nibong",
     "subdivision": "07",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -5686,7 +5686,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.333333333333333,
-      "lon": 10.016666666666667
+      "lon": 100.3
     },
     "remarks": ""
   },
@@ -5697,7 +5697,7 @@
     "name": "Sungai Petani",
     "nameWoDiacritics": "Sungai Petani",
     "subdivision": "02",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -5706,7 +5706,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.633333333333333,
-      "lon": 10.033333333333333
+      "lon": 100.48333333333333
     },
     "remarks": ""
   },
@@ -5717,7 +5717,7 @@
     "name": "Sungai Rengit",
     "nameWoDiacritics": "Sungai Rengit",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -5736,7 +5736,7 @@
     "name": "Sungai Udang",
     "nameWoDiacritics": "Sungai Udang",
     "subdivision": "04",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
@@ -5744,7 +5744,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.25,
-      "lon": 10.333333333333334
+      "lon": 102.08333333333333
     },
     "remarks": ""
   },
@@ -5755,7 +5755,7 @@
     "name": "Sungai Udang Port",
     "nameWoDiacritics": "Sungai Udang Port",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -5763,7 +5763,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.25,
-      "lon": 10.333333333333334
+      "lon": 102.13333333333334
     },
     "remarks": ""
   },
@@ -5774,7 +5774,7 @@
     "name": "Sungai Way",
     "nameWoDiacritics": "Sungai Way",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -5784,7 +5784,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.0833333333333335,
-      "lon": 10.216666666666667
+      "lon": 101.61666666666666
     },
     "remarks": ""
   },
@@ -5795,7 +5795,7 @@
     "name": "Sungei Tekai",
     "nameWoDiacritics": "Sungei Tekai",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5814,7 +5814,7 @@
     "name": "Sungkai",
     "nameWoDiacritics": "Sungkai",
     "subdivision": "08",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5822,7 +5822,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4,
-      "lon": 10.183333333333334
+      "lon": 101.31666666666666
     },
     "remarks": ""
   },
@@ -5833,7 +5833,7 @@
     "name": "Taiping",
     "nameWoDiacritics": "Taiping",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5852,7 +5852,7 @@
     "name": "Taman Molek",
     "nameWoDiacritics": "Taman Molek",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -5860,7 +5860,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.55,
-      "lon": 10.566666666666666
+      "lon": 103.8
     },
     "remarks": ""
   },
@@ -5871,7 +5871,7 @@
     "name": "Taman Negara",
     "nameWoDiacritics": "Taman Negara",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -5890,7 +5890,7 @@
     "name": "Tampoi",
     "nameWoDiacritics": "Tampoi",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -5899,7 +5899,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.4833333333333334,
-      "lon": 10.566666666666666
+      "lon": 103.68333333333334
     },
     "remarks": ""
   },
@@ -5910,7 +5910,7 @@
     "name": "Tampoi",
     "nameWoDiacritics": "Tampoi",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5918,7 +5918,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.4833333333333334,
-      "lon": 10.566666666666666
+      "lon": 103.7
     },
     "remarks": ""
   },
@@ -5929,7 +5929,7 @@
     "name": "Tanah Merah",
     "nameWoDiacritics": "Tanah Merah",
     "subdivision": "03",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -5938,7 +5938,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.8,
-      "lon": 10.333333333333334
+      "lon": 102.13333333333334
     },
     "remarks": ""
   },
@@ -5949,7 +5949,7 @@
     "name": "Tandjung Tengelili",
     "nameWoDiacritics": "Tandjung Tengelili",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -5968,7 +5968,7 @@
     "name": "Tangkak",
     "nameWoDiacritics": "Tangkak",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -5976,7 +5976,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.2666666666666666,
-      "lon": 10.383333333333333
+      "lon": 102.53333333333333
     },
     "remarks": ""
   },
@@ -5987,7 +5987,7 @@
     "name": "Tanjong Baran",
     "nameWoDiacritics": "Tanjong Baran",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -6006,7 +6006,7 @@
     "name": "Tanjong Berhala",
     "nameWoDiacritics": "Tanjong Berhala",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -6025,7 +6025,7 @@
     "name": "Tanjong Bin",
     "nameWoDiacritics": "Tanjong Bin",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -6033,7 +6033,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.3333333333333333,
-      "lon": 10.55
+      "lon": 103.55
     },
     "remarks": ""
   },
@@ -6044,7 +6044,7 @@
     "name": "Tanjong Dawai",
     "nameWoDiacritics": "Tanjong Dawai",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -6063,7 +6063,7 @@
     "name": "Tanjong Kidurong",
     "nameWoDiacritics": "Tanjong Kidurong",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -6082,7 +6082,7 @@
     "name": "Tanjong Kling",
     "nameWoDiacritics": "Tanjong Kling",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -6101,7 +6101,7 @@
     "name": "Tanjong Surat",
     "nameWoDiacritics": "Tanjong Surat",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -6120,7 +6120,7 @@
     "name": "Tanjung Gelang",
     "nameWoDiacritics": "Tanjung Gelang",
     "subdivision": "06",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -6129,7 +6129,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.9833333333333334,
-      "lon": 10.533333333333333
+      "lon": 103.41666666666667
     },
     "remarks": ""
   },
@@ -6140,7 +6140,7 @@
     "name": "Tanjung Lembung",
     "nameWoDiacritics": "Tanjung Lembung",
     "subdivision": "02",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -6149,7 +6149,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.283333333333333,
-      "lon": 10.566666666666666
+      "lon": 99.78333333333333
     },
     "remarks": ""
   },
@@ -6160,7 +6160,7 @@
     "name": "Tanjung Malim",
     "nameWoDiacritics": "Tanjung Malim",
     "subdivision": "08",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -6169,7 +6169,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.6833333333333336,
-      "lon": 10.216666666666667
+      "lon": 101.5
     },
     "remarks": ""
   },
@@ -6180,7 +6180,7 @@
     "name": "Tanjung Manis",
     "nameWoDiacritics": "Tanjung Manis",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -6188,7 +6188,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.1333333333333333,
-      "lon": 11.2
+      "lon": 111.35
     },
     "remarks": ""
   },
@@ -6199,7 +6199,7 @@
     "name": "Tanjung Pelepas",
     "nameWoDiacritics": "Tanjung Pelepas",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -6209,7 +6209,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.3666666666666667,
-      "lon": 10.55
+      "lon": 103.55
     },
     "remarks": ""
   },
@@ -6220,7 +6220,7 @@
     "name": "Tanjung Setapa",
     "nameWoDiacritics": "Tanjung Setapa",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -6228,7 +6228,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.3666666666666667,
-      "lon": 10.666666666666666
+      "lon": 104.11666666666666
     },
     "remarks": ""
   },
@@ -6239,7 +6239,7 @@
     "name": "Tapah",
     "nameWoDiacritics": "Tapah",
     "subdivision": "08",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -6247,7 +6247,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.183333333333334,
-      "lon": 10.183333333333334
+      "lon": 101.26666666666667
     },
     "remarks": ""
   },
@@ -6258,7 +6258,7 @@
     "name": "Tapis Terminal",
     "nameWoDiacritics": "Tapis Terminal",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -6277,7 +6277,7 @@
     "name": "\"Tawau",
     "nameWoDiacritics": " Sabah\"",
     "subdivision": "\"Tawau",
-    "status": " Sabah\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1--4----",
@@ -6294,7 +6294,7 @@
     "name": "Tebedu",
     "nameWoDiacritics": "Tebedu",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -6302,7 +6302,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.0333333333333334,
-      "lon": 11.05
+      "lon": 110.61666666666666
     },
     "remarks": ""
   },
@@ -6313,7 +6313,7 @@
     "name": "Tebrau",
     "nameWoDiacritics": "Tebrau",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -6321,7 +6321,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.5,
-      "lon": 10.583333333333334
+      "lon": 103.83333333333333
     },
     "remarks": ""
   },
@@ -6332,7 +6332,7 @@
     "name": "Telok Anson",
     "nameWoDiacritics": "Telok Anson",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -6351,7 +6351,7 @@
     "name": "Telok Intan",
     "nameWoDiacritics": "Telok Intan",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -6370,7 +6370,7 @@
     "name": "Telok Panglima Garang",
     "nameWoDiacritics": "Telok Panglima Garang",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -6378,7 +6378,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.9166666666666665,
-      "lon": 10.2
+      "lon": 101.46666666666667
     },
     "remarks": ""
   },
@@ -6389,7 +6389,7 @@
     "name": "Telok Ramunia",
     "nameWoDiacritics": "Telok Ramunia",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -6408,7 +6408,7 @@
     "name": "Teluk Intan",
     "nameWoDiacritics": "Teluk Intan",
     "subdivision": "08",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -6416,7 +6416,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.033333333333333,
-      "lon": 10.166666666666666
+      "lon": 101.01666666666667
     },
     "remarks": ""
   },
@@ -6427,7 +6427,7 @@
     "name": "Teluk Rubiah",
     "nameWoDiacritics": "Teluk Rubiah",
     "subdivision": "08",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       2
@@ -6436,7 +6436,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.81666666666667,
-      "lon": 10.05
+      "lon": 100.61666666666666
     },
     "remarks": ""
   },
@@ -6447,7 +6447,7 @@
     "name": "Telupid",
     "nameWoDiacritics": "Telupid",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -6455,7 +6455,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.566666666666666,
-      "lon": 12.166666666666666
+      "lon": 117.11666666666666
     },
     "remarks": ""
   },
@@ -6466,7 +6466,7 @@
     "name": "Tembungo",
     "nameWoDiacritics": "Tembungo",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       6
     ],
@@ -6474,7 +6474,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.633333333333333,
-      "lon": 11.9
+      "lon": 115.78333333333333
     },
     "remarks": ""
   },
@@ -6485,7 +6485,7 @@
     "name": "Temerloh",
     "nameWoDiacritics": "Temerloh",
     "subdivision": "06",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -6493,7 +6493,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.4333333333333336,
-      "lon": 10.366666666666667
+      "lon": 102.41666666666667
     },
     "remarks": ""
   },
@@ -6504,7 +6504,7 @@
     "name": "\"Tengku",
     "nameWoDiacritics": " Sabah\"",
     "subdivision": "\"Tengku",
-    "status": " Sabah\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -6521,7 +6521,7 @@
     "name": "Teronoh",
     "nameWoDiacritics": "Teronoh",
     "subdivision": "08",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -6530,7 +6530,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.416666666666667,
-      "lon": 10.083333333333334
+      "lon": 100.98333333333333
     },
     "remarks": ""
   },
@@ -6541,7 +6541,7 @@
     "name": "Tioman",
     "nameWoDiacritics": "Tioman",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -6561,7 +6561,7 @@
     "name": "Tomanggong",
     "nameWoDiacritics": "Tomanggong",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -6581,7 +6581,7 @@
     "name": "Tubau",
     "nameWoDiacritics": "Tubau",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -6590,7 +6590,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.1333333333333333,
-      "lon": 11.566666666666666
+      "lon": 113.7
     },
     "remarks": ""
   },
@@ -6601,7 +6601,7 @@
     "name": "Tumbum",
     "nameWoDiacritics": "Tumbum",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -6620,7 +6620,7 @@
     "name": "Tumpat",
     "nameWoDiacritics": "Tumpat",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -6639,7 +6639,7 @@
     "name": "Tungku",
     "nameWoDiacritics": "Tungku",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -6658,7 +6658,7 @@
     "name": "Ulu Tiram",
     "nameWoDiacritics": "Ulu Tiram",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -6667,7 +6667,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.6333333333333333,
-      "lon": 10.583333333333334
+      "lon": 103.83333333333333
     },
     "remarks": ""
   },
@@ -6678,7 +6678,7 @@
     "name": "\"Wallace Bay",
     "nameWoDiacritics": " Sabah\"",
     "subdivision": "\"Wallace Bay",
-    "status": " Sabah\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -6695,7 +6695,7 @@
     "name": "\"Weston",
     "nameWoDiacritics": " Sabah\"",
     "subdivision": "\"Weston",
-    "status": " Sabah\"",
+    "status": null,
     "function": [],
     "date": "QQ",
     "iata": "1-------",
@@ -6712,7 +6712,7 @@
     "name": "Westport/Port Klang",
     "nameWoDiacritics": "Westport/Port Klang",
     "subdivision": "10",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -6720,7 +6720,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.95,
-      "lon": 10.183333333333334
+      "lon": 101.3
     },
     "remarks": ""
   },
@@ -6731,7 +6731,7 @@
     "name": "Yong Peng",
     "nameWoDiacritics": "Yong Peng",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -6739,7 +6739,7 @@
     "iata": "",
     "coordinates": {
       "lat": 2.0166666666666666,
-      "lon": 10.5
+      "lon": 103.06666666666666
     },
     "remarks": ""
   }

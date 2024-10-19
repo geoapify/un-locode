@@ -2,6 +2,7 @@
   {
     "country": "CK",
     "name": ".COOK ISLANDS",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "AIT",
     "name": "Aitutaki",
     "nameWoDiacritics": "Aitutaki",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -30,7 +31,7 @@
     "location": "ARU",
     "name": "Arutunga",
     "nameWoDiacritics": "Arutunga",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -45,7 +46,7 @@
     "location": "AIU",
     "name": "Atiu",
     "nameWoDiacritics": "Atiu",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -61,14 +62,14 @@
     "location": "AVA",
     "name": "Avarua",
     "nameWoDiacritics": "Avarua",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 201,
     "coordinates": {
       "lat": -21.183333333333334,
-      "lon": 16.566666666666666
+      "lon": -159.76666666666668
     }
   },
   {
@@ -76,7 +77,7 @@
     "location": "MGS",
     "name": "Mangaia",
     "nameWoDiacritics": "Mangaia",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -92,14 +93,14 @@
     "location": "MHX",
     "name": "Manihiki Island",
     "nameWoDiacritics": "Manihiki Island",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": -10.366666666666667,
-      "lon": 16.166666666666668
+      "lon": -161
     }
   },
   {
@@ -107,7 +108,7 @@
     "location": "MUK",
     "name": "Mauke Island",
     "nameWoDiacritics": "Mauke Island",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -122,7 +123,7 @@
     "location": "MOI",
     "name": "Mitiaro Island",
     "nameWoDiacritics": "Mitiaro Island",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -138,14 +139,14 @@
     "location": "PYE",
     "name": "Penrhyn Island",
     "nameWoDiacritics": "Penrhyn Island",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": -9.016666666666667,
-      "lon": 16.333333333333332
+      "lon": -158.03333333333333
     }
   },
   {
@@ -153,14 +154,14 @@
     "location": "PZK",
     "name": "Puka Puka Island",
     "nameWoDiacritics": "Puka Puka Island",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 58.05,
-      "lon": 3.0166666666666666
+      "lon": 26.233333333333334
     }
   },
   {
@@ -168,7 +169,7 @@
     "location": "RAR",
     "name": "Rarotonga",
     "nameWoDiacritics": "Rarotonga",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,

@@ -6,7 +6,7 @@
     "name": ".LUXEMBOURG",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Abweiler",
     "nameWoDiacritics": "Abweiler",
     "subdivision": "L",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.53333333333333,
-      "lon": 6.75
+      "lon": 64.85
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Alzingen",
     "nameWoDiacritics": "Alzingen",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -61,7 +61,7 @@
     "name": "Aspelt",
     "nameWoDiacritics": "Aspelt",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -69,7 +69,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.516666666666666,
-      "lon": 1.0166666666666666
+      "lon": 6.216666666666667
     },
     "remarks": ""
   },
@@ -80,7 +80,7 @@
     "name": "Asselborn",
     "nameWoDiacritics": "Asselborn",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -88,7 +88,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.9,
-      "lon": 1
+      "lon": 6.05
     },
     "remarks": ""
   },
@@ -99,7 +99,7 @@
     "name": "Bascharage",
     "nameWoDiacritics": "Bascharage",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -107,7 +107,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.56666666666667,
-      "lon": 0.9166666666666666
+      "lon": 5.916666666666667
     },
     "remarks": ""
   },
@@ -118,7 +118,7 @@
     "name": "Beaufort (Beefort)",
     "nameWoDiacritics": "Beaufort (Beefort)",
     "subdivision": "EC",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -126,7 +126,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.833333333333336,
-      "lon": 1.0166666666666666
+      "lon": 6.283333333333333
     },
     "remarks": ""
   },
@@ -137,7 +137,7 @@
     "name": "Bech",
     "nameWoDiacritics": "Bech",
     "subdivision": "EC",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -145,7 +145,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.733333333333334,
-      "lon": 1.0333333333333334
+      "lon": 6.35
     },
     "remarks": ""
   },
@@ -156,7 +156,7 @@
     "name": "Bech-Kleinmacher",
     "nameWoDiacritics": "Bech-Kleinmacher",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -165,7 +165,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.53333333333333,
-      "lon": 1.0333333333333334
+      "lon": 6.35
     },
     "remarks": ""
   },
@@ -176,7 +176,7 @@
     "name": "Beckerich",
     "nameWoDiacritics": "Beckerich",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -185,7 +185,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.71666666666667,
-      "lon": 0.9166666666666666
+      "lon": 5.883333333333333
     },
     "remarks": ""
   },
@@ -196,7 +196,7 @@
     "name": "Beidweiler",
     "nameWoDiacritics": "Beidweiler",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -204,7 +204,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.71666666666667,
-      "lon": 1.0166666666666666
+      "lon": 6.3
     },
     "remarks": ""
   },
@@ -215,7 +215,7 @@
     "name": "Beiler",
     "nameWoDiacritics": "Beiler",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -223,7 +223,7 @@
     "iata": "",
     "coordinates": {
       "lat": 50.15,
-      "lon": 1
+      "lon": 6.083333333333333
     },
     "remarks": ""
   },
@@ -234,7 +234,7 @@
     "name": "Berdorf (B�erdref)",
     "nameWoDiacritics": "Berdorf (Baerdref)",
     "subdivision": "GR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -242,7 +242,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.8,
-      "lon": 1.0333333333333334
+      "lon": 6.35
     },
     "remarks": ""
   },
@@ -253,7 +253,7 @@
     "name": "B�reldange",
     "nameWoDiacritics": "Bereldange",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -261,7 +261,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.63333333333333,
-      "lon": 1
+      "lon": 6.116666666666666
     },
     "remarks": ""
   },
@@ -272,7 +272,7 @@
     "name": "Berg-sur-Syre",
     "nameWoDiacritics": "Berg-sur-Syre",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -280,7 +280,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.666666666666664,
-      "lon": 1.0333333333333334
+      "lon": 6.35
     },
     "remarks": ""
   },
@@ -291,7 +291,7 @@
     "name": "Bertrange",
     "nameWoDiacritics": "Bertrange",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -299,7 +299,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.6,
-      "lon": 1
+      "lon": 6.033333333333333
     },
     "remarks": ""
   },
@@ -310,7 +310,7 @@
     "name": "Bettange-sur-Mess",
     "nameWoDiacritics": "Bettange-sur-Mess",
     "subdivision": "L",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -318,7 +318,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.56666666666667,
-      "lon": 0.9166666666666666
+      "lon": 5.983333333333333
     },
     "remarks": ""
   },
@@ -329,7 +329,7 @@
     "name": "Bettborn",
     "nameWoDiacritics": "Bettborn",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -337,7 +337,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.78333333333333,
-      "lon": 0.9166666666666666
+      "lon": 5.933333333333334
     },
     "remarks": ""
   },
@@ -348,7 +348,7 @@
     "name": "Bettembourg",
     "nameWoDiacritics": "Bettembourg",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -367,7 +367,7 @@
     "name": "Bettendorf (Bettenduerf)",
     "nameWoDiacritics": "Bettendorf (Bettenduerf)",
     "subdivision": "DI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -375,7 +375,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.86666666666667,
-      "lon": 1.0166666666666666
+      "lon": 6.216666666666667
     },
     "remarks": ""
   },
@@ -386,7 +386,7 @@
     "name": "Betzdorf",
     "nameWoDiacritics": "Betzdorf",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -394,7 +394,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.68333333333333,
-      "lon": 1.0333333333333334
+      "lon": 6.35
     },
     "remarks": ""
   },
@@ -405,7 +405,7 @@
     "name": "Bigonville",
     "nameWoDiacritics": "Bigonville",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -413,7 +413,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.85,
-      "lon": 0.9
+      "lon": 5.783333333333333
     },
     "remarks": ""
   },
@@ -424,7 +424,7 @@
     "name": "Bissen",
     "nameWoDiacritics": "Bissen",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -443,7 +443,7 @@
     "name": "Biwer",
     "nameWoDiacritics": "Biwer",
     "subdivision": "GR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -451,7 +451,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.7,
-      "lon": 1.0333333333333334
+      "lon": 6.366666666666666
     },
     "remarks": ""
   },
@@ -462,7 +462,7 @@
     "name": "Bockholtz",
     "nameWoDiacritics": "Bockholtz",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -470,7 +470,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.916666666666664,
-      "lon": 1
+      "lon": 6
     },
     "remarks": ""
   },
@@ -481,7 +481,7 @@
     "name": "Boevange-sur-Attert (B�iwen-Atert)",
     "nameWoDiacritics": "Boevange-sur-Attert (Beiwen-Atert)",
     "subdivision": "ME",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -489,7 +489,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.766666666666666,
-      "lon": 1
+      "lon": 6
     },
     "remarks": ""
   },
@@ -500,7 +500,7 @@
     "name": "Boudler",
     "nameWoDiacritics": "Boudler",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -508,7 +508,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.71666666666667,
-      "lon": 1.0333333333333334
+      "lon": 6.333333333333333
     },
     "remarks": ""
   },
@@ -519,7 +519,7 @@
     "name": "Boulaide (Bauschelt)",
     "nameWoDiacritics": "Boulaide (Bauschelt)",
     "subdivision": "WI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -527,7 +527,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.88333333333333,
-      "lon": 0.9
+      "lon": 5.8
     },
     "remarks": ""
   },
@@ -538,7 +538,7 @@
     "name": "Bourscheid (Buurschent)",
     "nameWoDiacritics": "Bourscheid (Buurschent)",
     "subdivision": "DI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -546,7 +546,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.9,
-      "lon": 1
+      "lon": 6.066666666666666
     },
     "remarks": ""
   },
@@ -557,7 +557,7 @@
     "name": "Bous( Bus)",
     "nameWoDiacritics": "Bous( Bus)",
     "subdivision": "RM",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -565,7 +565,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.55,
-      "lon": 1.0166666666666666
+      "lon": 6.316666666666666
     },
     "remarks": ""
   },
@@ -576,7 +576,7 @@
     "name": "Bridel",
     "nameWoDiacritics": "Bridel",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -584,7 +584,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.65,
-      "lon": 1
+      "lon": 6.066666666666666
     },
     "remarks": ""
   },
@@ -595,7 +595,7 @@
     "name": "Capellen",
     "nameWoDiacritics": "Capellen",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -614,7 +614,7 @@
     "name": "Clemency",
     "nameWoDiacritics": "Clemency",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -622,7 +622,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.6,
-      "lon": 0.9166666666666666
+      "lon": 5.866666666666667
     },
     "remarks": ""
   },
@@ -633,7 +633,7 @@
     "name": "Clervaux",
     "nameWoDiacritics": "Clervaux",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -652,7 +652,7 @@
     "name": "Colmar",
     "nameWoDiacritics": "Colmar",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -661,7 +661,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.8,
-      "lon": 1
+      "lon": 6.083333333333333
     },
     "remarks": ""
   },
@@ -672,7 +672,7 @@
     "name": "Consdorf (Konsdref)",
     "nameWoDiacritics": "Consdorf (Konsdref)",
     "subdivision": "EC",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -680,7 +680,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.766666666666666,
-      "lon": 1.0333333333333334
+      "lon": 6.333333333333333
     },
     "remarks": ""
   },
@@ -691,7 +691,7 @@
     "name": "Contern",
     "nameWoDiacritics": "Contern",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -710,7 +710,7 @@
     "name": "Crauthem",
     "nameWoDiacritics": "Crauthem",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -718,7 +718,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.53333333333333,
-      "lon": 1
+      "lon": 6.133333333333334
     },
     "remarks": ""
   },
@@ -729,7 +729,7 @@
     "name": "Dalheim (Duelem)",
     "nameWoDiacritics": "Dalheim (Duelem)",
     "subdivision": "GR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -737,7 +737,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.53333333333333,
-      "lon": 1.0166666666666666
+      "lon": 6.25
     },
     "remarks": ""
   },
@@ -748,7 +748,7 @@
     "name": "Diekirch",
     "nameWoDiacritics": "Diekirch",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -767,7 +767,7 @@
     "name": "Differdange",
     "nameWoDiacritics": "Differdange",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -775,7 +775,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.5,
-      "lon": 0.9166666666666666
+      "lon": 5.883333333333333
     },
     "remarks": ""
   },
@@ -786,7 +786,7 @@
     "name": "Dippach (Dippech)",
     "nameWoDiacritics": "Dippach (Dippech)",
     "subdivision": "CA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -794,7 +794,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.583333333333336,
-      "lon": 0.9166666666666666
+      "lon": 5.983333333333333
     },
     "remarks": ""
   },
@@ -805,7 +805,7 @@
     "name": "Dommeldange",
     "nameWoDiacritics": "Dommeldange",
     "subdivision": "L",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -813,7 +813,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.61666666666667,
-      "lon": 1
+      "lon": 6.133333333333334
     },
     "remarks": ""
   },
@@ -824,7 +824,7 @@
     "name": "Doncols",
     "nameWoDiacritics": "Doncols",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -832,7 +832,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.96666666666667,
-      "lon": 0.9166666666666666
+      "lon": 5.833333333333333
     },
     "remarks": ""
   },
@@ -843,7 +843,7 @@
     "name": "Dudelange",
     "nameWoDiacritics": "Dudelange",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -862,7 +862,7 @@
     "name": "Echternach",
     "nameWoDiacritics": "Echternach",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -870,7 +870,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.8,
-      "lon": 1.0333333333333334
+      "lon": 6.416666666666667
     },
     "remarks": ""
   },
@@ -881,7 +881,7 @@
     "name": "Ehlerange",
     "nameWoDiacritics": "Ehlerange",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -890,7 +890,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.516666666666666,
-      "lon": 0.9166666666666666
+      "lon": 5.95
     },
     "remarks": ""
   },
@@ -901,7 +901,7 @@
     "name": "Eischen",
     "nameWoDiacritics": "Eischen",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -909,7 +909,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.68333333333333,
-      "lon": 0.9166666666666666
+      "lon": 5.866666666666667
     },
     "remarks": ""
   },
@@ -920,7 +920,7 @@
     "name": "Ell",
     "nameWoDiacritics": "Ell",
     "subdivision": "DI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -928,7 +928,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.75,
-      "lon": 0.9166666666666666
+      "lon": 5.85
     },
     "remarks": ""
   },
@@ -939,7 +939,7 @@
     "name": "Ellange",
     "nameWoDiacritics": "Ellange",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -947,7 +947,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.516666666666666,
-      "lon": 1.0166666666666666
+      "lon": 6.3
     },
     "remarks": ""
   },
@@ -958,7 +958,7 @@
     "name": "Ernster",
     "nameWoDiacritics": "Ernster",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -966,7 +966,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.666666666666664,
-      "lon": 1.0166666666666666
+      "lon": 6.233333333333333
     },
     "remarks": ""
   },
@@ -977,7 +977,7 @@
     "name": "Erpeldange",
     "nameWoDiacritics": "Erpeldange",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -996,7 +996,7 @@
     "name": "Esch-sur-Alzette",
     "nameWoDiacritics": "Esch-sur-Alzette",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -1005,7 +1005,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.5,
-      "lon": 0.9166666666666666
+      "lon": 5.983333333333333
     },
     "remarks": ""
   },
@@ -1016,7 +1016,7 @@
     "name": "Esch-sur-S�re (Esch-Sauer)",
     "nameWoDiacritics": "Esch-sur-Sure (Esch-Sauer)",
     "subdivision": "WI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1024,7 +1024,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.9,
-      "lon": 0.9166666666666666
+      "lon": 5.933333333333334
     },
     "remarks": ""
   },
@@ -1035,7 +1035,7 @@
     "name": "Eselborn",
     "nameWoDiacritics": "Eselborn",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1054,7 +1054,7 @@
     "name": "Ettelbruck",
     "nameWoDiacritics": "Ettelbruck",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1073,7 +1073,7 @@
     "name": "Fentange",
     "nameWoDiacritics": "Fentange",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1082,7 +1082,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.55,
-      "lon": 1
+      "lon": 6.15
     },
     "remarks": ""
   },
@@ -1093,7 +1093,7 @@
     "name": "Feulen (Feelen)",
     "nameWoDiacritics": "Feulen (Feelen)",
     "subdivision": "DI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1101,7 +1101,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.85,
-      "lon": 1
+      "lon": 6.05
     },
     "remarks": ""
   },
@@ -1112,7 +1112,7 @@
     "name": "Findel",
     "nameWoDiacritics": "Findel",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -1121,7 +1121,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.61666666666667,
-      "lon": 1.0166666666666666
+      "lon": 6.2
     },
     "remarks": ""
   },
@@ -1132,7 +1132,7 @@
     "name": "Fischbach (F�schbech)",
     "nameWoDiacritics": "Fischbach (Feschbech)",
     "subdivision": "ME",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1140,7 +1140,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.733333333333334,
-      "lon": 1.0166666666666666
+      "lon": 6.183333333333334
     },
     "remarks": ""
   },
@@ -1151,7 +1151,7 @@
     "name": "Flaxweiler (Fluessweiler)",
     "nameWoDiacritics": "Flaxweiler (Fluessweiler)",
     "subdivision": "GR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1159,7 +1159,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.65,
-      "lon": 1.0333333333333334
+      "lon": 6.333333333333333
     },
     "remarks": ""
   },
@@ -1170,7 +1170,7 @@
     "name": "Foetz",
     "nameWoDiacritics": "Foetz",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1178,7 +1178,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.516666666666666,
-      "lon": 1
+      "lon": 6
     },
     "remarks": ""
   },
@@ -1189,7 +1189,7 @@
     "name": "Fouhren",
     "nameWoDiacritics": "Fouhren",
     "subdivision": "VD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1197,7 +1197,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.916666666666664,
-      "lon": 1.0166666666666666
+      "lon": 6.2
     },
     "remarks": ""
   },
@@ -1208,7 +1208,7 @@
     "name": "Frisange (Fr�iseng)",
     "nameWoDiacritics": "Frisange (Freiseng)",
     "subdivision": "ES",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1216,7 +1216,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.5,
-      "lon": 1.0166666666666666
+      "lon": 6.183333333333334
     },
     "remarks": ""
   },
@@ -1227,7 +1227,7 @@
     "name": "Garnich (Garnech)",
     "nameWoDiacritics": "Garnich (Garnech)",
     "subdivision": "CA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1235,7 +1235,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.61666666666667,
-      "lon": 0.9166666666666666
+      "lon": 5.95
     },
     "remarks": ""
   },
@@ -1246,7 +1246,7 @@
     "name": "Godbrange",
     "nameWoDiacritics": "Godbrange",
     "subdivision": "GR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1254,7 +1254,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.71666666666667,
-      "lon": 1.0166666666666666
+      "lon": 6.216666666666667
     },
     "remarks": ""
   },
@@ -1265,7 +1265,7 @@
     "name": "Goesdorf (G�isdref)",
     "nameWoDiacritics": "Goesdorf (Geisdref)",
     "subdivision": "DI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1273,7 +1273,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.916666666666664,
-      "lon": 0.9166666666666666
+      "lon": 5.966666666666667
     },
     "remarks": ""
   },
@@ -1284,7 +1284,7 @@
     "name": "Gonderange",
     "nameWoDiacritics": "Gonderange",
     "subdivision": "GR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1292,7 +1292,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.68333333333333,
-      "lon": 1.0166666666666666
+      "lon": 6.233333333333333
     },
     "remarks": ""
   },
@@ -1303,7 +1303,7 @@
     "name": "Grevenmacher",
     "nameWoDiacritics": "Grevenmacher",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1311,7 +1311,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.68333333333333,
-      "lon": 1.0333333333333334
+      "lon": 6.45
     },
     "remarks": ""
   },
@@ -1322,7 +1322,7 @@
     "name": "Grosbous (Groussbus)",
     "nameWoDiacritics": "Grosbous (Groussbus)",
     "subdivision": "RD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1330,7 +1330,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.81666666666667,
-      "lon": 0.9166666666666666
+      "lon": 5.966666666666667
     },
     "remarks": ""
   },
@@ -1341,7 +1341,7 @@
     "name": "Grundhof",
     "nameWoDiacritics": "Grundhof",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -1350,7 +1350,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.833333333333336,
-      "lon": 1.0166666666666666
+      "lon": 6.316666666666666
     },
     "remarks": ""
   },
@@ -1361,7 +1361,7 @@
     "name": "Hagen",
     "nameWoDiacritics": "Hagen",
     "subdivision": "CA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1369,7 +1369,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.63333333333333,
-      "lon": 0.9166666666666666
+      "lon": 5.916666666666667
     },
     "remarks": ""
   },
@@ -1380,7 +1380,7 @@
     "name": "Hautbellain",
     "nameWoDiacritics": "Hautbellain",
     "subdivision": "CL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1388,7 +1388,7 @@
     "iata": "",
     "coordinates": {
       "lat": 50.15,
-      "lon": 0.9166666666666666
+      "lon": 5.966666666666667
     },
     "remarks": ""
   },
@@ -1399,7 +1399,7 @@
     "name": "Hautcharage",
     "nameWoDiacritics": "Hautcharage",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1407,7 +1407,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.56666666666667,
-      "lon": 0.9166666666666666
+      "lon": 5.9
     },
     "remarks": ""
   },
@@ -1418,7 +1418,7 @@
     "name": "Heffingen (Hiefenech)",
     "nameWoDiacritics": "Heffingen (Hiefenech)",
     "subdivision": "ME",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1426,7 +1426,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.75,
-      "lon": 1.0166666666666666
+      "lon": 6.233333333333333
     },
     "remarks": ""
   },
@@ -1437,7 +1437,7 @@
     "name": "Heiderscheid",
     "nameWoDiacritics": "Heiderscheid",
     "subdivision": "WI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1445,7 +1445,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.88333333333333,
-      "lon": 0.9166666666666666
+      "lon": 5.966666666666667
     },
     "remarks": ""
   },
@@ -1456,7 +1456,7 @@
     "name": "Hellange",
     "nameWoDiacritics": "Hellange",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1464,7 +1464,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.5,
-      "lon": 1
+      "lon": 6.033333333333333
     },
     "remarks": ""
   },
@@ -1475,7 +1475,7 @@
     "name": "Helmsange",
     "nameWoDiacritics": "Helmsange",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1494,7 +1494,7 @@
     "name": "Hesperange",
     "nameWoDiacritics": "Hesperange",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1503,7 +1503,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.56666666666667,
-      "lon": 1
+      "lon": 6.15
     },
     "remarks": ""
   },
@@ -1514,7 +1514,7 @@
     "name": "Hettermillen",
     "nameWoDiacritics": "Hettermillen",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1522,7 +1522,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.583333333333336,
-      "lon": 1.0333333333333334
+      "lon": 6.366666666666666
     },
     "remarks": ""
   },
@@ -1533,7 +1533,7 @@
     "name": "Hobscheid",
     "nameWoDiacritics": "Hobscheid",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1541,7 +1541,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.68333333333333,
-      "lon": 0.9166666666666666
+      "lon": 5.9
     },
     "remarks": ""
   },
@@ -1552,7 +1552,7 @@
     "name": "Holzem",
     "nameWoDiacritics": "Holzem",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1560,7 +1560,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.6,
-      "lon": 0.9166666666666666
+      "lon": 5.983333333333333
     },
     "remarks": ""
   },
@@ -1571,7 +1571,7 @@
     "name": "Hosingen",
     "nameWoDiacritics": "Hosingen",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1590,7 +1590,7 @@
     "name": "Hovelange",
     "nameWoDiacritics": "Hovelange",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1598,7 +1598,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.71666666666667,
-      "lon": 0.9166666666666666
+      "lon": 5.9
     },
     "remarks": ""
   },
@@ -1609,7 +1609,7 @@
     "name": "Howald",
     "nameWoDiacritics": "Howald",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -1617,7 +1617,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.583333333333336,
-      "lon": 1
+      "lon": 6.133333333333334
     },
     "remarks": ""
   },
@@ -1628,7 +1628,7 @@
     "name": "Huldange",
     "nameWoDiacritics": "Huldange",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -1637,7 +1637,7 @@
     "iata": "",
     "coordinates": {
       "lat": 50.15,
-      "lon": 1
+      "lon": 6
     },
     "remarks": ""
   },
@@ -1648,7 +1648,7 @@
     "name": "H�nsdorf",
     "nameWoDiacritics": "Hunsdorf",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1656,7 +1656,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.7,
-      "lon": 1
+      "lon": 6.133333333333334
     },
     "remarks": ""
   },
@@ -1667,7 +1667,7 @@
     "name": "Ingeldorf",
     "nameWoDiacritics": "Ingeldorf",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1675,7 +1675,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.85,
-      "lon": 1
+      "lon": 6.133333333333334
     },
     "remarks": ""
   },
@@ -1686,7 +1686,7 @@
     "name": "Itzig",
     "nameWoDiacritics": "Itzig",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1694,7 +1694,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.583333333333336,
-      "lon": 1.0166666666666666
+      "lon": 6.166666666666667
     },
     "remarks": ""
   },
@@ -1705,7 +1705,7 @@
     "name": "Junglinster",
     "nameWoDiacritics": "Junglinster",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1713,7 +1713,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.7,
-      "lon": 1.0166666666666666
+      "lon": 6.25
     },
     "remarks": ""
   },
@@ -1724,7 +1724,7 @@
     "name": "K�erjeng",
     "nameWoDiacritics": "Kaerjeng",
     "subdivision": "CA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1732,7 +1732,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.583333333333336,
-      "lon": 0.9166666666666666
+      "lon": 5.9
     },
     "remarks": ""
   },
@@ -1743,7 +1743,7 @@
     "name": "Kayl",
     "nameWoDiacritics": "Kayl",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1752,7 +1752,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.483333333333334,
-      "lon": 1
+      "lon": 6.033333333333333
     },
     "remarks": ""
   },
@@ -1763,7 +1763,7 @@
     "name": "Kehlen",
     "nameWoDiacritics": "Kehlen",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1771,7 +1771,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.666666666666664,
-      "lon": 1
+      "lon": 6.033333333333333
     },
     "remarks": ""
   },
@@ -1782,7 +1782,7 @@
     "name": "Kiischpelt",
     "nameWoDiacritics": "Kiischpelt",
     "subdivision": "WI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1790,7 +1790,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.983333333333334,
-      "lon": 1
+      "lon": 6
     },
     "remarks": ""
   },
@@ -1801,7 +1801,7 @@
     "name": "Knaphoscheid",
     "nameWoDiacritics": "Knaphoscheid",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1809,7 +1809,7 @@
     "iata": "",
     "coordinates": {
       "lat": 50,
-      "lon": 0.9166666666666666
+      "lon": 5.95
     },
     "remarks": ""
   },
@@ -1820,7 +1820,7 @@
     "name": "Kockelscheuer",
     "nameWoDiacritics": "Kockelscheuer",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1828,7 +1828,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.55,
-      "lon": 1
+      "lon": 6.1
     },
     "remarks": ""
   },
@@ -1839,7 +1839,7 @@
     "name": "Koerich",
     "nameWoDiacritics": "Koerich",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1847,7 +1847,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.666666666666664,
-      "lon": 0.9166666666666666
+      "lon": 5.95
     },
     "remarks": ""
   },
@@ -1858,7 +1858,7 @@
     "name": "Koetschette",
     "nameWoDiacritics": "Koetschette",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1866,7 +1866,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.833333333333336,
-      "lon": 0.9166666666666666
+      "lon": 5.85
     },
     "remarks": ""
   },
@@ -1877,7 +1877,7 @@
     "name": "Kopstal (Koplescht)",
     "nameWoDiacritics": "Kopstal (Koplescht)",
     "subdivision": "CA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1885,7 +1885,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.65,
-      "lon": 1
+      "lon": 6.066666666666666
     },
     "remarks": ""
   },
@@ -1896,7 +1896,7 @@
     "name": "Lac de la Haute-S�re (Staus�igemeng)",
     "nameWoDiacritics": "Lac de la Haute-Sure (Stauseigemeng)",
     "subdivision": "WI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1904,7 +1904,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.9,
-      "lon": 0.9166666666666666
+      "lon": 5.866666666666667
     },
     "remarks": ""
   },
@@ -1915,7 +1915,7 @@
     "name": "Lamadelaine",
     "nameWoDiacritics": "Lamadelaine",
     "subdivision": "ES",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1923,7 +1923,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.53333333333333,
-      "lon": 0.9166666666666666
+      "lon": 5.85
     },
     "remarks": ""
   },
@@ -1934,7 +1934,7 @@
     "name": "Larochette (Fiels)",
     "nameWoDiacritics": "Larochette (Fiels)",
     "subdivision": "ME",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1942,7 +1942,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.766666666666666,
-      "lon": 1.0166666666666666
+      "lon": 6.216666666666667
     },
     "remarks": ""
   },
@@ -1953,7 +1953,7 @@
     "name": "Lenningen",
     "nameWoDiacritics": "Lenningen",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1961,7 +1961,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.583333333333336,
-      "lon": 1.0333333333333334
+      "lon": 6.366666666666666
     },
     "remarks": ""
   },
@@ -1972,7 +1972,7 @@
     "name": "Lentzweiler",
     "nameWoDiacritics": "Lentzweiler",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -1981,7 +1981,7 @@
     "iata": "",
     "coordinates": {
       "lat": 50.06666666666667,
-      "lon": 0.9166666666666666
+      "lon": 5.966666666666667
     },
     "remarks": ""
   },
@@ -1992,7 +1992,7 @@
     "name": "Leudelange",
     "nameWoDiacritics": "Leudelange",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2011,7 +2011,7 @@
     "name": "Linger",
     "nameWoDiacritics": "Linger",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2019,7 +2019,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.55,
-      "lon": 0.9166666666666666
+      "lon": 5.883333333333333
     },
     "remarks": ""
   },
@@ -2030,7 +2030,7 @@
     "name": "Lintgen",
     "nameWoDiacritics": "Lintgen",
     "subdivision": "L",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -2038,7 +2038,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.71666666666667,
-      "lon": 1
+      "lon": 6.116666666666666
     },
     "remarks": ""
   },
@@ -2049,7 +2049,7 @@
     "name": "Lipperscheid",
     "nameWoDiacritics": "Lipperscheid",
     "subdivision": "DI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2057,7 +2057,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.916666666666664,
-      "lon": 1
+      "lon": 6.083333333333333
     },
     "remarks": ""
   },
@@ -2068,7 +2068,7 @@
     "name": "Livange",
     "nameWoDiacritics": "Livange",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2076,7 +2076,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.516666666666666,
-      "lon": 1
+      "lon": 6.116666666666666
     },
     "remarks": ""
   },
@@ -2087,7 +2087,7 @@
     "name": "Lorentzweiler",
     "nameWoDiacritics": "Lorentzweiler",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2096,7 +2096,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.7,
-      "lon": 1
+      "lon": 6.133333333333334
     },
     "remarks": ""
   },
@@ -2107,7 +2107,7 @@
     "name": "Luxembourg",
     "nameWoDiacritics": "Luxembourg",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -2128,7 +2128,7 @@
     "name": "Mamer",
     "nameWoDiacritics": "Mamer",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -2138,7 +2138,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.63333333333333,
-      "lon": 1
+      "lon": 6.016666666666667
     },
     "remarks": ""
   },
@@ -2149,7 +2149,7 @@
     "name": "Manternach",
     "nameWoDiacritics": "Manternach",
     "subdivision": "GR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2157,7 +2157,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.7,
-      "lon": 1.0333333333333334
+      "lon": 6.416666666666667
     },
     "remarks": ""
   },
@@ -2168,7 +2168,7 @@
     "name": "Medernach",
     "nameWoDiacritics": "Medernach",
     "subdivision": "DI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2176,7 +2176,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.8,
-      "lon": 1.0166666666666666
+      "lon": 6.216666666666667
     },
     "remarks": ""
   },
@@ -2187,7 +2187,7 @@
     "name": "Mersch",
     "nameWoDiacritics": "Mersch",
     "subdivision": "L",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -2195,7 +2195,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.75,
-      "lon": 1
+      "lon": 6.1
     },
     "remarks": ""
   },
@@ -2206,7 +2206,7 @@
     "name": "Mertert",
     "nameWoDiacritics": "Mertert",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -2214,7 +2214,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.7,
-      "lon": 1.0333333333333334
+      "lon": 6.483333333333333
     },
     "remarks": ""
   },
@@ -2225,7 +2225,7 @@
     "name": "Mertzig (M�erzeg)",
     "nameWoDiacritics": "Mertzig (Maerzeg)",
     "subdivision": "DI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2233,7 +2233,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.833333333333336,
-      "lon": 1
+      "lon": 6
     },
     "remarks": ""
   },
@@ -2244,7 +2244,7 @@
     "name": "Mompach (Mompech)",
     "nameWoDiacritics": "Mompach (Mompech)",
     "subdivision": "ES",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2252,7 +2252,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.733333333333334,
-      "lon": 1.0333333333333334
+      "lon": 6.45
     },
     "remarks": ""
   },
@@ -2263,7 +2263,7 @@
     "name": "Mondercange",
     "nameWoDiacritics": "Mondercange",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2271,7 +2271,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.516666666666666,
-      "lon": 0.9166666666666666
+      "lon": 5.983333333333333
     },
     "remarks": ""
   },
@@ -2282,7 +2282,7 @@
     "name": "Mondorf-les-Bains",
     "nameWoDiacritics": "Mondorf-les-Bains",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2290,7 +2290,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.5,
-      "lon": 1.0166666666666666
+      "lon": 6.266666666666667
     },
     "remarks": ""
   },
@@ -2301,7 +2301,7 @@
     "name": "Mosingen",
     "nameWoDiacritics": "Mosingen",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -2320,7 +2320,7 @@
     "name": "Moutfort",
     "nameWoDiacritics": "Moutfort",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2329,7 +2329,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.583333333333336,
-      "lon": 1.0166666666666666
+      "lon": 6.266666666666667
     },
     "remarks": ""
   },
@@ -2340,7 +2340,7 @@
     "name": "M�nsbach",
     "nameWoDiacritics": "Munsbach",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2349,7 +2349,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.63333333333333,
-      "lon": 1.0166666666666666
+      "lon": 6.266666666666667
     },
     "remarks": ""
   },
@@ -2360,7 +2360,7 @@
     "name": "Niederanven",
     "nameWoDiacritics": "Niederanven",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2368,7 +2368,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.65,
-      "lon": 1.0166666666666666
+      "lon": 6.25
     },
     "remarks": ""
   },
@@ -2379,7 +2379,7 @@
     "name": "Niederkorn",
     "nameWoDiacritics": "Niederkorn",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2388,7 +2388,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.53333333333333,
-      "lon": 0.9166666666666666
+      "lon": 5.883333333333333
     },
     "remarks": ""
   },
@@ -2399,7 +2399,7 @@
     "name": "Noertzange",
     "nameWoDiacritics": "Noertzange",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2407,7 +2407,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.5,
-      "lon": 1
+      "lon": 6.05
     },
     "remarks": ""
   },
@@ -2418,7 +2418,7 @@
     "name": "Nommern (Noumer)",
     "nameWoDiacritics": "Nommern (Noumer)",
     "subdivision": "ME",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2426,7 +2426,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.78333333333333,
-      "lon": 1.0166666666666666
+      "lon": 6.166666666666667
     },
     "remarks": ""
   },
@@ -2437,7 +2437,7 @@
     "name": "Oberanven",
     "nameWoDiacritics": "Oberanven",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2445,7 +2445,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.666666666666664,
-      "lon": 1.0166666666666666
+      "lon": 6.233333333333333
     },
     "remarks": ""
   },
@@ -2456,7 +2456,7 @@
     "name": "Oetrange",
     "nameWoDiacritics": "Oetrange",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -2464,7 +2464,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.583333333333336,
-      "lon": 1.0166666666666666
+      "lon": 6.25
     },
     "remarks": ""
   },
@@ -2475,7 +2475,7 @@
     "name": "Olm",
     "nameWoDiacritics": "Olm",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2483,7 +2483,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.65,
-      "lon": 1
+      "lon": 6
     },
     "remarks": ""
   },
@@ -2494,7 +2494,7 @@
     "name": "Ospern",
     "nameWoDiacritics": "Ospern",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2502,7 +2502,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.78333333333333,
-      "lon": 0.9166666666666666
+      "lon": 5.9
     },
     "remarks": ""
   },
@@ -2513,7 +2513,7 @@
     "name": "Parc Hosingen (Parc Housen)",
     "nameWoDiacritics": "Parc Hosingen (Parc Housen)",
     "subdivision": "CL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2521,7 +2521,7 @@
     "iata": "",
     "coordinates": {
       "lat": 50,
-      "lon": 1
+      "lon": 6.083333333333333
     },
     "remarks": ""
   },
@@ -2532,7 +2532,7 @@
     "name": "P�tange",
     "nameWoDiacritics": "Petange",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2541,7 +2541,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.55,
-      "lon": 0.9166666666666666
+      "lon": 5.883333333333333
     },
     "remarks": ""
   },
@@ -2552,7 +2552,7 @@
     "name": "Pontpierre",
     "nameWoDiacritics": "Pontpierre",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2560,7 +2560,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.53333333333333,
-      "lon": 1
+      "lon": 6.033333333333333
     },
     "remarks": ""
   },
@@ -2571,7 +2571,7 @@
     "name": "Pratz",
     "nameWoDiacritics": "Pratz",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2579,7 +2579,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.8,
-      "lon": 0.9166666666666666
+      "lon": 5.933333333333334
     },
     "remarks": ""
   },
@@ -2590,7 +2590,7 @@
     "name": "Pr�izerdaul",
     "nameWoDiacritics": "Preizerdaul",
     "subdivision": "RD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2598,7 +2598,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.78333333333333,
-      "lon": 0.9166666666666666
+      "lon": 5.933333333333334
     },
     "remarks": ""
   },
@@ -2609,7 +2609,7 @@
     "name": "Putscheid (P�tscht)",
     "nameWoDiacritics": "Putscheid (Petscht)",
     "subdivision": "VD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2617,7 +2617,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.95,
-      "lon": 1
+      "lon": 6.133333333333334
     },
     "remarks": ""
   },
@@ -2628,7 +2628,7 @@
     "name": "Rambrouch",
     "nameWoDiacritics": "Rambrouch",
     "subdivision": "D",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -2636,7 +2636,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.81666666666667,
-      "lon": 0.9166666666666666
+      "lon": 5.833333333333333
     },
     "remarks": ""
   },
@@ -2647,7 +2647,7 @@
     "name": "Reckange-sur-Mess (Reckeng op der Mess)",
     "nameWoDiacritics": "Reckange-sur-Mess (Reckeng op der Mess)",
     "subdivision": "ES",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2655,7 +2655,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.55,
-      "lon": 1
+      "lon": 6
     },
     "remarks": ""
   },
@@ -2666,7 +2666,7 @@
     "name": "Redange",
     "nameWoDiacritics": "Redange",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2674,7 +2674,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.766666666666666,
-      "lon": 0.9166666666666666
+      "lon": 5.883333333333333
     },
     "remarks": ""
   },
@@ -2685,7 +2685,7 @@
     "name": "Reisdorf (Reisduerf)",
     "nameWoDiacritics": "Reisdorf (Reisduerf)",
     "subdivision": "DI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2693,7 +2693,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.86666666666667,
-      "lon": 1.0166666666666666
+      "lon": 6.266666666666667
     },
     "remarks": ""
   },
@@ -2704,7 +2704,7 @@
     "name": "Remerschen",
     "nameWoDiacritics": "Remerschen",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2712,7 +2712,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.483333333333334,
-      "lon": 1.0333333333333334
+      "lon": 6.35
     },
     "remarks": ""
   },
@@ -2723,7 +2723,7 @@
     "name": "Remich",
     "nameWoDiacritics": "Remich",
     "subdivision": "G",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -2731,7 +2731,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.53333333333333,
-      "lon": 1.0333333333333334
+      "lon": 6.366666666666666
     },
     "remarks": ""
   },
@@ -2742,7 +2742,7 @@
     "name": "RIS Inland waterways",
     "nameWoDiacritics": "RIS Inland waterways",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -2761,7 +2761,7 @@
     "name": "Rodange",
     "nameWoDiacritics": "Rodange",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -2780,7 +2780,7 @@
     "name": "Rombach",
     "nameWoDiacritics": "Rombach",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2788,7 +2788,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.833333333333336,
-      "lon": 0.9
+      "lon": 5.75
     },
     "remarks": ""
   },
@@ -2799,7 +2799,7 @@
     "name": "Roost",
     "nameWoDiacritics": "Roost",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2807,7 +2807,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.78333333333333,
-      "lon": 1
+      "lon": 6.083333333333333
     },
     "remarks": ""
   },
@@ -2818,7 +2818,7 @@
     "name": "Rosport",
     "nameWoDiacritics": "Rosport",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2826,7 +2826,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.78333333333333,
-      "lon": 1.05
+      "lon": 6.5
     },
     "remarks": ""
   },
@@ -2837,7 +2837,7 @@
     "name": "Rosport (Rouspert)",
     "nameWoDiacritics": "Rosport (Rouspert)",
     "subdivision": "EC",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2845,7 +2845,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.78333333333333,
-      "lon": 1.05
+      "lon": 6.5
     },
     "remarks": ""
   },
@@ -2856,7 +2856,7 @@
     "name": "Rost",
     "nameWoDiacritics": "Rost",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2864,7 +2864,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.78333333333333,
-      "lon": 1
+      "lon": 6.083333333333333
     },
     "remarks": ""
   },
@@ -2875,7 +2875,7 @@
     "name": "Roullingen",
     "nameWoDiacritics": "Roullingen",
     "subdivision": "DI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2883,7 +2883,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.95,
-      "lon": 0.9166666666666666
+      "lon": 5.916666666666667
     },
     "remarks": ""
   },
@@ -2894,7 +2894,7 @@
     "name": "Rumelange",
     "nameWoDiacritics": "Rumelange",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2902,7 +2902,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.45,
-      "lon": 1
+      "lon": 6.016666666666667
     },
     "remarks": ""
   },
@@ -2913,7 +2913,7 @@
     "name": "Saeul (S�ll)",
     "nameWoDiacritics": "Saeul (Sell)",
     "subdivision": "RD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2921,7 +2921,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.71666666666667,
-      "lon": 0.9166666666666666
+      "lon": 5.983333333333333
     },
     "remarks": ""
   },
@@ -2932,7 +2932,7 @@
     "name": "Sandweiler",
     "nameWoDiacritics": "Sandweiler",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2940,7 +2940,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.6,
-      "lon": 1.0166666666666666
+      "lon": 6.216666666666667
     },
     "remarks": ""
   },
@@ -2951,7 +2951,7 @@
     "name": "Sanem",
     "nameWoDiacritics": "Sanem",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -2970,7 +2970,7 @@
     "name": "Schengen",
     "nameWoDiacritics": "Schengen",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       4
@@ -2990,7 +2990,7 @@
     "name": "Schieren",
     "nameWoDiacritics": "Schieren",
     "subdivision": "DI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2998,7 +2998,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.81666666666667,
-      "lon": 1
+      "lon": 6.083333333333333
     },
     "remarks": ""
   },
@@ -3009,7 +3009,7 @@
     "name": "Schifflange",
     "nameWoDiacritics": "Schifflange",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3017,7 +3017,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.5,
-      "lon": 1
+      "lon": 6
     },
     "remarks": ""
   },
@@ -3028,7 +3028,7 @@
     "name": "Schuttrange",
     "nameWoDiacritics": "Schuttrange",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3036,7 +3036,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.61666666666667,
-      "lon": 1.0166666666666666
+      "lon": 6.266666666666667
     },
     "remarks": ""
   },
@@ -3047,7 +3047,7 @@
     "name": "Senningen",
     "nameWoDiacritics": "Senningen",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3055,7 +3055,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.63333333333333,
-      "lon": 1.0166666666666666
+      "lon": 6.216666666666667
     },
     "remarks": ""
   },
@@ -3066,7 +3066,7 @@
     "name": "Senningerberg",
     "nameWoDiacritics": "Senningerberg",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3074,7 +3074,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.63333333333333,
-      "lon": 1.0166666666666666
+      "lon": 6.216666666666667
     },
     "remarks": ""
   },
@@ -3085,7 +3085,7 @@
     "name": "Septfontaines (Simmer)",
     "nameWoDiacritics": "Septfontaines (Simmer)",
     "subdivision": "CA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3093,7 +3093,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.7,
-      "lon": 0.9166666666666666
+      "lon": 5.966666666666667
     },
     "remarks": ""
   },
@@ -3104,7 +3104,7 @@
     "name": "Soleuvre",
     "nameWoDiacritics": "Soleuvre",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3112,7 +3112,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.53333333333333,
-      "lon": 0.9166666666666666
+      "lon": 5.933333333333334
     },
     "remarks": ""
   },
@@ -3123,7 +3123,7 @@
     "name": "Stadtbredimus (Stadbriedemes)",
     "nameWoDiacritics": "Stadtbredimus (Stadbriedemes)",
     "subdivision": "RM",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3131,7 +3131,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.55,
-      "lon": 1.0333333333333334
+      "lon": 6.35
     },
     "remarks": ""
   },
@@ -3142,7 +3142,7 @@
     "name": "Steinfort",
     "nameWoDiacritics": "Steinfort",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -3161,7 +3161,7 @@
     "name": "Steinsel",
     "nameWoDiacritics": "Steinsel",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -3180,7 +3180,7 @@
     "name": "Strassen",
     "nameWoDiacritics": "Strassen",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3188,7 +3188,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.61666666666667,
-      "lon": 1
+      "lon": 6.05
     },
     "remarks": ""
   },
@@ -3199,7 +3199,7 @@
     "name": "Stuppicht",
     "nameWoDiacritics": "Stuppicht",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3207,7 +3207,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.71666666666667,
-      "lon": 1.0166666666666666
+      "lon": 6.183333333333334
     },
     "remarks": ""
   },
@@ -3218,7 +3218,7 @@
     "name": "Tandel",
     "nameWoDiacritics": "Tandel",
     "subdivision": "VD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3226,7 +3226,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.88333333333333,
-      "lon": 1.0166666666666666
+      "lon": 6.183333333333334
     },
     "remarks": ""
   },
@@ -3237,7 +3237,7 @@
     "name": "Troisvierges",
     "nameWoDiacritics": "Troisvierges",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -3256,7 +3256,7 @@
     "name": "Tuntange (T�inten)",
     "nameWoDiacritics": "Tuntange (Teinten)",
     "subdivision": "ME",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3264,7 +3264,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.71666666666667,
-      "lon": 1
+      "lon": 6
     },
     "remarks": ""
   },
@@ -3275,7 +3275,7 @@
     "name": "Useldange",
     "nameWoDiacritics": "Useldange",
     "subdivision": "D",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3283,7 +3283,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.766666666666666,
-      "lon": 0.9166666666666666
+      "lon": 5.966666666666667
     },
     "remarks": ""
   },
@@ -3294,7 +3294,7 @@
     "name": "Vall�e de l'Ernz (�renzdall)",
     "nameWoDiacritics": "Vallee de l'Ernz (Arenzdall)",
     "subdivision": "DI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3302,7 +3302,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.81666666666667,
-      "lon": 1.0166666666666666
+      "lon": 6.216666666666667
     },
     "remarks": ""
   },
@@ -3313,7 +3313,7 @@
     "name": "Vianden",
     "nameWoDiacritics": "Vianden",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -3332,7 +3332,7 @@
     "name": "Vichten (Viichten)",
     "nameWoDiacritics": "Vichten (Viichten)",
     "subdivision": "RD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3340,7 +3340,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.8,
-      "lon": 1
+      "lon": 6
     },
     "remarks": ""
   },
@@ -3351,7 +3351,7 @@
     "name": "Wahl (Wal)",
     "nameWoDiacritics": "Wahl (Wal)",
     "subdivision": "RD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3359,7 +3359,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.833333333333336,
-      "lon": 0.9166666666666666
+      "lon": 5.9
     },
     "remarks": ""
   },
@@ -3370,7 +3370,7 @@
     "name": "Waldbillig (Waldb�lleg)",
     "nameWoDiacritics": "Waldbillig (Waldbelleg)",
     "subdivision": "EC",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3378,7 +3378,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.78333333333333,
-      "lon": 1.0166666666666666
+      "lon": 6.283333333333333
     },
     "remarks": ""
   },
@@ -3389,7 +3389,7 @@
     "name": "Waldbredimus (Waldbriedemes)",
     "nameWoDiacritics": "Waldbredimus (Waldbriedemes)",
     "subdivision": "RM",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3397,7 +3397,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.55,
-      "lon": 1.0166666666666666
+      "lon": 6.283333333333333
     },
     "remarks": ""
   },
@@ -3408,7 +3408,7 @@
     "name": "Walferdange (Walfer)",
     "nameWoDiacritics": "Walferdange (Walfer)",
     "subdivision": "LU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3416,7 +3416,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.65,
-      "lon": 1
+      "lon": 6.133333333333334
     },
     "remarks": ""
   },
@@ -3427,7 +3427,7 @@
     "name": "Wasserbillig",
     "nameWoDiacritics": "Wasserbillig",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3435,7 +3435,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.7,
-      "lon": 1.05
+      "lon": 6.516666666666667
     },
     "remarks": ""
   },
@@ -3446,7 +3446,7 @@
     "name": "Wecker",
     "nameWoDiacritics": "Wecker",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3454,7 +3454,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.68333333333333,
-      "lon": 1.0333333333333334
+      "lon": 6.383333333333334
     },
     "remarks": ""
   },
@@ -3465,7 +3465,7 @@
     "name": "Weiler-la-Tour (Weiler zum Tuerm)",
     "nameWoDiacritics": "Weiler-la-Tour (Weiler zum Tuerm)",
     "subdivision": "LU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3473,7 +3473,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.53333333333333,
-      "lon": 1.0166666666666666
+      "lon": 6.2
     },
     "remarks": ""
   },
@@ -3484,7 +3484,7 @@
     "name": "Weiswampach",
     "nameWoDiacritics": "Weiswampach",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3492,7 +3492,7 @@
     "iata": "",
     "coordinates": {
       "lat": 50.13333333333333,
-      "lon": 1
+      "lon": 6.066666666666666
     },
     "remarks": ""
   },
@@ -3503,7 +3503,7 @@
     "name": "Wellenstein",
     "nameWoDiacritics": "Wellenstein",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3511,7 +3511,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.516666666666666,
-      "lon": 1.0333333333333334
+      "lon": 6.333333333333333
     },
     "remarks": ""
   },
@@ -3522,7 +3522,7 @@
     "name": "Wemperhardt",
     "nameWoDiacritics": "Wemperhardt",
     "subdivision": "L",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -3530,7 +3530,7 @@
     "iata": "",
     "coordinates": {
       "lat": 50.15,
-      "lon": 1
+      "lon": 6.05
     },
     "remarks": ""
   },
@@ -3541,7 +3541,7 @@
     "name": "Wiltz",
     "nameWoDiacritics": "Wiltz",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -3560,7 +3560,7 @@
     "name": "Wincrange (W�ntger)",
     "nameWoDiacritics": "Wincrange (Wentger)",
     "subdivision": "CL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3568,7 +3568,7 @@
     "iata": "",
     "coordinates": {
       "lat": 50.05,
-      "lon": 0.9166666666666666
+      "lon": 5.916666666666667
     },
     "remarks": ""
   },
@@ -3579,7 +3579,7 @@
     "name": "Windhof",
     "nameWoDiacritics": "Windhof",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3587,7 +3587,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.63333333333333,
-      "lon": 0.9166666666666666
+      "lon": 5.95
     },
     "remarks": ""
   },
@@ -3598,7 +3598,7 @@
     "name": "Winseler (Wanseler)",
     "nameWoDiacritics": "Winseler (Wanseler)",
     "subdivision": "WI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3606,7 +3606,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.96666666666667,
-      "lon": 0.9166666666666666
+      "lon": 5.883333333333333
     },
     "remarks": ""
   },
@@ -3617,7 +3617,7 @@
     "name": "Wintrange",
     "nameWoDiacritics": "Wintrange",
     "subdivision": "G",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3625,7 +3625,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.5,
-      "lon": 1.0333333333333334
+      "lon": 6.35
     },
     "remarks": ""
   },
@@ -3636,7 +3636,7 @@
     "name": "Wormeldange",
     "nameWoDiacritics": "Wormeldange",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -3645,7 +3645,7 @@
     "iata": "",
     "coordinates": {
       "lat": 49.6,
-      "lon": 1.0333333333333334
+      "lon": 6.4
     },
     "remarks": ""
   }

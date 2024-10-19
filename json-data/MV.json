@@ -6,7 +6,7 @@
     "name": ".MALDIVES",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Addu",
     "nameWoDiacritics": "Addu",
     "subdivision": "01",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       2
@@ -43,7 +43,7 @@
     "name": "Baa Atoll",
     "nameWoDiacritics": "Baa Atoll",
     "subdivision": "NO",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -51,7 +51,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.133333333333334,
-      "lon": 7.416666666666667
+      "lon": 72.95
     },
     "remarks": ""
   },
@@ -62,7 +62,7 @@
     "name": "Coastline Private Port",
     "nameWoDiacritics": "Coastline Private Port",
     "subdivision": "MLE",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
@@ -70,7 +70,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.166666666666667,
-      "lon": 7.533333333333333
+      "lon": 73.45
     },
     "remarks": ""
   },
@@ -81,7 +81,7 @@
     "name": "Gan",
     "nameWoDiacritics": "Gan",
     "subdivision": "SU",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -89,7 +89,7 @@
     "iata": "",
     "coordinates": {
       "lat": -0.7,
-      "lon": 7.5
+      "lon": 73.15
     },
     "remarks": ""
   },
@@ -100,7 +100,7 @@
     "name": "Halaveli",
     "nameWoDiacritics": "Halaveli",
     "subdivision": "NC",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -108,7 +108,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.033333333333333,
-      "lon": 7.416666666666667
+      "lon": 72.91666666666667
     },
     "remarks": ""
   },
@@ -119,7 +119,7 @@
     "name": "Hanimaadhoo",
     "nameWoDiacritics": "Hanimaadhoo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -138,7 +138,7 @@
     "name": "Hithadhoo",
     "nameWoDiacritics": "Hithadhoo",
     "subdivision": "SC",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -146,7 +146,7 @@
     "iata": "",
     "coordinates": {
       "lat": 1.7666666666666666,
-      "lon": 7.533333333333333
+      "lon": 73.36666666666666
     },
     "remarks": ""
   },
@@ -157,7 +157,7 @@
     "name": "Hithadhoo",
     "nameWoDiacritics": "Hithadhoo",
     "subdivision": "SU",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -165,7 +165,7 @@
     "iata": "",
     "coordinates": {
       "lat": -0.6,
-      "lon": 7.5
+      "lon": 73.08333333333333
     },
     "remarks": ""
   },
@@ -176,7 +176,7 @@
     "name": "Hithadhoo Port",
     "nameWoDiacritics": "Hithadhoo Port",
     "subdivision": "01",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
@@ -184,7 +184,7 @@
     "iata": "",
     "coordinates": {
       "lat": -0.6333333333333333,
-      "lon": 7.5
+      "lon": 73.1
     },
     "remarks": ""
   },
@@ -195,7 +195,7 @@
     "name": "Hulhul� Island",
     "nameWoDiacritics": "Hulhule Island",
     "subdivision": "MLE",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -203,7 +203,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.183333333333334,
-      "lon": 7.55
+      "lon": 73.51666666666667
     },
     "remarks": ""
   },
@@ -214,7 +214,7 @@
     "name": "Kaadedhdhoo",
     "nameWoDiacritics": "Kaadedhdhoo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -233,7 +233,7 @@
     "name": "Kadhdhoo",
     "nameWoDiacritics": "Kadhdhoo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -252,7 +252,7 @@
     "name": "Kelai",
     "nameWoDiacritics": "Kelai",
     "subdivision": "UN",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -271,7 +271,7 @@
     "name": "Koodoo Fisheries",
     "nameWoDiacritics": "Koodoo Fisheries",
     "subdivision": "27",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
@@ -279,7 +279,7 @@
     "iata": "",
     "coordinates": {
       "lat": 0.7333333333333333,
-      "lon": 7.533333333333333
+      "lon": 73.43333333333334
     },
     "remarks": ""
   },
@@ -290,7 +290,7 @@
     "name": "Kulhudhuffushi",
     "nameWoDiacritics": "Kulhudhuffushi",
     "subdivision": "23",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -299,7 +299,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.616666666666667,
-      "lon": 7.5
+      "lon": 73.05
     },
     "remarks": ""
   },
@@ -310,7 +310,7 @@
     "name": "Kulhudhuffushi Port",
     "nameWoDiacritics": "Kulhudhuffushi Port",
     "subdivision": "23",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
@@ -318,7 +318,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.616666666666667,
-      "lon": 7.5
+      "lon": 73.06666666666666
     },
     "remarks": ""
   },
@@ -329,7 +329,7 @@
     "name": "Maamigili Port",
     "nameWoDiacritics": "Maamigili Port",
     "subdivision": "00",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
@@ -337,7 +337,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.466666666666667,
-      "lon": 7.416666666666667
+      "lon": 72.83333333333333
     },
     "remarks": ""
   },
@@ -348,7 +348,7 @@
     "name": "Maldive Gas",
     "nameWoDiacritics": "Maldive Gas",
     "subdivision": "MLE",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
@@ -356,7 +356,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.183333333333334,
-      "lon": 7.533333333333333
+      "lon": 73.45
     },
     "remarks": ""
   },
@@ -367,7 +367,7 @@
     "name": "Male",
     "nameWoDiacritics": "Male",
     "subdivision": "MLE",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -377,7 +377,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.166666666666667,
-      "lon": 7.55
+      "lon": 73.5
     },
     "remarks": ""
   },
@@ -388,7 +388,7 @@
     "name": "Male' Commercial Harbor",
     "nameWoDiacritics": "Male' Commercial Harbor",
     "subdivision": "MLE",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
@@ -396,7 +396,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.166666666666667,
-      "lon": 7.55
+      "lon": 73.5
     },
     "remarks": ""
   },
@@ -407,7 +407,7 @@
     "name": "Rangali",
     "nameWoDiacritics": "Rangali",
     "subdivision": "NC",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -415,7 +415,7 @@
     "iata": "",
     "coordinates": {
       "lat": 3.6,
-      "lon": 7.4
+      "lon": 72.7
     },
     "remarks": ""
   },
@@ -426,7 +426,7 @@
     "name": "Viligili",
     "nameWoDiacritics": "Viligili",
     "subdivision": "US",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -434,7 +434,7 @@
     "iata": "",
     "coordinates": {
       "lat": 0.75,
-      "lon": 7.533333333333333
+      "lon": 73.36666666666666
     },
     "remarks": ""
   },
@@ -445,7 +445,7 @@
     "name": "Villa Hakatha",
     "nameWoDiacritics": "Villa Hakatha",
     "subdivision": "MLE",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
@@ -453,7 +453,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.183333333333334,
-      "lon": 7.533333333333333
+      "lon": 73.43333333333334
     },
     "remarks": ""
   }

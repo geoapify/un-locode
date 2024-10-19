@@ -6,7 +6,7 @@
     "name": ".FRENCH POLYNESIA",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Ahe",
     "nameWoDiacritics": "Ahe",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": -14.433333333333334,
-      "lon": 15.016666666666666
+      "lon": -146.25
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Ahurei",
     "nameWoDiacritics": "Ahurei",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -50,7 +50,7 @@
     "iata": "",
     "coordinates": {
       "lat": -27.616666666666667,
-      "lon": 14.7
+      "lon": -144.35
     },
     "remarks": ""
   },
@@ -61,7 +61,7 @@
     "name": "Anaa",
     "nameWoDiacritics": "Anaa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -69,7 +69,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.35,
-      "lon": 14.883333333333333
+      "lon": -145.51666666666668
     },
     "remarks": ""
   },
@@ -80,7 +80,7 @@
     "name": "Apataki",
     "nameWoDiacritics": "Apataki",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -88,7 +88,7 @@
     "iata": "",
     "coordinates": {
       "lat": -15.583333333333334,
-      "lon": 15.033333333333333
+      "lon": -146.41666666666666
     },
     "remarks": ""
   },
@@ -99,7 +99,7 @@
     "name": "Arue",
     "nameWoDiacritics": "Arue",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -107,7 +107,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.533333333333335,
-      "lon": 15.55
+      "lon": -149.51666666666668
     },
     "remarks": ""
   },
@@ -118,7 +118,7 @@
     "name": "Arutua",
     "nameWoDiacritics": "Arutua",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -126,7 +126,7 @@
     "iata": "",
     "coordinates": {
       "lat": -15.25,
-      "lon": 15.05
+      "lon": -146.61666666666667
     },
     "remarks": ""
   },
@@ -137,7 +137,7 @@
     "name": "Atuona",
     "nameWoDiacritics": "Atuona",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -145,7 +145,7 @@
     "iata": "",
     "coordinates": {
       "lat": -9.8,
-      "lon": 14.5
+      "lon": -139.03333333333333
     },
     "remarks": ""
   },
@@ -156,7 +156,7 @@
     "name": "Auti",
     "nameWoDiacritics": "Auti",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -164,7 +164,7 @@
     "iata": "",
     "coordinates": {
       "lat": -22.483333333333334,
-      "lon": 15.2
+      "lon": -151.33333333333334
     },
     "remarks": ""
   },
@@ -175,7 +175,7 @@
     "name": "Bora Bora",
     "nameWoDiacritics": "Bora Bora",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -184,7 +184,7 @@
     "iata": "",
     "coordinates": {
       "lat": -16.45,
-      "lon": 15.233333333333333
+      "lon": -151.75
     },
     "remarks": ""
   },
@@ -195,7 +195,7 @@
     "name": "Faaite",
     "nameWoDiacritics": "Faaite",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -203,7 +203,7 @@
     "iata": "",
     "coordinates": {
       "lat": -16.683333333333334,
-      "lon": 14.866666666666667
+      "lon": -145.33333333333334
     },
     "remarks": ""
   },
@@ -214,7 +214,7 @@
     "name": "Fakahina",
     "nameWoDiacritics": "Fakahina",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -222,7 +222,7 @@
     "iata": "",
     "coordinates": {
       "lat": -16,
-      "lon": 14.016666666666667
+      "lon": -140.16666666666666
     },
     "remarks": ""
   },
@@ -233,7 +233,7 @@
     "name": "Fakarava",
     "nameWoDiacritics": "Fakarava",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -241,7 +241,7 @@
     "iata": "",
     "coordinates": {
       "lat": -16.05,
-      "lon": 14.9
+      "lon": -145.66666666666666
     },
     "remarks": ""
   },
@@ -252,7 +252,7 @@
     "name": "Fangatau",
     "nameWoDiacritics": "Fangatau",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -260,7 +260,7 @@
     "iata": "",
     "coordinates": {
       "lat": -15.816666666666666,
-      "lon": 14.083333333333334
+      "lon": -140.88333333333333
     },
     "remarks": ""
   },
@@ -271,7 +271,7 @@
     "name": "Fatu Hiva",
     "nameWoDiacritics": "Fatu Hiva",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -279,7 +279,7 @@
     "iata": "",
     "coordinates": {
       "lat": -10.483333333333333,
-      "lon": 14.383333333333333
+      "lon": -138.65
     },
     "remarks": ""
   },
@@ -290,7 +290,7 @@
     "name": "Hao",
     "nameWoDiacritics": "Hao",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -298,7 +298,7 @@
     "iata": "",
     "coordinates": {
       "lat": -18.066666666666666,
-      "lon": 14.083333333333334
+      "lon": -140.96666666666667
     },
     "remarks": ""
   },
@@ -309,7 +309,7 @@
     "name": "Hereheretue",
     "nameWoDiacritics": "Hereheretue",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -317,7 +317,7 @@
     "iata": "",
     "coordinates": {
       "lat": -19.866666666666667,
-      "lon": 14.833333333333334
+      "lon": -145
     },
     "remarks": ""
   },
@@ -328,7 +328,7 @@
     "name": "Hikueru",
     "nameWoDiacritics": "Hikueru",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -336,7 +336,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.55,
-      "lon": 14.383333333333333
+      "lon": -142.6
     },
     "remarks": ""
   },
@@ -347,7 +347,7 @@
     "name": "Hiva'Oa",
     "nameWoDiacritics": "Hiva'Oa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -355,7 +355,7 @@
     "iata": "",
     "coordinates": {
       "lat": -9.766666666666667,
-      "lon": 14.5
+      "lon": -139
     },
     "remarks": ""
   },
@@ -366,7 +366,7 @@
     "name": "Huahine/Fare",
     "nameWoDiacritics": "Huahine/Fare",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -375,7 +375,7 @@
     "iata": "",
     "coordinates": {
       "lat": -16.683333333333334,
-      "lon": 15.166666666666666
+      "lon": -151.01666666666668
     },
     "remarks": "@Fun@Sub"
   },
@@ -386,7 +386,7 @@
     "name": "Ikitake",
     "nameWoDiacritics": "Ikitake",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -394,7 +394,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.833333333333332,
-      "lon": 14.083333333333334
+      "lon": -140.85
     },
     "remarks": ""
   },
@@ -405,7 +405,7 @@
     "name": "Kaukura",
     "nameWoDiacritics": "Kaukura",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -413,7 +413,7 @@
     "iata": "",
     "coordinates": {
       "lat": -15.666666666666666,
-      "lon": 15.083333333333334
+      "lon": -146.88333333333333
     },
     "remarks": ""
   },
@@ -424,7 +424,7 @@
     "name": "Makemo",
     "nameWoDiacritics": "Makemo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -432,7 +432,7 @@
     "iata": "",
     "coordinates": {
       "lat": -16.566666666666666,
-      "lon": 14.566666666666666
+      "lon": -143.68333333333334
     },
     "remarks": ""
   },
@@ -443,7 +443,7 @@
     "name": "Mangareva",
     "nameWoDiacritics": "Mangareva",
     "subdivision": "",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
@@ -451,7 +451,7 @@
     "iata": "",
     "coordinates": {
       "lat": -23.116666666666667,
-      "lon": 13.75
+      "lon": -134.96666666666667
     },
     "remarks": ""
   },
@@ -462,7 +462,7 @@
     "name": "Maroe",
     "nameWoDiacritics": "Maroe",
     "subdivision": "",
-    "status": "XX",
+    "status": 13,
     "function": [
       2
     ],
@@ -470,7 +470,7 @@
     "iata": "",
     "coordinates": {
       "lat": -16.766666666666666,
-      "lon": 15.083333333333334
+      "lon": -150.98333333333332
     },
     "remarks": ""
   },
@@ -481,7 +481,7 @@
     "name": "Mataiva",
     "nameWoDiacritics": "Mataiva",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -489,7 +489,7 @@
     "iata": "",
     "coordinates": {
       "lat": -14.866666666666667,
-      "lon": 15.4
+      "lon": -148.71666666666667
     },
     "remarks": ""
   },
@@ -500,7 +500,7 @@
     "name": "Maupiti",
     "nameWoDiacritics": "Maupiti",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -508,7 +508,7 @@
     "iata": "",
     "coordinates": {
       "lat": -16.433333333333334,
-      "lon": 15.35
+      "lon": -152.25
     },
     "remarks": ""
   },
@@ -519,7 +519,7 @@
     "name": "Moerai",
     "nameWoDiacritics": "Moerai",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -527,7 +527,7 @@
     "iata": "",
     "coordinates": {
       "lat": -22.45,
-      "lon": 15.2
+      "lon": -151.35
     },
     "remarks": ""
   },
@@ -538,7 +538,7 @@
     "name": "Mo'orea",
     "nameWoDiacritics": "Mo'orea",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -546,7 +546,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.5,
-      "lon": 15.566666666666666
+      "lon": -149.76666666666668
     },
     "remarks": ""
   },
@@ -557,7 +557,7 @@
     "name": "Nanihi",
     "nameWoDiacritics": "Nanihi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -565,7 +565,7 @@
     "iata": "",
     "coordinates": {
       "lat": -14.433333333333334,
-      "lon": 15
+      "lon": -146.06666666666666
     },
     "remarks": ""
   },
@@ -576,7 +576,7 @@
     "name": "Napuka",
     "nameWoDiacritics": "Napuka",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -584,7 +584,7 @@
     "iata": "",
     "coordinates": {
       "lat": -14.183333333333334,
-      "lon": 14.183333333333334
+      "lon": -141.26666666666668
     },
     "remarks": ""
   },
@@ -595,7 +595,7 @@
     "name": "Niau",
     "nameWoDiacritics": "Niau",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -603,7 +603,7 @@
     "iata": "",
     "coordinates": {
       "lat": -16.116666666666667,
-      "lon": 15.033333333333333
+      "lon": -146.36666666666667
     },
     "remarks": ""
   },
@@ -614,7 +614,7 @@
     "name": "Nuku Hiva",
     "nameWoDiacritics": "Nuku Hiva",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -623,7 +623,7 @@
     "iata": "",
     "coordinates": {
       "lat": -8.866666666666667,
-      "lon": 14
+      "lon": -140.13333333333333
     },
     "remarks": ""
   },
@@ -634,7 +634,7 @@
     "name": "Nukutavake",
     "nameWoDiacritics": "Nukutavake",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -642,7 +642,7 @@
     "iata": "",
     "coordinates": {
       "lat": -19.283333333333335,
-      "lon": 14.4
+      "lon": -138.76666666666668
     },
     "remarks": ""
   },
@@ -653,7 +653,7 @@
     "name": "Otepa",
     "nameWoDiacritics": "Otepa",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -661,7 +661,7 @@
     "iata": "",
     "coordinates": {
       "lat": -18.116666666666667,
-      "lon": 14.083333333333334
+      "lon": -140.9
     },
     "remarks": ""
   },
@@ -672,7 +672,7 @@
     "name": "Papara",
     "nameWoDiacritics": "Papara",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -680,7 +680,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.75,
-      "lon": 15.55
+      "lon": -149.55
     },
     "remarks": ""
   },
@@ -691,7 +691,7 @@
     "name": "Papeete",
     "nameWoDiacritics": "Papeete",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -702,7 +702,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.533333333333335,
-      "lon": 15.55
+      "lon": -149.56666666666666
     },
     "remarks": "@Fun@Sub@Coo"
   },
@@ -713,7 +713,7 @@
     "name": "Pukapuka",
     "nameWoDiacritics": "Pukapuka",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -721,7 +721,7 @@
     "iata": "",
     "coordinates": {
       "lat": -14.816666666666666,
-      "lon": 14.4
+      "lon": -138.8
     },
     "remarks": ""
   },
@@ -732,7 +732,7 @@
     "name": "Pukaruha",
     "nameWoDiacritics": "Pukaruha",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -740,7 +740,7 @@
     "iata": "",
     "coordinates": {
       "lat": -18.3,
-      "lon": 14.166666666666666
+      "lon": -137.01666666666668
     },
     "remarks": ""
   },
@@ -751,7 +751,7 @@
     "name": "Punaauia",
     "nameWoDiacritics": "Punaauia",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -759,7 +759,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.633333333333333,
-      "lon": 15.55
+      "lon": -149.6
     },
     "remarks": ""
   },
@@ -770,7 +770,7 @@
     "name": "Raiatea",
     "nameWoDiacritics": "Raiatea",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -779,7 +779,7 @@
     "iata": "",
     "coordinates": {
       "lat": -16.733333333333334,
-      "lon": 15.2
+      "lon": -151.46666666666667
     },
     "remarks": "@Fun@Sub"
   },
@@ -790,7 +790,7 @@
     "name": "Raivavae",
     "nameWoDiacritics": "Raivavae",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -798,7 +798,7 @@
     "iata": "",
     "coordinates": {
       "lat": -23.883333333333333,
-      "lon": 15.233333333333334
+      "lon": -147.66666666666666
     },
     "remarks": ""
   },
@@ -809,7 +809,7 @@
     "name": "Rangiroa",
     "nameWoDiacritics": "Rangiroa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -817,7 +817,7 @@
     "iata": "",
     "coordinates": {
       "lat": -14.95,
-      "lon": 15.233333333333334
+      "lon": -147.66666666666666
     },
     "remarks": ""
   },
@@ -828,7 +828,7 @@
     "name": "Reao",
     "nameWoDiacritics": "Reao",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -836,7 +836,7 @@
     "iata": "",
     "coordinates": {
       "lat": -18.466666666666665,
-      "lon": 14.033333333333333
+      "lon": -136.43333333333334
     },
     "remarks": ""
   },
@@ -847,7 +847,7 @@
     "name": "Rurutu",
     "nameWoDiacritics": "Rurutu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -855,7 +855,7 @@
     "iata": "",
     "coordinates": {
       "lat": -22.433333333333334,
-      "lon": 15.2
+      "lon": -151.36666666666667
     },
     "remarks": ""
   },
@@ -866,7 +866,7 @@
     "name": "Tahiti Fa'a'�",
     "nameWoDiacritics": "Tahiti Fa'a'a",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3,
@@ -876,7 +876,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.55,
-      "lon": 15.55
+      "lon": -149.6
     },
     "remarks": "@Fun@Sub@Coo"
   },
@@ -887,7 +887,7 @@
     "name": "Taiohae",
     "nameWoDiacritics": "Taiohae",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -896,7 +896,7 @@
     "iata": "",
     "coordinates": {
       "lat": -8.9,
-      "lon": 14
+      "lon": -140.1
     },
     "remarks": "@Fun@Sub@Coo"
   },
@@ -907,7 +907,7 @@
     "name": "Takapoto",
     "nameWoDiacritics": "Takapoto",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -915,7 +915,7 @@
     "iata": "",
     "coordinates": {
       "lat": -14.716666666666667,
-      "lon": 14.85
+      "lon": -145.25
     },
     "remarks": ""
   },
@@ -926,7 +926,7 @@
     "name": "Takaroa",
     "nameWoDiacritics": "Takaroa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -934,7 +934,7 @@
     "iata": "",
     "coordinates": {
       "lat": -14.45,
-      "lon": 14.833333333333334
+      "lon": -145.01666666666668
     },
     "remarks": ""
   },
@@ -945,7 +945,7 @@
     "name": "Takume",
     "nameWoDiacritics": "Takume",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -953,7 +953,7 @@
     "iata": "",
     "coordinates": {
       "lat": -15.85,
-      "lon": 14.35
+      "lon": -142.26666666666668
     },
     "remarks": ""
   },
@@ -964,7 +964,7 @@
     "name": "Tatakoto",
     "nameWoDiacritics": "Tatakoto",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -972,7 +972,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.35,
-      "lon": 14.366666666666667
+      "lon": -138.45
     },
     "remarks": ""
   },
@@ -983,7 +983,7 @@
     "name": "Tertiaroa",
     "nameWoDiacritics": "Tertiaroa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -991,7 +991,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.016666666666666,
-      "lon": 15.55
+      "lon": -149.58333333333334
     },
     "remarks": ""
   },
@@ -1002,7 +1002,7 @@
     "name": "Tikehau",
     "nameWoDiacritics": "Tikehau",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1010,7 +1010,7 @@
     "iata": "",
     "coordinates": {
       "lat": -15.116666666666667,
-      "lon": 15.35
+      "lon": -148.23333333333332
     },
     "remarks": ""
   },
@@ -1021,7 +1021,7 @@
     "name": "Totegegie",
     "nameWoDiacritics": "Totegegie",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1029,7 +1029,7 @@
     "iata": "",
     "coordinates": {
       "lat": -23.083333333333332,
-      "lon": 13.75
+      "lon": -134.88333333333333
     },
     "remarks": ""
   },
@@ -1040,7 +1040,7 @@
     "name": "Tubuai",
     "nameWoDiacritics": "Tubuai",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1048,7 +1048,7 @@
     "iata": "",
     "coordinates": {
       "lat": -23.366666666666667,
-      "lon": 15.55
+      "lon": -149.51666666666668
     },
     "remarks": ""
   },
@@ -1059,7 +1059,7 @@
     "name": "Tureia",
     "nameWoDiacritics": "Tureia",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1067,7 +1067,7 @@
     "iata": "",
     "coordinates": {
       "lat": -20.783333333333335,
-      "lon": 14.383333333333333
+      "lon": -138.56666666666666
     },
     "remarks": ""
   },
@@ -1078,7 +1078,7 @@
     "name": "Ua Huka",
     "nameWoDiacritics": "Ua Huka",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1086,7 +1086,7 @@
     "iata": "",
     "coordinates": {
       "lat": -8.916666666666666,
-      "lon": 14.55
+      "lon": -139.55
     },
     "remarks": ""
   },
@@ -1097,7 +1097,7 @@
     "name": "Ua Pou",
     "nameWoDiacritics": "Ua Pou",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1105,7 +1105,7 @@
     "iata": "",
     "coordinates": {
       "lat": -9.35,
-      "lon": 14
+      "lon": -140.08333333333334
     },
     "remarks": ""
   },
@@ -1116,7 +1116,7 @@
     "name": "Uturoa",
     "nameWoDiacritics": "Uturoa",
     "subdivision": "",
-    "status": "XX",
+    "status": 13,
     "function": [
       0
     ],
@@ -1124,7 +1124,7 @@
     "iata": "",
     "coordinates": {
       "lat": -16.733333333333334,
-      "lon": 15.2
+      "lon": -151.45
     },
     "remarks": ""
   },
@@ -1135,7 +1135,7 @@
     "name": "Vahitahi",
     "nameWoDiacritics": "Vahitahi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1143,7 +1143,7 @@
     "iata": "",
     "coordinates": {
       "lat": -18.783333333333335,
-      "lon": 14.416666666666666
+      "lon": -138.85
     },
     "remarks": ""
   },
@@ -1154,7 +1154,7 @@
     "name": "Vaitape",
     "nameWoDiacritics": "Vaitape",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],

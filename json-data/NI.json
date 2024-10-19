@@ -6,7 +6,7 @@
     "name": ".NICARAGUA",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Acoyapa",
     "nameWoDiacritics": "Acoyapa",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.966666666666667,
-      "lon": 8.85
+      "lon": -85.16666666666667
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Bluefields",
     "nameWoDiacritics": "Bluefields",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -62,7 +62,7 @@
     "name": "Boaco",
     "nameWoDiacritics": "Boaco",
     "subdivision": "BO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -71,7 +71,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.466666666666667,
-      "lon": 8.9
+      "lon": -85.66666666666667
     },
     "remarks": ""
   },
@@ -82,7 +82,7 @@
     "name": "Bonanza",
     "nameWoDiacritics": "Bonanza",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -101,7 +101,7 @@
     "name": "Camoapa",
     "nameWoDiacritics": "Camoapa",
     "subdivision": "BO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -109,7 +109,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.383333333333333,
-      "lon": 8.883333333333333
+      "lon": -85.51666666666667
     },
     "remarks": ""
   },
@@ -120,7 +120,7 @@
     "name": "Chichigalpa",
     "nameWoDiacritics": "Chichigalpa",
     "subdivision": "CI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -128,7 +128,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.566666666666666,
-      "lon": 9.166666666666666
+      "lon": -87.03333333333333
     },
     "remarks": ""
   },
@@ -139,7 +139,7 @@
     "name": "Chinandega",
     "nameWoDiacritics": "Chinandega",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -158,7 +158,7 @@
     "name": "Ciudad Sandino",
     "nameWoDiacritics": "Ciudad Sandino",
     "subdivision": "MN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -166,7 +166,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.15,
-      "lon": 9.033333333333333
+      "lon": -86.33333333333333
     },
     "remarks": ""
   },
@@ -177,7 +177,7 @@
     "name": "Condega",
     "nameWoDiacritics": "Condega",
     "subdivision": "ES",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -185,7 +185,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.35,
-      "lon": 9.033333333333333
+      "lon": -86.4
     },
     "remarks": ""
   },
@@ -196,7 +196,7 @@
     "name": "Corinto",
     "nameWoDiacritics": "Corinto",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       4
@@ -216,7 +216,7 @@
     "name": "Corn Island",
     "nameWoDiacritics": "Corn Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -235,7 +235,7 @@
     "name": "Diriamba",
     "nameWoDiacritics": "Diriamba",
     "subdivision": "CA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -244,7 +244,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.85,
-      "lon": 9.016666666666666
+      "lon": -86.23333333333333
     },
     "remarks": ""
   },
@@ -255,7 +255,7 @@
     "name": "Diriomo",
     "nameWoDiacritics": "Diriomo",
     "subdivision": "GR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -263,7 +263,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.866666666666667,
-      "lon": 9
+      "lon": -86.05
     },
     "remarks": ""
   },
@@ -274,7 +274,7 @@
     "name": "Dolores",
     "nameWoDiacritics": "Dolores",
     "subdivision": "CA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -282,7 +282,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.85,
-      "lon": 9.016666666666666
+      "lon": -86.21666666666667
     },
     "remarks": ""
   },
@@ -293,7 +293,7 @@
     "name": "El Bluff",
     "nameWoDiacritics": "El Bluff",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -312,7 +312,7 @@
     "name": "El Jicaral",
     "nameWoDiacritics": "El Jicaral",
     "subdivision": "LE",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -320,7 +320,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.716666666666667,
-      "lon": 9.033333333333333
+      "lon": -86.36666666666666
     },
     "remarks": ""
   },
@@ -331,7 +331,7 @@
     "name": "El Sauce",
     "nameWoDiacritics": "El Sauce",
     "subdivision": "LE",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -339,7 +339,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.883333333333333,
-      "lon": 9.05
+      "lon": -86.53333333333333
     },
     "remarks": ""
   },
@@ -350,7 +350,7 @@
     "name": "El Tuma",
     "nameWoDiacritics": "El Tuma",
     "subdivision": "MT",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -358,7 +358,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.066666666666666,
-      "lon": 8.9
+      "lon": -85.75
     },
     "remarks": ""
   },
@@ -369,7 +369,7 @@
     "name": "El Viejo",
     "nameWoDiacritics": "El Viejo",
     "subdivision": "CI",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -377,7 +377,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.666666666666666,
-      "lon": 9.183333333333334
+      "lon": -87.16666666666667
     },
     "remarks": ""
   },
@@ -388,7 +388,7 @@
     "name": "Estel�",
     "nameWoDiacritics": "Esteli",
     "subdivision": "ES",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -396,7 +396,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.083333333333334,
-      "lon": 9.033333333333333
+      "lon": -86.35
     },
     "remarks": ""
   },
@@ -407,7 +407,7 @@
     "name": "Granada",
     "nameWoDiacritics": "Granada",
     "subdivision": "GR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -415,7 +415,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.933333333333334,
-      "lon": 8.916666666666666
+      "lon": -85.95
     },
     "remarks": ""
   },
@@ -426,7 +426,7 @@
     "name": "Jalapa",
     "nameWoDiacritics": "Jalapa",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -434,7 +434,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.916666666666666,
-      "lon": 9
+      "lon": -86.13333333333334
     },
     "remarks": ""
   },
@@ -445,7 +445,7 @@
     "name": "Jinotega",
     "nameWoDiacritics": "Jinotega",
     "subdivision": "JI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -453,7 +453,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.1,
-      "lon": 9
+      "lon": -86
     },
     "remarks": ""
   },
@@ -464,7 +464,7 @@
     "name": "Jinotepe",
     "nameWoDiacritics": "Jinotepe",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -473,7 +473,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.85,
-      "lon": 9.016666666666666
+      "lon": -86.2
     },
     "remarks": ""
   },
@@ -484,7 +484,7 @@
     "name": "Juigalpa",
     "nameWoDiacritics": "Juigalpa",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -493,7 +493,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.083333333333334,
-      "lon": 8.866666666666667
+      "lon": -85.4
     },
     "remarks": ""
   },
@@ -504,7 +504,7 @@
     "name": "La Gateada",
     "nameWoDiacritics": "La Gateada",
     "subdivision": "CO",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -512,7 +512,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12,
-      "lon": 8.733333333333333
+      "lon": -84.78333333333333
     },
     "remarks": ""
   },
@@ -523,7 +523,7 @@
     "name": "La Libertad",
     "nameWoDiacritics": "La Libertad",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -531,7 +531,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.216666666666667,
-      "lon": 8.85
+      "lon": -85.16666666666667
     },
     "remarks": ""
   },
@@ -542,7 +542,7 @@
     "name": "La Paz Centro",
     "nameWoDiacritics": "La Paz Centro",
     "subdivision": "LE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -550,7 +550,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.333333333333334,
-      "lon": 9.066666666666666
+      "lon": -86.66666666666667
     },
     "remarks": ""
   },
@@ -561,7 +561,7 @@
     "name": "La Trinidad",
     "nameWoDiacritics": "La Trinidad",
     "subdivision": "ES",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -569,7 +569,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.55,
-      "lon": 9.016666666666666
+      "lon": -86.18333333333334
     },
     "remarks": ""
   },
@@ -580,7 +580,7 @@
     "name": "Las Maderas",
     "nameWoDiacritics": "Las Maderas",
     "subdivision": "MN",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -589,7 +589,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.433333333333334,
-      "lon": 9
+      "lon": -86.03333333333333
     },
     "remarks": ""
   },
@@ -600,7 +600,7 @@
     "name": "Le�n",
     "nameWoDiacritics": "Leon",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -608,7 +608,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.433333333333334,
-      "lon": 9.083333333333334
+      "lon": -86.88333333333334
     },
     "remarks": ""
   },
@@ -619,7 +619,7 @@
     "name": "Libertad-Chontales",
     "nameWoDiacritics": "Libertad-Chontales",
     "subdivision": "CO",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -627,7 +627,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.216666666666667,
-      "lon": 8.85
+      "lon": -85.16666666666667
     },
     "remarks": ""
   },
@@ -638,7 +638,7 @@
     "name": "Los Brasiles",
     "nameWoDiacritics": "Los Brasiles",
     "subdivision": "MN",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -646,7 +646,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.266666666666667,
-      "lon": 8.916666666666666
+      "lon": -85.93333333333334
     },
     "remarks": ""
   },
@@ -657,7 +657,7 @@
     "name": "Malacatoya",
     "nameWoDiacritics": "Malacatoya",
     "subdivision": "GR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -666,7 +666,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.15,
-      "lon": 8.916666666666666
+      "lon": -85.83333333333333
     },
     "remarks": ""
   },
@@ -677,7 +677,7 @@
     "name": "Managua",
     "nameWoDiacritics": "Managua",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -697,7 +697,7 @@
     "name": "Masachapa",
     "nameWoDiacritics": "Masachapa",
     "subdivision": "MN",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -705,7 +705,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.783333333333333,
-      "lon": 9.05
+      "lon": -86.51666666666667
     },
     "remarks": ""
   },
@@ -716,7 +716,7 @@
     "name": "Masatepe",
     "nameWoDiacritics": "Masatepe",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       6
     ],
@@ -724,7 +724,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.916666666666666,
-      "lon": 9.15
+      "lon": -87.5
     },
     "remarks": ""
   },
@@ -735,7 +735,7 @@
     "name": "Masaya",
     "nameWoDiacritics": "Masaya",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -754,7 +754,7 @@
     "name": "Matagalpa",
     "nameWoDiacritics": "Matagalpa",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -773,7 +773,7 @@
     "name": "Mateare",
     "nameWoDiacritics": "Mateare",
     "subdivision": "MN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -781,7 +781,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.233333333333333,
-      "lon": 9.033333333333333
+      "lon": -86.41666666666667
     },
     "remarks": ""
   },
@@ -792,7 +792,7 @@
     "name": "Matigu�s",
     "nameWoDiacritics": "Matiguas",
     "subdivision": "MT",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -800,7 +800,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.833333333333334,
-      "lon": 8.866666666666667
+      "lon": -85.46666666666667
     },
     "remarks": ""
   },
@@ -811,7 +811,7 @@
     "name": "Mina el Limon",
     "nameWoDiacritics": "Mina el Limon",
     "subdivision": "CI",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -819,7 +819,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.75,
-      "lon": 9.066666666666666
+      "lon": -86.73333333333333
     },
     "remarks": ""
   },
@@ -830,7 +830,7 @@
     "name": "Miramar",
     "nameWoDiacritics": "Miramar",
     "subdivision": "LE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -838,7 +838,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.4,
-      "lon": 9.166666666666666
+      "lon": -87.03333333333333
     },
     "remarks": ""
   },
@@ -849,7 +849,7 @@
     "name": "Miramar/Nagarote",
     "nameWoDiacritics": "Miramar/Nagarote",
     "subdivision": "LE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -857,7 +857,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.15,
-      "lon": 9.066666666666666
+      "lon": -86.75
     },
     "remarks": ""
   },
@@ -868,7 +868,7 @@
     "name": "Montelimar",
     "nameWoDiacritics": "Montelimar",
     "subdivision": "MN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -876,7 +876,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.816666666666666,
-      "lon": 9.05
+      "lon": -86.51666666666667
     },
     "remarks": ""
   },
@@ -887,7 +887,7 @@
     "name": "Nagarote",
     "nameWoDiacritics": "Nagarote",
     "subdivision": "LE",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -895,7 +895,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.266666666666667,
-      "lon": 9.05
+      "lon": -86.56666666666666
     },
     "remarks": ""
   },
@@ -906,7 +906,7 @@
     "name": "Nandaime",
     "nameWoDiacritics": "Nandaime",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -914,7 +914,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.75,
-      "lon": 9
+      "lon": -86.05
     },
     "remarks": ""
   },
@@ -925,7 +925,7 @@
     "name": "Nindiri",
     "nameWoDiacritics": "Nindiri",
     "subdivision": "MS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -933,7 +933,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12,
-      "lon": 9
+      "lon": -86.11666666666666
     },
     "remarks": ""
   },
@@ -944,7 +944,7 @@
     "name": "Niquinohomo",
     "nameWoDiacritics": "Niquinohomo",
     "subdivision": "MS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -952,7 +952,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.9,
-      "lon": 9
+      "lon": -86.1
     },
     "remarks": ""
   },
@@ -963,7 +963,7 @@
     "name": "Nueva Guinea",
     "nameWoDiacritics": "Nueva Guinea",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -971,7 +971,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.666666666666666,
-      "lon": 8.7
+      "lon": -84.45
     },
     "remarks": ""
   },
@@ -982,7 +982,7 @@
     "name": "Ocotal",
     "nameWoDiacritics": "Ocotal",
     "subdivision": "NS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -991,7 +991,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.633333333333333,
-      "lon": 9.033333333333333
+      "lon": -86.48333333333333
     },
     "remarks": ""
   },
@@ -1002,7 +1002,7 @@
     "name": "Palacag�ina",
     "nameWoDiacritics": "Palacaguina",
     "subdivision": "MD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1010,7 +1010,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.45,
-      "lon": 9.033333333333333
+      "lon": -86.4
     },
     "remarks": ""
   },
@@ -1021,7 +1021,7 @@
     "name": "Potos�",
     "nameWoDiacritics": "Potosi",
     "subdivision": "CI",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -1029,7 +1029,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13,
-      "lon": 9.216666666666667
+      "lon": -87.5
     },
     "remarks": ""
   },
@@ -1040,7 +1040,7 @@
     "name": "Prinzapolca",
     "nameWoDiacritics": "Prinzapolca",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -1059,7 +1059,7 @@
     "name": "Pueblo Nuevo",
     "nameWoDiacritics": "Pueblo Nuevo",
     "subdivision": "ES",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1067,7 +1067,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.383333333333333,
-      "lon": 9.033333333333333
+      "lon": -86.48333333333333
     },
     "remarks": ""
   },
@@ -1078,7 +1078,7 @@
     "name": "Puerto Cabezas",
     "nameWoDiacritics": "Puerto Cabezas",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -1097,7 +1097,7 @@
     "name": "Puerto Isabel",
     "nameWoDiacritics": "Puerto Isabel",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -1106,7 +1106,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.366666666666667,
-      "lon": 8.55
+      "lon": -83.56666666666666
     },
     "remarks": ""
   },
@@ -1117,7 +1117,7 @@
     "name": "Puerto Sandino",
     "nameWoDiacritics": "Puerto Sandino",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -1125,7 +1125,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.183333333333334,
-      "lon": 9.066666666666666
+      "lon": -86.75
     },
     "remarks": ""
   },
@@ -1136,7 +1136,7 @@
     "name": "Quilali",
     "nameWoDiacritics": "Quilali",
     "subdivision": "NS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1144,7 +1144,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.566666666666666,
-      "lon": 9
+      "lon": -86.03333333333333
     },
     "remarks": ""
   },
@@ -1155,7 +1155,7 @@
     "name": "Rama",
     "nameWoDiacritics": "Rama",
     "subdivision": "AS",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2,
@@ -1165,7 +1165,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.15,
-      "lon": 8.683333333333334
+      "lon": -84.21666666666667
     },
     "remarks": ""
   },
@@ -1176,7 +1176,7 @@
     "name": "R�o Blanco",
     "nameWoDiacritics": "Rio Blanco",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1184,7 +1184,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.933333333333334,
-      "lon": 8.85
+      "lon": -85.21666666666667
     },
     "remarks": ""
   },
@@ -1195,7 +1195,7 @@
     "name": "Rivas",
     "nameWoDiacritics": "Rivas",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1203,7 +1203,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.433333333333334,
-      "lon": 8.9
+      "lon": -85.81666666666666
     },
     "remarks": ""
   },
@@ -1214,7 +1214,7 @@
     "name": "Rosita",
     "nameWoDiacritics": "Rosita",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1233,7 +1233,7 @@
     "name": "San Benito (San Francisco Libre)",
     "nameWoDiacritics": "San Benito (San Francisco Libre)",
     "subdivision": "MN",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -1241,7 +1241,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.566666666666666,
-      "lon": 9.016666666666666
+      "lon": -86.28333333333333
     },
     "remarks": ""
   },
@@ -1252,7 +1252,7 @@
     "name": "San Benito (Tipitapa)",
     "nameWoDiacritics": "San Benito (Tipitapa)",
     "subdivision": "MN",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -1260,7 +1260,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.316666666666666,
-      "lon": 9
+      "lon": -86.06666666666666
     },
     "remarks": ""
   },
@@ -1271,7 +1271,7 @@
     "name": "San Carlos",
     "nameWoDiacritics": "San Carlos",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1290,7 +1290,7 @@
     "name": "San Francisco Libre",
     "nameWoDiacritics": "San Francisco Libre",
     "subdivision": "MN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -1299,7 +1299,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.5,
-      "lon": 2.0166666666666666
+      "lon": -16.3
     },
     "remarks": ""
   },
@@ -1310,7 +1310,7 @@
     "name": "San Juan de Oriente",
     "nameWoDiacritics": "San Juan de Oriente",
     "subdivision": "MS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1318,7 +1318,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.9,
-      "lon": 9
+      "lon": -86.08333333333333
     },
     "remarks": ""
   },
@@ -1329,7 +1329,7 @@
     "name": "San Juan del Sur",
     "nameWoDiacritics": "San Juan del Sur",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -1348,7 +1348,7 @@
     "name": "San Juan Rio Coco",
     "nameWoDiacritics": "San Juan Rio Coco",
     "subdivision": "MD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1356,7 +1356,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.55,
-      "lon": 9.016666666666666
+      "lon": -86.16666666666667
     },
     "remarks": ""
   },
@@ -1367,7 +1367,7 @@
     "name": "San Lorenzo",
     "nameWoDiacritics": "San Lorenzo",
     "subdivision": "BO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1375,7 +1375,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.383333333333333,
-      "lon": 8.9
+      "lon": -85.66666666666667
     },
     "remarks": ""
   },
@@ -1386,7 +1386,7 @@
     "name": "San Marcos",
     "nameWoDiacritics": "San Marcos",
     "subdivision": "CA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1394,7 +1394,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.916666666666666,
-      "lon": 9.016666666666666
+      "lon": -86.2
     },
     "remarks": ""
   },
@@ -1405,7 +1405,7 @@
     "name": "San Rafael del Norte",
     "nameWoDiacritics": "San Rafael del Norte",
     "subdivision": "JI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1413,7 +1413,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.216666666666667,
-      "lon": 9
+      "lon": -86.11666666666666
     },
     "remarks": ""
   },
@@ -1424,7 +1424,7 @@
     "name": "San Rafael del Sur",
     "nameWoDiacritics": "San Rafael del Sur",
     "subdivision": "MN",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1432,7 +1432,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.85,
-      "lon": 9.033333333333333
+      "lon": -86.45
     },
     "remarks": ""
   },
@@ -1443,7 +1443,7 @@
     "name": "S�baco",
     "nameWoDiacritics": "Sebaco",
     "subdivision": "MT",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1451,7 +1451,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.85,
-      "lon": 9
+      "lon": -86.08333333333333
     },
     "remarks": ""
   },
@@ -1462,7 +1462,7 @@
     "name": "Siuna",
     "nameWoDiacritics": "Siuna",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1481,7 +1481,7 @@
     "name": "Somoto",
     "nameWoDiacritics": "Somoto",
     "subdivision": "MD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1489,7 +1489,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.483333333333333,
-      "lon": 9.05
+      "lon": -86.58333333333333
     },
     "remarks": ""
   },
@@ -1500,7 +1500,7 @@
     "name": "Teustepe",
     "nameWoDiacritics": "Teustepe",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1508,7 +1508,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.383333333333333,
-      "lon": 8.9
+      "lon": -85.78333333333333
     },
     "remarks": ""
   },
@@ -1519,7 +1519,7 @@
     "name": "Tipitapa",
     "nameWoDiacritics": "Tipitapa",
     "subdivision": "MN",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -1528,7 +1528,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.2,
-      "lon": 9
+      "lon": -86.1
     },
     "remarks": ""
   },
@@ -1539,7 +1539,7 @@
     "name": "Tisma",
     "nameWoDiacritics": "Tisma",
     "subdivision": "MS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1547,7 +1547,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.083333333333334,
-      "lon": 9
+      "lon": -86.01666666666667
     },
     "remarks": ""
   },
@@ -1558,7 +1558,7 @@
     "name": "Tola",
     "nameWoDiacritics": "Tola",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -1566,7 +1566,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.433333333333334,
-      "lon": 8.916666666666666
+      "lon": -85.93333333333334
     },
     "remarks": ""
   },
@@ -1577,7 +1577,7 @@
     "name": "Totogalpa",
     "nameWoDiacritics": "Totogalpa",
     "subdivision": "MD",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -1586,7 +1586,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.566666666666666,
-      "lon": 9.05
+      "lon": -86.5
     },
     "remarks": ""
   },
@@ -1597,7 +1597,7 @@
     "name": "Veracruz",
     "nameWoDiacritics": "Veracruz",
     "subdivision": "MS",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1605,7 +1605,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.083333333333334,
-      "lon": 9.016666666666666
+      "lon": -86.16666666666667
     },
     "remarks": ""
   },
@@ -1616,7 +1616,7 @@
     "name": "Villa El Carmen",
     "nameWoDiacritics": "Villa El Carmen",
     "subdivision": "MN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1624,7 +1624,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.983333333333333,
-      "lon": 9.05
+      "lon": -86.51666666666667
     },
     "remarks": ""
   },
@@ -1635,7 +1635,7 @@
     "name": "Villa Sandino",
     "nameWoDiacritics": "Villa Sandino",
     "subdivision": "CO",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -1643,7 +1643,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.05,
-      "lon": 8.75
+      "lon": -84.98333333333333
     },
     "remarks": ""
   },
@@ -1654,7 +1654,7 @@
     "name": "Waslala",
     "nameWoDiacritics": "Waslala",
     "subdivision": "AN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1662,7 +1662,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.233333333333333,
-      "lon": 8.866666666666667
+      "lon": -85.38333333333334
     },
     "remarks": ""
   },
@@ -1673,7 +1673,7 @@
     "name": "Waspam",
     "nameWoDiacritics": "Waspam",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],

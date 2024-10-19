@@ -6,7 +6,7 @@
     "name": ".SIERRA LEONE",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Bo",
     "nameWoDiacritics": "Bo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -42,7 +42,7 @@
     "name": "Bonthe",
     "nameWoDiacritics": "Bonthe",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -62,7 +62,7 @@
     "name": "Daru",
     "nameWoDiacritics": "Daru",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -81,7 +81,7 @@
     "name": "Freetown",
     "nameWoDiacritics": "Freetown",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -102,7 +102,7 @@
     "name": "Gbangbatok",
     "nameWoDiacritics": "Gbangbatok",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -121,7 +121,7 @@
     "name": "Hastings Apt/Freetown",
     "nameWoDiacritics": "Hastings Apt/Freetown",
     "subdivision": "W",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -130,7 +130,7 @@
     "iata": "",
     "coordinates": {
       "lat": 8.366666666666667,
-      "lon": 1.5
+      "lon": -13.133333333333333
     },
     "remarks": ""
   },
@@ -141,7 +141,7 @@
     "name": "Kabala",
     "nameWoDiacritics": "Kabala",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -160,7 +160,7 @@
     "name": "Kenema",
     "nameWoDiacritics": "Kenema",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -179,7 +179,7 @@
     "name": "Kissy",
     "nameWoDiacritics": "Kissy",
     "subdivision": "W",
-    "status": "AM",
+    "status": 4,
     "function": [
       0,
       2,
@@ -189,7 +189,7 @@
     "iata": "",
     "coordinates": {
       "lat": 8.466666666666667,
-      "lon": 1.5166666666666666
+      "lon": -13.183333333333334
     },
     "remarks": ""
   },
@@ -200,7 +200,7 @@
     "name": "Muta",
     "nameWoDiacritics": "Muta",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -219,7 +219,7 @@
     "name": "Nitti",
     "nameWoDiacritics": "Nitti",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -238,7 +238,7 @@
     "name": "Pepel",
     "nameWoDiacritics": "Pepel",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -257,7 +257,7 @@
     "name": "Sherbro",
     "nameWoDiacritics": "Sherbro",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -276,7 +276,7 @@
     "name": "Sierra Leone Apt",
     "nameWoDiacritics": "Sierra Leone Apt",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -295,7 +295,7 @@
     "name": "Yengema Apt",
     "nameWoDiacritics": "Yengema Apt",
     "subdivision": "E",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -304,7 +304,7 @@
     "iata": "",
     "coordinates": {
       "lat": 8.616666666666667,
-      "lon": 1.1666666666666667
+      "lon": -11.05
     },
     "remarks": ""
   }

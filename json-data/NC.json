@@ -6,7 +6,7 @@
     "name": ".NEW CALEDONIA",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Baie de Prony",
     "nameWoDiacritics": "Baie de Prony",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": -22.366666666666667,
-      "lon": 17.083333333333332
+      "lon": 166.86666666666667
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "B�lep I.",
     "nameWoDiacritics": "Belep I.",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -50,7 +50,7 @@
     "iata": "",
     "coordinates": {
       "lat": -19.716666666666665,
-      "lon": 16.566666666666666
+      "lon": 163.66666666666666
     },
     "remarks": ""
   },
@@ -61,7 +61,7 @@
     "name": "Bourail",
     "nameWoDiacritics": "Bourail",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -69,7 +69,7 @@
     "iata": "",
     "coordinates": {
       "lat": -21.566666666666666,
-      "lon": 16.866666666666667
+      "lon": 165.48333333333332
     },
     "remarks": ""
   },
@@ -80,7 +80,7 @@
     "name": "Doniambo/Noum�a",
     "nameWoDiacritics": "Doniambo/Noumea",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -88,7 +88,7 @@
     "iata": "",
     "coordinates": {
       "lat": -22.25,
-      "lon": 17.033333333333335
+      "lon": 166.45
     },
     "remarks": ""
   },
@@ -99,7 +99,7 @@
     "name": "Ducos",
     "nameWoDiacritics": "Ducos",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -107,7 +107,7 @@
     "iata": "",
     "coordinates": {
       "lat": -22.233333333333334,
-      "lon": 17.033333333333335
+      "lon": 166.45
     },
     "remarks": ""
   },
@@ -118,7 +118,7 @@
     "name": "Dumb�a",
     "nameWoDiacritics": "Dumbea",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -126,7 +126,7 @@
     "iata": "",
     "coordinates": {
       "lat": -22.15,
-      "lon": 17.033333333333335
+      "lon": 166.45
     },
     "remarks": ""
   },
@@ -137,7 +137,7 @@
     "name": "Hienghene",
     "nameWoDiacritics": "Hienghene",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -145,7 +145,7 @@
     "iata": "",
     "coordinates": {
       "lat": -20.666666666666668,
-      "lon": 16.75
+      "lon": 164.88333333333333
     },
     "remarks": ""
   },
@@ -156,7 +156,7 @@
     "name": "Houa�lou",
     "nameWoDiacritics": "Houailou",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -164,7 +164,7 @@
     "iata": "",
     "coordinates": {
       "lat": -21.25,
-      "lon": 16.883333333333333
+      "lon": 165.61666666666667
     },
     "remarks": ""
   },
@@ -175,7 +175,7 @@
     "name": "Ile des Pins",
     "nameWoDiacritics": "Ile des Pins",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -183,7 +183,7 @@
     "iata": "",
     "coordinates": {
       "lat": -22.583333333333332,
-      "lon": 17.2
+      "lon": 167.45
     },
     "remarks": ""
   },
@@ -194,7 +194,7 @@
     "name": "Ile Ouen",
     "nameWoDiacritics": "Ile Ouen",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -202,7 +202,7 @@
     "iata": "",
     "coordinates": {
       "lat": -22.466666666666665,
-      "lon": 17.066666666666666
+      "lon": 166.78333333333333
     },
     "remarks": ""
   },
@@ -213,7 +213,7 @@
     "name": "Kon�",
     "nameWoDiacritics": "Kone",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -221,7 +221,7 @@
     "iata": "",
     "coordinates": {
       "lat": -21.05,
-      "lon": 16.75
+      "lon": 164.83333333333334
     },
     "remarks": ""
   },
@@ -232,7 +232,7 @@
     "name": "Kouaoua",
     "nameWoDiacritics": "Kouaoua",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -241,7 +241,7 @@
     "iata": "",
     "coordinates": {
       "lat": -21.4,
-      "lon": 16.916666666666668
+      "lon": 165.83333333333334
     },
     "remarks": ""
   },
@@ -252,7 +252,7 @@
     "name": "Koumac",
     "nameWoDiacritics": "Koumac",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -260,7 +260,7 @@
     "iata": "",
     "coordinates": {
       "lat": -20.55,
-      "lon": 16.683333333333334
+      "lon": 164.25
     },
     "remarks": ""
   },
@@ -271,7 +271,7 @@
     "name": "La Foa",
     "nameWoDiacritics": "La Foa",
     "subdivision": "",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
@@ -279,7 +279,7 @@
     "iata": "",
     "coordinates": {
       "lat": -21.716666666666665,
-      "lon": 16.916666666666668
+      "lon": 165.83333333333334
     },
     "remarks": ""
   },
@@ -290,7 +290,7 @@
     "name": "Le Mont-Dore",
     "nameWoDiacritics": "Le Mont-Dore",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -299,7 +299,7 @@
     "iata": "",
     "coordinates": {
       "lat": -22.283333333333335,
-      "lon": 17.05
+      "lon": 166.58333333333334
     },
     "remarks": ""
   },
@@ -310,7 +310,7 @@
     "name": "Lifou",
     "nameWoDiacritics": "Lifou",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       3
@@ -319,7 +319,7 @@
     "iata": "",
     "coordinates": {
       "lat": -20.966666666666665,
-      "lon": 17.183333333333334
+      "lon": 167.23333333333332
     },
     "remarks": ""
   },
@@ -330,7 +330,7 @@
     "name": "Mar�",
     "nameWoDiacritics": "Mare",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -339,7 +339,7 @@
     "iata": "",
     "coordinates": {
       "lat": -21.5,
-      "lon": 17.25
+      "lon": 167.98333333333332
     },
     "remarks": ""
   },
@@ -350,7 +350,7 @@
     "name": "Mu�o/N�poui",
     "nameWoDiacritics": "Mueo/Nepoui",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -359,7 +359,7 @@
     "iata": "",
     "coordinates": {
       "lat": -21.3,
-      "lon": 16.833333333333332
+      "lon": 165.01666666666668
     },
     "remarks": ""
   },
@@ -370,7 +370,7 @@
     "name": "Nak�ty",
     "nameWoDiacritics": "Nakety",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -379,7 +379,7 @@
     "iata": "",
     "coordinates": {
       "lat": -21.55,
-      "lon": 17
+      "lon": 166.03333333333333
     },
     "remarks": ""
   },
@@ -390,7 +390,7 @@
     "name": "N�poui",
     "nameWoDiacritics": "Nepoui",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       3
@@ -399,7 +399,7 @@
     "iata": "",
     "coordinates": {
       "lat": -21.316666666666666,
-      "lon": 16.833333333333332
+      "lon": 165
     },
     "remarks": ""
   },
@@ -410,7 +410,7 @@
     "name": "Noum�a",
     "nameWoDiacritics": "Noumea",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -420,7 +420,7 @@
     "iata": "",
     "coordinates": {
       "lat": -22.266666666666666,
-      "lon": 17.033333333333335
+      "lon": 166.45
     },
     "remarks": ""
   },
@@ -431,7 +431,7 @@
     "name": "Noum�a Magenta Apt",
     "nameWoDiacritics": "Noumea Magenta Apt",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -439,7 +439,7 @@
     "iata": "",
     "coordinates": {
       "lat": -22.25,
-      "lon": 17.033333333333335
+      "lon": 166.46666666666667
     },
     "remarks": ""
   },
@@ -450,7 +450,7 @@
     "name": "Ouvea",
     "nameWoDiacritics": "Ouvea",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -458,7 +458,7 @@
     "iata": "",
     "coordinates": {
       "lat": -20.633333333333333,
-      "lon": 17.05
+      "lon": 166.56666666666666
     },
     "remarks": ""
   },
@@ -469,7 +469,7 @@
     "name": "Paagoum�ne",
     "nameWoDiacritics": "Paagoumene",
     "subdivision": "",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
@@ -477,7 +477,7 @@
     "iata": "",
     "coordinates": {
       "lat": -20.483333333333334,
-      "lon": 16.683333333333334
+      "lon": 164.2
     },
     "remarks": ""
   },
@@ -488,7 +488,7 @@
     "name": "Poro",
     "nameWoDiacritics": "Poro",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -497,7 +497,7 @@
     "iata": "",
     "coordinates": {
       "lat": -21.3,
-      "lon": 16.9
+      "lon": 165.71666666666667
     },
     "remarks": ""
   },
@@ -508,7 +508,7 @@
     "name": "Pouembout",
     "nameWoDiacritics": "Pouembout",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -516,7 +516,7 @@
     "iata": "",
     "coordinates": {
       "lat": -21.133333333333333,
-      "lon": 16.75
+      "lon": 164.9
     },
     "remarks": ""
   },
@@ -527,7 +527,7 @@
     "name": "Prony",
     "nameWoDiacritics": "Prony",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -536,7 +536,7 @@
     "iata": "",
     "coordinates": {
       "lat": -22.316666666666666,
-      "lon": 17.066666666666666
+      "lon": 166.81666666666666
     },
     "remarks": ""
   },
@@ -547,7 +547,7 @@
     "name": "Teoudie",
     "nameWoDiacritics": "Teoudie",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -556,7 +556,7 @@
     "iata": "",
     "coordinates": {
       "lat": -20.766666666666666,
-      "lon": 16.7
+      "lon": 164.4
     },
     "remarks": ""
   },
@@ -567,7 +567,7 @@
     "name": "Thio",
     "nameWoDiacritics": "Thio",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -586,7 +586,7 @@
     "name": "Tiga",
     "nameWoDiacritics": "Tiga",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -594,7 +594,7 @@
     "iata": "",
     "coordinates": {
       "lat": -21.1,
-      "lon": 17.233333333333334
+      "lon": 167.8
     },
     "remarks": ""
   },
@@ -605,7 +605,7 @@
     "name": "Tontouta Apt",
     "nameWoDiacritics": "Tontouta Apt",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -626,7 +626,7 @@
     "name": "Touho",
     "nameWoDiacritics": "Touho",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -634,7 +634,7 @@
     "iata": "",
     "coordinates": {
       "lat": -20.783333333333335,
-      "lon": 16.85
+      "lon": 165.26666666666668
     },
     "remarks": ""
   },
@@ -645,7 +645,7 @@
     "name": "Vavouto",
     "nameWoDiacritics": "Vavouto",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -653,7 +653,7 @@
     "iata": "",
     "coordinates": {
       "lat": -21,
-      "lon": 16.733333333333334
+      "lon": 164.66666666666666
     },
     "remarks": ""
   },
@@ -664,7 +664,7 @@
     "name": "Wala",
     "nameWoDiacritics": "Wala",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -672,7 +672,7 @@
     "iata": "",
     "coordinates": {
       "lat": -19.716666666666665,
-      "lon": 16.55
+      "lon": 163.65
     },
     "remarks": ""
   }

@@ -6,7 +6,7 @@
     "name": ".MADAGASCAR",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Ambanja",
     "nameWoDiacritics": "Ambanja",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -42,7 +42,7 @@
     "name": "Ambatolahy",
     "nameWoDiacritics": "Ambatolahy",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -61,7 +61,7 @@
     "name": "Ambatomainty",
     "nameWoDiacritics": "Ambatomainty",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -80,7 +80,7 @@
     "name": "Ambatondrazaka",
     "nameWoDiacritics": "Ambatondrazaka",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -99,7 +99,7 @@
     "name": "Ambilobe",
     "nameWoDiacritics": "Ambilobe",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -118,7 +118,7 @@
     "name": "Amboasary Sud",
     "nameWoDiacritics": "Amboasary Sud",
     "subdivision": "U",
-    "status": "AM",
+    "status": 4,
     "function": [
       1,
       2
@@ -127,7 +127,7 @@
     "iata": "",
     "coordinates": {
       "lat": -25.033333333333335,
-      "lon": 5.033333333333333
+      "lon": 46.38333333333333
     },
     "remarks": ""
   },
@@ -138,7 +138,7 @@
     "name": "Ambovombe",
     "nameWoDiacritics": "Ambovombe",
     "subdivision": "U",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -146,7 +146,7 @@
     "iata": "",
     "coordinates": {
       "lat": -25.166666666666668,
-      "lon": 5
+      "lon": 46.083333333333336
     },
     "remarks": ""
   },
@@ -157,7 +157,7 @@
     "name": "Ampanihy",
     "nameWoDiacritics": "Ampanihy",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -176,7 +176,7 @@
     "name": "Analalava",
     "nameWoDiacritics": "Analalava",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -195,7 +195,7 @@
     "name": "Andapa",
     "nameWoDiacritics": "Andapa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -214,7 +214,7 @@
     "name": "Andriamena",
     "nameWoDiacritics": "Andriamena",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -233,7 +233,7 @@
     "name": "Androka",
     "nameWoDiacritics": "Androka",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -252,7 +252,7 @@
     "name": "Ankavandra",
     "nameWoDiacritics": "Ankavandra",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -271,7 +271,7 @@
     "name": "Ankazoabo",
     "nameWoDiacritics": "Ankazoabo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -290,7 +290,7 @@
     "name": "Ankokoambo",
     "nameWoDiacritics": "Ankokoambo",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -298,7 +298,7 @@
     "iata": "",
     "coordinates": {
       "lat": -16.566666666666666,
-      "lon": 4.7
+      "lon": 44.46666666666667
     },
     "remarks": ""
   },
@@ -309,7 +309,7 @@
     "name": "Ankorefo",
     "nameWoDiacritics": "Ankorefo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -328,7 +328,7 @@
     "name": "Antalaha",
     "nameWoDiacritics": "Antalaha",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -348,7 +348,7 @@
     "name": "Antananarivo",
     "nameWoDiacritics": "Antananarivo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -368,7 +368,7 @@
     "name": "Antsalova",
     "nameWoDiacritics": "Antsalova",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -387,7 +387,7 @@
     "name": "Antsirabe",
     "nameWoDiacritics": "Antsirabe",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -406,7 +406,7 @@
     "name": "Antsiranana",
     "nameWoDiacritics": "Antsiranana",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -426,7 +426,7 @@
     "name": "Antsohihy",
     "nameWoDiacritics": "Antsohihy",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -445,7 +445,7 @@
     "name": "Barren Islands",
     "nameWoDiacritics": "Barren Islands",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -464,7 +464,7 @@
     "name": "Bealanana",
     "nameWoDiacritics": "Bealanana",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -483,7 +483,7 @@
     "name": "Befandriana",
     "nameWoDiacritics": "Befandriana",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -502,7 +502,7 @@
     "name": "Bekily",
     "nameWoDiacritics": "Bekily",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -521,7 +521,7 @@
     "name": "Belo",
     "nameWoDiacritics": "Belo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -541,7 +541,7 @@
     "name": "Beroroha",
     "nameWoDiacritics": "Beroroha",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -560,7 +560,7 @@
     "name": "Besakoa",
     "nameWoDiacritics": "Besakoa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -579,7 +579,7 @@
     "name": "Besalampy",
     "nameWoDiacritics": "Besalampy",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -599,7 +599,7 @@
     "name": "Betioky",
     "nameWoDiacritics": "Betioky",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -618,7 +618,7 @@
     "name": "Brickaville",
     "nameWoDiacritics": "Brickaville",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -637,7 +637,7 @@
     "name": "Diego Suarez = Antsiranana",
     "nameWoDiacritics": "Diego Suarez = Antsiranana",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -654,7 +654,7 @@
     "name": "Doany",
     "nameWoDiacritics": "Doany",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -673,7 +673,7 @@
     "name": "Ehoala",
     "nameWoDiacritics": "Ehoala",
     "subdivision": "U",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -681,7 +681,7 @@
     "iata": "",
     "coordinates": {
       "lat": -25.066666666666666,
-      "lon": 5.083333333333333
+      "lon": 46.95
     },
     "remarks": ""
   },
@@ -692,7 +692,7 @@
     "name": "Farafangana",
     "nameWoDiacritics": "Farafangana",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -712,7 +712,7 @@
     "name": "Fianarantsoa",
     "nameWoDiacritics": "Fianarantsoa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -731,7 +731,7 @@
     "name": "Fort Dauphin (Toalagnaro)",
     "nameWoDiacritics": "Fort Dauphin (Toalagnaro)",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -751,7 +751,7 @@
     "name": "Hell-Ville",
     "nameWoDiacritics": "Hell-Ville",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -770,7 +770,7 @@
     "name": "Ihosy",
     "nameWoDiacritics": "Ihosy",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -789,7 +789,7 @@
     "name": "Ilaka",
     "nameWoDiacritics": "Ilaka",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -808,7 +808,7 @@
     "name": "Ivato",
     "nameWoDiacritics": "Ivato",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -827,7 +827,7 @@
     "name": "Madirovalo",
     "nameWoDiacritics": "Madirovalo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -846,7 +846,7 @@
     "name": "Mahanoro",
     "nameWoDiacritics": "Mahanoro",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -866,7 +866,7 @@
     "name": "Maintirano",
     "nameWoDiacritics": "Maintirano",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -886,7 +886,7 @@
     "name": "Majunga (Mahajanga)",
     "nameWoDiacritics": "Majunga (Mahajanga)",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -906,7 +906,7 @@
     "name": "Malaimbandy",
     "nameWoDiacritics": "Malaimbandy",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -925,7 +925,7 @@
     "name": "Mampikony",
     "nameWoDiacritics": "Mampikony",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -944,7 +944,7 @@
     "name": "Manakara",
     "nameWoDiacritics": "Manakara",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -964,7 +964,7 @@
     "name": "Mananara",
     "nameWoDiacritics": "Mananara",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -984,7 +984,7 @@
     "name": "Mananjary",
     "nameWoDiacritics": "Mananjary",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -1004,7 +1004,7 @@
     "name": "Mandabe",
     "nameWoDiacritics": "Mandabe",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1023,7 +1023,7 @@
     "name": "Mandritsara",
     "nameWoDiacritics": "Mandritsara",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1042,7 +1042,7 @@
     "name": "Manja",
     "nameWoDiacritics": "Manja",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1061,7 +1061,7 @@
     "name": "Manombo",
     "nameWoDiacritics": "Manombo",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -1080,7 +1080,7 @@
     "name": "Maroantsetra",
     "nameWoDiacritics": "Maroantsetra",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -1100,7 +1100,7 @@
     "name": "Miandrivazo",
     "nameWoDiacritics": "Miandrivazo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1119,7 +1119,7 @@
     "name": "Morafenobe",
     "nameWoDiacritics": "Morafenobe",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1138,7 +1138,7 @@
     "name": "Morombe",
     "nameWoDiacritics": "Morombe",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -1158,7 +1158,7 @@
     "name": "Morondava",
     "nameWoDiacritics": "Morondava",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -1178,7 +1178,7 @@
     "name": "Nosy-Be",
     "nameWoDiacritics": "Nosy-Be",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -1188,7 +1188,7 @@
     "iata": "",
     "coordinates": {
       "lat": -13.333333333333334,
-      "lon": 5.35
+      "lon": 48.25
     },
     "remarks": ""
   },
@@ -1199,7 +1199,7 @@
     "name": "Nosy-Varika",
     "nameWoDiacritics": "Nosy-Varika",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -1218,7 +1218,7 @@
     "name": "Port Berge Vaovao",
     "nameWoDiacritics": "Port Berge Vaovao",
     "subdivision": "M",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1226,7 +1226,7 @@
     "iata": "",
     "coordinates": {
       "lat": -15.566666666666666,
-      "lon": 5.216666666666667
+      "lon": 47.61666666666667
     },
     "remarks": ""
   },
@@ -1237,7 +1237,7 @@
     "name": "Port Saint Louis",
     "nameWoDiacritics": "Port Saint Louis",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -1256,7 +1256,7 @@
     "name": "Sainte Marie",
     "nameWoDiacritics": "Sainte Marie",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1264,7 +1264,7 @@
     "iata": "",
     "coordinates": {
       "lat": -16.133333333333333,
-      "lon": 5.083333333333333
+      "lon": 46.96666666666667
     },
     "remarks": ""
   },
@@ -1275,7 +1275,7 @@
     "name": "Sambava",
     "nameWoDiacritics": "Sambava",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -1295,7 +1295,7 @@
     "name": "Soalala",
     "nameWoDiacritics": "Soalala",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -1315,7 +1315,7 @@
     "name": "Tamatave (Toamasina)",
     "nameWoDiacritics": "Tamatave (Toamasina)",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -1336,7 +1336,7 @@
     "name": "Tambohorano",
     "nameWoDiacritics": "Tambohorano",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1355,7 +1355,7 @@
     "name": "Tanandava",
     "nameWoDiacritics": "Tanandava",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1374,7 +1374,7 @@
     "name": "Tanjombato",
     "nameWoDiacritics": "Tanjombato",
     "subdivision": "T",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1382,7 +1382,7 @@
     "iata": "",
     "coordinates": {
       "lat": -18.95,
-      "lon": 5.216666666666667
+      "lon": 47.53333333333333
     },
     "remarks": ""
   },
@@ -1393,7 +1393,7 @@
     "name": "Taolagnaro",
     "nameWoDiacritics": "Taolagnaro",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1401,7 +1401,7 @@
     "iata": "",
     "coordinates": {
       "lat": -25.016666666666666,
-      "lon": 5.083333333333333
+      "lon": 46.96666666666667
     },
     "remarks": ""
   },
@@ -1412,7 +1412,7 @@
     "name": "Toamasina",
     "nameWoDiacritics": "Toamasina",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -1431,7 +1431,7 @@
     "name": "Tsaratanana",
     "nameWoDiacritics": "Tsaratanana",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1450,7 +1450,7 @@
     "name": "Tsiombe",
     "nameWoDiacritics": "Tsiombe",
     "subdivision": "U",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -1458,7 +1458,7 @@
     "iata": "",
     "coordinates": {
       "lat": -25.3,
-      "lon": 4.866666666666667
+      "lon": 45.483333333333334
     },
     "remarks": ""
   },
@@ -1469,7 +1469,7 @@
     "name": "Tsiroanomandidy",
     "nameWoDiacritics": "Tsiroanomandidy",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1488,7 +1488,7 @@
     "name": "Tulear (Toliara)",
     "nameWoDiacritics": "Tulear (Toliara)",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -1508,7 +1508,7 @@
     "name": "Vangaindrano",
     "nameWoDiacritics": "Vangaindrano",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1527,7 +1527,7 @@
     "name": "Vatomandry",
     "nameWoDiacritics": "Vatomandry",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -1547,7 +1547,7 @@
     "name": "Vehiperro",
     "nameWoDiacritics": "Vehiperro",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -1566,7 +1566,7 @@
     "name": "Vohemar",
     "nameWoDiacritics": "Vohemar",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],

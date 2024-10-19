@@ -2,6 +2,7 @@
   {
     "country": "BQ",
     "name": ".BONAIRE, SINT EUSTATIUS AND SABA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "BON",
     "name": "Bonaire",
     "nameWoDiacritics": "Bonaire",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -22,7 +23,7 @@
     "date": 1307,
     "coordinates": {
       "lat": 12.116666666666667,
-      "lon": 7.35
+      "lon": -68.26666666666667
     }
   },
   {
@@ -30,7 +31,7 @@
     "location": "RIN",
     "name": "Dorp RincÛn",
     "nameWoDiacritics": "Dorp Rincon",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -38,7 +39,7 @@
     "date": 1307,
     "coordinates": {
       "lat": 12.233333333333333,
-      "lon": 7.366666666666667
+      "lon": -68.33333333333333
     }
   },
   {
@@ -46,14 +47,14 @@
     "location": "DTK",
     "name": "Dorp Tera Kora",
     "nameWoDiacritics": "Dorp Tera Kora",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 12.133333333333333,
-      "lon": 7.35
+      "lon": -68.26666666666667
     }
   },
   {
@@ -61,14 +62,14 @@
     "location": "GOT",
     "name": "Goto",
     "nameWoDiacritics": "Goto",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1101,
     "coordinates": {
       "lat": 12.216666666666667,
-      "lon": 7.366666666666667
+      "lon": -68.38333333333334
     }
   },
   {
@@ -76,14 +77,14 @@
     "location": "KRA",
     "name": "Kralendijk",
     "nameWoDiacritics": "Kralendijk",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
     "date": 1101,
     "coordinates": {
       "lat": 12.15,
-      "lon": 7.35
+      "lon": -68.26666666666667
     }
   },
   {
@@ -92,14 +93,14 @@
     "name": "Oranjestad",
     "nameWoDiacritics": "Oranjestad",
     "subdivision": "SE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 17.466666666666665,
-      "lon": 6.416666666666667
+      "lon": -62.983333333333334
     }
   },
   {
@@ -107,7 +108,7 @@
     "location": "SAB",
     "name": "Saba",
     "nameWoDiacritics": "Saba",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -116,7 +117,7 @@
     "date": 1307,
     "coordinates": {
       "lat": 17.633333333333333,
-      "lon": 6.516666666666667
+      "lon": -63.233333333333334
     }
   },
   {
@@ -124,7 +125,7 @@
     "location": "EUX",
     "name": "Sint Eustatius",
     "nameWoDiacritics": "Sint Eustatius",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -133,7 +134,7 @@
     "date": 1307,
     "coordinates": {
       "lat": 17.483333333333334,
-      "lon": 6.416666666666667
+      "lon": -62.96666666666667
     }
   },
   {
@@ -141,14 +142,14 @@
     "location": "BOT",
     "name": "The Bottom",
     "nameWoDiacritics": "The Bottom",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 17.633333333333333,
-      "lon": 6.516666666666667
+      "lon": -63.233333333333334
     }
   }
 ]

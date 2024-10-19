@@ -6,7 +6,7 @@
     "name": "\".KOREA",
     "nameWoDiacritics": " DEMOCRATIC PEOPLE'S REPUBLIC OF\"",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Bumpyo (Rempo)",
     "nameWoDiacritics": "Bumpyo (Rempo)",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -42,7 +42,7 @@
     "name": "Chongjin",
     "nameWoDiacritics": "Chongjin",
     "subdivision": "09",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
@@ -61,7 +61,7 @@
     "name": "Gensan",
     "nameWoDiacritics": "Gensan",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -80,7 +80,7 @@
     "name": "Haeju",
     "nameWoDiacritics": "Haeju",
     "subdivision": "05",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
@@ -99,7 +99,7 @@
     "name": "Hungnam",
     "nameWoDiacritics": "Hungnam",
     "subdivision": "08",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
@@ -118,7 +118,7 @@
     "name": "Kaesong",
     "nameWoDiacritics": "Kaesong",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -138,7 +138,7 @@
     "name": "Nampo",
     "nameWoDiacritics": "Nampo",
     "subdivision": "14",
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       1,
@@ -159,7 +159,7 @@
     "name": "Odaejin",
     "nameWoDiacritics": "Odaejin",
     "subdivision": "",
-    "status": "AS",
+    "status": 6,
     "function": [
       0
     ],
@@ -167,7 +167,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.38333333333333,
-      "lon": 13.566666666666666
+      "lon": 129.75
     },
     "remarks": ""
   },
@@ -178,7 +178,7 @@
     "name": "Panjang",
     "nameWoDiacritics": "Panjang",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -187,7 +187,7 @@
     "iata": "",
     "coordinates": {
       "lat": 38.5,
-      "lon": 12.833333333333334
+      "lon": 125.08333333333333
     },
     "remarks": ""
   },
@@ -198,7 +198,7 @@
     "name": "Pyongyang",
     "nameWoDiacritics": "Pyongyang",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -218,7 +218,7 @@
     "name": "Rajin (Najin)",
     "nameWoDiacritics": "Rajin (Najin)",
     "subdivision": "13",
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       1,
@@ -228,7 +228,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.21666666666667,
-      "lon": 13.016666666666667
+      "lon": 130.28333333333333
     },
     "remarks": ""
   },
@@ -239,7 +239,7 @@
     "name": "Riwon",
     "nameWoDiacritics": "Riwon",
     "subdivision": "",
-    "status": "AS",
+    "status": 6,
     "function": [
       0
     ],
@@ -247,7 +247,7 @@
     "iata": "",
     "coordinates": {
       "lat": 40.31666666666667,
-      "lon": 13.383333333333333
+      "lon": 128.63333333333333
     },
     "remarks": ""
   },
@@ -258,7 +258,7 @@
     "name": "Samcha do",
     "nameWoDiacritics": "Samcha do",
     "subdivision": "",
-    "status": "AS",
+    "status": 6,
     "function": [
       0
     ],
@@ -266,7 +266,7 @@
     "iata": "",
     "coordinates": {
       "lat": 39.4,
-      "lon": 12.733333333333333
+      "lon": 124.71666666666667
     },
     "remarks": ""
   },
@@ -277,7 +277,7 @@
     "name": "Sinpo",
     "nameWoDiacritics": "Sinpo",
     "subdivision": "",
-    "status": "AS",
+    "status": 6,
     "function": [
       0
     ],
@@ -285,7 +285,7 @@
     "iata": "",
     "coordinates": {
       "lat": 40.06666666666667,
-      "lon": 13.35
+      "lon": 128.26666666666668
     },
     "remarks": ""
   },
@@ -296,7 +296,7 @@
     "name": "Sinuiju",
     "nameWoDiacritics": "Sinuiju",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -316,7 +316,7 @@
     "name": "Songdo",
     "nameWoDiacritics": "Songdo",
     "subdivision": "05",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -324,7 +324,7 @@
     "iata": "",
     "coordinates": {
       "lat": 38.38333333333333,
-      "lon": 12.883333333333333
+      "lon": 125.6
     },
     "remarks": ""
   },
@@ -335,7 +335,7 @@
     "name": "Songjin",
     "nameWoDiacritics": "Songjin",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -354,7 +354,7 @@
     "name": "Songnim",
     "nameWoDiacritics": "Songnim",
     "subdivision": "06",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
@@ -362,7 +362,7 @@
     "iata": "",
     "coordinates": {
       "lat": 38.766666666666666,
-      "lon": 12.883333333333333
+      "lon": 125.58333333333333
     },
     "remarks": ""
   },
@@ -373,7 +373,7 @@
     "name": "Tanchon",
     "nameWoDiacritics": "Tanchon",
     "subdivision": "08",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
@@ -381,7 +381,7 @@
     "iata": "",
     "coordinates": {
       "lat": 40.416666666666664,
-      "lon": 13.416666666666666
+      "lon": 128.93333333333334
     },
     "remarks": ""
   },
@@ -392,7 +392,7 @@
     "name": "Tanyang",
     "nameWoDiacritics": "Tanyang",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -400,7 +400,7 @@
     "iata": "",
     "coordinates": {
       "lat": 36.983333333333334,
-      "lon": 13.366666666666667
+      "lon": 128.35
     },
     "remarks": ""
   },
@@ -411,7 +411,7 @@
     "name": "Wonsan",
     "nameWoDiacritics": "Wonsan",
     "subdivision": "07",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],

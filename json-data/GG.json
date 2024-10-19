@@ -2,6 +2,7 @@
   {
     "country": "GG",
     "name": ".GUERNSEY",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "ACI",
     "name": "Alderney",
     "nameWoDiacritics": "Alderney",
-    "status": "AF",
+    "status": 2,
     "function": [
       0,
       3
@@ -21,7 +22,7 @@
     "date": 607,
     "coordinates": {
       "lat": 49.68333333333333,
-      "lon": 0.35
+      "lon": -2.2
     },
     "remarks": "ex GB ACI"
   },
@@ -30,7 +31,7 @@
     "location": "GCI",
     "name": "Guernsey",
     "nameWoDiacritics": "Guernsey",
-    "status": "AF",
+    "status": 2,
     "function": [
       0,
       3
@@ -38,7 +39,7 @@
     "date": 607,
     "coordinates": {
       "lat": 49.43333333333333,
-      "lon": 0.38333333333333336
+      "lon": -2.5833333333333335
     },
     "remarks": "ex GB GCI"
   },
@@ -47,7 +48,7 @@
     "location": "SPT",
     "name": "Saint Peter Port",
     "nameWoDiacritics": "Saint Peter Port",
-    "status": "AF",
+    "status": 2,
     "function": [
       0,
       2
@@ -55,7 +56,7 @@
     "date": 1101,
     "coordinates": {
       "lat": 49.45,
-      "lon": 0.38333333333333336
+      "lon": -2.55
     },
     "remarks": "ex GB SPT"
   },
@@ -64,14 +65,14 @@
     "location": "STS",
     "name": "Saint Sampson",
     "nameWoDiacritics": "Saint Sampson",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 49.483333333333334,
-      "lon": 0.38333333333333336
+      "lon": -2.5166666666666666
     }
   }
 ]

@@ -2,6 +2,7 @@
   {
     "country": "FM",
     "name": ".MICRONESIA, FEDERATED STATES OF",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "TKK",
     "name": "Chuuk (ex Truk)",
     "nameWoDiacritics": "Chuuk (ex Truk)",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -30,14 +31,14 @@
     "name": "Eauripik Atoll",
     "nameWoDiacritics": "Eauripik Atoll",
     "subdivision": "YAP",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 6.7,
-      "lon": 14.5
+      "lon": 143.06666666666666
     }
   },
   {
@@ -45,7 +46,7 @@
     "location": "FSI",
     "name": "Faisi",
     "nameWoDiacritics": "Faisi",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -61,14 +62,14 @@
     "name": "Gaferut Atoll",
     "nameWoDiacritics": "Gaferut Atoll",
     "subdivision": "YAP",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 9.233333333333333,
-      "lon": 14.866666666666667
+      "lon": 145.38333333333333
     }
   },
   {
@@ -77,14 +78,14 @@
     "name": "Ifalik Atoll",
     "nameWoDiacritics": "Ifalik Atoll",
     "subdivision": "YAP",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 7.233333333333333,
-      "lon": 14.7
+      "lon": 144.45
     }
   },
   {
@@ -92,7 +93,7 @@
     "location": "KSA",
     "name": "Kosrae (ex Kusaie)",
     "nameWoDiacritics": "Kosrae (ex Kusaie)",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -109,14 +110,14 @@
     "name": "Lukunor Atoll",
     "nameWoDiacritics": "Lukunor Atoll",
     "subdivision": "TRK",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 5.516666666666667,
-      "lon": 15.566666666666666
+      "lon": 153.76666666666668
     }
   },
   {
@@ -125,14 +126,14 @@
     "name": "Ngatik",
     "nameWoDiacritics": "Ngatik",
     "subdivision": "PNI",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 5.8,
-      "lon": 16.183333333333334
+      "lon": 157.26666666666668
     }
   },
   {
@@ -141,14 +142,14 @@
     "name": "Palau",
     "nameWoDiacritics": "Palau",
     "subdivision": "YAP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1401,
     "coordinates": {
       "lat": 9.566666666666666,
-      "lon": 14.333333333333334
+      "lon": 138.15
     }
   },
   {
@@ -156,7 +157,7 @@
     "location": "PNI",
     "name": "Pohnpei (ex Ponape)",
     "nameWoDiacritics": "Pohnpei (ex Ponape)",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -173,14 +174,14 @@
     "name": "Pulap Island",
     "nameWoDiacritics": "Pulap Island",
     "subdivision": "TRK",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 7.583333333333333,
-      "lon": 15.533333333333333
+      "lon": 149.41666666666666
     }
   },
   {
@@ -189,14 +190,14 @@
     "name": "Puluwat",
     "nameWoDiacritics": "Puluwat",
     "subdivision": "TRK",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 7.35,
-      "lon": 15.516666666666666
+      "lon": 149.18333333333334
     }
   },
   {
@@ -205,14 +206,14 @@
     "name": "Satawal",
     "nameWoDiacritics": "Satawal",
     "subdivision": "YAP",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 7.35,
-      "lon": 15.166666666666666
+      "lon": 147.03333333333333
     }
   },
   {
@@ -221,14 +222,14 @@
     "name": "Sorol Atoll",
     "nameWoDiacritics": "Sorol Atoll",
     "subdivision": "YAP",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 8.133333333333333,
-      "lon": 14.033333333333333
+      "lon": 140.38333333333333
     }
   },
   {
@@ -236,6 +237,7 @@
     "country": "FM",
     "name": "Truk = Chuuk",
     "nameWoDiacritics": "Truk = Chuuk",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -247,7 +249,7 @@
     "location": "ULI",
     "name": "Ulithi",
     "nameWoDiacritics": "Ulithi",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -263,14 +265,14 @@
     "name": "Woleai Atoll",
     "nameWoDiacritics": "Woleai Atoll",
     "subdivision": "YAP",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 7.35,
-      "lon": 14.583333333333334
+      "lon": 143.86666666666667
     }
   },
   {
@@ -278,7 +280,7 @@
     "location": "YAP",
     "name": "Yap",
     "nameWoDiacritics": "Yap",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3

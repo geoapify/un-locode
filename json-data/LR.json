@@ -6,7 +6,7 @@
     "name": ".LIBERIA",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Bella Yella",
     "nameWoDiacritics": "Bella Yella",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -42,7 +42,7 @@
     "name": "Buchanan",
     "nameWoDiacritics": "Buchanan",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -62,7 +62,7 @@
     "name": "Cape Mount",
     "nameWoDiacritics": "Cape Mount",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -81,7 +81,7 @@
     "name": "Cape Palmas",
     "nameWoDiacritics": "Cape Palmas",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -101,7 +101,7 @@
     "name": "Fimibo",
     "nameWoDiacritics": "Fimibo",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -120,7 +120,7 @@
     "name": "Foya",
     "nameWoDiacritics": "Foya",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -139,7 +139,7 @@
     "name": "Grand Bassa",
     "nameWoDiacritics": "Grand Bassa",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -158,7 +158,7 @@
     "name": "Grand Cess",
     "nameWoDiacritics": "Grand Cess",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -177,7 +177,7 @@
     "name": "Greenville",
     "nameWoDiacritics": "Greenville",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -196,7 +196,7 @@
     "name": "Harbel",
     "nameWoDiacritics": "Harbel",
     "subdivision": "MO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -204,7 +204,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.266666666666667,
-      "lon": 1.0333333333333334
+      "lon": -10.333333333333334
     },
     "remarks": ""
   },
@@ -215,7 +215,7 @@
     "name": "Harper",
     "nameWoDiacritics": "Harper",
     "subdivision": "MY",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -224,7 +224,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.366666666666666,
-      "lon": 1.2333333333333334
+      "lon": -7.716666666666667
     },
     "remarks": ""
   },
@@ -235,7 +235,7 @@
     "name": "Lower Buchanan",
     "nameWoDiacritics": "Lower Buchanan",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -254,7 +254,7 @@
     "name": "Marshall",
     "nameWoDiacritics": "Marshall",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -273,7 +273,7 @@
     "name": "Monrovia",
     "nameWoDiacritics": "Monrovia",
     "subdivision": "MO",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -284,7 +284,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.3,
-      "lon": 1.0666666666666667
+      "lon": -10.8
     },
     "remarks": ""
   },
@@ -295,7 +295,7 @@
     "name": "Nimba",
     "nameWoDiacritics": "Nimba",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -314,7 +314,7 @@
     "name": "River Cess",
     "nameWoDiacritics": "River Cess",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -323,7 +323,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.466666666666667,
-      "lon": 1.55
+      "lon": -9.583333333333334
     },
     "remarks": ""
   },
@@ -334,7 +334,7 @@
     "name": "Roberts International Airport",
     "nameWoDiacritics": "Roberts International Airport",
     "subdivision": "MO",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -343,7 +343,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.233333333333333,
-      "lon": 1.0333333333333334
+      "lon": -10.35
     },
     "remarks": ""
   },
@@ -354,7 +354,7 @@
     "name": "Robertsport",
     "nameWoDiacritics": "Robertsport",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -373,7 +373,7 @@
     "name": "Sagleipie",
     "nameWoDiacritics": "Sagleipie",
     "subdivision": "NI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -381,7 +381,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.95,
-      "lon": 1.4166666666666667
+      "lon": -8.833333333333334
     },
     "remarks": ""
   },
@@ -392,7 +392,7 @@
     "name": "Sarioe Bay",
     "nameWoDiacritics": "Sarioe Bay",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -411,7 +411,7 @@
     "name": "Sasstown",
     "nameWoDiacritics": "Sasstown",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -431,7 +431,7 @@
     "name": "Sinoe",
     "nameWoDiacritics": "Sinoe",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -451,7 +451,7 @@
     "name": "Tapeta",
     "nameWoDiacritics": "Tapeta",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -470,7 +470,7 @@
     "name": "Tchien",
     "nameWoDiacritics": "Tchien",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -489,7 +489,7 @@
     "name": "Trade Town",
     "nameWoDiacritics": "Trade Town",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -508,7 +508,7 @@
     "name": "Voinjama",
     "nameWoDiacritics": "Voinjama",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -527,7 +527,7 @@
     "name": "Weasua",
     "nameWoDiacritics": "Weasua",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -546,7 +546,7 @@
     "name": "Wologissi",
     "nameWoDiacritics": "Wologissi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -565,7 +565,7 @@
     "name": "Zwedru",
     "nameWoDiacritics": "Zwedru",
     "subdivision": "GG",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -573,7 +573,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.066666666666666,
-      "lon": 1.3333333333333333
+      "lon": -8.116666666666667
     },
     "remarks": ""
   }

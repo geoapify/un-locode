@@ -4,14 +4,14 @@
     "location": "FBY",
     "name": "Farta Bay",
     "nameWoDiacritics": "Farta Bay",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": -12.616666666666667,
-      "lon": 1.5166666666666666
+      "lon": 13.2
     }
   },
   {
@@ -19,14 +19,14 @@
     "location": "FLT",
     "name": "Futila Terminal",
     "nameWoDiacritics": "Futila Terminal",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": -5.45,
-      "lon": 1.35
+      "lon": 12.183333333333334
     }
   },
   {
@@ -34,14 +34,14 @@
     "location": "GIM",
     "name": "Gimboa",
     "nameWoDiacritics": "Gimboa",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1107,
     "coordinates": {
       "lat": -7.533333333333333,
-      "lon": 1.35
+      "lon": 12.166666666666666
     }
   },
   {
@@ -49,14 +49,14 @@
     "location": "GIR",
     "name": "Girassol Terminal",
     "nameWoDiacritics": "Girassol Terminal",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": -7.633333333333333,
-      "lon": 1.2333333333333334
+      "lon": 11.683333333333334
     }
   },
   {
@@ -64,14 +64,14 @@
     "location": "GPO",
     "name": "Greater Plutonio",
     "nameWoDiacritics": "Greater Plutonio",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1601,
     "coordinates": {
       "lat": -7.833333333333333,
-      "lon": 1.3333333333333333
+      "lon": 12.116666666666667
     }
   },
   {
@@ -79,7 +79,7 @@
     "location": "NOV",
     "name": "Huambo",
     "nameWoDiacritics": "Huambo",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -94,7 +94,7 @@
     "location": "JMB",
     "name": "Jamba",
     "nameWoDiacritics": "Jamba",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -109,7 +109,7 @@
     "location": "KTI",
     "name": "Kiame Terminal",
     "nameWoDiacritics": "Kiame Terminal",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -124,7 +124,7 @@
     "location": "SVP",
     "name": "Kuito",
     "nameWoDiacritics": "Kuito",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -139,14 +139,14 @@
     "location": "KOT",
     "name": "Kuito Terminal",
     "nameWoDiacritics": "Kuito Terminal",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": -5.433333333333334,
-      "lon": 1.2
+      "lon": 11.483333333333333
     }
   },
   {
@@ -154,7 +154,7 @@
     "location": "LAA",
     "name": "Landana (Cacongo)",
     "nameWoDiacritics": "Landana (Cacongo)",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -169,7 +169,7 @@
     "location": "LIE",
     "name": "Lieura",
     "nameWoDiacritics": "Lieura",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -184,7 +184,7 @@
     "location": "LOB",
     "name": "Lobito",
     "nameWoDiacritics": "Lobito",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       4
@@ -200,14 +200,14 @@
     "location": "LBT",
     "name": "Lombo Terminal",
     "nameWoDiacritics": "Lombo Terminal",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": -6.983333333333333,
-      "lon": 1.3666666666666667
+      "lon": 12.35
     }
   },
   {
@@ -215,7 +215,7 @@
     "location": "LAD",
     "name": "Luanda",
     "nameWoDiacritics": "Luanda",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -232,7 +232,7 @@
     "location": "UAL",
     "name": "Luau",
     "nameWoDiacritics": "Luau",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -247,7 +247,7 @@
     "location": "SDD",
     "name": "Lubango",
     "nameWoDiacritics": "Lubango",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -262,7 +262,7 @@
     "location": "LUC",
     "name": "Lucira",
     "nameWoDiacritics": "Lucira",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -278,7 +278,7 @@
     "location": "LUO",
     "name": "Luena",
     "nameWoDiacritics": "Luena",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -293,7 +293,7 @@
     "location": "LBZ",
     "name": "Lukapa",
     "nameWoDiacritics": "Lukapa",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -308,7 +308,7 @@
     "location": "GGC",
     "name": "Lumbala",
     "nameWoDiacritics": "Lumbala",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -323,7 +323,7 @@
     "location": "LZM",
     "name": "Luzamba",
     "nameWoDiacritics": "Luzamba",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -338,7 +338,7 @@
     "location": "MEG",
     "name": "Malange",
     "nameWoDiacritics": "Malange",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -353,7 +353,7 @@
     "location": "MLO",
     "name": "Malembo",
     "nameWoDiacritics": "Malembo",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -368,7 +368,7 @@
     "location": "MAL",
     "name": "Malongo",
     "nameWoDiacritics": "Malongo",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -384,14 +384,14 @@
     "name": "Maquela Do Zombo",
     "nameWoDiacritics": "Maquela Do Zombo",
     "subdivision": "UIG",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": -6.066666666666666,
-      "lon": 1.8333333333333335
+      "lon": 15.1
     }
   },
   {
@@ -400,14 +400,14 @@
     "name": "Matala",
     "nameWoDiacritics": "Matala",
     "subdivision": "HUI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": -14.733333333333333,
-      "lon": 1.8333333333333335
+      "lon": 15.033333333333333
     }
   },
   {
@@ -415,7 +415,7 @@
     "location": "SSY",
     "name": "M'banza Congo",
     "nameWoDiacritics": "M'banza Congo",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -430,7 +430,7 @@
     "location": "SPP",
     "name": "Menongue",
     "nameWoDiacritics": "Menongue",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -445,14 +445,14 @@
     "location": "MOS",
     "name": "Mocamedes",
     "nameWoDiacritics": "Mocamedes",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": -15.166666666666666,
-      "lon": 1.3333333333333333
+      "lon": 12.15
     }
   },
   {
@@ -460,7 +460,7 @@
     "location": "MSZ",
     "name": "Namibe",
     "nameWoDiacritics": "Namibe",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -477,14 +477,14 @@
     "name": "N'dalatando",
     "nameWoDiacritics": "N'dalatando",
     "subdivision": "CNO",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 212,
     "coordinates": {
       "lat": -9.3,
-      "lon": 1.75
+      "lon": 14.916666666666666
     }
   },
   {
@@ -492,7 +492,7 @@
     "location": "GXG",
     "name": "Negage",
     "nameWoDiacritics": "Negage",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -507,7 +507,7 @@
     "location": "NQI",
     "name": "NÛqui",
     "nameWoDiacritics": "Noqui",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -516,7 +516,7 @@
     "date": 901,
     "coordinates": {
       "lat": -5.85,
-      "lon": 1.5333333333333332
+      "lon": 13.433333333333334
     }
   },
   {
@@ -524,6 +524,7 @@
     "country": "AO",
     "name": "Novo Redondo = Sumbe",
     "nameWoDiacritics": "Novo Redondo = Sumbe",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -535,7 +536,7 @@
     "location": "NRQ",
     "name": "N'Riquinha",
     "nameWoDiacritics": "N'Riquinha",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -550,7 +551,7 @@
     "location": "NZA",
     "name": "Nzagi",
     "nameWoDiacritics": "Nzagi",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -565,7 +566,7 @@
     "location": "ARZ",
     "name": "N'Zeto",
     "nameWoDiacritics": "N'Zeto",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -580,14 +581,14 @@
     "location": "NTO",
     "name": "N'Zeto (Ambrizete)",
     "nameWoDiacritics": "N'Zeto (Ambrizete)",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": -7.266666666666667,
-      "lon": 1.4166666666666667
+      "lon": 12.85
     }
   },
   {
@@ -596,14 +597,14 @@
     "name": "Ondjiva",
     "nameWoDiacritics": "Ondjiva",
     "subdivision": "CNN",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 212,
     "coordinates": {
       "lat": -17.066666666666666,
-      "lon": 1.9
+      "lon": 15.733333333333333
     }
   },
   {
@@ -611,7 +612,7 @@
     "location": "VPE",
     "name": "Ongiva",
     "nameWoDiacritics": "Ongiva",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -626,7 +627,7 @@
     "location": "PAT",
     "name": "Palanca Terminal",
     "nameWoDiacritics": "Palanca Terminal",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -641,14 +642,14 @@
     "location": "PAZ",
     "name": "Pazflor FPSO",
     "nameWoDiacritics": "Pazflor FPSO",
-    "status": "RL",
+    "status": 7,
     "function": [
       6
     ],
     "date": 1107,
     "coordinates": {
       "lat": -8.35,
-      "lon": 1.3333333333333333
+      "lon": 12.1
     }
   },
   {
@@ -656,7 +657,7 @@
     "location": "PLE",
     "name": "Porto Alexandre (Tombua)",
     "nameWoDiacritics": "Porto Alexandre (Tombua)",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -670,6 +671,7 @@
   {
     "country": "AO",
     "name": ".ANGOLA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -681,7 +683,7 @@
     "location": "AZZ",
     "name": "Ambriz",
     "nameWoDiacritics": "Ambriz",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -697,7 +699,7 @@
     "location": "ANL",
     "name": "Andulo",
     "nameWoDiacritics": "Andulo",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -713,14 +715,14 @@
     "name": "Armada Olombendo FPSO",
     "nameWoDiacritics": "Armada Olombendo FPSO",
     "subdivision": "ZAI",
-    "status": "RL",
+    "status": 7,
     "function": [
       6
     ],
     "date": 1801,
     "coordinates": {
       "lat": -6.066666666666666,
-      "lon": 1.2
+      "lon": 11.35
     }
   },
   {
@@ -728,14 +730,14 @@
     "location": "BAB",
     "name": "Baba",
     "nameWoDiacritics": "Baba",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": -14.833333333333334,
-      "lon": 1.35
+      "lon": 12.233333333333333
     }
   },
   {
@@ -743,14 +745,14 @@
     "location": "BDT",
     "name": "BaÌa dos Tigres",
     "nameWoDiacritics": "Baia dos Tigres",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 212,
     "coordinates": {
       "lat": -16.6,
-      "lon": 1.2333333333333334
+      "lon": 11.733333333333333
     }
   },
   {
@@ -758,7 +760,7 @@
     "location": "BDD",
     "name": "Barra do Dande",
     "nameWoDiacritics": "Barra do Dande",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -774,14 +776,14 @@
     "name": "Belas",
     "nameWoDiacritics": "Belas",
     "subdivision": "LUA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1707,
     "coordinates": {
       "lat": -8.916666666666666,
-      "lon": 1.5166666666666666
+      "lon": 13.166666666666666
     }
   },
   {
@@ -789,7 +791,7 @@
     "location": "BUG",
     "name": "Benguela",
     "nameWoDiacritics": "Benguela",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -805,7 +807,7 @@
     "location": "CAB",
     "name": "Cabinda",
     "nameWoDiacritics": "Cabinda",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -821,7 +823,7 @@
     "location": "CFF",
     "name": "Cafunfo",
     "nameWoDiacritics": "Cafunfo",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -836,7 +838,7 @@
     "location": "CNZ",
     "name": "Cangamba",
     "nameWoDiacritics": "Cangamba",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -851,7 +853,7 @@
     "location": "KNP",
     "name": "Capanda",
     "nameWoDiacritics": "Capanda",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -866,14 +868,14 @@
     "location": "CPO",
     "name": "Capulo",
     "nameWoDiacritics": "Capulo",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": -7.983333333333333,
-      "lon": 1.5166666666666666
+      "lon": 13.166666666666666
     }
   },
   {
@@ -881,7 +883,7 @@
     "location": "CBT",
     "name": "Catumbela",
     "nameWoDiacritics": "Catumbela",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -896,7 +898,7 @@
     "location": "CAV",
     "name": "Cazombo",
     "nameWoDiacritics": "Cazombo",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -911,7 +913,7 @@
     "location": "PGI",
     "name": "Chitato",
     "nameWoDiacritics": "Chitato",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -926,14 +928,14 @@
     "location": "CLV",
     "name": "CLOV FPSO",
     "nameWoDiacritics": "CLOV FPSO",
-    "status": "RL",
+    "status": 7,
     "function": [
       6
     ],
     "date": 1407,
     "coordinates": {
       "lat": -7.45,
-      "lon": 1.2166666666666668
+      "lon": 11.566666666666666
     }
   },
   {
@@ -941,14 +943,14 @@
     "location": "CUI",
     "name": "Cuio",
     "nameWoDiacritics": "Cuio",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": -12.983333333333333,
-      "lon": 1.4166666666666667
+      "lon": 12.983333333333333
     }
   },
   {
@@ -956,7 +958,7 @@
     "location": "CTI",
     "name": "Cuito Cuanavale",
     "nameWoDiacritics": "Cuito Cuanavale",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -971,14 +973,14 @@
     "location": "DAL",
     "name": "Dalia",
     "nameWoDiacritics": "Dalia",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 307,
     "coordinates": {
       "lat": -7.683333333333334,
-      "lon": 1.2333333333333334
+      "lon": 11.783333333333333
     }
   },
   {
@@ -986,7 +988,7 @@
     "location": "DRC",
     "name": "Dirico",
     "nameWoDiacritics": "Dirico",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1001,7 +1003,7 @@
     "location": "DGR",
     "name": "Dombe Grande",
     "nameWoDiacritics": "Dombe Grande",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -1016,7 +1018,7 @@
     "location": "DUE",
     "name": "Dundo",
     "nameWoDiacritics": "Dundo",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1031,14 +1033,14 @@
     "location": "ETN",
     "name": "Essungo Terminal",
     "nameWoDiacritics": "Essungo Terminal",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": -6.333333333333333,
-      "lon": 1.35
+      "lon": 12.166666666666666
     }
   },
   {
@@ -1046,7 +1048,7 @@
     "location": "PBN",
     "name": "Porto Amboim",
     "nameWoDiacritics": "Porto Amboim",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -1061,14 +1063,14 @@
     "location": "PSA",
     "name": "Porto Saco (Portosalazar)",
     "nameWoDiacritics": "Porto Saco (Portosalazar)",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": -15.133333333333333,
-      "lon": 1.3333333333333333
+      "lon": 12.133333333333333
     }
   },
   {
@@ -1076,14 +1078,14 @@
     "location": "RSN",
     "name": "River Sao Nicolau",
     "nameWoDiacritics": "River Sao Nicolau",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": -14.25,
-      "lon": 1.3666666666666667
+      "lon": 12.333333333333334
     }
   },
   {
@@ -1091,6 +1093,7 @@
     "country": "AO",
     "name": "San Antonio do Zaire = Soyo",
     "nameWoDiacritics": "San Antonio do Zaire = Soyo",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -1103,7 +1106,7 @@
     "name": "Santa Clara",
     "nameWoDiacritics": "Santa Clara",
     "subdivision": "UIG",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -1111,7 +1114,7 @@
     "date": 1107,
     "coordinates": {
       "lat": -7.366666666666666,
-      "lon": 1.7333333333333334
+      "lon": 14.733333333333333
     }
   },
   {
@@ -1119,7 +1122,7 @@
     "location": "VHC",
     "name": "Saurimo",
     "nameWoDiacritics": "Saurimo",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1134,14 +1137,14 @@
     "location": "SBT",
     "name": "Saxi Batuque FPSO",
     "nameWoDiacritics": "Saxi Batuque FPSO",
-    "status": "RL",
+    "status": 7,
     "function": [
       6
     ],
     "date": 1201,
     "coordinates": {
       "lat": -6.316666666666666,
-      "lon": 1.1833333333333333
+      "lon": 11.216666666666667
     }
   },
   {
@@ -1149,14 +1152,14 @@
     "location": "STL",
     "name": "Sazaire Terminal",
     "nameWoDiacritics": "Sazaire Terminal",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": -6.083333333333333,
-      "lon": 1.3666666666666667
+      "lon": 12.383333333333333
     }
   },
   {
@@ -1164,7 +1167,7 @@
     "location": "SZA",
     "name": "Soyo",
     "nameWoDiacritics": "Soyo",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -1180,7 +1183,7 @@
     "location": "SOQ",
     "name": "Soyo-Quinfuquena Terminal",
     "nameWoDiacritics": "Soyo-Quinfuquena Terminal",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -1195,7 +1198,7 @@
     "location": "NDD",
     "name": "Sumbe",
     "nameWoDiacritics": "Sumbe",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -1212,7 +1215,7 @@
     "location": "TAK",
     "name": "Takula Terminal",
     "nameWoDiacritics": "Takula Terminal",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -1227,14 +1230,14 @@
     "location": "UGO",
     "name": "UÌge",
     "nameWoDiacritics": "Uige",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 212,
     "coordinates": {
       "lat": -7.616666666666667,
-      "lon": 1.8333333333333335
+      "lon": 15.05
     }
   },
   {
@@ -1243,14 +1246,14 @@
     "name": "Viana",
     "nameWoDiacritics": "Viana",
     "subdivision": "LUA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1607,
     "coordinates": {
       "lat": -8.9,
-      "lon": 1.5333333333333332
+      "lon": 13.366666666666667
     }
   },
   {
@@ -1258,14 +1261,14 @@
     "location": "CEO",
     "name": "Waku Kungo",
     "nameWoDiacritics": "Waku Kungo",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 212,
     "coordinates": {
       "lat": -11.35,
-      "lon": 1.8333333333333335
+      "lon": 15.116666666666667
     }
   },
   {
@@ -1273,7 +1276,7 @@
     "location": "XGN",
     "name": "Xangongo",
     "nameWoDiacritics": "Xangongo",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],

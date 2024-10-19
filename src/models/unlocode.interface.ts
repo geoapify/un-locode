@@ -14,7 +14,7 @@ export interface UnlocodeJsonItem {
     name: string;
     nameWoDiacritics: string;
     subdivision: string;
-    status: string;
+    status: Status;
     function: Array<FunctionCode>;
     date: string;
     iata: string
@@ -23,8 +23,20 @@ export interface UnlocodeJsonItem {
 }
 
 export enum Status {
-    ACTIVE,
-    INACTIVE
+    APPROVED_BY_COMPETENT_NATIONAL_GOVERNMENT_AGENCY,
+    APPROVED_BY_CUSTOMS_AUTHORITY,
+    APPROVED_BY_NATIONAL_FACILITATION_BODY,
+    CODE_ADOPTED_BY_INTERNATIONAL_ORGANISATION,
+    APPROVED_BY_UN_LOCODE_MAINTENANCE_AGENCY,
+    ENTRY_APPROVED_FUNCTIONS_NOT_VERIFIED,
+    APPROVED_BY_NATIONAL_STANDARDISATION_BODY,
+    RECOGNISED_LOCATION,
+    REQUEST_FROM_CREDIBLE_NATIONAL_SOURCES,
+    REQUEST_UNDER_CONSIDERATION,
+    ENTRY_INCLUDED_ON_USER_REQUEST,
+    REQUEST_REJECTED,
+    ORIGINAL_ENTRY_NOT_VERIFIED,
+    ENTRY_TO_BE_REMOVED_NEXT_ISSUE
 }
 
 export enum FunctionCode {

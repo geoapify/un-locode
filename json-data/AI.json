@@ -2,6 +2,7 @@
   {
     "country": "AI",
     "name": ".ANGUILLA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "AXA",
     "name": "Anguilla",
     "nameWoDiacritics": "Anguilla",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -29,7 +30,7 @@
     "location": "BLP",
     "name": "Blowing Point",
     "nameWoDiacritics": "Blowing Point",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -44,14 +45,14 @@
     "location": "CRH",
     "name": "Crocus Hill",
     "nameWoDiacritics": "Crocus Hill",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 18.216666666666665,
-      "lon": 6.5
+      "lon": -63.06666666666667
     }
   },
   {
@@ -59,14 +60,14 @@
     "location": "MBB",
     "name": "Meads Bay Beach",
     "nameWoDiacritics": "Meads Bay Beach",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1601,
     "coordinates": {
       "lat": 18.166666666666668,
-      "lon": 6.5
+      "lon": -63.13333333333333
     }
   },
   {
@@ -74,7 +75,7 @@
     "location": "RBY",
     "name": "Road Bay",
     "nameWoDiacritics": "Road Bay",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -89,14 +90,14 @@
     "location": "SOM",
     "name": "Sombrero",
     "nameWoDiacritics": "Sombrero",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 18.6,
-      "lon": 6.533333333333333
+      "lon": -63.46666666666667
     }
   },
   {
@@ -104,7 +105,7 @@
     "location": "FOR",
     "name": "The Forest",
     "nameWoDiacritics": "The Forest",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -119,7 +120,7 @@
     "location": "ROA",
     "name": "The Road",
     "nameWoDiacritics": "The Road",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -134,14 +135,14 @@
     "location": "VAL",
     "name": "The Valley",
     "nameWoDiacritics": "The Valley",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 201,
     "coordinates": {
       "lat": 18.216666666666665,
-      "lon": 6.5
+      "lon": -63.05
     }
   },
   {
@@ -149,7 +150,7 @@
     "location": "WLL",
     "name": "Wall Blake",
     "nameWoDiacritics": "Wall Blake",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       3

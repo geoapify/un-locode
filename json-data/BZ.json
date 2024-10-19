@@ -2,6 +2,7 @@
   {
     "country": "BZ",
     "name": ".BELIZE",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,14 +14,14 @@
     "location": "BAR",
     "name": "Barranco",
     "nameWoDiacritics": "Barranco",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 212,
     "coordinates": {
       "lat": 16,
-      "lon": 9.416666666666666
+      "lon": -88.91666666666667
     }
   },
   {
@@ -28,7 +29,7 @@
     "location": "BZE",
     "name": "Belize City",
     "nameWoDiacritics": "Belize City",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -46,14 +47,14 @@
     "name": "Belize City Municipal Airport",
     "nameWoDiacritics": "Belize City Municipal Airport",
     "subdivision": "BZ",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 1607,
     "coordinates": {
       "lat": 17.533333333333335,
-      "lon": 9.35
+      "lon": -88.3
     }
   },
   {
@@ -61,14 +62,14 @@
     "location": "BMP",
     "name": "Belmopan",
     "nameWoDiacritics": "Belmopan",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 17.266666666666666,
-      "lon": 9.4
+      "lon": -88.78333333333333
     }
   },
   {
@@ -77,14 +78,14 @@
     "name": "Benque Viejo",
     "nameWoDiacritics": "Benque Viejo",
     "subdivision": "CZL",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1801,
     "coordinates": {
       "lat": 18.266666666666666,
-      "lon": 9.366666666666667
+      "lon": -88.45
     }
   },
   {
@@ -93,14 +94,14 @@
     "name": "Benque Viejo del Carmen",
     "nameWoDiacritics": "Benque Viejo del Carmen",
     "subdivision": "CY",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 17.066666666666666,
-      "lon": 9.5
+      "lon": -89.13333333333334
     }
   },
   {
@@ -109,7 +110,7 @@
     "name": "Big Creek",
     "nameWoDiacritics": "Big Creek",
     "subdivision": "SC",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2,
@@ -118,7 +119,7 @@
     "date": 1101,
     "coordinates": {
       "lat": 16.516666666666666,
-      "lon": 9.366666666666667
+      "lon": -88.4
     }
   },
   {
@@ -127,14 +128,14 @@
     "name": "Caye Caulker",
     "nameWoDiacritics": "Caye Caulker",
     "subdivision": "BZ",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 17.75,
-      "lon": 9.333333333333334
+      "lon": -88.05
     }
   },
   {
@@ -143,14 +144,14 @@
     "name": "Caye Chapel",
     "nameWoDiacritics": "Caye Chapel",
     "subdivision": "BZ",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 17.7,
-      "lon": 9.333333333333334
+      "lon": -88.03333333333333
     }
   },
   {
@@ -158,7 +159,7 @@
     "location": "COL",
     "name": "Colinto",
     "nameWoDiacritics": "Colinto",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -173,7 +174,7 @@
     "location": "CZH",
     "name": "Corozal",
     "nameWoDiacritics": "Corozal",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -189,14 +190,14 @@
     "name": "Crooked Tree",
     "nameWoDiacritics": "Crooked Tree",
     "subdivision": "BZ",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 17.766666666666666,
-      "lon": 9.383333333333333
+      "lon": -88.53333333333333
     }
   },
   {
@@ -204,7 +205,7 @@
     "location": "DGA",
     "name": "Dangriga",
     "nameWoDiacritics": "Dangriga",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -212,7 +213,7 @@
     "date": 212,
     "coordinates": {
       "lat": 16.966666666666665,
-      "lon": 9.35
+      "lon": -88.21666666666667
     }
   },
   {
@@ -221,7 +222,7 @@
     "name": "Independence Apt",
     "nameWoDiacritics": "Independence Apt",
     "subdivision": "TOL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -229,7 +230,7 @@
     "date": 901,
     "coordinates": {
       "lat": 17.533333333333335,
-      "lon": 9.35
+      "lon": -88.3
     }
   },
   {
@@ -237,7 +238,7 @@
     "location": "MZE",
     "name": "Manatee Apt",
     "nameWoDiacritics": "Manatee Apt",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -245,7 +246,7 @@
     "date": 901,
     "coordinates": {
       "lat": 17.066666666666666,
-      "lon": 9.55
+      "lon": -89.58333333333333
     }
   },
   {
@@ -253,7 +254,7 @@
     "location": "MDB",
     "name": "Melinda",
     "nameWoDiacritics": "Melinda",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -268,7 +269,7 @@
     "location": "ORZ",
     "name": "Orange Walk",
     "nameWoDiacritics": "Orange Walk",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -284,14 +285,14 @@
     "name": "Placencia",
     "nameWoDiacritics": "Placencia",
     "subdivision": "SC",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 16.516666666666666,
-      "lon": 9.366666666666667
+      "lon": -88.36666666666666
     }
   },
   {
@@ -299,7 +300,7 @@
     "location": "PND",
     "name": "Punta Gorda",
     "nameWoDiacritics": "Punta Gorda",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -315,14 +316,14 @@
     "name": "San Ignacio",
     "nameWoDiacritics": "San Ignacio",
     "subdivision": "CY",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 17.15,
-      "lon": 9.5
+      "lon": -89.06666666666666
     }
   },
   {
@@ -330,7 +331,7 @@
     "location": "SPR",
     "name": "San Pedro",
     "nameWoDiacritics": "San Pedro",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -346,14 +347,14 @@
     "name": "Santa Cruz",
     "nameWoDiacritics": "Santa Cruz",
     "subdivision": "CZL",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 18.266666666666666,
-      "lon": 9.366666666666667
+      "lon": -88.45
     }
   },
   {
@@ -362,14 +363,14 @@
     "name": "Santa Elena",
     "nameWoDiacritics": "Santa Elena",
     "subdivision": "CY",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 17.15,
-      "lon": 9.5
+      "lon": -89.05
     }
   },
   {
@@ -378,14 +379,14 @@
     "name": "Sartaneja",
     "nameWoDiacritics": "Sartaneja",
     "subdivision": "CZL",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 18.35,
-      "lon": 9.333333333333334
+      "lon": -88.11666666666666
     }
   },
   {
@@ -393,7 +394,7 @@
     "location": "SVK",
     "name": "Silver Creek",
     "nameWoDiacritics": "Silver Creek",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],

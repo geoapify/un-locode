@@ -1,9 +1,8 @@
-import { FunctionCode, Status, UnlocodeItem, UnlocodeJsonItem } from "./models/unlocode.interface";
+import { UnlocodeItem, UnlocodeJsonItem } from "./models/unlocode.interface";
 import { promises as fs } from 'fs';
 import * as path from 'path';
 
 export class Unlocode {
-
     async query(countryCode: string, locationCode: string): Promise<UnlocodeItem> {
         let jsonFile = await this.loadJsonFile(countryCode);
         let item = this.findItemInJSONFile(jsonFile, locationCode);
@@ -12,11 +11,11 @@ export class Unlocode {
                 fullCode: item.country + item.location,
                 locationName: item.name,
                 subdivision: item.subdivision,
-                status: Status.ACTIVE,
+                status: item.status,
                 functionCodes: item.function,
                 coordinates: {
-                    lat: 40.7128,
-                    lon: -74.0060,
+                    lat: item.coordinates.lat,
+                    lon: item.coordinates.lon,
                 },
             }
         } else {

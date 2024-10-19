@@ -2,6 +2,7 @@
   {
     "country": "GL",
     "name": ".GREENLAND",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "JEG",
     "name": "Aasiaat (Egedesminde)",
     "nameWoDiacritics": "Aasiaat (Egedesminde)",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -29,7 +30,7 @@
     "location": "LLU",
     "name": "Alluitsup Paa",
     "nameWoDiacritics": "Alluitsup Paa",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -37,7 +38,7 @@
     "date": 1207,
     "coordinates": {
       "lat": 60.45,
-      "lon": 4.883333333333333
+      "lon": -45.55
     }
   },
   {
@@ -45,7 +46,7 @@
     "location": "JRK",
     "name": "Arsuk",
     "nameWoDiacritics": "Arsuk",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -60,6 +61,7 @@
     "country": "GL",
     "name": "Christianshaab = Qasigiannguit (Christianshaab)",
     "nameWoDiacritics": "Christianshaab = Qasigiannguit (Christianshaab)",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -71,7 +73,7 @@
     "location": "DAN",
     "name": "Daneborg",
     "nameWoDiacritics": "Daneborg",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -86,7 +88,7 @@
     "location": "DUN",
     "name": "Dundas",
     "nameWoDiacritics": "Dundas",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -101,6 +103,7 @@
     "country": "GL",
     "name": "Fredrikshaab = Paamiut",
     "nameWoDiacritics": "Fredrikshaab = Paamiut",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -112,6 +115,7 @@
     "country": "GL",
     "name": "Godhavn = Qeqertarsuaq",
     "nameWoDiacritics": "Godhavn = Qeqertarsuaq",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -123,6 +127,7 @@
     "country": "GL",
     "name": "Gronnedal = Kangilinguit",
     "nameWoDiacritics": "Gronnedal = Kangilinguit",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -134,6 +139,7 @@
     "country": "GL",
     "name": "Holsteinsborg = Sisimiut",
     "nameWoDiacritics": "Holsteinsborg = Sisimiut",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -145,14 +151,14 @@
     "location": "IKE",
     "name": "Ikerasak",
     "nameWoDiacritics": "Ikerasak",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 70.5,
-      "lon": 5.183333333333334
+      "lon": -51.3
     }
   },
   {
@@ -160,7 +166,7 @@
     "location": "OBY",
     "name": "Illorqortoormiut (Scoresbysund)",
     "nameWoDiacritics": "Illorqortoormiut (Scoresbysund)",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -176,14 +182,14 @@
     "location": "ILL",
     "name": "Illorsuit",
     "nameWoDiacritics": "Illorsuit",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 71,
-      "lon": 5.5
+      "lon": -53
     }
   },
   {
@@ -191,7 +197,7 @@
     "location": "JAV",
     "name": "Ilulissat (Jakobshavn)",
     "nameWoDiacritics": "Ilulissat (Jakobshavn)",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -207,14 +213,14 @@
     "location": "ITQ",
     "name": "Isertoq",
     "nameWoDiacritics": "Isertoq",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 64.56666666666666,
-      "lon": 4.5
+      "lon": -39.016666666666666
     }
   },
   {
@@ -222,7 +228,7 @@
     "location": "IUT",
     "name": "Ivigtut",
     "nameWoDiacritics": "Ivigtut",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -237,6 +243,7 @@
     "country": "GL",
     "name": "Jakobshavn = Ilulissat",
     "nameWoDiacritics": "Jakobshavn = Ilulissat",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -248,6 +255,7 @@
     "country": "GL",
     "name": "Julianehaab = Qaqortoq",
     "nameWoDiacritics": "Julianehaab = Qaqortoq",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -259,7 +267,7 @@
     "location": "QKT",
     "name": "Kangaamiut",
     "nameWoDiacritics": "Kangaamiut",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2,
       3
@@ -267,7 +275,7 @@
     "date": 901,
     "coordinates": {
       "lat": 65.83333333333333,
-      "lon": 5.533333333333333
+      "lon": -53.333333333333336
     }
   },
   {
@@ -275,14 +283,14 @@
     "location": "QPW",
     "name": "Kangaatsiaq",
     "nameWoDiacritics": "Kangaatsiaq",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
     "date": 1207,
     "coordinates": {
       "lat": 68.3,
-      "lon": 5.533333333333333
+      "lon": -53.46666666666667
     }
   },
   {
@@ -290,7 +298,7 @@
     "location": "FHN",
     "name": "Kangerdluarssoruseg (FÊringehavn",
     "nameWoDiacritics": "Kangerdluarssoruseg (Faringehavn",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -305,7 +313,7 @@
     "location": "SFJ",
     "name": "Kangerlussuaq (Sondre Stromfjord",
     "nameWoDiacritics": "Kangerlussuaq (Sondre Stromfjord",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -320,14 +328,14 @@
     "location": "KAN",
     "name": "Kangerlussuaq Havn",
     "nameWoDiacritics": "Kangerlussuaq Havn",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1001,
     "coordinates": {
       "lat": 66.96666666666667,
-      "lon": 5.083333333333333
+      "lon": -50.93333333333333
     }
   },
   {
@@ -335,7 +343,7 @@
     "location": "JGR",
     "name": "Kangilinguit (Gronnedal)",
     "nameWoDiacritics": "Kangilinguit (Gronnedal)",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -351,7 +359,7 @@
     "location": "KUL",
     "name": "Kullorsuaq",
     "nameWoDiacritics": "Kullorsuaq",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       2
@@ -359,7 +367,7 @@
     "date": 901,
     "coordinates": {
       "lat": 74.58333333333333,
-      "lon": 6.183333333333334
+      "lon": -57.2
     }
   },
   {
@@ -367,7 +375,7 @@
     "location": "KUS",
     "name": "Kulusuk",
     "nameWoDiacritics": "Kulusuk",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -382,14 +390,14 @@
     "location": "KUN",
     "name": "Kuummiut",
     "nameWoDiacritics": "Kuummiut",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 201,
     "coordinates": {
       "lat": 65.86666666666666,
-      "lon": 4.166666666666667
+      "lon": -37.016666666666666
     }
   },
   {
@@ -397,14 +405,14 @@
     "location": "MML",
     "name": "Maarmorliik",
     "nameWoDiacritics": "Maarmorliik",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 71.13333333333334,
-      "lon": 5.183333333333334
+      "lon": -51.28333333333333
     }
   },
   {
@@ -412,7 +420,7 @@
     "location": "JSU",
     "name": "Maniitsoq (Sukkertoppen)",
     "nameWoDiacritics": "Maniitsoq (Sukkertoppen)",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -428,7 +436,7 @@
     "location": "MRG",
     "name": "Mesters Vig",
     "nameWoDiacritics": "Mesters Vig",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -443,7 +451,7 @@
     "location": "NAL",
     "name": "Nalunaq Gold Mine",
     "nameWoDiacritics": "Nalunaq Gold Mine",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -451,7 +459,7 @@
     "date": 607,
     "coordinates": {
       "lat": 60.31666666666667,
-      "lon": 4.75
+      "lon": -44.93333333333333
     }
   },
   {
@@ -459,7 +467,7 @@
     "location": "JNN",
     "name": "Nanortalik",
     "nameWoDiacritics": "Nanortalik",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -475,7 +483,7 @@
     "location": "JNS",
     "name": "Narsaq",
     "nameWoDiacritics": "Narsaq",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -490,7 +498,7 @@
     "location": "UAK",
     "name": "Narsarsuaq",
     "nameWoDiacritics": "Narsarsuaq",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -506,7 +514,7 @@
     "location": "CNP",
     "name": "Neerlerit Inaat",
     "nameWoDiacritics": "Neerlerit Inaat",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -521,7 +529,7 @@
     "location": "NUG",
     "name": "Nuugaatsiaq",
     "nameWoDiacritics": "Nuugaatsiaq",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -536,7 +544,7 @@
     "location": "GOH",
     "name": "Nuuk (Godthaab)",
     "nameWoDiacritics": "Nuuk (Godthaab)",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -545,7 +553,7 @@
     "date": 907,
     "coordinates": {
       "lat": 64.18333333333334,
-      "lon": 5.233333333333333
+      "lon": -51.75
     }
   },
   {
@@ -553,7 +561,7 @@
     "location": "JFR",
     "name": "Paamiut (Fredrikshaab)",
     "nameWoDiacritics": "Paamiut (Fredrikshaab)",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0,
       3
@@ -569,7 +577,7 @@
     "location": "THU",
     "name": "Pituffik",
     "nameWoDiacritics": "Pituffik",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -585,7 +593,7 @@
     "location": "NAQ",
     "name": "Qaanaaq",
     "nameWoDiacritics": "Qaanaaq",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -601,7 +609,7 @@
     "location": "JQA",
     "name": "Qaarsut",
     "nameWoDiacritics": "Qaarsut",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -609,7 +617,7 @@
     "date": 1207,
     "coordinates": {
       "lat": 70.73333333333333,
-      "lon": 5.383333333333334
+      "lon": -52.65
     }
   },
   {
@@ -617,7 +625,7 @@
     "location": "JJU",
     "name": "Qaqortoq (Julianehaab)",
     "nameWoDiacritics": "Qaqortoq (Julianehaab)",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -633,7 +641,7 @@
     "location": "JCH",
     "name": "Qasigiannguit (Christianshaab)",
     "nameWoDiacritics": "Qasigiannguit (Christianshaab)",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -649,7 +657,7 @@
     "location": "JGO",
     "name": "Qeqertarsuaq (Godhavn)",
     "nameWoDiacritics": "Qeqertarsuaq (Godhavn)",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -665,7 +673,7 @@
     "location": "QUE",
     "name": "Qullissat",
     "nameWoDiacritics": "Qullissat",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -680,14 +688,14 @@
     "location": "SAA",
     "name": "Saattut",
     "nameWoDiacritics": "Saattut",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 70.8,
-      "lon": 5.216666666666667
+      "lon": -51.61666666666667
     }
   },
   {
@@ -695,6 +703,7 @@
     "country": "GL",
     "name": "Scoresbysund = Illorqortoormiut",
     "nameWoDiacritics": "Scoresbysund = Illorqortoormiut",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -706,7 +715,7 @@
     "location": "SEQ",
     "name": "Seqi Olivine Mine",
     "nameWoDiacritics": "Seqi Olivine Mine",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -714,7 +723,7 @@
     "date": 607,
     "coordinates": {
       "lat": 64.96666666666667,
-      "lon": 5.216666666666667
+      "lon": -51.56666666666667
     }
   },
   {
@@ -722,7 +731,7 @@
     "location": "JHS",
     "name": "Sisimiut (Holsteinsborg)",
     "nameWoDiacritics": "Sisimiut (Holsteinsborg)",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -738,6 +747,7 @@
     "country": "GL",
     "name": "Sondre Stromfjord = Kangerlussua",
     "nameWoDiacritics": "Sondre Stromfjord = Kangerlussua",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -749,6 +759,7 @@
     "country": "GL",
     "name": "Sukkertoppen = Manitsoq",
     "nameWoDiacritics": "Sukkertoppen = Manitsoq",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -760,7 +771,7 @@
     "location": "AGM",
     "name": "Tasiilaq",
     "nameWoDiacritics": "Tasiilaq",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -768,7 +779,7 @@
     "date": 1301,
     "coordinates": {
       "lat": 65.6,
-      "lon": 4.216666666666667
+      "lon": -37.63333333333333
     }
   },
   {
@@ -776,14 +787,14 @@
     "location": "TAS",
     "name": "Tasiusaq",
     "nameWoDiacritics": "Tasiusaq",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 73.4,
-      "lon": 6
+      "lon": -56
     }
   },
   {
@@ -791,6 +802,7 @@
     "country": "GL",
     "name": "Thule = Pituffik",
     "nameWoDiacritics": "Thule = Pituffik",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -802,7 +814,7 @@
     "location": "TNT",
     "name": "Tiniteqilaaq",
     "nameWoDiacritics": "Tiniteqilaaq",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -810,7 +822,7 @@
     "date": 601,
     "coordinates": {
       "lat": 65.9,
-      "lon": 4.233333333333333
+      "lon": -37.81666666666667
     }
   },
   {
@@ -818,14 +830,14 @@
     "location": "TOV",
     "name": "Toqqusaq",
     "nameWoDiacritics": "Toqqusaq",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 212,
     "coordinates": {
       "lat": 64.86666666666666,
-      "lon": 5.35
+      "lon": -52.2
     }
   },
   {
@@ -833,7 +845,7 @@
     "location": "JUV",
     "name": "Upernavik",
     "nameWoDiacritics": "Upernavik",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -848,7 +860,7 @@
     "location": "UMD",
     "name": "Uummannaq",
     "nameWoDiacritics": "Uummannaq",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3

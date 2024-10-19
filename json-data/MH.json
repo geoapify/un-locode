@@ -6,7 +6,7 @@
     "name": ".MARSHALL ISLANDS (THE)",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Ailinglapalap Island",
     "nameWoDiacritics": "Ailinglapalap Island",
     "subdivision": "ALL",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.266666666666667,
-      "lon": 17.4
+      "lon": 168.81666666666666
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Ailuk Island",
     "nameWoDiacritics": "Ailuk Island",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -50,7 +50,7 @@
     "iata": "",
     "coordinates": {
       "lat": 10.183333333333334,
-      "lon": 17.583333333333332
+      "lon": 169.98333333333332
     },
     "remarks": ""
   },
@@ -61,7 +61,7 @@
     "name": "Airok",
     "nameWoDiacritics": "Airok",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -69,7 +69,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.1,
-      "lon": 17.183333333333334
+      "lon": 171.23333333333332
     },
     "remarks": ""
   },
@@ -80,7 +80,7 @@
     "name": "Arno",
     "nameWoDiacritics": "Arno",
     "subdivision": "ARN",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -88,7 +88,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.083333333333333,
-      "lon": 17.233333333333334
+      "lon": 171.7
     },
     "remarks": ""
   },
@@ -99,7 +99,7 @@
     "name": "Aur Island",
     "nameWoDiacritics": "Aur Island",
     "subdivision": "AUR",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -107,7 +107,7 @@
     "iata": "",
     "coordinates": {
       "lat": 8.133333333333333,
-      "lon": 17.183333333333334
+      "lon": 171.16666666666666
     },
     "remarks": ""
   },
@@ -118,7 +118,7 @@
     "name": "Ebadon",
     "nameWoDiacritics": "Ebadon",
     "subdivision": "KWA",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -126,7 +126,7 @@
     "iata": "",
     "coordinates": {
       "lat": 9.333333333333334,
-      "lon": 17.066666666666666
+      "lon": 166.8
     },
     "remarks": ""
   },
@@ -137,7 +137,7 @@
     "name": "Ebeye",
     "nameWoDiacritics": "Ebeye",
     "subdivision": "KWA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -145,7 +145,7 @@
     "iata": "",
     "coordinates": {
       "lat": 8.783333333333333,
-      "lon": 17.233333333333334
+      "lon": 167.73333333333332
     },
     "remarks": ""
   },
@@ -156,7 +156,7 @@
     "name": "Ebon",
     "nameWoDiacritics": "Ebon",
     "subdivision": "EBO",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -164,7 +164,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.633333333333333,
-      "lon": 16.566666666666666
+      "lon": 163.71666666666667
     },
     "remarks": ""
   },
@@ -175,7 +175,7 @@
     "name": "Enewetak Island",
     "nameWoDiacritics": "Enewetak Island",
     "subdivision": "ENI",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -183,7 +183,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.35,
-      "lon": 16.366666666666667
+      "lon": 162.33333333333334
     },
     "remarks": ""
   },
@@ -194,7 +194,7 @@
     "name": "\"Enyu Airfield",
     "nameWoDiacritics": " Bikini\"",
     "subdivision": "\"Enyu Airfield",
-    "status": " Bikini\"",
+    "status": null,
     "function": [],
     "date": "RQ",
     "iata": "---4----",
@@ -211,7 +211,7 @@
     "name": "Ine Island",
     "nameWoDiacritics": "Ine Island",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -219,7 +219,7 @@
     "iata": "",
     "coordinates": {
       "lat": 6.983333333333333,
-      "lon": 17.216666666666665
+      "lon": 171.61666666666667
     },
     "remarks": ""
   },
@@ -230,7 +230,7 @@
     "name": "Jabot",
     "nameWoDiacritics": "Jabot",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -238,7 +238,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7,
-      "lon": 17.416666666666668
+      "lon": 168.98333333333332
     },
     "remarks": ""
   },
@@ -249,7 +249,7 @@
     "name": "Jaluit Island",
     "nameWoDiacritics": "Jaluit Island",
     "subdivision": "JAL",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -257,7 +257,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.933333333333334,
-      "lon": 17.55
+      "lon": 169.63333333333333
     },
     "remarks": ""
   },
@@ -268,7 +268,7 @@
     "name": "Jeh",
     "nameWoDiacritics": "Jeh",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -276,7 +276,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.583333333333333,
-      "lon": 17.416666666666668
+      "lon": 168.91666666666666
     },
     "remarks": ""
   },
@@ -287,7 +287,7 @@
     "name": "Kaben",
     "nameWoDiacritics": "Kaben",
     "subdivision": "MAL",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -295,7 +295,7 @@
     "iata": "",
     "coordinates": {
       "lat": 8.75,
-      "lon": 17.083333333333332
+      "lon": 170.83333333333334
     },
     "remarks": ""
   },
@@ -306,7 +306,7 @@
     "name": "Kili Island",
     "nameWoDiacritics": "Kili Island",
     "subdivision": "KIL",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -314,7 +314,7 @@
     "iata": "",
     "coordinates": {
       "lat": 5.616666666666667,
-      "lon": 17.5
+      "lon": 169.11666666666667
     },
     "remarks": ""
   },
@@ -325,7 +325,7 @@
     "name": "Kwajalein",
     "nameWoDiacritics": "Kwajalein",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -344,7 +344,7 @@
     "name": "Lae Island",
     "nameWoDiacritics": "Lae Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -363,7 +363,7 @@
     "name": "Likiep Island",
     "nameWoDiacritics": "Likiep Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -382,7 +382,7 @@
     "name": "Loen",
     "nameWoDiacritics": "Loen",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -401,7 +401,7 @@
     "name": "Majkin",
     "nameWoDiacritics": "Majkin",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -420,7 +420,7 @@
     "name": "Majuro",
     "nameWoDiacritics": "Majuro",
     "subdivision": "MAJ",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -429,7 +429,7 @@
     "iata": "",
     "coordinates": {
       "lat": 7.1,
-      "lon": 17.2
+      "lon": 171.38333333333333
     },
     "remarks": ""
   },
@@ -440,7 +440,7 @@
     "name": "Maloelap Island",
     "nameWoDiacritics": "Maloelap Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -459,7 +459,7 @@
     "name": "Mejit Island",
     "nameWoDiacritics": "Mejit Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -478,7 +478,7 @@
     "name": "Mili Island",
     "nameWoDiacritics": "Mili Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -497,7 +497,7 @@
     "name": "Namdrik Island",
     "nameWoDiacritics": "Namdrik Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -516,7 +516,7 @@
     "name": "Namu",
     "nameWoDiacritics": "Namu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -535,7 +535,7 @@
     "name": "Rongelap Island",
     "nameWoDiacritics": "Rongelap Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -554,7 +554,7 @@
     "name": "Tabal",
     "nameWoDiacritics": "Tabal",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -573,7 +573,7 @@
     "name": "Taroa",
     "nameWoDiacritics": "Taroa",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -592,7 +592,7 @@
     "name": "Tinak Island",
     "nameWoDiacritics": "Tinak Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -611,7 +611,7 @@
     "name": "Ujae Island",
     "nameWoDiacritics": "Ujae Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -630,7 +630,7 @@
     "name": "Utirik Island",
     "nameWoDiacritics": "Utirik Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -649,7 +649,7 @@
     "name": "Woja",
     "nameWoDiacritics": "Woja",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -668,7 +668,7 @@
     "name": "Wotho Island",
     "nameWoDiacritics": "Wotho Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -687,7 +687,7 @@
     "name": "Wotje Island",
     "nameWoDiacritics": "Wotje Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],

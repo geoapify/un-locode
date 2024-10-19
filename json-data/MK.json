@@ -6,7 +6,7 @@
     "name": ".NORTH MACEDONIA",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Berovo",
     "nameWoDiacritics": "Berovo",
     "subdivision": "201",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       7
@@ -32,7 +32,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.7,
-      "lon": 2.4166666666666665
+      "lon": 22.85
     },
     "remarks": ""
   },
@@ -43,7 +43,7 @@
     "name": "Bitola",
     "nameWoDiacritics": "Bitola",
     "subdivision": "501",
-    "status": "AC",
+    "status": 1,
     "function": [
       1,
       2,
@@ -53,7 +53,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.016666666666666,
-      "lon": 2.183333333333333
+      "lon": 21.316666666666666
     },
     "remarks": ""
   },
@@ -64,7 +64,7 @@
     "name": "Blace",
     "nameWoDiacritics": "Blace",
     "subdivision": "",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       7
@@ -84,7 +84,7 @@
     "name": "Blato",
     "nameWoDiacritics": "Blato",
     "subdivision": "",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       7
@@ -104,7 +104,7 @@
     "name": "Bogdanci",
     "nameWoDiacritics": "Bogdanci",
     "subdivision": "401",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -112,7 +112,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.2,
-      "lon": 2.3833333333333333
+      "lon": 22.566666666666666
     },
     "remarks": ""
   },
@@ -123,7 +123,7 @@
     "name": "Bogorodica",
     "nameWoDiacritics": "Bogorodica",
     "subdivision": "",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       7
@@ -143,7 +143,7 @@
     "name": "Bogovinje",
     "nameWoDiacritics": "Bogovinje",
     "subdivision": "609",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -151,7 +151,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.916666666666664,
-      "lon": 2.0833333333333335
+      "lon": 20.9
     },
     "remarks": ""
   },
@@ -162,7 +162,7 @@
     "name": "Debar",
     "nameWoDiacritics": "Debar",
     "subdivision": "303",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -170,7 +170,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.53333333333333,
-      "lon": 2.05
+      "lon": 20.516666666666666
     },
     "remarks": ""
   },
@@ -181,7 +181,7 @@
     "name": "Delcevo",
     "nameWoDiacritics": "Delcevo",
     "subdivision": "",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       7
@@ -201,7 +201,7 @@
     "name": "Demir Hisar",
     "nameWoDiacritics": "Demir Hisar",
     "subdivision": "502",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -209,7 +209,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.21666666666667,
-      "lon": 2.183333333333333
+      "lon": 21.2
     },
     "remarks": ""
   },
@@ -220,7 +220,7 @@
     "name": "Demir Kapija",
     "nameWoDiacritics": "Demir Kapija",
     "subdivision": "103",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -229,7 +229,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.4,
-      "lon": 2.35
+      "lon": 22.233333333333334
     },
     "remarks": ""
   },
@@ -240,7 +240,7 @@
     "name": "Deve Bair",
     "nameWoDiacritics": "Deve Bair",
     "subdivision": "",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       7
@@ -260,7 +260,7 @@
     "name": "Dracevo",
     "nameWoDiacritics": "Dracevo",
     "subdivision": "85",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -268,7 +268,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.93333333333333,
-      "lon": 2.216666666666667
+      "lon": 21.516666666666666
     },
     "remarks": ""
   },
@@ -279,7 +279,7 @@
     "name": "Gevgelija",
     "nameWoDiacritics": "Gevgelija",
     "subdivision": "405",
-    "status": "AC",
+    "status": 1,
     "function": [
       1,
       2
@@ -288,7 +288,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.13333333333333,
-      "lon": 2.3833333333333333
+      "lon": 22.5
     },
     "remarks": ""
   },
@@ -299,7 +299,7 @@
     "name": "Gostivar",
     "nameWoDiacritics": "Gostivar",
     "subdivision": "604",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -318,7 +318,7 @@
     "name": "Gradsko",
     "nameWoDiacritics": "Gradsko",
     "subdivision": "102",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -326,7 +326,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.56666666666667,
-      "lon": 2.25
+      "lon": 21.933333333333334
     },
     "remarks": ""
   },
@@ -337,7 +337,7 @@
     "name": "Ilinden",
     "nameWoDiacritics": "Ilinden",
     "subdivision": "85",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -345,7 +345,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.983333333333334,
-      "lon": 2.216666666666667
+      "lon": 21.566666666666666
     },
     "remarks": ""
   },
@@ -356,7 +356,7 @@
     "name": "Jacince",
     "nameWoDiacritics": "Jacince",
     "subdivision": "",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       7
@@ -376,7 +376,7 @@
     "name": "Kafasan",
     "nameWoDiacritics": "Kafasan",
     "subdivision": "",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       7
@@ -396,7 +396,7 @@
     "name": "Karbinci",
     "nameWoDiacritics": "Karbinci",
     "subdivision": "205",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -404,7 +404,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.8,
-      "lon": 2.35
+      "lon": 22.283333333333335
     },
     "remarks": ""
   },
@@ -415,7 +415,7 @@
     "name": "Kavadarci",
     "nameWoDiacritics": "Kavadarci",
     "subdivision": "104",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       7
@@ -424,7 +424,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.43333333333333,
-      "lon": 2.3333333333333335
+      "lon": 22
     },
     "remarks": ""
   },
@@ -435,7 +435,7 @@
     "name": "Kicevo",
     "nameWoDiacritics": "Kicevo",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -454,7 +454,7 @@
     "name": "Kocani",
     "nameWoDiacritics": "Kocani",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -462,7 +462,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.916666666666664,
-      "lon": 2.3666666666666667
+      "lon": 22.4
     },
     "remarks": ""
   },
@@ -473,7 +473,7 @@
     "name": "Konopiste",
     "nameWoDiacritics": "Konopiste",
     "subdivision": "104",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -481,7 +481,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.233333333333334,
-      "lon": 2.3333333333333335
+      "lon": 22.066666666666666
     },
     "remarks": ""
   },
@@ -492,7 +492,7 @@
     "name": "Kosovo",
     "nameWoDiacritics": "Kosovo",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -500,7 +500,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.81666666666667,
-      "lon": 2.1666666666666665
+      "lon": 21.116666666666667
     },
     "remarks": ""
   },
@@ -511,7 +511,7 @@
     "name": "Kriva Palanka",
     "nameWoDiacritics": "Kriva Palanka",
     "subdivision": "702",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -519,7 +519,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.2,
-      "lon": 2.35
+      "lon": 22.316666666666666
     },
     "remarks": ""
   },
@@ -530,7 +530,7 @@
     "name": "Kumanovo",
     "nameWoDiacritics": "Kumanovo",
     "subdivision": "703",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -538,7 +538,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.11666666666667,
-      "lon": 2.2333333333333334
+      "lon": 21.7
     },
     "remarks": ""
   },
@@ -549,7 +549,7 @@
     "name": "Lozovo",
     "nameWoDiacritics": "Lozovo",
     "subdivision": "105",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -558,7 +558,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.75,
-      "lon": 2.25
+      "lon": 21.933333333333334
     },
     "remarks": ""
   },
@@ -569,7 +569,7 @@
     "name": "Makedonski Brod",
     "nameWoDiacritics": "Makedonski Brod",
     "subdivision": "308",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -577,7 +577,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.5,
-      "lon": 2.183333333333333
+      "lon": 21.2
     },
     "remarks": ""
   },
@@ -588,7 +588,7 @@
     "name": "Medzitlija",
     "nameWoDiacritics": "Medzitlija",
     "subdivision": "",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       7
@@ -597,7 +597,7 @@
     "iata": "",
     "coordinates": {
       "lat": 40.93333333333333,
-      "lon": 2.2
+      "lon": 21.433333333333334
     },
     "remarks": ""
   },
@@ -608,7 +608,7 @@
     "name": "Miravci",
     "nameWoDiacritics": "Miravci",
     "subdivision": "405",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -616,7 +616,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.3,
-      "lon": 2.3666666666666667
+      "lon": 22.433333333333334
     },
     "remarks": ""
   },
@@ -627,7 +627,7 @@
     "name": "Negotino",
     "nameWoDiacritics": "Negotino",
     "subdivision": "106",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -635,7 +635,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.483333333333334,
-      "lon": 2.3333333333333335
+      "lon": 22.083333333333332
     },
     "remarks": ""
   },
@@ -646,7 +646,7 @@
     "name": "Novi Dojran",
     "nameWoDiacritics": "Novi Dojran",
     "subdivision": "406",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -654,7 +654,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.21666666666667,
-      "lon": 2.4
+      "lon": 22.7
     },
     "remarks": ""
   },
@@ -665,7 +665,7 @@
     "name": "Novo Selo",
     "nameWoDiacritics": "Novo Selo",
     "subdivision": "408",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       7
@@ -674,7 +674,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.416666666666664,
-      "lon": 2.4166666666666665
+      "lon": 22.9
     },
     "remarks": ""
   },
@@ -685,7 +685,7 @@
     "name": "Oblesevo",
     "nameWoDiacritics": "Oblesevo",
     "subdivision": "206",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -693,7 +693,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.88333333333333,
-      "lon": 2.3666666666666667
+      "lon": 22.333333333333332
     },
     "remarks": ""
   },
@@ -704,7 +704,7 @@
     "name": "Ohrid",
     "nameWoDiacritics": "Ohrid",
     "subdivision": "310",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       3,
@@ -714,7 +714,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.11666666666667,
-      "lon": 2.066666666666667
+      "lon": 20.8
     },
     "remarks": ""
   },
@@ -725,7 +725,7 @@
     "name": "Pelince",
     "nameWoDiacritics": "Pelince",
     "subdivision": "",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       7
@@ -745,7 +745,7 @@
     "name": "Petrovec",
     "nameWoDiacritics": "Petrovec",
     "subdivision": "810",
-    "status": "AC",
+    "status": 1,
     "function": [
       3,
       7
@@ -754,7 +754,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.93333333333333,
-      "lon": 2.216666666666667
+      "lon": 21.6
     },
     "remarks": ""
   },
@@ -765,7 +765,7 @@
     "name": "Prilep",
     "nameWoDiacritics": "Prilep",
     "subdivision": "508",
-    "status": "AC",
+    "status": 1,
     "function": [
       1,
       2
@@ -774,7 +774,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.333333333333336,
-      "lon": 2.216666666666667
+      "lon": 21.55
     },
     "remarks": ""
   },
@@ -785,7 +785,7 @@
     "name": "Probistip",
     "nameWoDiacritics": "Probistip",
     "subdivision": "209",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -793,7 +793,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42,
-      "lon": 2.35
+      "lon": 22.183333333333334
     },
     "remarks": ""
   },
@@ -804,7 +804,7 @@
     "name": "Radovis",
     "nameWoDiacritics": "Radovis",
     "subdivision": "409",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       5
@@ -813,7 +813,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.65,
-      "lon": 2.3833333333333333
+      "lon": 22.5
     },
     "remarks": ""
   },
@@ -824,7 +824,7 @@
     "name": "Resen",
     "nameWoDiacritics": "Resen",
     "subdivision": "",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -843,7 +843,7 @@
     "name": "Skopje",
     "nameWoDiacritics": "Skopje",
     "subdivision": "",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       3,
@@ -864,7 +864,7 @@
     "name": "Sopot",
     "nameWoDiacritics": "Sopot",
     "subdivision": "101",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       7
@@ -873,7 +873,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.78333333333333,
-      "lon": 2.2333333333333334
+      "lon": 21.716666666666665
     },
     "remarks": ""
   },
@@ -884,7 +884,7 @@
     "name": "Star Dojran",
     "nameWoDiacritics": "Star Dojran",
     "subdivision": "406",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       7
@@ -893,7 +893,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.18333333333333,
-      "lon": 2.4
+      "lon": 22.716666666666665
     },
     "remarks": ""
   },
@@ -904,7 +904,7 @@
     "name": "Stenje",
     "nameWoDiacritics": "Stenje",
     "subdivision": "509",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       7
@@ -913,7 +913,7 @@
     "iata": "",
     "coordinates": {
       "lat": 40.93333333333333,
-      "lon": 2.0833333333333335
+      "lon": 20.9
     },
     "remarks": ""
   },
@@ -924,7 +924,7 @@
     "name": "Stip",
     "nameWoDiacritics": "Stip",
     "subdivision": "",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -943,7 +943,7 @@
     "name": "Stojakovo",
     "nameWoDiacritics": "Stojakovo",
     "subdivision": "401",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -951,7 +951,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.15,
-      "lon": 2.3833333333333333
+      "lon": 22.566666666666666
     },
     "remarks": ""
   },
@@ -962,7 +962,7 @@
     "name": "Struga",
     "nameWoDiacritics": "Struga",
     "subdivision": "108",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -981,7 +981,7 @@
     "name": "Strumica",
     "nameWoDiacritics": "Strumica",
     "subdivision": "410",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -989,7 +989,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.43333333333333,
-      "lon": 2.3833333333333333
+      "lon": 22.633333333333333
     },
     "remarks": ""
   },
@@ -1000,7 +1000,7 @@
     "name": "Sveti Naum",
     "nameWoDiacritics": "Sveti Naum",
     "subdivision": "310",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       7
@@ -1009,7 +1009,7 @@
     "iata": "",
     "coordinates": {
       "lat": 40.9,
-      "lon": 2.066666666666667
+      "lon": 20.8
     },
     "remarks": ""
   },
@@ -1020,7 +1020,7 @@
     "name": "Sveti Nikole",
     "nameWoDiacritics": "Sveti Nikole",
     "subdivision": "108",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -1028,7 +1028,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.85,
-      "lon": 2.25
+      "lon": 21.933333333333334
     },
     "remarks": ""
   },
@@ -1039,7 +1039,7 @@
     "name": "Tabanovce",
     "nameWoDiacritics": "Tabanovce",
     "subdivision": "",
-    "status": "AC",
+    "status": 1,
     "function": [
       2,
       7
@@ -1059,7 +1059,7 @@
     "name": "Tetovo",
     "nameWoDiacritics": "Tetovo",
     "subdivision": "609",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -1067,7 +1067,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42,
-      "lon": 2.0833333333333335
+      "lon": 20.966666666666665
     },
     "remarks": ""
   },
@@ -1078,7 +1078,7 @@
     "name": "Titov Veles",
     "nameWoDiacritics": "Titov Veles",
     "subdivision": "101",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1086,7 +1086,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.7,
-      "lon": 2.2333333333333334
+      "lon": 21.766666666666666
     },
     "remarks": ""
   },
@@ -1097,7 +1097,7 @@
     "name": "Trubarevo",
     "nameWoDiacritics": "Trubarevo",
     "subdivision": "17",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],
@@ -1105,7 +1105,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.96666666666667,
-      "lon": 2.216666666666667
+      "lon": 21.516666666666666
     },
     "remarks": ""
   },
@@ -1116,7 +1116,7 @@
     "name": "Valandovo",
     "nameWoDiacritics": "Valandovo",
     "subdivision": "403",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1124,7 +1124,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.31666666666667,
-      "lon": 2.3833333333333333
+      "lon": 22.55
     },
     "remarks": ""
   },
@@ -1135,7 +1135,7 @@
     "name": "Veles",
     "nameWoDiacritics": "Veles",
     "subdivision": "101",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1144,7 +1144,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.7,
-      "lon": 2.2333333333333334
+      "lon": 21.766666666666666
     },
     "remarks": ""
   },
@@ -1155,7 +1155,7 @@
     "name": "Vinica",
     "nameWoDiacritics": "Vinica",
     "subdivision": "202",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1163,7 +1163,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.86666666666667,
-      "lon": 2.3666666666666667
+      "lon": 22.483333333333334
     },
     "remarks": ""
   },
@@ -1174,7 +1174,7 @@
     "name": "Volkovo",
     "nameWoDiacritics": "Volkovo",
     "subdivision": "",
-    "status": "AC",
+    "status": 1,
     "function": [
       2
     ],

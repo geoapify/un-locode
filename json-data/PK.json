@@ -6,7 +6,7 @@
     "name": ".PAKISTAN",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Abbottabad",
     "nameWoDiacritics": "Abbottabad",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -43,7 +43,7 @@
     "name": "Ahmadpur",
     "nameWoDiacritics": "Ahmadpur",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -62,7 +62,7 @@
     "name": "Arifwala",
     "nameWoDiacritics": "Arifwala",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -82,7 +82,7 @@
     "name": "Attock",
     "nameWoDiacritics": "Attock",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -102,7 +102,7 @@
     "name": "Attock City",
     "nameWoDiacritics": "Attock City",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -121,7 +121,7 @@
     "name": "Badin",
     "nameWoDiacritics": "Badin",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -142,7 +142,7 @@
     "name": "Bagh/AJK",
     "nameWoDiacritics": "Bagh/AJK",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -161,7 +161,7 @@
     "name": "Bahawalnagar",
     "nameWoDiacritics": "Bahawalnagar",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -181,7 +181,7 @@
     "name": "Bahawalpur",
     "nameWoDiacritics": "Bahawalpur",
     "subdivision": "PB",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -202,7 +202,7 @@
     "name": "Bannu",
     "nameWoDiacritics": "Bannu",
     "subdivision": "KP",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -223,7 +223,7 @@
     "name": "Bhai Pheru",
     "nameWoDiacritics": "Bhai Pheru",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -242,7 +242,7 @@
     "name": "Bhakkar",
     "nameWoDiacritics": "Bhakkar",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -262,7 +262,7 @@
     "name": "Bhalwal",
     "nameWoDiacritics": "Bhalwal",
     "subdivision": "PB",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -270,7 +270,7 @@
     "iata": "",
     "coordinates": {
       "lat": 32.266666666666666,
-      "lon": 7.416666666666667
+      "lon": 72.86666666666666
     },
     "remarks": ""
   },
@@ -281,7 +281,7 @@
     "name": "Bhimber",
     "nameWoDiacritics": "Bhimber",
     "subdivision": "JK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -289,7 +289,7 @@
     "iata": "",
     "coordinates": {
       "lat": 32.96666666666667,
-      "lon": 7.666666666666667
+      "lon": 74.06666666666666
     },
     "remarks": ""
   },
@@ -300,7 +300,7 @@
     "name": "Bhurban",
     "nameWoDiacritics": "Bhurban",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -320,7 +320,7 @@
     "name": "Burewala",
     "nameWoDiacritics": "Burewala",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -339,7 +339,7 @@
     "name": "Campbellpore",
     "nameWoDiacritics": "Campbellpore",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -358,7 +358,7 @@
     "name": "Chakwal",
     "nameWoDiacritics": "Chakwal",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -377,7 +377,7 @@
     "name": "Chaman",
     "nameWoDiacritics": "Chaman",
     "subdivision": "BA",
-    "status": "AS",
+    "status": 6,
     "function": [
       1,
       2,
@@ -387,7 +387,7 @@
     "iata": "",
     "coordinates": {
       "lat": 30.916666666666668,
-      "lon": 7.033333333333333
+      "lon": 66.43333333333334
     },
     "remarks": ""
   },
@@ -398,7 +398,7 @@
     "name": "Changa Manga",
     "nameWoDiacritics": "Changa Manga",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -417,7 +417,7 @@
     "name": "Charsadda",
     "nameWoDiacritics": "Charsadda",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -437,7 +437,7 @@
     "name": "Chichawatni",
     "nameWoDiacritics": "Chichawatni",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -457,7 +457,7 @@
     "name": "Chichoki Mallian",
     "nameWoDiacritics": "Chichoki Mallian",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -477,7 +477,7 @@
     "name": "Chilas",
     "nameWoDiacritics": "Chilas",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -497,7 +497,7 @@
     "name": "Chishtian",
     "nameWoDiacritics": "Chishtian",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -517,7 +517,7 @@
     "name": "Chitral",
     "nameWoDiacritics": "Chitral",
     "subdivision": "KP",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -537,7 +537,7 @@
     "name": "Dadu",
     "nameWoDiacritics": "Dadu",
     "subdivision": "SD",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -558,7 +558,7 @@
     "name": "Daharki",
     "nameWoDiacritics": "Daharki",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -578,7 +578,7 @@
     "name": "Dalbandin",
     "nameWoDiacritics": "Dalbandin",
     "subdivision": "BA",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -599,7 +599,7 @@
     "name": "Daska",
     "nameWoDiacritics": "Daska",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -618,7 +618,7 @@
     "name": "Dera Ghazi Khan",
     "nameWoDiacritics": "Dera Ghazi Khan",
     "subdivision": "PB",
-    "status": "AS",
+    "status": 6,
     "function": [
       1,
       2
@@ -638,7 +638,7 @@
     "name": "Dera Ismail Khan",
     "nameWoDiacritics": "Dera Ismail Khan",
     "subdivision": "KP",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -658,7 +658,7 @@
     "name": "Dir",
     "nameWoDiacritics": "Dir",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -677,7 +677,7 @@
     "name": "Faisalabad",
     "nameWoDiacritics": "Faisalabad",
     "subdivision": "PB",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -699,7 +699,7 @@
     "name": "Faizabad",
     "nameWoDiacritics": "Faizabad",
     "subdivision": "KP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -707,7 +707,7 @@
     "iata": "",
     "coordinates": {
       "lat": 34.38333333333333,
-      "lon": 7.233333333333333
+      "lon": 71.75
     },
     "remarks": ""
   },
@@ -718,7 +718,7 @@
     "name": "Gadoon",
     "nameWoDiacritics": "Gadoon",
     "subdivision": "IS",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -737,7 +737,7 @@
     "name": "Garhi Habibullah Khan",
     "nameWoDiacritics": "Garhi Habibullah Khan",
     "subdivision": "KP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -746,7 +746,7 @@
     "iata": "",
     "coordinates": {
       "lat": 34.4,
-      "lon": 7.533333333333333
+      "lon": 73.38333333333334
     },
     "remarks": ""
   },
@@ -757,7 +757,7 @@
     "name": "Ghakhar",
     "nameWoDiacritics": "Ghakhar",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -776,7 +776,7 @@
     "name": "Ghotki",
     "nameWoDiacritics": "Ghotki",
     "subdivision": "SD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -784,7 +784,7 @@
     "iata": "",
     "coordinates": {
       "lat": 28.016666666666666,
-      "lon": 7.516666666666667
+      "lon": 69.31666666666666
     },
     "remarks": ""
   },
@@ -795,7 +795,7 @@
     "name": "Gilgit",
     "nameWoDiacritics": "Gilgit",
     "subdivision": "GB",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -815,7 +815,7 @@
     "name": "Gujar Khan",
     "nameWoDiacritics": "Gujar Khan",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -835,7 +835,7 @@
     "name": "Gujranwala",
     "nameWoDiacritics": "Gujranwala",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -855,7 +855,7 @@
     "name": "Gujrat",
     "nameWoDiacritics": "Gujrat",
     "subdivision": "PB",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -876,7 +876,7 @@
     "name": "Gwadar",
     "nameWoDiacritics": "Gwadar",
     "subdivision": "BA",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -897,7 +897,7 @@
     "name": "Hafizabad",
     "nameWoDiacritics": "Hafizabad",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -916,7 +916,7 @@
     "name": "Haripur",
     "nameWoDiacritics": "Haripur",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -935,7 +935,7 @@
     "name": "Haripur Hazara",
     "nameWoDiacritics": "Haripur Hazara",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -954,7 +954,7 @@
     "name": "Hasilpur",
     "nameWoDiacritics": "Hasilpur",
     "subdivision": "PB",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -962,7 +962,7 @@
     "iata": "",
     "coordinates": {
       "lat": 29.75,
-      "lon": 7.216666666666667
+      "lon": 71.63333333333334
     },
     "remarks": ""
   },
@@ -973,7 +973,7 @@
     "name": "Hassanabdal",
     "nameWoDiacritics": "Hassanabdal",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -992,7 +992,7 @@
     "name": "Havelian",
     "nameWoDiacritics": "Havelian",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -1012,7 +1012,7 @@
     "name": "Hayatabad",
     "nameWoDiacritics": "Hayatabad",
     "subdivision": "KP",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1020,7 +1020,7 @@
     "iata": "",
     "coordinates": {
       "lat": 34.266666666666666,
-      "lon": 7.233333333333333
+      "lon": 71.68333333333334
     },
     "remarks": ""
   },
@@ -1031,7 +1031,7 @@
     "name": "Hub",
     "nameWoDiacritics": "Hub",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -1050,7 +1050,7 @@
     "name": "Hyderabad",
     "nameWoDiacritics": "Hyderabad",
     "subdivision": "SD",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -1072,7 +1072,7 @@
     "name": "Islamabad",
     "nameWoDiacritics": "Islamabad",
     "subdivision": "IS",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3,
@@ -1093,7 +1093,7 @@
     "name": "Jacobabad",
     "nameWoDiacritics": "Jacobabad",
     "subdivision": "SD",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -1114,7 +1114,7 @@
     "name": "Jalalpur",
     "nameWoDiacritics": "Jalalpur",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -1133,7 +1133,7 @@
     "name": "Jam Shoro",
     "nameWoDiacritics": "Jam Shoro",
     "subdivision": "SD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1141,7 +1141,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.433333333333334,
-      "lon": 7.366666666666667
+      "lon": 68.33333333333333
     },
     "remarks": ""
   },
@@ -1152,7 +1152,7 @@
     "name": "Jamrud",
     "nameWoDiacritics": "Jamrud",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -1171,7 +1171,7 @@
     "name": "Jaranwala",
     "nameWoDiacritics": "Jaranwala",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -1191,7 +1191,7 @@
     "name": "Jhal Magsi",
     "nameWoDiacritics": "Jhal Magsi",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -1210,7 +1210,7 @@
     "name": "Jhang",
     "nameWoDiacritics": "Jhang",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -1229,7 +1229,7 @@
     "name": "Jhang City",
     "nameWoDiacritics": "Jhang City",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -1248,7 +1248,7 @@
     "name": "Jhelum",
     "nameWoDiacritics": "Jhelum",
     "subdivision": "PB",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -1257,7 +1257,7 @@
     "iata": "",
     "coordinates": {
       "lat": 32.93333333333333,
-      "lon": 7.566666666666666
+      "lon": 73.73333333333333
     },
     "remarks": ""
   },
@@ -1268,7 +1268,7 @@
     "name": "Jiwani",
     "nameWoDiacritics": "Jiwani",
     "subdivision": "BA",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -1289,7 +1289,7 @@
     "name": "Jungshahi",
     "nameWoDiacritics": "Jungshahi",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -1308,7 +1308,7 @@
     "name": "Kabirwala",
     "nameWoDiacritics": "Kabirwala",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -1327,7 +1327,7 @@
     "name": "Kadanwari",
     "nameWoDiacritics": "Kadanwari",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1346,7 +1346,7 @@
     "name": "Kalat",
     "nameWoDiacritics": "Kalat",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -1366,7 +1366,7 @@
     "name": "Kamalia",
     "nameWoDiacritics": "Kamalia",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -1385,7 +1385,7 @@
     "name": "Kambar",
     "nameWoDiacritics": "Kambar",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -1404,7 +1404,7 @@
     "name": "Karachi",
     "nameWoDiacritics": "Karachi",
     "subdivision": "SD",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       1,
@@ -1427,7 +1427,7 @@
     "name": "Karachi City",
     "nameWoDiacritics": "Karachi City",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -1446,7 +1446,7 @@
     "name": "Karachi Container Terminal",
     "nameWoDiacritics": "Karachi Container Terminal",
     "subdivision": "SD",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -1465,7 +1465,7 @@
     "name": "Karachi Freight Terminal",
     "nameWoDiacritics": "Karachi Freight Terminal",
     "subdivision": "SD",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -1473,7 +1473,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.866666666666667,
-      "lon": 7.166666666666667
+      "lon": 67.03333333333333
     },
     "remarks": ""
   },
@@ -1484,7 +1484,7 @@
     "name": "Kashmor",
     "nameWoDiacritics": "Kashmor",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -1504,7 +1504,7 @@
     "name": "Kasur",
     "nameWoDiacritics": "Kasur",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -1523,7 +1523,7 @@
     "name": "Keti Bandar",
     "nameWoDiacritics": "Keti Bandar",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -1531,7 +1531,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.133333333333333,
-      "lon": 7.2
+      "lon": 67.43333333333334
     },
     "remarks": ""
   },
@@ -1542,7 +1542,7 @@
     "name": "Keti Bunder",
     "nameWoDiacritics": "Keti Bunder",
     "subdivision": "SD",
-    "status": "AS",
+    "status": 6,
     "function": [
       0,
       2
@@ -1562,7 +1562,7 @@
     "name": "Khairpur",
     "nameWoDiacritics": "Khairpur",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -1582,7 +1582,7 @@
     "name": "Khanewal",
     "nameWoDiacritics": "Khanewal",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -1602,7 +1602,7 @@
     "name": "Khanpur",
     "nameWoDiacritics": "Khanpur",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -1622,7 +1622,7 @@
     "name": "Kharian",
     "nameWoDiacritics": "Kharian",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1641,7 +1641,7 @@
     "name": "Khewra",
     "nameWoDiacritics": "Khewra",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -1660,7 +1660,7 @@
     "name": "Khipro",
     "nameWoDiacritics": "Khipro",
     "subdivision": "SD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1668,7 +1668,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.833333333333332,
-      "lon": 7.533333333333333
+      "lon": 69.36666666666666
     },
     "remarks": ""
   },
@@ -1679,7 +1679,7 @@
     "name": "Khokhropar",
     "nameWoDiacritics": "Khokhropar",
     "subdivision": "SD",
-    "status": "AS",
+    "status": 6,
     "function": [
       1,
       2
@@ -1688,7 +1688,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.7,
-      "lon": 7.016666666666667
+      "lon": 70.18333333333334
     },
     "remarks": ""
   },
@@ -1699,7 +1699,7 @@
     "name": "Khushab",
     "nameWoDiacritics": "Khushab",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -1719,7 +1719,7 @@
     "name": "Khuzdar",
     "nameWoDiacritics": "Khuzdar",
     "subdivision": "BA",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -1739,7 +1739,7 @@
     "name": "Khwazakhela",
     "nameWoDiacritics": "Khwazakhela",
     "subdivision": "KP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1747,7 +1747,7 @@
     "iata": "",
     "coordinates": {
       "lat": 34.93333333333333,
-      "lon": 7.366666666666666
+      "lon": 72.46666666666667
     },
     "remarks": ""
   },
@@ -1758,7 +1758,7 @@
     "name": "Kiamari",
     "nameWoDiacritics": "Kiamari",
     "subdivision": "SD",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -1766,7 +1766,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.816666666666666,
-      "lon": 7.083333333333333
+      "lon": 66.96666666666667
     },
     "remarks": ""
   },
@@ -1777,7 +1777,7 @@
     "name": "Kohat",
     "nameWoDiacritics": "Kohat",
     "subdivision": "KP",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -1798,7 +1798,7 @@
     "name": "Kohat Cantt",
     "nameWoDiacritics": "Kohat Cantt",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -1817,7 +1817,7 @@
     "name": "Kohlu",
     "nameWoDiacritics": "Kohlu",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -1836,7 +1836,7 @@
     "name": "Kot Addu",
     "nameWoDiacritics": "Kot Addu",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -1856,7 +1856,7 @@
     "name": "Kot Lakhpat",
     "nameWoDiacritics": "Kot Lakhpat",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -1875,7 +1875,7 @@
     "name": "Kotli/AJK",
     "nameWoDiacritics": "Kotli/AJK",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -1894,7 +1894,7 @@
     "name": "Kotri",
     "nameWoDiacritics": "Kotri",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -1914,7 +1914,7 @@
     "name": "Lahore",
     "nameWoDiacritics": "Lahore",
     "subdivision": "PB",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -1937,7 +1937,7 @@
     "name": "Lahore Cantt",
     "nameWoDiacritics": "Lahore Cantt",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -1956,7 +1956,7 @@
     "name": "Lakki Marwat",
     "nameWoDiacritics": "Lakki Marwat",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -1975,7 +1975,7 @@
     "name": "Lala Mosa",
     "nameWoDiacritics": "Lala Mosa",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -1995,7 +1995,7 @@
     "name": "Landhi",
     "nameWoDiacritics": "Landhi",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -2015,7 +2015,7 @@
     "name": "Larkana",
     "nameWoDiacritics": "Larkana",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -2035,7 +2035,7 @@
     "name": "Lasbela",
     "nameWoDiacritics": "Lasbela",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -2054,7 +2054,7 @@
     "name": "Lodhran",
     "nameWoDiacritics": "Lodhran",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -2074,7 +2074,7 @@
     "name": "Lora Lai",
     "nameWoDiacritics": "Lora Lai",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2093,7 +2093,7 @@
     "name": "Malakand",
     "nameWoDiacritics": "Malakand",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -2112,7 +2112,7 @@
     "name": "Mandi Bahauddin",
     "nameWoDiacritics": "Mandi Bahauddin",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -2131,7 +2131,7 @@
     "name": "Mandi Burewala",
     "nameWoDiacritics": "Mandi Burewala",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -2150,7 +2150,7 @@
     "name": "Mangla",
     "nameWoDiacritics": "Mangla",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2158,7 +2158,7 @@
     "iata": "",
     "coordinates": {
       "lat": 31.9,
-      "lon": 7.366666666666666
+      "lon": 72.38333333333334
     },
     "remarks": ""
   },
@@ -2169,7 +2169,7 @@
     "name": "Mansehra",
     "nameWoDiacritics": "Mansehra",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -2189,7 +2189,7 @@
     "name": "Mardan",
     "nameWoDiacritics": "Mardan",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -2209,7 +2209,7 @@
     "name": "Matli",
     "nameWoDiacritics": "Matli",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -2228,7 +2228,7 @@
     "name": "Mehrabpur",
     "nameWoDiacritics": "Mehrabpur",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -2247,7 +2247,7 @@
     "name": "Mian Channu",
     "nameWoDiacritics": "Mian Channu",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -2267,7 +2267,7 @@
     "name": "Mianwali",
     "nameWoDiacritics": "Mianwali",
     "subdivision": "PB",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -2288,7 +2288,7 @@
     "name": "Mingaora",
     "nameWoDiacritics": "Mingaora",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -2307,7 +2307,7 @@
     "name": "Mirpur Khas (= Sindhri)",
     "nameWoDiacritics": "Mirpur Khas (= Sindhri)",
     "subdivision": "SD",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -2328,7 +2328,7 @@
     "name": "Mirpur Mathelo",
     "nameWoDiacritics": "Mirpur Mathelo",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -2348,7 +2348,7 @@
     "name": "Mirpur/AJK",
     "nameWoDiacritics": "Mirpur/AJK",
     "subdivision": "JK",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -2356,7 +2356,7 @@
     "iata": "",
     "coordinates": {
       "lat": 33.13333333333333,
-      "lon": 7.566666666666666
+      "lon": 73.75
     },
     "remarks": ""
   },
@@ -2367,7 +2367,7 @@
     "name": "Mogulpura/Lahore",
     "nameWoDiacritics": "Mogulpura/Lahore",
     "subdivision": "PB",
-    "status": "AS",
+    "status": 6,
     "function": [
       1,
       2
@@ -2387,7 +2387,7 @@
     "name": "Mohenjodaro",
     "nameWoDiacritics": "Mohenjodaro",
     "subdivision": "SD",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -2407,7 +2407,7 @@
     "name": "Moro",
     "nameWoDiacritics": "Moro",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -2426,7 +2426,7 @@
     "name": "Muhammad Bin Qasim/Karachi",
     "nameWoDiacritics": "Muhammad Bin Qasim/Karachi",
     "subdivision": "SD",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -2434,7 +2434,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.766666666666666,
-      "lon": 7.2
+      "lon": 67.33333333333333
     },
     "remarks": ""
   },
@@ -2445,7 +2445,7 @@
     "name": "Multan",
     "nameWoDiacritics": "Multan",
     "subdivision": "PB",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -2467,7 +2467,7 @@
     "name": "Multan Cantt",
     "nameWoDiacritics": "Multan Cantt",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -2486,7 +2486,7 @@
     "name": "Multan City",
     "nameWoDiacritics": "Multan City",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -2505,7 +2505,7 @@
     "name": "Muridke",
     "nameWoDiacritics": "Muridke",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -2525,7 +2525,7 @@
     "name": "Muzaffarabad",
     "nameWoDiacritics": "Muzaffarabad",
     "subdivision": "JK",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -2546,7 +2546,7 @@
     "name": "Muzaffargarh",
     "nameWoDiacritics": "Muzaffargarh",
     "subdivision": "PB",
-    "status": "AS",
+    "status": 6,
     "function": [
       1,
       2
@@ -2566,7 +2566,7 @@
     "name": "Nankana Sahib",
     "nameWoDiacritics": "Nankana Sahib",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -2586,7 +2586,7 @@
     "name": "Narowal",
     "nameWoDiacritics": "Narowal",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -2606,7 +2606,7 @@
     "name": "Nawabshah",
     "nameWoDiacritics": "Nawabshah",
     "subdivision": "SD",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -2627,7 +2627,7 @@
     "name": "Nazimabad",
     "nameWoDiacritics": "Nazimabad",
     "subdivision": "SD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2635,7 +2635,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.9,
-      "lon": 7.166666666666667
+      "lon": 67.01666666666667
     },
     "remarks": ""
   },
@@ -2646,7 +2646,7 @@
     "name": "Nok Kundi",
     "nameWoDiacritics": "Nok Kundi",
     "subdivision": "BA",
-    "status": "AS",
+    "status": 6,
     "function": [
       1,
       2
@@ -2666,7 +2666,7 @@
     "name": "Nowshera",
     "nameWoDiacritics": "Nowshera",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -2686,7 +2686,7 @@
     "name": "Nushki",
     "nameWoDiacritics": "Nushki",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2705,7 +2705,7 @@
     "name": "Okara",
     "nameWoDiacritics": "Okara",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -2725,7 +2725,7 @@
     "name": "Okara Cantt",
     "nameWoDiacritics": "Okara Cantt",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -2744,7 +2744,7 @@
     "name": "Ormara",
     "nameWoDiacritics": "Ormara",
     "subdivision": "BA",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -2765,7 +2765,7 @@
     "name": "Pabbi",
     "nameWoDiacritics": "Pabbi",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -2784,7 +2784,7 @@
     "name": "Pakistan International Container Terminal/Karachi",
     "nameWoDiacritics": "Pakistan International Container Terminal/Karachi",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -2803,7 +2803,7 @@
     "name": "Panjgur",
     "nameWoDiacritics": "Panjgur",
     "subdivision": "BA",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -2823,7 +2823,7 @@
     "name": "Pano Aqil",
     "nameWoDiacritics": "Pano Aqil",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -2843,7 +2843,7 @@
     "name": "Para Chinar",
     "nameWoDiacritics": "Para Chinar",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -2863,7 +2863,7 @@
     "name": "Pasni",
     "nameWoDiacritics": "Pasni",
     "subdivision": "BA",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -2884,7 +2884,7 @@
     "name": "Pattoki",
     "nameWoDiacritics": "Pattoki",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -2904,7 +2904,7 @@
     "name": "Peshawar",
     "nameWoDiacritics": "Peshawar",
     "subdivision": "KP",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -2925,7 +2925,7 @@
     "name": "Peshawar Cantt",
     "nameWoDiacritics": "Peshawar Cantt",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -2944,7 +2944,7 @@
     "name": "Peshawar City",
     "nameWoDiacritics": "Peshawar City",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -2963,7 +2963,7 @@
     "name": "Poonch/AJK",
     "nameWoDiacritics": "Poonch/AJK",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -2982,7 +2982,7 @@
     "name": "Qasim International Container Terminal/Karachi",
     "nameWoDiacritics": "Qasim International Container Terminal/Karachi",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -3001,7 +3001,7 @@
     "name": "Qasimabad",
     "nameWoDiacritics": "Qasimabad",
     "subdivision": "PB",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3009,7 +3009,7 @@
     "iata": "",
     "coordinates": {
       "lat": 30.5,
-      "lon": 7.383333333333334
+      "lon": 72.6
     },
     "remarks": ""
   },
@@ -3020,7 +3020,7 @@
     "name": "Qila Sheikhupura",
     "nameWoDiacritics": "Qila Sheikhupura",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -3039,7 +3039,7 @@
     "name": "Quetta",
     "nameWoDiacritics": "Quetta",
     "subdivision": "BA",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -3062,7 +3062,7 @@
     "name": "Rahim Yar Khan",
     "nameWoDiacritics": "Rahim Yar Khan",
     "subdivision": "PB",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -3083,7 +3083,7 @@
     "name": "Raiwind",
     "nameWoDiacritics": "Raiwind",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -3102,7 +3102,7 @@
     "name": "Rajanpur",
     "nameWoDiacritics": "Rajanpur",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -3121,7 +3121,7 @@
     "name": "Rawala Kot",
     "nameWoDiacritics": "Rawala Kot",
     "subdivision": "JK",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -3141,7 +3141,7 @@
     "name": "Rawalpindi",
     "nameWoDiacritics": "Rawalpindi",
     "subdivision": "PB",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -3164,7 +3164,7 @@
     "name": "Reko Diq",
     "nameWoDiacritics": "Reko Diq",
     "subdivision": "JK",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -3172,7 +3172,7 @@
     "iata": "",
     "coordinates": {
       "lat": 28.816666666666666,
-      "lon": 6.733333333333333
+      "lon": 64.7
     },
     "remarks": ""
   },
@@ -3183,7 +3183,7 @@
     "name": "Risalpur Cantt",
     "nameWoDiacritics": "Risalpur Cantt",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -3203,7 +3203,7 @@
     "name": "Rohri",
     "nameWoDiacritics": "Rohri",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -3223,7 +3223,7 @@
     "name": "Sadikabad",
     "nameWoDiacritics": "Sadikabad",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -3243,7 +3243,7 @@
     "name": "Sahiwal",
     "nameWoDiacritics": "Sahiwal",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -3264,7 +3264,7 @@
     "name": "Saidu Sharif",
     "nameWoDiacritics": "Saidu Sharif",
     "subdivision": "KP",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -3284,7 +3284,7 @@
     "name": "Samasata",
     "nameWoDiacritics": "Samasata",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -3303,7 +3303,7 @@
     "name": "Sambrial",
     "nameWoDiacritics": "Sambrial",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2,
       5
@@ -3323,7 +3323,7 @@
     "name": "Sammundri",
     "nameWoDiacritics": "Sammundri",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -3342,7 +3342,7 @@
     "name": "Sanghar",
     "nameWoDiacritics": "Sanghar",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -3361,7 +3361,7 @@
     "name": "Sangla Hill",
     "nameWoDiacritics": "Sangla Hill",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -3381,7 +3381,7 @@
     "name": "Sargodha",
     "nameWoDiacritics": "Sargodha",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -3402,7 +3402,7 @@
     "name": "Savi Ragha",
     "nameWoDiacritics": "Savi Ragha",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -3421,7 +3421,7 @@
     "name": "Sawan",
     "nameWoDiacritics": "Sawan",
     "subdivision": "SD",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -3429,7 +3429,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.55,
-      "lon": 7.216666666666667
+      "lon": 67.61666666666666
     },
     "remarks": ""
   },
@@ -3440,7 +3440,7 @@
     "name": "Sehwen Sharif",
     "nameWoDiacritics": "Sehwen Sharif",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -3460,7 +3460,7 @@
     "name": "Serai Alamgir",
     "nameWoDiacritics": "Serai Alamgir",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -3479,7 +3479,7 @@
     "name": "Shabqadar",
     "nameWoDiacritics": "Shabqadar",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -3498,7 +3498,7 @@
     "name": "Shahdadkot",
     "nameWoDiacritics": "Shahdadkot",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -3517,7 +3517,7 @@
     "name": "Shahdadpur",
     "nameWoDiacritics": "Shahdadpur",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -3536,7 +3536,7 @@
     "name": "Shahdara Bagh",
     "nameWoDiacritics": "Shahdara Bagh",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -3555,7 +3555,7 @@
     "name": "Shamsi Airfield",
     "nameWoDiacritics": "Shamsi Airfield",
     "subdivision": "BA",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2,
       3
@@ -3564,7 +3564,7 @@
     "iata": "",
     "coordinates": {
       "lat": 27.85,
-      "lon": 6.85
+      "lon": 65.16666666666667
     },
     "remarks": ""
   },
@@ -3575,7 +3575,7 @@
     "name": "Sheikhupura",
     "nameWoDiacritics": "Sheikhupura",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -3594,7 +3594,7 @@
     "name": "Shikarpur",
     "nameWoDiacritics": "Shikarpur",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -3615,7 +3615,7 @@
     "name": "Shorkot",
     "nameWoDiacritics": "Shorkot",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -3634,7 +3634,7 @@
     "name": "Shorkot Cantt",
     "nameWoDiacritics": "Shorkot Cantt",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1
     ],
@@ -3653,7 +3653,7 @@
     "name": "Sialkot",
     "nameWoDiacritics": "Sialkot",
     "subdivision": "PB",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -3664,7 +3664,7 @@
     "iata": "",
     "coordinates": {
       "lat": 32.5,
-      "lon": 7.716666666666667
+      "lon": 74.51666666666667
     },
     "remarks": ""
   },
@@ -3675,7 +3675,7 @@
     "name": "Sibi",
     "nameWoDiacritics": "Sibi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -3696,7 +3696,7 @@
     "name": "Skardu",
     "nameWoDiacritics": "Skardu",
     "subdivision": "JK",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -3716,7 +3716,7 @@
     "name": "Sui",
     "nameWoDiacritics": "Sui",
     "subdivision": "BA",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -3736,7 +3736,7 @@
     "name": "Sukkur",
     "nameWoDiacritics": "Sukkur",
     "subdivision": "SD",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -3757,7 +3757,7 @@
     "name": "Swabi",
     "nameWoDiacritics": "Swabi",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -3776,7 +3776,7 @@
     "name": "Swat",
     "nameWoDiacritics": "Swat",
     "subdivision": "KP",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -3784,7 +3784,7 @@
     "iata": "",
     "coordinates": {
       "lat": 34.1,
-      "lon": 7.233333333333333
+      "lon": 71.7
     },
     "remarks": ""
   },
@@ -3795,7 +3795,7 @@
     "name": "Taftan",
     "nameWoDiacritics": "Taftan",
     "subdivision": "BA",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -3816,7 +3816,7 @@
     "name": "Talagang",
     "nameWoDiacritics": "Talagang",
     "subdivision": "PB",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -3824,7 +3824,7 @@
     "iata": "",
     "coordinates": {
       "lat": 32.916666666666664,
-      "lon": 7.366666666666666
+      "lon": 72.41666666666667
     },
     "remarks": ""
   },
@@ -3835,7 +3835,7 @@
     "name": "Tando Adam",
     "nameWoDiacritics": "Tando Adam",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -3854,7 +3854,7 @@
     "name": "Tando Allahyar",
     "nameWoDiacritics": "Tando Allahyar",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -3874,7 +3874,7 @@
     "name": "Tarbela",
     "nameWoDiacritics": "Tarbela",
     "subdivision": "KP",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -3894,7 +3894,7 @@
     "name": "Taxilla",
     "nameWoDiacritics": "Taxilla",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -3914,7 +3914,7 @@
     "name": "Thatta",
     "nameWoDiacritics": "Thatta",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -3933,7 +3933,7 @@
     "name": "Timargara",
     "nameWoDiacritics": "Timargara",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -3952,7 +3952,7 @@
     "name": "Toba Tek Singh",
     "nameWoDiacritics": "Toba Tek Singh",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -3972,7 +3972,7 @@
     "name": "Torkham",
     "nameWoDiacritics": "Torkham",
     "subdivision": "KP",
-    "status": "AS",
+    "status": 6,
     "function": [
       1,
       2,
@@ -3993,7 +3993,7 @@
     "name": "Turbat",
     "nameWoDiacritics": "Turbat",
     "subdivision": "BA",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -4013,7 +4013,7 @@
     "name": "Vehari",
     "nameWoDiacritics": "Vehari",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -4033,7 +4033,7 @@
     "name": "Wagah",
     "nameWoDiacritics": "Wagah",
     "subdivision": "PB",
-    "status": "AS",
+    "status": 6,
     "function": [
       1,
       2
@@ -4053,7 +4053,7 @@
     "name": "Wah",
     "nameWoDiacritics": "Wah",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       1,
       2
@@ -4073,7 +4073,7 @@
     "name": "Wana",
     "nameWoDiacritics": "Wana",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -4092,7 +4092,7 @@
     "name": "Warsak",
     "nameWoDiacritics": "Warsak",
     "subdivision": "TA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -4100,7 +4100,7 @@
     "iata": "",
     "coordinates": {
       "lat": 34.166666666666664,
-      "lon": 7.2
+      "lon": 71.41666666666667
     },
     "remarks": ""
   },
@@ -4111,7 +4111,7 @@
     "name": "Wazirabad",
     "nameWoDiacritics": "Wazirabad",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],
@@ -4130,7 +4130,7 @@
     "name": "Zhob",
     "nameWoDiacritics": "Zhob",
     "subdivision": "BA",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -4151,7 +4151,7 @@
     "name": "Ziarat",
     "nameWoDiacritics": "Ziarat",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       2
     ],

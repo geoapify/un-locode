@@ -6,7 +6,7 @@
     "name": ".ZIMBABWE",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Bata",
     "nameWoDiacritics": "Bata",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -42,7 +42,7 @@
     "name": "Beitbridge",
     "nameWoDiacritics": "Beitbridge",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -50,7 +50,7 @@
     "iata": "",
     "coordinates": {
       "lat": -22.216666666666665,
-      "lon": 3
+      "lon": 30
     },
     "remarks": ""
   },
@@ -61,7 +61,7 @@
     "name": "Belgravia",
     "nameWoDiacritics": "Belgravia",
     "subdivision": "HA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -69,7 +69,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.8,
-      "lon": 3.1666666666666665
+      "lon": 31.033333333333335
     },
     "remarks": ""
   },
@@ -80,7 +80,7 @@
     "name": "Bindura",
     "nameWoDiacritics": "Bindura",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -88,7 +88,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.3,
-      "lon": 3.183333333333333
+      "lon": 31.316666666666666
     },
     "remarks": ""
   },
@@ -99,7 +99,7 @@
     "name": "Buffalo Range",
     "nameWoDiacritics": "Buffalo Range",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -118,7 +118,7 @@
     "name": "Bulawayo",
     "nameWoDiacritics": "Bulawayo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -138,7 +138,7 @@
     "name": "Bumi Hills",
     "nameWoDiacritics": "Bumi Hills",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -157,7 +157,7 @@
     "name": "Chegutu",
     "nameWoDiacritics": "Chegutu",
     "subdivision": "MW",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       5
@@ -166,7 +166,7 @@
     "iata": "",
     "coordinates": {
       "lat": -18.133333333333333,
-      "lon": 3
+      "lon": 30.15
     },
     "remarks": ""
   },
@@ -177,7 +177,7 @@
     "name": "Chimanimani",
     "nameWoDiacritics": "Chimanimani",
     "subdivision": "MA",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -185,7 +185,7 @@
     "iata": "",
     "coordinates": {
       "lat": -19.8,
-      "lon": 3.4166666666666665
+      "lon": 32.86666666666667
     },
     "remarks": ""
   },
@@ -196,7 +196,7 @@
     "name": "Chinhoyi",
     "nameWoDiacritics": "Chinhoyi",
     "subdivision": "MW",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -204,7 +204,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.366666666666667,
-      "lon": 3.0166666666666666
+      "lon": 30.2
     },
     "remarks": ""
   },
@@ -215,7 +215,7 @@
     "name": "Chipinge",
     "nameWoDiacritics": "Chipinge",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -234,7 +234,7 @@
     "name": "Chiredzi",
     "nameWoDiacritics": "Chiredzi",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -243,7 +243,7 @@
     "iata": "",
     "coordinates": {
       "lat": -21.05,
-      "lon": 3.2333333333333334
+      "lon": 31.666666666666668
     },
     "remarks": ""
   },
@@ -254,7 +254,7 @@
     "name": "Chitungwiza",
     "nameWoDiacritics": "Chitungwiza",
     "subdivision": "HA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -262,7 +262,7 @@
     "iata": "",
     "coordinates": {
       "lat": -18,
-      "lon": 3.1666666666666665
+      "lon": 31.05
     },
     "remarks": ""
   },
@@ -273,7 +273,7 @@
     "name": "Darwendale",
     "nameWoDiacritics": "Darwendale",
     "subdivision": "MW",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -281,7 +281,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.716666666666665,
-      "lon": 3.05
+      "lon": 30.55
     },
     "remarks": ""
   },
@@ -292,7 +292,7 @@
     "name": "Filabusi",
     "nameWoDiacritics": "Filabusi",
     "subdivision": "MS",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -301,7 +301,7 @@
     "iata": "",
     "coordinates": {
       "lat": -20.533333333333335,
-      "lon": 3.5166666666666666
+      "lon": 29.283333333333335
     },
     "remarks": ""
   },
@@ -312,7 +312,7 @@
     "name": "Glendale",
     "nameWoDiacritics": "Glendale",
     "subdivision": "MC",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -320,7 +320,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.35,
-      "lon": 3.1666666666666665
+      "lon": 31.05
     },
     "remarks": ""
   },
@@ -331,7 +331,7 @@
     "name": "Gokwe",
     "nameWoDiacritics": "Gokwe",
     "subdivision": "MI",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -339,7 +339,7 @@
     "iata": "",
     "coordinates": {
       "lat": -18.216666666666665,
-      "lon": 3.416666666666667
+      "lon": 28.933333333333334
     },
     "remarks": ""
   },
@@ -350,7 +350,7 @@
     "name": "Graniteside",
     "nameWoDiacritics": "Graniteside",
     "subdivision": "HA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -358,7 +358,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.85,
-      "lon": 3.1666666666666665
+      "lon": 31.05
     },
     "remarks": ""
   },
@@ -369,7 +369,7 @@
     "name": "Guruve",
     "nameWoDiacritics": "Guruve",
     "subdivision": "MC",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -377,7 +377,7 @@
     "iata": "",
     "coordinates": {
       "lat": -16.65,
-      "lon": 3.066666666666667
+      "lon": 30.7
     },
     "remarks": ""
   },
@@ -388,7 +388,7 @@
     "name": "Gutu",
     "nameWoDiacritics": "Gutu",
     "subdivision": "MV",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -396,7 +396,7 @@
     "iata": "",
     "coordinates": {
       "lat": -19.65,
-      "lon": 3.183333333333333
+      "lon": 31.166666666666668
     },
     "remarks": ""
   },
@@ -407,7 +407,7 @@
     "name": "Gwanda",
     "nameWoDiacritics": "Gwanda",
     "subdivision": "MS",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -416,7 +416,7 @@
     "iata": "",
     "coordinates": {
       "lat": -20.933333333333334,
-      "lon": 3.5
+      "lon": 29
     },
     "remarks": ""
   },
@@ -427,7 +427,7 @@
     "name": "Gweru",
     "nameWoDiacritics": "Gweru",
     "subdivision": "MI",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -436,7 +436,7 @@
     "iata": "",
     "coordinates": {
       "lat": -19.45,
-      "lon": 3.5666666666666664
+      "lon": 29.816666666666666
     },
     "remarks": ""
   },
@@ -447,7 +447,7 @@
     "name": "Harare",
     "nameWoDiacritics": "Harare",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -467,7 +467,7 @@
     "name": "Hauna",
     "nameWoDiacritics": "Hauna",
     "subdivision": "MA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -475,7 +475,7 @@
     "iata": "",
     "coordinates": {
       "lat": -18.483333333333334,
-      "lon": 3.4166666666666665
+      "lon": 32.833333333333336
     },
     "remarks": ""
   },
@@ -486,7 +486,7 @@
     "name": "Headlands",
     "nameWoDiacritics": "Headlands",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -494,7 +494,7 @@
     "iata": "",
     "coordinates": {
       "lat": -18.283333333333335,
-      "lon": 3.3333333333333335
+      "lon": 32.03333333333333
     },
     "remarks": ""
   },
@@ -505,7 +505,7 @@
     "name": "Hwange",
     "nameWoDiacritics": "Hwange",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -524,7 +524,7 @@
     "name": "Hwange National Park",
     "nameWoDiacritics": "Hwange National Park",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -532,7 +532,7 @@
     "iata": "",
     "coordinates": {
       "lat": -19.166666666666668,
-      "lon": 3.05
+      "lon": 26.5
     },
     "remarks": ""
   },
@@ -543,7 +543,7 @@
     "name": "Kadoma",
     "nameWoDiacritics": "Kadoma",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -551,7 +551,7 @@
     "iata": "",
     "coordinates": {
       "lat": -18.316666666666666,
-      "lon": 3.583333333333333
+      "lon": 29.9
     },
     "remarks": ""
   },
@@ -562,7 +562,7 @@
     "name": "Kariba",
     "nameWoDiacritics": "Kariba",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -581,7 +581,7 @@
     "name": "Kwekwe",
     "nameWoDiacritics": "Kwekwe",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       1,
       2
@@ -601,7 +601,7 @@
     "name": "Lalapansi",
     "nameWoDiacritics": "Lalapansi",
     "subdivision": "MI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -609,7 +609,7 @@
     "iata": "",
     "coordinates": {
       "lat": -19.333333333333332,
-      "lon": 3.0166666666666666
+      "lon": 30.183333333333334
     },
     "remarks": ""
   },
@@ -620,7 +620,7 @@
     "name": "Mahenye",
     "nameWoDiacritics": "Mahenye",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -639,7 +639,7 @@
     "name": "Mapanzure",
     "nameWoDiacritics": "Mapanzure",
     "subdivision": "MV",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -647,7 +647,7 @@
     "iata": "",
     "coordinates": {
       "lat": -20.383333333333333,
-      "lon": 3.0833333333333335
+      "lon": 30.85
     },
     "remarks": ""
   },
@@ -658,7 +658,7 @@
     "name": "Marlborough",
     "nameWoDiacritics": "Marlborough",
     "subdivision": "HA",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -666,7 +666,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.75,
-      "lon": 3.183333333333333
+      "lon": 31.216666666666665
     },
     "remarks": ""
   },
@@ -677,7 +677,7 @@
     "name": "Marondera",
     "nameWoDiacritics": "Marondera",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -685,7 +685,7 @@
     "iata": "",
     "coordinates": {
       "lat": -18.183333333333334,
-      "lon": 3.216666666666667
+      "lon": 31.55
     },
     "remarks": ""
   },
@@ -696,7 +696,7 @@
     "name": "Masvingo",
     "nameWoDiacritics": "Masvingo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -715,7 +715,7 @@
     "name": "Mazowe",
     "nameWoDiacritics": "Mazowe",
     "subdivision": "MC",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -723,7 +723,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.516666666666666,
-      "lon": 3.0833333333333335
+      "lon": 30.966666666666665
     },
     "remarks": ""
   },
@@ -734,7 +734,7 @@
     "name": "Mhangura",
     "nameWoDiacritics": "Mhangura",
     "subdivision": "MW",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -742,7 +742,7 @@
     "iata": "",
     "coordinates": {
       "lat": -16.9,
-      "lon": 3
+      "lon": 30.15
     },
     "remarks": ""
   },
@@ -753,7 +753,7 @@
     "name": "Milton Park",
     "nameWoDiacritics": "Milton Park",
     "subdivision": "HA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -761,7 +761,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.8,
-      "lon": 3.1666666666666665
+      "lon": 31.016666666666666
     },
     "remarks": ""
   },
@@ -772,7 +772,7 @@
     "name": "Msasa",
     "nameWoDiacritics": "Msasa",
     "subdivision": "HA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -780,7 +780,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.833333333333332,
-      "lon": 3.1666666666666665
+      "lon": 31.1
     },
     "remarks": ""
   },
@@ -791,7 +791,7 @@
     "name": "Mutare",
     "nameWoDiacritics": "Mutare",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       3
@@ -811,7 +811,7 @@
     "name": "Mutoko",
     "nameWoDiacritics": "Mutoko",
     "subdivision": "ME",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -819,7 +819,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.4,
-      "lon": 3.35
+      "lon": 32.21666666666667
     },
     "remarks": ""
   },
@@ -830,7 +830,7 @@
     "name": "Nembudziya",
     "nameWoDiacritics": "Nembudziya",
     "subdivision": "MI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -838,7 +838,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.683333333333334,
-      "lon": 3.5
+      "lon": 29.016666666666666
     },
     "remarks": ""
   },
@@ -849,7 +849,7 @@
     "name": "Ngezi",
     "nameWoDiacritics": "Ngezi",
     "subdivision": "MI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -857,7 +857,7 @@
     "iata": "",
     "coordinates": {
       "lat": -20.566666666666666,
-      "lon": 3.033333333333333
+      "lon": 30.4
     },
     "remarks": ""
   },
@@ -868,7 +868,7 @@
     "name": "Norton",
     "nameWoDiacritics": "Norton",
     "subdivision": "MW",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -876,7 +876,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.883333333333333,
-      "lon": 3.066666666666667
+      "lon": 30.7
     },
     "remarks": ""
   },
@@ -887,7 +887,7 @@
     "name": "Rusape",
     "nameWoDiacritics": "Rusape",
     "subdivision": "MA",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1
@@ -896,7 +896,7 @@
     "iata": "",
     "coordinates": {
       "lat": -18.533333333333335,
-      "lon": 3.3333333333333335
+      "lon": 32.11666666666667
     },
     "remarks": ""
   },
@@ -907,7 +907,7 @@
     "name": "Selous",
     "nameWoDiacritics": "Selous",
     "subdivision": "MW",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -915,7 +915,7 @@
     "iata": "",
     "coordinates": {
       "lat": -18.083333333333332,
-      "lon": 3.033333333333333
+      "lon": 30.45
     },
     "remarks": ""
   },
@@ -926,7 +926,7 @@
     "name": "Shamva",
     "nameWoDiacritics": "Shamva",
     "subdivision": "MC",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -934,7 +934,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.3,
-      "lon": 3.216666666666667
+      "lon": 31.566666666666666
     },
     "remarks": ""
   },
@@ -945,7 +945,7 @@
     "name": "Shurugwi",
     "nameWoDiacritics": "Shurugwi",
     "subdivision": "MI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -953,7 +953,7 @@
     "iata": "",
     "coordinates": {
       "lat": -19.666666666666668,
-      "lon": 3
+      "lon": 30
     },
     "remarks": ""
   },
@@ -964,7 +964,7 @@
     "name": "Southerton",
     "nameWoDiacritics": "Southerton",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -972,7 +972,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.85,
-      "lon": 3.1666666666666665
+      "lon": 31.016666666666666
     },
     "remarks": ""
   },
@@ -983,7 +983,7 @@
     "name": "Thompson Junction",
     "nameWoDiacritics": "Thompson Junction",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -992,7 +992,7 @@
     "iata": "",
     "coordinates": {
       "lat": -18,
-      "lon": 3.033333333333333
+      "lon": 26.433333333333334
     },
     "remarks": ""
   },
@@ -1003,7 +1003,7 @@
     "name": "Victoria Falls",
     "nameWoDiacritics": "Victoria Falls",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1022,7 +1022,7 @@
     "name": "Zimbabwe",
     "nameWoDiacritics": "Zimbabwe",
     "subdivision": "MV",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -1031,7 +1031,7 @@
     "iata": "",
     "coordinates": {
       "lat": -20.266666666666666,
-      "lon": 3.0833333333333335
+      "lon": 30.916666666666668
     },
     "remarks": ""
   },
@@ -1042,7 +1042,7 @@
     "name": "Zvishavane",
     "nameWoDiacritics": "Zvishavane",
     "subdivision": "MI",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1050,7 +1050,7 @@
     "iata": "",
     "coordinates": {
       "lat": -20.333333333333332,
-      "lon": 3
+      "lon": 30.033333333333335
     },
     "remarks": ""
   }

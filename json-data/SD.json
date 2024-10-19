@@ -6,7 +6,7 @@
     "name": ".SUDAN (THE)",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Abyei",
     "nameWoDiacritics": "Abyei",
     "subdivision": "KS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": 9.6,
-      "lon": 3.3666666666666667
+      "lon": 28.433333333333334
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Ad Dabbah",
     "nameWoDiacritics": "Ad Dabbah",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -61,7 +61,7 @@
     "name": "Ar Rank",
     "nameWoDiacritics": "Ar Rank",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -69,7 +69,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.75,
-      "lon": 3.4
+      "lon": 32.8
     },
     "remarks": ""
   },
@@ -80,7 +80,7 @@
     "name": "Atbara",
     "nameWoDiacritics": "Atbara",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -99,7 +99,7 @@
     "name": "Dinder",
     "nameWoDiacritics": "Dinder",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -118,7 +118,7 @@
     "name": "Dongola",
     "nameWoDiacritics": "Dongola",
     "subdivision": "NO",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -137,7 +137,7 @@
     "name": "El Fasher",
     "nameWoDiacritics": "El Fasher",
     "subdivision": "DN",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -145,7 +145,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.633333333333333,
-      "lon": 2.8666666666666667
+      "lon": 25.35
     },
     "remarks": ""
   },
@@ -156,7 +156,7 @@
     "name": "El Obeid",
     "nameWoDiacritics": "El Obeid",
     "subdivision": "KN",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -164,7 +164,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.183333333333334,
-      "lon": 3.0166666666666666
+      "lon": 30.216666666666665
     },
     "remarks": ""
   },
@@ -175,7 +175,7 @@
     "name": "Eldebba",
     "nameWoDiacritics": "Eldebba",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -194,7 +194,7 @@
     "name": "En Nahud",
     "nameWoDiacritics": "En Nahud",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -213,7 +213,7 @@
     "name": "Gedaref",
     "nameWoDiacritics": "Gedaref",
     "subdivision": "GD",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -232,7 +232,7 @@
     "name": "Geneina",
     "nameWoDiacritics": "Geneina",
     "subdivision": "DW",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -240,7 +240,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.45,
-      "lon": 2.3666666666666667
+      "lon": 22.433333333333334
     },
     "remarks": ""
   },
@@ -251,7 +251,7 @@
     "name": "Juba",
     "nameWoDiacritics": "Juba",
     "subdivision": "DS",
-    "status": "AC",
+    "status": 1,
     "function": [
       3
     ],
@@ -259,7 +259,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.15,
-      "lon": 2.7
+      "lon": 24.45
     },
     "remarks": ""
   },
@@ -270,7 +270,7 @@
     "name": "Kadugli",
     "nameWoDiacritics": "Kadugli",
     "subdivision": "KS",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -278,7 +278,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11,
-      "lon": 3.5666666666666664
+      "lon": 29.716666666666665
     },
     "remarks": ""
   },
@@ -289,7 +289,7 @@
     "name": "Kassala",
     "nameWoDiacritics": "Kassala",
     "subdivision": "KA",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -308,7 +308,7 @@
     "name": "Khartoum",
     "nameWoDiacritics": "Khartoum",
     "subdivision": "KH",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -328,7 +328,7 @@
     "name": "Khashm El Girba",
     "nameWoDiacritics": "Khashm El Girba",
     "subdivision": "GD",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -347,7 +347,7 @@
     "name": "Kosti",
     "nameWoDiacritics": "Kosti",
     "subdivision": "NW",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -355,7 +355,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.166666666666666,
-      "lon": 3.4
+      "lon": 32.666666666666664
     },
     "remarks": ""
   },
@@ -366,7 +366,7 @@
     "name": "Marsa Bashayer",
     "nameWoDiacritics": "Marsa Bashayer",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -374,7 +374,7 @@
     "iata": "",
     "coordinates": {
       "lat": 19.383333333333333,
-      "lon": 4.183333333333334
+      "lon": 37.3
     },
     "remarks": ""
   },
@@ -385,7 +385,7 @@
     "name": "Merowe",
     "nameWoDiacritics": "Merowe",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -404,7 +404,7 @@
     "name": "New Halfa",
     "nameWoDiacritics": "New Halfa",
     "subdivision": "KA",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -423,7 +423,7 @@
     "name": "Nyala",
     "nameWoDiacritics": "Nyala",
     "subdivision": "DS",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -431,7 +431,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.05,
-      "lon": 2.75
+      "lon": 24.883333333333333
     },
     "remarks": ""
   },
@@ -442,7 +442,7 @@
     "name": "Omdurman",
     "nameWoDiacritics": "Omdurman",
     "subdivision": "KH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -450,7 +450,7 @@
     "iata": "",
     "coordinates": {
       "lat": 15.633333333333333,
-      "lon": 3.3666666666666667
+      "lon": 32.43333333333333
     },
     "remarks": ""
   },
@@ -461,7 +461,7 @@
     "name": "Port Sudan",
     "nameWoDiacritics": "Port Sudan",
     "subdivision": "RS",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -482,7 +482,7 @@
     "name": "Rabak",
     "nameWoDiacritics": "Rabak",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2,
       5
@@ -491,7 +491,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.15,
-      "lon": 3.4
+      "lon": 32.733333333333334
     },
     "remarks": ""
   },
@@ -502,7 +502,7 @@
     "name": "Roseires",
     "nameWoDiacritics": "Roseires",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -521,7 +521,7 @@
     "name": "Sawakin",
     "nameWoDiacritics": "Sawakin",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -529,7 +529,7 @@
     "iata": "",
     "coordinates": {
       "lat": 19.1,
-      "lon": 4.183333333333334
+      "lon": 37.31666666666667
     },
     "remarks": ""
   },
@@ -540,7 +540,7 @@
     "name": "Swakin",
     "nameWoDiacritics": "Swakin",
     "subdivision": "",
-    "status": "AC",
+    "status": 1,
     "function": [
       0
     ],
@@ -559,7 +559,7 @@
     "name": "Wad Medani",
     "nameWoDiacritics": "Wad Medani",
     "subdivision": "GZ",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -567,7 +567,7 @@
     "iata": "",
     "coordinates": {
       "lat": 14.4,
-      "lon": 3.533333333333333
+      "lon": 33.483333333333334
     },
     "remarks": ""
   },
@@ -578,7 +578,7 @@
     "name": "Wadi Halfa",
     "nameWoDiacritics": "Wadi Halfa",
     "subdivision": "NO",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -597,7 +597,7 @@
     "name": "Yei",
     "nameWoDiacritics": "Yei",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -605,7 +605,7 @@
     "iata": "",
     "coordinates": {
       "lat": 4.083333333333333,
-      "lon": 3.066666666666667
+      "lon": 30.666666666666668
     },
     "remarks": ""
   },
@@ -616,7 +616,7 @@
     "name": "Zalingei",
     "nameWoDiacritics": "Zalingei",
     "subdivision": "DW",
-    "status": "AM",
+    "status": 4,
     "function": [
       2,
       3
@@ -625,7 +625,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.9,
-      "lon": 2.533333333333333
+      "lon": 23.483333333333334
     },
     "remarks": ""
   }

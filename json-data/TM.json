@@ -6,7 +6,7 @@
     "name": ".TURKMENISTAN",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Akdepe",
     "nameWoDiacritics": "Akdepe",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": 38.3,
-      "lon": 6.216666666666667
+      "lon": 57.583333333333336
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Altyn Asyr",
     "nameWoDiacritics": "Altyn Asyr",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       5
@@ -51,7 +51,7 @@
     "iata": "",
     "coordinates": {
       "lat": 37.88333333333333,
-      "lon": 6.366666666666667
+      "lon": 58.36666666666667
     },
     "remarks": ""
   },
@@ -62,7 +62,7 @@
     "name": "Amyderya",
     "nameWoDiacritics": "Amyderya",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -70,7 +70,7 @@
     "iata": "",
     "coordinates": {
       "lat": 37.88333333333333,
-      "lon": 6.85
+      "lon": 65.23333333333333
     },
     "remarks": ""
   },
@@ -81,7 +81,7 @@
     "name": "Ashgabat",
     "nameWoDiacritics": "Ashgabat",
     "subdivision": "S",
-    "status": "RQ",
+    "status": 9,
     "function": [
       1,
       5
@@ -90,7 +90,7 @@
     "iata": "",
     "coordinates": {
       "lat": 37.95,
-      "lon": 6.366666666666667
+      "lon": 58.38333333333333
     },
     "remarks": ""
   },
@@ -101,7 +101,7 @@
     "name": "Ashkhabad",
     "nameWoDiacritics": "Ashkhabad",
     "subdivision": "S",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -110,7 +110,7 @@
     "iata": "",
     "coordinates": {
       "lat": 37.95,
-      "lon": 6.366666666666667
+      "lon": 58.38333333333333
     },
     "remarks": ""
   },
@@ -121,7 +121,7 @@
     "name": "Babada�han",
     "nameWoDiacritics": "Babadayhan",
     "subdivision": "A",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -129,7 +129,7 @@
     "iata": "",
     "coordinates": {
       "lat": 37.68333333333333,
-      "lon": 6.033333333333333
+      "lon": 60.38333333333333
     },
     "remarks": ""
   },
@@ -140,7 +140,7 @@
     "name": "B�herden",
     "nameWoDiacritics": "Baherden",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -149,7 +149,7 @@
     "iata": "",
     "coordinates": {
       "lat": 38.43333333333333,
-      "lon": 6.2
+      "lon": 57.416666666666664
     },
     "remarks": ""
   },
@@ -160,7 +160,7 @@
     "name": "Balkanabat",
     "nameWoDiacritics": "Balkanabat",
     "subdivision": "B",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -169,7 +169,7 @@
     "iata": "",
     "coordinates": {
       "lat": 39.5,
-      "lon": 5.7
+      "lon": 54.35
     },
     "remarks": ""
   },
@@ -180,7 +180,7 @@
     "name": "Bayramaly",
     "nameWoDiacritics": "Bayramaly",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -189,7 +189,7 @@
     "iata": "",
     "coordinates": {
       "lat": 37.61666666666667,
-      "lon": 6.35
+      "lon": 62.166666666666664
     },
     "remarks": ""
   },
@@ -200,7 +200,7 @@
     "name": "Bekdash",
     "nameWoDiacritics": "Bekdash",
     "subdivision": "B",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -208,7 +208,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.56666666666667,
-      "lon": 5.383333333333334
+      "lon": 52.53333333333333
     },
     "remarks": ""
   },
@@ -219,7 +219,7 @@
     "name": "Boldumsaz",
     "nameWoDiacritics": "Boldumsaz",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -228,7 +228,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.13333333333333,
-      "lon": 6.566666666666666
+      "lon": 59.666666666666664
     },
     "remarks": ""
   },
@@ -239,7 +239,7 @@
     "name": "B�zmeyin",
     "nameWoDiacritics": "Buzmeyin",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -248,7 +248,7 @@
     "iata": "",
     "coordinates": {
       "lat": 38.05,
-      "lon": 6.35
+      "lon": 58.2
     },
     "remarks": ""
   },
@@ -259,7 +259,7 @@
     "name": "Ch�rjew",
     "nameWoDiacritics": "Charjew",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -267,7 +267,7 @@
     "iata": "",
     "coordinates": {
       "lat": 39.1,
-      "lon": 6.55
+      "lon": 63.56666666666667
     },
     "remarks": ""
   },
@@ -278,7 +278,7 @@
     "name": "Cheleken",
     "nameWoDiacritics": "Cheleken",
     "subdivision": "B",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -287,7 +287,7 @@
     "iata": "",
     "coordinates": {
       "lat": 39.4,
-      "lon": 5.5
+      "lon": 53.13333333333333
     },
     "remarks": ""
   },
@@ -298,7 +298,7 @@
     "name": "Dashhowuz",
     "nameWoDiacritics": "Dashhowuz",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -306,7 +306,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.833333333333336,
-      "lon": 6.583333333333333
+      "lon": 59.95
     },
     "remarks": ""
   },
@@ -317,7 +317,7 @@
     "name": "Farap",
     "nameWoDiacritics": "Farap",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -327,7 +327,7 @@
     "iata": "",
     "coordinates": {
       "lat": 39.166666666666664,
-      "lon": 6.55
+      "lon": 63.6
     },
     "remarks": ""
   },
@@ -338,7 +338,7 @@
     "name": "Galkynys",
     "nameWoDiacritics": "Galkynys",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -347,7 +347,7 @@
     "iata": "",
     "coordinates": {
       "lat": 39.25,
-      "lon": 6.516666666666667
+      "lon": 63.18333333333333
     },
     "remarks": ""
   },
@@ -358,7 +358,7 @@
     "name": "Gubadag",
     "nameWoDiacritics": "Gubadag",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -366,7 +366,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.06666666666667,
-      "lon": 6.583333333333333
+      "lon": 59.96666666666667
     },
     "remarks": ""
   },
@@ -377,7 +377,7 @@
     "name": "Gypjak",
     "nameWoDiacritics": "Gypjak",
     "subdivision": "A",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -385,7 +385,7 @@
     "iata": "",
     "coordinates": {
       "lat": 38,
-      "lon": 6.35
+      "lon": 58.25
     },
     "remarks": ""
   },
@@ -396,7 +396,7 @@
     "name": "Halach",
     "nameWoDiacritics": "Halach",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -405,7 +405,7 @@
     "iata": "",
     "coordinates": {
       "lat": 38.06666666666667,
-      "lon": 6.75
+      "lon": 64.88333333333334
     },
     "remarks": ""
   },
@@ -416,7 +416,7 @@
     "name": "Hazar",
     "nameWoDiacritics": "Hazar",
     "subdivision": "B",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -424,7 +424,7 @@
     "iata": "",
     "coordinates": {
       "lat": 39.43333333333333,
-      "lon": 5.5
+      "lon": 53.1
     },
     "remarks": ""
   },
@@ -435,7 +435,7 @@
     "name": "Jebel",
     "nameWoDiacritics": "Jebel",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -443,7 +443,7 @@
     "iata": "",
     "coordinates": {
       "lat": 39.61666666666667,
-      "lon": 5.683333333333334
+      "lon": 54.21666666666667
     },
     "remarks": ""
   },
@@ -454,7 +454,7 @@
     "name": "Kaka",
     "nameWoDiacritics": "Kaka",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -463,7 +463,7 @@
     "iata": "",
     "coordinates": {
       "lat": 37.35,
-      "lon": 6.55
+      "lon": 59.6
     },
     "remarks": ""
   },
@@ -474,7 +474,7 @@
     "name": "Kerkichi",
     "nameWoDiacritics": "Kerkichi",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -483,7 +483,7 @@
     "iata": "",
     "coordinates": {
       "lat": 37.85,
-      "lon": 6.85
+      "lon": 65.23333333333333
     },
     "remarks": ""
   },
@@ -494,7 +494,7 @@
     "name": "Khodzhambas",
     "nameWoDiacritics": "Khodzhambas",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -502,7 +502,7 @@
     "iata": "",
     "coordinates": {
       "lat": 38.11666666666667,
-      "lon": 6.833333333333333
+      "lon": 65
     },
     "remarks": ""
   },
@@ -513,7 +513,7 @@
     "name": "K�ne�rgench",
     "nameWoDiacritics": "Koneurgench",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -522,7 +522,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.31666666666667,
-      "lon": 6.5
+      "lon": 59.13333333333333
     },
     "remarks": ""
   },
@@ -533,7 +533,7 @@
     "name": "Krasnovodsk",
     "nameWoDiacritics": "Krasnovodsk",
     "subdivision": "B",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -542,7 +542,7 @@
     "iata": "",
     "coordinates": {
       "lat": 40.016666666666666,
-      "lon": 5.416666666666667
+      "lon": 52.96666666666667
     },
     "remarks": ""
   },
@@ -553,7 +553,7 @@
     "name": "Kushka",
     "nameWoDiacritics": "Kushka",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2
@@ -573,7 +573,7 @@
     "name": "Lebap",
     "nameWoDiacritics": "Lebap",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -582,7 +582,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.05,
-      "lon": 6.25
+      "lon": 61.88333333333333
     },
     "remarks": ""
   },
@@ -593,7 +593,7 @@
     "name": "Mary",
     "nameWoDiacritics": "Mary",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -612,7 +612,7 @@
     "name": "Murgap",
     "nameWoDiacritics": "Murgap",
     "subdivision": "M",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -621,7 +621,7 @@
     "iata": "",
     "coordinates": {
       "lat": 37.483333333333334,
-      "lon": 6.25
+      "lon": 61.96666666666667
     },
     "remarks": ""
   },
@@ -632,7 +632,7 @@
     "name": "S�kar",
     "nameWoDiacritics": "Sakar",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -640,7 +640,7 @@
     "iata": "",
     "coordinates": {
       "lat": 38.916666666666664,
-      "lon": 6.566666666666666
+      "lon": 63.733333333333334
     },
     "remarks": ""
   },
@@ -651,7 +651,7 @@
     "name": "Sarakhs",
     "nameWoDiacritics": "Sarakhs",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -670,7 +670,7 @@
     "name": "Sayat",
     "nameWoDiacritics": "Sayat",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -678,7 +678,7 @@
     "iata": "",
     "coordinates": {
       "lat": 38.766666666666666,
-      "lon": 6.583333333333333
+      "lon": 63.88333333333333
     },
     "remarks": ""
   },
@@ -689,7 +689,7 @@
     "name": "Shirvan-Kala",
     "nameWoDiacritics": "Shirvan-Kala",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -697,7 +697,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.25,
-      "lon": 6.383333333333333
+      "lon": 58.63333333333333
     },
     "remarks": ""
   },
@@ -708,7 +708,7 @@
     "name": "Tagta",
     "nameWoDiacritics": "Tagta",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -716,7 +716,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.65,
-      "lon": 6.583333333333333
+      "lon": 59.9
     },
     "remarks": ""
   },
@@ -727,7 +727,7 @@
     "name": "Tashauz",
     "nameWoDiacritics": "Tashauz",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -746,7 +746,7 @@
     "name": "Tchardjou",
     "nameWoDiacritics": "Tchardjou",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -766,7 +766,7 @@
     "name": "Tejen",
     "nameWoDiacritics": "Tejen",
     "subdivision": "A",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -775,7 +775,7 @@
     "iata": "",
     "coordinates": {
       "lat": 37.36666666666667,
-      "lon": 6.033333333333333
+      "lon": 60.483333333333334
     },
     "remarks": ""
   },
@@ -786,7 +786,7 @@
     "name": "Termez",
     "nameWoDiacritics": "Termez",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -805,7 +805,7 @@
     "name": "Turkmenabat",
     "nameWoDiacritics": "Turkmenabat",
     "subdivision": "L",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -814,7 +814,7 @@
     "iata": "",
     "coordinates": {
       "lat": 39.1,
-      "lon": 6.55
+      "lon": 63.56666666666667
     },
     "remarks": ""
   },
@@ -825,7 +825,7 @@
     "name": "Turkmenbashi",
     "nameWoDiacritics": "Turkmenbashi",
     "subdivision": "B",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       1,
@@ -836,7 +836,7 @@
     "iata": "",
     "coordinates": {
       "lat": 40.016666666666666,
-      "lon": 5.416666666666667
+      "lon": 52.96666666666667
     },
     "remarks": "ex Krasnowodsk"
   },
@@ -847,7 +847,7 @@
     "name": "Turkmen-Kala",
     "nameWoDiacritics": "Turkmen-Kala",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -855,7 +855,7 @@
     "iata": "",
     "coordinates": {
       "lat": 37.43333333333333,
-      "lon": 6.366666666666666
+      "lon": 62.333333333333336
     },
     "remarks": ""
   },
@@ -866,7 +866,7 @@
     "name": "Yol�ten",
     "nameWoDiacritics": "Yoloten",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -875,7 +875,7 @@
     "iata": "",
     "coordinates": {
       "lat": 37.3,
-      "lon": 6.366666666666666
+      "lon": 62.35
     },
     "remarks": ""
   },
@@ -886,7 +886,7 @@
     "name": "Yylanly",
     "nameWoDiacritics": "Yylanly",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -895,7 +895,7 @@
     "iata": "",
     "coordinates": {
       "lat": 41.86666666666667,
-      "lon": 6.55
+      "lon": 59.63333333333333
     },
     "remarks": ""
   }

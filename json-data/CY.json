@@ -2,6 +2,7 @@
   {
     "country": "CY",
     "name": ".CYPRUS",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -14,7 +15,7 @@
     "name": "Akrotiri",
     "nameWoDiacritics": "Akrotiri",
     "subdivision": 2,
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       3
@@ -22,7 +23,7 @@
     "date": 1801,
     "coordinates": {
       "lat": 34.6,
-      "lon": 3.4166666666666665
+      "lon": 32.95
     }
   },
   {
@@ -31,7 +32,7 @@
     "name": "Ayia Napa",
     "nameWoDiacritics": "Ayia Napa",
     "subdivision": 4,
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2
@@ -39,7 +40,7 @@
     "date": 2107,
     "coordinates": {
       "lat": 34.983333333333334,
-      "lon": 3.6666666666666665
+      "lon": 34
     }
   },
   {
@@ -48,7 +49,7 @@
     "name": "Dhekelia",
     "nameWoDiacritics": "Dhekelia",
     "subdivision": 3,
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2
@@ -56,7 +57,7 @@
     "date": 1801,
     "coordinates": {
       "lat": 34.983333333333334,
-      "lon": 3.5666666666666664
+      "lon": 33.75
     }
   },
   {
@@ -65,14 +66,14 @@
     "name": "Episkopi",
     "nameWoDiacritics": "Episkopi",
     "subdivision": 2,
-    "status": "AA",
+    "status": 0,
     "function": [
       3
     ],
     "date": 1801,
     "coordinates": {
       "lat": 34.666666666666664,
-      "lon": 3.4166666666666665
+      "lon": 32.9
     }
   },
   {
@@ -81,7 +82,7 @@
     "name": "Famagusta",
     "nameWoDiacritics": "Famagusta",
     "subdivision": 4,
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2
@@ -89,7 +90,7 @@
     "date": 1801,
     "coordinates": {
       "lat": 35.1,
-      "lon": 3.5833333333333335
+      "lon": 33.95
     },
     "remarks": "Closed port for all vessels"
   },
@@ -99,14 +100,14 @@
     "name": "Karavostasi",
     "nameWoDiacritics": "Karavostasi",
     "subdivision": 1,
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1801,
     "coordinates": {
       "lat": 35.13333333333333,
-      "lon": 3.4166666666666665
+      "lon": 32.833333333333336
     },
     "remarks": "Closed port for all vessels"
   },
@@ -116,14 +117,14 @@
     "name": "Kyrenia",
     "nameWoDiacritics": "Kyrenia",
     "subdivision": 6,
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1801,
     "coordinates": {
       "lat": 35.333333333333336,
-      "lon": 3.533333333333333
+      "lon": 33.333333333333336
     },
     "remarks": "Closed port for all vessels"
   },
@@ -133,7 +134,7 @@
     "name": "Larnaca",
     "nameWoDiacritics": "Larnaca",
     "subdivision": 3,
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       3,
@@ -142,7 +143,7 @@
     "date": 1801,
     "coordinates": {
       "lat": 34.916666666666664,
-      "lon": 3.55
+      "lon": 33.61666666666667
     }
   },
   {
@@ -151,7 +152,7 @@
     "name": "Latchi",
     "nameWoDiacritics": "Latchi",
     "subdivision": 5,
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2
@@ -159,7 +160,7 @@
     "date": 1801,
     "coordinates": {
       "lat": 35.03333333333333,
-      "lon": 3.3666666666666667
+      "lon": 32.4
     }
   },
   {
@@ -168,7 +169,7 @@
     "name": "Limassol",
     "nameWoDiacritics": "Limassol",
     "subdivision": 2,
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2,
@@ -177,7 +178,7 @@
     "date": 1801,
     "coordinates": {
       "lat": 34.68333333333333,
-      "lon": 3.5
+      "lon": 33.05
     }
   },
   {
@@ -186,7 +187,7 @@
     "name": "Moni",
     "nameWoDiacritics": "Moni",
     "subdivision": 2,
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2
@@ -194,7 +195,7 @@
     "date": 1801,
     "coordinates": {
       "lat": 34.733333333333334,
-      "lon": 3.5166666666666666
+      "lon": 33.2
     }
   },
   {
@@ -203,7 +204,7 @@
     "name": "Nicosia",
     "nameWoDiacritics": "Nicosia",
     "subdivision": 1,
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       4
@@ -211,7 +212,7 @@
     "date": 1801,
     "coordinates": {
       "lat": 35.166666666666664,
-      "lon": 3.533333333333333
+      "lon": 33.36666666666667
     },
     "remarks": "Closed airport"
   },
@@ -221,7 +222,7 @@
     "name": "Paphos",
     "nameWoDiacritics": "Paphos",
     "subdivision": 5,
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       3
@@ -229,7 +230,7 @@
     "date": 1801,
     "coordinates": {
       "lat": 34.766666666666666,
-      "lon": 3.3666666666666667
+      "lon": 32.416666666666664
     }
   },
   {
@@ -238,14 +239,14 @@
     "name": "Vasilikos",
     "nameWoDiacritics": "Vasilikos",
     "subdivision": 3,
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1801,
     "coordinates": {
       "lat": 34.71666666666667,
-      "lon": 3.5166666666666666
+      "lon": 33.31666666666667
     }
   },
   {
@@ -254,14 +255,14 @@
     "name": "Zyyi",
     "nameWoDiacritics": "Zyyi",
     "subdivision": 3,
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1801,
     "coordinates": {
       "lat": 34.733333333333334,
-      "lon": 3.533333333333333
+      "lon": 33.333333333333336
     }
   }
 ]

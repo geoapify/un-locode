@@ -2,6 +2,7 @@
   {
     "country": "GH",
     "name": ".GHANA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -14,14 +15,14 @@
     "name": "Abeka",
     "nameWoDiacritics": "Abeka",
     "subdivision": "AA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 5.6,
-      "lon": 0.016666666666666666
+      "lon": -0.23333333333333334
     }
   },
   {
@@ -30,14 +31,14 @@
     "name": "Abor",
     "nameWoDiacritics": "Abor",
     "subdivision": "TV",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 6.05,
-      "lon": 0.08333333333333333
+      "lon": 0.8666666666666667
     }
   },
   {
@@ -45,7 +46,7 @@
     "location": "ACC",
     "name": "Accra",
     "nameWoDiacritics": "Accra",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -60,14 +61,14 @@
     "location": "ACH",
     "name": "Achimota",
     "nameWoDiacritics": "Achimota",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 5.616666666666667,
-      "lon": 0.016666666666666666
+      "lon": -0.23333333333333334
     }
   },
   {
@@ -75,7 +76,7 @@
     "location": "ADA",
     "name": "Ada",
     "nameWoDiacritics": "Ada",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -91,14 +92,14 @@
     "name": "Ahinsan",
     "nameWoDiacritics": "Ahinsan",
     "subdivision": "AH",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 6.333333333333333,
-      "lon": 0.21666666666666667
+      "lon": -1.5166666666666666
     }
   },
   {
@@ -107,14 +108,14 @@
     "name": "Akosombo",
     "nameWoDiacritics": "Akosombo",
     "subdivision": "EP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 6.3,
-      "lon": 0.05
+      "lon": 0.5
     }
   },
   {
@@ -122,14 +123,14 @@
     "location": "AMA",
     "name": "Amasaman",
     "nameWoDiacritics": "Amasaman",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 5.7,
-      "lon": 0.016666666666666666
+      "lon": -0.3
     }
   },
   {
@@ -137,14 +138,14 @@
     "location": "ASA",
     "name": "Asamankese",
     "nameWoDiacritics": "Asamankese",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 5.866666666666667,
-      "lon": 0.06666666666666667
+      "lon": -0.6666666666666666
     }
   },
   {
@@ -153,14 +154,14 @@
     "name": "Ashaiman",
     "nameWoDiacritics": "Ashaiman",
     "subdivision": "AA",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 5.7,
-      "lon": 0.03333333333333333
+      "lon": -0.3333333333333333
     }
   },
   {
@@ -168,7 +169,7 @@
     "location": "AUR",
     "name": "Aura",
     "nameWoDiacritics": "Aura",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -183,7 +184,7 @@
     "location": "AXI",
     "name": "Axim",
     "nameWoDiacritics": "Axim",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -199,14 +200,14 @@
     "name": "Benin",
     "nameWoDiacritics": "Benin",
     "subdivision": "CP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 5.6,
-      "lon": 0.16666666666666666
+      "lon": -1
     }
   },
   {
@@ -214,14 +215,14 @@
     "location": "BKM",
     "name": "Berekum",
     "nameWoDiacritics": "Berekum",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 7.45,
-      "lon": 0.38333333333333336
+      "lon": -2.5666666666666664
     }
   },
   {
@@ -230,14 +231,14 @@
     "name": "Bogoso",
     "nameWoDiacritics": "Bogoso",
     "subdivision": "WP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1001,
     "coordinates": {
       "lat": 5.566666666666666,
-      "lon": 0.3333333333333333
+      "lon": -2.0166666666666666
     }
   },
   {
@@ -246,14 +247,14 @@
     "name": "Bolgatanga",
     "nameWoDiacritics": "Bolgatanga",
     "subdivision": "UE",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 10.783333333333333,
-      "lon": 0.08333333333333333
+      "lon": -0.85
     }
   },
   {
@@ -262,14 +263,14 @@
     "name": "Buipe",
     "nameWoDiacritics": "Buipe",
     "subdivision": "NP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 8.783333333333333,
-      "lon": 0.21666666666666667
+      "lon": -1.5333333333333332
     }
   },
   {
@@ -277,7 +278,7 @@
     "location": "CCT",
     "name": "Cape Coast",
     "nameWoDiacritics": "Cape Coast",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -292,14 +293,14 @@
     "location": "EJU",
     "name": "Ejura",
     "nameWoDiacritics": "Ejura",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 601,
     "coordinates": {
       "lat": 7.366666666666666,
-      "lon": 0.2
+      "lon": -1.3666666666666667
     }
   },
   {
@@ -308,14 +309,14 @@
     "name": "Gumani",
     "nameWoDiacritics": "Gumani",
     "subdivision": "NP",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 9.45,
-      "lon": 0.06666666666666667
+      "lon": -0.7666666666666667
     }
   },
   {
@@ -324,14 +325,14 @@
     "name": "Ho",
     "nameWoDiacritics": "Ho",
     "subdivision": "TV",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 6.6,
-      "lon": 0.03333333333333333
+      "lon": 0.4666666666666667
     }
   },
   {
@@ -339,14 +340,14 @@
     "location": "JUB",
     "name": "Jubilee FPSO",
     "nameWoDiacritics": "Jubilee FPSO",
-    "status": "RQ",
+    "status": 9,
     "function": [
       6
     ],
     "date": 1101,
     "coordinates": {
       "lat": 4.616666666666667,
-      "lon": 0.4166666666666667
+      "lon": -2.9166666666666665
     }
   },
   {
@@ -355,14 +356,14 @@
     "name": "Jumapo",
     "nameWoDiacritics": "Jumapo",
     "subdivision": "EP",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1001,
     "coordinates": {
       "lat": 6.15,
-      "lon": 0.016666666666666666
+      "lon": -0.3
     }
   },
   {
@@ -371,14 +372,14 @@
     "name": "Kasoa",
     "nameWoDiacritics": "Kasoa",
     "subdivision": "CP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 5.516666666666667,
-      "lon": 0.03333333333333333
+      "lon": -0.4666666666666667
     }
   },
   {
@@ -387,14 +388,14 @@
     "name": "Katamanso",
     "nameWoDiacritics": "Katamanso",
     "subdivision": "AA",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 5.733333333333333,
-      "lon": 0.08333333333333333
+      "lon": -0.8333333333333334
     }
   },
   {
@@ -402,7 +403,7 @@
     "location": "KIT",
     "name": "Keta",
     "nameWoDiacritics": "Keta",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -417,7 +418,7 @@
     "location": "KOF",
     "name": "Koforidua",
     "nameWoDiacritics": "Koforidua",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -425,7 +426,7 @@
     "date": 307,
     "coordinates": {
       "lat": 6.083333333333333,
-      "lon": 0.016666666666666666
+      "lon": -0.25
     }
   },
   {
@@ -434,14 +435,14 @@
     "name": "Kokomlemle",
     "nameWoDiacritics": "Kokomlemle",
     "subdivision": "AA",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 5.566666666666666,
-      "lon": 0.016666666666666666
+      "lon": -0.21666666666666667
     }
   },
   {
@@ -449,14 +450,14 @@
     "location": "KGO",
     "name": "Konongo",
     "nameWoDiacritics": "Konongo",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 6.616666666666667,
-      "lon": 0.18333333333333332
+      "lon": -1.2
     }
   },
   {
@@ -464,7 +465,7 @@
     "location": "KTP",
     "name": "Kotoka",
     "nameWoDiacritics": "Kotoka",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -479,14 +480,14 @@
     "location": "KPA",
     "name": "Kpandu",
     "nameWoDiacritics": "Kpandu",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 7,
-      "lon": 0.016666666666666666
+      "lon": 0.2833333333333333
     }
   },
   {
@@ -494,14 +495,14 @@
     "location": "KPE",
     "name": "Kpetoe",
     "nameWoDiacritics": "Kpetoe",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 6.55,
-      "lon": 0.06666666666666667
+      "lon": 0.6833333333333333
     }
   },
   {
@@ -510,14 +511,14 @@
     "name": "Kumasi",
     "nameWoDiacritics": "Kumasi",
     "subdivision": "AH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 6.683333333333334,
-      "lon": 0.21666666666666667
+      "lon": -1.6166666666666667
     }
   },
   {
@@ -525,7 +526,7 @@
     "location": "KMS",
     "name": "Kumasi",
     "nameWoDiacritics": "Kumasi",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -540,14 +541,14 @@
     "location": "KMU",
     "name": "Kumawu",
     "nameWoDiacritics": "Kumawu",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 6.9,
-      "lon": 0.18333333333333332
+      "lon": -1.2666666666666666
     }
   },
   {
@@ -556,7 +557,7 @@
     "name": "Kyebi",
     "nameWoDiacritics": "Kyebi",
     "subdivision": "EP",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -564,7 +565,7 @@
     "date": 2001,
     "coordinates": {
       "lat": 6.166666666666667,
-      "lon": 0.05
+      "lon": -0.55
     }
   },
   {
@@ -573,14 +574,14 @@
     "name": "Lawra",
     "nameWoDiacritics": "Lawra",
     "subdivision": "UW",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1401,
     "coordinates": {
       "lat": 10.65,
-      "lon": 0.4166666666666667
+      "lon": -2.8666666666666667
     }
   },
   {
@@ -588,14 +589,14 @@
     "location": "LEG",
     "name": "Legon",
     "nameWoDiacritics": "Legon",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": 5.65,
-      "lon": 0.016666666666666666
+      "lon": -0.2
     }
   },
   {
@@ -604,14 +605,14 @@
     "name": "Madina",
     "nameWoDiacritics": "Madina",
     "subdivision": "AA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 5.683333333333334,
-      "lon": 0.016666666666666666
+      "lon": -0.16666666666666666
     }
   },
   {
@@ -620,14 +621,14 @@
     "name": "Mim",
     "nameWoDiacritics": "Mim",
     "subdivision": "BA",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 6.9,
-      "lon": 0.38333333333333336
+      "lon": -2.5666666666666664
     }
   },
   {
@@ -636,14 +637,14 @@
     "name": "Navrongo",
     "nameWoDiacritics": "Navrongo",
     "subdivision": "UE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 2001,
     "coordinates": {
       "lat": 10.883333333333333,
-      "lon": 0.016666666666666666
+      "lon": -0.25
     }
   },
   {
@@ -651,7 +652,7 @@
     "location": "NSA",
     "name": "Nsawam",
     "nameWoDiacritics": "Nsawam",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -659,7 +660,7 @@
     "date": 307,
     "coordinates": {
       "lat": 5.8,
-      "lon": 0.03333333333333333
+      "lon": -0.35
     }
   },
   {
@@ -667,7 +668,7 @@
     "location": "OBU",
     "name": "Obuasi",
     "nameWoDiacritics": "Obuasi",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -675,7 +676,7 @@
     "date": 307,
     "coordinates": {
       "lat": 6.2,
-      "lon": 0.23333333333333334
+      "lon": -1.6666666666666665
     }
   },
   {
@@ -683,14 +684,14 @@
     "location": "ODA",
     "name": "Oda",
     "nameWoDiacritics": "Oda",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 5.916666666666667,
-      "lon": 0.9833333333333333
+      "lon": -6.5
     }
   },
   {
@@ -699,14 +700,14 @@
     "name": "Odorko",
     "nameWoDiacritics": "Odorko",
     "subdivision": "AA",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
     "date": 2301,
     "coordinates": {
       "lat": 5.583333333333333,
-      "lon": 0.016666666666666666
+      "lon": -0.26666666666666666
     }
   },
   {
@@ -714,14 +715,14 @@
     "location": "SKM",
     "name": "Sakumono",
     "nameWoDiacritics": "Sakumono",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 5.616666666666667,
-      "lon": 0
+      "lon": -0.05
     }
   },
   {
@@ -729,7 +730,7 @@
     "location": "SPD",
     "name": "Saltpond",
     "nameWoDiacritics": "Saltpond",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -744,7 +745,7 @@
     "location": "SEK",
     "name": "Sekondi",
     "nameWoDiacritics": "Sekondi",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -759,7 +760,7 @@
     "location": "SHA",
     "name": "Shama",
     "nameWoDiacritics": "Shama",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -775,14 +776,14 @@
     "name": "Somanya",
     "nameWoDiacritics": "Somanya",
     "subdivision": "EP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 6.1,
-      "lon": 0.016666666666666666
+      "lon": -0.16666666666666666
     }
   },
   {
@@ -790,7 +791,7 @@
     "location": "NYI",
     "name": "Sunyani",
     "nameWoDiacritics": "Sunyani",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -805,7 +806,7 @@
     "location": "TKD",
     "name": "Takoradi",
     "nameWoDiacritics": "Takoradi",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -822,7 +823,7 @@
     "location": "TML",
     "name": "Tamale",
     "nameWoDiacritics": "Tamale",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -838,14 +839,14 @@
     "name": "Tarkwa",
     "nameWoDiacritics": "Tarkwa",
     "subdivision": "AH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": 5.3,
-      "lon": 0.25
+      "lon": -1.9833333333333334
     }
   },
   {
@@ -854,14 +855,14 @@
     "name": "Techiman",
     "nameWoDiacritics": "Techiman",
     "subdivision": "BA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 7.583333333333333,
-      "lon": 0.25
+      "lon": -1.9333333333333333
     }
   },
   {
@@ -869,7 +870,7 @@
     "location": "TEM",
     "name": "Tema",
     "nameWoDiacritics": "Tema",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -885,14 +886,14 @@
     "name": "Tesano",
     "nameWoDiacritics": "Tesano",
     "subdivision": "AA",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 5.6,
-      "lon": 0.016666666666666666
+      "lon": -0.21666666666666667
     }
   },
   {
@@ -901,7 +902,7 @@
     "name": "Teshie",
     "nameWoDiacritics": "Teshie",
     "subdivision": "AA",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -909,7 +910,7 @@
     "date": 2001,
     "coordinates": {
       "lat": 5.583333333333333,
-      "lon": 0
+      "lon": -0.1
     }
   },
   {
@@ -918,14 +919,14 @@
     "name": "Wa",
     "nameWoDiacritics": "Wa",
     "subdivision": "UW",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1607,
     "coordinates": {
       "lat": 10.066666666666666,
-      "lon": 0.38333333333333336
+      "lon": -2.5
     }
   },
   {
@@ -934,14 +935,14 @@
     "name": "Walewale",
     "nameWoDiacritics": "Walewale",
     "subdivision": "NP",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1607,
     "coordinates": {
       "lat": 10.35,
-      "lon": 0.06666666666666667
+      "lon": -0.8
     }
   },
   {
@@ -950,14 +951,14 @@
     "name": "Weija",
     "nameWoDiacritics": "Weija",
     "subdivision": "AA",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
     "date": 2301,
     "coordinates": {
       "lat": 5.566666666666666,
-      "lon": 0.03333333333333333
+      "lon": -0.3333333333333333
     }
   },
   {
@@ -965,7 +966,7 @@
     "location": "WEA",
     "name": "Winneba",
     "nameWoDiacritics": "Winneba",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],

@@ -2,6 +2,7 @@
   {
     "country": "GM",
     "name": ".GAMBIA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "BAK",
     "name": "Bakau",
     "nameWoDiacritics": "Bakau",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -28,7 +29,7 @@
     "location": "BJL",
     "name": "Banjul",
     "nameWoDiacritics": "Banjul",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -45,7 +46,7 @@
     "location": "BAN",
     "name": "Bansang",
     "nameWoDiacritics": "Bansang",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -60,7 +61,7 @@
     "location": "BSS",
     "name": "Basse Santa Su",
     "nameWoDiacritics": "Basse Santa Su",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -75,7 +76,7 @@
     "location": "BRB",
     "name": "Brikama Ba",
     "nameWoDiacritics": "Brikama Ba",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -90,7 +91,7 @@
     "location": "BWI",
     "name": "Bwiam",
     "nameWoDiacritics": "Bwiam",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -106,14 +107,14 @@
     "name": "Faji Kunda",
     "nameWoDiacritics": "Faji Kunda",
     "subdivision": "B",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 13.416666666666666,
-      "lon": 2.0666666666666664
+      "lon": -16.666666666666668
     }
   },
   {
@@ -121,7 +122,7 @@
     "location": "FAR",
     "name": "Farafenni",
     "nameWoDiacritics": "Farafenni",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -137,14 +138,14 @@
     "name": "Kanifing",
     "nameWoDiacritics": "Kanifing",
     "subdivision": "B",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1801,
     "coordinates": {
       "lat": 13.433333333333334,
-      "lon": 2.0666666666666664
+      "lon": -16.666666666666668
     }
   },
   {
@@ -152,14 +153,14 @@
     "location": "KAR",
     "name": "Karanai",
     "nameWoDiacritics": "Karanai",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 13.216666666666667,
-      "lon": 2
+      "lon": -16.15
     }
   },
   {
@@ -167,14 +168,14 @@
     "location": "KAU",
     "name": "Kau-ur",
     "nameWoDiacritics": "Kau-ur",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
     "date": 212,
     "coordinates": {
       "lat": 13.7,
-      "lon": 1.85
+      "lon": -15.316666666666666
     }
   },
   {
@@ -182,7 +183,7 @@
     "location": "KUN",
     "name": "Kuntair",
     "nameWoDiacritics": "Kuntair",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -198,14 +199,14 @@
     "name": "MacCarthy Island (Jangjangbureh)",
     "nameWoDiacritics": "MacCarthy Island (Jangjangbureh)",
     "subdivision": "M",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
     "date": 212,
     "coordinates": {
       "lat": 13.533333333333333,
-      "lon": 1.7333333333333334
+      "lon": -14.766666666666667
     }
   },
   {
@@ -213,7 +214,7 @@
     "location": "MAK",
     "name": "Mansa Konko",
     "nameWoDiacritics": "Mansa Konko",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -229,14 +230,14 @@
     "name": "Sanyang",
     "nameWoDiacritics": "Sanyang",
     "subdivision": "W",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 901,
     "coordinates": {
       "lat": 13.266666666666667,
-      "lon": 2.0666666666666664
+      "lon": -16.75
     }
   },
   {
@@ -244,7 +245,7 @@
     "location": "SKE",
     "name": "Serekunda",
     "nameWoDiacritics": "Serekunda",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -260,7 +261,7 @@
     "name": "Sukuta",
     "nameWoDiacritics": "Sukuta",
     "subdivision": "W",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -268,7 +269,7 @@
     "date": 1807,
     "coordinates": {
       "lat": 13.4,
-      "lon": 2.0666666666666664
+      "lon": -16.7
     }
   },
   {
@@ -277,14 +278,14 @@
     "name": "Yundum",
     "nameWoDiacritics": "Yundum",
     "subdivision": "W",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 13.333333333333334,
-      "lon": 2.0666666666666664
+      "lon": -16.666666666666668
     }
   }
 ]

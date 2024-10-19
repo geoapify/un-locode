@@ -6,7 +6,7 @@
     "name": ".VANUATU",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Aneityum",
     "nameWoDiacritics": "Aneityum",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -42,7 +42,7 @@
     "name": "Aniwa",
     "nameWoDiacritics": "Aniwa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -61,7 +61,7 @@
     "name": "Big Bay",
     "nameWoDiacritics": "Big Bay",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -80,7 +80,7 @@
     "name": "Craig Cove",
     "nameWoDiacritics": "Craig Cove",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -99,7 +99,7 @@
     "name": "Dillon's Bay",
     "nameWoDiacritics": "Dillon's Bay",
     "subdivision": "TAE",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -107,7 +107,7 @@
     "iata": "",
     "coordinates": {
       "lat": -18.816666666666666,
-      "lon": 17.5
+      "lon": 169
     },
     "remarks": ""
   },
@@ -118,7 +118,7 @@
     "name": "�mae",
     "nameWoDiacritics": "Emae",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -126,7 +126,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.066666666666666,
-      "lon": 17.366666666666667
+      "lon": 168.36666666666667
     },
     "remarks": ""
   },
@@ -137,7 +137,7 @@
     "name": "�pi",
     "nameWoDiacritics": "Epi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -145,7 +145,7 @@
     "iata": "",
     "coordinates": {
       "lat": -16.716666666666665,
-      "lon": 17.35
+      "lon": 168.25
     },
     "remarks": ""
   },
@@ -156,7 +156,7 @@
     "name": "Espiritu Santo",
     "nameWoDiacritics": "Espiritu Santo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -175,7 +175,7 @@
     "name": "Futuna Island",
     "nameWoDiacritics": "Futuna Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -194,7 +194,7 @@
     "name": "Gaua",
     "nameWoDiacritics": "Gaua",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -213,7 +213,7 @@
     "name": "Havannah Harbour",
     "nameWoDiacritics": "Havannah Harbour",
     "subdivision": "SEE",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -221,7 +221,7 @@
     "iata": "",
     "coordinates": {
       "lat": -17.583333333333332,
-      "lon": 17.35
+      "lon": 168.23333333333332
     },
     "remarks": ""
   },
@@ -232,7 +232,7 @@
     "name": "Ipota",
     "nameWoDiacritics": "Ipota",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -251,7 +251,7 @@
     "name": "Lamap",
     "nameWoDiacritics": "Lamap",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -270,7 +270,7 @@
     "name": "Lamen Bay",
     "nameWoDiacritics": "Lamen Bay",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -289,7 +289,7 @@
     "name": "Longana",
     "nameWoDiacritics": "Longana",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -308,7 +308,7 @@
     "name": "Lonorore",
     "nameWoDiacritics": "Lonorore",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -327,7 +327,7 @@
     "name": "Luganville",
     "nameWoDiacritics": "Luganville",
     "subdivision": "SAM",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -336,7 +336,7 @@
     "iata": "",
     "coordinates": {
       "lat": -15.533333333333333,
-      "lon": 17.183333333333334
+      "lon": 167.16666666666666
     },
     "remarks": ""
   },
@@ -347,7 +347,7 @@
     "name": "Ma�wo",
     "nameWoDiacritics": "Maewo",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -355,7 +355,7 @@
     "iata": "",
     "coordinates": {
       "lat": -15.166666666666666,
-      "lon": 17.35
+      "lon": 168.16666666666666
     },
     "remarks": ""
   },
@@ -366,7 +366,7 @@
     "name": "Mota Lava",
     "nameWoDiacritics": "Mota Lava",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -385,7 +385,7 @@
     "name": "Norsup",
     "nameWoDiacritics": "Norsup",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -404,7 +404,7 @@
     "name": "Olpoi",
     "nameWoDiacritics": "Olpoi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -423,7 +423,7 @@
     "name": "Paama",
     "nameWoDiacritics": "Paama",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -442,7 +442,7 @@
     "name": "Port Sandwich",
     "nameWoDiacritics": "Port Sandwich",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -461,7 +461,7 @@
     "name": "Port Vila",
     "nameWoDiacritics": "Port Vila",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -482,7 +482,7 @@
     "name": "Quine Hill",
     "nameWoDiacritics": "Quine Hill",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -501,7 +501,7 @@
     "name": "Redcliffe",
     "nameWoDiacritics": "Redcliffe",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -520,7 +520,7 @@
     "name": "Santo",
     "nameWoDiacritics": "Santo",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -539,7 +539,7 @@
     "name": "Sara",
     "nameWoDiacritics": "Sara",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -558,7 +558,7 @@
     "name": "Sola",
     "nameWoDiacritics": "Sola",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -577,7 +577,7 @@
     "name": "South West Bay",
     "nameWoDiacritics": "South West Bay",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -596,7 +596,7 @@
     "name": "Tanna",
     "nameWoDiacritics": "Tanna",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -615,7 +615,7 @@
     "name": "Tongoa",
     "nameWoDiacritics": "Tongoa",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -634,7 +634,7 @@
     "name": "Torres",
     "nameWoDiacritics": "Torres",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -653,7 +653,7 @@
     "name": "Ulei",
     "nameWoDiacritics": "Ulei",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -672,7 +672,7 @@
     "name": "Valesdir",
     "nameWoDiacritics": "Valesdir",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -691,7 +691,7 @@
     "name": "Walaha",
     "nameWoDiacritics": "Walaha",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],

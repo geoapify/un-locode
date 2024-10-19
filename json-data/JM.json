@@ -6,7 +6,7 @@
     "name": ".JAMAICA",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Alligator Pond",
     "nameWoDiacritics": "Alligator Pond",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -42,7 +42,7 @@
     "name": "Annotto Bay",
     "nameWoDiacritics": "Annotto Bay",
     "subdivision": "05",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -50,7 +50,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.266666666666666,
-      "lon": 8.066666666666666
+      "lon": -76.76666666666667
     },
     "remarks": ""
   },
@@ -61,7 +61,7 @@
     "name": "Bamboo",
     "nameWoDiacritics": "Bamboo",
     "subdivision": "09",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -69,7 +69,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.433333333333334,
-      "lon": 8.333333333333334
+      "lon": -78.03333333333333
     },
     "remarks": ""
   },
@@ -80,7 +80,7 @@
     "name": "Black River",
     "nameWoDiacritics": "Black River",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -99,7 +99,7 @@
     "name": "Bog Walk",
     "nameWoDiacritics": "Bog Walk",
     "subdivision": "14",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -107,7 +107,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.1,
-      "lon": 8.166666666666666
+      "lon": -77.01666666666667
     },
     "remarks": ""
   },
@@ -118,7 +118,7 @@
     "name": "Bowden",
     "nameWoDiacritics": "Bowden",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -137,7 +137,7 @@
     "name": "Browns Town",
     "nameWoDiacritics": "Browns Town",
     "subdivision": "06",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -145,7 +145,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.4,
-      "lon": 8.2
+      "lon": -77.36666666666666
     },
     "remarks": ""
   },
@@ -156,7 +156,7 @@
     "name": "Bull Savanna",
     "nameWoDiacritics": "Bull Savanna",
     "subdivision": "11",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -164,7 +164,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.883333333333333,
-      "lon": 8.216666666666667
+      "lon": -77.6
     },
     "remarks": ""
   },
@@ -175,7 +175,7 @@
     "name": "Charles Town",
     "nameWoDiacritics": "Charles Town",
     "subdivision": "04",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -184,7 +184,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.216666666666665,
-      "lon": 8.066666666666666
+      "lon": -76.66666666666667
     },
     "remarks": ""
   },
@@ -195,7 +195,7 @@
     "name": "Christiana",
     "nameWoDiacritics": "Christiana",
     "subdivision": "12",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -203,7 +203,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.166666666666668,
-      "lon": 8.2
+      "lon": -77.48333333333333
     },
     "remarks": ""
   },
@@ -214,7 +214,7 @@
     "name": "Clarendon Park",
     "nameWoDiacritics": "Clarendon Park",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -222,7 +222,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.966666666666665,
-      "lon": 8.2
+      "lon": -77.38333333333334
     },
     "remarks": ""
   },
@@ -233,7 +233,7 @@
     "name": "Darliston",
     "nameWoDiacritics": "Darliston",
     "subdivision": "10",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -241,7 +241,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.233333333333334,
-      "lon": 8.25
+      "lon": -77.96666666666667
     },
     "remarks": ""
   },
@@ -252,7 +252,7 @@
     "name": "Discovery Bay",
     "nameWoDiacritics": "Discovery Bay",
     "subdivision": "06",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -260,7 +260,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.466666666666665,
-      "lon": 8.2
+      "lon": -77.4
     },
     "remarks": ""
   },
@@ -271,7 +271,7 @@
     "name": "Ewarton",
     "nameWoDiacritics": "Ewarton",
     "subdivision": "14",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -279,7 +279,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.183333333333334,
-      "lon": 8.166666666666666
+      "lon": -77.08333333333333
     },
     "remarks": ""
   },
@@ -290,7 +290,7 @@
     "name": "Fairy Hill",
     "nameWoDiacritics": "Fairy Hill",
     "subdivision": "04",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -298,7 +298,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.15,
-      "lon": 8.05
+      "lon": -76.61666666666666
     },
     "remarks": ""
   },
@@ -309,7 +309,7 @@
     "name": "Falmouth",
     "nameWoDiacritics": "Falmouth",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -328,7 +328,7 @@
     "name": "Frankfield",
     "nameWoDiacritics": "Frankfield",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -336,7 +336,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.15,
-      "lon": 8.2
+      "lon": -77.36666666666666
     },
     "remarks": ""
   },
@@ -347,7 +347,7 @@
     "name": "Halse Hall",
     "nameWoDiacritics": "Halse Hall",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -355,7 +355,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.916666666666668,
-      "lon": 8.183333333333334
+      "lon": -77.25
     },
     "remarks": ""
   },
@@ -366,7 +366,7 @@
     "name": "Hampden",
     "nameWoDiacritics": "Hampden",
     "subdivision": "07",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -374,7 +374,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.433333333333334,
-      "lon": 8.233333333333334
+      "lon": -77.75
     },
     "remarks": ""
   },
@@ -385,7 +385,7 @@
     "name": "Highgate",
     "nameWoDiacritics": "Highgate",
     "subdivision": "05",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -393,7 +393,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.266666666666666,
-      "lon": 8.083333333333334
+      "lon": -76.88333333333334
     },
     "remarks": ""
   },
@@ -404,7 +404,7 @@
     "name": "Kingston",
     "nameWoDiacritics": "Kingston",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -425,7 +425,7 @@
     "name": "Kingston Tinson Airport",
     "nameWoDiacritics": "Kingston Tinson Airport",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -433,7 +433,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.016666666666666,
-      "lon": 8.066666666666666
+      "lon": -76.81666666666666
     },
     "remarks": ""
   },
@@ -444,7 +444,7 @@
     "name": "Knockpatrick",
     "nameWoDiacritics": "Knockpatrick",
     "subdivision": "12",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -452,7 +452,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18,
-      "lon": 8.216666666666667
+      "lon": -77.51666666666667
     },
     "remarks": ""
   },
@@ -463,7 +463,7 @@
     "name": "Linstead",
     "nameWoDiacritics": "Linstead",
     "subdivision": "14",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -471,7 +471,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.133333333333333,
-      "lon": 8.166666666666666
+      "lon": -77.03333333333333
     },
     "remarks": ""
   },
@@ -482,7 +482,7 @@
     "name": "Long Pond",
     "nameWoDiacritics": "Long Pond",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -490,7 +490,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.433333333333334,
-      "lon": 8.216666666666667
+      "lon": -77.55
     },
     "remarks": ""
   },
@@ -501,7 +501,7 @@
     "name": "Lucea",
     "nameWoDiacritics": "Lucea",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -520,7 +520,7 @@
     "name": "Maggotty",
     "nameWoDiacritics": "Maggotty",
     "subdivision": "11",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -528,7 +528,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.15,
-      "lon": 8.233333333333334
+      "lon": -77.76666666666667
     },
     "remarks": ""
   },
@@ -539,7 +539,7 @@
     "name": "Mandeville",
     "nameWoDiacritics": "Mandeville",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -558,7 +558,7 @@
     "name": "May Pen",
     "nameWoDiacritics": "May Pen",
     "subdivision": "13",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -566,7 +566,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.966666666666665,
-      "lon": 8.183333333333334
+      "lon": -77.23333333333333
     },
     "remarks": ""
   },
@@ -577,7 +577,7 @@
     "name": "Moneague",
     "nameWoDiacritics": "Moneague",
     "subdivision": "06",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -585,7 +585,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.266666666666666,
-      "lon": 8.166666666666666
+      "lon": -77.11666666666666
     },
     "remarks": ""
   },
@@ -596,7 +596,7 @@
     "name": "Montego Bay",
     "nameWoDiacritics": "Montego Bay",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -616,7 +616,7 @@
     "name": "Monymusk",
     "nameWoDiacritics": "Monymusk",
     "subdivision": "13",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -624,7 +624,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.816666666666666,
-      "lon": 8.183333333333334
+      "lon": -77.21666666666667
     },
     "remarks": ""
   },
@@ -635,7 +635,7 @@
     "name": "Morant Bay",
     "nameWoDiacritics": "Morant Bay",
     "subdivision": "03",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -643,7 +643,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.883333333333333,
-      "lon": 8.033333333333333
+      "lon": -76.41666666666667
     },
     "remarks": ""
   },
@@ -654,7 +654,7 @@
     "name": "Nain",
     "nameWoDiacritics": "Nain",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -662,7 +662,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.95,
-      "lon": 8.216666666666667
+      "lon": -77.6
     },
     "remarks": ""
   },
@@ -673,7 +673,7 @@
     "name": "Negril",
     "nameWoDiacritics": "Negril",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -692,7 +692,7 @@
     "name": "New Yarmouth",
     "nameWoDiacritics": "New Yarmouth",
     "subdivision": "13",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -700,7 +700,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.883333333333333,
-      "lon": 8.183333333333334
+      "lon": -77.26666666666667
     },
     "remarks": ""
   },
@@ -711,7 +711,7 @@
     "name": "Newport",
     "nameWoDiacritics": "Newport",
     "subdivision": "12",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -719,7 +719,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.966666666666665,
-      "lon": 8.216666666666667
+      "lon": -77.5
     },
     "remarks": ""
   },
@@ -730,7 +730,7 @@
     "name": "Ocho Rios",
     "nameWoDiacritics": "Ocho Rios",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -750,7 +750,7 @@
     "name": "Old Harbour",
     "nameWoDiacritics": "Old Harbour",
     "subdivision": "14",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -758,7 +758,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.933333333333334,
-      "lon": 8.166666666666666
+      "lon": -77.11666666666666
     },
     "remarks": ""
   },
@@ -769,7 +769,7 @@
     "name": "Oracabessa",
     "nameWoDiacritics": "Oracabessa",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -777,7 +777,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.4,
-      "lon": 8.083333333333334
+      "lon": -76.95
     },
     "remarks": ""
   },
@@ -788,7 +788,7 @@
     "name": "Port Antonio",
     "nameWoDiacritics": "Port Antonio",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -808,7 +808,7 @@
     "name": "Port Esquivel",
     "nameWoDiacritics": "Port Esquivel",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -827,7 +827,7 @@
     "name": "Port Henderson",
     "nameWoDiacritics": "Port Henderson",
     "subdivision": "14",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -835,7 +835,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.95,
-      "lon": 8.083333333333334
+      "lon": -76.88333333333334
     },
     "remarks": ""
   },
@@ -846,7 +846,7 @@
     "name": "Port Kaiser",
     "nameWoDiacritics": "Port Kaiser",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -865,7 +865,7 @@
     "name": "Port Maria",
     "nameWoDiacritics": "Port Maria",
     "subdivision": "05",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -873,7 +873,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.366666666666667,
-      "lon": 8.083333333333334
+      "lon": -76.9
     },
     "remarks": ""
   },
@@ -884,7 +884,7 @@
     "name": "Port Morant",
     "nameWoDiacritics": "Port Morant",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -903,7 +903,7 @@
     "name": "Port Rhoades",
     "nameWoDiacritics": "Port Rhoades",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -922,7 +922,7 @@
     "name": "Port Royal",
     "nameWoDiacritics": "Port Royal",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -941,7 +941,7 @@
     "name": "Portmore",
     "nameWoDiacritics": "Portmore",
     "subdivision": "14",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -949,7 +949,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.966666666666665,
-      "lon": 8.083333333333334
+      "lon": -76.86666666666666
     },
     "remarks": ""
   },
@@ -960,7 +960,7 @@
     "name": "Priory",
     "nameWoDiacritics": "Priory",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -968,7 +968,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.45,
-      "lon": 8.183333333333334
+      "lon": -77.21666666666667
     },
     "remarks": ""
   },
@@ -979,7 +979,7 @@
     "name": "Rio Bueno",
     "nameWoDiacritics": "Rio Bueno",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -998,7 +998,7 @@
     "name": "Rocky Point",
     "nameWoDiacritics": "Rocky Point",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -1017,7 +1017,7 @@
     "name": "Rose Hall",
     "nameWoDiacritics": "Rose Hall",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1025,7 +1025,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.933333333333334,
-      "lon": 8.216666666666667
+      "lon": -77.65
     },
     "remarks": ""
   },
@@ -1036,7 +1036,7 @@
     "name": "Saint Andrew Parish",
     "nameWoDiacritics": "Saint Andrew Parish",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       4
@@ -1056,7 +1056,7 @@
     "name": "Saint Ann's Bay",
     "nameWoDiacritics": "Saint Ann's Bay",
     "subdivision": "06",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -1064,7 +1064,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.433333333333334,
-      "lon": 8.183333333333334
+      "lon": -77.2
     },
     "remarks": ""
   },
@@ -1075,7 +1075,7 @@
     "name": "Saint Thomas",
     "nameWoDiacritics": "Saint Thomas",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1083,7 +1083,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.9,
-      "lon": 8.033333333333333
+      "lon": -76.43333333333334
     },
     "remarks": ""
   },
@@ -1094,7 +1094,7 @@
     "name": "Salt River",
     "nameWoDiacritics": "Salt River",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -1113,7 +1113,7 @@
     "name": "Sandy Bay",
     "nameWoDiacritics": "Sandy Bay",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1121,7 +1121,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.45,
-      "lon": 8.333333333333334
+      "lon": -78.08333333333333
     },
     "remarks": ""
   },
@@ -1132,7 +1132,7 @@
     "name": "Santa Cruz",
     "nameWoDiacritics": "Santa Cruz",
     "subdivision": "11",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1140,7 +1140,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.05,
-      "lon": 8.233333333333334
+      "lon": -77.7
     },
     "remarks": ""
   },
@@ -1151,7 +1151,7 @@
     "name": "Savanna-la-Mar",
     "nameWoDiacritics": "Savanna-la-Mar",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -1159,7 +1159,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.216666666666665,
-      "lon": 8.333333333333334
+      "lon": -78.13333333333334
     },
     "remarks": ""
   },
@@ -1170,7 +1170,7 @@
     "name": "Serge Island",
     "nameWoDiacritics": "Serge Island",
     "subdivision": "03",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1178,7 +1178,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.95,
-      "lon": 8.033333333333333
+      "lon": -76.48333333333333
     },
     "remarks": ""
   },
@@ -1189,7 +1189,7 @@
     "name": "Spanish Town",
     "nameWoDiacritics": "Spanish Town",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1208,7 +1208,7 @@
     "name": "Trelawny",
     "nameWoDiacritics": "Trelawny",
     "subdivision": "07",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1216,7 +1216,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.383333333333333,
-      "lon": 8.216666666666667
+      "lon": -77.63333333333334
     },
     "remarks": ""
   },
@@ -1227,7 +1227,7 @@
     "name": "Vineyard",
     "nameWoDiacritics": "Vineyard",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1235,7 +1235,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.966666666666665,
-      "lon": 8.066666666666666
+      "lon": -76.76666666666667
     },
     "remarks": ""
   },
@@ -1246,7 +1246,7 @@
     "name": "Wakefield",
     "nameWoDiacritics": "Wakefield",
     "subdivision": "07",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2,
       5
@@ -1255,7 +1255,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.416666666666668,
-      "lon": 8.233333333333334
+      "lon": -77.71666666666667
     },
     "remarks": ""
   },
@@ -1266,7 +1266,7 @@
     "name": "Worthy Park",
     "nameWoDiacritics": "Worthy Park",
     "subdivision": "14",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1274,7 +1274,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.15,
-      "lon": 8.166666666666666
+      "lon": -77.15
     },
     "remarks": ""
   },
@@ -1285,7 +1285,7 @@
     "name": "Yallahs",
     "nameWoDiacritics": "Yallahs",
     "subdivision": "03",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1293,7 +1293,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.866666666666667,
-      "lon": 8.05
+      "lon": -76.56666666666666
     },
     "remarks": ""
   }

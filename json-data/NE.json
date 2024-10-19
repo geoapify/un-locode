@@ -6,7 +6,7 @@
     "name": ".NIGER",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Agades",
     "nameWoDiacritics": "Agades",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -42,7 +42,7 @@
     "name": "Arlit",
     "nameWoDiacritics": "Arlit",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -61,7 +61,7 @@
     "name": "Birni Nkoni",
     "nameWoDiacritics": "Birni Nkoni",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -80,7 +80,7 @@
     "name": "Diffa",
     "nameWoDiacritics": "Diffa",
     "subdivision": "2",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -88,7 +88,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.3,
-      "lon": 1.3833333333333333
+      "lon": 12.6
     },
     "remarks": ""
   },
@@ -99,7 +99,7 @@
     "name": "Dogodountchi",
     "nameWoDiacritics": "Dogodountchi",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -107,7 +107,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.633333333333333,
-      "lon": 0.6666666666666666
+      "lon": 4.033333333333333
     },
     "remarks": ""
   },
@@ -118,7 +118,7 @@
     "name": "Dosso",
     "nameWoDiacritics": "Dosso",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -126,7 +126,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.05,
-      "lon": 0.5166666666666667
+      "lon": 3.2
     },
     "remarks": ""
   },
@@ -137,7 +137,7 @@
     "name": "Galmi",
     "nameWoDiacritics": "Galmi",
     "subdivision": "5",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -145,7 +145,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.966666666666667,
-      "lon": 0.9
+      "lon": 5.683333333333334
     },
     "remarks": ""
   },
@@ -156,7 +156,7 @@
     "name": "Gaya",
     "nameWoDiacritics": "Gaya",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -164,7 +164,7 @@
     "iata": "",
     "coordinates": {
       "lat": 11.883333333333333,
-      "lon": 0.5333333333333333
+      "lon": 3.4333333333333336
     },
     "remarks": ""
   },
@@ -175,7 +175,7 @@
     "name": "Imourarene",
     "nameWoDiacritics": "Imourarene",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -194,7 +194,7 @@
     "name": "Madaoua",
     "nameWoDiacritics": "Madaoua",
     "subdivision": "5",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -202,7 +202,7 @@
     "iata": "",
     "coordinates": {
       "lat": 14.083333333333334,
-      "lon": 1.0333333333333334
+      "lon": 6.433333333333334
     },
     "remarks": ""
   },
@@ -213,7 +213,7 @@
     "name": "Malbaza",
     "nameWoDiacritics": "Malbaza",
     "subdivision": "5",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -221,7 +221,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.933333333333334,
-      "lon": 0.8833333333333333
+      "lon": 5.516666666666667
     },
     "remarks": ""
   },
@@ -232,7 +232,7 @@
     "name": "Maradi",
     "nameWoDiacritics": "Maradi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -251,7 +251,7 @@
     "name": "Niamey",
     "nameWoDiacritics": "Niamey",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -271,7 +271,7 @@
     "name": "Ouna",
     "nameWoDiacritics": "Ouna",
     "subdivision": "3",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -279,7 +279,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.166666666666666,
-      "lon": 0.5
+      "lon": 3.15
     },
     "remarks": ""
   },
@@ -290,7 +290,7 @@
     "name": "Tag�za",
     "nameWoDiacritics": "Tagaza",
     "subdivision": "4",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -298,7 +298,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.55,
-      "lon": 1.1833333333333333
+      "lon": 7.283333333333333
     },
     "remarks": ""
   },
@@ -309,7 +309,7 @@
     "name": "Tahoua",
     "nameWoDiacritics": "Tahoua",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -328,7 +328,7 @@
     "name": "Tchirozerine",
     "nameWoDiacritics": "Tchirozerine",
     "subdivision": "1",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -336,7 +336,7 @@
     "iata": "",
     "coordinates": {
       "lat": 17.1,
-      "lon": 1.2333333333333334
+      "lon": 7.816666666666666
     },
     "remarks": ""
   },
@@ -347,7 +347,7 @@
     "name": "Tillab�ri",
     "nameWoDiacritics": "Tillaberi",
     "subdivision": "6",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -355,7 +355,7 @@
     "iata": "",
     "coordinates": {
       "lat": 14.2,
-      "lon": 0.2
+      "lon": 1.45
     },
     "remarks": ""
   },
@@ -366,7 +366,7 @@
     "name": "Tyawa",
     "nameWoDiacritics": "Tyawa",
     "subdivision": "6",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -374,7 +374,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.5,
-      "lon": 0.18333333333333332
+      "lon": 1.2833333333333332
     },
     "remarks": ""
   },
@@ -385,7 +385,7 @@
     "name": "Zinder",
     "nameWoDiacritics": "Zinder",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],

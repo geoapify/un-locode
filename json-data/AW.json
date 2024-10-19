@@ -2,6 +2,7 @@
   {
     "country": "AW",
     "name": ".ARUBA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "AUA",
     "name": "Aruba",
     "nameWoDiacritics": "Aruba",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -21,7 +22,7 @@
     "date": 401,
     "coordinates": {
       "lat": 12.5,
-      "lon": 7.583333333333333
+      "lon": -69.96666666666667
     }
   },
   {
@@ -29,14 +30,14 @@
     "location": "BAR",
     "name": "Barcadera",
     "nameWoDiacritics": "Barcadera",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 307,
     "coordinates": {
       "lat": 12.483333333333333,
-      "lon": 7.583333333333333
+      "lon": -69.98333333333333
     }
   },
   {
@@ -44,7 +45,7 @@
     "location": "BUS",
     "name": "Bushiribana",
     "nameWoDiacritics": "Bushiribana",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2,
@@ -53,7 +54,7 @@
     "date": 307,
     "coordinates": {
       "lat": 12.55,
-      "lon": 7.583333333333333
+      "lon": -69.96666666666667
     }
   },
   {
@@ -61,7 +62,7 @@
     "location": "DEU",
     "name": "Druif",
     "nameWoDiacritics": "Druif",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -76,14 +77,14 @@
     "location": "ND9",
     "name": "Noord",
     "nameWoDiacritics": "Noord",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 12.566666666666666,
-      "lon": 7
+      "lon": -70.01666666666667
     }
   },
   {
@@ -91,7 +92,7 @@
     "location": "ORJ",
     "name": "Oranjestad",
     "nameWoDiacritics": "Oranjestad",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       4
@@ -107,14 +108,14 @@
     "location": "PAB",
     "name": "Palm Beach",
     "nameWoDiacritics": "Palm Beach",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 12.566666666666666,
-      "lon": 7
+      "lon": -70.03333333333333
     }
   },
   {
@@ -122,14 +123,14 @@
     "location": "PAR",
     "name": "Paradera",
     "nameWoDiacritics": "Paradera",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 12.533333333333333,
-      "lon": 7
+      "lon": -70
     }
   },
   {
@@ -137,14 +138,14 @@
     "location": "SCZ",
     "name": "Santa Cruz",
     "nameWoDiacritics": "Santa Cruz",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 12.5,
-      "lon": 7.583333333333333
+      "lon": -69.98333333333333
     }
   },
   {
@@ -152,7 +153,7 @@
     "location": "SNL",
     "name": "Sint Nicolaas",
     "nameWoDiacritics": "Sint Nicolaas",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],

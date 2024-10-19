@@ -2,6 +2,7 @@
   {
     "country": "BM",
     "name": ".BERMUDA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,14 +14,14 @@
     "location": "SEV",
     "name": "Devonshire",
     "nameWoDiacritics": "Devonshire",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1107,
     "coordinates": {
       "lat": 32.3,
-      "lon": 6.733333333333333
+      "lon": -64.75
     }
   },
   {
@@ -28,7 +29,7 @@
     "location": "FPT",
     "name": "Freeport",
     "nameWoDiacritics": "Freeport",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -43,7 +44,7 @@
     "location": "BDA",
     "name": "Hamilton",
     "nameWoDiacritics": "Hamilton",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -60,14 +61,14 @@
     "location": "HBI",
     "name": "Harbour Island",
     "nameWoDiacritics": "Harbour Island",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 212,
     "coordinates": {
       "lat": 25.5,
-      "lon": 8.05
+      "lon": -76.63333333333334
     }
   },
   {
@@ -75,7 +76,7 @@
     "location": "KWF",
     "name": "Kings Wharf",
     "nameWoDiacritics": "Kings Wharf",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       2
@@ -91,14 +92,14 @@
     "location": "PA5",
     "name": "Paget Parish",
     "nameWoDiacritics": "Paget Parish",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 32.28333333333333,
-      "lon": 6.733333333333333
+      "lon": -64.76666666666667
     }
   },
   {
@@ -106,14 +107,14 @@
     "location": "5PE",
     "name": "Pembroke",
     "nameWoDiacritics": "Pembroke",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 32.3,
-      "lon": 6.733333333333333
+      "lon": -64.76666666666667
     }
   },
   {
@@ -121,14 +122,14 @@
     "location": "SGE",
     "name": "Saint George",
     "nameWoDiacritics": "Saint George",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 212,
     "coordinates": {
       "lat": 32.38333333333333,
-      "lon": 6.733333333333333
+      "lon": -64.68333333333334
     }
   },
   {
@@ -136,14 +137,14 @@
     "location": "SAN",
     "name": "Sandys",
     "nameWoDiacritics": "Sandys",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1701,
     "coordinates": {
       "lat": 32.3,
-      "lon": 6.75
+      "lon": -64.86666666666666
     }
   },
   {
@@ -151,14 +152,14 @@
     "location": "SOU",
     "name": "Southampton",
     "nameWoDiacritics": "Southampton",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1207,
     "coordinates": {
       "lat": 32.25,
-      "lon": 6.75
+      "lon": -64.85
     }
   },
   {
@@ -166,14 +167,14 @@
     "location": "WA7",
     "name": "Warwick",
     "nameWoDiacritics": "Warwick",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 32.266666666666666,
-      "lon": 6.733333333333333
+      "lon": -64.8
     }
   }
 ]

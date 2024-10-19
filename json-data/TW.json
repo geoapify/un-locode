@@ -6,7 +6,7 @@
     "name": ".TAIWAN (PROVINCE OF CHINA)",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "An Ping",
     "nameWoDiacritics": "An Ping",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -42,7 +42,7 @@
     "name": "Bade City",
     "nameWoDiacritics": "Bade City",
     "subdivision": "TAO",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -50,7 +50,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.95,
-      "lon": 12.183333333333334
+      "lon": 121.28333333333333
     },
     "remarks": ""
   },
@@ -61,7 +61,7 @@
     "name": "Bali",
     "nameWoDiacritics": "Bali",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       2
@@ -70,7 +70,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.15,
-      "lon": 12.2
+      "lon": 121.4
     },
     "remarks": ""
   },
@@ -81,7 +81,7 @@
     "name": "Budai",
     "nameWoDiacritics": "Budai",
     "subdivision": "",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
@@ -89,7 +89,7 @@
     "iata": "",
     "coordinates": {
       "lat": 23.366666666666667,
-      "lon": 12
+      "lon": 120.1
     },
     "remarks": ""
   },
@@ -100,7 +100,7 @@
     "name": "Chang-Hua",
     "nameWoDiacritics": "Chang-Hua",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -109,7 +109,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.066666666666666,
-      "lon": 12.05
+      "lon": 120.51666666666667
     },
     "remarks": ""
   },
@@ -120,7 +120,7 @@
     "name": "Chi Mei",
     "nameWoDiacritics": "Chi Mei",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -139,7 +139,7 @@
     "name": "Chiayi",
     "nameWoDiacritics": "Chiayi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -158,7 +158,7 @@
     "name": "Chung-Li",
     "nameWoDiacritics": "Chung-Li",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -177,7 +177,7 @@
     "name": "Chu-pei",
     "nameWoDiacritics": "Chu-pei",
     "subdivision": "HSZ",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -186,7 +186,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.833333333333332,
-      "lon": 12.166666666666666
+      "lon": 121
     },
     "remarks": ""
   },
@@ -197,7 +197,7 @@
     "name": "Feng-y�an-ch'�",
     "nameWoDiacritics": "Feng-yuan-ch'u",
     "subdivision": "TXG",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -206,7 +206,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.25,
-      "lon": 12.066666666666666
+      "lon": 120.71666666666667
     },
     "remarks": ""
   },
@@ -217,7 +217,7 @@
     "name": "Gangshan",
     "nameWoDiacritics": "Gangshan",
     "subdivision": "KHH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -225,7 +225,7 @@
     "iata": "",
     "coordinates": {
       "lat": 22.783333333333335,
-      "lon": 12.016666666666667
+      "lon": 120.28333333333333
     },
     "remarks": ""
   },
@@ -236,7 +236,7 @@
     "name": "Green Island",
     "nameWoDiacritics": "Green Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -255,7 +255,7 @@
     "name": "Guishan",
     "nameWoDiacritics": "Guishan",
     "subdivision": "TAO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -263,7 +263,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.9,
-      "lon": 12.216666666666667
+      "lon": 121.55
     },
     "remarks": ""
   },
@@ -274,7 +274,7 @@
     "name": "Hengchun",
     "nameWoDiacritics": "Hengchun",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -293,7 +293,7 @@
     "name": "Hoping",
     "nameWoDiacritics": "Hoping",
     "subdivision": "HUA",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -312,7 +312,7 @@
     "name": "Hsichih",
     "nameWoDiacritics": "Hsichih",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -320,7 +320,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.066666666666666,
-      "lon": 12.216666666666667
+      "lon": 121.65
     },
     "remarks": ""
   },
@@ -331,7 +331,7 @@
     "name": "Hsi-Chih",
     "nameWoDiacritics": "Hsi-Chih",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -339,7 +339,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.066666666666666,
-      "lon": 12.216666666666667
+      "lon": 121.65
     },
     "remarks": ""
   },
@@ -350,7 +350,7 @@
     "name": "Hsin-chu",
     "nameWoDiacritics": "Hsin-chu",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -359,7 +359,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.816666666666666,
-      "lon": 12.083333333333334
+      "lon": 120.96666666666667
     },
     "remarks": ""
   },
@@ -370,7 +370,7 @@
     "name": "Hsin-chuang",
     "nameWoDiacritics": "Hsin-chuang",
     "subdivision": "KHH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -378,7 +378,7 @@
     "iata": "",
     "coordinates": {
       "lat": 22.75,
-      "lon": 12.016666666666667
+      "lon": 120.3
     },
     "remarks": ""
   },
@@ -389,7 +389,7 @@
     "name": "Hsin-t'ien",
     "nameWoDiacritics": "Hsin-t'ien",
     "subdivision": "TPE",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       2
@@ -409,7 +409,7 @@
     "name": "Hualien",
     "nameWoDiacritics": "Hualien",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -429,7 +429,7 @@
     "name": "Hukou",
     "nameWoDiacritics": "Hukou",
     "subdivision": "HSQ",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -437,7 +437,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.9,
-      "lon": 12.166666666666666
+      "lon": 121.05
     },
     "remarks": ""
   },
@@ -448,7 +448,7 @@
     "name": "I-lan",
     "nameWoDiacritics": "I-lan",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -457,7 +457,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.766666666666666,
-      "lon": 12.233333333333333
+      "lon": 121.75
     },
     "remarks": ""
   },
@@ -468,7 +468,7 @@
     "name": "Kaohsiung",
     "nameWoDiacritics": "Kaohsiung",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -488,7 +488,7 @@
     "name": "Keelung (Chilung)",
     "nameWoDiacritics": "Keelung (Chilung)",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -507,7 +507,7 @@
     "name": "Kepz",
     "nameWoDiacritics": "Kepz",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -526,7 +526,7 @@
     "name": "Kinmen",
     "nameWoDiacritics": "Kinmen",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -545,7 +545,7 @@
     "name": "Lishan",
     "nameWoDiacritics": "Lishan",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -564,7 +564,7 @@
     "name": "Lung-men",
     "nameWoDiacritics": "Lung-men",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -572,7 +572,7 @@
     "iata": "",
     "coordinates": {
       "lat": 23.566666666666666,
-      "lon": 12.566666666666666
+      "lon": 119.66666666666667
     },
     "remarks": ""
   },
@@ -583,7 +583,7 @@
     "name": "Mai-Liai",
     "nameWoDiacritics": "Mai-Liai",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -591,7 +591,7 @@
     "iata": "",
     "coordinates": {
       "lat": 23.75,
-      "lon": 12.016666666666667
+      "lon": 120.25
     },
     "remarks": ""
   },
@@ -602,7 +602,7 @@
     "name": "Mai-liao",
     "nameWoDiacritics": "Mai-liao",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -610,7 +610,7 @@
     "iata": "",
     "coordinates": {
       "lat": 23.1,
-      "lon": 12
+      "lon": 120.13333333333334
     },
     "remarks": ""
   },
@@ -621,7 +621,7 @@
     "name": "Makung",
     "nameWoDiacritics": "Makung",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -640,7 +640,7 @@
     "name": "Matsu",
     "nameWoDiacritics": "Matsu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -659,7 +659,7 @@
     "name": "Miao-li",
     "nameWoDiacritics": "Miao-li",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -668,7 +668,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.55,
-      "lon": 12.066666666666666
+      "lon": 120.81666666666666
     },
     "remarks": ""
   },
@@ -679,7 +679,7 @@
     "name": "Nangang",
     "nameWoDiacritics": "Nangang",
     "subdivision": "KHH",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -687,7 +687,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.083333333333332,
-      "lon": 12.266666666666667
+      "lon": 122
     },
     "remarks": ""
   },
@@ -698,7 +698,7 @@
     "name": "Nantou",
     "nameWoDiacritics": "Nantou",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       2
@@ -707,7 +707,7 @@
     "iata": "",
     "coordinates": {
       "lat": 23.9,
-      "lon": 12.066666666666666
+      "lon": 120.68333333333334
     },
     "remarks": ""
   },
@@ -718,7 +718,7 @@
     "name": "Nan-t'ou",
     "nameWoDiacritics": "Nan-t'ou",
     "subdivision": "NAN",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -726,7 +726,7 @@
     "iata": "",
     "coordinates": {
       "lat": 23.9,
-      "lon": 12.066666666666666
+      "lon": 120.66666666666667
     },
     "remarks": ""
   },
@@ -737,7 +737,7 @@
     "name": "\"Nepz",
     "nameWoDiacritics": " Nantze\"",
     "subdivision": "\"Nepz",
-    "status": " Nantze\"",
+    "status": null,
     "function": [],
     "date": "RQ",
     "iata": "0-------",
@@ -754,7 +754,7 @@
     "name": "New Taipei City",
     "nameWoDiacritics": "New Taipei City",
     "subdivision": "TPE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -762,7 +762,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25,
-      "lon": 12.2
+      "lon": 121.43333333333334
     },
     "remarks": ""
   },
@@ -773,7 +773,7 @@
     "name": "Orchid Island",
     "nameWoDiacritics": "Orchid Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -792,7 +792,7 @@
     "name": "Pingtung",
     "nameWoDiacritics": "Pingtung",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -811,7 +811,7 @@
     "name": "Pingzhen",
     "nameWoDiacritics": "Pingzhen",
     "subdivision": "TAO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -819,7 +819,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.933333333333334,
-      "lon": 12.183333333333334
+      "lon": 121.2
     },
     "remarks": ""
   },
@@ -830,7 +830,7 @@
     "name": "Sha-lun",
     "nameWoDiacritics": "Sha-lun",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -839,7 +839,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.1,
-      "lon": 12.183333333333334
+      "lon": 121.21666666666667
     },
     "remarks": ""
   },
@@ -850,7 +850,7 @@
     "name": "Sijhih",
     "nameWoDiacritics": "Sijhih",
     "subdivision": "TPE",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -869,7 +869,7 @@
     "name": "Suao",
     "nameWoDiacritics": "Suao",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -888,7 +888,7 @@
     "name": "Sun Moon Lake",
     "nameWoDiacritics": "Sun Moon Lake",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -907,7 +907,7 @@
     "name": "Taichung",
     "nameWoDiacritics": "Taichung",
     "subdivision": "TXG",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -927,7 +927,7 @@
     "name": "Tainan",
     "nameWoDiacritics": "Tainan",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -947,7 +947,7 @@
     "name": "T'ai-nan-hsien",
     "nameWoDiacritics": "T'ai-nan-hsien",
     "subdivision": "TNN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -955,7 +955,7 @@
     "iata": "",
     "coordinates": {
       "lat": 23.3,
-      "lon": 12.016666666666667
+      "lon": 120.31666666666666
     },
     "remarks": ""
   },
@@ -966,7 +966,7 @@
     "name": "T'ai-pao",
     "nameWoDiacritics": "T'ai-pao",
     "subdivision": "CYQ",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -974,7 +974,7 @@
     "iata": "",
     "coordinates": {
       "lat": 23.45,
-      "lon": 12.016666666666667
+      "lon": 120.31666666666666
     },
     "remarks": ""
   },
@@ -985,7 +985,7 @@
     "name": "Taipei",
     "nameWoDiacritics": "Taipei",
     "subdivision": "TPE",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -995,7 +995,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.033333333333335,
-      "lon": 12.216666666666667
+      "lon": 121.51666666666667
     },
     "remarks": ""
   },
@@ -1006,7 +1006,7 @@
     "name": "Taipei Songshan Apt",
     "nameWoDiacritics": "Taipei Songshan Apt",
     "subdivision": "TPE",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1014,7 +1014,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.066666666666666,
-      "lon": 12.216666666666667
+      "lon": 121.55
     },
     "remarks": ""
   },
@@ -1025,7 +1025,7 @@
     "name": "Taitung",
     "nameWoDiacritics": "Taitung",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -1045,7 +1045,7 @@
     "name": "Taoyuan",
     "nameWoDiacritics": "Taoyuan",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       2,
@@ -1066,7 +1066,7 @@
     "name": "Toufen",
     "nameWoDiacritics": "Toufen",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1074,7 +1074,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.516666666666666,
-      "lon": 12.083333333333334
+      "lon": 120.9
     },
     "remarks": ""
   },
@@ -1085,7 +1085,7 @@
     "name": "Tou-liu",
     "nameWoDiacritics": "Tou-liu",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1093,7 +1093,7 @@
     "iata": "",
     "coordinates": {
       "lat": 23.7,
-      "lon": 12.05
+      "lon": 120.53333333333333
     },
     "remarks": ""
   },
@@ -1104,7 +1104,7 @@
     "name": "Tung Hai",
     "nameWoDiacritics": "Tung Hai",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -1123,7 +1123,7 @@
     "name": "Wonan",
     "nameWoDiacritics": "Wonan",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1142,7 +1142,7 @@
     "name": "Wu-jih",
     "nameWoDiacritics": "Wu-jih",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1151,7 +1151,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.1,
-      "lon": 12.05
+      "lon": 120.61666666666666
     },
     "remarks": ""
   },
@@ -1162,7 +1162,7 @@
     "name": "Wu-ku",
     "nameWoDiacritics": "Wu-ku",
     "subdivision": "TPE",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1181,7 +1181,7 @@
     "name": "Wu-tu",
     "nameWoDiacritics": "Wu-tu",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -1192,7 +1192,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.083333333333332,
-      "lon": 12.233333333333333
+      "lon": 121.66666666666667
     },
     "remarks": ""
   },
@@ -1203,7 +1203,7 @@
     "name": "Ying-Ge",
     "nameWoDiacritics": "Ying-Ge",
     "subdivision": "TPE",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -1222,7 +1222,7 @@
     "name": "Y�ang-wang",
     "nameWoDiacritics": "Yuang-wang",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1230,7 +1230,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.05,
-      "lon": 12.166666666666666
+      "lon": 121.15
     },
     "remarks": ""
   },
@@ -1241,7 +1241,7 @@
     "name": "Y�an-Lin",
     "nameWoDiacritics": "Yuan-Lin",
     "subdivision": "CHA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1249,7 +1249,7 @@
     "iata": "",
     "coordinates": {
       "lat": 23.95,
-      "lon": 12.05
+      "lon": 120.56666666666666
     },
     "remarks": ""
   },
@@ -1260,7 +1260,7 @@
     "name": "Yung-an",
     "nameWoDiacritics": "Yung-an",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1279,7 +1279,7 @@
     "name": "Yung-K'Ang",
     "nameWoDiacritics": "Yung-K'Ang",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -1287,7 +1287,7 @@
     "iata": "",
     "coordinates": {
       "lat": 23.016666666666666,
-      "lon": 12.016666666666667
+      "lon": 120.25
     },
     "remarks": ""
   },
@@ -1298,7 +1298,7 @@
     "name": "Yunlin",
     "nameWoDiacritics": "Yunlin",
     "subdivision": "YUN",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -1317,7 +1317,7 @@
     "name": "Zhubei",
     "nameWoDiacritics": "Zhubei",
     "subdivision": "HSZ",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1325,7 +1325,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.833333333333332,
-      "lon": 12.166666666666666
+      "lon": 121
     },
     "remarks": ""
   }

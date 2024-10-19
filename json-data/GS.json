@@ -2,6 +2,7 @@
   {
     "country": "GS",
     "name": ".SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "GRV",
     "name": "Grytviken",
     "nameWoDiacritics": "Grytviken",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -21,7 +22,7 @@
     "date": 207,
     "coordinates": {
       "lat": -54.266666666666666,
-      "lon": 4.05
+      "lon": -36.5
     }
   },
   {
@@ -29,7 +30,7 @@
     "location": "LEH",
     "name": "Leith Harbour",
     "nameWoDiacritics": "Leith Harbour",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],

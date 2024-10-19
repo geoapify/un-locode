@@ -6,7 +6,7 @@
     "name": ".ESWATINI",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Agno",
     "nameWoDiacritics": "Agno",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": 45.983333333333334,
-      "lon": 1.4166666666666667
+      "lon": 8.85
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Epagny",
     "nameWoDiacritics": "Epagny",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -50,7 +50,7 @@
     "iata": "",
     "coordinates": {
       "lat": 46.96666666666667,
-      "lon": 1.1666666666666667
+      "lon": 7.133333333333334
     },
     "remarks": ""
   },
@@ -61,7 +61,7 @@
     "name": "Ezulwini",
     "nameWoDiacritics": "Ezulwini",
     "subdivision": "HH",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -69,7 +69,7 @@
     "iata": "",
     "coordinates": {
       "lat": -26.4,
-      "lon": 3.183333333333333
+      "lon": 31.166666666666668
     },
     "remarks": ""
   },
@@ -80,7 +80,7 @@
     "name": "King Mswati III International Apt",
     "nameWoDiacritics": "King Mswati III International Apt",
     "subdivision": "MA",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
@@ -88,7 +88,7 @@
     "iata": "",
     "coordinates": {
       "lat": -26.35,
-      "lon": 3.2333333333333334
+      "lon": 31.716666666666665
     },
     "remarks": ""
   },
@@ -99,7 +99,7 @@
     "name": "Kollbrunn",
     "nameWoDiacritics": "Kollbrunn",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -107,7 +107,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.45,
-      "lon": 1.4
+      "lon": 8.783333333333333
     },
     "remarks": ""
   },
@@ -118,7 +118,7 @@
     "name": "Lomahasha",
     "nameWoDiacritics": "Lomahasha",
     "subdivision": "LU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -126,7 +126,7 @@
     "iata": "",
     "coordinates": {
       "lat": -25.983333333333334,
-      "lon": 3.3333333333333335
+      "lon": 32
     },
     "remarks": ""
   },
@@ -137,7 +137,7 @@
     "name": "Mahlanya",
     "nameWoDiacritics": "Mahlanya",
     "subdivision": "MA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -145,7 +145,7 @@
     "iata": "",
     "coordinates": {
       "lat": -26.5,
-      "lon": 3.183333333333333
+      "lon": 31.283333333333335
     },
     "remarks": ""
   },
@@ -156,7 +156,7 @@
     "name": "Malkerns",
     "nameWoDiacritics": "Malkerns",
     "subdivision": "LU",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -165,7 +165,7 @@
     "iata": "",
     "coordinates": {
       "lat": -26.566666666666666,
-      "lon": 3.183333333333333
+      "lon": 31.183333333333334
     },
     "remarks": ""
   },
@@ -176,7 +176,7 @@
     "name": "Manzini",
     "nameWoDiacritics": "Manzini",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -196,7 +196,7 @@
     "name": "Matsapha",
     "nameWoDiacritics": "Matsapha",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -215,7 +215,7 @@
     "name": "Mbabane",
     "nameWoDiacritics": "Mbabane",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       3,
@@ -236,7 +236,7 @@
     "name": "Mhlume",
     "nameWoDiacritics": "Mhlume",
     "subdivision": "LU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -244,7 +244,7 @@
     "iata": "",
     "coordinates": {
       "lat": 26.033333333333335,
-      "lon": 3.25
+      "lon": 31.85
     },
     "remarks": ""
   },
@@ -255,7 +255,7 @@
     "name": "Motshane",
     "nameWoDiacritics": "Motshane",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -263,7 +263,7 @@
     "iata": "",
     "coordinates": {
       "lat": -26.316666666666666,
-      "lon": 3.1666666666666665
+      "lon": 31.133333333333333
     },
     "remarks": ""
   },
@@ -274,7 +274,7 @@
     "name": "Nhlangano",
     "nameWoDiacritics": "Nhlangano",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -283,7 +283,7 @@
     "iata": "",
     "coordinates": {
       "lat": -27.116666666666667,
-      "lon": 3.183333333333333
+      "lon": 31.2
     },
     "remarks": ""
   },
@@ -294,7 +294,7 @@
     "name": "Sidvokodvo",
     "nameWoDiacritics": "Sidvokodvo",
     "subdivision": "MA",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -303,7 +303,7 @@
     "iata": "",
     "coordinates": {
       "lat": -26.616666666666667,
-      "lon": 3.2
+      "lon": 31.45
     },
     "remarks": ""
   },
@@ -314,7 +314,7 @@
     "name": "Simunye",
     "nameWoDiacritics": "Simunye",
     "subdivision": "LU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -322,7 +322,7 @@
     "iata": "",
     "coordinates": {
       "lat": -26.2,
-      "lon": 3.25
+      "lon": 31.916666666666668
     },
     "remarks": ""
   },
@@ -333,7 +333,7 @@
     "name": "Siphofaneni",
     "nameWoDiacritics": "Siphofaneni",
     "subdivision": "LU",
-    "status": "AM",
+    "status": 4,
     "function": [
       1,
       2
@@ -342,7 +342,7 @@
     "iata": "",
     "coordinates": {
       "lat": -26.683333333333334,
-      "lon": 3.2333333333333334
+      "lon": 31.683333333333334
     },
     "remarks": ""
   },
@@ -353,7 +353,7 @@
     "name": "Ubombo",
     "nameWoDiacritics": "Ubombo",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -361,7 +361,7 @@
     "iata": "",
     "coordinates": {
       "lat": -27.566666666666666,
-      "lon": 3.3333333333333335
+      "lon": 32.083333333333336
     },
     "remarks": ""
   }

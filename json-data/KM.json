@@ -6,7 +6,7 @@
     "name": ".COMOROS",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Anjouan Apt",
     "nameWoDiacritics": "Anjouan Apt",
     "subdivision": "A",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -33,7 +33,7 @@
     "iata": "",
     "coordinates": {
       "lat": -12.25,
-      "lon": 4.7
+      "lon": 44.416666666666664
     },
     "remarks": ""
   },
@@ -44,7 +44,7 @@
     "name": "Dzaoudzi",
     "nameWoDiacritics": "Dzaoudzi",
     "subdivision": "M",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -52,7 +52,7 @@
     "iata": "",
     "coordinates": {
       "lat": -12.783333333333333,
-      "lon": 4.85
+      "lon": 45.28333333333333
     },
     "remarks": ""
   },
@@ -63,7 +63,7 @@
     "name": "\"Foumboni",
     "nameWoDiacritics": " Moheli\"",
     "subdivision": "\"Foumboni",
-    "status": " Moheli\"",
+    "status": null,
     "function": [],
     "date": "RQ",
     "iata": "1-------",
@@ -80,7 +80,7 @@
     "name": "Hahaya Apt/Moroni",
     "nameWoDiacritics": "Hahaya Apt/Moroni",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -99,7 +99,7 @@
     "name": "Longoni",
     "nameWoDiacritics": "Longoni",
     "subdivision": "A",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -118,7 +118,7 @@
     "name": "Moh�li Apt",
     "nameWoDiacritics": "Moheli Apt",
     "subdivision": "M",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -127,7 +127,7 @@
     "iata": "",
     "coordinates": {
       "lat": -12.25,
-      "lon": 4.566666666666666
+      "lon": 43.75
     },
     "remarks": ""
   },
@@ -138,7 +138,7 @@
     "name": "Moroni",
     "nameWoDiacritics": "Moroni",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -159,7 +159,7 @@
     "name": "\"Mutsamudu",
     "nameWoDiacritics": " Anjouan\"",
     "subdivision": "\"Mutsamudu",
-    "status": " Anjouan\"",
+    "status": null,
     "function": [
       0
     ],

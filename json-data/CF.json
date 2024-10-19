@@ -2,6 +2,7 @@
   {
     "country": "CF",
     "name": ".CENTRAL AFRICAN REPUBLIC",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "ALI",
     "name": "Alindao",
     "nameWoDiacritics": "Alindao",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -28,7 +29,7 @@
     "location": "BAB",
     "name": "Baboua",
     "nameWoDiacritics": "Baboua",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -43,7 +44,7 @@
     "location": "BMF",
     "name": "Bakouma",
     "nameWoDiacritics": "Bakouma",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -58,7 +59,7 @@
     "location": "BBY",
     "name": "Bambari",
     "nameWoDiacritics": "Bambari",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -74,7 +75,7 @@
     "location": "BGU",
     "name": "Bangassou",
     "nameWoDiacritics": "Bangassou",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -89,7 +90,7 @@
     "location": "BGF",
     "name": "Bangui",
     "nameWoDiacritics": "Bangui",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -105,7 +106,7 @@
     "location": "BAO",
     "name": "Baoro",
     "nameWoDiacritics": "Baoro",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -120,7 +121,7 @@
     "location": "BTG",
     "name": "Batangafo",
     "nameWoDiacritics": "Batangafo",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -136,14 +137,14 @@
     "location": "BBT",
     "name": "BerbÈrati",
     "nameWoDiacritics": "Berberati",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 212,
     "coordinates": {
       "lat": 4.266666666666667,
-      "lon": 1.9
+      "lon": 15.783333333333333
     }
   },
   {
@@ -151,7 +152,7 @@
     "location": "IRO",
     "name": "Birao",
     "nameWoDiacritics": "Birao",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -167,14 +168,14 @@
     "location": "BOC",
     "name": "Bocaranga",
     "nameWoDiacritics": "Bocaranga",
-    "status": "RL",
+    "status": 7,
     "function": [
       4
     ],
     "date": 207,
     "coordinates": {
       "lat": 6.966666666666667,
-      "lon": 1.8833333333333333
+      "lon": 15.633333333333333
     }
   },
   {
@@ -182,7 +183,7 @@
     "location": "BOD",
     "name": "Boda",
     "nameWoDiacritics": "Boda",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -197,14 +198,14 @@
     "location": "BOG",
     "name": "Bogoto",
     "nameWoDiacritics": "Bogoto",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 4.95,
-      "lon": 2.166666666666667
+      "lon": 17.05
     }
   },
   {
@@ -212,7 +213,7 @@
     "location": "BSN",
     "name": "Bossangoa",
     "nameWoDiacritics": "Bossangoa",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3,
@@ -229,7 +230,7 @@
     "location": "BEM",
     "name": "BossembÈlÈ",
     "nameWoDiacritics": "Bossembele",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -237,7 +238,7 @@
     "date": 212,
     "coordinates": {
       "lat": 5.266666666666667,
-      "lon": 2.216666666666667
+      "lon": 17.65
     }
   },
   {
@@ -245,7 +246,7 @@
     "location": "BOP",
     "name": "Bouar",
     "nameWoDiacritics": "Bouar",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -261,7 +262,7 @@
     "location": "BCF",
     "name": "Bouca",
     "nameWoDiacritics": "Bouca",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -276,7 +277,7 @@
     "location": "BOZ",
     "name": "Bozoum",
     "nameWoDiacritics": "Bozoum",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -292,7 +293,7 @@
     "location": "BIV",
     "name": "Bria",
     "nameWoDiacritics": "Bria",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -308,7 +309,7 @@
     "location": "CRF",
     "name": "Carnot",
     "nameWoDiacritics": "Carnot",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -324,7 +325,7 @@
     "location": "DEK",
     "name": "Dekoa",
     "nameWoDiacritics": "Dekoa",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -339,7 +340,7 @@
     "location": "GDI",
     "name": "Gordil",
     "nameWoDiacritics": "Gordil",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -354,7 +355,7 @@
     "location": "GDA",
     "name": "Gounda",
     "nameWoDiacritics": "Gounda",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -369,7 +370,7 @@
     "location": "GRI",
     "name": "Grimari",
     "nameWoDiacritics": "Grimari",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -384,7 +385,7 @@
     "location": "KAB",
     "name": "Kaga Bandoro",
     "nameWoDiacritics": "Kaga Bandoro",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -399,7 +400,7 @@
     "location": "KWD",
     "name": "Kawadjia",
     "nameWoDiacritics": "Kawadjia",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -414,7 +415,7 @@
     "location": "KEM",
     "name": "KembÈ",
     "nameWoDiacritics": "Kembe",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -429,7 +430,7 @@
     "location": "KOL",
     "name": "Koumala",
     "nameWoDiacritics": "Koumala",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -445,7 +446,7 @@
     "name": "Mboki",
     "nameWoDiacritics": "Mboki",
     "subdivision": "HM",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3,
@@ -454,7 +455,7 @@
     "date": 1207,
     "coordinates": {
       "lat": 5.316666666666666,
-      "lon": 2.9166666666666665
+      "lon": 25.966666666666665
     }
   },
   {
@@ -462,7 +463,7 @@
     "location": "MOB",
     "name": "Mobaye",
     "nameWoDiacritics": "Mobaye",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -477,7 +478,7 @@
     "location": "MON",
     "name": "Mongoumba",
     "nameWoDiacritics": "Mongoumba",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -492,7 +493,7 @@
     "location": "NDL",
     "name": "NdÈlÈ",
     "nameWoDiacritics": "Ndele",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -508,7 +509,7 @@
     "location": "NOL",
     "name": "Nola",
     "nameWoDiacritics": "Nola",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -523,7 +524,7 @@
     "location": "OBO",
     "name": "Obo",
     "nameWoDiacritics": "Obo",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -538,7 +539,7 @@
     "location": "ODA",
     "name": "Ouadda",
     "nameWoDiacritics": "Ouadda",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -553,14 +554,14 @@
     "location": "ODJ",
     "name": "Ouanda DjallÈ",
     "nameWoDiacritics": "Ouanda Djalle",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 212,
     "coordinates": {
       "lat": 8.9,
-      "lon": 2.4
+      "lon": 22.8
     }
   },
   {
@@ -568,7 +569,7 @@
     "location": "PAO",
     "name": "Paoua",
     "nameWoDiacritics": "Paoua",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -583,7 +584,7 @@
     "location": "RFA",
     "name": "Rafai",
     "nameWoDiacritics": "Rafai",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -598,7 +599,7 @@
     "location": "SIB",
     "name": "Sibut",
     "nameWoDiacritics": "Sibut",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -613,7 +614,7 @@
     "location": "TOG",
     "name": "Togo",
     "nameWoDiacritics": "Togo",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -623,7 +624,7 @@
     "date": 901,
     "coordinates": {
       "lat": 5.5,
-      "lon": 2.2333333333333334
+      "lon": 21.716666666666665
     }
   },
   {
@@ -631,7 +632,7 @@
     "location": "AIG",
     "name": "Yalinga",
     "nameWoDiacritics": "Yalinga",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -646,7 +647,7 @@
     "location": "IMO",
     "name": "Zemio",
     "nameWoDiacritics": "Zemio",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],

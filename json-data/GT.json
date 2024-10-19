@@ -2,6 +2,7 @@
   {
     "country": "GT",
     "name": ".GUATEMALA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "ADU",
     "name": "Aduana",
     "nameWoDiacritics": "Aduana",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -29,14 +30,14 @@
     "name": "Amatitl·n",
     "nameWoDiacritics": "Amatitlan",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": 14.483333333333333,
-      "lon": 9.05
+      "lon": -90.61666666666666
     }
   },
   {
@@ -44,7 +45,7 @@
     "location": "ANT",
     "name": "Antigua",
     "nameWoDiacritics": "Antigua",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -59,14 +60,14 @@
     "name": "Antigua Guatemala",
     "nameWoDiacritics": "Antigua Guatemala",
     "subdivision": 3,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 14.55,
-      "lon": 9.066666666666666
+      "lon": -90.73333333333333
     }
   },
   {
@@ -75,14 +76,14 @@
     "name": "AsunciÛn Mita",
     "nameWoDiacritics": "Asuncion Mita",
     "subdivision": 22,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.316666666666666,
-      "lon": 9.566666666666666
+      "lon": -89.7
     }
   },
   {
@@ -91,14 +92,14 @@
     "name": "Barberena",
     "nameWoDiacritics": "Barberena",
     "subdivision": 6,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 501,
     "coordinates": {
       "lat": 14.3,
-      "lon": 9.033333333333333
+      "lon": -90.35
     }
   },
   {
@@ -107,7 +108,7 @@
     "name": "B·rcenas",
     "nameWoDiacritics": "Barcenas",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       6
@@ -115,7 +116,7 @@
     "date": 401,
     "coordinates": {
       "lat": 14.516666666666667,
-      "lon": 9.05
+      "lon": -90.6
     }
   },
   {
@@ -124,7 +125,7 @@
     "name": "Boca del Monte",
     "nameWoDiacritics": "Boca del Monte",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -133,7 +134,7 @@
     "date": 307,
     "coordinates": {
       "lat": 14.55,
-      "lon": 9.05
+      "lon": -90.51666666666667
     }
   },
   {
@@ -142,14 +143,14 @@
     "name": "Camot·n",
     "nameWoDiacritics": "Camotan",
     "subdivision": 20,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 14.816666666666666,
-      "lon": 9.533333333333333
+      "lon": -89.36666666666666
     }
   },
   {
@@ -157,7 +158,7 @@
     "location": "CMM",
     "name": "Carmelita",
     "nameWoDiacritics": "Carmelita",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -173,14 +174,14 @@
     "name": "Chajul",
     "nameWoDiacritics": "Chajul",
     "subdivision": 14,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 15.483333333333333,
-      "lon": 9.166666666666666
+      "lon": -91.03333333333333
     }
   },
   {
@@ -189,7 +190,7 @@
     "name": "Champerico",
     "nameWoDiacritics": "Champerico",
     "subdivision": 11,
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -200,7 +201,7 @@
     "date": 401,
     "coordinates": {
       "lat": 14.3,
-      "lon": 9.25
+      "lon": -91.91666666666667
     }
   },
   {
@@ -209,14 +210,14 @@
     "name": "Chicacao",
     "nameWoDiacritics": "Chicacao",
     "subdivision": 10,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.533333333333333,
-      "lon": 9.183333333333334
+      "lon": -91.31666666666666
     }
   },
   {
@@ -225,14 +226,14 @@
     "name": "Chichicastenango",
     "nameWoDiacritics": "Chichicastenango",
     "subdivision": 14,
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1007,
     "coordinates": {
       "lat": 14.933333333333334,
-      "lon": 9.166666666666666
+      "lon": -91.11666666666666
     }
   },
   {
@@ -240,7 +241,7 @@
     "location": "CHI",
     "name": "Chimaltenango",
     "nameWoDiacritics": "Chimaltenango",
-    "status": "RQ",
+    "status": 9,
     "function": [
       1,
       2
@@ -257,14 +258,14 @@
     "name": "Chinautla",
     "nameWoDiacritics": "Chinautla",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 14.7,
-      "lon": 9.033333333333333
+      "lon": -90.48333333333333
     }
   },
   {
@@ -272,7 +273,7 @@
     "location": "CIQ",
     "name": "Chiquimula",
     "nameWoDiacritics": "Chiquimula",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -288,14 +289,14 @@
     "name": "Chiquimulilla",
     "nameWoDiacritics": "Chiquimulilla",
     "subdivision": 6,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.083333333333334,
-      "lon": 9.033333333333333
+      "lon": -90.36666666666666
     }
   },
   {
@@ -304,7 +305,7 @@
     "name": "Ciudad Tec˙n Um·n",
     "nameWoDiacritics": "Ciudad Tecun Uman",
     "subdivision": 12,
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -312,7 +313,7 @@
     "date": 307,
     "coordinates": {
       "lat": 14.666666666666666,
-      "lon": 9.333333333333334
+      "lon": -92.15
     }
   },
   {
@@ -321,14 +322,14 @@
     "name": "Ciudad Vieja",
     "nameWoDiacritics": "Ciudad Vieja",
     "subdivision": 3,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.516666666666667,
-      "lon": 9.066666666666666
+      "lon": -90.75
     }
   },
   {
@@ -337,7 +338,7 @@
     "name": "Coatepeque",
     "nameWoDiacritics": "Coatepeque",
     "subdivision": 9,
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -347,7 +348,7 @@
     "date": 401,
     "coordinates": {
       "lat": 14.7,
-      "lon": 9.25
+      "lon": -91.86666666666666
     }
   },
   {
@@ -355,7 +356,7 @@
     "location": "CBV",
     "name": "Coban",
     "nameWoDiacritics": "Coban",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -372,7 +373,7 @@
     "name": "Cocales",
     "nameWoDiacritics": "Cocales",
     "subdivision": "SU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -380,7 +381,7 @@
     "date": 901,
     "coordinates": {
       "lat": 14.4,
-      "lon": 9.183333333333334
+      "lon": -91.18333333333334
     }
   },
   {
@@ -389,14 +390,14 @@
     "name": "Concepcion",
     "nameWoDiacritics": "Concepcion",
     "subdivision": "SO",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 14.783333333333333,
-      "lon": 9.166666666666666
+      "lon": -91.15
     }
   },
   {
@@ -404,14 +405,14 @@
     "location": "CUI",
     "name": "Cuilapa",
     "nameWoDiacritics": "Cuilapa",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 14.283333333333333,
-      "lon": 9.016666666666667
+      "lon": -90.3
     }
   },
   {
@@ -419,7 +420,7 @@
     "location": "COY",
     "name": "Cuyotenango",
     "nameWoDiacritics": "Cuyotenango",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -434,7 +435,7 @@
     "location": "DON",
     "name": "Dos Lagunas",
     "nameWoDiacritics": "Dos Lagunas",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -442,7 +443,7 @@
     "date": 601,
     "coordinates": {
       "lat": 17.683333333333334,
-      "lon": 9.55
+      "lon": -89.53333333333333
     }
   },
   {
@@ -451,14 +452,14 @@
     "name": "El Carmen",
     "nameWoDiacritics": "El Carmen",
     "subdivision": 15,
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1401,
     "coordinates": {
       "lat": 15.15,
-      "lon": 9.016666666666667
+      "lon": -90.23333333333333
     }
   },
   {
@@ -467,7 +468,7 @@
     "name": "El Estor",
     "nameWoDiacritics": "El Estor",
     "subdivision": 18,
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -483,14 +484,14 @@
     "name": "El Jicaro",
     "nameWoDiacritics": "El Jicaro",
     "subdivision": "PR",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 14.766666666666667,
-      "lon": 9.033333333333333
+      "lon": -90.4
     }
   },
   {
@@ -498,14 +499,14 @@
     "location": "EJC",
     "name": "El Jocotillo",
     "nameWoDiacritics": "El Jocotillo",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 14.366666666666667,
-      "lon": 9.05
+      "lon": -90.5
     }
   },
   {
@@ -513,7 +514,7 @@
     "location": "ENJ",
     "name": "El Naranjo",
     "nameWoDiacritics": "El Naranjo",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -529,14 +530,14 @@
     "name": "El Pino",
     "nameWoDiacritics": "El Pino",
     "subdivision": 6,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.316666666666666,
-      "lon": 9.033333333333333
+      "lon": -90.38333333333334
     }
   },
   {
@@ -545,7 +546,7 @@
     "name": "El Progreso",
     "nameWoDiacritics": "El Progreso",
     "subdivision": 2,
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -554,7 +555,7 @@
     "date": 307,
     "coordinates": {
       "lat": 14.85,
-      "lon": 9
+      "lon": -90.05
     }
   },
   {
@@ -563,14 +564,14 @@
     "name": "El Quetzal",
     "nameWoDiacritics": "El Quetzal",
     "subdivision": 12,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1401,
     "coordinates": {
       "lat": 14.766666666666667,
-      "lon": 9.233333333333333
+      "lon": -91.81666666666666
     }
   },
   {
@@ -579,7 +580,7 @@
     "name": "El Rancho",
     "nameWoDiacritics": "El Rancho",
     "subdivision": 2,
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -587,7 +588,7 @@
     "date": 401,
     "coordinates": {
       "lat": 14.9,
-      "lon": 9
+      "lon": -90
     }
   },
   {
@@ -595,7 +596,7 @@
     "location": "ERH",
     "name": "El Rancho",
     "nameWoDiacritics": "El Rancho",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -611,14 +612,14 @@
     "name": "El Salvador",
     "nameWoDiacritics": "El Salvador",
     "subdivision": 13,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 15.466666666666667,
-      "lon": 9.2
+      "lon": -91.33333333333333
     }
   },
   {
@@ -627,14 +628,14 @@
     "name": "El Tejar",
     "nameWoDiacritics": "El Tejar",
     "subdivision": 4,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.633333333333333,
-      "lon": 9.066666666666666
+      "lon": -90.78333333333333
     }
   },
   {
@@ -643,7 +644,7 @@
     "name": "Entre RÌos",
     "nameWoDiacritics": "Entre Rios",
     "subdivision": 18,
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -652,7 +653,7 @@
     "date": 307,
     "coordinates": {
       "lat": 15.633333333333333,
-      "lon": 9.383333333333333
+      "lon": -88.53333333333333
     }
   },
   {
@@ -660,7 +661,7 @@
     "location": "ESC",
     "name": "Escuintla",
     "nameWoDiacritics": "Escuintla",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -676,7 +677,7 @@
     "name": "Esquipulas",
     "nameWoDiacritics": "Esquipulas",
     "subdivision": 20,
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       6
@@ -684,7 +685,7 @@
     "date": 401,
     "coordinates": {
       "lat": 14.566666666666666,
-      "lon": 9.533333333333333
+      "lon": -89.35
     }
   },
   {
@@ -693,14 +694,14 @@
     "name": "Estanzuela",
     "nameWoDiacritics": "Estanzuela",
     "subdivision": 19,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 15,
-      "lon": 9.55
+      "lon": -89.56666666666666
     }
   },
   {
@@ -708,7 +709,7 @@
     "location": "FRS",
     "name": "Flores",
     "nameWoDiacritics": "Flores",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -723,7 +724,7 @@
     "location": "FRA",
     "name": "Fraijanes",
     "nameWoDiacritics": "Fraijanes",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -739,14 +740,14 @@
     "name": "Guastatoya",
     "nameWoDiacritics": "Guastatoya",
     "subdivision": 2,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 14.85,
-      "lon": 9
+      "lon": -90.05
     }
   },
   {
@@ -754,7 +755,7 @@
     "location": "GUA",
     "name": "Guatemala City",
     "nameWoDiacritics": "Guatemala City",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -770,7 +771,7 @@
     "location": "HUG",
     "name": "Huehuetenango",
     "nameWoDiacritics": "Huehuetenango",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -786,14 +787,14 @@
     "name": "Ixc·n",
     "nameWoDiacritics": "Ixcan",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1801,
     "coordinates": {
       "lat": 15.983333333333333,
-      "lon": 9.066666666666666
+      "lon": -90.76666666666667
     }
   },
   {
@@ -802,14 +803,14 @@
     "name": "Izabal",
     "nameWoDiacritics": "Izabal",
     "subdivision": 18,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 15.4,
-      "lon": 9.5
+      "lon": -89.13333333333334
     }
   },
   {
@@ -818,14 +819,14 @@
     "name": "Iztapa",
     "nameWoDiacritics": "Iztapa",
     "subdivision": 5,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1701,
     "coordinates": {
       "lat": 13.933333333333334,
-      "lon": 9.066666666666666
+      "lon": -90.7
     }
   },
   {
@@ -833,14 +834,14 @@
     "location": "JAL",
     "name": "Jalapa",
     "nameWoDiacritics": "Jalapa",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 14.633333333333333,
-      "lon": 9.583333333333334
+      "lon": -89.98333333333333
     }
   },
   {
@@ -849,14 +850,14 @@
     "name": "Jocotenango",
     "nameWoDiacritics": "Jocotenango",
     "subdivision": 3,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 14.566666666666666,
-      "lon": 9.066666666666666
+      "lon": -90.73333333333333
     }
   },
   {
@@ -865,14 +866,14 @@
     "name": "Jutiapa",
     "nameWoDiacritics": "Jutiapa",
     "subdivision": 22,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.283333333333333,
-      "lon": 9.583333333333334
+      "lon": -89.9
     }
   },
   {
@@ -880,7 +881,7 @@
     "location": "LAA",
     "name": "La Aurora",
     "nameWoDiacritics": "La Aurora",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -896,14 +897,14 @@
     "name": "La Blanca",
     "nameWoDiacritics": "La Blanca",
     "subdivision": 12,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 14.566666666666666,
-      "lon": 9.333333333333334
+      "lon": -92.13333333333334
     }
   },
   {
@@ -912,14 +913,14 @@
     "name": "La Democracia",
     "nameWoDiacritics": "La Democracia",
     "subdivision": "ES",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 40.21666666666667,
-      "lon": 9.083333333333334
+      "lon": -90.93333333333334
     }
   },
   {
@@ -927,7 +928,7 @@
     "location": "LAF",
     "name": "La Fragua",
     "nameWoDiacritics": "La Fragua",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -943,14 +944,14 @@
     "name": "La Gomera",
     "nameWoDiacritics": "La Gomera",
     "subdivision": "ES",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 14.083333333333334,
-      "lon": 9.166666666666666
+      "lon": -91.05
     }
   },
   {
@@ -958,14 +959,14 @@
     "location": "LPN",
     "name": "La Libertad Peten",
     "nameWoDiacritics": "La Libertad Peten",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
     "date": 1007,
     "coordinates": {
       "lat": 16.783333333333335,
-      "lon": 9
+      "lon": -90.11666666666666
     }
   },
   {
@@ -974,14 +975,14 @@
     "name": "La Maquina",
     "nameWoDiacritics": "La Maquina",
     "subdivision": 10,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 14.383333333333333,
-      "lon": 9.216666666666667
+      "lon": -91.58333333333333
     }
   },
   {
@@ -990,7 +991,7 @@
     "name": "LÌvingston",
     "nameWoDiacritics": "Livingston",
     "subdivision": 18,
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -998,7 +999,7 @@
     "date": 212,
     "coordinates": {
       "lat": 15.833333333333334,
-      "lon": 9.4
+      "lon": -88.75
     }
   },
   {
@@ -1007,14 +1008,14 @@
     "name": "Los Amates",
     "nameWoDiacritics": "Los Amates",
     "subdivision": 18,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1707,
     "coordinates": {
       "lat": 15.266666666666667,
-      "lon": 9.5
+      "lon": -89.1
     }
   },
   {
@@ -1023,14 +1024,14 @@
     "name": "Los Esclavos",
     "nameWoDiacritics": "Los Esclavos",
     "subdivision": "SR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 14.25,
-      "lon": 9.016666666666667
+      "lon": -90.28333333333333
     }
   },
   {
@@ -1039,14 +1040,14 @@
     "name": "Los Tablones",
     "nameWoDiacritics": "Los Tablones",
     "subdivision": 4,
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 14.75,
-      "lon": 9.066666666666666
+      "lon": -90.78333333333333
     }
   },
   {
@@ -1055,14 +1056,14 @@
     "name": "Magdalena",
     "nameWoDiacritics": "Magdalena",
     "subdivision": 13,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 15.533333333333333,
-      "lon": 9.2
+      "lon": -91.43333333333334
     }
   },
   {
@@ -1071,14 +1072,14 @@
     "name": "Magdalena Milpas Altas",
     "nameWoDiacritics": "Magdalena Milpas Altas",
     "subdivision": 3,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1801,
     "coordinates": {
       "lat": 14.533333333333333,
-      "lon": 9.066666666666666
+      "lon": -90.66666666666667
     }
   },
   {
@@ -1087,7 +1088,7 @@
     "name": "Masagua",
     "nameWoDiacritics": "Masagua",
     "subdivision": 5,
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1095,7 +1096,7 @@
     "date": 501,
     "coordinates": {
       "lat": 14.2,
-      "lon": 9.083333333333334
+      "lon": -90.83333333333333
     }
   },
   {
@@ -1104,14 +1105,14 @@
     "name": "Mataquescuintla",
     "nameWoDiacritics": "Mataquescuintla",
     "subdivision": 21,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 14.516666666666667,
-      "lon": 9.016666666666667
+      "lon": -90.18333333333334
     }
   },
   {
@@ -1119,7 +1120,7 @@
     "location": "MAZ",
     "name": "Mazatenango",
     "nameWoDiacritics": "Mazatenango",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1134,14 +1135,14 @@
     "location": "MCR",
     "name": "Melchor de Mencos",
     "nameWoDiacritics": "Melchor de Mencos",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 212,
     "coordinates": {
       "lat": 17.066666666666666,
-      "lon": 9.5
+      "lon": -89.15
     }
   },
   {
@@ -1150,14 +1151,14 @@
     "name": "Mixco",
     "nameWoDiacritics": "Mixco",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.633333333333333,
-      "lon": 9.05
+      "lon": -90.6
     }
   },
   {
@@ -1166,14 +1167,14 @@
     "name": "Monjas",
     "nameWoDiacritics": "Monjas",
     "subdivision": 21,
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 14.5,
-      "lon": 9.583333333333334
+      "lon": -89.86666666666666
     }
   },
   {
@@ -1182,14 +1183,14 @@
     "name": "Morales",
     "nameWoDiacritics": "Morales",
     "subdivision": 18,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 15.483333333333333,
-      "lon": 9.4
+      "lon": -88.81666666666666
     }
   },
   {
@@ -1198,7 +1199,7 @@
     "name": "Nahualate",
     "nameWoDiacritics": "Nahualate",
     "subdivision": 10,
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -1207,7 +1208,7 @@
     "date": 307,
     "coordinates": {
       "lat": 14.533333333333333,
-      "lon": 9.2
+      "lon": -91.4
     }
   },
   {
@@ -1216,14 +1217,14 @@
     "name": "Nebaj",
     "nameWoDiacritics": "Nebaj",
     "subdivision": 14,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1201,
     "coordinates": {
       "lat": 15.4,
-      "lon": 9.166666666666666
+      "lon": -91.15
     }
   },
   {
@@ -1232,14 +1233,14 @@
     "name": "Nino Perdido",
     "nameWoDiacritics": "Nino Perdido",
     "subdivision": 15,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 15.166666666666666,
-      "lon": 9
+      "lon": -90.1
     }
   },
   {
@@ -1248,14 +1249,14 @@
     "name": "Nueva ConcepciÛn",
     "nameWoDiacritics": "Nueva Concepcion",
     "subdivision": 5,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 14.2,
-      "lon": 9.183333333333334
+      "lon": -91.3
     }
   },
   {
@@ -1264,14 +1265,14 @@
     "name": "Nueva Santa Rosa",
     "nameWoDiacritics": "Nueva Santa Rosa",
     "subdivision": 6,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1701,
     "coordinates": {
       "lat": 14.366666666666667,
-      "lon": 9.016666666666667
+      "lon": -90.26666666666667
     }
   },
   {
@@ -1280,7 +1281,7 @@
     "name": "Obero",
     "nameWoDiacritics": "Obero",
     "subdivision": 5,
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1288,7 +1289,7 @@
     "date": 307,
     "coordinates": {
       "lat": 14.033333333333333,
-      "lon": 9.066666666666666
+      "lon": -90.81666666666666
     }
   },
   {
@@ -1297,14 +1298,14 @@
     "name": "Palencia",
     "nameWoDiacritics": "Palencia",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 501,
     "coordinates": {
       "lat": 14.65,
-      "lon": 9.033333333333333
+      "lon": -90.35
     }
   },
   {
@@ -1312,7 +1313,7 @@
     "location": "PAL",
     "name": "Palin",
     "nameWoDiacritics": "Palin",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -1328,14 +1329,14 @@
     "name": "Parramos",
     "nameWoDiacritics": "Parramos",
     "subdivision": 4,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 501,
     "coordinates": {
       "lat": 14.6,
-      "lon": 9.066666666666666
+      "lon": -90.8
     }
   },
   {
@@ -1343,7 +1344,7 @@
     "location": "PCG",
     "name": "Paso Caballos",
     "nameWoDiacritics": "Paso Caballos",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1359,7 +1360,7 @@
     "name": "Patulul",
     "nameWoDiacritics": "Patulul",
     "subdivision": 10,
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1367,7 +1368,7 @@
     "date": 307,
     "coordinates": {
       "lat": 14.416666666666666,
-      "lon": 9.183333333333334
+      "lon": -91.16666666666667
     }
   },
   {
@@ -1376,14 +1377,14 @@
     "name": "PatzicÌa",
     "nameWoDiacritics": "Patzicia",
     "subdivision": 4,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.616666666666667,
-      "lon": 9.083333333333334
+      "lon": -90.91666666666667
     }
   },
   {
@@ -1392,14 +1393,14 @@
     "name": "Patz˙n",
     "nameWoDiacritics": "Patzun",
     "subdivision": 4,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 14.683333333333334,
-      "lon": 9.166666666666666
+      "lon": -91.01666666666667
     }
   },
   {
@@ -1408,14 +1409,14 @@
     "name": "Petapa",
     "nameWoDiacritics": "Petapa",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 14.5,
-      "lon": 9.05
+      "lon": -90.55
     }
   },
   {
@@ -1423,14 +1424,14 @@
     "location": "PEE",
     "name": "PetÈn",
     "nameWoDiacritics": "Peten",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 16.9,
-      "lon": 9.583333333333334
+      "lon": -89.9
     }
   },
   {
@@ -1439,14 +1440,14 @@
     "name": "Playa Grande",
     "nameWoDiacritics": "Playa Grande",
     "subdivision": 14,
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 15.916666666666666,
-      "lon": 9.066666666666666
+      "lon": -90.73333333333333
     }
   },
   {
@@ -1454,14 +1455,14 @@
     "location": "PON",
     "name": "Popt˙n",
     "nameWoDiacritics": "Poptun",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 212,
     "coordinates": {
       "lat": 16.333333333333332,
-      "lon": 9.533333333333333
+      "lon": -89.41666666666667
     }
   },
   {
@@ -1469,14 +1470,14 @@
     "location": "PNV",
     "name": "Pueblo Nuevo ViÒas",
     "nameWoDiacritics": "Pueblo Nuevo Vinas",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 601,
     "coordinates": {
       "lat": 14.233333333333333,
-      "lon": 9.033333333333333
+      "lon": -90.48333333333333
     }
   },
   {
@@ -1484,7 +1485,7 @@
     "location": "PBR",
     "name": "Puerto Barrios",
     "nameWoDiacritics": "Puerto Barrios",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -1500,7 +1501,7 @@
     "location": "PRQ",
     "name": "Puerto Quetzal",
     "nameWoDiacritics": "Puerto Quetzal",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -1516,14 +1517,14 @@
     "name": "Puerto San JosÈ",
     "nameWoDiacritics": "Puerto San Jose",
     "subdivision": 5,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1707,
     "coordinates": {
       "lat": 13.916666666666666,
-      "lon": 9.066666666666666
+      "lon": -90.81666666666666
     }
   },
   {
@@ -1532,14 +1533,14 @@
     "name": "Puerto Santo Tom·s de Castilla",
     "nameWoDiacritics": "Puerto Santo Tomas de Castilla",
     "subdivision": 18,
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
     "date": 307,
     "coordinates": {
       "lat": 15.7,
-      "lon": 9.383333333333333
+      "lon": -88.61666666666666
     }
   },
   {
@@ -1548,14 +1549,14 @@
     "name": "Purulh·",
     "nameWoDiacritics": "Purulha",
     "subdivision": 15,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 15.266666666666667,
-      "lon": 9.016666666666667
+      "lon": -90.2
     }
   },
   {
@@ -1563,7 +1564,7 @@
     "location": "AAZ",
     "name": "Quetzaltenango",
     "nameWoDiacritics": "Quetzaltenango",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -1580,14 +1581,14 @@
     "name": "QuichÈ",
     "nameWoDiacritics": "Quiche",
     "subdivision": 14,
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 15.366666666666667,
-      "lon": 9.566666666666666
+      "lon": -89.8
     }
   },
   {
@@ -1596,14 +1597,14 @@
     "name": "Quirigu·",
     "nameWoDiacritics": "Quirigua",
     "subdivision": 18,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 15.266666666666667,
-      "lon": 9.5
+      "lon": -89.08333333333333
     }
   },
   {
@@ -1611,7 +1612,7 @@
     "location": "RTE",
     "name": "Retalhuleu",
     "nameWoDiacritics": "Retalhuleu",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1627,7 +1628,7 @@
     "name": "RÌo Bravo",
     "nameWoDiacritics": "Rio Bravo",
     "subdivision": 10,
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -1635,7 +1636,7 @@
     "date": 1201,
     "coordinates": {
       "lat": 14.4,
-      "lon": 9.183333333333334
+      "lon": -91.31666666666666
     }
   },
   {
@@ -1643,14 +1644,14 @@
     "location": "RDC",
     "name": "RÌo Dulce",
     "nameWoDiacritics": "Rio Dulce",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 601,
     "coordinates": {
       "lat": 15.766666666666667,
-      "lon": 10.016666666666666
+      "lon": -96.25
     }
   },
   {
@@ -1658,7 +1659,7 @@
     "location": "RIH",
     "name": "Rio Hondo",
     "nameWoDiacritics": "Rio Hondo",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -1673,7 +1674,7 @@
     "location": "RUV",
     "name": "Rubelsanto",
     "nameWoDiacritics": "Rubelsanto",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1689,14 +1690,14 @@
     "name": "Salam·",
     "nameWoDiacritics": "Salama",
     "subdivision": 15,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 15.1,
-      "lon": 9.016666666666667
+      "lon": -90.26666666666667
     }
   },
   {
@@ -1705,14 +1706,14 @@
     "name": "San AgustÌn Acasaguastl·n",
     "nameWoDiacritics": "San Agustin Acasaguastlan",
     "subdivision": 2,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1607,
     "coordinates": {
       "lat": 14.95,
-      "lon": 9.583333333333334
+      "lon": -89.96666666666667
     }
   },
   {
@@ -1721,14 +1722,14 @@
     "name": "San AndrÈs Itzapa",
     "nameWoDiacritics": "San Andres Itzapa",
     "subdivision": 4,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.616666666666667,
-      "lon": 9.083333333333334
+      "lon": -90.83333333333333
     }
   },
   {
@@ -1737,7 +1738,7 @@
     "name": "San Antonio SuchitepÈquez",
     "nameWoDiacritics": "San Antonio Suchitepequez",
     "subdivision": 10,
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1745,7 +1746,7 @@
     "date": 307,
     "coordinates": {
       "lat": 14.533333333333333,
-      "lon": 9.2
+      "lon": -91.41666666666667
     }
   },
   {
@@ -1754,14 +1755,14 @@
     "name": "San BartolomÈ Milpas Altas",
     "nameWoDiacritics": "San Bartolome Milpas Altas",
     "subdivision": 3,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 501,
     "coordinates": {
       "lat": 14.6,
-      "lon": 9.066666666666666
+      "lon": -90.66666666666667
     }
   },
   {
@@ -1770,14 +1771,14 @@
     "name": "San Benito",
     "nameWoDiacritics": "San Benito",
     "subdivision": 17,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1401,
     "coordinates": {
       "lat": 16.916666666666668,
-      "lon": 9.583333333333334
+      "lon": -89.9
     }
   },
   {
@@ -1786,14 +1787,14 @@
     "name": "San CristÛbal Acasaguastl·n",
     "nameWoDiacritics": "San Cristobal Acasaguastlan",
     "subdivision": 2,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.916666666666666,
-      "lon": 9.583333333333334
+      "lon": -89.88333333333334
     }
   },
   {
@@ -1802,14 +1803,14 @@
     "name": "San CristÛbal Frontera",
     "nameWoDiacritics": "San Cristobal Frontera",
     "subdivision": 22,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 14.183333333333334,
-      "lon": 9.566666666666666
+      "lon": -89.66666666666667
     }
   },
   {
@@ -1818,14 +1819,14 @@
     "name": "San CristÛbal Verapaz",
     "nameWoDiacritics": "San Cristobal Verapaz",
     "subdivision": 16,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 15.383333333333333,
-      "lon": 9.033333333333333
+      "lon": -90.4
     }
   },
   {
@@ -1834,14 +1835,14 @@
     "name": "San Francisco",
     "nameWoDiacritics": "San Francisco",
     "subdivision": "PE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 16.8,
-      "lon": 9.583333333333334
+      "lon": -89.93333333333334
     }
   },
   {
@@ -1849,14 +1850,14 @@
     "location": "IXT",
     "name": "San Ixt·n",
     "nameWoDiacritics": "San Ixtan",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 601,
     "coordinates": {
       "lat": 14.166666666666666,
-      "lon": 9
+      "lon": -90.01666666666667
     }
   },
   {
@@ -1865,14 +1866,14 @@
     "name": "San JerÛnimo",
     "nameWoDiacritics": "San Jeronimo",
     "subdivision": 15,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 15.05,
-      "lon": 9.016666666666667
+      "lon": -90.2
     }
   },
   {
@@ -1880,7 +1881,7 @@
     "location": "SNJ",
     "name": "San Jose",
     "nameWoDiacritics": "San Jose",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -1898,14 +1899,14 @@
     "name": "San JosÈ",
     "nameWoDiacritics": "San Jose",
     "subdivision": 5,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 13.916666666666666,
-      "lon": 9.066666666666666
+      "lon": -90.81666666666666
     }
   },
   {
@@ -1914,14 +1915,14 @@
     "name": "San JosÈ del Golfo",
     "nameWoDiacritics": "San Jose del Golfo",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 14.75,
-      "lon": 9.033333333333333
+      "lon": -90.36666666666666
     }
   },
   {
@@ -1929,7 +1930,7 @@
     "location": "SJP",
     "name": "San JosÈ Pinula",
     "nameWoDiacritics": "San Jose Pinula",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1945,14 +1946,14 @@
     "name": "San Juan Chamelco",
     "nameWoDiacritics": "San Juan Chamelco",
     "subdivision": 16,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 15.433333333333334,
-      "lon": 9.033333333333333
+      "lon": -90.33333333333333
     }
   },
   {
@@ -1961,14 +1962,14 @@
     "name": "San Juan Cotzal",
     "nameWoDiacritics": "San Juan Cotzal",
     "subdivision": 14,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1201,
     "coordinates": {
       "lat": 15.433333333333334,
-      "lon": 9.166666666666666
+      "lon": -91.03333333333333
     }
   },
   {
@@ -1977,14 +1978,14 @@
     "name": "San Juan SacatepÈquez",
     "nameWoDiacritics": "San Juan Sacatepequez",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 401,
     "coordinates": {
       "lat": 14.716666666666667,
-      "lon": 9.05
+      "lon": -90.63333333333334
     }
   },
   {
@@ -1993,14 +1994,14 @@
     "name": "San Lucas",
     "nameWoDiacritics": "San Lucas",
     "subdivision": 3,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 14.616666666666667,
-      "lon": 9.05
+      "lon": -90.65
     }
   },
   {
@@ -2009,14 +2010,14 @@
     "name": "San Lucas SacatepÈquez",
     "nameWoDiacritics": "San Lucas Sacatepequez",
     "subdivision": 3,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 401,
     "coordinates": {
       "lat": 14.6,
-      "lon": 9.05
+      "lon": -90.65
     }
   },
   {
@@ -2025,14 +2026,14 @@
     "name": "San Lucas Tolim·n",
     "nameWoDiacritics": "San Lucas Toliman",
     "subdivision": "SO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 14.633333333333333,
-      "lon": 9.166666666666666
+      "lon": -91.13333333333334
     }
   },
   {
@@ -2041,14 +2042,14 @@
     "name": "San Marcos",
     "nameWoDiacritics": "San Marcos",
     "subdivision": 12,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 501,
     "coordinates": {
       "lat": 14.966666666666667,
-      "lon": 9.233333333333333
+      "lon": -91.8
     }
   },
   {
@@ -2057,14 +2058,14 @@
     "name": "San Marcos",
     "nameWoDiacritics": "San Marcos",
     "subdivision": 18,
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 15.566666666666666,
-      "lon": 9.416666666666666
+      "lon": -88.91666666666667
     }
   },
   {
@@ -2073,14 +2074,14 @@
     "name": "San Miguel DueÒas",
     "nameWoDiacritics": "San Miguel Duenas",
     "subdivision": 3,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 14.516666666666667,
-      "lon": 9.066666666666666
+      "lon": -90.78333333333333
     }
   },
   {
@@ -2089,7 +2090,7 @@
     "name": "San Miguel Petapa",
     "nameWoDiacritics": "San Miguel Petapa",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -2098,7 +2099,7 @@
     "date": 307,
     "coordinates": {
       "lat": 14.5,
-      "lon": 9.05
+      "lon": -90.56666666666666
     }
   },
   {
@@ -2107,14 +2108,14 @@
     "name": "San Pedro Ayampuc",
     "nameWoDiacritics": "San Pedro Ayampuc",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 14.783333333333333,
-      "lon": 9.033333333333333
+      "lon": -90.45
     }
   },
   {
@@ -2123,14 +2124,14 @@
     "name": "San Pedro SacatepÈquez",
     "nameWoDiacritics": "San Pedro Sacatepequez",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.683333333333334,
-      "lon": 9.05
+      "lon": -90.63333333333334
     }
   },
   {
@@ -2139,14 +2140,14 @@
     "name": "San Rafael Las Flores",
     "nameWoDiacritics": "San Rafael Las Flores",
     "subdivision": 6,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 14.466666666666667,
-      "lon": 9.016666666666667
+      "lon": -90.16666666666667
     }
   },
   {
@@ -2155,14 +2156,14 @@
     "name": "San Rafael Pie de La Cuesta",
     "nameWoDiacritics": "San Rafael Pie de La Cuesta",
     "subdivision": 12,
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 14.933333333333334,
-      "lon": 9.25
+      "lon": -91.91666666666667
     }
   },
   {
@@ -2171,14 +2172,14 @@
     "name": "San Raimundo",
     "nameWoDiacritics": "San Raimundo",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 14.75,
-      "lon": 9.05
+      "lon": -90.58333333333333
     }
   },
   {
@@ -2187,14 +2188,14 @@
     "name": "San Raymundo",
     "nameWoDiacritics": "San Raymundo",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 14.75,
-      "lon": 9.05
+      "lon": -90.58333333333333
     }
   },
   {
@@ -2203,14 +2204,14 @@
     "name": "San Sebasti·n",
     "nameWoDiacritics": "San Sebastian",
     "subdivision": 11,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.566666666666666,
-      "lon": 9.216666666666667
+      "lon": -91.65
     }
   },
   {
@@ -2219,14 +2220,14 @@
     "name": "Sanarate",
     "nameWoDiacritics": "Sanarate",
     "subdivision": 2,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.783333333333333,
-      "lon": 9.016666666666667
+      "lon": -90.18333333333334
     }
   },
   {
@@ -2235,14 +2236,14 @@
     "name": "Sansare",
     "nameWoDiacritics": "Sansare",
     "subdivision": 2,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 14.733333333333333,
-      "lon": 9
+      "lon": -90.1
     }
   },
   {
@@ -2251,7 +2252,7 @@
     "name": "Santa B·rbara",
     "nameWoDiacritics": "Santa Barbara",
     "subdivision": "SU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -2259,7 +2260,7 @@
     "date": 901,
     "coordinates": {
       "lat": 14.433333333333334,
-      "lon": 9.183333333333334
+      "lon": -91.23333333333333
     }
   },
   {
@@ -2268,14 +2269,14 @@
     "name": "Santa B·rbara",
     "nameWoDiacritics": "Santa Barbara",
     "subdivision": 13,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 15.316666666666666,
-      "lon": 9.216666666666667
+      "lon": -91.61666666666666
     }
   },
   {
@@ -2284,14 +2285,14 @@
     "name": "Santa Catarina Pinula",
     "nameWoDiacritics": "Santa Catarina Pinula",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.566666666666666,
-      "lon": 9.033333333333333
+      "lon": -90.48333333333333
     }
   },
   {
@@ -2300,14 +2301,14 @@
     "name": "Santa Cruz",
     "nameWoDiacritics": "Santa Cruz",
     "subdivision": 19,
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
     "date": 1001,
     "coordinates": {
       "lat": 15.016666666666667,
-      "lon": 9.566666666666666
+      "lon": -89.68333333333334
     }
   },
   {
@@ -2315,14 +2316,14 @@
     "location": "SCQ",
     "name": "Santa Cruz del Quiche",
     "nameWoDiacritics": "Santa Cruz del Quiche",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
     "date": 1007,
     "coordinates": {
       "lat": 15.016666666666667,
-      "lon": 9.166666666666666
+      "lon": -91.15
     }
   },
   {
@@ -2331,14 +2332,14 @@
     "name": "Santa Cruz Mulu·",
     "nameWoDiacritics": "Santa Cruz Mulua",
     "subdivision": 11,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 14.583333333333334,
-      "lon": 9.216666666666667
+      "lon": -91.61666666666666
     }
   },
   {
@@ -2347,14 +2348,14 @@
     "name": "Santa Cruz Verapaz",
     "nameWoDiacritics": "Santa Cruz Verapaz",
     "subdivision": 16,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 15.366666666666667,
-      "lon": 9.033333333333333
+      "lon": -90.43333333333334
     }
   },
   {
@@ -2363,14 +2364,14 @@
     "name": "Santa Elena",
     "nameWoDiacritics": "Santa Elena",
     "subdivision": 17,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1801,
     "coordinates": {
       "lat": 16.1,
-      "lon": 9.033333333333333
+      "lon": -90.45
     }
   },
   {
@@ -2379,14 +2380,14 @@
     "name": "Santa Elena Barillas",
     "nameWoDiacritics": "Santa Elena Barillas",
     "subdivision": "GU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 14.4,
-      "lon": 9.05
+      "lon": -90.55
     }
   },
   {
@@ -2394,14 +2395,14 @@
     "location": "SLA",
     "name": "Santa Lucia",
     "nameWoDiacritics": "Santa Lucia",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
     "date": 1007,
     "coordinates": {
       "lat": 14.85,
-      "lon": 9
+      "lon": -90.08333333333333
     }
   },
   {
@@ -2410,7 +2411,7 @@
     "name": "Santa LucÌa Cotzumalguapa",
     "nameWoDiacritics": "Santa Lucia Cotzumalguapa",
     "subdivision": 5,
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2418,7 +2419,7 @@
     "date": 501,
     "coordinates": {
       "lat": 14.333333333333334,
-      "lon": 9.166666666666666
+      "lon": -91.01666666666667
     }
   },
   {
@@ -2427,14 +2428,14 @@
     "name": "Santa LucÌa Milpas Altas",
     "nameWoDiacritics": "Santa Lucia Milpas Altas",
     "subdivision": 3,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.566666666666666,
-      "lon": 9.066666666666666
+      "lon": -90.66666666666667
     }
   },
   {
@@ -2443,14 +2444,14 @@
     "name": "Santa MarÌa CauquÈ",
     "nameWoDiacritics": "Santa Maria Cauque",
     "subdivision": 3,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.633333333333333,
-      "lon": 9.066666666666666
+      "lon": -90.7
     }
   },
   {
@@ -2459,14 +2460,14 @@
     "name": "Santa Rosa de Lima",
     "nameWoDiacritics": "Santa Rosa de Lima",
     "subdivision": 6,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 14.383333333333333,
-      "lon": 9.016666666666667
+      "lon": -90.28333333333333
     }
   },
   {
@@ -2475,14 +2476,14 @@
     "name": "Santiago Atitl·n",
     "nameWoDiacritics": "Santiago Atitlan",
     "subdivision": 7,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.633333333333333,
-      "lon": 9.183333333333334
+      "lon": -91.23333333333333
     }
   },
   {
@@ -2491,14 +2492,14 @@
     "name": "Santiago SacatepÈquez",
     "nameWoDiacritics": "Santiago Sacatepequez",
     "subdivision": 3,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.633333333333333,
-      "lon": 9.066666666666666
+      "lon": -90.66666666666667
     }
   },
   {
@@ -2507,14 +2508,14 @@
     "name": "Santo Domingo SuchitepÈquez",
     "nameWoDiacritics": "Santo Domingo Suchitepequez",
     "subdivision": 10,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.466666666666667,
-      "lon": 9.2
+      "lon": -91.48333333333333
     }
   },
   {
@@ -2523,14 +2524,14 @@
     "name": "Santo Tomas",
     "nameWoDiacritics": "Santo Tomas",
     "subdivision": 19,
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 901,
     "coordinates": {
       "lat": 14.833333333333334,
-      "lon": 9.566666666666666
+      "lon": -89.71666666666667
     }
   },
   {
@@ -2539,14 +2540,14 @@
     "name": "Santo Tom·s de Castilla",
     "nameWoDiacritics": "Santo Tomas de Castilla",
     "subdivision": 18,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 15.683333333333334,
-      "lon": 9.383333333333333
+      "lon": -88.6
     }
   },
   {
@@ -2555,14 +2556,14 @@
     "name": "Santo Tom·s La UniÛn",
     "nameWoDiacritics": "Santo Tomas La Union",
     "subdivision": 10,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 501,
     "coordinates": {
       "lat": 14.633333333333333,
-      "lon": 9.2
+      "lon": -91.38333333333334
     }
   },
   {
@@ -2571,14 +2572,14 @@
     "name": "Santo Tom·s Milpas Altas",
     "nameWoDiacritics": "Santo Tomas Milpas Altas",
     "subdivision": 3,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": 14.566666666666666,
-      "lon": 9.066666666666666
+      "lon": -90.66666666666667
     }
   },
   {
@@ -2586,14 +2587,14 @@
     "location": "SPC",
     "name": "Sipacate",
     "nameWoDiacritics": "Sipacate",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
     "date": 1007,
     "coordinates": {
       "lat": 13.916666666666666,
-      "lon": 9.166666666666666
+      "lon": -91.13333333333334
     }
   },
   {
@@ -2601,14 +2602,14 @@
     "location": "SIQ",
     "name": "Siquinal·",
     "nameWoDiacritics": "Siquinala",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": 14.3,
-      "lon": 9.083333333333334
+      "lon": -90.96666666666667
     }
   },
   {
@@ -2617,14 +2618,14 @@
     "name": "Solola",
     "nameWoDiacritics": "Solola",
     "subdivision": "SO",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 901,
     "coordinates": {
       "lat": 14.766666666666667,
-      "lon": 9.183333333333334
+      "lon": -91.18333333333334
     }
   },
   {
@@ -2633,14 +2634,14 @@
     "name": "Sumpango",
     "nameWoDiacritics": "Sumpango",
     "subdivision": 3,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.633333333333333,
-      "lon": 9.066666666666666
+      "lon": -90.73333333333333
     }
   },
   {
@@ -2649,14 +2650,14 @@
     "name": "Tactic",
     "nameWoDiacritics": "Tactic",
     "subdivision": 16,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 15.333333333333334,
-      "lon": 9.016666666666667
+      "lon": -90.3
     }
   },
   {
@@ -2665,14 +2666,14 @@
     "name": "Taxisco",
     "nameWoDiacritics": "Taxisco",
     "subdivision": "SR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 14.066666666666666,
-      "lon": 9.033333333333333
+      "lon": -90.45
     }
   },
   {
@@ -2681,14 +2682,14 @@
     "name": "Tecp·n Guatemala",
     "nameWoDiacritics": "Tecpan Guatemala",
     "subdivision": 4,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.766666666666667,
-      "lon": 9.083333333333334
+      "lon": -90.98333333333333
     }
   },
   {
@@ -2696,14 +2697,14 @@
     "location": "TEC",
     "name": "Teculut·n",
     "nameWoDiacritics": "Teculutan",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": 14.983333333333333,
-      "lon": 9.566666666666666
+      "lon": -89.71666666666667
     }
   },
   {
@@ -2712,7 +2713,7 @@
     "name": "Tecun Uman",
     "nameWoDiacritics": "Tecun Uman",
     "subdivision": 9,
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -2727,7 +2728,7 @@
     "location": "TKM",
     "name": "Tikal",
     "nameWoDiacritics": "Tikal",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -2743,14 +2744,14 @@
     "name": "Tilapa",
     "nameWoDiacritics": "Tilapa",
     "subdivision": 12,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 14.483333333333333,
-      "lon": 9.35
+      "lon": -92.16666666666667
     }
   },
   {
@@ -2758,14 +2759,14 @@
     "location": "TIG",
     "name": "Tiquisate",
     "nameWoDiacritics": "Tiquisate",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": 14.283333333333333,
-      "lon": 9.2
+      "lon": -91.36666666666666
     }
   },
   {
@@ -2774,14 +2775,14 @@
     "name": "Totonicap·n",
     "nameWoDiacritics": "Totonicapan",
     "subdivision": 8,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.916666666666666,
-      "lon": 9.2
+      "lon": -91.36666666666666
     }
   },
   {
@@ -2789,14 +2790,14 @@
     "location": "UAX",
     "name": "Uaxact˙n",
     "nameWoDiacritics": "Uaxactun",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 212,
     "coordinates": {
       "lat": 17.4,
-      "lon": 9.55
+      "lon": -89.63333333333334
     }
   },
   {
@@ -2805,14 +2806,14 @@
     "name": "Uspant·n",
     "nameWoDiacritics": "Uspantan",
     "subdivision": "QC",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 15.383333333333333,
-      "lon": 9.083333333333334
+      "lon": -90.83333333333333
     }
   },
   {
@@ -2821,14 +2822,14 @@
     "name": "Usumatl·n",
     "nameWoDiacritics": "Usumatlan",
     "subdivision": 19,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.95,
-      "lon": 9.566666666666666
+      "lon": -89.78333333333333
     }
   },
   {
@@ -2837,7 +2838,7 @@
     "name": "Villa Canales",
     "nameWoDiacritics": "Villa Canales",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -2846,7 +2847,7 @@
     "date": 307,
     "coordinates": {
       "lat": 14.466666666666667,
-      "lon": 9.05
+      "lon": -90.51666666666667
     }
   },
   {
@@ -2854,7 +2855,7 @@
     "location": "VIN",
     "name": "Villa Nueva",
     "nameWoDiacritics": "Villa Nueva",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -2870,14 +2871,14 @@
     "name": "Villa Nueva",
     "nameWoDiacritics": "Villa Nueva",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 14.516666666666667,
-      "lon": 9.05
+      "lon": -90.58333333333333
     }
   },
   {
@@ -2886,14 +2887,14 @@
     "name": "Villalobos",
     "nameWoDiacritics": "Villalobos",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 14.533333333333333,
-      "lon": 9.05
+      "lon": -90.58333333333333
     }
   },
   {
@@ -2901,7 +2902,7 @@
     "location": "ZAC",
     "name": "Zacapa",
     "nameWoDiacritics": "Zacapa",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],

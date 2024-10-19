@@ -6,7 +6,7 @@
     "name": "\".PALESTINE",
     "nameWoDiacritics": " STATE OF\"",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Beit Jala",
     "nameWoDiacritics": "Beit Jala",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": 31.7,
-      "lon": 3.85
+      "lon": 35.18333333333333
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Bethlehem",
     "nameWoDiacritics": "Bethlehem",
     "subdivision": "BTH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -50,7 +50,7 @@
     "iata": "",
     "coordinates": {
       "lat": 31.716666666666665,
-      "lon": 3.85
+      "lon": 35.2
     },
     "remarks": ""
   },
@@ -61,7 +61,7 @@
     "name": "Gaza",
     "nameWoDiacritics": "Gaza",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2
     ],
@@ -69,7 +69,7 @@
     "iata": "",
     "coordinates": {
       "lat": 31.5,
-      "lon": 3.7
+      "lon": 34.46666666666667
     },
     "remarks": ""
   },
@@ -80,7 +80,7 @@
     "name": "Jericho",
     "nameWoDiacritics": "Jericho",
     "subdivision": "JRH",
-    "status": "AM",
+    "status": 4,
     "function": [
       4
     ],
@@ -88,7 +88,7 @@
     "iata": "",
     "coordinates": {
       "lat": 31.85,
-      "lon": 3.8666666666666667
+      "lon": 35.45
     },
     "remarks": ""
   },
@@ -99,7 +99,7 @@
     "name": "Ramallah (Ram Allah)",
     "nameWoDiacritics": "Ramallah (Ram Allah)",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       4
@@ -108,7 +108,7 @@
     "iata": "",
     "coordinates": {
       "lat": 31.9,
-      "lon": 3.85
+      "lon": 35.2
     },
     "remarks": ""
   }

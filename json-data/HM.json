@@ -2,6 +2,7 @@
   {
     "country": "HM",
     "name": ".HEARD ISLAND AND MCDONALD ISLANDS",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,14 +14,14 @@
     "location": "HEA",
     "name": "Heard Island",
     "nameWoDiacritics": "Heard Island",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 212,
     "coordinates": {
       "lat": -53.083333333333336,
-      "lon": 7.566666666666666
+      "lon": 73.71666666666667
     }
   },
   {
@@ -28,14 +29,14 @@
     "location": "MCD",
     "name": "McDonald Island",
     "nameWoDiacritics": "McDonald Island",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 212,
     "coordinates": {
       "lat": -53.03333333333333,
-      "lon": 7.383333333333334
+      "lon": 72.58333333333333
     }
   }
 ]

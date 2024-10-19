@@ -2,6 +2,7 @@
   {
     "country": "DZ",
     "name": ".ALGERIA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -14,14 +15,14 @@
     "name": "Adrar",
     "nameWoDiacritics": "Adrar",
     "subdivision": 1,
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 27.866666666666667,
-      "lon": 0.016666666666666666
+      "lon": -0.2833333333333333
     }
   },
   {
@@ -30,14 +31,14 @@
     "name": "Ain Beida",
     "nameWoDiacritics": "Ain Beida",
     "subdivision": 4,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 31.933333333333334,
-      "lon": 1.05
+      "lon": 6.583333333333333
     }
   },
   {
@@ -46,14 +47,14 @@
     "name": "Ain Benian",
     "nameWoDiacritics": "Ain Benian",
     "subdivision": 42,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 36.8,
-      "lon": 0.4166666666666667
+      "lon": 2.9166666666666665
     }
   },
   {
@@ -62,14 +63,14 @@
     "name": "'AÔn Benian",
     "nameWoDiacritics": "'Ain Benian",
     "subdivision": 42,
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 36.8,
-      "lon": 0.4166666666666667
+      "lon": 2.9166666666666665
     }
   },
   {
@@ -78,14 +79,14 @@
     "name": "AÔn Defla",
     "nameWoDiacritics": "Ain Defla",
     "subdivision": 44,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1707,
     "coordinates": {
       "lat": 36.266666666666666,
-      "lon": 0.25
+      "lon": 1.9666666666666668
     }
   },
   {
@@ -94,14 +95,14 @@
     "name": "Ain Eddis Apt/Bou Saada",
     "nameWoDiacritics": "Ain Eddis Apt/Bou Saada",
     "subdivision": 28,
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 35.31666666666667,
-      "lon": 0.7
+      "lon": 4.35
     }
   },
   {
@@ -109,14 +110,14 @@
     "location": "QEH",
     "name": "'Ain El Hadjar",
     "nameWoDiacritics": "'Ain El Hadjar",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 34.766666666666666,
-      "lon": 0.15
+      "lon": 1.5
     }
   },
   {
@@ -125,14 +126,14 @@
     "name": "Ain M'Lila",
     "nameWoDiacritics": "Ain M'Lila",
     "subdivision": 4,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 36.03333333333333,
-      "lon": 1.05
+      "lon": 6.566666666666666
     }
   },
   {
@@ -141,14 +142,14 @@
     "name": "Ain Taya",
     "nameWoDiacritics": "Ain Taya",
     "subdivision": 16,
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
     "date": 1007,
     "coordinates": {
       "lat": 36.78333333333333,
-      "lon": 0.5166666666666667
+      "lon": 3.283333333333333
     }
   },
   {
@@ -156,14 +157,14 @@
     "location": "TCT",
     "name": "Ain Temouchent",
     "nameWoDiacritics": "Ain Temouchent",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 35.28333333333333,
-      "lon": 0.16666666666666666
+      "lon": -1.1333333333333333
     }
   },
   {
@@ -172,14 +173,14 @@
     "name": "Ain Touta",
     "nameWoDiacritics": "Ain Touta",
     "subdivision": 5,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 35.36666666666667,
-      "lon": 0.9166666666666666
+      "lon": 5.883333333333333
     }
   },
   {
@@ -188,14 +189,14 @@
     "name": "AÔn Zaouia",
     "nameWoDiacritics": "Ain Zaouia",
     "subdivision": 15,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 36.53333333333333,
-      "lon": 0.5833333333333334
+      "lon": 3.8833333333333333
     }
   },
   {
@@ -204,7 +205,7 @@
     "name": "Alger (Algiers)",
     "nameWoDiacritics": "Alger (Algiers)",
     "subdivision": 16,
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       1,
@@ -216,7 +217,7 @@
     "date": 1101,
     "coordinates": {
       "lat": 36.75,
-      "lon": 0.5
+      "lon": 3.05
     }
   },
   {
@@ -224,7 +225,7 @@
     "location": "AAE",
     "name": "Annaba (ex Bone)",
     "nameWoDiacritics": "Annaba (ex Bone)",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -240,7 +241,7 @@
     "location": "AZW",
     "name": "Arzew",
     "nameWoDiacritics": "Arzew",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -249,7 +250,7 @@
     "date": 701,
     "coordinates": {
       "lat": 35.86666666666667,
-      "lon": 0.016666666666666666
+      "lon": -0.31666666666666665
     }
   },
   {
@@ -258,14 +259,14 @@
     "name": "Azazga",
     "nameWoDiacritics": "Azazga",
     "subdivision": 15,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 36.75,
-      "lon": 0.7
+      "lon": 4.366666666666666
     }
   },
   {
@@ -274,14 +275,14 @@
     "name": "Bab Ezzouar",
     "nameWoDiacritics": "Bab Ezzouar",
     "subdivision": 16,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 36.71666666666667,
-      "lon": 0.5166666666666667
+      "lon": 3.183333333333333
     }
   },
   {
@@ -290,14 +291,14 @@
     "name": "Baraki",
     "nameWoDiacritics": "Baraki",
     "subdivision": 42,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 36.666666666666664,
-      "lon": 0.5
+      "lon": 3.0833333333333335
     }
   },
   {
@@ -306,14 +307,14 @@
     "name": "Barika",
     "nameWoDiacritics": "Barika",
     "subdivision": 5,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 35.38333333333333,
-      "lon": 0.8666666666666667
+      "lon": 5.383333333333334
     }
   },
   {
@@ -322,14 +323,14 @@
     "name": "Batna",
     "nameWoDiacritics": "Batna",
     "subdivision": 5,
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 35.55,
-      "lon": 1.0166666666666666
+      "lon": 6.166666666666667
     }
   },
   {
@@ -338,14 +339,14 @@
     "name": "Bechar",
     "nameWoDiacritics": "Bechar",
     "subdivision": 8,
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 31.616666666666667,
-      "lon": 0.35
+      "lon": -2.216666666666667
     }
   },
   {
@@ -353,7 +354,7 @@
     "location": "BJA",
     "name": "Bejaia (ex Bougie)",
     "nameWoDiacritics": "Bejaia (ex Bougie)",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -369,14 +370,14 @@
     "location": "BMR",
     "name": "Beni Mered",
     "nameWoDiacritics": "Beni Mered",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 36.516666666666666,
-      "lon": 0.4166666666666667
+      "lon": 2.85
     }
   },
   {
@@ -384,14 +385,14 @@
     "location": "BSF",
     "name": "Benisaf",
     "nameWoDiacritics": "Benisaf",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 201,
     "coordinates": {
       "lat": 35.28333333333333,
-      "lon": 0.2
+      "lon": -1.3833333333333333
     }
   },
   {
@@ -399,14 +400,14 @@
     "location": "ZBI",
     "name": "Berriane",
     "nameWoDiacritics": "Berriane",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 32.833333333333336,
-      "lon": 0.5666666666666667
+      "lon": 3.7666666666666666
     }
   },
   {
@@ -415,14 +416,14 @@
     "name": "Bethioua",
     "nameWoDiacritics": "Bethioua",
     "subdivision": 31,
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1201,
     "coordinates": {
       "lat": 35.8,
-      "lon": 0.016666666666666666
+      "lon": -0.26666666666666666
     }
   },
   {
@@ -430,7 +431,7 @@
     "location": "BTA",
     "name": "Bethoula",
     "nameWoDiacritics": "Bethoula",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -446,14 +447,14 @@
     "name": "Bettioua",
     "nameWoDiacritics": "Bettioua",
     "subdivision": 31,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 35.8,
-      "lon": 0.016666666666666666
+      "lon": -0.25
     }
   },
   {
@@ -462,14 +463,14 @@
     "name": "Bir Mourad Rais",
     "nameWoDiacritics": "Bir Mourad Rais",
     "subdivision": 16,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 36.733333333333334,
-      "lon": 0.5
+      "lon": 3.033333333333333
     }
   },
   {
@@ -478,14 +479,14 @@
     "name": "Bir Mourad RaÔs",
     "nameWoDiacritics": "Bir Mourad Rais",
     "subdivision": 42,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 36.733333333333334,
-      "lon": 0.5
+      "lon": 3.033333333333333
     }
   },
   {
@@ -494,14 +495,14 @@
     "name": "Birkhadem",
     "nameWoDiacritics": "Birkhadem",
     "subdivision": 16,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 36.71666666666667,
-      "lon": 0.5
+      "lon": 3.05
     }
   },
   {
@@ -510,14 +511,14 @@
     "name": "Birtouta",
     "nameWoDiacritics": "Birtouta",
     "subdivision": 42,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1807,
     "coordinates": {
       "lat": 36.65,
-      "lon": 0.5
+      "lon": 3
     }
   },
   {
@@ -525,14 +526,14 @@
     "location": "BSK",
     "name": "Biskra",
     "nameWoDiacritics": "Biskra",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 34.85,
-      "lon": 0.9
+      "lon": 5.733333333333333
     }
   },
   {
@@ -541,14 +542,14 @@
     "name": "Blida",
     "nameWoDiacritics": "Blida",
     "subdivision": 9,
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 901,
     "coordinates": {
       "lat": 36.46666666666667,
-      "lon": 0.4
+      "lon": 2.8166666666666664
     }
   },
   {
@@ -556,7 +557,7 @@
     "location": "BMW",
     "name": "Bordj Badj Mokthar",
     "nameWoDiacritics": "Bordj Badj Mokthar",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -572,7 +573,7 @@
     "name": "Bordj Bou Arreridj",
     "nameWoDiacritics": "Bordj Bou Arreridj",
     "subdivision": 34,
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -581,7 +582,7 @@
     "date": 407,
     "coordinates": {
       "lat": 36.06666666666667,
-      "lon": 0.7333333333333333
+      "lon": 4.766666666666667
     }
   },
   {
@@ -590,14 +591,14 @@
     "name": "Bordj El Kiffan",
     "nameWoDiacritics": "Bordj El Kiffan",
     "subdivision": 16,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 36.733333333333334,
-      "lon": 0.5166666666666667
+      "lon": 3.183333333333333
     }
   },
   {
@@ -605,7 +606,7 @@
     "location": "BOM",
     "name": "Bordj MenaÔel",
     "nameWoDiacritics": "Bordj Menaiel",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -613,7 +614,7 @@
     "date": 601,
     "coordinates": {
       "lat": 36.733333333333334,
-      "lon": 0.5666666666666667
+      "lon": 3.7
     }
   },
   {
@@ -622,14 +623,14 @@
     "name": "Bou Kadir",
     "nameWoDiacritics": "Bou Kadir",
     "subdivision": 2,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 36.06666666666667,
-      "lon": 0.16666666666666666
+      "lon": 1.1166666666666667
     }
   },
   {
@@ -638,14 +639,14 @@
     "name": "Boufarik",
     "nameWoDiacritics": "Boufarik",
     "subdivision": 9,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 36.55,
-      "lon": 0.4166666666666667
+      "lon": 2.8666666666666667
     }
   },
   {
@@ -654,14 +655,14 @@
     "name": "Bouinan",
     "nameWoDiacritics": "Bouinan",
     "subdivision": 9,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1707,
     "coordinates": {
       "lat": 36.516666666666666,
-      "lon": 0.4166666666666667
+      "lon": 2.9833333333333334
     }
   },
   {
@@ -670,7 +671,7 @@
     "name": "Bouinane",
     "nameWoDiacritics": "Bouinane",
     "subdivision": 9,
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       2
@@ -686,14 +687,14 @@
     "location": "QBZ",
     "name": "Bouira",
     "nameWoDiacritics": "Bouira",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 36.38333333333333,
-      "lon": 0.5833333333333334
+      "lon": 3.9
     }
   },
   {
@@ -702,14 +703,14 @@
     "name": "Boumerdas",
     "nameWoDiacritics": "Boumerdas",
     "subdivision": 35,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 501,
     "coordinates": {
       "lat": 36.766666666666666,
-      "lon": 0.5333333333333333
+      "lon": 3.466666666666667
     }
   },
   {
@@ -718,14 +719,14 @@
     "name": "Canastel",
     "nameWoDiacritics": "Canastel",
     "subdivision": 31,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 35.75,
-      "lon": 0.05
+      "lon": -0.55
     }
   },
   {
@@ -734,14 +735,14 @@
     "name": "Cheghoum-el-Aid",
     "nameWoDiacritics": "Cheghoum-el-Aid",
     "subdivision": 43,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 36.15,
-      "lon": 1
+      "lon": 6.15
     }
   },
   {
@@ -750,14 +751,14 @@
     "name": "Cheraga",
     "nameWoDiacritics": "Cheraga",
     "subdivision": 16,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 36.766666666666666,
-      "lon": 0.4166666666666667
+      "lon": 2.95
     }
   },
   {
@@ -765,7 +766,7 @@
     "location": "CHE",
     "name": "Cherchell",
     "nameWoDiacritics": "Cherchell",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -773,7 +774,7 @@
     "date": 701,
     "coordinates": {
       "lat": 36.6,
-      "lon": 0.35
+      "lon": 2.2
     }
   },
   {
@@ -782,14 +783,14 @@
     "name": "Chetouane",
     "nameWoDiacritics": "Chetouane",
     "subdivision": 13,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 34.916666666666664,
-      "lon": 0.18333333333333332
+      "lon": -1.2833333333333332
     }
   },
   {
@@ -798,14 +799,14 @@
     "name": "Chiffa",
     "nameWoDiacritics": "Chiffa",
     "subdivision": 9,
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 901,
     "coordinates": {
       "lat": 36.45,
-      "lon": 0.4
+      "lon": 2.7333333333333334
     }
   },
   {
@@ -814,7 +815,7 @@
     "name": "Chlef",
     "nameWoDiacritics": "Chlef",
     "subdivision": 2,
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -822,7 +823,7 @@
     "date": 901,
     "coordinates": {
       "lat": 36.15,
-      "lon": 0.2
+      "lon": 1.3333333333333333
     }
   },
   {
@@ -830,7 +831,7 @@
     "location": "COL",
     "name": "Collo",
     "nameWoDiacritics": "Collo",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -838,7 +839,7 @@
     "date": 701,
     "coordinates": {
       "lat": 37.016666666666666,
-      "lon": 1.05
+      "lon": 6.55
     }
   },
   {
@@ -846,7 +847,7 @@
     "location": "CZL",
     "name": "Constantine",
     "nameWoDiacritics": "Constantine",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -862,14 +863,14 @@
     "name": "Dar el BeÔda",
     "nameWoDiacritics": "Dar el Beida",
     "subdivision": 16,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 36.7,
-      "lon": 0.5166666666666667
+      "lon": 3.2
     }
   },
   {
@@ -877,7 +878,7 @@
     "location": "DEL",
     "name": "Dellys",
     "nameWoDiacritics": "Dellys",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -885,7 +886,7 @@
     "date": 701,
     "coordinates": {
       "lat": 36.916666666666664,
-      "lon": 0.5833333333333334
+      "lon": 3.8833333333333333
     }
   },
   {
@@ -894,14 +895,14 @@
     "name": "Djanet",
     "nameWoDiacritics": "Djanet",
     "subdivision": 33,
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 24.55,
-      "lon": 1.5333333333333334
+      "lon": 9.466666666666667
     }
   },
   {
@@ -910,14 +911,14 @@
     "name": "Djelfa",
     "nameWoDiacritics": "Djelfa",
     "subdivision": 17,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 34.666666666666664,
-      "lon": 0.5166666666666667
+      "lon": 3.25
     }
   },
   {
@@ -925,7 +926,7 @@
     "location": "DJE",
     "name": "Djen-Djen",
     "nameWoDiacritics": "Djen-Djen",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -940,14 +941,14 @@
     "location": "DEM",
     "name": "Draa el Mizan",
     "nameWoDiacritics": "Draa el Mizan",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 601,
     "coordinates": {
       "lat": 36.53333333333333,
-      "lon": 0.5666666666666667
+      "lon": 3.8166666666666664
     }
   },
   {
@@ -956,14 +957,14 @@
     "name": "Draria",
     "nameWoDiacritics": "Draria",
     "subdivision": 42,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1201,
     "coordinates": {
       "lat": 36.733333333333334,
-      "lon": 0.5
+      "lon": 3
     }
   },
   {
@@ -971,14 +972,14 @@
     "location": "QAS",
     "name": "Ech Cheliff",
     "nameWoDiacritics": "Ech Cheliff",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 36.21666666666667,
-      "lon": 0.2
+      "lon": 1.3333333333333333
     }
   },
   {
@@ -987,14 +988,14 @@
     "name": "El Bayadh",
     "nameWoDiacritics": "El Bayadh",
     "subdivision": 32,
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 33.68333333333333,
-      "lon": 0.16666666666666666
+      "lon": 1
     }
   },
   {
@@ -1003,14 +1004,14 @@
     "name": "El Eulma",
     "nameWoDiacritics": "El Eulma",
     "subdivision": 19,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 36.15,
-      "lon": 0.9
+      "lon": 5.683333333333334
     }
   },
   {
@@ -1018,7 +1019,7 @@
     "location": "ELG",
     "name": "El Golea",
     "nameWoDiacritics": "El Golea",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -1034,14 +1035,14 @@
     "name": "El Hamiz",
     "nameWoDiacritics": "El Hamiz",
     "subdivision": 16,
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 36.733333333333334,
-      "lon": 0.5166666666666667
+      "lon": 3.2333333333333334
     }
   },
   {
@@ -1050,14 +1051,14 @@
     "name": "El Kala",
     "nameWoDiacritics": "El Kala",
     "subdivision": 36,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 36.75,
-      "lon": 1.3666666666666667
+      "lon": 8.433333333333334
     }
   },
   {
@@ -1066,14 +1067,14 @@
     "name": "El Kerma",
     "nameWoDiacritics": "El Kerma",
     "subdivision": 31,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 35.6,
-      "lon": 0.05
+      "lon": -0.5666666666666667
     }
   },
   {
@@ -1082,14 +1083,14 @@
     "name": "El Madania",
     "nameWoDiacritics": "El Madania",
     "subdivision": 16,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 36.75,
-      "lon": 0.5
+      "lon": 3.066666666666667
     }
   },
   {
@@ -1098,14 +1099,14 @@
     "name": "El Merdja",
     "nameWoDiacritics": "El Merdja",
     "subdivision": 34,
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 36,
-      "lon": 0.7
+      "lon": 4.366666666666666
     }
   },
   {
@@ -1114,14 +1115,14 @@
     "name": "El Milia",
     "nameWoDiacritics": "El Milia",
     "subdivision": 25,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 36.36666666666667,
-      "lon": 1.05
+      "lon": 6.583333333333333
     }
   },
   {
@@ -1130,14 +1131,14 @@
     "name": "El Mouradia",
     "nameWoDiacritics": "El Mouradia",
     "subdivision": 16,
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1607,
     "coordinates": {
       "lat": 36.75,
-      "lon": 0.5
+      "lon": 3.05
     }
   },
   {
@@ -1146,14 +1147,14 @@
     "name": "El Qued",
     "nameWoDiacritics": "El Qued",
     "subdivision": 39,
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 33.31666666666667,
-      "lon": 1.0833333333333333
+      "lon": 6.866666666666667
     }
   },
   {
@@ -1162,14 +1163,14 @@
     "name": "Es Senia",
     "nameWoDiacritics": "Es Senia",
     "subdivision": 31,
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 35.65,
-      "lon": 0.05
+      "lon": -0.6333333333333333
     }
   },
   {
@@ -1178,14 +1179,14 @@
     "name": "Gara Djebilet",
     "nameWoDiacritics": "Gara Djebilet",
     "subdivision": 37,
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 26.15,
-      "lon": 1.2
+      "lon": 7.35
     }
   },
   {
@@ -1193,7 +1194,7 @@
     "location": "GHA",
     "name": "GhardaÔa",
     "nameWoDiacritics": "Ghardaia",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2,
@@ -1202,7 +1203,7 @@
     "date": 401,
     "coordinates": {
       "lat": 32.483333333333334,
-      "lon": 0.5666666666666667
+      "lon": 3.6666666666666665
     }
   },
   {
@@ -1211,7 +1212,7 @@
     "name": "Ghazaouet",
     "nameWoDiacritics": "Ghazaouet",
     "subdivision": 13,
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -1221,7 +1222,7 @@
     "iata": "QVX",
     "coordinates": {
       "lat": 35.1,
-      "lon": 0.25
+      "lon": -1.85
     }
   },
   {
@@ -1230,14 +1231,14 @@
     "name": "Guellal",
     "nameWoDiacritics": "Guellal",
     "subdivision": 19,
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
     "date": 1007,
     "coordinates": {
       "lat": 36.03333333333333,
-      "lon": 0.8666666666666667
+      "lon": 5.333333333333333
     }
   },
   {
@@ -1246,14 +1247,14 @@
     "name": "Guelma",
     "nameWoDiacritics": "Guelma",
     "subdivision": 24,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 36.46666666666667,
-      "lon": 1.2
+      "lon": 7.433333333333334
     }
   },
   {
@@ -1262,14 +1263,14 @@
     "name": "Hammedi",
     "nameWoDiacritics": "Hammedi",
     "subdivision": 35,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1807,
     "coordinates": {
       "lat": 36.666666666666664,
-      "lon": 0.5166666666666667
+      "lon": 3.2666666666666666
     }
   },
   {
@@ -1277,7 +1278,7 @@
     "location": "HME",
     "name": "Hassi Messaoud",
     "nameWoDiacritics": "Hassi Messaoud",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -1285,7 +1286,7 @@
     "date": 601,
     "coordinates": {
       "lat": 31.666666666666668,
-      "lon": 1
+      "lon": 6.133333333333334
     }
   },
   {
@@ -1294,14 +1295,14 @@
     "name": "Hassi R'Mel",
     "nameWoDiacritics": "Hassi R'Mel",
     "subdivision": 3,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1707,
     "coordinates": {
       "lat": 32.916666666666664,
-      "lon": 0.5166666666666667
+      "lon": 3.2666666666666666
     }
   },
   {
@@ -1310,14 +1311,14 @@
     "name": "Hydra",
     "nameWoDiacritics": "Hydra",
     "subdivision": 16,
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
     "date": 1007,
     "coordinates": {
       "lat": 36.75,
-      "lon": 0.5
+      "lon": 3.0166666666666666
     }
   },
   {
@@ -1326,14 +1327,14 @@
     "name": "Illizi",
     "nameWoDiacritics": "Illizi",
     "subdivision": 33,
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 26.466666666666665,
-      "lon": 1.3666666666666667
+      "lon": 8.466666666666667
     }
   },
   {
@@ -1342,14 +1343,14 @@
     "name": "In Amenas",
     "nameWoDiacritics": "In Amenas",
     "subdivision": 33,
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 28.05,
-      "lon": 1.55
+      "lon": 9.633333333333333
     }
   },
   {
@@ -1358,14 +1359,14 @@
     "name": "In Salah",
     "nameWoDiacritics": "In Salah",
     "subdivision": 11,
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 27.25,
-      "lon": 0.38333333333333336
+      "lon": 2.5166666666666666
     }
   },
   {
@@ -1374,7 +1375,7 @@
     "name": "I-N-Amenas",
     "nameWoDiacritics": "I-N-Amenas",
     "subdivision": 33,
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -1382,7 +1383,7 @@
     "date": 901,
     "coordinates": {
       "lat": 28.05,
-      "lon": 1.55
+      "lon": 9.55
     }
   },
   {
@@ -1391,14 +1392,14 @@
     "name": "I-n-Guezzam",
     "nameWoDiacritics": "I-n-Guezzam",
     "subdivision": 11,
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 19.55,
-      "lon": 0.9
+      "lon": 5.766666666666667
     }
   },
   {
@@ -1407,7 +1408,7 @@
     "name": "Jijel",
     "nameWoDiacritics": "Jijel",
     "subdivision": 18,
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -1422,7 +1423,7 @@
     "location": "DJI",
     "name": "Jijel (ex Djidjelli)",
     "nameWoDiacritics": "Jijel (ex Djidjelli)",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -1438,14 +1439,14 @@
     "name": "Kenchela",
     "nameWoDiacritics": "Kenchela",
     "subdivision": 40,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 35.45,
-      "lon": 1.1666666666666667
+      "lon": 7.133333333333334
     }
   },
   {
@@ -1453,7 +1454,7 @@
     "location": "KHM",
     "name": "Khemis Miliana",
     "nameWoDiacritics": "Khemis Miliana",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1461,7 +1462,7 @@
     "date": 601,
     "coordinates": {
       "lat": 36.25,
-      "lon": 0.35
+      "lon": 2.2
     }
   },
   {
@@ -1469,7 +1470,7 @@
     "location": "KHE",
     "name": "Kherrata",
     "nameWoDiacritics": "Kherrata",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -1477,7 +1478,7 @@
     "date": 601,
     "coordinates": {
       "lat": 36.483333333333334,
-      "lon": 0.85
+      "lon": 5.266666666666667
     }
   },
   {
@@ -1486,7 +1487,7 @@
     "name": "Kouba",
     "nameWoDiacritics": "Kouba",
     "subdivision": 16,
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -1494,7 +1495,7 @@
     "date": 901,
     "coordinates": {
       "lat": 36.71666666666667,
-      "lon": 0.5
+      "lon": 3.0833333333333335
     }
   },
   {
@@ -1502,7 +1503,7 @@
     "location": "CLE",
     "name": "La Calle",
     "nameWoDiacritics": "La Calle",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1518,7 +1519,7 @@
     "name": "Laghouat",
     "nameWoDiacritics": "Laghouat",
     "subdivision": 3,
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -1533,14 +1534,14 @@
     "location": "ANI",
     "name": "L'Arbaa NaÔt Irathen",
     "nameWoDiacritics": "L'Arbaa Nait Irathen",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 601,
     "coordinates": {
       "lat": 36.63333333333333,
-      "lon": 0.6833333333333333
+      "lon": 4.183333333333334
     }
   },
   {
@@ -1549,14 +1550,14 @@
     "name": "Maghnia",
     "nameWoDiacritics": "Maghnia",
     "subdivision": 13,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 34.85,
-      "lon": 0.23333333333333334
+      "lon": -1.7166666666666668
     }
   },
   {
@@ -1565,14 +1566,14 @@
     "name": "Manso˚ra",
     "nameWoDiacritics": "Mansoura",
     "subdivision": 13,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 34.85,
-      "lon": 0.2
+      "lon": -1.3333333333333333
     }
   },
   {
@@ -1581,7 +1582,7 @@
     "name": "Mascara",
     "nameWoDiacritics": "Mascara",
     "subdivision": 29,
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -1597,14 +1598,14 @@
     "name": "MÈcheria",
     "nameWoDiacritics": "Mecheria",
     "subdivision": 45,
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 33.55,
-      "lon": 0.016666666666666666
+      "lon": -0.2833333333333333
     }
   },
   {
@@ -1613,14 +1614,14 @@
     "name": "Medea",
     "nameWoDiacritics": "Medea",
     "subdivision": 26,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 36.266666666666666,
-      "lon": 0.4
+      "lon": 2.75
     }
   },
   {
@@ -1629,14 +1630,14 @@
     "name": "Meftah",
     "nameWoDiacritics": "Meftah",
     "subdivision": 16,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1801,
     "coordinates": {
       "lat": 36.61666666666667,
-      "lon": 0.5166666666666667
+      "lon": 3.216666666666667
     }
   },
   {
@@ -1645,14 +1646,14 @@
     "name": "Mila",
     "nameWoDiacritics": "Mila",
     "subdivision": 43,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 36.45,
-      "lon": 1.0166666666666666
+      "lon": 6.25
     }
   },
   {
@@ -1661,14 +1662,14 @@
     "name": "Mohammadia",
     "nameWoDiacritics": "Mohammadia",
     "subdivision": 16,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 36.733333333333334,
-      "lon": 0.5
+      "lon": 3.1333333333333333
     }
   },
   {
@@ -1677,14 +1678,14 @@
     "name": "Mohammadia",
     "nameWoDiacritics": "Mohammadia",
     "subdivision": 29,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 35.583333333333336,
-      "lon": 0.06666666666666667
+      "lon": 0.6833333333333333
     }
   },
   {
@@ -1692,7 +1693,7 @@
     "location": "MOS",
     "name": "Mostaganem",
     "nameWoDiacritics": "Mostaganem",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -1708,14 +1709,14 @@
     "name": "M'sila",
     "nameWoDiacritics": "M'sila",
     "subdivision": 28,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 35.7,
-      "lon": 0.7166666666666667
+      "lon": 4.55
     }
   },
   {
@@ -1724,14 +1725,14 @@
     "name": "Nedroma",
     "nameWoDiacritics": "Nedroma",
     "subdivision": 13,
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 901,
     "coordinates": {
       "lat": 35,
-      "lon": 1.7333333333333334
+      "lon": -14.666666666666666
     }
   },
   {
@@ -1739,7 +1740,7 @@
     "location": "ORN",
     "name": "Oran",
     "nameWoDiacritics": "Oran",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -1756,7 +1757,7 @@
     "name": "Oran Dry Port",
     "nameWoDiacritics": "Oran Dry Port",
     "subdivision": 31,
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -1764,7 +1765,7 @@
     "date": 1701,
     "coordinates": {
       "lat": 35.68333333333333,
-      "lon": 0.05
+      "lon": -0.6333333333333333
     }
   },
   {
@@ -1773,14 +1774,14 @@
     "name": "Ouargla",
     "nameWoDiacritics": "Ouargla",
     "subdivision": 30,
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 31.916666666666668,
-      "lon": 0.8666666666666667
+      "lon": 5.4
     }
   },
   {
@@ -1789,14 +1790,14 @@
     "name": "Oued TlÈlat",
     "nameWoDiacritics": "Oued Tlelat",
     "subdivision": 31,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1401,
     "coordinates": {
       "lat": 35.55,
-      "lon": 0.03333333333333333
+      "lon": -0.45
     }
   },
   {
@@ -1805,14 +1806,14 @@
     "name": "Ouled Haddadj",
     "nameWoDiacritics": "Ouled Haddadj",
     "subdivision": 35,
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
     "date": 1007,
     "coordinates": {
       "lat": 36.71666666666667,
-      "lon": 0.5333333333333333
+      "lon": 3.35
     }
   },
   {
@@ -1821,14 +1822,14 @@
     "name": "Ouled YaÔch",
     "nameWoDiacritics": "Ouled Yaich",
     "subdivision": 9,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 35.833333333333336,
-      "lon": 0.16666666666666666
+      "lon": 1
     }
   },
   {
@@ -1837,14 +1838,14 @@
     "name": "Oum El Bouaghi",
     "nameWoDiacritics": "Oum El Bouaghi",
     "subdivision": 4,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 35.88333333333333,
-      "lon": 1.1666666666666667
+      "lon": 7.116666666666666
     }
   },
   {
@@ -1853,14 +1854,14 @@
     "name": "Qued Rhiou",
     "nameWoDiacritics": "Qued Rhiou",
     "subdivision": 48,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 35.96666666666667,
-      "lon": 0.08333333333333333
+      "lon": 0.9166666666666666
     }
   },
   {
@@ -1869,14 +1870,14 @@
     "name": "Qued Zenati",
     "nameWoDiacritics": "Qued Zenati",
     "subdivision": 25,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 36.333333333333336,
-      "lon": 1.1833333333333333
+      "lon": 7.166666666666667
     }
   },
   {
@@ -1885,14 +1886,14 @@
     "name": "Reghaia",
     "nameWoDiacritics": "Reghaia",
     "subdivision": 35,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 36.733333333333334,
-      "lon": 0.5333333333333333
+      "lon": 3.3333333333333335
     }
   },
   {
@@ -1901,14 +1902,14 @@
     "name": "Relizane",
     "nameWoDiacritics": "Relizane",
     "subdivision": 48,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 35.75,
-      "lon": 0.05
+      "lon": 0.6166666666666667
     }
   },
   {
@@ -1917,14 +1918,14 @@
     "name": "Remchi",
     "nameWoDiacritics": "Remchi",
     "subdivision": 13,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 35.05,
-      "lon": 0.2
+      "lon": -1.4166666666666667
     }
   },
   {
@@ -1932,14 +1933,14 @@
     "location": "ONO",
     "name": "Rhourde Nouss",
     "nameWoDiacritics": "Rhourde Nouss",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
     "date": 1001,
     "coordinates": {
       "lat": 28.5,
-      "lon": 1.0666666666666667
+      "lon": 6.75
     }
   },
   {
@@ -1948,7 +1949,7 @@
     "name": "Rouiba",
     "nameWoDiacritics": "Rouiba",
     "subdivision": 16,
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -1956,7 +1957,7 @@
     "date": 901,
     "coordinates": {
       "lat": 36.733333333333334,
-      "lon": 0.5166666666666667
+      "lon": 3.283333333333333
     }
   },
   {
@@ -1965,14 +1966,14 @@
     "name": "SaÔda",
     "nameWoDiacritics": "Saida",
     "subdivision": 20,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 34.833333333333336,
-      "lon": 0.15
+      "lon": 1.5
     }
   },
   {
@@ -1981,14 +1982,14 @@
     "name": "Salah Bey",
     "nameWoDiacritics": "Salah Bey",
     "subdivision": 16,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 35.85,
-      "lon": 0.85
+      "lon": 5.283333333333333
     }
   },
   {
@@ -1997,14 +1998,14 @@
     "name": "Saoula",
     "nameWoDiacritics": "Saoula",
     "subdivision": 42,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1401,
     "coordinates": {
       "lat": 36.7,
-      "lon": 0.5
+      "lon": 3.0166666666666666
     }
   },
   {
@@ -2013,14 +2014,14 @@
     "name": "Sedrata",
     "nameWoDiacritics": "Sedrata",
     "subdivision": 41,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 36.13333333333333,
-      "lon": 1.2166666666666666
+      "lon": 7.516666666666667
     }
   },
   {
@@ -2028,7 +2029,7 @@
     "location": "SET",
     "name": "SÈtif",
     "nameWoDiacritics": "Setif",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2036,7 +2037,7 @@
     "date": 601,
     "coordinates": {
       "lat": 36.18333333333333,
-      "lon": 0.8666666666666667
+      "lon": 5.4
     }
   },
   {
@@ -2044,7 +2045,7 @@
     "location": "SBA",
     "name": "Sidi Bel Abbes",
     "nameWoDiacritics": "Sidi Bel Abbes",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -2052,7 +2053,7 @@
     "date": 901,
     "coordinates": {
       "lat": 35.18333333333333,
-      "lon": 0.05
+      "lon": -0.6333333333333333
     }
   },
   {
@@ -2061,14 +2062,14 @@
     "name": "Sidi Yahia",
     "nameWoDiacritics": "Sidi Yahia",
     "subdivision": 13,
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 34.733333333333334,
-      "lon": 0.21666666666666667
+      "lon": -1.5833333333333335
     }
   },
   {
@@ -2077,14 +2078,14 @@
     "name": "Sig",
     "nameWoDiacritics": "Sig",
     "subdivision": 31,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 35.53333333333333,
-      "lon": 0.016666666666666666
+      "lon": -0.18333333333333332
     }
   },
   {
@@ -2093,7 +2094,7 @@
     "name": "Skikda",
     "nameWoDiacritics": "Skikda",
     "subdivision": 21,
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -2101,7 +2102,7 @@
     "date": 2001,
     "coordinates": {
       "lat": 36.86666666666667,
-      "lon": 1.0833333333333333
+      "lon": 6.9
     }
   },
   {
@@ -2109,7 +2110,7 @@
     "location": "SKI",
     "name": "Skikda (ex Philippeville)",
     "nameWoDiacritics": "Skikda (ex Philippeville)",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -2126,14 +2127,14 @@
     "name": "Souk Ahras",
     "nameWoDiacritics": "Souk Ahras",
     "subdivision": 41,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 36.28333333333333,
-      "lon": 1.25
+      "lon": 7.95
     }
   },
   {
@@ -2142,14 +2143,14 @@
     "name": "Sour El Ghozlane",
     "nameWoDiacritics": "Sour El Ghozlane",
     "subdivision": 10,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 36.15,
-      "lon": 0.5666666666666667
+      "lon": 3.6833333333333336
     }
   },
   {
@@ -2157,14 +2158,14 @@
     "location": "TAH",
     "name": "Taher",
     "nameWoDiacritics": "Taher",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 601,
     "coordinates": {
       "lat": 36.766666666666666,
-      "lon": 0.9166666666666666
+      "lon": 5.883333333333333
     }
   },
   {
@@ -2172,14 +2173,14 @@
     "location": "TMR",
     "name": "Tamanrasset",
     "nameWoDiacritics": "Tamanrasset",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 22.8,
-      "lon": 0.8666666666666667
+      "lon": 5.45
     }
   },
   {
@@ -2187,7 +2188,7 @@
     "location": "TEE",
     "name": "Tbessa",
     "nameWoDiacritics": "Tbessa",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -2203,7 +2204,7 @@
     "name": "Tebessa",
     "nameWoDiacritics": "Tebessa",
     "subdivision": 12,
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       5
@@ -2211,7 +2212,7 @@
     "date": 1001,
     "coordinates": {
       "lat": 35.4,
-      "lon": 1.3333333333333333
+      "lon": 8.116666666666667
     }
   },
   {
@@ -2219,14 +2220,14 @@
     "location": "TEN",
     "name": "TÈnËs",
     "nameWoDiacritics": "Tenes",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 212,
     "coordinates": {
       "lat": 36.516666666666666,
-      "lon": 0.18333333333333332
+      "lon": 1.3166666666666667
     }
   },
   {
@@ -2234,14 +2235,14 @@
     "location": "TID",
     "name": "Tiaret",
     "nameWoDiacritics": "Tiaret",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 35.46666666666667,
-      "lon": 0.2
+      "lon": 1.35
     }
   },
   {
@@ -2250,14 +2251,14 @@
     "name": "Timimoun",
     "nameWoDiacritics": "Timimoun",
     "subdivision": 1,
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 29.233333333333334,
-      "lon": 0.016666666666666666
+      "lon": 0.26666666666666666
     }
   },
   {
@@ -2266,14 +2267,14 @@
     "name": "Tindouf",
     "nameWoDiacritics": "Tindouf",
     "subdivision": 37,
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 27.716666666666665,
-      "lon": 1.35
+      "lon": -8.166666666666666
     }
   },
   {
@@ -2282,7 +2283,7 @@
     "name": "Tipaza",
     "nameWoDiacritics": "Tipaza",
     "subdivision": 1,
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -2298,14 +2299,14 @@
     "name": "Tizi Ouzou",
     "nameWoDiacritics": "Tizi Ouzou",
     "subdivision": 1,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 36.71666666666667,
-      "lon": 0.6666666666666666
+      "lon": 4.05
     }
   },
   {
@@ -2314,7 +2315,7 @@
     "name": "Tlemcen",
     "nameWoDiacritics": "Tlemcen",
     "subdivision": 13,
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -2325,7 +2326,7 @@
     "date": 407,
     "coordinates": {
       "lat": 34.86666666666667,
-      "lon": 0.18333333333333332
+      "lon": -1.3
     }
   },
   {
@@ -2334,7 +2335,7 @@
     "name": "Touggourt",
     "nameWoDiacritics": "Touggourt",
     "subdivision": 30,
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],

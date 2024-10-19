@@ -2,6 +2,7 @@
   {
     "country": "ER",
     "name": ".ERITREA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -14,7 +15,7 @@
     "name": "Asmara",
     "nameWoDiacritics": "Asmara",
     "subdivision": "MA",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -24,7 +25,7 @@
     "date": 1307,
     "coordinates": {
       "lat": 15.333333333333334,
-      "lon": 4.416666666666667
+      "lon": 38.93333333333333
     }
   },
   {
@@ -33,7 +34,7 @@
     "name": "Assab",
     "nameWoDiacritics": "Assab",
     "subdivision": "DK",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -42,7 +43,7 @@
     "date": 1307,
     "coordinates": {
       "lat": 13,
-      "lon": 4.4
+      "lon": 42.733333333333334
     }
   },
   {
@@ -51,7 +52,7 @@
     "name": "Massawa (Mitsiwa)",
     "nameWoDiacritics": "Massawa (Mitsiwa)",
     "subdivision": "SK",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       1,
@@ -61,7 +62,7 @@
     "date": 1307,
     "coordinates": {
       "lat": 15.6,
-      "lon": 4.533333333333333
+      "lon": 39.45
     }
   },
   {
@@ -70,14 +71,14 @@
     "name": "Tessenei",
     "nameWoDiacritics": "Tessenei",
     "subdivision": "GB",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 1307,
     "coordinates": {
       "lat": 15.1,
-      "lon": 4.05
+      "lon": 36.65
     }
   }
 ]

@@ -2,6 +2,7 @@
   {
     "country": "IM",
     "name": ".ISLE OF MAN",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,14 +14,14 @@
     "location": "BRI",
     "name": "Bride",
     "nameWoDiacritics": "Bride",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
     "date": 1001,
     "coordinates": {
       "lat": 54.38333333333333,
-      "lon": 0.7
+      "lon": -4.383333333333334
     }
   },
   {
@@ -28,7 +29,7 @@
     "location": "CTN",
     "name": "Castletown",
     "nameWoDiacritics": "Castletown",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -36,7 +37,7 @@
     "date": 607,
     "coordinates": {
       "lat": 54.083333333333336,
-      "lon": 0.7166666666666667
+      "lon": -4.65
     }
   },
   {
@@ -44,7 +45,7 @@
     "location": "DGS",
     "name": "Douglas",
     "nameWoDiacritics": "Douglas",
-    "status": "AF",
+    "status": 2,
     "function": [
       0,
       2
@@ -52,7 +53,7 @@
     "date": 607,
     "coordinates": {
       "lat": 54.166666666666664,
-      "lon": 0.7
+      "lon": -4.483333333333333
     },
     "remarks": "ex GB DGS"
   },
@@ -61,14 +62,14 @@
     "location": "JBY",
     "name": "Jurby",
     "nameWoDiacritics": "Jurby",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 54.35,
-      "lon": 0.7166666666666667
+      "lon": -4.533333333333333
     }
   },
   {
@@ -76,14 +77,14 @@
     "location": "KIR",
     "name": "Kirkmichale",
     "nameWoDiacritics": "Kirkmichale",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 54.28333333333333,
-      "lon": 0.7166666666666667
+      "lon": -4.583333333333333
     }
   },
   {
@@ -91,14 +92,14 @@
     "location": "7MI",
     "name": "Maughold",
     "nameWoDiacritics": "Maughold",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 54.3,
-      "lon": 0.6833333333333333
+      "lon": -4.316666666666666
     }
   },
   {
@@ -106,14 +107,14 @@
     "location": "OHN",
     "name": "Onchan",
     "nameWoDiacritics": "Onchan",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 54.18333333333333,
-      "lon": 0.7
+      "lon": -4.45
     }
   },
   {
@@ -121,7 +122,7 @@
     "location": "PEL",
     "name": "Peel",
     "nameWoDiacritics": "Peel",
-    "status": "AF",
+    "status": 2,
     "function": [
       0,
       2
@@ -129,7 +130,7 @@
     "date": 607,
     "coordinates": {
       "lat": 54.21666666666667,
-      "lon": 0.7333333333333333
+      "lon": -4.766666666666667
     },
     "remarks": "ex GB PEL"
   },
@@ -139,7 +140,7 @@
     "location": "PER",
     "name": "Port Erin",
     "nameWoDiacritics": "Port Erin",
-    "status": "AM",
+    "status": 4,
     "function": [
       0,
       2
@@ -147,7 +148,7 @@
     "date": 2307,
     "coordinates": {
       "lat": 54.083333333333336,
-      "lon": 0.7333333333333333
+      "lon": -4.766666666666667
     }
   },
   {
@@ -155,14 +156,14 @@
     "location": "PSM",
     "name": "Port Saint Mary",
     "nameWoDiacritics": "Port Saint Mary",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1707,
     "coordinates": {
       "lat": 54.06666666666667,
-      "lon": 0.7333333333333333
+      "lon": -4.733333333333333
     }
   },
   {
@@ -170,7 +171,7 @@
     "location": "RAM",
     "name": "Ramsey",
     "nameWoDiacritics": "Ramsey",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -178,7 +179,7 @@
     "date": 607,
     "coordinates": {
       "lat": 54.31666666666667,
-      "lon": 0.7
+      "lon": -4.383333333333334
     },
     "remarks": "ex GB RAM"
   },
@@ -187,14 +188,14 @@
     "location": "IOM",
     "name": "Ronaldsway Apt",
     "nameWoDiacritics": "Ronaldsway Apt",
-    "status": "AF",
+    "status": 2,
     "function": [
       3
     ],
     "date": 607,
     "coordinates": {
       "lat": 54.25,
-      "lon": 0.7166666666666667
+      "lon": -4.5
     },
     "remarks": "ex GB IOM"
   },
@@ -203,7 +204,7 @@
     "location": "SAN",
     "name": "Santon",
     "nameWoDiacritics": "Santon",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       5
@@ -211,7 +212,7 @@
     "date": 1001,
     "coordinates": {
       "lat": 54.11666666666667,
-      "lon": 0.7166666666666667
+      "lon": -4.583333333333333
     }
   }
 ]

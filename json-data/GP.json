@@ -2,6 +2,7 @@
   {
     "country": "GP",
     "name": ".GUADELOUPE",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "FPI",
     "name": "Anse-Bertrand",
     "nameWoDiacritics": "Anse-Bertrand",
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2
@@ -21,7 +22,7 @@
     "date": 2201,
     "coordinates": {
       "lat": 16.466666666666665,
-      "lon": 6.216666666666667
+      "lon": -61.516666666666666
     }
   },
   {
@@ -29,7 +30,7 @@
     "location": "BMH",
     "name": "Baie-Mahault",
     "nameWoDiacritics": "Baie-Mahault",
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2
@@ -37,7 +38,7 @@
     "date": 1901,
     "coordinates": {
       "lat": 16.266666666666666,
-      "lon": 6.216666666666667
+      "lon": -61.583333333333336
     }
   },
   {
@@ -45,7 +46,7 @@
     "location": "AIF",
     "name": "Baillif",
     "nameWoDiacritics": "Baillif",
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2
@@ -53,7 +54,7 @@
     "date": 2201,
     "coordinates": {
       "lat": 16.033333333333335,
-      "lon": 6.233333333333333
+      "lon": -61.733333333333334
     }
   },
   {
@@ -61,7 +62,7 @@
     "location": "BBR",
     "name": "Basse-Terre",
     "nameWoDiacritics": "Basse-Terre",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -70,7 +71,7 @@
     "date": 2101,
     "coordinates": {
       "lat": 16,
-      "lon": 6.233333333333333
+      "lon": -61.71666666666667
     }
   },
   {
@@ -78,7 +79,7 @@
     "location": "BOU",
     "name": "Bouillante",
     "nameWoDiacritics": "Bouillante",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       2
@@ -86,7 +87,7 @@
     "date": 2207,
     "coordinates": {
       "lat": 16.133333333333333,
-      "lon": 6.233333333333333
+      "lon": -61.766666666666666
     }
   },
   {
@@ -94,7 +95,7 @@
     "location": "CBE",
     "name": "Capesterre-Belle-Eau",
     "nameWoDiacritics": "Capesterre-Belle-Eau",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -102,7 +103,7 @@
     "date": 1107,
     "coordinates": {
       "lat": 16.05,
-      "lon": 6.216666666666667
+      "lon": -61.55
     }
   },
   {
@@ -110,7 +111,7 @@
     "location": "DHR",
     "name": "Deshaies",
     "nameWoDiacritics": "Deshaies",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       2
@@ -118,7 +119,7 @@
     "date": 2207,
     "coordinates": {
       "lat": 16.3,
-      "lon": 6.233333333333333
+      "lon": -61.78333333333333
     }
   },
   {
@@ -126,7 +127,7 @@
     "location": "FAE",
     "name": "Folle-Anse",
     "nameWoDiacritics": "Folle-Anse",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -134,7 +135,7 @@
     "date": 1101,
     "coordinates": {
       "lat": 15.95,
-      "lon": 6.2
+      "lon": -61.333333333333336
     }
   },
   {
@@ -143,14 +144,14 @@
     "location": "GOU",
     "name": "Gourbeyre",
     "nameWoDiacritics": "Gourbeyre",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 2307,
     "coordinates": {
       "lat": 16,
-      "lon": 6.233333333333333
+      "lon": -61.7
     },
     "remarks": "@Fun@Sub"
   },
@@ -159,14 +160,14 @@
     "location": "GOY",
     "name": "Goyave",
     "nameWoDiacritics": "Goyave",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1901,
     "coordinates": {
       "lat": 16.133333333333333,
-      "lon": 6.216666666666667
+      "lon": -61.56666666666667
     },
     "remarks": "Formerly FRGOY"
   },
@@ -175,14 +176,14 @@
     "location": "GRB",
     "name": "Grand-Bourg",
     "nameWoDiacritics": "Grand-Bourg",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 212,
     "coordinates": {
       "lat": 15.883333333333333,
-      "lon": 6.183333333333334
+      "lon": -61.3
     }
   },
   {
@@ -191,14 +192,14 @@
     "location": "JAR",
     "name": "Jarry",
     "nameWoDiacritics": "Jarry",
-    "status": "XX",
+    "status": 13,
     "function": [
       0
     ],
     "date": 2307,
     "coordinates": {
       "lat": 16.233333333333334,
-      "lon": 6.216666666666667
+      "lon": -61.55
     }
   },
   {
@@ -206,14 +207,14 @@
     "location": "DSD",
     "name": "La DÈsirade",
     "nameWoDiacritics": "La Desirade",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 1901,
     "coordinates": {
       "lat": 16.3,
-      "lon": 6.166666666666667
+      "lon": -61.083333333333336
     }
   },
   {
@@ -221,14 +222,14 @@
     "location": "LAM",
     "name": "Lamentin",
     "nameWoDiacritics": "Lamentin",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 16.266666666666666,
-      "lon": 6.216666666666667
+      "lon": -61.61666666666667
     }
   },
   {
@@ -236,7 +237,7 @@
     "location": "GOS",
     "name": "Le Gosier",
     "nameWoDiacritics": "Le Gosier",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -244,7 +245,7 @@
     "date": 1401,
     "coordinates": {
       "lat": 16.2,
-      "lon": 6.2
+      "lon": -61.483333333333334
     }
   },
   {
@@ -252,14 +253,14 @@
     "location": "LEM",
     "name": "Le Moule",
     "nameWoDiacritics": "Le Moule",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1001,
     "coordinates": {
       "lat": 16.333333333333332,
-      "lon": 6.2
+      "lon": -61.333333333333336
     }
   },
   {
@@ -267,14 +268,14 @@
     "location": "BYM",
     "name": "Les Abymes",
     "nameWoDiacritics": "Les Abymes",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1901,
     "coordinates": {
       "lat": 16.283333333333335,
-      "lon": 6.216666666666667
+      "lon": -61.5
     }
   },
   {
@@ -282,14 +283,14 @@
     "location": "GBJ",
     "name": "Marie-Galante",
     "nameWoDiacritics": "Marie-Galante",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 1901,
     "coordinates": {
       "lat": 15.866666666666667,
-      "lon": 6.183333333333334
+      "lon": -61.266666666666666
     }
   },
   {
@@ -297,7 +298,7 @@
     "location": "MSB",
     "name": "Marigot",
     "nameWoDiacritics": "Marigot",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -306,7 +307,7 @@
     "date": 1901,
     "coordinates": {
       "lat": 18.066666666666666,
-      "lon": 6.5
+      "lon": -63.083333333333336
     }
   },
   {
@@ -314,7 +315,7 @@
     "location": "PBG",
     "name": "Petit-Bourg",
     "nameWoDiacritics": "Petit-Bourg",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       2
@@ -322,7 +323,7 @@
     "date": 2207,
     "coordinates": {
       "lat": 16.183333333333334,
-      "lon": 6.216666666666667
+      "lon": -61.583333333333336
     }
   },
   {
@@ -330,14 +331,14 @@
     "location": "PTC",
     "name": "Petit-Canal",
     "nameWoDiacritics": "Petit-Canal",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1801,
     "coordinates": {
       "lat": 16.383333333333333,
-      "lon": 6.2
+      "lon": -61.483333333333334
     }
   },
   {
@@ -346,14 +347,14 @@
     "location": "PAP",
     "name": "Pointe-‡-Pitre",
     "nameWoDiacritics": "Pointe-a-Pitre",
-    "status": "XX",
+    "status": 13,
     "function": [
       2
     ],
     "date": 2307,
     "coordinates": {
       "lat": 16.233333333333334,
-      "lon": 6.216666666666667
+      "lon": -61.516666666666666
     }
   },
   {
@@ -362,7 +363,7 @@
     "location": "PTP",
     "name": "Pointe-‡-Pitre",
     "nameWoDiacritics": "Pointe-a-Pitre",
-    "status": "AF",
+    "status": 2,
     "function": [
       0,
       2,
@@ -372,7 +373,7 @@
     "date": 2307,
     "coordinates": {
       "lat": 16.233333333333334,
-      "lon": 6.216666666666667
+      "lon": -61.53333333333333
     },
     "remarks": "@Fun@Sub@Coo"
   },
@@ -381,7 +382,7 @@
     "location": "ZAA",
     "name": "Pointe-Noire",
     "nameWoDiacritics": "Pointe-Noire",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -389,7 +390,7 @@
     "date": 901,
     "coordinates": {
       "lat": 16.233333333333334,
-      "lon": 6.233333333333333
+      "lon": -61.78333333333333
     }
   },
   {
@@ -397,7 +398,7 @@
     "location": "PTL",
     "name": "Port-Louis",
     "nameWoDiacritics": "Port-Louis",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2,
@@ -406,7 +407,7 @@
     "date": 607,
     "coordinates": {
       "lat": 16.416666666666668,
-      "lon": 6.216666666666667
+      "lon": -61.53333333333333
     }
   },
   {
@@ -414,14 +415,14 @@
     "location": "SCL",
     "name": "Saint-Claude",
     "nameWoDiacritics": "Saint-Claude",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 16.016666666666666,
-      "lon": 6.233333333333333
+      "lon": -61.68333333333333
     }
   },
   {
@@ -429,14 +430,14 @@
     "location": "STA",
     "name": "Sainte-Anne",
     "nameWoDiacritics": "Sainte-Anne",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1901,
     "coordinates": {
       "lat": 16.233333333333334,
-      "lon": 6.2
+      "lon": -61.36666666666667
     }
   },
   {
@@ -445,14 +446,14 @@
     "location": "STR",
     "name": "Sainte-Rose",
     "nameWoDiacritics": "Sainte-Rose",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 2307,
     "coordinates": {
       "lat": 16.333333333333332,
-      "lon": 6.233333333333333
+      "lon": -61.7
     },
     "remarks": "@Fun@Sub@Coo"
   },
@@ -461,7 +462,7 @@
     "location": "SFC",
     "name": "Saint-FranÁois",
     "nameWoDiacritics": "Saint-Francois",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -469,7 +470,7 @@
     "date": 1901,
     "coordinates": {
       "lat": 16.25,
-      "lon": 6.183333333333334
+      "lon": -61.266666666666666
     }
   },
   {
@@ -477,14 +478,14 @@
     "location": "HTB",
     "name": "Terre-de-Bas",
     "nameWoDiacritics": "Terre-de-Bas",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 1901,
     "coordinates": {
       "lat": 15.85,
-      "lon": 6.216666666666667
+      "lon": -61.63333333333333
     }
   },
   {
@@ -492,14 +493,14 @@
     "location": "LSS",
     "name": "Terre-de-Haut",
     "nameWoDiacritics": "Terre-de-Haut",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 1901,
     "coordinates": {
       "lat": 15.866666666666667,
-      "lon": 6.216666666666667
+      "lon": -61.583333333333336
     }
   },
   {
@@ -507,14 +508,14 @@
     "location": "TRS",
     "name": "Trois-RiviËres",
     "nameWoDiacritics": "Trois-Rivieres",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1001,
     "coordinates": {
       "lat": 15.966666666666667,
-      "lon": 6.216666666666667
+      "lon": -61.63333333333333
     }
   }
 ]

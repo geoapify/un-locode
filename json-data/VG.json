@@ -6,7 +6,7 @@
     "name": ".VIRGIN ISLANDS (BRITISH)",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Anegada",
     "nameWoDiacritics": "Anegada",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -42,7 +42,7 @@
     "name": "\"Beef Island",
     "nameWoDiacritics": " Tortola\"",
     "subdivision": "\"Beef Island",
-    "status": " Tortola\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1--4----",
@@ -59,7 +59,7 @@
     "name": "Jost Van Dyke",
     "nameWoDiacritics": "Jost Van Dyke",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -67,7 +67,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.45,
-      "lon": 6.733333333333333
+      "lon": -64.73333333333333
     },
     "remarks": ""
   },
@@ -78,7 +78,7 @@
     "name": "N. Sound/Virgin Gorda",
     "nameWoDiacritics": "N. Sound/Virgin Gorda",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -97,7 +97,7 @@
     "name": "Norman Island",
     "nameWoDiacritics": "Norman Island",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -105,7 +105,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.316666666666666,
-      "lon": 6.716666666666667
+      "lon": -64.61666666666666
     },
     "remarks": ""
   },
@@ -116,7 +116,7 @@
     "name": "Port Purcell",
     "nameWoDiacritics": "Port Purcell",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       5
@@ -125,7 +125,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.416666666666668,
-      "lon": 6.716666666666667
+      "lon": -64.6
     },
     "remarks": ""
   },
@@ -136,7 +136,7 @@
     "name": "\"Road Town",
     "nameWoDiacritics": " Tortola\"",
     "subdivision": "\"Road Town",
-    "status": " Tortola\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1--45---",
@@ -153,7 +153,7 @@
     "name": "Sopers Hole",
     "nameWoDiacritics": "Sopers Hole",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -161,7 +161,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.383333333333333,
-      "lon": 6.733333333333333
+      "lon": -64.7
     },
     "remarks": ""
   },
@@ -172,7 +172,7 @@
     "name": "Spanish Town",
     "nameWoDiacritics": "Spanish Town",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -180,7 +180,7 @@
     "iata": "",
     "coordinates": {
       "lat": 18.45,
-      "lon": 6.7
+      "lon": -64.43333333333334
     },
     "remarks": ""
   },
@@ -191,7 +191,7 @@
     "name": "Tortola",
     "nameWoDiacritics": "Tortola",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -211,7 +211,7 @@
     "name": "Virgin Gorda",
     "nameWoDiacritics": "Virgin Gorda",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],

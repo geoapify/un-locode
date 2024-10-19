@@ -6,7 +6,7 @@
     "name": ".CAYMAN ISLANDS",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Cayman Brac",
     "nameWoDiacritics": "Cayman Brac",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": 19.716666666666665,
-      "lon": 8.566666666666666
+      "lon": -79.81666666666666
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "\"Georgetown",
     "nameWoDiacritics": " Grand Cayman\"",
     "subdivision": "\"Georgetown",
-    "status": " Grand Cayman\"",
+    "status": null,
     "function": [],
     "date": "AI",
     "iata": "1-34----",
@@ -59,7 +59,7 @@
     "name": "Grand Cayman",
     "nameWoDiacritics": "Grand Cayman",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3,
@@ -69,7 +69,7 @@
     "iata": "",
     "coordinates": {
       "lat": 19.283333333333335,
-      "lon": 8.2
+      "lon": -81.35
     },
     "remarks": ""
   },
@@ -80,7 +80,7 @@
     "name": "Little Cayman",
     "nameWoDiacritics": "Little Cayman",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],

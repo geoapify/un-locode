@@ -6,7 +6,7 @@
     "name": ".MONGOLIA",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Altai",
     "nameWoDiacritics": "Altai",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -42,7 +42,7 @@
     "name": "Altanbulag",
     "nameWoDiacritics": "Altanbulag",
     "subdivision": "049",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -50,7 +50,7 @@
     "iata": "",
     "coordinates": {
       "lat": 50.3,
-      "lon": 11.033333333333333
+      "lon": 106.48333333333333
     },
     "remarks": ""
   },
@@ -61,7 +61,7 @@
     "name": "Arvaikheer",
     "nameWoDiacritics": "Arvaikheer",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -80,7 +80,7 @@
     "name": "Baruun-Urt",
     "nameWoDiacritics": "Baruun-Urt",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -99,7 +99,7 @@
     "name": "Bayankhongor",
     "nameWoDiacritics": "Bayankhongor",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -118,7 +118,7 @@
     "name": "Bulgan",
     "nameWoDiacritics": "Bulgan",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -137,7 +137,7 @@
     "name": "Choibalsan",
     "nameWoDiacritics": "Choibalsan",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -156,7 +156,7 @@
     "name": "Dalandzadgad",
     "nameWoDiacritics": "Dalandzadgad",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -164,7 +164,7 @@
     "iata": "",
     "coordinates": {
       "lat": 43.61666666666667,
-      "lon": 10.7
+      "lon": 104.48333333333333
     },
     "remarks": ""
   },
@@ -175,7 +175,7 @@
     "name": "Dzam�n ��d",
     "nameWoDiacritics": "Dzamin Uud",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -183,7 +183,7 @@
     "iata": "",
     "coordinates": {
       "lat": 44.516666666666666,
-      "lon": 11.183333333333334
+      "lon": 111.16666666666667
     },
     "remarks": ""
   },
@@ -194,7 +194,7 @@
     "name": "Erdenet",
     "nameWoDiacritics": "Erdenet",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -213,7 +213,7 @@
     "name": "Gangimaodu",
     "nameWoDiacritics": "Gangimaodu",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -221,7 +221,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.43333333333333,
-      "lon": 11.216666666666667
+      "lon": 107.56666666666666
     },
     "remarks": ""
   },
@@ -232,7 +232,7 @@
     "name": "Hatgal",
     "nameWoDiacritics": "Hatgal",
     "subdivision": "041",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -240,7 +240,7 @@
     "iata": "",
     "coordinates": {
       "lat": 50.45,
-      "lon": 10.016666666666667
+      "lon": 100.16666666666667
     },
     "remarks": ""
   },
@@ -251,7 +251,7 @@
     "name": "Kharkhorin",
     "nameWoDiacritics": "Kharkhorin",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -270,7 +270,7 @@
     "name": "Khovd",
     "nameWoDiacritics": "Khovd",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -289,7 +289,7 @@
     "name": "Khujirt",
     "nameWoDiacritics": "Khujirt",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -308,7 +308,7 @@
     "name": "Mandalgobi",
     "nameWoDiacritics": "Mandalgobi",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -327,7 +327,7 @@
     "name": "Moron",
     "nameWoDiacritics": "Moron",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -346,7 +346,7 @@
     "name": "�lgii",
     "nameWoDiacritics": "Olgii",
     "subdivision": "071",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -355,7 +355,7 @@
     "iata": "",
     "coordinates": {
       "lat": 48.96666666666667,
-      "lon": 9.583333333333334
+      "lon": 89.95
     },
     "remarks": ""
   },
@@ -366,7 +366,7 @@
     "name": "Ordos",
     "nameWoDiacritics": "Ordos",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -374,7 +374,7 @@
     "iata": "",
     "coordinates": {
       "lat": 39.61666666666667,
-      "lon": 11.583333333333334
+      "lon": 109.83333333333333
     },
     "remarks": ""
   },
@@ -385,7 +385,7 @@
     "name": "Tosontsengel",
     "nameWoDiacritics": "Tosontsengel",
     "subdivision": "057",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -393,7 +393,7 @@
     "iata": "",
     "coordinates": {
       "lat": 48.75,
-      "lon": 10.35
+      "lon": 98.28333333333333
     },
     "remarks": ""
   },
@@ -404,7 +404,7 @@
     "name": "Tsetserleg",
     "nameWoDiacritics": "Tsetserleg",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -423,7 +423,7 @@
     "name": "Ulaanbaatar",
     "nameWoDiacritics": "Ulaanbaatar",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -443,7 +443,7 @@
     "name": "Ulaangom",
     "nameWoDiacritics": "Ulaangom",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -462,7 +462,7 @@
     "name": "Ulan Qab",
     "nameWoDiacritics": "Ulan Qab",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -470,7 +470,7 @@
     "iata": "",
     "coordinates": {
       "lat": 42.766666666666666,
-      "lon": 11.733333333333333
+      "lon": 114.66666666666667
     },
     "remarks": ""
   },
@@ -481,7 +481,7 @@
     "name": "Uliastay",
     "nameWoDiacritics": "Uliastay",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -489,7 +489,7 @@
     "iata": "",
     "coordinates": {
       "lat": 47.75,
-      "lon": 10.066666666666666
+      "lon": 96.81666666666666
     },
     "remarks": ""
   },
@@ -500,7 +500,7 @@
     "name": "Underkhaan",
     "nameWoDiacritics": "Underkhaan",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -519,7 +519,7 @@
     "name": "Zamyn-��d",
     "nameWoDiacritics": "Zamyn-Uud",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -528,7 +528,7 @@
     "iata": "",
     "coordinates": {
       "lat": 43.75,
-      "lon": 11.25
+      "lon": 111.86666666666666
     },
     "remarks": "@Fun@Coo"
   }

@@ -2,6 +2,7 @@
   {
     "country": "AS",
     "name": ".AMERICAN SAMOA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,14 +14,14 @@
     "location": "API",
     "name": "Apia",
     "nameWoDiacritics": "Apia",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": -13.833333333333334,
-      "lon": 17.233333333333334
+      "lon": -171.73333333333332
     }
   },
   {
@@ -28,7 +29,7 @@
     "location": "FTI",
     "name": "Fitiuta",
     "nameWoDiacritics": "Fitiuta",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -43,7 +44,7 @@
     "location": "OFU",
     "name": "Ofu",
     "nameWoDiacritics": "Ofu",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -58,7 +59,7 @@
     "location": "PPG",
     "name": "Pago Pago",
     "nameWoDiacritics": "Pago Pago",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -67,7 +68,7 @@
     "date": 1707,
     "coordinates": {
       "lat": 14.266666666666667,
-      "lon": 17.066666666666666
+      "lon": -170.7
     }
   },
   {
@@ -75,7 +76,7 @@
     "location": "TAV",
     "name": "Tau",
     "nameWoDiacritics": "Tau",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],

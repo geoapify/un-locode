@@ -6,7 +6,7 @@
     "name": ".LITHUANIA",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Akmene",
     "nameWoDiacritics": "Akmene",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": 56.25,
-      "lon": 2.4
+      "lon": 22.75
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Alytus",
     "nameWoDiacritics": "Alytus",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -50,7 +50,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.4,
-      "lon": 2.6666666666666665
+      "lon": 24.05
     },
     "remarks": ""
   },
@@ -61,7 +61,7 @@
     "name": "Anyksciai",
     "nameWoDiacritics": "Anyksciai",
     "subdivision": "UT",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -69,7 +69,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.53333333333333,
-      "lon": 2.8333333333333335
+      "lon": 25.1
     },
     "remarks": ""
   },
@@ -80,7 +80,7 @@
     "name": "Augm?nai",
     "nameWoDiacritics": "Augm?nai",
     "subdivision": "44",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -88,7 +88,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.65,
-      "lon": 2.5666666666666664
+      "lon": 23.666666666666668
     },
     "remarks": ""
   },
@@ -99,7 +99,7 @@
     "name": "Aukstkiemiai",
     "nameWoDiacritics": "Aukstkiemiai",
     "subdivision": "21",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -107,7 +107,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.766666666666666,
-      "lon": 2.183333333333333
+      "lon": 21.166666666666668
     },
     "remarks": ""
   },
@@ -118,7 +118,7 @@
     "name": "Avizieniai",
     "nameWoDiacritics": "Avizieniai",
     "subdivision": "VL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -126,7 +126,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.766666666666666,
-      "lon": 2.85
+      "lon": 25.183333333333334
     },
     "remarks": ""
   },
@@ -137,7 +137,7 @@
     "name": "Betygala",
     "nameWoDiacritics": "Betygala",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -156,7 +156,7 @@
     "name": "Bilioniai",
     "nameWoDiacritics": "Bilioniai",
     "subdivision": "45",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -164,7 +164,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.6,
-      "lon": 2.35
+      "lon": 22.3
     },
     "remarks": ""
   },
@@ -175,7 +175,7 @@
     "name": "Birstonas",
     "nameWoDiacritics": "Birstonas",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -194,7 +194,7 @@
     "name": "Biruliskiai",
     "nameWoDiacritics": "Biruliskiai",
     "subdivision": "KU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -202,7 +202,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.93333333333333,
-      "lon": 2.6666666666666665
+      "lon": 24
     },
     "remarks": ""
   },
@@ -213,7 +213,7 @@
     "name": "Birzai",
     "nameWoDiacritics": "Birzai",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -232,7 +232,7 @@
     "name": "Boting�",
     "nameWoDiacritics": "Botinge",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -240,7 +240,7 @@
     "iata": "",
     "coordinates": {
       "lat": 56.06666666666667,
-      "lon": 2.1666666666666665
+      "lon": 21.116666666666667
     },
     "remarks": ""
   },
@@ -251,7 +251,7 @@
     "name": "Buikiske",
     "nameWoDiacritics": "Buikiske",
     "subdivision": "KL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -259,7 +259,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.31666666666667,
-      "lon": 2.25
+      "lon": 21.833333333333332
     },
     "remarks": ""
   },
@@ -270,7 +270,7 @@
     "name": "Buivydiskes",
     "nameWoDiacritics": "Buivydiskes",
     "subdivision": "58",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -278,7 +278,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.71666666666667,
-      "lon": 2.85
+      "lon": 25.2
     },
     "remarks": ""
   },
@@ -289,7 +289,7 @@
     "name": "Darb?nai",
     "nameWoDiacritics": "Darb?nai",
     "subdivision": "KL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -297,7 +297,7 @@
     "iata": "",
     "coordinates": {
       "lat": 56.016666666666666,
-      "lon": 2.183333333333333
+      "lon": 21.25
     },
     "remarks": ""
   },
@@ -308,7 +308,7 @@
     "name": "Didzioji Reis?",
     "nameWoDiacritics": "Didzioji Reis?",
     "subdivision": "VL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -316,7 +316,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.78333333333333,
-      "lon": 2.85
+      "lon": 25.25
     },
     "remarks": ""
   },
@@ -327,7 +327,7 @@
     "name": "Dovainonys",
     "nameWoDiacritics": "Dovainonys",
     "subdivision": "16",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -335,7 +335,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.81666666666667,
-      "lon": 2.6833333333333336
+      "lon": 24.233333333333334
     },
     "remarks": ""
   },
@@ -346,7 +346,7 @@
     "name": "Drobuksciai",
     "nameWoDiacritics": "Drobuksciai",
     "subdivision": "TE",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -354,7 +354,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.7,
-      "lon": 2.35
+      "lon": 22.283333333333335
     },
     "remarks": ""
   },
@@ -365,7 +365,7 @@
     "name": "Druskininkai",
     "nameWoDiacritics": "Druskininkai",
     "subdivision": "AL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -374,7 +374,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.016666666666666,
-      "lon": 2.5833333333333335
+      "lon": 23.966666666666665
     },
     "remarks": ""
   },
@@ -385,7 +385,7 @@
     "name": "Eitminisk?s",
     "nameWoDiacritics": "Eitminisk?s",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -393,7 +393,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.916666666666664,
-      "lon": 2.8666666666666667
+      "lon": 25.383333333333333
     },
     "remarks": ""
   },
@@ -404,7 +404,7 @@
     "name": "Elektrenai",
     "nameWoDiacritics": "Elektrenai",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -412,7 +412,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.78333333333333,
-      "lon": 2.7333333333333334
+      "lon": 24.666666666666668
     },
     "remarks": ""
   },
@@ -423,7 +423,7 @@
     "name": "Ezerelis",
     "nameWoDiacritics": "Ezerelis",
     "subdivision": "KU",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -431,7 +431,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.88333333333333,
-      "lon": 2.55
+      "lon": 23.6
     },
     "remarks": ""
   },
@@ -442,7 +442,7 @@
     "name": "Gargzdai",
     "nameWoDiacritics": "Gargzdai",
     "subdivision": "KL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -451,7 +451,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.7,
-      "lon": 2.2
+      "lon": 21.4
     },
     "remarks": ""
   },
@@ -462,7 +462,7 @@
     "name": "Garliava",
     "nameWoDiacritics": "Garliava",
     "subdivision": "KU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -470,7 +470,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.81666666666667,
-      "lon": 2.5833333333333335
+      "lon": 23.866666666666667
     },
     "remarks": ""
   },
@@ -481,7 +481,7 @@
     "name": "Glitiskes",
     "nameWoDiacritics": "Glitiskes",
     "subdivision": "VL",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -489,7 +489,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.983333333333334,
-      "lon": 2.85
+      "lon": 25.216666666666665
     },
     "remarks": ""
   },
@@ -500,7 +500,7 @@
     "name": "Grinkiskis",
     "nameWoDiacritics": "Grinkiskis",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -508,7 +508,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.55,
-      "lon": 2.55
+      "lon": 23.65
     },
     "remarks": ""
   },
@@ -519,7 +519,7 @@
     "name": "Gustonys",
     "nameWoDiacritics": "Gustonys",
     "subdivision": "PN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -527,7 +527,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.733333333333334,
-      "lon": 2.6666666666666665
+      "lon": 24.133333333333333
     },
     "remarks": ""
   },
@@ -538,7 +538,7 @@
     "name": "Ignalina",
     "nameWoDiacritics": "Ignalina",
     "subdivision": "UT",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -546,7 +546,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.35,
-      "lon": 3.0166666666666666
+      "lon": 26.166666666666668
     },
     "remarks": ""
   },
@@ -557,7 +557,7 @@
     "name": "Ilgakiemis (Ilgakiemio)",
     "nameWoDiacritics": "Ilgakiemis (Ilgakiemio)",
     "subdivision": "16",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -565,7 +565,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.766666666666666,
-      "lon": 2.5833333333333335
+      "lon": 23.866666666666667
     },
     "remarks": ""
   },
@@ -576,7 +576,7 @@
     "name": "Jasiunai",
     "nameWoDiacritics": "Jasiunai",
     "subdivision": "VL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -584,7 +584,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.43333333333333,
-      "lon": 2.8666666666666667
+      "lon": 25.333333333333332
     },
     "remarks": ""
   },
@@ -595,7 +595,7 @@
     "name": "Jieznas",
     "nameWoDiacritics": "Jieznas",
     "subdivision": "KU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -603,7 +603,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.6,
-      "lon": 2.6833333333333336
+      "lon": 24.166666666666668
     },
     "remarks": ""
   },
@@ -614,7 +614,7 @@
     "name": "Jonava",
     "nameWoDiacritics": "Jonava",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -623,7 +623,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.06666666666667,
-      "lon": 2.6833333333333336
+      "lon": 24.266666666666666
     },
     "remarks": ""
   },
@@ -634,7 +634,7 @@
     "name": "Joniskis",
     "nameWoDiacritics": "Joniskis",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -643,7 +643,7 @@
     "iata": "",
     "coordinates": {
       "lat": 56.233333333333334,
-      "lon": 2.55
+      "lon": 23.616666666666667
     },
     "remarks": ""
   },
@@ -654,7 +654,7 @@
     "name": "Jurbarkas",
     "nameWoDiacritics": "Jurbarkas",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -662,7 +662,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.083333333333336,
-      "lon": 2.4
+      "lon": 22.766666666666666
     },
     "remarks": ""
   },
@@ -673,7 +673,7 @@
     "name": "Kaisiadorys",
     "nameWoDiacritics": "Kaisiadorys",
     "subdivision": "KU",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -683,7 +683,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.86666666666667,
-      "lon": 2.7
+      "lon": 24.45
     },
     "remarks": ""
   },
@@ -694,7 +694,7 @@
     "name": "Kalote",
     "nameWoDiacritics": "Kalote",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -702,7 +702,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.78333333333333,
-      "lon": 2.1666666666666665
+      "lon": 21.116666666666667
     },
     "remarks": ""
   },
@@ -713,7 +713,7 @@
     "name": "Kaltene",
     "nameWoDiacritics": "Kaltene",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -732,7 +732,7 @@
     "name": "Kalvarija",
     "nameWoDiacritics": "Kalvarija",
     "subdivision": "MR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -740,7 +740,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.4,
-      "lon": 2.5166666666666666
+      "lon": 23.233333333333334
     },
     "remarks": ""
   },
@@ -751,7 +751,7 @@
     "name": "Karmelava",
     "nameWoDiacritics": "Karmelava",
     "subdivision": "16",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -759,7 +759,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.96666666666667,
-      "lon": 2.6666666666666665
+      "lon": 24.066666666666666
     },
     "remarks": ""
   },
@@ -770,7 +770,7 @@
     "name": "Kaunas",
     "nameWoDiacritics": "Kaunas",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -790,7 +790,7 @@
     "name": "Kazlu Ruda",
     "nameWoDiacritics": "Kazlu Ruda",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -799,7 +799,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.766666666666666,
-      "lon": 2.55
+      "lon": 23.5
     },
     "remarks": ""
   },
@@ -810,7 +810,7 @@
     "name": "Kedainiai",
     "nameWoDiacritics": "Kedainiai",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -818,7 +818,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.3,
-      "lon": 2.5833333333333335
+      "lon": 23.983333333333334
     },
     "remarks": ""
   },
@@ -829,7 +829,7 @@
     "name": "Kelm?",
     "nameWoDiacritics": "Kelm?",
     "subdivision": "SA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -837,7 +837,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.61666666666667,
-      "lon": 2.4166666666666665
+      "lon": 22.933333333333334
     },
     "remarks": ""
   },
@@ -848,7 +848,7 @@
     "name": "Kena",
     "nameWoDiacritics": "Kena",
     "subdivision": "VL",
-    "status": "AA",
+    "status": 0,
     "function": [
       1,
       2,
@@ -858,7 +858,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.65,
-      "lon": 2.9
+      "lon": 25.7
     },
     "remarks": ""
   },
@@ -869,7 +869,7 @@
     "name": "Klaipeda",
     "nameWoDiacritics": "Klaipeda",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       1,
@@ -890,7 +890,7 @@
     "name": "Klovainiai",
     "nameWoDiacritics": "Klovainiai",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -898,7 +898,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.93333333333333,
-      "lon": 2.5833333333333335
+      "lon": 23.95
     },
     "remarks": ""
   },
@@ -909,7 +909,7 @@
     "name": "Kretinga",
     "nameWoDiacritics": "Kretinga",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -918,7 +918,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.88333333333333,
-      "lon": 2.183333333333333
+      "lon": 21.233333333333334
     },
     "remarks": ""
   },
@@ -929,7 +929,7 @@
     "name": "Kretingsodis",
     "nameWoDiacritics": "Kretingsodis",
     "subdivision": "KL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -937,7 +937,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.88333333333333,
-      "lon": 2.183333333333333
+      "lon": 21.216666666666665
     },
     "remarks": ""
   },
@@ -948,7 +948,7 @@
     "name": "Kupiskis",
     "nameWoDiacritics": "Kupiskis",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -957,7 +957,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.833333333333336,
-      "lon": 2.75
+      "lon": 24.983333333333334
     },
     "remarks": ""
   },
@@ -968,7 +968,7 @@
     "name": "Kurs�nai",
     "nameWoDiacritics": "Kursenai",
     "subdivision": "SA",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -977,7 +977,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.983333333333334,
-      "lon": 2.4166666666666665
+      "lon": 22.916666666666668
     },
     "remarks": ""
   },
@@ -988,7 +988,7 @@
     "name": "Kybartai",
     "nameWoDiacritics": "Kybartai",
     "subdivision": "MR",
-    "status": "AA",
+    "status": 0,
     "function": [
       1,
       2,
@@ -998,7 +998,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.63333333333333,
-      "lon": 2.4
+      "lon": 22.733333333333334
     },
     "remarks": ""
   },
@@ -1009,7 +1009,7 @@
     "name": "Laukesa",
     "nameWoDiacritics": "Laukesa",
     "subdivision": "UT",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       7
@@ -1018,7 +1018,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.733333333333334,
-      "lon": 3.0166666666666666
+      "lon": 26.3
     },
     "remarks": ""
   },
@@ -1029,7 +1029,7 @@
     "name": "Lavoriskes",
     "nameWoDiacritics": "Lavoriskes",
     "subdivision": "VL",
-    "status": "AA",
+    "status": 0,
     "function": [
       2,
       7
@@ -1038,7 +1038,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.71666666666667,
-      "lon": 2.9
+      "lon": 25.666666666666668
     },
     "remarks": ""
   },
@@ -1049,7 +1049,7 @@
     "name": "Lazdijai",
     "nameWoDiacritics": "Lazdijai",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1057,7 +1057,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.233333333333334,
-      "lon": 2.55
+      "lon": 23.516666666666666
     },
     "remarks": ""
   },
@@ -1068,7 +1068,7 @@
     "name": "Lentvaris",
     "nameWoDiacritics": "Lentvaris",
     "subdivision": "VL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1076,7 +1076,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.63333333333333,
-      "lon": 2.8333333333333335
+      "lon": 25.05
     },
     "remarks": ""
   },
@@ -1087,7 +1087,7 @@
     "name": "Levaniskiai",
     "nameWoDiacritics": "Levaniskiai",
     "subdivision": "54",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1095,7 +1095,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.266666666666666,
-      "lon": 2.8666666666666667
+      "lon": 25.433333333333334
     },
     "remarks": ""
   },
@@ -1106,7 +1106,7 @@
     "name": "Lingailiai",
     "nameWoDiacritics": "Lingailiai",
     "subdivision": "44",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -1114,7 +1114,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.85,
-      "lon": 2.533333333333333
+      "lon": 23.333333333333332
     },
     "remarks": ""
   },
@@ -1125,7 +1125,7 @@
     "name": "Liudyne",
     "nameWoDiacritics": "Liudyne",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -1144,7 +1144,7 @@
     "name": "Maciuiciai",
     "nameWoDiacritics": "Maciuiciai",
     "subdivision": "21",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1152,7 +1152,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.68333333333333,
-      "lon": 2.2
+      "lon": 21.416666666666668
     },
     "remarks": ""
   },
@@ -1163,7 +1163,7 @@
     "name": "Maisiagala",
     "nameWoDiacritics": "Maisiagala",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1171,7 +1171,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.86666666666667,
-      "lon": 2.8333333333333335
+      "lon": 25.066666666666666
     },
     "remarks": ""
   },
@@ -1182,7 +1182,7 @@
     "name": "Malku ilankos juru uosto PVP/Klaipeda",
     "nameWoDiacritics": "Malku ilankos juru uosto PVP/Klaipeda",
     "subdivision": "KL",
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2,
@@ -1192,7 +1192,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.71666666666667,
-      "lon": 2.1666666666666665
+      "lon": 21.116666666666667
     },
     "remarks": "Border crossing"
   },
@@ -1203,7 +1203,7 @@
     "name": "Marijampole",
     "nameWoDiacritics": "Marijampole",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1222,7 +1222,7 @@
     "name": "Mazeikiai",
     "nameWoDiacritics": "Mazeikiai",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1231,7 +1231,7 @@
     "iata": "",
     "coordinates": {
       "lat": 56.31666666666667,
-      "lon": 2.3666666666666667
+      "lon": 22.35
     },
     "remarks": ""
   },
@@ -1242,7 +1242,7 @@
     "name": "Medininkai",
     "nameWoDiacritics": "Medininkai",
     "subdivision": "VL",
-    "status": "AA",
+    "status": 0,
     "function": [
       2,
       7
@@ -1251,7 +1251,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.53333333333333,
-      "lon": 2.9
+      "lon": 25.666666666666668
     },
     "remarks": ""
   },
@@ -1262,7 +1262,7 @@
     "name": "Micaiciai",
     "nameWoDiacritics": "Micaiciai",
     "subdivision": "44",
-    "status": "AM",
+    "status": 4,
     "function": [
       1,
       2
@@ -1271,7 +1271,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.96666666666667,
-      "lon": 2.4166666666666665
+      "lon": 22.916666666666668
     },
     "remarks": ""
   },
@@ -1282,7 +1282,7 @@
     "name": "Mockava",
     "nameWoDiacritics": "Mockava",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1291,7 +1291,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.333333333333336,
-      "lon": 2.5166666666666666
+      "lon": 23.3
     },
     "remarks": ""
   },
@@ -1302,7 +1302,7 @@
     "name": "Moletai",
     "nameWoDiacritics": "Moletai",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -1311,7 +1311,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.233333333333334,
-      "lon": 2.8666666666666667
+      "lon": 25.416666666666668
     },
     "remarks": ""
   },
@@ -1322,7 +1322,7 @@
     "name": "Molo juru uosto PVP/Klaipeda",
     "nameWoDiacritics": "Molo juru uosto PVP/Klaipeda",
     "subdivision": "KL",
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2,
@@ -1332,7 +1332,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.71666666666667,
-      "lon": 2.1666666666666665
+      "lon": 21.1
     },
     "remarks": "Border crossing"
   },
@@ -1343,7 +1343,7 @@
     "name": "Mos?dis",
     "nameWoDiacritics": "Mos?dis",
     "subdivision": "KL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1351,7 +1351,7 @@
     "iata": "",
     "coordinates": {
       "lat": 56.166666666666664,
-      "lon": 2.216666666666667
+      "lon": 21.566666666666666
     },
     "remarks": ""
   },
@@ -1362,7 +1362,7 @@
     "name": "Musninkai",
     "nameWoDiacritics": "Musninkai",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1370,7 +1370,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.95,
-      "lon": 2.75
+      "lon": 24.85
     },
     "remarks": ""
   },
@@ -1381,7 +1381,7 @@
     "name": "Naujamiestis",
     "nameWoDiacritics": "Naujamiestis",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1400,7 +1400,7 @@
     "name": "Naujoji Akmene",
     "nameWoDiacritics": "Naujoji Akmene",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1409,7 +1409,7 @@
     "iata": "",
     "coordinates": {
       "lat": 56.31666666666667,
-      "lon": 2.4166666666666665
+      "lon": 22.883333333333333
     },
     "remarks": ""
   },
@@ -1420,7 +1420,7 @@
     "name": "Nemaksciai",
     "nameWoDiacritics": "Nemaksciai",
     "subdivision": "KU",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1429,7 +1429,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.416666666666664,
-      "lon": 2.4
+      "lon": 22.766666666666666
     },
     "remarks": ""
   },
@@ -1440,7 +1440,7 @@
     "name": "Nemezis",
     "nameWoDiacritics": "Nemezis",
     "subdivision": "VL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1448,7 +1448,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.63333333333333,
-      "lon": 2.8666666666666667
+      "lon": 25.35
     },
     "remarks": ""
   },
@@ -1459,7 +1459,7 @@
     "name": "Neringa",
     "nameWoDiacritics": "Neringa",
     "subdivision": "21",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1467,7 +1467,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.36666666666667,
-      "lon": 2.1666666666666665
+      "lon": 21.05
     },
     "remarks": ""
   },
@@ -1478,7 +1478,7 @@
     "name": "Neveronys",
     "nameWoDiacritics": "Neveronys",
     "subdivision": "KU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1486,7 +1486,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.916666666666664,
-      "lon": 2.6666666666666665
+      "lon": 24.1
     },
     "remarks": ""
   },
@@ -1497,7 +1497,7 @@
     "name": "Nida",
     "nameWoDiacritics": "Nida",
     "subdivision": "AL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1505,7 +1505,7 @@
     "iata": "",
     "coordinates": {
       "lat": 56.1,
-      "lon": 2.1666666666666665
+      "lon": 21.066666666666666
     },
     "remarks": ""
   },
@@ -1516,7 +1516,7 @@
     "name": "Pabrade",
     "nameWoDiacritics": "Pabrade",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1525,7 +1525,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.983333333333334,
-      "lon": 2.9
+      "lon": 25.766666666666666
     },
     "remarks": ""
   },
@@ -1536,7 +1536,7 @@
     "name": "Paezeriai",
     "nameWoDiacritics": "Paezeriai",
     "subdivision": "56",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -1544,7 +1544,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.63333333333333,
-      "lon": 2.4166666666666665
+      "lon": 22.966666666666665
     },
     "remarks": ""
   },
@@ -1555,7 +1555,7 @@
     "name": "Pagegiai",
     "nameWoDiacritics": "Pagegiai",
     "subdivision": "KL",
-    "status": "AA",
+    "status": 0,
     "function": [
       1,
       2,
@@ -1565,7 +1565,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.13333333333333,
-      "lon": 2.25
+      "lon": 21.9
     },
     "remarks": ""
   },
@@ -1576,7 +1576,7 @@
     "name": "Pakruojis",
     "nameWoDiacritics": "Pakruojis",
     "subdivision": "SA",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -1586,7 +1586,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.96666666666667,
-      "lon": 2.5833333333333335
+      "lon": 23.866666666666667
     },
     "remarks": ""
   },
@@ -1597,7 +1597,7 @@
     "name": "Palanga",
     "nameWoDiacritics": "Palanga",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
@@ -1616,7 +1616,7 @@
     "name": "Panemune",
     "nameWoDiacritics": "Panemune",
     "subdivision": "KL",
-    "status": "AA",
+    "status": 0,
     "function": [
       2,
       7
@@ -1625,7 +1625,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.083333333333336,
-      "lon": 2.25
+      "lon": 21.883333333333333
     },
     "remarks": ""
   },
@@ -1636,7 +1636,7 @@
     "name": "Panevezys",
     "nameWoDiacritics": "Panevezys",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2,
       3
@@ -1645,7 +1645,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.733333333333334,
-      "lon": 2.7
+      "lon": 24.35
     },
     "remarks": ""
   },
@@ -1656,7 +1656,7 @@
     "name": "Pasusvys",
     "nameWoDiacritics": "Pasusvys",
     "subdivision": "44",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -1664,7 +1664,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.6,
-      "lon": 2.55
+      "lon": 23.583333333333332
     },
     "remarks": ""
   },
@@ -1675,7 +1675,7 @@
     "name": "Pasvalys",
     "nameWoDiacritics": "Pasvalys",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1683,7 +1683,7 @@
     "iata": "",
     "coordinates": {
       "lat": 56.06666666666667,
-      "lon": 2.7
+      "lon": 24.383333333333333
     },
     "remarks": ""
   },
@@ -1694,7 +1694,7 @@
     "name": "Pelednagiai",
     "nameWoDiacritics": "Pelednagiai",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1702,7 +1702,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.233333333333334,
-      "lon": 2.5833333333333335
+      "lon": 23.95
     },
     "remarks": ""
   },
@@ -1713,7 +1713,7 @@
     "name": "Petrasiunai",
     "nameWoDiacritics": "Petrasiunai",
     "subdivision": "KU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1721,7 +1721,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.86666666666667,
-      "lon": 2.5833333333333335
+      "lon": 23.966666666666665
     },
     "remarks": ""
   },
@@ -1732,7 +1732,7 @@
     "name": "Pilies juru uosto PVP/Klaipeda",
     "nameWoDiacritics": "Pilies juru uosto PVP/Klaipeda",
     "subdivision": "KL",
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2,
@@ -1742,7 +1742,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.71666666666667,
-      "lon": 2.1666666666666665
+      "lon": 21.083333333333332
     },
     "remarks": "Border crossing"
   },
@@ -1753,7 +1753,7 @@
     "name": "Plunge",
     "nameWoDiacritics": "Plunge",
     "subdivision": "51",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1761,7 +1761,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.9,
-      "lon": 2.25
+      "lon": 21.85
     },
     "remarks": ""
   },
@@ -1772,7 +1772,7 @@
     "name": "Prienai",
     "nameWoDiacritics": "Prienai",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1780,7 +1780,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.63333333333333,
-      "lon": 2.5833333333333335
+      "lon": 23.933333333333334
     },
     "remarks": ""
   },
@@ -1791,7 +1791,7 @@
     "name": "Pusalotas",
     "nameWoDiacritics": "Pusalotas",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1800,7 +1800,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.916666666666664,
-      "lon": 2.6833333333333336
+      "lon": 24.25
     },
     "remarks": ""
   },
@@ -1811,7 +1811,7 @@
     "name": "Radviliskis",
     "nameWoDiacritics": "Radviliskis",
     "subdivision": "SA",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -1821,7 +1821,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.81666666666667,
-      "lon": 2.55
+      "lon": 23.533333333333335
     },
     "remarks": ""
   },
@@ -1832,7 +1832,7 @@
     "name": "Ramuciai",
     "nameWoDiacritics": "Ramuciai",
     "subdivision": "KU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1840,7 +1840,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.95,
-      "lon": 2.6666666666666665
+      "lon": 24.033333333333335
     },
     "remarks": ""
   },
@@ -1851,7 +1851,7 @@
     "name": "Raseiniai",
     "nameWoDiacritics": "Raseiniai",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       5
@@ -1860,7 +1860,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.38333333333333,
-      "lon": 2.5
+      "lon": 23.116666666666667
     },
     "remarks": ""
   },
@@ -1871,7 +1871,7 @@
     "name": "Raudondvaris",
     "nameWoDiacritics": "Raudondvaris",
     "subdivision": "VL",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -1879,7 +1879,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.833333333333336,
-      "lon": 2.85
+      "lon": 25.283333333333335
     },
     "remarks": ""
   },
@@ -1890,7 +1890,7 @@
     "name": "Rietavas",
     "nameWoDiacritics": "Rietavas",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1898,7 +1898,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.71666666666667,
-      "lon": 2.25
+      "lon": 21.916666666666668
     },
     "remarks": ""
   },
@@ -1909,7 +1909,7 @@
     "name": "Rokiskis",
     "nameWoDiacritics": "Rokiskis",
     "subdivision": "PN",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1918,7 +1918,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.95,
-      "lon": 2.8833333333333333
+      "lon": 25.583333333333332
     },
     "remarks": ""
   },
@@ -1929,7 +1929,7 @@
     "name": "Rukla",
     "nameWoDiacritics": "Rukla",
     "subdivision": "10",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1937,7 +1937,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.05,
-      "lon": 2.7
+      "lon": 24.366666666666667
     },
     "remarks": ""
   },
@@ -1948,7 +1948,7 @@
     "name": "Rumiskies",
     "nameWoDiacritics": "Rumiskies",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1967,7 +1967,7 @@
     "name": "Sakiai",
     "nameWoDiacritics": "Sakiai",
     "subdivision": "MR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -1975,7 +1975,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.95,
-      "lon": 2.5
+      "lon": 23.05
     },
     "remarks": ""
   },
@@ -1986,7 +1986,7 @@
     "name": "Salcininkai",
     "nameWoDiacritics": "Salcininkai",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -1995,7 +1995,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.3,
-      "lon": 2.8666666666666667
+      "lon": 25.366666666666667
     },
     "remarks": ""
   },
@@ -2006,7 +2006,7 @@
     "name": "Salcininkai kelio PVP/Salcininkai",
     "nameWoDiacritics": "Salcininkai kelio PVP/Salcininkai",
     "subdivision": "VL",
-    "status": "AA",
+    "status": 0,
     "function": [
       2,
       7
@@ -2015,7 +2015,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.3,
-      "lon": 2.8666666666666667
+      "lon": 25.383333333333333
     },
     "remarks": "Border crossing"
   },
@@ -2026,7 +2026,7 @@
     "name": "Senieji Trakai",
     "nameWoDiacritics": "Senieji Trakai",
     "subdivision": "VL",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2035,7 +2035,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.61666666666667,
-      "lon": 2.75
+      "lon": 24.966666666666665
     },
     "remarks": ""
   },
@@ -2046,7 +2046,7 @@
     "name": "Sestokai",
     "nameWoDiacritics": "Sestokai",
     "subdivision": "MR",
-    "status": "RL",
+    "status": 7,
     "function": [
       1
     ],
@@ -2054,7 +2054,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.36666666666667,
-      "lon": 2.533333333333333
+      "lon": 23.433333333333334
     },
     "remarks": ""
   },
@@ -2065,7 +2065,7 @@
     "name": "Siauliai",
     "nameWoDiacritics": "Siauliai",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -2085,7 +2085,7 @@
     "name": "Silale",
     "nameWoDiacritics": "Silale",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2093,7 +2093,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.46666666666667,
-      "lon": 2.35
+      "lon": 22.2
     },
     "remarks": ""
   },
@@ -2104,7 +2104,7 @@
     "name": "Silute",
     "nameWoDiacritics": "Silute",
     "subdivision": "KL",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2113,7 +2113,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.333333333333336,
-      "lon": 2.2
+      "lon": 21.466666666666665
     },
     "remarks": ""
   },
@@ -2124,7 +2124,7 @@
     "name": "Sirvintos",
     "nameWoDiacritics": "Sirvintos",
     "subdivision": "VL",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2133,7 +2133,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.016666666666666,
-      "lon": 2.75
+      "lon": 24.966666666666665
     },
     "remarks": ""
   },
@@ -2144,7 +2144,7 @@
     "name": "Skuodas",
     "nameWoDiacritics": "Skuodas",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2152,7 +2152,7 @@
     "iata": "",
     "coordinates": {
       "lat": 56.266666666666666,
-      "lon": 2.216666666666667
+      "lon": 21.516666666666666
     },
     "remarks": ""
   },
@@ -2163,7 +2163,7 @@
     "name": "Slikiai",
     "nameWoDiacritics": "Slikiai",
     "subdivision": "16",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2171,7 +2171,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.21666666666667,
-      "lon": 2.6666666666666665
+      "lon": 24.066666666666666
     },
     "remarks": ""
   },
@@ -2182,7 +2182,7 @@
     "name": "Stakliskes",
     "nameWoDiacritics": "Stakliskes",
     "subdivision": "16",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -2190,7 +2190,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.6,
-      "lon": 2.6833333333333336
+      "lon": 24.316666666666666
     },
     "remarks": ""
   },
@@ -2201,7 +2201,7 @@
     "name": "Strielciai",
     "nameWoDiacritics": "Strielciai",
     "subdivision": "PN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2209,7 +2209,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.666666666666664,
-      "lon": 2.5833333333333335
+      "lon": 23.95
     },
     "remarks": ""
   },
@@ -2220,7 +2220,7 @@
     "name": "Svencioneliai",
     "nameWoDiacritics": "Svencioneliai",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -2228,7 +2228,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.166666666666664,
-      "lon": 3
+      "lon": 26
     },
     "remarks": ""
   },
@@ -2239,7 +2239,7 @@
     "name": "Svencoinys",
     "nameWoDiacritics": "Svencoinys",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -2258,7 +2258,7 @@
     "name": "Taurag�",
     "nameWoDiacritics": "Taurage",
     "subdivision": "TA",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2267,7 +2267,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.25,
-      "lon": 2.35
+      "lon": 22.283333333333335
     },
     "remarks": ""
   },
@@ -2278,7 +2278,7 @@
     "name": "Telsiai",
     "nameWoDiacritics": "Telsiai",
     "subdivision": "TE",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2287,7 +2287,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.96666666666667,
-      "lon": 2.35
+      "lon": 22.233333333333334
     },
     "remarks": ""
   },
@@ -2298,7 +2298,7 @@
     "name": "Trakai",
     "nameWoDiacritics": "Trakai",
     "subdivision": "VL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2306,7 +2306,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.63333333333333,
-      "lon": 2.75
+      "lon": 24.933333333333334
     },
     "remarks": ""
   },
@@ -2317,7 +2317,7 @@
     "name": "Traksedis",
     "nameWoDiacritics": "Traksedis",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2326,7 +2326,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.35,
-      "lon": 2.2
+      "lon": 21.45
     },
     "remarks": ""
   },
@@ -2337,7 +2337,7 @@
     "name": "Tytuvenai",
     "nameWoDiacritics": "Tytuvenai",
     "subdivision": "SA",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2346,7 +2346,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.6,
-      "lon": 2.5166666666666666
+      "lon": 23.2
     },
     "remarks": ""
   },
@@ -2357,7 +2357,7 @@
     "name": "Ukmerge",
     "nameWoDiacritics": "Ukmerge",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2366,7 +2366,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.25,
-      "lon": 2.7333333333333334
+      "lon": 24.766666666666666
     },
     "remarks": ""
   },
@@ -2377,7 +2377,7 @@
     "name": "Utena",
     "nameWoDiacritics": "Utena",
     "subdivision": "UT",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2386,7 +2386,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.5,
-      "lon": 2.8833333333333333
+      "lon": 25.6
     },
     "remarks": ""
   },
@@ -2397,7 +2397,7 @@
     "name": "Vaidotai",
     "nameWoDiacritics": "Vaidotai",
     "subdivision": "VL",
-    "status": "AA",
+    "status": 0,
     "function": [
       1,
       2,
@@ -2407,7 +2407,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.6,
-      "lon": 2.85
+      "lon": 25.166666666666668
     },
     "remarks": ""
   },
@@ -2418,7 +2418,7 @@
     "name": "Vandziogala",
     "nameWoDiacritics": "Vandziogala",
     "subdivision": "KU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2426,7 +2426,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.11666666666667,
-      "lon": 2.5666666666666664
+      "lon": 23.816666666666666
     },
     "remarks": ""
   },
@@ -2437,7 +2437,7 @@
     "name": "Varena",
     "nameWoDiacritics": "Varena",
     "subdivision": "AL",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2446,7 +2446,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.21666666666667,
-      "lon": 2.716666666666667
+      "lon": 24.566666666666666
     },
     "remarks": ""
   },
@@ -2457,7 +2457,7 @@
     "name": "Venta",
     "nameWoDiacritics": "Venta",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -2465,7 +2465,7 @@
     "iata": "",
     "coordinates": {
       "lat": 56.2,
-      "lon": 2.4
+      "lon": 22.7
     },
     "remarks": ""
   },
@@ -2476,7 +2476,7 @@
     "name": "Venta",
     "nameWoDiacritics": "Venta",
     "subdivision": "01",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2484,7 +2484,7 @@
     "iata": "",
     "coordinates": {
       "lat": 56.2,
-      "lon": 2.4
+      "lon": 22.7
     },
     "remarks": ""
   },
@@ -2495,7 +2495,7 @@
     "name": "Verbiskes",
     "nameWoDiacritics": "Verbiskes",
     "subdivision": "27",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2503,7 +2503,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.31666666666667,
-      "lon": 2.8666666666666667
+      "lon": 25.466666666666665
     },
     "remarks": ""
   },
@@ -2514,7 +2514,7 @@
     "name": "Vidukle",
     "nameWoDiacritics": "Vidukle",
     "subdivision": "16",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2522,7 +2522,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.4,
-      "lon": 2.4166666666666665
+      "lon": 22.883333333333333
     },
     "remarks": ""
   },
@@ -2533,7 +2533,7 @@
     "name": "Vieksniai",
     "nameWoDiacritics": "Vieksniai",
     "subdivision": "01",
-    "status": "AM",
+    "status": 4,
     "function": [
       2
     ],
@@ -2541,7 +2541,7 @@
     "iata": "",
     "coordinates": {
       "lat": 56.233333333333334,
-      "lon": 2.3833333333333333
+      "lon": 22.516666666666666
     },
     "remarks": ""
   },
@@ -2552,7 +2552,7 @@
     "name": "Vievis",
     "nameWoDiacritics": "Vievis",
     "subdivision": "VL",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2561,7 +2561,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.766666666666666,
-      "lon": 2.7333333333333334
+      "lon": 24.8
     },
     "remarks": ""
   },
@@ -2572,7 +2572,7 @@
     "name": "Vilkaviskis",
     "nameWoDiacritics": "Vilkaviskis",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2580,7 +2580,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.65,
-      "lon": 2.5
+      "lon": 23.033333333333335
     },
     "remarks": ""
   },
@@ -2591,7 +2591,7 @@
     "name": "Vilnius",
     "nameWoDiacritics": "Vilnius",
     "subdivision": "58",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -2600,7 +2600,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.68333333333333,
-      "lon": 2.85
+      "lon": 25.316666666666666
     },
     "remarks": ""
   },
@@ -2611,7 +2611,7 @@
     "name": "Vilnius",
     "nameWoDiacritics": "Vilnius",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       3,
@@ -2632,7 +2632,7 @@
     "name": "Visaginas",
     "nameWoDiacritics": "Visaginas",
     "subdivision": "UT",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -2640,7 +2640,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.6,
-      "lon": 3.033333333333333
+      "lon": 26.416666666666668
     },
     "remarks": ""
   },
@@ -2651,7 +2651,7 @@
     "name": "Zapishkis",
     "nameWoDiacritics": "Zapishkis",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -2670,7 +2670,7 @@
     "name": "Zapyskis",
     "nameWoDiacritics": "Zapyskis",
     "subdivision": "16",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2678,7 +2678,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.916666666666664,
-      "lon": 2.5666666666666664
+      "lon": 23.666666666666668
     },
     "remarks": ""
   },
@@ -2689,7 +2689,7 @@
     "name": "Zarasai",
     "nameWoDiacritics": "Zarasai",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2697,7 +2697,7 @@
     "iata": "",
     "coordinates": {
       "lat": 55.733333333333334,
-      "lon": 3.0166666666666666
+      "lon": 26.25
     },
     "remarks": ""
   },
@@ -2708,7 +2708,7 @@
     "name": "Ziezmariai",
     "nameWoDiacritics": "Ziezmariai",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -2716,7 +2716,7 @@
     "iata": "",
     "coordinates": {
       "lat": 54.8,
-      "lon": 2.7
+      "lon": 24.45
     },
     "remarks": ""
   }

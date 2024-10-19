@@ -2,6 +2,7 @@
   {
     "country": "AF",
     "name": ".AFGHANISTAN",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -14,14 +15,14 @@
     "name": "Ali Shirzayi",
     "nameWoDiacritics": "Ali Shirzayi",
     "subdivision": "URU",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 32.86666666666667,
-      "lon": 7
+      "lon": 66.05
     }
   },
   {
@@ -30,14 +31,14 @@
     "name": "Bagram",
     "nameWoDiacritics": "Bagram",
     "subdivision": "PAR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 307,
     "coordinates": {
       "lat": 34.95,
-      "lon": 7.516666666666667
+      "lon": 69.25
     }
   },
   {
@@ -45,7 +46,7 @@
     "location": "BIN",
     "name": "Bamian",
     "nameWoDiacritics": "Bamian",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -62,14 +63,14 @@
     "name": "Bazar-E-Panjwai",
     "nameWoDiacritics": "Bazar-E-Panjwai",
     "subdivision": "KAN",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1001,
     "coordinates": {
       "lat": 31.55,
-      "lon": 6.866666666666667
+      "lon": 65.45
     }
   },
   {
@@ -77,7 +78,7 @@
     "location": "BST",
     "name": "Bost",
     "nameWoDiacritics": "Bost",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -93,7 +94,7 @@
     "name": "Camp Bastion",
     "nameWoDiacritics": "Camp Bastion",
     "subdivision": "HEL",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2,
       3
@@ -102,7 +103,7 @@
     "iata": "OAZ",
     "coordinates": {
       "lat": 31.85,
-      "lon": 6.683333333333334
+      "lon": 64.21666666666667
     }
   },
   {
@@ -111,14 +112,14 @@
     "name": "Camp Dwyer",
     "nameWoDiacritics": "Camp Dwyer",
     "subdivision": "HEL",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 31.116666666666667,
-      "lon": 6.683333333333334
+      "lon": 64.18333333333334
     }
   },
   {
@@ -127,14 +128,14 @@
     "name": "Camp Leatherneck",
     "nameWoDiacritics": "Camp Leatherneck",
     "subdivision": "HEL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 31.883333333333333,
-      "lon": 6.683333333333334
+      "lon": 64.18333333333334
     }
   },
   {
@@ -143,14 +144,14 @@
     "name": "Camp Salerno",
     "nameWoDiacritics": "Camp Salerno",
     "subdivision": "KHO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 33.4,
-      "lon": 7
+      "lon": 70.06666666666666
     }
   },
   {
@@ -159,14 +160,14 @@
     "name": "Camp Wolverine",
     "nameWoDiacritics": "Camp Wolverine",
     "subdivision": "ZAB",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 32.06666666666667,
-      "lon": 7.183333333333334
+      "lon": 67.2
     }
   },
   {
@@ -174,14 +175,14 @@
     "location": "CCN",
     "name": "Chaghcharan",
     "nameWoDiacritics": "Chaghcharan",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 1307,
     "coordinates": {
       "lat": 34.516666666666666,
-      "lon": 6.85
+      "lon": 65.25
     }
   },
   {
@@ -189,7 +190,7 @@
     "location": "DAZ",
     "name": "Darwaz",
     "nameWoDiacritics": "Darwaz",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -205,7 +206,7 @@
     "name": "Dehdadi",
     "nameWoDiacritics": "Dehdadi",
     "subdivision": "BAL",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -213,7 +214,7 @@
     "date": 1201,
     "coordinates": {
       "lat": 36.65,
-      "lon": 7.083333333333333
+      "lon": 66.98333333333333
     }
   },
   {
@@ -221,14 +222,14 @@
     "location": "ISQ",
     "name": "Eslam Qal'eh",
     "nameWoDiacritics": "Eslam Qal'eh",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 601,
     "coordinates": {
       "lat": 34.666666666666664,
-      "lon": 6.166666666666667
+      "lon": 61.06666666666667
     }
   },
   {
@@ -236,7 +237,7 @@
     "location": "FBD",
     "name": "Faizabad",
     "nameWoDiacritics": "Faizabad",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -251,7 +252,7 @@
     "location": "FAH",
     "name": "Farah",
     "nameWoDiacritics": "Farah",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -267,14 +268,14 @@
     "name": "FOB Frontenac",
     "nameWoDiacritics": "FOB Frontenac",
     "subdivision": "KAN",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 31.616666666666667,
-      "lon": 6.883333333333333
+      "lon": 65.65
     }
   },
   {
@@ -283,14 +284,14 @@
     "name": "FOB Ramrod",
     "nameWoDiacritics": "FOB Ramrod",
     "subdivision": "KAN",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 31.75,
-      "lon": 6.833333333333333
+      "lon": 65.11666666666666
     }
   },
   {
@@ -299,14 +300,14 @@
     "name": "FOB Shank",
     "nameWoDiacritics": "FOB Shank",
     "subdivision": "LOG",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 34,
-      "lon": 7.516666666666667
+      "lon": 69.28333333333333
     }
   },
   {
@@ -314,7 +315,7 @@
     "location": "GRG",
     "name": "Gardez",
     "nameWoDiacritics": "Gardez",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -330,14 +331,14 @@
     "name": "Gardiz",
     "nameWoDiacritics": "Gardiz",
     "subdivision": "PIA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 33.583333333333336,
-      "lon": 7.516666666666667
+      "lon": 69.21666666666667
     }
   },
   {
@@ -345,7 +346,7 @@
     "location": "GZI",
     "name": "Ghazni",
     "nameWoDiacritics": "Ghazni",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -360,7 +361,7 @@
     "location": "HRT",
     "name": "Hairatan",
     "nameWoDiacritics": "Hairatan",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -375,7 +376,7 @@
     "location": "HEA",
     "name": "Herat",
     "nameWoDiacritics": "Herat",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -390,7 +391,7 @@
     "location": "JAA",
     "name": "Jalalabad",
     "nameWoDiacritics": "Jalalabad",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -405,7 +406,7 @@
     "location": "KBL",
     "name": "Kabul",
     "nameWoDiacritics": "Kabul",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3,
@@ -423,14 +424,14 @@
     "name": "Kamu",
     "nameWoDiacritics": "Kamu",
     "subdivision": "KNR",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1001,
     "coordinates": {
       "lat": 35.4,
-      "lon": 7.2
+      "lon": 71.41666666666667
     }
   },
   {
@@ -438,7 +439,7 @@
     "location": "KDH",
     "name": "Kandahar",
     "nameWoDiacritics": "Kandahar",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -454,7 +455,7 @@
     "location": "KHT",
     "name": "Khost",
     "nameWoDiacritics": "Khost",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -470,14 +471,14 @@
     "name": "Khowst",
     "nameWoDiacritics": "Khowst",
     "subdivision": "KNR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 35.2,
-      "lon": 7.083333333333333
+      "lon": 70.83333333333333
     }
   },
   {
@@ -486,14 +487,14 @@
     "name": "Khowst",
     "nameWoDiacritics": "Khowst",
     "subdivision": "PIA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 33.333333333333336,
-      "lon": 7.583333333333333
+      "lon": 69.91666666666667
     }
   },
   {
@@ -501,7 +502,7 @@
     "location": "KWH",
     "name": "Khwahan",
     "nameWoDiacritics": "Khwahan",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -516,7 +517,7 @@
     "location": "UND",
     "name": "Kunduz",
     "nameWoDiacritics": "Kunduz",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -531,7 +532,7 @@
     "location": "KUR",
     "name": "Kuran-O-Munjan",
     "nameWoDiacritics": "Kuran-O-Munjan",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -547,14 +548,14 @@
     "name": "Lashkar Gah",
     "nameWoDiacritics": "Lashkar Gah",
     "subdivision": "HEL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 31.583333333333332,
-      "lon": 6.7
+      "lon": 64.35
     }
   },
   {
@@ -562,7 +563,7 @@
     "location": "MMZ",
     "name": "Maimana",
     "nameWoDiacritics": "Maimana",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -578,14 +579,14 @@
     "name": "Maiwand",
     "nameWoDiacritics": "Maiwand",
     "subdivision": "KAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 31.733333333333334,
-      "lon": 6.833333333333333
+      "lon": 65.13333333333334
     }
   },
   {
@@ -593,7 +594,7 @@
     "location": "MAS",
     "name": "Mashad",
     "nameWoDiacritics": "Mashad",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -608,14 +609,14 @@
     "location": "MZR",
     "name": "Mazar-i-Sharif",
     "nameWoDiacritics": "Mazar-i-Sharif",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 212,
     "coordinates": {
       "lat": 36.7,
-      "lon": 7.166666666666667
+      "lon": 67.1
     }
   },
   {
@@ -624,14 +625,14 @@
     "name": "Mehtar Lam",
     "nameWoDiacritics": "Mehtar Lam",
     "subdivision": "LAG",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 34.666666666666664,
-      "lon": 7.016666666666667
+      "lon": 70.2
     }
   },
   {
@@ -640,14 +641,14 @@
     "name": "Meydan",
     "nameWoDiacritics": "Meydan",
     "subdivision": "BAL",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 36.9,
-      "lon": 7.083333333333333
+      "lon": 66.91666666666667
     }
   },
   {
@@ -655,7 +656,7 @@
     "location": "IMZ",
     "name": "Nimroz",
     "nameWoDiacritics": "Nimroz",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -671,14 +672,14 @@
     "name": "Orgun-E Kalan",
     "nameWoDiacritics": "Orgun-E Kalan",
     "subdivision": "PKA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 32.9,
-      "lon": 7.516666666666667
+      "lon": 69.21666666666667
     }
   },
   {
@@ -687,14 +688,14 @@
     "name": "Pasaband",
     "nameWoDiacritics": "Pasaband",
     "subdivision": "GHO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 33.68333333333333,
-      "lon": 6.75
+      "lon": 64.85
     }
   },
   {
@@ -703,14 +704,14 @@
     "name": "Pol-e Charkhi",
     "nameWoDiacritics": "Pol-e Charkhi",
     "subdivision": "KAB",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1701,
     "coordinates": {
       "lat": 34.53333333333333,
-      "lon": 7.533333333333333
+      "lon": 69.33333333333333
     }
   },
   {
@@ -718,7 +719,7 @@
     "location": "LQN",
     "name": "Qala Nau",
     "nameWoDiacritics": "Qala Nau",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -733,7 +734,7 @@
     "location": "QLT",
     "name": "Qalat",
     "nameWoDiacritics": "Qalat",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -741,7 +742,7 @@
     "date": 601,
     "coordinates": {
       "lat": 32.1,
-      "lon": 7.083333333333333
+      "lon": 66.88333333333334
     }
   },
   {
@@ -750,14 +751,14 @@
     "name": "Qal'Eh-Ye Now",
     "nameWoDiacritics": "Qal'Eh-Ye Now",
     "subdivision": "BDG",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1001,
     "coordinates": {
       "lat": 34.983333333333334,
-      "lon": 6.5
+      "lon": 63.11666666666667
     }
   },
   {
@@ -765,14 +766,14 @@
     "location": "QAM",
     "name": "Qasim",
     "nameWoDiacritics": "Qasim",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
     "date": 1007,
     "coordinates": {
       "lat": 35.03333333333333,
-      "lon": 7.216666666666667
+      "lon": 71.53333333333333
     }
   },
   {
@@ -780,7 +781,7 @@
     "location": "SBF",
     "name": "Sardeh Band",
     "nameWoDiacritics": "Sardeh Band",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -796,14 +797,14 @@
     "name": "Sharona",
     "nameWoDiacritics": "Sharona",
     "subdivision": "PKA",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 901,
     "coordinates": {
       "lat": 33.21666666666667,
-      "lon": 7.466666666666667
+      "lon": 69.38333333333334
     }
   },
   {
@@ -811,7 +812,7 @@
     "location": "SGA",
     "name": "Sheghnan",
     "nameWoDiacritics": "Sheghnan",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -826,14 +827,14 @@
     "location": "SHE",
     "name": "Sherhan-Bandar",
     "nameWoDiacritics": "Sherhan-Bandar",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 37.2,
-      "lon": 7.5
+      "lon": 69.08333333333333
     }
   },
   {
@@ -842,14 +843,14 @@
     "name": "Shindand",
     "nameWoDiacritics": "Shindand",
     "subdivision": "HER",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 33.3,
-      "lon": 6.333333333333333
+      "lon": 62.13333333333333
     }
   },
   {
@@ -858,14 +859,14 @@
     "name": "Spin Boldak",
     "nameWoDiacritics": "Spin Boldak",
     "subdivision": "KAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 31,
-      "lon": 7.033333333333333
+      "lon": 66.4
     }
   },
   {
@@ -873,7 +874,7 @@
     "location": "TQN",
     "name": "Taluqan",
     "nameWoDiacritics": "Taluqan",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -889,14 +890,14 @@
     "name": "Tarin Kowt",
     "nameWoDiacritics": "Tarin Kowt",
     "subdivision": "URU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 32.61666666666667,
-      "lon": 6.916666666666667
+      "lon": 65.86666666666666
     }
   },
   {
@@ -904,7 +905,7 @@
     "location": "TII",
     "name": "Tirinkot",
     "nameWoDiacritics": "Tirinkot",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -919,7 +920,7 @@
     "location": "TGH",
     "name": "Torghundi",
     "nameWoDiacritics": "Torghundi",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -935,14 +936,14 @@
     "name": "Torkham",
     "nameWoDiacritics": "Torkham",
     "subdivision": "NAN",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 34.88333333333333,
-      "lon": 7.25
+      "lon": 71.91666666666667
     }
   },
   {
@@ -951,14 +952,14 @@
     "name": "Towraghondi",
     "nameWoDiacritics": "Towraghondi",
     "subdivision": "HER",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 35.25,
-      "lon": 6.35
+      "lon": 62.28333333333333
     }
   },
   {
@@ -966,7 +967,7 @@
     "location": "URN",
     "name": "Urgoon",
     "nameWoDiacritics": "Urgoon",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -981,7 +982,7 @@
     "location": "URZ",
     "name": "Uruzgan",
     "nameWoDiacritics": "Uruzgan",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -996,7 +997,7 @@
     "location": "ZAJ",
     "name": "Zaranj",
     "nameWoDiacritics": "Zaranj",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -1012,14 +1013,14 @@
     "name": "Zhari Dasht",
     "nameWoDiacritics": "Zhari Dasht",
     "subdivision": "KAN",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1001,
     "coordinates": {
       "lat": 31.633333333333333,
-      "lon": 6.883333333333333
+      "lon": 65.51666666666667
     }
   }
 ]

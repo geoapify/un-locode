@@ -2,6 +2,7 @@
   {
     "country": "GF",
     "name": ".FRENCH GUIANA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "CCY",
     "name": "Awala-Yalimapo",
     "nameWoDiacritics": "Awala-Yalimapo",
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2
@@ -21,7 +22,7 @@
     "date": 2201,
     "coordinates": {
       "lat": 5.683333333333334,
-      "lon": 5.583333333333333
+      "lon": -53.93333333333333
     }
   },
   {
@@ -29,7 +30,7 @@
     "location": "CAY",
     "name": "Cayenne",
     "nameWoDiacritics": "Cayenne",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -38,7 +39,7 @@
     "date": 1901,
     "coordinates": {
       "lat": 4.933333333333334,
-      "lon": 5.366666666666666
+      "lon": -52.333333333333336
     }
   },
   {
@@ -46,14 +47,14 @@
     "location": "DDC",
     "name": "DÈgrad des Cannes",
     "nameWoDiacritics": "Degrad des Cannes",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 2107,
     "coordinates": {
       "lat": 4.866666666666667,
-      "lon": 5.35
+      "lon": -52.266666666666666
     }
   },
   {
@@ -61,7 +62,7 @@
     "location": "REM",
     "name": "DÈgrad des Cannes-Pariacabo Pt/Remire",
     "nameWoDiacritics": "Degrad des Cannes-Pariacabo Pt/Remire",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2,
@@ -71,7 +72,7 @@
     "date": 2101,
     "coordinates": {
       "lat": 4.883333333333333,
-      "lon": 5.35
+      "lon": -52.28333333333333
     }
   },
   {
@@ -79,14 +80,14 @@
     "location": "GDE",
     "name": "Guadeloupe",
     "nameWoDiacritics": "Guadeloupe",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 1901,
     "coordinates": {
       "lat": 4.733333333333333,
-      "lon": 5.566666666666666
+      "lon": -53.78333333333333
     }
   },
   {
@@ -94,7 +95,7 @@
     "location": "QKR",
     "name": "Kourou",
     "nameWoDiacritics": "Kourou",
-    "status": "AF",
+    "status": 2,
     "function": [
       0,
       2,
@@ -104,7 +105,7 @@
     "date": 2101,
     "coordinates": {
       "lat": 5.15,
-      "lon": 5.383333333333334
+      "lon": -52.63333333333333
     }
   },
   {
@@ -112,14 +113,14 @@
     "location": "MCR",
     "name": "Macouria",
     "nameWoDiacritics": "Macouria",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1901,
     "coordinates": {
       "lat": 5.016666666666667,
-      "lon": 5.366666666666666
+      "lon": -52.483333333333334
     }
   },
   {
@@ -127,7 +128,7 @@
     "location": "BCY",
     "name": "Mana",
     "nameWoDiacritics": "Mana",
-    "status": "AA",
+    "status": 0,
     "function": [
       2,
       3
@@ -135,7 +136,7 @@
     "date": 2201,
     "coordinates": {
       "lat": 5.6,
-      "lon": 5.566666666666666
+      "lon": -53.81666666666667
     }
   },
   {
@@ -143,14 +144,14 @@
     "location": "MPY",
     "name": "Maripasoula",
     "nameWoDiacritics": "Maripasoula",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 1901,
     "coordinates": {
       "lat": 3.6333333333333333,
-      "lon": 5.666666666666667
+      "lon": -54.03333333333333
     }
   },
   {
@@ -158,14 +159,14 @@
     "location": "MTY",
     "name": "Matoury",
     "nameWoDiacritics": "Matoury",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1901,
     "coordinates": {
       "lat": 4.85,
-      "lon": 5.366666666666666
+      "lon": -52.333333333333336
     }
   },
   {
@@ -173,14 +174,14 @@
     "location": "MON",
     "name": "MontsinÈry-Tonnegrande",
     "nameWoDiacritics": "Montsinery-Tonnegrande",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
     "date": 2107,
     "coordinates": {
       "lat": 4.9,
-      "lon": 5.383333333333334
+      "lon": -52.5
     }
   },
   {
@@ -188,7 +189,7 @@
     "location": "LCY",
     "name": "Ouanary",
     "nameWoDiacritics": "Ouanary",
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       3
@@ -196,7 +197,7 @@
     "date": 2201,
     "coordinates": {
       "lat": 4.216666666666667,
-      "lon": 5.233333333333333
+      "lon": -51.666666666666664
     }
   },
   {
@@ -204,14 +205,14 @@
     "location": "REI",
     "name": "Regina",
     "nameWoDiacritics": "Regina",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 1901,
     "coordinates": {
       "lat": 4.316666666666666,
-      "lon": 5.333333333333333
+      "lon": -52.13333333333333
     }
   },
   {
@@ -219,7 +220,7 @@
     "location": "OYP",
     "name": "Saint-Georges",
     "nameWoDiacritics": "Saint-Georges",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -228,7 +229,7 @@
     "date": 2207,
     "coordinates": {
       "lat": 3.9,
-      "lon": 5.233333333333333
+      "lon": -51.8
     },
     "remarks": "Border"
   },
@@ -237,7 +238,7 @@
     "location": "SLM",
     "name": "Saint-Laurent-du-Maroni",
     "nameWoDiacritics": "Saint-Laurent-du-Maroni",
-    "status": "AA",
+    "status": 0,
     "function": [
       0,
       2,
@@ -246,7 +247,7 @@
     "date": 2101,
     "coordinates": {
       "lat": 5.5,
-      "lon": 5.666666666666667
+      "lon": -54.03333333333333
     }
   },
   {
@@ -254,14 +255,14 @@
     "location": "XAU",
     "name": "Saul",
     "nameWoDiacritics": "Saul",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 1901,
     "coordinates": {
       "lat": 3.6166666666666667,
-      "lon": 5.516666666666667
+      "lon": -53.21666666666667
     }
   },
   {
@@ -269,14 +270,14 @@
     "location": "SMY",
     "name": "Sinnamary",
     "nameWoDiacritics": "Sinnamary",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1901,
     "coordinates": {
       "lat": 5.383333333333334,
-      "lon": 5.416666666666667
+      "lon": -52.95
     }
   }
 ]

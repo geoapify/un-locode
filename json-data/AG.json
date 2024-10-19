@@ -2,6 +2,7 @@
   {
     "country": "AG",
     "name": ".ANTIGUA AND BARBUDA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "ANU",
     "name": "Antigua",
     "nameWoDiacritics": "Antigua",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       4
@@ -29,7 +30,7 @@
     "location": "BBQ",
     "name": "Barbuda",
     "nameWoDiacritics": "Barbuda",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -44,7 +45,7 @@
     "location": "FAM",
     "name": "Falmouth",
     "nameWoDiacritics": "Falmouth",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -52,7 +53,7 @@
     "date": 1107,
     "coordinates": {
       "lat": 17.016666666666666,
-      "lon": 6.233333333333333
+      "lon": -61.78333333333333
     }
   },
   {
@@ -60,7 +61,7 @@
     "location": "PHM",
     "name": "Parham",
     "nameWoDiacritics": "Parham",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -68,7 +69,7 @@
     "date": 1107,
     "coordinates": {
       "lat": 17.083333333333332,
-      "lon": 6.233333333333333
+      "lon": -61.75
     }
   },
   {
@@ -76,14 +77,14 @@
     "location": "SJO",
     "name": "Saint John's",
     "nameWoDiacritics": "Saint John's",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
     "date": 1101,
     "coordinates": {
       "lat": 17.116666666666667,
-      "lon": 6.25
+      "lon": -61.85
     }
   }
 ]

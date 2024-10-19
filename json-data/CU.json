@@ -2,6 +2,7 @@
   {
     "country": "CU",
     "name": ".CUBA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "ANT",
     "name": "Antilla",
     "nameWoDiacritics": "Antilla",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -21,7 +22,7 @@
     "date": 701,
     "coordinates": {
       "lat": 20.833333333333332,
-      "lon": 7.916666666666667
+      "lon": -75.85
     }
   },
   {
@@ -29,14 +30,14 @@
     "location": "BHO",
     "name": "BahÌa Honda",
     "nameWoDiacritics": "Bahia Honda",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 212,
     "coordinates": {
       "lat": 22.9,
-      "lon": 8.516666666666667
+      "lon": -83.16666666666667
     }
   },
   {
@@ -44,7 +45,7 @@
     "location": "BAN",
     "name": "Banes",
     "nameWoDiacritics": "Banes",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -53,7 +54,7 @@
     "date": 701,
     "coordinates": {
       "lat": 20.966666666666665,
-      "lon": 7.9
+      "lon": -75.71666666666667
     }
   },
   {
@@ -61,7 +62,7 @@
     "location": "BCA",
     "name": "Baracoa",
     "nameWoDiacritics": "Baracoa",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -77,7 +78,7 @@
     "location": "BYM",
     "name": "Bayamo",
     "nameWoDiacritics": "Bayamo",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -92,14 +93,14 @@
     "location": "BOG",
     "name": "Boca Grande",
     "nameWoDiacritics": "Boca Grande",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 701,
     "coordinates": {
       "lat": 21.583333333333332,
-      "lon": 8.4
+      "lon": -78.66666666666667
     }
   },
   {
@@ -107,7 +108,7 @@
     "location": "BOQ",
     "name": "Boqueron",
     "nameWoDiacritics": "Boqueron",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -115,7 +116,7 @@
     "date": 701,
     "coordinates": {
       "lat": 22.166666666666668,
-      "lon": 8.5
+      "lon": -79.01666666666667
     }
   },
   {
@@ -123,7 +124,7 @@
     "location": "BUF",
     "name": "Bufadero",
     "nameWoDiacritics": "Bufadero",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -132,7 +133,7 @@
     "date": 701,
     "coordinates": {
       "lat": 21.566666666666666,
-      "lon": 8.183333333333334
+      "lon": -77.23333333333333
     }
   },
   {
@@ -140,14 +141,14 @@
     "location": "CAB",
     "name": "CabaÒas",
     "nameWoDiacritics": "Cabanas",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 212,
     "coordinates": {
       "lat": 22.983333333333334,
-      "lon": 8.416666666666666
+      "lon": -82.91666666666667
     }
   },
   {
@@ -155,14 +156,14 @@
     "location": "CAI",
     "name": "CaibariÈn",
     "nameWoDiacritics": "Caibarien",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 212,
     "coordinates": {
       "lat": 22.516666666666666,
-      "lon": 8.533333333333333
+      "lon": -79.46666666666667
     }
   },
   {
@@ -170,7 +171,7 @@
     "location": "CMW",
     "name": "Camag¸ey",
     "nameWoDiacritics": "Camaguey",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -178,7 +179,7 @@
     "date": 212,
     "coordinates": {
       "lat": 21.383333333333333,
-      "lon": 8.25
+      "lon": -77.91666666666667
     }
   },
   {
@@ -186,7 +187,7 @@
     "location": "CAR",
     "name": "C·rdenas",
     "nameWoDiacritics": "Cardenas",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -195,7 +196,7 @@
     "date": 701,
     "coordinates": {
       "lat": 23.033333333333335,
-      "lon": 8.183333333333334
+      "lon": -81.2
     }
   },
   {
@@ -203,7 +204,7 @@
     "location": "CAS",
     "name": "Casilda",
     "nameWoDiacritics": "Casilda",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -211,7 +212,7 @@
     "date": 701,
     "coordinates": {
       "lat": 21.766666666666666,
-      "lon": 8
+      "lon": -80
     }
   },
   {
@@ -219,14 +220,14 @@
     "location": "CCC",
     "name": "Cayo Coco",
     "nameWoDiacritics": "Cayo Coco",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 22.5,
-      "lon": 8.383333333333333
+      "lon": -78.5
     }
   },
   {
@@ -234,14 +235,14 @@
     "location": "CYO",
     "name": "Cayo Largo del Sur",
     "nameWoDiacritics": "Cayo Largo del Sur",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 21.616666666666667,
-      "lon": 8.216666666666667
+      "lon": -81.55
     }
   },
   {
@@ -249,7 +250,7 @@
     "location": "CEI",
     "name": "Ceiba Hueca",
     "nameWoDiacritics": "Ceiba Hueca",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -257,7 +258,7 @@
     "date": 701,
     "coordinates": {
       "lat": 20.216666666666665,
-      "lon": 8.2
+      "lon": -77.33333333333333
     }
   },
   {
@@ -265,7 +266,7 @@
     "location": "CFG",
     "name": "Cienfuegos",
     "nameWoDiacritics": "Cienfuegos",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -281,7 +282,7 @@
     "location": "QCO",
     "name": "Colon",
     "nameWoDiacritics": "Colon",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2,
@@ -298,7 +299,7 @@
     "location": "GIB",
     "name": "Gibara",
     "nameWoDiacritics": "Gibara",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -308,7 +309,7 @@
     "date": 701,
     "coordinates": {
       "lat": 21.1,
-      "lon": 8
+      "lon": -76.13333333333334
     }
   },
   {
@@ -316,7 +317,7 @@
     "location": "GUB",
     "name": "Guantanamo Bay",
     "nameWoDiacritics": "Guantanamo Bay",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       2
@@ -332,7 +333,7 @@
     "location": "NBW",
     "name": "Guantanamo Nas Apt",
     "nameWoDiacritics": "Guantanamo Nas Apt",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -347,7 +348,7 @@
     "location": "GYB",
     "name": "Guayabal",
     "nameWoDiacritics": "Guayabal",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -362,6 +363,7 @@
     "country": "CU",
     "name": "Havana = La Habana",
     "nameWoDiacritics": "Havana = La Habana",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -373,7 +375,7 @@
     "location": "HOG",
     "name": "Holguin",
     "nameWoDiacritics": "Holguin",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -388,7 +390,7 @@
     "location": "IDS",
     "name": "Isabela de Sagua",
     "nameWoDiacritics": "Isabela de Sagua",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -403,7 +405,7 @@
     "location": "JUC",
     "name": "J˙caro",
     "nameWoDiacritics": "Jucaro",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -412,7 +414,7 @@
     "date": 701,
     "coordinates": {
       "lat": 21.633333333333333,
-      "lon": 8.416666666666666
+      "lon": -78.85
     }
   },
   {
@@ -420,14 +422,14 @@
     "location": "LCL",
     "name": "La Coloma",
     "nameWoDiacritics": "La Coloma",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 22.333333333333332,
-      "lon": 8.55
+      "lon": -83.63333333333334
     }
   },
   {
@@ -436,7 +438,7 @@
     "name": "La Habana",
     "nameWoDiacritics": "La Habana",
     "subdivision": 3,
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       1,
@@ -447,7 +449,7 @@
     "date": 501,
     "coordinates": {
       "lat": 23.116666666666667,
-      "lon": 8.366666666666667
+      "lon": -82.35
     }
   },
   {
@@ -455,14 +457,14 @@
     "location": "BWW",
     "name": "Las Brujas",
     "nameWoDiacritics": "Las Brujas",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 23.616666666666667,
-      "lon": 2.283333333333333
+      "lon": -18.316666666666666
     }
   },
   {
@@ -471,7 +473,7 @@
     "name": "Las Tunas",
     "nameWoDiacritics": "Las Tunas",
     "subdivision": 10,
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -480,7 +482,7 @@
     "date": 207,
     "coordinates": {
       "lat": 20.95,
-      "lon": 8.083333333333334
+      "lon": -76.95
     }
   },
   {
@@ -488,7 +490,7 @@
     "location": "GAO",
     "name": "Los Canos Apt/Guantanamo",
     "nameWoDiacritics": "Los Canos Apt/Guantanamo",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -502,7 +504,7 @@
     "location": "MZO",
     "name": "Manzanillo",
     "nameWoDiacritics": "Manzanillo",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -518,7 +520,7 @@
     "location": "MAR",
     "name": "Mariel",
     "nameWoDiacritics": "Mariel",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -528,7 +530,7 @@
     "date": 701,
     "coordinates": {
       "lat": 23,
-      "lon": 8.4
+      "lon": -82.75
     }
   },
   {
@@ -536,7 +538,7 @@
     "location": "QMA",
     "name": "Matanzas",
     "nameWoDiacritics": "Matanzas",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -552,14 +554,14 @@
     "location": "AVI",
     "name": "Maximo Gomez Apt",
     "nameWoDiacritics": "Maximo Gomez Apt",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 22.016666666666666,
-      "lon": 8.4
+      "lon": -78.78333333333333
     }
   },
   {
@@ -568,14 +570,14 @@
     "name": "Mayajigua",
     "nameWoDiacritics": "Mayajigua",
     "subdivision": 7,
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 21.75,
-      "lon": 8.5
+      "lon": -79
     }
   },
   {
@@ -583,7 +585,7 @@
     "location": "MEL",
     "name": "Media Luna",
     "nameWoDiacritics": "Media Luna",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -591,7 +593,7 @@
     "date": 701,
     "coordinates": {
       "lat": 20.15,
-      "lon": 8.2
+      "lon": -77.43333333333334
     }
   },
   {
@@ -600,7 +602,7 @@
     "name": "Melgarejo",
     "nameWoDiacritics": "Melgarejo",
     "subdivision": 13,
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -608,7 +610,7 @@
     "date": 1307,
     "coordinates": {
       "lat": 20.05,
-      "lon": 7.916666666666667
+      "lon": -75.93333333333334
     }
   },
   {
@@ -616,14 +618,14 @@
     "location": "MIR",
     "name": "Miramar",
     "nameWoDiacritics": "Miramar",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 23.116666666666667,
-      "lon": 8.366666666666667
+      "lon": -82.41666666666667
     }
   },
   {
@@ -631,7 +633,7 @@
     "location": "MOA",
     "name": "Moa",
     "nameWoDiacritics": "Moa",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -647,7 +649,7 @@
     "name": "MorÛn",
     "nameWoDiacritics": "Moron",
     "subdivision": 8,
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -655,7 +657,7 @@
     "date": 1407,
     "coordinates": {
       "lat": 22.1,
-      "lon": 8.383333333333333
+      "lon": -78.61666666666666
     }
   },
   {
@@ -663,7 +665,7 @@
     "location": "ICR",
     "name": "Nicaro",
     "nameWoDiacritics": "Nicaro",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -679,7 +681,7 @@
     "location": "NIQ",
     "name": "Niquero",
     "nameWoDiacritics": "Niquero",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -688,7 +690,7 @@
     "date": 701,
     "coordinates": {
       "lat": 20.05,
-      "lon": 8.216666666666667
+      "lon": -77.58333333333333
     }
   },
   {
@@ -696,7 +698,7 @@
     "location": "GER",
     "name": "Nueva Gerona",
     "nameWoDiacritics": "Nueva Gerona",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -712,7 +714,7 @@
     "location": "NVT",
     "name": "Nuevitas",
     "nameWoDiacritics": "Nuevitas",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -721,7 +723,7 @@
     "date": 701,
     "coordinates": {
       "lat": 21.55,
-      "lon": 8.183333333333334
+      "lon": -77.26666666666667
     }
   },
   {
@@ -729,7 +731,7 @@
     "location": "PAL",
     "name": "Palo Alto",
     "nameWoDiacritics": "Palo Alto",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -737,7 +739,7 @@
     "date": 307,
     "coordinates": {
       "lat": 21.6,
-      "lon": 8.416666666666666
+      "lon": -78.96666666666667
     }
   },
   {
@@ -745,7 +747,7 @@
     "location": "PIL",
     "name": "PilÛn",
     "nameWoDiacritics": "Pilon",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -753,7 +755,7 @@
     "date": 701,
     "coordinates": {
       "lat": 20.85,
-      "lon": 7.9
+      "lon": -75.81666666666666
     }
   },
   {
@@ -761,14 +763,14 @@
     "location": "QPD",
     "name": "Pinar del Rio",
     "nameWoDiacritics": "Pinar del Rio",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 22.416666666666668,
-      "lon": 8.566666666666666
+      "lon": -83.66666666666667
     }
   },
   {
@@ -776,14 +778,14 @@
     "location": "PST",
     "name": "Preston",
     "nameWoDiacritics": "Preston",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 20.75,
-      "lon": 7.883333333333333
+      "lon": -75.65
     }
   },
   {
@@ -791,7 +793,7 @@
     "location": "VIT",
     "name": "Puerto da Vita",
     "nameWoDiacritics": "Puerto da Vita",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -800,7 +802,7 @@
     "date": 701,
     "coordinates": {
       "lat": 21.083333333333332,
-      "lon": 7.916666666666667
+      "lon": -75.96666666666667
     }
   },
   {
@@ -808,7 +810,7 @@
     "location": "PAS",
     "name": "Puerto de Pastelillo",
     "nameWoDiacritics": "Puerto de Pastelillo",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -816,7 +818,7 @@
     "date": 701,
     "coordinates": {
       "lat": 21.55,
-      "lon": 8.183333333333334
+      "lon": -77.21666666666667
     }
   },
   {
@@ -824,7 +826,7 @@
     "location": "MNT",
     "name": "Puerto ManatÌ",
     "nameWoDiacritics": "Puerto Manati",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -833,7 +835,7 @@
     "date": 701,
     "coordinates": {
       "lat": 21.366666666666667,
-      "lon": 8.083333333333334
+      "lon": -76.83333333333333
     }
   },
   {
@@ -841,7 +843,7 @@
     "location": "PPA",
     "name": "Puerto Padre",
     "nameWoDiacritics": "Puerto Padre",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -850,7 +852,7 @@
     "date": 701,
     "coordinates": {
       "lat": 21.2,
-      "lon": 8.05
+      "lon": -76.6
     }
   },
   {
@@ -858,7 +860,7 @@
     "location": "PTA",
     "name": "Puerto Tarafa",
     "nameWoDiacritics": "Puerto Tarafa",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -867,7 +869,7 @@
     "date": 701,
     "coordinates": {
       "lat": 21.566666666666666,
-      "lon": 8.183333333333334
+      "lon": -77.25
     }
   },
   {
@@ -875,14 +877,14 @@
     "location": "UPA",
     "name": "Punta Alegre",
     "nameWoDiacritics": "Punta Alegre",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 22.366666666666667,
-      "lon": 8.4
+      "lon": -78.8
     }
   },
   {
@@ -891,7 +893,7 @@
     "name": "Punta de Maisi",
     "nameWoDiacritics": "Punta de Maisi",
     "subdivision": 14,
-    "status": "RQ",
+    "status": 9,
     "function": [
       2,
       3
@@ -899,7 +901,7 @@
     "date": 907,
     "coordinates": {
       "lat": 20.25,
-      "lon": 7.666666666666667
+      "lon": -74.15
     }
   },
   {
@@ -908,14 +910,14 @@
     "name": "Sagua de T·namo",
     "nameWoDiacritics": "Sagua de Tanamo",
     "subdivision": 11,
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 212,
     "coordinates": {
       "lat": 20.583333333333332,
-      "lon": 7.85
+      "lon": -75.23333333333333
     }
   },
   {
@@ -923,7 +925,7 @@
     "location": "RSL",
     "name": "Sagua la Grande",
     "nameWoDiacritics": "Sagua la Grande",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -933,7 +935,7 @@
     "date": 701,
     "coordinates": {
       "lat": 22.8,
-      "lon": 8
+      "lon": -80.06666666666666
     }
   },
   {
@@ -941,14 +943,14 @@
     "location": "SNJ",
     "name": "San Julian",
     "nameWoDiacritics": "San Julian",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 22.066666666666666,
-      "lon": 8.666666666666666
+      "lon": -84.15
     }
   },
   {
@@ -956,14 +958,14 @@
     "location": "QSN",
     "name": "San Nicolas Bari",
     "nameWoDiacritics": "San Nicolas Bari",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 22.75,
-      "lon": 8.25
+      "lon": -81.91666666666667
     }
   },
   {
@@ -971,7 +973,7 @@
     "location": "SNU",
     "name": "Santa Clara",
     "nameWoDiacritics": "Santa Clara",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -986,7 +988,7 @@
     "location": "SCS",
     "name": "Santa Cruz del Sur",
     "nameWoDiacritics": "Santa Cruz del Sur",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -1001,7 +1003,7 @@
     "location": "USS",
     "name": "Santi Spiritus",
     "nameWoDiacritics": "Santi Spiritus",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -1009,7 +1011,7 @@
     "date": 907,
     "coordinates": {
       "lat": 21.916666666666668,
-      "lon": 8.533333333333333
+      "lon": -79.43333333333334
     }
   },
   {
@@ -1017,7 +1019,7 @@
     "location": "SCU",
     "name": "Santiago de Cuba",
     "nameWoDiacritics": "Santiago de Cuba",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -1034,14 +1036,14 @@
     "name": "Siguanea",
     "nameWoDiacritics": "Siguanea",
     "subdivision": 99,
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 907,
     "coordinates": {
       "lat": 21.616666666666667,
-      "lon": 8.416666666666666
+      "lon": -82.95
     }
   },
   {
@@ -1049,14 +1051,14 @@
     "location": "TAN",
     "name": "T·namo",
     "nameWoDiacritics": "Tanamo",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": 20.683333333333334,
-      "lon": 7.866666666666667
+      "lon": -75.35
     }
   },
   {
@@ -1064,7 +1066,7 @@
     "location": "TND",
     "name": "Trinidad",
     "nameWoDiacritics": "Trinidad",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -1080,7 +1082,7 @@
     "location": "TDZ",
     "name": "Tunas de Zaza",
     "nameWoDiacritics": "Tunas de Zaza",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -1089,7 +1091,7 @@
     "date": 701,
     "coordinates": {
       "lat": 21.633333333333333,
-      "lon": 8.55
+      "lon": -79.55
     }
   },
   {
@@ -1098,7 +1100,7 @@
     "name": "Varadero",
     "nameWoDiacritics": "Varadero",
     "subdivision": 4,
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -1106,7 +1108,7 @@
     "date": 401,
     "coordinates": {
       "lat": 23.15,
-      "lon": 8.183333333333334
+      "lon": -81.25
     }
   },
   {
@@ -1114,14 +1116,14 @@
     "location": "VDO",
     "name": "Vedado",
     "nameWoDiacritics": "Vedado",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 23.133333333333333,
-      "lon": 8.533333333333333
+      "lon": -83.38333333333334
     }
   }
 ]

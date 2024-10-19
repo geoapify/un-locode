@@ -2,6 +2,7 @@
   {
     "country": "AM",
     "name": ".ARMENIA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,14 +14,14 @@
     "location": "ABO",
     "name": "Abovyan",
     "nameWoDiacritics": "Abovyan",
-    "status": "RL",
+    "status": 7,
     "function": [
       1
     ],
     "date": 207,
     "coordinates": {
       "lat": 40.266666666666666,
-      "lon": 4.733333333333333
+      "lon": 44.78333333333333
     }
   },
   {
@@ -28,7 +29,7 @@
     "location": "AHU",
     "name": "Akhuryan",
     "nameWoDiacritics": "Akhuryan",
-    "status": "QQ",
+    "status": 12,
     "function": [
       1
     ],
@@ -44,14 +45,14 @@
     "name": "Aparan",
     "nameWoDiacritics": "Aparan",
     "subdivision": "AG",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 40.583333333333336,
-      "lon": 4.7
+      "lon": 44.35
     }
   },
   {
@@ -59,14 +60,14 @@
     "location": "ARG",
     "name": "Aragatsotn",
     "nameWoDiacritics": "Aragatsotn",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 40.25,
-      "lon": 4.683333333333334
+      "lon": 44.166666666666664
     }
   },
   {
@@ -74,14 +75,14 @@
     "location": "ARA",
     "name": "Ararat",
     "nameWoDiacritics": "Ararat",
-    "status": "RL",
+    "status": 7,
     "function": [
       1
     ],
     "date": 207,
     "coordinates": {
       "lat": 39.833333333333336,
-      "lon": 4.733333333333333
+      "lon": 44.68333333333333
     }
   },
   {
@@ -89,14 +90,14 @@
     "location": "ARV",
     "name": "Armavir",
     "nameWoDiacritics": "Armavir",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 40.15,
-      "lon": 4.666666666666667
+      "lon": 44.016666666666666
     }
   },
   {
@@ -105,14 +106,14 @@
     "name": "Ashtarak",
     "nameWoDiacritics": "Ashtarak",
     "subdivision": "ER",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 40.3,
-      "lon": 4.7
+      "lon": 44.35
     }
   },
   {
@@ -120,14 +121,14 @@
     "location": "BRD",
     "name": "Berd",
     "nameWoDiacritics": "Berd",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 40.86666666666667,
-      "lon": 4.866666666666667
+      "lon": 45.38333333333333
     }
   },
   {
@@ -136,14 +137,14 @@
     "name": "Byureghavan",
     "nameWoDiacritics": "Byureghavan",
     "subdivision": "KT",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 40.3,
-      "lon": 4.716666666666667
+      "lon": 44.583333333333336
     }
   },
   {
@@ -151,14 +152,14 @@
     "location": "DIL",
     "name": "Dilijan",
     "nameWoDiacritics": "Dilijan",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 40.733333333333334,
-      "lon": 4.75
+      "lon": 44.86666666666667
     }
   },
   {
@@ -166,14 +167,14 @@
     "location": "EZN",
     "name": "Ecmiadzin",
     "nameWoDiacritics": "Ecmiadzin",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 40.15,
-      "lon": 4.683333333333334
+      "lon": 44.28333333333333
     }
   },
   {
@@ -181,14 +182,14 @@
     "location": "GRS",
     "name": "Goris",
     "nameWoDiacritics": "Goris",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 39.5,
-      "lon": 5.033333333333333
+      "lon": 46.333333333333336
     }
   },
   {
@@ -196,14 +197,14 @@
     "location": "LWN",
     "name": "Gyumri",
     "nameWoDiacritics": "Gyumri",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 212,
     "coordinates": {
       "lat": 40.8,
-      "lon": 4.583333333333333
+      "lon": 43.833333333333336
     }
   },
   {
@@ -212,7 +213,7 @@
     "name": "Hrazdan",
     "nameWoDiacritics": "Hrazdan",
     "subdivision": "KT",
-    "status": "AM",
+    "status": 4,
     "function": [
       1,
       2
@@ -220,7 +221,7 @@
     "date": 2101,
     "coordinates": {
       "lat": 40.53333333333333,
-      "lon": 4.733333333333333
+      "lon": 44.766666666666666
     }
   },
   {
@@ -229,7 +230,7 @@
     "name": "Jermuk",
     "nameWoDiacritics": "Jermuk",
     "subdivision": "VD",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -245,7 +246,7 @@
     "location": "KJN",
     "name": "Kajaran",
     "nameWoDiacritics": "Kajaran",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -253,7 +254,7 @@
     "date": 1307,
     "coordinates": {
       "lat": 39.15,
-      "lon": 5
+      "lon": 46.15
     }
   },
   {
@@ -262,14 +263,14 @@
     "name": "Kapan",
     "nameWoDiacritics": "Kapan",
     "subdivision": "SU",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 39.2,
-      "lon": 5.033333333333333
+      "lon": 46.4
     }
   },
   {
@@ -278,7 +279,7 @@
     "name": "Masis",
     "nameWoDiacritics": "Masis",
     "subdivision": "AR",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -287,7 +288,7 @@
     "date": 901,
     "coordinates": {
       "lat": 40.016666666666666,
-      "lon": 4.7
+      "lon": 44.483333333333334
     }
   },
   {
@@ -296,14 +297,14 @@
     "name": "Mets Masrik",
     "nameWoDiacritics": "Mets Masrik",
     "subdivision": "GR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1807,
     "coordinates": {
       "lat": 40.21666666666667,
-      "lon": 4.9
+      "lon": 45.766666666666666
     }
   },
   {
@@ -312,14 +313,14 @@
     "name": "Metsamor",
     "nameWoDiacritics": "Metsamor",
     "subdivision": "ER",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1901,
     "coordinates": {
       "lat": 40.06666666666667,
-      "lon": 4.683333333333334
+      "lon": 44.28333333333333
     }
   },
   {
@@ -328,14 +329,14 @@
     "name": "Rind",
     "nameWoDiacritics": "Rind",
     "subdivision": "VD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 39.75,
-      "lon": 4.85
+      "lon": 45.166666666666664
     }
   },
   {
@@ -344,14 +345,14 @@
     "name": "Spitak",
     "nameWoDiacritics": "Spitak",
     "subdivision": "LO",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 40.833333333333336,
-      "lon": 4.683333333333334
+      "lon": 44.266666666666666
     }
   },
   {
@@ -359,14 +360,14 @@
     "location": "VZR",
     "name": "Vanadzor",
     "nameWoDiacritics": "Vanadzor",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 207,
     "coordinates": {
       "lat": 40.8,
-      "lon": 4.7
+      "lon": 44.46666666666667
     }
   },
   {
@@ -375,14 +376,14 @@
     "name": "Vedi",
     "nameWoDiacritics": "Vedi",
     "subdivision": "AR",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 39.9,
-      "lon": 4.733333333333333
+      "lon": 44.71666666666667
     }
   },
   {
@@ -391,7 +392,7 @@
     "name": "Yerevan",
     "nameWoDiacritics": "Yerevan",
     "subdivision": "ER",
-    "status": "AI",
+    "status": 3,
     "function": [
       1,
       2,
@@ -401,7 +402,7 @@
     "date": 907,
     "coordinates": {
       "lat": 40.18333333333333,
-      "lon": 4.716666666666667
+      "lon": 44.516666666666666
     }
   }
 ]

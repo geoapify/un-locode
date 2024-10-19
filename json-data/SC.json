@@ -6,7 +6,7 @@
     "name": ".SEYCHELLES",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Anse Kerlan",
     "nameWoDiacritics": "Anse Kerlan",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": -4.3,
-      "lon": 5.9
+      "lon": 55.68333333333333
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Bird Island",
     "nameWoDiacritics": "Bird Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -61,7 +61,7 @@
     "name": "Denis Island",
     "nameWoDiacritics": "Denis Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -80,7 +80,7 @@
     "name": "Fr�gate",
     "nameWoDiacritics": "Fregate",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -88,7 +88,7 @@
     "iata": "",
     "coordinates": {
       "lat": -4.583333333333333,
-      "lon": 5.916666666666667
+      "lon": 55.93333333333333
     },
     "remarks": ""
   },
@@ -99,7 +99,7 @@
     "name": "Ile Desroches",
     "nameWoDiacritics": "Ile Desroches",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -107,7 +107,7 @@
     "iata": "",
     "coordinates": {
       "lat": -5.683333333333334,
-      "lon": 5.566666666666666
+      "lon": 53.68333333333333
     },
     "remarks": ""
   },
@@ -118,7 +118,7 @@
     "name": "Mahe",
     "nameWoDiacritics": "Mahe",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -137,7 +137,7 @@
     "name": "Mah� Island Apt",
     "nameWoDiacritics": "Mahe Island Apt",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -146,7 +146,7 @@
     "iata": "",
     "coordinates": {
       "lat": -4.666666666666667,
-      "lon": 5.866666666666667
+      "lon": 55.46666666666667
     },
     "remarks": ""
   },
@@ -157,7 +157,7 @@
     "name": "Port Victoria",
     "nameWoDiacritics": "Port Victoria",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -176,7 +176,7 @@
     "name": "Praslin Island",
     "nameWoDiacritics": "Praslin Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -195,7 +195,7 @@
     "name": "Victoria",
     "nameWoDiacritics": "Victoria",
     "subdivision": "22",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -204,7 +204,7 @@
     "iata": "",
     "coordinates": {
       "lat": -4.616666666666667,
-      "lon": 5.866666666666667
+      "lon": 55.45
     },
     "remarks": ""
   }

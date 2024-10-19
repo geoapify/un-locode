@@ -6,7 +6,7 @@
     "name": ".QATAR",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Abu Hamur",
     "nameWoDiacritics": "Abu Hamur",
     "subdivision": "RA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.233333333333334,
-      "lon": 5.2
+      "lon": 51.483333333333334
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Abu Samra",
     "nameWoDiacritics": "Abu Samra",
     "subdivision": "RA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -50,7 +50,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.733333333333334,
-      "lon": 5.066666666666666
+      "lon": 50.81666666666667
     },
     "remarks": ""
   },
@@ -61,7 +61,7 @@
     "name": "Al Karaana",
     "nameWoDiacritics": "Al Karaana",
     "subdivision": "RA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -69,7 +69,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25,
-      "lon": 5.166666666666667
+      "lon": 51.03333333333333
     },
     "remarks": ""
   },
@@ -80,7 +80,7 @@
     "name": "Al Khor",
     "nameWoDiacritics": "Al Khor",
     "subdivision": "KH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -88,7 +88,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.683333333333334,
-      "lon": 5.216666666666667
+      "lon": 51.5
     },
     "remarks": ""
   },
@@ -99,7 +99,7 @@
     "name": "Al Rayyan",
     "nameWoDiacritics": "Al Rayyan",
     "subdivision": "RA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -107,7 +107,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.316666666666666,
-      "lon": 5.2
+      "lon": 51.36666666666667
     },
     "remarks": ""
   },
@@ -118,7 +118,7 @@
     "name": "Al Ruwais Qatar",
     "nameWoDiacritics": "Al Ruwais Qatar",
     "subdivision": "MS",
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
@@ -126,7 +126,7 @@
     "iata": "",
     "coordinates": {
       "lat": 26.233333333333334,
-      "lon": 5.2
+      "lon": 51.333333333333336
     },
     "remarks": ""
   },
@@ -137,7 +137,7 @@
     "name": "Al Shahaniya",
     "nameWoDiacritics": "Al Shahaniya",
     "subdivision": "RA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -145,7 +145,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.366666666666667,
-      "lon": 5.183333333333334
+      "lon": 51.2
     },
     "remarks": ""
   },
@@ -156,7 +156,7 @@
     "name": "Al Shaheen",
     "nameWoDiacritics": "Al Shaheen",
     "subdivision": "",
-    "status": "RN",
+    "status": 8,
     "function": [
       0,
       6
@@ -165,7 +165,7 @@
     "iata": "",
     "coordinates": {
       "lat": 26.55,
-      "lon": 5.333333333333333
+      "lon": 52.06666666666667
     },
     "remarks": ""
   },
@@ -176,7 +176,7 @@
     "name": "Al Shamal City",
     "nameWoDiacritics": "Al Shamal City",
     "subdivision": "MS",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -184,7 +184,7 @@
     "iata": "",
     "coordinates": {
       "lat": 26.116666666666667,
-      "lon": 5.183333333333334
+      "lon": 51.21666666666667
     },
     "remarks": ""
   },
@@ -195,7 +195,7 @@
     "name": "Al Udeid",
     "nameWoDiacritics": "Al Udeid",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2,
       3
@@ -204,7 +204,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.1,
-      "lon": 5.183333333333334
+      "lon": 51.3
     },
     "remarks": ""
   },
@@ -215,7 +215,7 @@
     "name": "Al Wa'b",
     "nameWoDiacritics": "Al Wa'b",
     "subdivision": "KH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -223,7 +223,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.833333333333332,
-      "lon": 5.2
+      "lon": 51.45
     },
     "remarks": ""
   },
@@ -234,7 +234,7 @@
     "name": "Al Wakrah",
     "nameWoDiacritics": "Al Wakrah",
     "subdivision": "WA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -242,7 +242,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.166666666666668,
-      "lon": 5.216666666666667
+      "lon": 51.6
     },
     "remarks": ""
   },
@@ -253,7 +253,7 @@
     "name": "Al Zubarah",
     "nameWoDiacritics": "Al Zubarah",
     "subdivision": "DA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -261,7 +261,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.966666666666665,
-      "lon": 5.166666666666667
+      "lon": 51.016666666666666
     },
     "remarks": ""
   },
@@ -272,7 +272,7 @@
     "name": "As Salwa",
     "nameWoDiacritics": "As Salwa",
     "subdivision": "RA",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -280,7 +280,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.733333333333334,
-      "lon": 5.066666666666666
+      "lon": 50.75
     },
     "remarks": ""
   },
@@ -291,7 +291,7 @@
     "name": "As Sayliyah",
     "nameWoDiacritics": "As Sayliyah",
     "subdivision": "DA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -299,7 +299,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.2,
-      "lon": 5.2
+      "lon": 51.36666666666667
     },
     "remarks": ""
   },
@@ -310,7 +310,7 @@
     "name": "BGN/PCGN1956 - HAMAD",
     "nameWoDiacritics": "BGN/PCGN1956 - HAMAD",
     "subdivision": "WA",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -318,7 +318,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25,
-      "lon": 5.216666666666667
+      "lon": 51.61666666666667
     },
     "remarks": ""
   },
@@ -329,7 +329,7 @@
     "name": "Doha",
     "nameWoDiacritics": "Doha",
     "subdivision": "DA",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -350,7 +350,7 @@
     "name": "Dukhan",
     "nameWoDiacritics": "Dukhan",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -358,7 +358,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.416666666666668,
-      "lon": 5.066666666666666
+      "lon": 50.78333333333333
     },
     "remarks": ""
   },
@@ -369,7 +369,7 @@
     "name": "Halul",
     "nameWoDiacritics": "Halul",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       6
@@ -389,7 +389,7 @@
     "name": "Hanna",
     "nameWoDiacritics": "Hanna",
     "subdivision": "",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -408,7 +408,7 @@
     "name": "Lusail",
     "nameWoDiacritics": "Lusail",
     "subdivision": "DA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -416,7 +416,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.5,
-      "lon": 5.2
+      "lon": 51.483333333333334
     },
     "remarks": ""
   },
@@ -427,7 +427,7 @@
     "name": "Qapco",
     "nameWoDiacritics": "Qapco",
     "subdivision": "US",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -435,7 +435,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.916666666666668,
-      "lon": 5.216666666666667
+      "lon": 51.56666666666667
     },
     "remarks": ""
   },
@@ -446,7 +446,7 @@
     "name": "Qchem",
     "nameWoDiacritics": "Qchem",
     "subdivision": "US",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -454,7 +454,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.85,
-      "lon": 5.216666666666667
+      "lon": 51.53333333333333
     },
     "remarks": ""
   },
@@ -465,7 +465,7 @@
     "name": "Ras Laffan",
     "nameWoDiacritics": "Ras Laffan",
     "subdivision": "KH",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -473,7 +473,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.933333333333334,
-      "lon": 5.216666666666667
+      "lon": 51.53333333333333
     },
     "remarks": ""
   },
@@ -484,7 +484,7 @@
     "name": "Simaisma",
     "nameWoDiacritics": "Simaisma",
     "subdivision": "DA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -492,7 +492,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.583333333333332,
-      "lon": 5.2
+      "lon": 51.483333333333334
     },
     "remarks": ""
   },
@@ -503,7 +503,7 @@
     "name": "The Pearl-Qatar",
     "nameWoDiacritics": "The Pearl-Qatar",
     "subdivision": "DA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -511,7 +511,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.366666666666667,
-      "lon": 5.216666666666667
+      "lon": 51.55
     },
     "remarks": ""
   },
@@ -522,7 +522,7 @@
     "name": "Umm Bab",
     "nameWoDiacritics": "Umm Bab",
     "subdivision": "RA",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -530,7 +530,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.216666666666665,
-      "lon": 5.066666666666666
+      "lon": 50.8
     },
     "remarks": ""
   },
@@ -541,7 +541,7 @@
     "name": "Umm Qarn",
     "nameWoDiacritics": "Umm Qarn",
     "subdivision": "ZA",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
@@ -549,7 +549,7 @@
     "iata": "",
     "coordinates": {
       "lat": 25.533333333333335,
-      "lon": 5.2
+      "lon": 51.416666666666664
     },
     "remarks": ""
   },
@@ -560,7 +560,7 @@
     "name": "Umm Sa'id (Mesaieed)",
     "nameWoDiacritics": "Umm Sa'id (Mesaieed)",
     "subdivision": "WA",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2
@@ -569,7 +569,7 @@
     "iata": "",
     "coordinates": {
       "lat": 24.983333333333334,
-      "lon": 5.216666666666667
+      "lon": 51.53333333333333
     },
     "remarks": ""
   }

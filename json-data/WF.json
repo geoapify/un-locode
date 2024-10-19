@@ -6,7 +6,7 @@
     "name": ".WALLIS AND FUTUNA",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Leava",
     "nameWoDiacritics": "Leava",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": -14.3,
-      "lon": 18.333333333333332
+      "lon": -178.15
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Mat�'utu",
     "nameWoDiacritics": "Mata'utu",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2,
@@ -52,7 +52,7 @@
     "iata": "",
     "coordinates": {
       "lat": -13.283333333333333,
-      "lon": 18.016666666666666
+      "lon": -176.18333333333334
     },
     "remarks": ""
   },
@@ -63,7 +63,7 @@
     "name": "Sigav�",
     "nameWoDiacritics": "Sigave",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -72,7 +72,7 @@
     "iata": "",
     "coordinates": {
       "lat": -14.283333333333333,
-      "lon": 18.35
+      "lon": -178.16666666666666
     },
     "remarks": ""
   },
@@ -83,7 +83,7 @@
     "name": "Vele Futuna I. Apt",
     "nameWoDiacritics": "Vele Futuna I. Apt",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -91,7 +91,7 @@
     "iata": "",
     "coordinates": {
       "lat": -14.316666666666666,
-      "lon": 18.333333333333332
+      "lon": -178.08333333333334
     },
     "remarks": ""
   },
@@ -102,7 +102,7 @@
     "name": "Wallis I. Apt",
     "nameWoDiacritics": "Wallis I. Apt",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -110,7 +110,7 @@
     "iata": "",
     "coordinates": {
       "lat": -13.25,
-      "lon": 18.016666666666666
+      "lon": -176.2
     },
     "remarks": ""
   }

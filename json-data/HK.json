@@ -2,6 +2,7 @@
   {
     "country": "HK",
     "name": ".HONG KONG",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "ABD",
     "name": "Aberdeen",
     "nameWoDiacritics": "Aberdeen",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -21,7 +22,7 @@
     "date": 1107,
     "coordinates": {
       "lat": 22.25,
-      "lon": 11.666666666666666
+      "lon": 114.15
     }
   },
   {
@@ -29,7 +30,7 @@
     "location": "ALC",
     "name": "Ap Lei Chau",
     "nameWoDiacritics": "Ap Lei Chau",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -44,7 +45,7 @@
     "location": "CWB",
     "name": "Causeway Bay",
     "nameWoDiacritics": "Causeway Bay",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -52,7 +53,7 @@
     "date": 407,
     "coordinates": {
       "lat": 22.283333333333335,
-      "lon": 11.683333333333334
+      "lon": 114.18333333333334
     }
   },
   {
@@ -60,14 +61,14 @@
     "location": "9CK",
     "name": "Cha Kwo Ling",
     "nameWoDiacritics": "Cha Kwo Ling",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.3,
-      "lon": 11.683333333333334
+      "lon": 114.23333333333333
     }
   },
   {
@@ -75,14 +76,14 @@
     "location": "CHW",
     "name": "Chai Wan",
     "nameWoDiacritics": "Chai Wan",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": 22.25,
-      "lon": 11.683333333333334
+      "lon": 114.23333333333333
     }
   },
   {
@@ -90,7 +91,7 @@
     "location": "CSW",
     "name": "Cheung Sha Wan",
     "nameWoDiacritics": "Cheung Sha Wan",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -98,7 +99,7 @@
     "iata": "ZZQ",
     "coordinates": {
       "lat": 22.233333333333334,
-      "lon": 11.666666666666666
+      "lon": 114
     }
   },
   {
@@ -106,14 +107,14 @@
     "location": "9FL",
     "name": "Fanling",
     "nameWoDiacritics": "Fanling",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.5,
-      "lon": 11.666666666666666
+      "lon": 114.13333333333334
     }
   },
   {
@@ -121,14 +122,14 @@
     "location": "FOT",
     "name": "Fo Tan",
     "nameWoDiacritics": "Fo Tan",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 22.4,
-      "lon": 11.683333333333334
+      "lon": 114.2
     }
   },
   {
@@ -136,7 +137,7 @@
     "location": "HKC",
     "name": "Ha Kwai Chung",
     "nameWoDiacritics": "Ha Kwai Chung",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -144,7 +145,7 @@
     "date": 207,
     "coordinates": {
       "lat": 22.366666666666667,
-      "lon": 11.666666666666666
+      "lon": 114.11666666666666
     }
   },
   {
@@ -152,14 +153,14 @@
     "location": "9HH",
     "name": "Hang Hau Town",
     "nameWoDiacritics": "Hang Hau Town",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.316666666666666,
-      "lon": 11.683333333333334
+      "lon": 114.26666666666667
     }
   },
   {
@@ -167,14 +168,14 @@
     "location": "9HV",
     "name": "Happy Valley",
     "nameWoDiacritics": "Happy Valley",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.266666666666666,
-      "lon": 11.683333333333334
+      "lon": 114.18333333333334
     }
   },
   {
@@ -182,14 +183,14 @@
     "location": "9HT",
     "name": "Hok Tsui Wan",
     "nameWoDiacritics": "Hok Tsui Wan",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.216666666666665,
-      "lon": 11.683333333333334
+      "lon": 114.25
     }
   },
   {
@@ -197,7 +198,7 @@
     "location": "HKG",
     "name": "Hong Kong",
     "nameWoDiacritics": "Hong Kong",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -214,14 +215,14 @@
     "location": "CL4",
     "name": "Hong Kong Central",
     "nameWoDiacritics": "Hong Kong Central",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1501,
     "coordinates": {
       "lat": 22.266666666666666,
-      "lon": 11.666666666666666
+      "lon": 114.15
     }
   },
   {
@@ -229,14 +230,14 @@
     "location": "GOM",
     "name": "Hung Hom",
     "nameWoDiacritics": "Hung Hom",
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
     "date": 1001,
     "coordinates": {
       "lat": 22.3,
-      "lon": 11.683333333333334
+      "lon": 114.18333333333334
     }
   },
   {
@@ -244,14 +245,14 @@
     "location": "9KT",
     "name": "Kennedy Town",
     "nameWoDiacritics": "Kennedy Town",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.283333333333335,
-      "lon": 11.666666666666666
+      "lon": 114.11666666666666
     }
   },
   {
@@ -259,7 +260,7 @@
     "location": "KWN",
     "name": "Kowloon",
     "nameWoDiacritics": "Kowloon",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -268,7 +269,7 @@
     "date": 701,
     "coordinates": {
       "lat": 22.3,
-      "lon": 11.683333333333334
+      "lon": 114.16666666666667
     }
   },
   {
@@ -276,14 +277,14 @@
     "location": "KCO",
     "name": "Kwai Chung",
     "nameWoDiacritics": "Kwai Chung",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 901,
     "coordinates": {
       "lat": 22.366666666666667,
-      "lon": 11.666666666666666
+      "lon": 114.13333333333334
     }
   },
   {
@@ -291,7 +292,7 @@
     "location": "KTZ",
     "name": "Kwun Tong",
     "nameWoDiacritics": "Kwun Tong",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -300,7 +301,7 @@
     "date": 1401,
     "coordinates": {
       "lat": 22.316666666666666,
-      "lon": 11.683333333333334
+      "lon": 114.21666666666667
     }
   },
   {
@@ -308,14 +309,14 @@
     "location": "LCK",
     "name": "Lai Chi Kok",
     "nameWoDiacritics": "Lai Chi Kok",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 701,
     "coordinates": {
       "lat": 22.333333333333332,
-      "lon": 11.666666666666666
+      "lon": 114.13333333333334
     }
   },
   {
@@ -323,14 +324,14 @@
     "location": "9LT",
     "name": "Lam Tei",
     "nameWoDiacritics": "Lam Tei",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.416666666666668,
-      "lon": 11.583333333333334
+      "lon": 113.98333333333333
     }
   },
   {
@@ -338,7 +339,7 @@
     "location": "LAM",
     "name": "Lamma Island",
     "nameWoDiacritics": "Lamma Island",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -353,14 +354,14 @@
     "location": "9LY",
     "name": "Lei Yue Mun",
     "nameWoDiacritics": "Lei Yue Mun",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.283333333333335,
-      "lon": 11.683333333333334
+      "lon": 114.23333333333333
     }
   },
   {
@@ -368,14 +369,14 @@
     "location": "9LM",
     "name": "Lok Ma Chau",
     "nameWoDiacritics": "Lok Ma Chau",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.516666666666666,
-      "lon": 11.666666666666666
+      "lon": 114.08333333333333
     }
   },
   {
@@ -383,14 +384,14 @@
     "location": "9ML",
     "name": "Ma Liu Shui",
     "nameWoDiacritics": "Ma Liu Shui",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.416666666666668,
-      "lon": 11.683333333333334
+      "lon": 114.21666666666667
     }
   },
   {
@@ -398,14 +399,14 @@
     "location": "9MO",
     "name": "Ma On Shan Tsuen",
     "nameWoDiacritics": "Ma On Shan Tsuen",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.4,
-      "lon": 11.683333333333334
+      "lon": 114.23333333333333
     }
   },
   {
@@ -413,14 +414,14 @@
     "location": "MWN",
     "name": "Ma Wan",
     "nameWoDiacritics": "Ma Wan",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 22.333333333333332,
-      "lon": 11.666666666666666
+      "lon": 114.05
     }
   },
   {
@@ -428,14 +429,14 @@
     "location": "MLV",
     "name": "Mid Levels",
     "nameWoDiacritics": "Mid Levels",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.283333333333335,
-      "lon": 11.666666666666666
+      "lon": 114.15
     }
   },
   {
@@ -443,14 +444,14 @@
     "location": "MKK",
     "name": "Mong Kok",
     "nameWoDiacritics": "Mong Kok",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 22.316666666666666,
-      "lon": 11.683333333333334
+      "lon": 114.16666666666667
     }
   },
   {
@@ -458,14 +459,14 @@
     "location": "9NC",
     "name": "Ngau Chi Wan",
     "nameWoDiacritics": "Ngau Chi Wan",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.333333333333332,
-      "lon": 11.683333333333334
+      "lon": 114.2
     }
   },
   {
@@ -473,14 +474,14 @@
     "location": "NPT",
     "name": "North Point",
     "nameWoDiacritics": "North Point",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 22.3,
-      "lon": 11.683333333333334
+      "lon": 114.2
     }
   },
   {
@@ -488,14 +489,14 @@
     "location": "PFL",
     "name": "Pok Fu Lam",
     "nameWoDiacritics": "Pok Fu Lam",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 22.25,
-      "lon": 11.666666666666666
+      "lon": 114.13333333333334
     }
   },
   {
@@ -503,14 +504,14 @@
     "location": "QBY",
     "name": "Quarry Bay",
     "nameWoDiacritics": "Quarry Bay",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 22.283333333333335,
-      "lon": 11.683333333333334
+      "lon": 114.21666666666667
     }
   },
   {
@@ -518,14 +519,14 @@
     "location": "9RP",
     "name": "Repulse Bay",
     "nameWoDiacritics": "Repulse Bay",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.233333333333334,
-      "lon": 11.683333333333334
+      "lon": 114.2
     }
   },
   {
@@ -533,14 +534,14 @@
     "location": "9SK",
     "name": "Sai Kung",
     "nameWoDiacritics": "Sai Kung",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.383333333333333,
-      "lon": 11.683333333333334
+      "lon": 114.26666666666667
     }
   },
   {
@@ -548,14 +549,14 @@
     "location": "9SP",
     "name": "San Po Kong",
     "nameWoDiacritics": "San Po Kong",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.333333333333332,
-      "lon": 11.683333333333334
+      "lon": 114.2
     }
   },
   {
@@ -563,14 +564,14 @@
     "location": "8ST",
     "name": "Sha Tau Kok",
     "nameWoDiacritics": "Sha Tau Kok",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.55,
-      "lon": 11.683333333333334
+      "lon": 114.21666666666667
     }
   },
   {
@@ -578,14 +579,14 @@
     "location": "STN",
     "name": "Sha Tin",
     "nameWoDiacritics": "Sha Tin",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 22.383333333333333,
-      "lon": 11.683333333333334
+      "lon": 114.18333333333334
     }
   },
   {
@@ -593,14 +594,14 @@
     "location": "SSP",
     "name": "Sham Shui Po",
     "nameWoDiacritics": "Sham Shui Po",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 22.333333333333332,
-      "lon": 11.666666666666666
+      "lon": 114.15
     }
   },
   {
@@ -608,14 +609,14 @@
     "location": "9ST",
     "name": "Sham Tseng",
     "nameWoDiacritics": "Sham Tseng",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.333333333333332,
-      "lon": 11.666666666666666
+      "lon": 114.05
     }
   },
   {
@@ -623,14 +624,14 @@
     "location": "SKK",
     "name": "Shek Kong",
     "nameWoDiacritics": "Shek Kong",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 22.433333333333334,
-      "lon": 11.666666666666666
+      "lon": 114.1
     }
   },
   {
@@ -638,14 +639,14 @@
     "location": "STT",
     "name": "Shek Tong Tsui",
     "nameWoDiacritics": "Shek Tong Tsui",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 22.283333333333335,
-      "lon": 11.666666666666666
+      "lon": 114.13333333333334
     }
   },
   {
@@ -653,14 +654,14 @@
     "location": "SGS",
     "name": "Sheung Shui",
     "nameWoDiacritics": "Sheung Shui",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 901,
     "coordinates": {
       "lat": 22.516666666666666,
-      "lon": 11.666666666666666
+      "lon": 114.11666666666666
     }
   },
   {
@@ -668,14 +669,14 @@
     "location": "SHW",
     "name": "Sheung Wan",
     "nameWoDiacritics": "Sheung Wan",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1101,
     "coordinates": {
       "lat": 22.283333333333335,
-      "lon": 11.666666666666666
+      "lon": 114.15
     }
   },
   {
@@ -683,14 +684,14 @@
     "location": "9TH",
     "name": "Tai Hang",
     "nameWoDiacritics": "Tai Hang",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.466666666666665,
-      "lon": 11.666666666666666
+      "lon": 114.15
     }
   },
   {
@@ -698,7 +699,7 @@
     "location": "TKT",
     "name": "Tai Kok Tsui",
     "nameWoDiacritics": "Tai Kok Tsui",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2,
@@ -707,7 +708,7 @@
     "date": 601,
     "coordinates": {
       "lat": 22.316666666666666,
-      "lon": 11.683333333333334
+      "lon": 114.16666666666667
     }
   },
   {
@@ -715,14 +716,14 @@
     "location": "TLS",
     "name": "Tai Lang Shui",
     "nameWoDiacritics": "Tai Lang Shui",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 22.4,
-      "lon": 11.583333333333334
+      "lon": 113.93333333333334
     }
   },
   {
@@ -730,14 +731,14 @@
     "location": "9TT",
     "name": "Tai Mong Tsai",
     "nameWoDiacritics": "Tai Mong Tsai",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.4,
-      "lon": 11.683333333333334
+      "lon": 114.3
     }
   },
   {
@@ -745,14 +746,14 @@
     "location": "TNO",
     "name": "Tai No",
     "nameWoDiacritics": "Tai No",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 212,
     "coordinates": {
       "lat": 22.366666666666667,
-      "lon": 11.683333333333334
+      "lon": 114.23333333333333
     }
   },
   {
@@ -760,14 +761,14 @@
     "location": "TPO",
     "name": "Tai Po",
     "nameWoDiacritics": "Tai Po",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 907,
     "coordinates": {
       "lat": 22.3,
-      "lon": 11.583333333333334
+      "lon": 113.95
     }
   },
   {
@@ -775,14 +776,14 @@
     "location": "8TT",
     "name": "Tai Tam",
     "nameWoDiacritics": "Tai Tam",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.216666666666665,
-      "lon": 11.683333333333334
+      "lon": 114.21666666666667
     }
   },
   {
@@ -790,14 +791,14 @@
     "location": "9TW",
     "name": "Tai Wai",
     "nameWoDiacritics": "Tai Wai",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.45,
-      "lon": 11.666666666666666
+      "lon": 114.03333333333333
     }
   },
   {
@@ -805,14 +806,14 @@
     "location": "TSW",
     "name": "Tin Shui Wai",
     "nameWoDiacritics": "Tin Shui Wai",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 22.466666666666665,
-      "lon": 11.666666666666666
+      "lon": 114
     }
   },
   {
@@ -820,14 +821,14 @@
     "location": "9TK",
     "name": "Ting Kau",
     "nameWoDiacritics": "Ting Kau",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.366666666666667,
-      "lon": 11.666666666666666
+      "lon": 114.08333333333333
     }
   },
   {
@@ -835,14 +836,14 @@
     "location": "TKW",
     "name": "To Kwa Wan",
     "nameWoDiacritics": "To Kwa Wan",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 22.316666666666666,
-      "lon": 11.683333333333334
+      "lon": 114.18333333333334
     }
   },
   {
@@ -850,7 +851,7 @@
     "location": "TOL",
     "name": "Tolo Harbour",
     "nameWoDiacritics": "Tolo Harbour",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -865,14 +866,14 @@
     "location": "TKO",
     "name": "Tseung Kwan O",
     "nameWoDiacritics": "Tseung Kwan O",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1301,
     "coordinates": {
       "lat": 22.333333333333332,
-      "lon": 11.683333333333334
+      "lon": 114.25
     }
   },
   {
@@ -880,7 +881,7 @@
     "location": "TST",
     "name": "Tsim Sha Tsui",
     "nameWoDiacritics": "Tsim Sha Tsui",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -888,7 +889,7 @@
     "date": 1207,
     "coordinates": {
       "lat": 22.3,
-      "lon": 11.683333333333334
+      "lon": 114.16666666666667
     }
   },
   {
@@ -896,14 +897,14 @@
     "location": "TSI",
     "name": "Tsing Yi",
     "nameWoDiacritics": "Tsing Yi",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
     "date": 1001,
     "coordinates": {
       "lat": 22.35,
-      "lon": 11.666666666666666
+      "lon": 114.1
     }
   },
   {
@@ -911,7 +912,7 @@
     "location": "ZTW",
     "name": "Tsuen Wan",
     "nameWoDiacritics": "Tsuen Wan",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -926,14 +927,14 @@
     "location": "MUN",
     "name": "Tuen Mun",
     "nameWoDiacritics": "Tuen Mun",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 607,
     "coordinates": {
       "lat": 22.4,
-      "lon": 11.583333333333334
+      "lon": 113.98333333333333
     }
   },
   {
@@ -941,7 +942,7 @@
     "location": "VIC",
     "name": "Victoria",
     "nameWoDiacritics": "Victoria",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -956,14 +957,14 @@
     "location": "9WF",
     "name": "Wah Fu",
     "nameWoDiacritics": "Wah Fu",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.25,
-      "lon": 11.666666666666666
+      "lon": 114.13333333333334
     }
   },
   {
@@ -971,7 +972,7 @@
     "location": "WNI",
     "name": "Wan Chai",
     "nameWoDiacritics": "Wan Chai",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -979,7 +980,7 @@
     "date": 1101,
     "coordinates": {
       "lat": 22.283333333333335,
-      "lon": 11.683333333333334
+      "lon": 114.16666666666667
     }
   },
   {
@@ -987,14 +988,14 @@
     "location": "WTS",
     "name": "Wan Tsai",
     "nameWoDiacritics": "Wan Tsai",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1807,
     "coordinates": {
       "lat": 22.166666666666668,
-      "lon": 11.683333333333334
+      "lon": 114.25
     }
   },
   {
@@ -1002,14 +1003,14 @@
     "location": "WON",
     "name": "Wong Chuk Hang",
     "nameWoDiacritics": "Wong Chuk Hang",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 22.383333333333333,
-      "lon": 11.7
+      "lon": 114.35
     }
   },
   {
@@ -1017,14 +1018,14 @@
     "location": "9WT",
     "name": "Wong Tai Sin",
     "nameWoDiacritics": "Wong Tai Sin",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.35,
-      "lon": 11.683333333333334
+      "lon": 114.18333333333334
     }
   },
   {
@@ -1032,7 +1033,7 @@
     "location": "9YM",
     "name": "Yau Ma Tei",
     "nameWoDiacritics": "Yau Ma Tei",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -1040,7 +1041,7 @@
     "date": 2101,
     "coordinates": {
       "lat": 22.316666666666666,
-      "lon": 11.683333333333334
+      "lon": 114.16666666666667
     }
   },
   {
@@ -1048,14 +1049,14 @@
     "location": "9YT",
     "name": "Yau Tong",
     "nameWoDiacritics": "Yau Tong",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 22.3,
-      "lon": 11.683333333333334
+      "lon": 114.23333333333333
     }
   },
   {
@@ -1063,7 +1064,7 @@
     "location": "YUE",
     "name": "Yuen Long",
     "nameWoDiacritics": "Yuen Long",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],

@@ -6,7 +6,7 @@
     "name": ".SENEGAL",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Bakel",
     "nameWoDiacritics": "Bakel",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -42,7 +42,7 @@
     "name": "Blaise Diagne International Airport",
     "nameWoDiacritics": "Blaise Diagne International Airport",
     "subdivision": "TH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -51,7 +51,7 @@
     "iata": "",
     "coordinates": {
       "lat": 14.633333333333333,
-      "lon": 2.166666666666667
+      "lon": -17.083333333333332
     },
     "remarks": ""
   },
@@ -62,7 +62,7 @@
     "name": "Cap Skiring",
     "nameWoDiacritics": "Cap Skiring",
     "subdivision": "ZG",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -70,7 +70,7 @@
     "iata": "",
     "coordinates": {
       "lat": 12.383333333333333,
-      "lon": 2.0666666666666664
+      "lon": -16.75
     },
     "remarks": ""
   },
@@ -81,7 +81,7 @@
     "name": "Dagana",
     "nameWoDiacritics": "Dagana",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -89,7 +89,7 @@
     "iata": "",
     "coordinates": {
       "lat": 16.5,
-      "lon": 1.8833333333333333
+      "lon": -15.5
     },
     "remarks": ""
   },
@@ -100,7 +100,7 @@
     "name": "Dakar",
     "nameWoDiacritics": "Dakar",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -121,7 +121,7 @@
     "name": "Diourbel",
     "nameWoDiacritics": "Diourbel",
     "subdivision": "DB",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -129,7 +129,7 @@
     "iata": "",
     "coordinates": {
       "lat": 14.65,
-      "lon": 2.033333333333333
+      "lon": -16.383333333333333
     },
     "remarks": ""
   },
@@ -140,7 +140,7 @@
     "name": "Foundiougne",
     "nameWoDiacritics": "Foundiougne",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -159,7 +159,7 @@
     "name": "Kahone",
     "nameWoDiacritics": "Kahone",
     "subdivision": "FK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -167,7 +167,7 @@
     "iata": "",
     "coordinates": {
       "lat": 14.15,
-      "lon": 2
+      "lon": -16.033333333333335
     },
     "remarks": ""
   },
@@ -178,7 +178,7 @@
     "name": "Kaolack",
     "nameWoDiacritics": "Kaolack",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -198,7 +198,7 @@
     "name": "Kayar",
     "nameWoDiacritics": "Kayar",
     "subdivision": "TH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -206,7 +206,7 @@
     "iata": "",
     "coordinates": {
       "lat": 14.916666666666666,
-      "lon": 2.166666666666667
+      "lon": -17.116666666666667
     },
     "remarks": ""
   },
@@ -217,7 +217,7 @@
     "name": "Kedougou",
     "nameWoDiacritics": "Kedougou",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -236,7 +236,7 @@
     "name": "Kidira",
     "nameWoDiacritics": "Kidira",
     "subdivision": "TC",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -244,7 +244,7 @@
     "iata": "",
     "coordinates": {
       "lat": 14.4,
-      "lon": 1.35
+      "lon": -12.25
     },
     "remarks": ""
   },
@@ -255,7 +255,7 @@
     "name": "Kolda",
     "nameWoDiacritics": "Kolda",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -274,7 +274,7 @@
     "name": "Louga",
     "nameWoDiacritics": "Louga",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -282,7 +282,7 @@
     "iata": "",
     "coordinates": {
       "lat": 15.6,
-      "lon": 2.0166666666666666
+      "lon": -16.233333333333334
     },
     "remarks": ""
   },
@@ -293,7 +293,7 @@
     "name": "Lyndiane",
     "nameWoDiacritics": "Lyndiane",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -312,7 +312,7 @@
     "name": "Madina Gounass",
     "nameWoDiacritics": "Madina Gounass",
     "subdivision": "KD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -320,7 +320,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.133333333333333,
-      "lon": 1.5666666666666667
+      "lon": -13.75
     },
     "remarks": ""
   },
@@ -331,7 +331,7 @@
     "name": "Matam",
     "nameWoDiacritics": "Matam",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -350,7 +350,7 @@
     "name": "M'bao Terminal",
     "nameWoDiacritics": "M'bao Terminal",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -369,7 +369,7 @@
     "name": "Mbour",
     "nameWoDiacritics": "Mbour",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -377,7 +377,7 @@
     "iata": "",
     "coordinates": {
       "lat": 14.416666666666666,
-      "lon": 2.083333333333333
+      "lon": -16.95
     },
     "remarks": ""
   },
@@ -388,7 +388,7 @@
     "name": "Niokolo Koba",
     "nameWoDiacritics": "Niokolo Koba",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -407,7 +407,7 @@
     "name": "Podor",
     "nameWoDiacritics": "Podor",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -426,7 +426,7 @@
     "name": "Richard Toll",
     "nameWoDiacritics": "Richard Toll",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -445,7 +445,7 @@
     "name": "Rufisque",
     "nameWoDiacritics": "Rufisque",
     "subdivision": "DK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -453,7 +453,7 @@
     "iata": "",
     "coordinates": {
       "lat": 14.7,
-      "lon": 2.1833333333333336
+      "lon": -17.266666666666666
     },
     "remarks": ""
   },
@@ -464,7 +464,7 @@
     "name": "Saint Louis",
     "nameWoDiacritics": "Saint Louis",
     "subdivision": "SL",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -473,7 +473,7 @@
     "iata": "",
     "coordinates": {
       "lat": 16.033333333333335,
-      "lon": 2.05
+      "lon": -16.5
     },
     "remarks": ""
   },
@@ -484,7 +484,7 @@
     "name": "Simenti",
     "nameWoDiacritics": "Simenti",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -503,7 +503,7 @@
     "name": "Sokone",
     "nameWoDiacritics": "Sokone",
     "subdivision": "FK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -511,7 +511,7 @@
     "iata": "",
     "coordinates": {
       "lat": 13.883333333333333,
-      "lon": 2.033333333333333
+      "lon": -16.366666666666667
     },
     "remarks": ""
   },
@@ -522,7 +522,7 @@
     "name": "Ta�ba Ndiaye",
     "nameWoDiacritics": "Taiba Ndiaye",
     "subdivision": "TH",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -530,7 +530,7 @@
     "iata": "",
     "coordinates": {
       "lat": 15.05,
-      "lon": 2.083333333333333
+      "lon": -16.883333333333333
     },
     "remarks": ""
   },
@@ -541,7 +541,7 @@
     "name": "Tambacounda",
     "nameWoDiacritics": "Tambacounda",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -560,7 +560,7 @@
     "name": "Thi�s",
     "nameWoDiacritics": "Thies",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -569,7 +569,7 @@
     "iata": "",
     "coordinates": {
       "lat": 14.8,
-      "lon": 2.083333333333333
+      "lon": -16.933333333333334
     },
     "remarks": ""
   },
@@ -580,7 +580,7 @@
     "name": "Touba",
     "nameWoDiacritics": "Touba",
     "subdivision": "DB",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -588,7 +588,7 @@
     "iata": "",
     "coordinates": {
       "lat": 14.85,
-      "lon": 1.9166666666666665
+      "lon": -15.883333333333333
     },
     "remarks": ""
   },
@@ -599,7 +599,7 @@
     "name": "Yof",
     "nameWoDiacritics": "Yof",
     "subdivision": "DK",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -607,7 +607,7 @@
     "iata": "",
     "coordinates": {
       "lat": 14.75,
-      "lon": 2.2
+      "lon": -17.466666666666665
     },
     "remarks": ""
   },
@@ -618,7 +618,7 @@
     "name": "Ziguinchor",
     "nameWoDiacritics": "Ziguinchor",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3

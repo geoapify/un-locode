@@ -2,6 +2,7 @@
   {
     "country": "DJ",
     "name": ".DJIBOUTI",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -14,14 +15,14 @@
     "name": "Ali Sabieh",
     "nameWoDiacritics": "Ali Sabieh",
     "subdivision": "AS",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 11.15,
-      "lon": 4.4
+      "lon": 42.7
     }
   },
   {
@@ -29,14 +30,14 @@
     "location": "CLA",
     "name": "Camp Lemonier",
     "nameWoDiacritics": "Camp Lemonier",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 901,
     "coordinates": {
       "lat": 11.533333333333333,
-      "lon": 4.5
+      "lon": 43.13333333333333
     }
   },
   {
@@ -44,7 +45,7 @@
     "location": "JIB",
     "name": "Djibouti",
     "nameWoDiacritics": "Djibouti",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -62,7 +63,7 @@
     "name": "Djibouti",
     "nameWoDiacritics": "Djibouti",
     "subdivision": "DJ",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -71,7 +72,7 @@
     "date": 1301,
     "coordinates": {
       "lat": 11.583333333333334,
-      "lon": 4.5
+      "lon": 43.13333333333333
     }
   },
   {
@@ -80,7 +81,7 @@
     "name": "Doraleh Container Terminal",
     "nameWoDiacritics": "Doraleh Container Terminal",
     "subdivision": "DJ",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -88,7 +89,7 @@
     "date": 901,
     "coordinates": {
       "lat": 11.6,
-      "lon": 4.65
+      "lon": 44.6
     }
   },
   {
@@ -96,7 +97,7 @@
     "location": "MHI",
     "name": "Musha",
     "nameWoDiacritics": "Musha",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -104,7 +105,7 @@
     "date": 907,
     "coordinates": {
       "lat": 11.333333333333334,
-      "lon": 4.5
+      "lon": 43.016666666666666
     }
   },
   {
@@ -112,14 +113,14 @@
     "location": "OBC",
     "name": "Obock",
     "nameWoDiacritics": "Obock",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 11.966666666666667,
-      "lon": 4.516666666666667
+      "lon": 43.25
     }
   },
   {
@@ -127,14 +128,14 @@
     "location": "TDJ",
     "name": "Tadjoura",
     "nameWoDiacritics": "Tadjoura",
-    "status": "RQ",
+    "status": 9,
     "function": [
       3
     ],
     "date": 901,
     "coordinates": {
       "lat": 11.766666666666667,
-      "lon": 4.416666666666667
+      "lon": 42.9
     }
   }
 ]

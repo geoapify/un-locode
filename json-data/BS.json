@@ -2,6 +2,7 @@
   {
     "country": "BS",
     "name": ".BAHAMAS",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "ASD",
     "name": "Andros Town, Andros Island",
     "nameWoDiacritics": "Andros Town, Andros Island",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -30,7 +31,7 @@
     "name": "Arthur's Town, Cat Island",
     "nameWoDiacritics": "Arthur's Town, Cat Island",
     "subdivision": "CI",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -38,7 +39,7 @@
     "date": 507,
     "coordinates": {
       "lat": 24.633333333333333,
-      "lon": 7.9
+      "lon": -75.7
     }
   },
   {
@@ -46,7 +47,7 @@
     "location": "BIM",
     "name": "Bimini",
     "nameWoDiacritics": "Bimini",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -62,14 +63,14 @@
     "name": "Bock Cay",
     "nameWoDiacritics": "Bock Cay",
     "subdivision": "EX",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 701,
     "coordinates": {
       "lat": 23.816666666666666,
-      "lon": 8.016666666666666
+      "lon": -76.16666666666667
     }
   },
   {
@@ -78,7 +79,7 @@
     "name": "Cape Eleuthera",
     "nameWoDiacritics": "Cape Eleuthera",
     "subdivision": "SE",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -86,7 +87,7 @@
     "date": 1307,
     "coordinates": {
       "lat": 24.816666666666666,
-      "lon": 8.033333333333333
+      "lon": -76.35
     }
   },
   {
@@ -94,7 +95,7 @@
     "location": "CXY",
     "name": "Cat Cays",
     "nameWoDiacritics": "Cat Cays",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -109,7 +110,7 @@
     "location": "CAT",
     "name": "Cat Island",
     "nameWoDiacritics": "Cat Island",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -124,7 +125,7 @@
     "location": "CCZ",
     "name": "Chub Cay, Berry Islands",
     "nameWoDiacritics": "Chub Cay, Berry Islands",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -140,7 +141,7 @@
     "location": "CLP",
     "name": "Clifton Point",
     "nameWoDiacritics": "Clifton Point",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -156,14 +157,14 @@
     "name": "Cockburn Town",
     "nameWoDiacritics": "Cockburn Town",
     "subdivision": "SS",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 1307,
     "coordinates": {
       "lat": 24.033333333333335,
-      "lon": 7.716666666666667
+      "lon": -74.51666666666667
     }
   },
   {
@@ -172,7 +173,7 @@
     "name": "Congo Town",
     "nameWoDiacritics": "Congo Town",
     "subdivision": "SA",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -180,7 +181,7 @@
     "date": 1307,
     "coordinates": {
       "lat": 24.15,
-      "lon": 8.216666666666667
+      "lon": -77.53333333333333
     }
   },
   {
@@ -188,7 +189,7 @@
     "location": "CRI",
     "name": "Crooked Island",
     "nameWoDiacritics": "Crooked Island",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -205,14 +206,14 @@
     "name": "Deadmans Cay",
     "nameWoDiacritics": "Deadmans Cay",
     "subdivision": "LI",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 212,
     "coordinates": {
       "lat": 23.166666666666668,
-      "lon": 7.833333333333333
+      "lon": -75.08333333333333
     },
     "remarks": "Long Island"
   },
@@ -221,7 +222,7 @@
     "location": "DCT",
     "name": "Duncan Town",
     "nameWoDiacritics": "Duncan Town",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -236,7 +237,7 @@
     "location": "ELE",
     "name": "Eleuthera Island",
     "nameWoDiacritics": "Eleuthera Island",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -251,7 +252,7 @@
     "location": "FPO",
     "name": "Freeport, Grand Bahama",
     "nameWoDiacritics": "Freeport, Grand Bahama",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -267,7 +268,7 @@
     "location": "GGT",
     "name": "George Town, Great Exuma Island",
     "nameWoDiacritics": "George Town, Great Exuma Island",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -283,14 +284,14 @@
     "location": "GOC",
     "name": "Gorda Cay",
     "nameWoDiacritics": "Gorda Cay",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 507,
     "coordinates": {
       "lat": 26.083333333333332,
-      "lon": 8.216666666666667
+      "lon": -77.53333333333333
     }
   },
   {
@@ -298,7 +299,7 @@
     "location": "GHB",
     "name": "Governors Harbour, Eleuthera",
     "nameWoDiacritics": "Governors Harbour, Eleuthera",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -314,7 +315,7 @@
     "location": "GBI",
     "name": "Grand Bahama",
     "nameWoDiacritics": "Grand Bahama",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -330,14 +331,14 @@
     "name": "Great Exuma Island",
     "nameWoDiacritics": "Great Exuma Island",
     "subdivision": "EX",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 212,
     "coordinates": {
       "lat": 23.533333333333335,
-      "lon": 7.916666666666667
+      "lon": -75.83333333333333
     }
   },
   {
@@ -346,7 +347,7 @@
     "name": "Great Harbour Cay",
     "nameWoDiacritics": "Great Harbour Cay",
     "subdivision": "BY",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -354,7 +355,7 @@
     "date": 1307,
     "coordinates": {
       "lat": 25.75,
-      "lon": 8.25
+      "lon": -77.83333333333333
     }
   },
   {
@@ -363,14 +364,14 @@
     "name": "Great Stirrup Cay",
     "nameWoDiacritics": "Great Stirrup Cay",
     "subdivision": "BY",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 1307,
     "coordinates": {
       "lat": 25.833333333333332,
-      "lon": 8.25
+      "lon": -77.9
     }
   },
   {
@@ -379,7 +380,7 @@
     "name": "Green Turtle Cay",
     "nameWoDiacritics": "Green Turtle Cay",
     "subdivision": "HT",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -387,7 +388,7 @@
     "date": 1307,
     "coordinates": {
       "lat": 26.75,
-      "lon": 8.2
+      "lon": -77.33333333333333
     }
   },
   {
@@ -396,7 +397,7 @@
     "name": "Harbour Island",
     "nameWoDiacritics": "Harbour Island",
     "subdivision": "HI",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -404,7 +405,7 @@
     "date": 212,
     "coordinates": {
       "lat": 25.5,
-      "lon": 8.05
+      "lon": -76.63333333333334
     }
   },
   {
@@ -412,7 +413,7 @@
     "location": "IGA",
     "name": "Inagua",
     "nameWoDiacritics": "Inagua",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -428,14 +429,14 @@
     "location": "HMC",
     "name": "Little San Salvador",
     "nameWoDiacritics": "Little San Salvador",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 607,
     "coordinates": {
       "lat": 24.583333333333332,
-      "lon": 7.916666666666667
+      "lon": -75.91666666666667
     }
   },
   {
@@ -444,14 +445,14 @@
     "name": "Little Stirrup Cay",
     "nameWoDiacritics": "Little Stirrup Cay",
     "subdivision": "BY",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 1307,
     "coordinates": {
       "lat": 25.816666666666666,
-      "lon": 8.25
+      "lon": -77.93333333333334
     }
   },
   {
@@ -460,14 +461,14 @@
     "name": "Lucaya",
     "nameWoDiacritics": "Lucaya",
     "subdivision": "FP",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 26.516666666666666,
-      "lon": 8.383333333333333
+      "lon": -78.63333333333334
     }
   },
   {
@@ -475,14 +476,14 @@
     "location": "LYC",
     "name": "Lyford Cay",
     "nameWoDiacritics": "Lyford Cay",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 25.033333333333335,
-      "lon": 8.216666666666667
+      "lon": -77.56666666666666
     }
   },
   {
@@ -490,7 +491,7 @@
     "location": "MAY",
     "name": "Mangrove Cay Apt",
     "nameWoDiacritics": "Mangrove Cay Apt",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -498,7 +499,7 @@
     "date": 901,
     "coordinates": {
       "lat": 24.283333333333335,
-      "lon": 8.233333333333334
+      "lon": -77.66666666666667
     }
   },
   {
@@ -507,7 +508,7 @@
     "name": "Marsh Harbour",
     "nameWoDiacritics": "Marsh Harbour",
     "subdivision": "CO",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -515,7 +516,7 @@
     "date": 1307,
     "coordinates": {
       "lat": 26.533333333333335,
-      "lon": 8.083333333333334
+      "lon": -76.96666666666667
     }
   },
   {
@@ -523,7 +524,7 @@
     "location": "MSK",
     "name": "Mastic Point Apt",
     "nameWoDiacritics": "Mastic Point Apt",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -531,7 +532,7 @@
     "date": 901,
     "coordinates": {
       "lat": 25.016666666666666,
-      "lon": 8.333333333333334
+      "lon": -78
     }
   },
   {
@@ -539,7 +540,7 @@
     "location": "MAT",
     "name": "Matthew Town",
     "nameWoDiacritics": "Matthew Town",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -554,7 +555,7 @@
     "location": "MYG",
     "name": "Mayaguana Island",
     "nameWoDiacritics": "Mayaguana Island",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -570,7 +571,7 @@
     "location": "NAS",
     "name": "Nassau",
     "nameWoDiacritics": "Nassau",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -579,7 +580,7 @@
     "date": 1307,
     "coordinates": {
       "lat": 25.083333333333332,
-      "lon": 8.2
+      "lon": -77.35
     }
   },
   {
@@ -588,7 +589,7 @@
     "name": "New Bight",
     "nameWoDiacritics": "New Bight",
     "subdivision": "CI",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -596,7 +597,7 @@
     "date": 307,
     "coordinates": {
       "lat": 24.3,
-      "lon": 7.866666666666667
+      "lon": -75.41666666666667
     }
   },
   {
@@ -604,7 +605,7 @@
     "location": "NMC",
     "name": "Norman's Cay",
     "nameWoDiacritics": "Norman's Cay",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -619,7 +620,7 @@
     "location": "ELH",
     "name": "North Eleuthera",
     "nameWoDiacritics": "North Eleuthera",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -634,7 +635,7 @@
     "location": "OCE",
     "name": "Ocean Cay",
     "nameWoDiacritics": "Ocean Cay",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -649,7 +650,7 @@
     "location": "PID",
     "name": "Paradise Island",
     "nameWoDiacritics": "Paradise Island",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -664,7 +665,7 @@
     "location": "PWN",
     "name": "Pitts Town",
     "nameWoDiacritics": "Pitts Town",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -679,7 +680,7 @@
     "location": "PPO",
     "name": "Powell Point",
     "nameWoDiacritics": "Powell Point",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -695,7 +696,7 @@
     "name": "Rock Sound",
     "nameWoDiacritics": "Rock Sound",
     "subdivision": "SE",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -703,7 +704,7 @@
     "date": 1307,
     "coordinates": {
       "lat": 24.9,
-      "lon": 8.016666666666666
+      "lon": -76.2
     }
   },
   {
@@ -711,7 +712,7 @@
     "location": "RCY",
     "name": "Rum Cay",
     "nameWoDiacritics": "Rum Cay",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -727,7 +728,7 @@
     "name": "San Andros",
     "nameWoDiacritics": "San Andros",
     "subdivision": "NS",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -735,7 +736,7 @@
     "date": 1307,
     "coordinates": {
       "lat": 25.066666666666666,
-      "lon": 8.333333333333334
+      "lon": -78.05
     }
   },
   {
@@ -743,7 +744,7 @@
     "location": "ZSA",
     "name": "San Salvador Island",
     "nameWoDiacritics": "San Salvador Island",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -759,7 +760,7 @@
     "location": "WZY",
     "name": "Seaplane Base",
     "nameWoDiacritics": "Seaplane Base",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -774,7 +775,7 @@
     "location": "TZN",
     "name": "South Andros",
     "nameWoDiacritics": "South Andros",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -789,7 +790,7 @@
     "location": "SRP",
     "name": "South Riding Point",
     "nameWoDiacritics": "South Riding Point",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -805,14 +806,14 @@
     "name": "Spanish Wells",
     "nameWoDiacritics": "Spanish Wells",
     "subdivision": "HI",
-    "status": "RL",
+    "status": 7,
     "function": [
       3
     ],
     "date": 212,
     "coordinates": {
       "lat": 25.55,
-      "lon": 8.066666666666666
+      "lon": -76.75
     }
   },
   {
@@ -820,7 +821,7 @@
     "location": "AXP",
     "name": "Spring Point",
     "nameWoDiacritics": "Spring Point",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -835,7 +836,7 @@
     "location": "TYM",
     "name": "Staniel Cay",
     "nameWoDiacritics": "Staniel Cay",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -851,7 +852,7 @@
     "name": "Stella Maris",
     "nameWoDiacritics": "Stella Maris",
     "subdivision": "LI",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -859,7 +860,7 @@
     "date": 212,
     "coordinates": {
       "lat": 23.6,
-      "lon": 7.85
+      "lon": -75.3
     }
   },
   {
@@ -868,7 +869,7 @@
     "name": "The Bight",
     "nameWoDiacritics": "The Bight",
     "subdivision": "CI",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -876,7 +877,7 @@
     "date": 212,
     "coordinates": {
       "lat": 24.316666666666666,
-      "lon": 7.866666666666667
+      "lon": -75.4
     }
   },
   {
@@ -884,7 +885,7 @@
     "location": "TCB",
     "name": "Treasure Cay, Great Abaco Island",
     "nameWoDiacritics": "Treasure Cay, Great Abaco Island",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -900,7 +901,7 @@
     "location": "WKR",
     "name": "Walker's Cay",
     "nameWoDiacritics": "Walker's Cay",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -917,7 +918,7 @@
     "name": "West End",
     "nameWoDiacritics": "West End",
     "subdivision": "FP",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -925,7 +926,7 @@
     "date": 212,
     "coordinates": {
       "lat": 26.683333333333334,
-      "lon": 8.416666666666666
+      "lon": -78.96666666666667
     }
   }
 ]

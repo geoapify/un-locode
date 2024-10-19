@@ -2,6 +2,7 @@
   {
     "country": "FO",
     "name": ".FAROE ISLANDS",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,14 +14,14 @@
     "location": "EDI",
     "name": "Eidi",
     "nameWoDiacritics": "Eidi",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 62.3,
-      "lon": 1.1666666666666667
+      "lon": -7.083333333333333
     }
   },
   {
@@ -28,7 +29,7 @@
     "location": "FAE",
     "name": "FÊr¯¯ Islands-Vagar Apt",
     "nameWoDiacritics": "Faroo Islands-Vagar Apt",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -43,7 +44,7 @@
     "location": "FUG",
     "name": "Fuglafj¯rdur",
     "nameWoDiacritics": "Fuglafjordur",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -58,6 +59,7 @@
     "country": "FO",
     "name": "Fuglefjord = Fuglafirdi",
     "nameWoDiacritics": "Fuglefjord = Fuglafirdi",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -69,7 +71,7 @@
     "location": "GLY",
     "name": "Glyvrar",
     "nameWoDiacritics": "Glyvrar",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -77,7 +79,7 @@
     "date": 1601,
     "coordinates": {
       "lat": 62.13333333333333,
-      "lon": 1.0666666666666667
+      "lon": -6.716666666666667
     }
   },
   {
@@ -85,7 +87,7 @@
     "location": "HYV",
     "name": "Hoyvik",
     "nameWoDiacritics": "Hoyvik",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -93,7 +95,7 @@
     "date": 907,
     "coordinates": {
       "lat": 62.03333333333333,
-      "lon": 1.0666666666666667
+      "lon": -6.75
     }
   },
   {
@@ -101,7 +103,7 @@
     "location": "HUS",
     "name": "Husevig",
     "nameWoDiacritics": "Husevig",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -116,7 +118,7 @@
     "location": "KVI",
     "name": "Klaksvik",
     "nameWoDiacritics": "Klaksvik",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
@@ -131,7 +133,7 @@
     "location": "KOL",
     "name": "Kollafjˆrdur",
     "nameWoDiacritics": "Kollafjordur",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -139,7 +141,7 @@
     "date": 501,
     "coordinates": {
       "lat": 62.11666666666667,
-      "lon": 1.0833333333333333
+      "lon": -6.883333333333333
     }
   },
   {
@@ -147,7 +149,7 @@
     "location": "LOP",
     "name": "Lopra",
     "nameWoDiacritics": "Lopra",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -162,7 +164,7 @@
     "location": "NLS",
     "name": "NÛlsoy",
     "nameWoDiacritics": "Nolsoy",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -170,7 +172,7 @@
     "date": 1001,
     "coordinates": {
       "lat": 62.016666666666666,
-      "lon": 1.0666666666666667
+      "lon": -6.666666666666667
     }
   },
   {
@@ -178,14 +180,14 @@
     "location": "NSK",
     "name": "Norˇsk·li",
     "nameWoDiacritics": "Noryskali",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 401,
     "coordinates": {
       "lat": 62.21666666666667,
-      "lon": 1.1666666666666667
+      "lon": -7
     }
   },
   {
@@ -193,7 +195,7 @@
     "location": "RVK",
     "name": "RunavÌk",
     "nameWoDiacritics": "Runavik",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -201,7 +203,7 @@
     "date": 701,
     "coordinates": {
       "lat": 62.11666666666667,
-      "lon": 1.0666666666666667
+      "lon": -6.716666666666667
     }
   },
   {
@@ -209,14 +211,14 @@
     "location": "SJO",
     "name": "Sjovar havn",
     "nameWoDiacritics": "Sjovar havn",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 907,
     "coordinates": {
       "lat": 62.1,
-      "lon": 1.0666666666666667
+      "lon": -6.75
     }
   },
   {
@@ -224,7 +226,7 @@
     "location": "SKA",
     "name": "Sk·li",
     "nameWoDiacritics": "Skali",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -232,7 +234,7 @@
     "date": 901,
     "coordinates": {
       "lat": 62.15,
-      "lon": 1.0666666666666667
+      "lon": -6.766666666666667
     }
   },
   {
@@ -240,7 +242,7 @@
     "location": "SMJ",
     "name": "Solmundefjord",
     "nameWoDiacritics": "Solmundefjord",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -255,14 +257,14 @@
     "location": "SRV",
     "name": "Sorv·gur",
     "nameWoDiacritics": "Sorvagur",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 212,
     "coordinates": {
       "lat": 62.06666666666667,
-      "lon": 1.1833333333333333
+      "lon": -7.3
     }
   },
   {
@@ -270,14 +272,14 @@
     "location": "STR",
     "name": "Strendur",
     "nameWoDiacritics": "Strendur",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 62.11666666666667,
-      "lon": 1.0666666666666667
+      "lon": -6.75
     }
   },
   {
@@ -285,7 +287,7 @@
     "location": "SYN",
     "name": "Streymnes",
     "nameWoDiacritics": "Streymnes",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -293,7 +295,7 @@
     "date": 901,
     "coordinates": {
       "lat": 62.2,
-      "lon": 1.1666666666666667
+      "lon": -7.016666666666667
     }
   },
   {
@@ -301,14 +303,14 @@
     "location": "THO",
     "name": "Thorshavn",
     "nameWoDiacritics": "Thorshavn",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 201,
     "coordinates": {
       "lat": 62.016666666666666,
-      "lon": 1.0666666666666667
+      "lon": -6.766666666666667
     }
   },
   {
@@ -316,14 +318,14 @@
     "location": "TOF",
     "name": "Toftir",
     "nameWoDiacritics": "Toftir",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 62.1,
-      "lon": 1.0666666666666667
+      "lon": -6.733333333333333
     }
   },
   {
@@ -331,7 +333,7 @@
     "location": "TOR",
     "name": "TÛrshavn",
     "nameWoDiacritics": "Torshavn",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -339,7 +341,7 @@
     "date": 1601,
     "coordinates": {
       "lat": 62.166666666666664,
-      "lon": 6.766666666666667
+      "lon": -65
     }
   },
   {
@@ -347,14 +349,14 @@
     "location": "TVO",
     "name": "Tvoroyri",
     "nameWoDiacritics": "Tvoroyri",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 212,
     "coordinates": {
       "lat": 61.55,
-      "lon": 1.0666666666666667
+      "lon": -6.8
     }
   },
   {
@@ -362,7 +364,7 @@
     "location": "VID",
     "name": "Vadair",
     "nameWoDiacritics": "Vadair",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -377,7 +379,7 @@
     "location": "VAG",
     "name": "V·gur",
     "nameWoDiacritics": "Vagur",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -385,7 +387,7 @@
     "date": 207,
     "coordinates": {
       "lat": 61.46666666666667,
-      "lon": 1.0666666666666667
+      "lon": -6.816666666666666
     }
   },
   {
@@ -393,14 +395,14 @@
     "location": "VAZ",
     "name": "V·gur",
     "nameWoDiacritics": "Vagur",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 201,
     "coordinates": {
       "lat": 62.21666666666667,
-      "lon": 1.05
+      "lon": -6.583333333333333
     }
   },
   {
@@ -408,14 +410,14 @@
     "location": "VBR",
     "name": "Velbastadur",
     "nameWoDiacritics": "Velbastadur",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1601,
     "coordinates": {
       "lat": 61.983333333333334,
-      "lon": 1.0833333333333333
+      "lon": -6.85
     }
   },
   {
@@ -423,7 +425,7 @@
     "location": "VES",
     "name": "Vestmanhavn",
     "nameWoDiacritics": "Vestmanhavn",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],

@@ -6,7 +6,7 @@
     "name": ".TOKELAU",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Atafu",
     "nameWoDiacritics": "Atafu",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -31,7 +31,7 @@
     "iata": "",
     "coordinates": {
       "lat": -8.533333333333333,
-      "lon": 17.383333333333333
+      "lon": -172.51666666666668
     },
     "remarks": ""
   },
@@ -42,7 +42,7 @@
     "name": "Fakaofo",
     "nameWoDiacritics": "Fakaofo",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -50,7 +50,7 @@
     "iata": "",
     "coordinates": {
       "lat": -9.366666666666667,
-      "lon": 17.183333333333334
+      "lon": -171.25
     },
     "remarks": ""
   },
@@ -61,7 +61,7 @@
     "name": "Nukunonu",
     "nameWoDiacritics": "Nukunonu",
     "subdivision": "",
-    "status": "AF",
+    "status": 2,
     "function": [
       0
     ],
@@ -69,7 +69,7 @@
     "iata": "",
     "coordinates": {
       "lat": -9.166666666666666,
-      "lon": 17.25
+      "lon": -171.85
     },
     "remarks": ""
   }

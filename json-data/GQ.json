@@ -2,6 +2,7 @@
   {
     "country": "GQ",
     "name": ".EQUATORIAL GUINEA",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,14 +14,14 @@
     "location": "ATE",
     "name": "Aseng FPSO",
     "nameWoDiacritics": "Aseng FPSO",
-    "status": "RL",
+    "status": 7,
     "function": [
       6
     ],
     "date": 1107,
     "coordinates": {
       "lat": 3.3666666666666667,
-      "lon": 1.5
+      "lon": 9.133333333333333
     }
   },
   {
@@ -28,7 +29,7 @@
     "location": "BSG",
     "name": "Bata",
     "nameWoDiacritics": "Bata",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       3,
@@ -45,7 +46,7 @@
     "location": "BUL",
     "name": "Butuku-Luba",
     "nameWoDiacritics": "Butuku-Luba",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -60,7 +61,7 @@
     "location": "COG",
     "name": "Cogo",
     "nameWoDiacritics": "Cogo",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -76,7 +77,7 @@
     "name": "EbebiyÌn",
     "nameWoDiacritics": "Ebebiyin",
     "subdivision": "KN",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -84,7 +85,7 @@
     "date": 1601,
     "coordinates": {
       "lat": 2.15,
-      "lon": 1.1833333333333333
+      "lon": 11.316666666666666
     }
   },
   {
@@ -93,7 +94,7 @@
     "name": "Luba",
     "nameWoDiacritics": "Luba",
     "subdivision": "BS",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -109,7 +110,7 @@
     "name": "Malabo",
     "nameWoDiacritics": "Malabo",
     "subdivision": "BN",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -126,7 +127,7 @@
     "name": "Mongomeyen",
     "nameWoDiacritics": "Mongomeyen",
     "subdivision": "WN",
-    "status": "AI",
+    "status": 3,
     "function": [
       2,
       3
@@ -134,7 +135,7 @@
     "date": 1501,
     "coordinates": {
       "lat": 1.7,
-      "lon": 1.1666666666666667
+      "lon": 11.016666666666667
     }
   },
   {
@@ -143,14 +144,14 @@
     "name": "Mongomo",
     "nameWoDiacritics": "Mongomo",
     "subdivision": "WN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 1.6166666666666667,
-      "lon": 1.1833333333333333
+      "lon": 11.3
     }
   },
   {
@@ -158,14 +159,14 @@
     "location": "PET",
     "name": "Punta Europa Terminal",
     "nameWoDiacritics": "Punta Europa Terminal",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1107,
     "coordinates": {
       "lat": 3.783333333333333,
-      "lon": 1.4
+      "lon": 8.716666666666667
     }
   },
   {
@@ -173,7 +174,7 @@
     "location": "RMN",
     "name": "Rio Muni",
     "nameWoDiacritics": "Rio Muni",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -189,14 +190,14 @@
     "name": "San Antonio de PalÈ",
     "nameWoDiacritics": "San Antonio de Pale",
     "subdivision": "AN",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": -1.4,
-      "lon": 0.8833333333333333
+      "lon": 5.6
     }
   },
   {
@@ -204,7 +205,7 @@
     "location": "SIS",
     "name": "Santa Isabel",
     "nameWoDiacritics": "Santa Isabel",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -220,14 +221,14 @@
     "name": "Serpentina Terminal",
     "nameWoDiacritics": "Serpentina Terminal",
     "subdivision": "AN",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 3.8,
-      "lon": 1.3333333333333333
+      "lon": 8.083333333333334
     }
   },
   {
@@ -236,14 +237,14 @@
     "name": "Zafiro Terminal",
     "nameWoDiacritics": "Zafiro Terminal",
     "subdivision": "AN",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 3.85,
-      "lon": 1.35
+      "lon": 8.166666666666666
     }
   }
 ]

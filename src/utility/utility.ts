@@ -1,4 +1,4 @@
-import { FunctionCode, UnlocodeJsonItem } from "../models/unlocode.interface";
+import { FunctionCode, Status, UnlocodeJsonItem } from "../models/unlocode.interface";
 
 const fs = require('fs');
 const path = require('path');
@@ -10,7 +10,7 @@ export class Utility {
    static outputDirectory = 'json-data';
    static formatCSV = ".csv";
    static formatXLS = ".xls";
-   static acceptedFormats = [Utility.formatXLS, Utility.formatCSV];
+   static acceptedFormats = [Utility.formatCSV, Utility.formatXLS];
 
    static async generateFiles() {
       let loadedFiles = this.loadFiles();
@@ -111,7 +111,7 @@ export class Utility {
       });
    }
 
-   static convertCSVLineToJSON(line: string) {
+   static convertCSVLineToJSON(line: string): UnlocodeJsonItem {
       let lineParsed = line.split(",");
       let coordinates = this.getCoordinates(lineParsed[10]);
       return {
@@ -121,7 +121,7 @@ export class Utility {
          name: lineParsed[3],
          nameWoDiacritics: lineParsed[4],
          subdivision: lineParsed[5],
-         status: lineParsed[6],
+         status: this.convertStatusToEnum(lineParsed[6]),
          function: this.convertToFunctionArray(lineParsed[7]),
          date: lineParsed[8],
          iata:lineParsed[9],
@@ -133,7 +133,7 @@ export class Utility {
       };
    }
 
-   static convertXLSLineToJSON(line: any) {
+   static convertXLSLineToJSON(line: any): UnlocodeJsonItem {
       let coordinates = this.getCoordinates(line["Coordinates"]);
       return {
          change: line["Change"],
@@ -142,7 +142,7 @@ export class Utility {
          name: line["Name"],
          nameWoDiacritics: line["NameWoDiacritics"],
          subdivision: line["Subdivision"],
-         status: line["Status"],
+         status: this.convertStatusToEnum(line["Status"]),
          function: this.convertToFunctionArray(line["Function"]),
          date: line["Date"],
          iata: line["IATA"],
@@ -200,9 +200,9 @@ export class Utility {
       const latHemisphere = coordinate[4];  // 'S' or 'N'
 
       // Parse the longitude (E or W)
-      const lonDegrees = parseInt(coordinate.slice(6, 8), 10);
-      const lonMinutes = parseInt(coordinate.slice(8, 10), 10);
-      const lonHemisphere = coordinate[10];  // 'E' or 'W'
+      const lonDegrees = parseInt(coordinate.slice(5, 9), 10);  // Adjusted to capture three digits for longitude degrees
+      const lonMinutes = parseInt(coordinate.slice(9, 11), 10);
+      const lonHemisphere = coordinate[11];  // 'E' or 'W'
 
       // Convert latitude to decimal
       let latitude = latDegrees + latMinutes / 60;
@@ -218,6 +218,7 @@ export class Utility {
 
       return { latitude, longitude };
    }
+
 
    static convertToFunctionArray(functionCode: string): FunctionCode[] {
       if(!functionCode) {
@@ -244,6 +245,44 @@ export class Utility {
       }
 
       return result;
+   }
+
+   static convertStatusToEnum(status: string): Status {
+      if(!status) {
+         return null;
+      }
+      switch (status.toUpperCase()) {
+         case 'AA':
+            return Status.APPROVED_BY_COMPETENT_NATIONAL_GOVERNMENT_AGENCY;
+         case 'AC':
+            return Status.APPROVED_BY_CUSTOMS_AUTHORITY;
+         case 'AF':
+            return Status.APPROVED_BY_NATIONAL_FACILITATION_BODY;
+         case 'AI':
+            return Status.CODE_ADOPTED_BY_INTERNATIONAL_ORGANISATION;
+         case 'AM':
+            return Status.APPROVED_BY_UN_LOCODE_MAINTENANCE_AGENCY;
+         case 'AQ':
+            return Status.ENTRY_APPROVED_FUNCTIONS_NOT_VERIFIED;
+         case 'AS':
+            return Status.APPROVED_BY_NATIONAL_STANDARDISATION_BODY;
+         case 'RL':
+            return Status.RECOGNISED_LOCATION;
+         case 'RN':
+            return Status.REQUEST_FROM_CREDIBLE_NATIONAL_SOURCES;
+         case 'RQ':
+            return Status.REQUEST_UNDER_CONSIDERATION;
+         case 'UR':
+            return Status.ENTRY_INCLUDED_ON_USER_REQUEST;
+         case 'RR':
+            return Status.REQUEST_REJECTED;
+         case 'QQ':
+            return Status.ORIGINAL_ENTRY_NOT_VERIFIED;
+         case 'XX':
+            return Status.ENTRY_TO_BE_REMOVED_NEXT_ISSUE;
+         default:
+            return null;
+      }
    }
 }
 

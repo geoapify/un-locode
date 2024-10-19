@@ -6,7 +6,7 @@
     "name": ".TURKS AND CAICOS ISLANDS (THE)",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Cockburn Harbour",
     "nameWoDiacritics": "Cockburn Harbour",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -32,7 +32,7 @@
     "iata": "",
     "coordinates": {
       "lat": 21.483333333333334,
-      "lon": 7.216666666666667
+      "lon": -71.53333333333333
     },
     "remarks": ""
   },
@@ -43,7 +43,7 @@
     "name": "Grand Turk Island",
     "nameWoDiacritics": "Grand Turk Island",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -64,7 +64,7 @@
     "name": "Middle Caicos",
     "nameWoDiacritics": "Middle Caicos",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -83,7 +83,7 @@
     "name": "North Caicos",
     "nameWoDiacritics": "North Caicos",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -103,7 +103,7 @@
     "name": "Pine Cay",
     "nameWoDiacritics": "Pine Cay",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -122,7 +122,7 @@
     "name": "Providenciales",
     "nameWoDiacritics": "Providenciales",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       3
@@ -142,7 +142,7 @@
     "name": "Salt Cay",
     "nameWoDiacritics": "Salt Cay",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -162,7 +162,7 @@
     "name": "South Caicos",
     "nameWoDiacritics": "South Caicos",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3

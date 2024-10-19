@@ -2,6 +2,7 @@
   {
     "country": "GU",
     "name": ".GUAM",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "AGA",
     "name": "Agana",
     "nameWoDiacritics": "Agana",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -28,7 +29,7 @@
     "location": "APR",
     "name": "Apra (Agana)",
     "nameWoDiacritics": "Apra (Agana)",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -43,7 +44,7 @@
     "location": "BRR",
     "name": "Barrigada",
     "nameWoDiacritics": "Barrigada",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       5
@@ -51,7 +52,7 @@
     "date": 1107,
     "coordinates": {
       "lat": 13.466666666666667,
-      "lon": 14.733333333333333
+      "lon": 144.78333333333333
     }
   },
   {
@@ -59,7 +60,7 @@
     "location": "DED",
     "name": "Dededo",
     "nameWoDiacritics": "Dededo",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -74,7 +75,7 @@
     "location": "GUM",
     "name": "Guam",
     "nameWoDiacritics": "Guam",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -91,14 +92,14 @@
     "location": "HGT",
     "name": "Hagatna",
     "nameWoDiacritics": "Hagatna",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 13.466666666666667,
-      "lon": 14.733333333333333
+      "lon": 144.73333333333332
     }
   },
   {
@@ -106,14 +107,14 @@
     "location": "INA",
     "name": "Inarajan",
     "nameWoDiacritics": "Inarajan",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1207,
     "coordinates": {
       "lat": 13.266666666666667,
-      "lon": 14.733333333333333
+      "lon": 144.73333333333332
     }
   },
   {
@@ -121,14 +122,14 @@
     "location": "GUA",
     "name": "Mongmong-Toto-Maite",
     "nameWoDiacritics": "Mongmong-Toto-Maite",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 13.466666666666667,
-      "lon": 14.733333333333333
+      "lon": 144.76666666666668
     }
   },
   {
@@ -136,14 +137,14 @@
     "location": "PIT",
     "name": "Piti",
     "nameWoDiacritics": "Piti",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1707,
     "coordinates": {
       "lat": 13.433333333333334,
-      "lon": 14.733333333333333
+      "lon": 144.68333333333334
     }
   },
   {
@@ -151,14 +152,14 @@
     "location": "SAN",
     "name": "Santa Rita",
     "nameWoDiacritics": "Santa Rita",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 901,
     "coordinates": {
       "lat": 13.383333333333333,
-      "lon": 14.733333333333333
+      "lon": -144.66666666666666
     }
   },
   {
@@ -166,14 +167,14 @@
     "location": "SJA",
     "name": "Sinajana",
     "nameWoDiacritics": "Sinajana",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1407,
     "coordinates": {
       "lat": 13.45,
-      "lon": 14.733333333333333
+      "lon": 144.75
     }
   },
   {
@@ -181,14 +182,14 @@
     "location": "TMG",
     "name": "Tamuning",
     "nameWoDiacritics": "Tamuning",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 13.483333333333333,
-      "lon": 14.733333333333333
+      "lon": 144.76666666666668
     }
   },
   {
@@ -196,14 +197,14 @@
     "location": "TMN",
     "name": "Tumon",
     "nameWoDiacritics": "Tumon",
-    "status": "AA",
+    "status": 0,
     "function": [
       2
     ],
     "date": 1601,
     "coordinates": {
       "lat": 13.5,
-      "lon": 14.733333333333333
+      "lon": 144.8
     }
   },
   {
@@ -211,7 +212,7 @@
     "location": "YGO",
     "name": "Yigo",
     "nameWoDiacritics": "Yigo",
-    "status": "RL",
+    "status": 7,
     "function": [
       2,
       3
@@ -219,7 +220,7 @@
     "date": 1407,
     "coordinates": {
       "lat": 13.533333333333333,
-      "lon": 14.75
+      "lon": 144.88333333333333
     }
   }
 ]

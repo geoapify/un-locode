@@ -2,6 +2,7 @@
   {
     "country": "BD",
     "name": ".BANGLADESH",
+    "status": null,
     "function": [],
     "coordinates": {
       "lat": 0,
@@ -13,7 +14,7 @@
     "location": "AKH",
     "name": "Akhaura",
     "nameWoDiacritics": "Akhaura",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -29,14 +30,14 @@
     "name": "Ashuganj",
     "nameWoDiacritics": "Ashuganj",
     "subdivision": 4,
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 1407,
     "coordinates": {
       "lat": 24.033333333333335,
-      "lon": 9.166666666666666
+      "lon": 91.01666666666667
     }
   },
   {
@@ -44,7 +45,7 @@
     "location": "BZL",
     "name": "Barisal",
     "nameWoDiacritics": "Barisal",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -60,14 +61,14 @@
     "location": "BNP",
     "name": "Benapole",
     "nameWoDiacritics": "Benapole",
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 901,
     "coordinates": {
       "lat": 23.05,
-      "lon": 9.416666666666666
+      "lon": 88.9
     }
   },
   {
@@ -76,14 +77,14 @@
     "name": "Bhola",
     "nameWoDiacritics": "Bhola",
     "subdivision": 13,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1801,
     "coordinates": {
       "lat": 23.783333333333335,
-      "lon": 9.033333333333333
+      "lon": 90.41666666666667
     }
   },
   {
@@ -91,14 +92,14 @@
     "location": "BRG",
     "name": "Bogura",
     "nameWoDiacritics": "Bogura",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1807,
     "coordinates": {
       "lat": 24.85,
-      "lon": 9.533333333333333
+      "lon": 89.36666666666666
     }
   },
   {
@@ -106,7 +107,7 @@
     "location": "CHL",
     "name": "Chalna",
     "nameWoDiacritics": "Chalna",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0
     ],
@@ -122,7 +123,7 @@
     "name": "Chattogram",
     "nameWoDiacritics": "Chattogram",
     "subdivision": 10,
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -131,7 +132,7 @@
     "date": 1901,
     "coordinates": {
       "lat": 22.333333333333332,
-      "lon": 9.25
+      "lon": 91.83333333333333
     }
   },
   {
@@ -140,14 +141,14 @@
     "name": "Chuadanga",
     "nameWoDiacritics": "Chuadanga",
     "subdivision": 27,
-    "status": "RQ",
+    "status": 9,
     "function": [
       5
     ],
     "date": 1007,
     "coordinates": {
       "lat": 24,
-      "lon": 9.45
+      "lon": 89.16666666666667
     }
   },
   {
@@ -155,14 +156,14 @@
     "location": "CXB",
     "name": "Cox's Bazar",
     "nameWoDiacritics": "Cox's Bazar",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
     "date": 212,
     "coordinates": {
       "lat": 21.433333333333334,
-      "lon": 9.25
+      "lon": 91.98333333333333
     }
   },
   {
@@ -170,7 +171,7 @@
     "location": "CLA",
     "name": "Cumilla",
     "nameWoDiacritics": "Cumilla",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -186,7 +187,7 @@
     "name": "Dhaka",
     "nameWoDiacritics": "Dhaka",
     "subdivision": 13,
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -194,7 +195,7 @@
     "date": 1601,
     "coordinates": {
       "lat": 24.166666666666668,
-      "lon": 9.033333333333333
+      "lon": 90.41666666666667
     }
   },
   {
@@ -203,14 +204,14 @@
     "name": "Feni",
     "nameWoDiacritics": "Feni",
     "subdivision": 10,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 23.016666666666666,
-      "lon": 9.2
+      "lon": 91.4
     }
   },
   {
@@ -218,14 +219,14 @@
     "location": "GAZ",
     "name": "Gazipur",
     "nameWoDiacritics": "Gazipur",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1307,
     "coordinates": {
       "lat": 23.7,
-      "lon": 9.083333333333334
+      "lon": 90.95
     }
   },
   {
@@ -234,14 +235,14 @@
     "name": "Gopalganj",
     "nameWoDiacritics": "Gopalganj",
     "subdivision": 13,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1401,
     "coordinates": {
       "lat": 23.216666666666665,
-      "lon": 9
+      "lon": 90.05
     }
   },
   {
@@ -249,7 +250,7 @@
     "location": "IRD",
     "name": "Ishurdi",
     "nameWoDiacritics": "Ishurdi",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -264,7 +265,7 @@
     "location": "JSR",
     "name": "Jashore",
     "nameWoDiacritics": "Jashore",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -279,7 +280,7 @@
     "location": "KAM",
     "name": "Kamalapur/Dhaka",
     "nameWoDiacritics": "Kamalapur/Dhaka",
-    "status": "RQ",
+    "status": 9,
     "function": [
       2
     ],
@@ -294,7 +295,7 @@
     "location": "KHL",
     "name": "Khulna",
     "nameWoDiacritics": "Khulna",
-    "status": "AI",
+    "status": 3,
     "function": [
       0
     ],
@@ -309,14 +310,14 @@
     "location": "KUS",
     "name": "Kushtia",
     "nameWoDiacritics": "Kushtia",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 25.75,
-      "lon": 9.583333333333334
+      "lon": 89.83333333333333
     }
   },
   {
@@ -324,7 +325,7 @@
     "location": "LAK",
     "name": "Laksham",
     "nameWoDiacritics": "Laksham",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -340,14 +341,14 @@
     "name": "Manikganj",
     "nameWoDiacritics": "Manikganj",
     "subdivision": 13,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1107,
     "coordinates": {
       "lat": 23.85,
-      "lon": 9
+      "lon": 90
     }
   },
   {
@@ -355,7 +356,7 @@
     "location": "MON",
     "name": "Monella",
     "nameWoDiacritics": "Monella",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -370,7 +371,7 @@
     "location": "MGL",
     "name": "Mongla",
     "nameWoDiacritics": "Mongla",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -386,14 +387,14 @@
     "name": "Moulvi Bazar",
     "nameWoDiacritics": "Moulvi Bazar",
     "subdivision": 60,
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1307,
     "coordinates": {
       "lat": 24.483333333333334,
-      "lon": 9.233333333333333
+      "lon": 91.78333333333333
     }
   },
   {
@@ -403,14 +404,14 @@
     "name": "Munshiganj",
     "nameWoDiacritics": "Munshiganj",
     "subdivision": 35,
-    "status": "RL",
+    "status": 7,
     "function": [
       0
     ],
     "date": 2307,
     "coordinates": {
       "lat": 23.55,
-      "lon": 9.05
+      "lon": 90.53333333333333
     },
     "remarks": "@Coo"
   },
@@ -419,7 +420,7 @@
     "location": "MYM",
     "name": "Mymensingh",
     "nameWoDiacritics": "Mymensingh",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -434,7 +435,7 @@
     "location": "NAR",
     "name": "Narayanganj",
     "nameWoDiacritics": "Narayanganj",
-    "status": "QQ",
+    "status": 12,
     "function": [
       0,
       1,
@@ -452,14 +453,14 @@
     "name": "Narsingdi",
     "nameWoDiacritics": "Narsingdi",
     "subdivision": 13,
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1107,
     "coordinates": {
       "lat": 23.916666666666668,
-      "lon": 9.066666666666666
+      "lon": 90.71666666666667
     }
   },
   {
@@ -467,7 +468,7 @@
     "location": "PAN",
     "name": "Pabna",
     "nameWoDiacritics": "Pabna",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -483,7 +484,7 @@
     "name": "Panchashar",
     "nameWoDiacritics": "Panchashar",
     "subdivision": 40,
-    "status": "RQ",
+    "status": 9,
     "function": [
       0,
       5
@@ -491,7 +492,7 @@
     "date": 2207,
     "coordinates": {
       "lat": 23.566666666666666,
-      "lon": 9.05
+      "lon": 90.5
     }
   },
   {
@@ -500,7 +501,7 @@
     "name": "Pangaon",
     "nameWoDiacritics": "Pangaon",
     "subdivision": 13,
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -508,7 +509,7 @@
     "date": 1407,
     "coordinates": {
       "lat": 23.65,
-      "lon": 9.033333333333333
+      "lon": 90.45
     }
   },
   {
@@ -516,7 +517,7 @@
     "location": "PAR",
     "name": "Parbatipur",
     "nameWoDiacritics": "Parbatipur",
-    "status": "AI",
+    "status": 3,
     "function": [
       4
     ],
@@ -532,14 +533,14 @@
     "name": "Payra Port",
     "nameWoDiacritics": "Payra Port",
     "subdivision": 6,
-    "status": "AA",
+    "status": 0,
     "function": [
       0
     ],
     "date": 1601,
     "coordinates": {
       "lat": 21.933333333333334,
-      "lon": 9.016666666666667
+      "lon": 90.26666666666667
     }
   },
   {
@@ -547,7 +548,7 @@
     "location": "RJH",
     "name": "Rajshahi",
     "nameWoDiacritics": "Rajshahi",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -562,7 +563,7 @@
     "location": "RAU",
     "name": "Rangpur",
     "nameWoDiacritics": "Rangpur",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -577,7 +578,7 @@
     "location": "SPD",
     "name": "Saidpur",
     "nameWoDiacritics": "Saidpur",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -592,7 +593,7 @@
     "location": "SDW",
     "name": "Sandwip",
     "nameWoDiacritics": "Sandwip",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -608,14 +609,14 @@
     "name": "Savar",
     "nameWoDiacritics": "Savar",
     "subdivision": 13,
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1201,
     "coordinates": {
       "lat": 23.833333333333332,
-      "lon": 9.016666666666667
+      "lon": 90.25
     }
   },
   {
@@ -623,7 +624,7 @@
     "location": "ZHM",
     "name": "Shamshernagar",
     "nameWoDiacritics": "Shamshernagar",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -639,14 +640,14 @@
     "name": "Sherpur Sadar Upazila",
     "nameWoDiacritics": "Sherpur Sadar Upazila",
     "subdivision": 13,
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
     "date": 1401,
     "coordinates": {
       "lat": 25,
-      "lon": 9
+      "lon": 90.01666666666667
     }
   },
   {
@@ -654,7 +655,7 @@
     "location": "SAJ",
     "name": "Sirajganj",
     "nameWoDiacritics": "Sirajganj",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -669,7 +670,7 @@
     "location": "ZYL",
     "name": "Sylhet",
     "nameWoDiacritics": "Sylhet",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -684,14 +685,14 @@
     "location": "TEJ",
     "name": "Tejgaon",
     "nameWoDiacritics": "Tejgaon",
-    "status": "RL",
+    "status": 7,
     "function": [
       5
     ],
     "date": 1307,
     "coordinates": {
       "lat": 23.766666666666666,
-      "lon": 9.033333333333333
+      "lon": 90.4
     }
   },
   {
@@ -699,7 +700,7 @@
     "location": "TKR",
     "name": "Thakurgaon",
     "nameWoDiacritics": "Thakurgaon",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],

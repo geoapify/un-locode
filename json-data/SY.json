@@ -6,7 +6,7 @@
     "name": ".SYRIAN ARAB REPUBLIC (THE)",
     "nameWoDiacritics": "",
     "subdivision": "",
-    "status": "",
+    "status": null,
     "function": [],
     "date": "",
     "iata": "",
@@ -23,7 +23,7 @@
     "name": "Al Ladhiqiyah",
     "nameWoDiacritics": "Al Ladhiqiyah",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       1,
@@ -33,7 +33,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.516666666666666,
-      "lon": 3.9
+      "lon": 35.78333333333333
     },
     "remarks": ""
   },
@@ -44,7 +44,7 @@
     "name": "Al Thaurah",
     "nameWoDiacritics": "Al Thaurah",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -63,7 +63,7 @@
     "name": "Aleppo (Alep)",
     "nameWoDiacritics": "Aleppo (Alep)",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -83,7 +83,7 @@
     "name": "Arwad",
     "nameWoDiacritics": "Arwad",
     "subdivision": "TA",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       2
@@ -92,7 +92,7 @@
     "iata": "",
     "coordinates": {
       "lat": 34.85,
-      "lon": 3.9166666666666665
+      "lon": 35.85
     },
     "remarks": ""
   },
@@ -103,7 +103,7 @@
     "name": "Banghazi",
     "nameWoDiacritics": "Banghazi",
     "subdivision": "",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -112,7 +112,7 @@
     "iata": "",
     "coordinates": {
       "lat": 32.11666666666667,
-      "lon": 2
+      "lon": 20.066666666666666
     },
     "remarks": ""
   },
@@ -123,7 +123,7 @@
     "name": "Baniyas",
     "nameWoDiacritics": "Baniyas",
     "subdivision": "TA",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -132,7 +132,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.18333333333333,
-      "lon": 3.9166666666666665
+      "lon": 35.95
     },
     "remarks": ""
   },
@@ -143,7 +143,7 @@
     "name": "Damascus (Damas)",
     "nameWoDiacritics": "Damascus (Damas)",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3,
@@ -164,7 +164,7 @@
     "name": "Deirezzor",
     "nameWoDiacritics": "Deirezzor",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -183,7 +183,7 @@
     "name": "Dera'a",
     "nameWoDiacritics": "Dera'a",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3,
       4
@@ -203,7 +203,7 @@
     "name": "Hama",
     "nameWoDiacritics": "Hama",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -222,7 +222,7 @@
     "name": "Homs",
     "nameWoDiacritics": "Homs",
     "subdivision": "HI",
-    "status": "RL",
+    "status": 7,
     "function": [
       1,
       2
@@ -231,7 +231,7 @@
     "iata": "QHS",
     "coordinates": {
       "lat": 34.733333333333334,
-      "lon": 4.066666666666666
+      "lon": 36.71666666666667
     },
     "remarks": ""
   },
@@ -242,7 +242,7 @@
     "name": "Kameshli",
     "nameWoDiacritics": "Kameshli",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -261,7 +261,7 @@
     "name": "Latakia",
     "nameWoDiacritics": "Latakia",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       0,
       3
@@ -270,7 +270,7 @@
     "iata": "",
     "coordinates": {
       "lat": 35.516666666666666,
-      "lon": 3.9
+      "lon": 35.78333333333333
     },
     "remarks": ""
   },
@@ -281,7 +281,7 @@
     "name": "Palmyra",
     "nameWoDiacritics": "Palmyra",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -300,7 +300,7 @@
     "name": "Sweida",
     "nameWoDiacritics": "Sweida",
     "subdivision": "",
-    "status": "AI",
+    "status": 3,
     "function": [
       3
     ],
@@ -319,7 +319,7 @@
     "name": "Tartus",
     "nameWoDiacritics": "Tartus",
     "subdivision": "TA",
-    "status": "RL",
+    "status": 7,
     "function": [
       0,
       2
@@ -328,7 +328,7 @@
     "iata": "",
     "coordinates": {
       "lat": 34.9,
-      "lon": 3.9166666666666665
+      "lon": 35.9
     },
     "remarks": ""
   },
@@ -339,7 +339,7 @@
     "name": "Tartus Oil Terminal",
     "nameWoDiacritics": "Tartus Oil Terminal",
     "subdivision": "TA",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -347,7 +347,7 @@
     "iata": "",
     "coordinates": {
       "lat": 34.96666666666667,
-      "lon": 3.9166666666666665
+      "lon": 35.88333333333333
     },
     "remarks": ""
   },
@@ -358,7 +358,7 @@
     "name": "Wasit",
     "nameWoDiacritics": "Wasit",
     "subdivision": "",
-    "status": "RQ",
+    "status": 9,
     "function": [
       0
     ],
@@ -377,7 +377,7 @@
     "name": "Yabrud",
     "nameWoDiacritics": "Yabrud",
     "subdivision": "RD",
-    "status": "RL",
+    "status": 7,
     "function": [
       2
     ],
@@ -385,7 +385,7 @@
     "iata": "",
     "coordinates": {
       "lat": 33.96666666666667,
-      "lon": 4.05
+      "lon": 36.65
     },
     "remarks": ""
   }
