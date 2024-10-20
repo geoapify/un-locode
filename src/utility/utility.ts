@@ -1,4 +1,4 @@
-import { FunctionCode, Status, UnlocodeJsonItem } from "../models/unlocode.interface";
+import { Coordinates, FunctionCode, Status, UnlocodeJsonItem } from "../models/unlocode.interface";
 
 const fs = require('fs');
 const path = require('path');
@@ -12,12 +12,16 @@ export class Utility {
    static formatXLS = ".xls";
    static acceptedFormats = [Utility.formatCSV, Utility.formatXLS];
 
+   static DELAY_BETWEEN_REQUESTS = 300;
+   static API_KEY = `API_KEY`;
+
    static async generateFiles() {
       let loadedFiles = this.loadFiles();
       for (const loadedFile of loadedFiles) {
          if(this.isFileFormatAccepted(loadedFile)) {
             let data = await this.generateJSON(loadedFile);
-            await this.saveToFiles(data);
+            let dataWithCoordinates = await this.getCoordinatesIfMissing(data);
+            await this.saveToFiles(dataWithCoordinates);
          } else {
             console.log('File format not accepted fileName:' + loadedFile.name);
          }
@@ -39,7 +43,7 @@ export class Utility {
       return result;
    }
 
-   static async generateJSON(file: LoadedFile): Promise<Map<string, Array<UnlocodeJsonItem>>> {
+   static generateJSON(file: LoadedFile): Promise<Map<string, Array<UnlocodeJsonItem>>> {
       if(this.isFileExtensionMatching(file, this.formatCSV)) {
          return this.generateJSONFromCSV(file);
       }
@@ -58,7 +62,7 @@ export class Utility {
       let result = new Map();
 
       return new Promise((resolve, reject) => {
-         rl.on('line', (line: any) => {
+         rl.on('line', async (line: any) => {
             if (!firstRow) {
                firstRow = line;
             } else {
@@ -98,7 +102,7 @@ export class Utility {
             const sheet = workbook.Sheets[sheetName];
 
             const data = xlsx.utils.sheet_to_json(sheet);
-            data.forEach((line: any) => {
+            data.forEach(async (line: any) => {
                let item = this.convertXLSLineToJSON(line);
                this.addRow(result, item);
             })
@@ -113,6 +117,7 @@ export class Utility {
 
    static convertCSVLineToJSON(line: string): UnlocodeJsonItem {
       let lineParsed = line.split(",");
+      let functions = this.convertToFunctionArray(lineParsed[7]);
       let coordinates = this.getCoordinates(lineParsed[10]);
       return {
          change: lineParsed[0],
@@ -122,18 +127,19 @@ export class Utility {
          nameWoDiacritics: lineParsed[4],
          subdivision: lineParsed[5],
          status: this.convertStatusToEnum(lineParsed[6]),
-         function: this.convertToFunctionArray(lineParsed[7]),
+         function: functions,
          date: lineParsed[8],
          iata:lineParsed[9],
-         coordinates: {
+         coordinates: coordinates ? {
             lat: coordinates.latitude,
             lon: coordinates.longitude
-         },
+         } : null,
          remarks:lineParsed[11]
       };
    }
 
    static convertXLSLineToJSON(line: any): UnlocodeJsonItem {
+      let functions = this.convertToFunctionArray(line["Function"]);
       let coordinates = this.getCoordinates(line["Coordinates"]);
       return {
          change: line["Change"],
@@ -143,13 +149,13 @@ export class Utility {
          nameWoDiacritics: line["NameWoDiacritics"],
          subdivision: line["Subdivision"],
          status: this.convertStatusToEnum(line["Status"]),
-         function: this.convertToFunctionArray(line["Function"]),
+         function: functions,
          date: line["Date"],
          iata: line["IATA"],
-         coordinates: {
+         coordinates: coordinates ? {
             lat: coordinates.latitude,
             lon: coordinates.longitude
-         },
+         } : null,
          remarks: line["Remarks"]
       };
    }
@@ -183,14 +189,116 @@ export class Utility {
       return path.extname(file.name) === format;
    }
 
-   static getCoordinates(coordinates: any) {
+   static getCoordinates(coordinates: any): { latitude: number, longitude: number } {
       if(coordinates) {
          return this.dmsToDecimal(coordinates);
       } else {
-         // TODO: need to call API to get coordinates
-         return {latitude: 0 , longitude:  0};
+         return null;
       }
 
+   }
+
+   static async getCoordinatesIfMissing(data: Map<string, Array<UnlocodeJsonItem>>): Promise<Map<string, Array<UnlocodeJsonItem>>> {
+      return new Promise(async (resolve, reject) => {
+         for (const itemsPerCountry of data) {
+            for (const item of itemsPerCountry[1]) {
+               if(!item.coordinates) {
+                  item.coordinates = await this.getCoordinatesByGeoapifyAPIs(item.function, item.name, item.country);
+                  await this.delay(this.DELAY_BETWEEN_REQUESTS);
+               }
+            }
+         }
+         resolve(data);
+      });
+   }
+
+   static async getCoordinatesByGeoapifyAPIs(functions: FunctionCode[], city: string, country: string): Promise<Coordinates> {
+      console.log("Getting coordinates for city: " + city + " with functions: " + functions);
+      if(!city || functions.length == 0 ) {
+         console.log("No city or no functions or no country for city: " + city + " with functions: " + functions + " with country: " + country);
+         return null;
+      }
+      let cityPlaceId = await this.getCityPlaceId(city, country);
+      if(cityPlaceId) {
+         let locationCoordinates = await this.getLocationCoordinates(cityPlaceId, functions);
+         if(locationCoordinates) {
+            return locationCoordinates;
+         } else {
+            return null;
+         }
+      }
+      return null;
+   }
+
+   static async getCityPlaceId(city: string, countryCode: string): Promise<string> {
+      return await new Promise((resolve, reject) => {
+         fetch(`https://api.geoapify.com/v1/geocode/search?text=${city}&type=city&filter=countrycode:${countryCode.toLowerCase()}&format=json&apiKey=${this.API_KEY}`)
+             .then((response) => {
+                if (response.ok) {
+                   response.json().then(data => {
+                      console.log(data);
+                      if(data.results?.length > 0) {
+                         resolve(data.results[0].place_id);
+                      } else {
+                         resolve(null);
+                      }
+                   });
+                } else {
+                   response.json().then(data => {
+                      console.log("Error: " + data.message + "for city: " + city + " with country: " + countryCode);
+                      resolve(null);
+                   });
+                }
+             });
+      });
+   }
+
+   static async getLocationCoordinates(cityPlaceId: string, functions: Array<FunctionCode>): Promise<Coordinates> {
+      return await new Promise((resolve, reject) => {
+         fetch(`https://api.geoapify.com/v2/places?categories=${this.getCategories(functions).join(",")}&filter=place:${cityPlaceId}&limit=20&apiKey=${this.API_KEY}`)
+             .then((response) => {
+                if (response.ok) {
+                   response.json().then(data => {
+                      console.log(data);
+                      if(data.features?.length > 0) {
+                         resolve({ lat: data.features[0].properties.lat, lon: data.features[0].properties.lon });
+                      } else {
+                         resolve(null);
+                      }
+                   });
+                } else {
+                   response.json().then(data => {
+                      // console.log("Error: " + data.message + "for city: " + city + " with country: " + countryCode);
+                      resolve(null);
+                   });
+                }
+             });
+      });
+   }
+
+   static getCategories(functions: Array<FunctionCode>): Array<string> {
+      return functions.map(item => {
+         switch (item) {
+            case FunctionCode.PORT:
+               return 'ports';
+            case FunctionCode.RAIL_TERMINAL:
+               return 'rail-terminals';
+            case FunctionCode.ROAD_TERMINAL:
+               return 'road-terminals';
+            case FunctionCode.AIRPORT:
+               return 'airports';
+            case FunctionCode.POSTAL_EXCHANGE_OFFICE:
+               return 'postal-exchange-offices';
+            case FunctionCode.INLAND_CLEARANCE_DEPOT:
+               return 'inland-clearance-depots';
+            case FunctionCode.FIXED_TRANSPORT_FUNCTIONS:
+               return 'fixed-transport-functions';
+            case FunctionCode.BORDER_CROSSING_FUNCTION:
+               return 'border-crossing-functions';
+            default:
+               return null;
+         }
+      })
    }
 
    static dmsToDecimal(coordinate: string): { latitude: number, longitude: number } {
@@ -283,6 +391,10 @@ export class Utility {
          default:
             return null;
       }
+   }
+
+   static delay(ms: number): Promise<void> {
+      return new Promise(resolve => setTimeout(resolve, ms));
    }
 }
 
