@@ -1,89 +1,105 @@
 [
   {
+    "change": "",
     "country": "GD",
+    "location": "",
     "name": ".GRENADA",
+    "nameWoDiacritics": "",
+    "subdivision": "",
     "status": null,
     "function": [],
-    "coordinates": {
-      "lat": 0,
-      "lon": 0
-    }
+    "date": "",
+    "iata": "",
+    "coordinates": null,
+    "remarks": ""
   },
   {
+    "change": "",
     "country": "GD",
     "location": "CRU",
     "name": "Carriacou Apt",
     "nameWoDiacritics": "Carriacou Apt",
+    "subdivision": "",
     "status": 9,
     "function": [
       2,
       3
     ],
-    "date": 901,
+    "date": "0901",
+    "iata": "",
     "coordinates": {
       "lat": 12.466666666666667,
       "lon": -61.46666666666667
-    }
+    },
+    "remarks": ""
   },
   {
+    "change": "",
     "country": "GD",
     "location": "GND",
     "name": "Grenada",
     "nameWoDiacritics": "Grenada",
+    "subdivision": "",
     "status": 3,
     "function": [
       3,
       4
     ],
-    "date": 9601,
+    "date": "9601",
+    "iata": "",
     "coordinates": {
-      "lat": 0,
-      "lon": 0
-    }
+      "lat": 12.0045443,
+      "lon": -61.78595643134612
+    },
+    "remarks": ""
   },
   {
+    "change": "",
     "country": "GD",
     "location": "GRE",
     "name": "Grenville",
     "nameWoDiacritics": "Grenville",
+    "subdivision": "",
     "status": 12,
     "function": [
       0
     ],
-    "date": 8103,
-    "coordinates": {
-      "lat": 0,
-      "lon": 0
-    }
+    "date": "8103",
+    "iata": "",
+    "coordinates": null,
+    "remarks": ""
   },
   {
+    "change": "",
     "country": "GD",
     "location": "HIL",
-    "name": "Hillsborough, Carriacou Is",
-    "nameWoDiacritics": "Hillsborough, Carriacou Is",
-    "status": 12,
-    "function": [
-      0
-    ],
-    "date": 8103,
+    "name": "\"Hillsborough",
+    "nameWoDiacritics": " Carriacou Is\"",
+    "subdivision": "\"Hillsborough",
+    "status": null,
+    "function": [],
+    "date": "QQ",
+    "iata": "1-------",
     "coordinates": {
-      "lat": 0,
-      "lon": 0
-    }
+      "lat": 81.05,
+      "lon": null
+    },
+    "remarks": ""
   },
   {
+    "change": "",
     "country": "GD",
     "location": "STG",
     "name": "Saint George's",
     "nameWoDiacritics": "Saint George's",
+    "subdivision": "",
     "status": 3,
     "function": [
       0
     ],
-    "date": 9401,
-    "coordinates": {
-      "lat": 0,
-      "lon": 0
-    }
+    "date": "9401",
+    "iata": "",
+    "coordinates": null,
+    "remarks": ""
   }
 ]

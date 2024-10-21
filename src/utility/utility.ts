@@ -12,8 +12,8 @@ export class Utility {
    static formatXLS = ".xls";
    static acceptedFormats = [Utility.formatCSV, Utility.formatXLS];
 
-   static DELAY_BETWEEN_REQUESTS = 300;
-   static API_KEY = `API_KEY`;
+   static DELAY_BETWEEN_REQUESTS = 0;
+   static API_KEY = `6dc7fb95a3b246cfa0f3bcef5ce9ed9a`;
 
    static async generateFiles() {
       let loadedFiles = this.loadFiles();
@@ -202,8 +202,8 @@ export class Utility {
       return new Promise(async (resolve, reject) => {
          for (const itemsPerCountry of data) {
             for (const item of itemsPerCountry[1]) {
-               if(!item.coordinates) {
-                  item.coordinates = await this.getCoordinatesByGeoapifyAPIs(item.function, item.name, item.country);
+               if(!item.coordinates && this.hasFunctionAirport(item.function)) {
+                  item.coordinates = await this.getCoordinatesByGeoapifyAPIs(item.name, item.country);
                   await this.delay(this.DELAY_BETWEEN_REQUESTS);
                }
             }
@@ -212,21 +212,24 @@ export class Utility {
       });
    }
 
-   static async getCoordinatesByGeoapifyAPIs(functions: FunctionCode[], city: string, country: string): Promise<Coordinates> {
-      console.log("Getting coordinates for city: " + city + " with functions: " + functions);
-      if(!city || functions.length == 0 ) {
-         console.log("No city or no functions or no country for city: " + city + " with functions: " + functions + " with country: " + country);
+   static async getCoordinatesByGeoapifyAPIs(city: string, country: string): Promise<Coordinates> {
+      // console.log("Getting airport coordinates for city: " + city + " with country: " + country);
+      if(!city) {
+         console.log("No city or no country for city: " + city + " with country: " + country);
          return null;
       }
       let cityPlaceId = await this.getCityPlaceId(city, country);
       if(cityPlaceId) {
-         let locationCoordinates = await this.getLocationCoordinates(cityPlaceId, functions);
+         let locationCoordinates = await this.getLocationCoordinates(cityPlaceId);
          if(locationCoordinates) {
+            console.log("Airport coordinates found for city: " + city + " with country: " + country);
             return locationCoordinates;
          } else {
+            console.log("Airport coordinates not found for city: " + city + " with country: " + country);
             return null;
          }
       }
+      console.log("City place id not found for city: " + city + " with country: " + country);
       return null;
    }
 
@@ -236,7 +239,7 @@ export class Utility {
              .then((response) => {
                 if (response.ok) {
                    response.json().then(data => {
-                      console.log(data);
+                      // console.log(data);
                       if(data.results?.length > 0) {
                          resolve(data.results[0].place_id);
                       } else {
@@ -253,13 +256,13 @@ export class Utility {
       });
    }
 
-   static async getLocationCoordinates(cityPlaceId: string, functions: Array<FunctionCode>): Promise<Coordinates> {
+   static async getLocationCoordinates(cityPlaceId: string): Promise<Coordinates> {
       return await new Promise((resolve, reject) => {
-         fetch(`https://api.geoapify.com/v2/places?categories=${this.getCategories(functions).join(",")}&filter=place:${cityPlaceId}&limit=20&apiKey=${this.API_KEY}`)
+         fetch(`https://api.geoapify.com/v2/places?categories=airport&filter=place:${cityPlaceId}&limit=20&apiKey=${this.API_KEY}`)
              .then((response) => {
                 if (response.ok) {
                    response.json().then(data => {
-                      console.log(data);
+                      // console.log(data);
                       if(data.features?.length > 0) {
                          resolve({ lat: data.features[0].properties.lat, lon: data.features[0].properties.lon });
                       } else {
@@ -276,29 +279,8 @@ export class Utility {
       });
    }
 
-   static getCategories(functions: Array<FunctionCode>): Array<string> {
-      return functions.map(item => {
-         switch (item) {
-            case FunctionCode.PORT:
-               return 'ports';
-            case FunctionCode.RAIL_TERMINAL:
-               return 'rail-terminals';
-            case FunctionCode.ROAD_TERMINAL:
-               return 'road-terminals';
-            case FunctionCode.AIRPORT:
-               return 'airports';
-            case FunctionCode.POSTAL_EXCHANGE_OFFICE:
-               return 'postal-exchange-offices';
-            case FunctionCode.INLAND_CLEARANCE_DEPOT:
-               return 'inland-clearance-depots';
-            case FunctionCode.FIXED_TRANSPORT_FUNCTIONS:
-               return 'fixed-transport-functions';
-            case FunctionCode.BORDER_CROSSING_FUNCTION:
-               return 'border-crossing-functions';
-            default:
-               return null;
-         }
-      })
+   static hasFunctionAirport(functions: Array<FunctionCode>): boolean {
+      return functions.includes(FunctionCode.AIRPORT);
    }
 
    static dmsToDecimal(coordinate: string): { latitude: number, longitude: number } {

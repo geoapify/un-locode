@@ -10,12 +10,12 @@ describe('UNLocode Class', () => {
             fullCode: 'USNYC',
             locationName: 'New York',
             subdivision: 'NY',
-            status: Status.RECOGNISED_LOCATION,
+            status: Status.CODE_ADOPTED_BY_INTERNATIONAL_ORGANISATION,
             functionCodes: [FunctionCode.PORT, FunctionCode.RAIL_TERMINAL,
                 FunctionCode.ROAD_TERMINAL, FunctionCode.AIRPORT, FunctionCode.POSTAL_EXCHANGE_OFFICE],
             coordinates: {
-                lat: 40.7128,
-                lon: -74.0060,
+                lat: 40.7,
+                lon: -74,
             },
         });
     });

@@ -1,15 +1,20 @@
 [
   {
+    "change": "",
     "country": "DJ",
+    "location": "",
     "name": ".DJIBOUTI",
+    "nameWoDiacritics": "",
+    "subdivision": "",
     "status": null,
     "function": [],
-    "coordinates": {
-      "lat": 0,
-      "lon": 0
-    }
+    "date": "",
+    "iata": "",
+    "coordinates": null,
+    "remarks": ""
   },
   {
+    "change": "",
     "country": "DJ",
     "location": "AII",
     "name": "Ali Sabieh",
@@ -19,45 +24,56 @@
     "function": [
       3
     ],
-    "date": 901,
+    "date": "0901",
+    "iata": "",
     "coordinates": {
       "lat": 11.15,
       "lon": 42.7
-    }
+    },
+    "remarks": ""
   },
   {
+    "change": "",
     "country": "DJ",
     "location": "CLA",
     "name": "Camp Lemonier",
     "nameWoDiacritics": "Camp Lemonier",
+    "subdivision": "",
     "status": 7,
     "function": [
       5
     ],
-    "date": 901,
+    "date": "0901",
+    "iata": "",
     "coordinates": {
       "lat": 11.533333333333333,
       "lon": 43.13333333333333
-    }
+    },
+    "remarks": ""
   },
   {
+    "change": "",
     "country": "DJ",
     "location": "JIB",
     "name": "Djibouti",
     "nameWoDiacritics": "Djibouti",
+    "subdivision": "",
     "status": 3,
     "function": [
       0,
       3,
       4
     ],
-    "date": 9601,
+    "date": "9601",
+    "iata": "",
     "coordinates": {
-      "lat": 0,
-      "lon": 0
-    }
+      "lat": 11.547040599999999,
+      "lon": 43.15914397436093
+    },
+    "remarks": ""
   },
   {
+    "change": "",
     "country": "DJ",
     "location": "POD",
     "name": "Djibouti",
@@ -69,13 +85,16 @@
       1,
       2
     ],
-    "date": 1301,
+    "date": "1301",
+    "iata": "",
     "coordinates": {
       "lat": 11.583333333333334,
       "lon": 43.13333333333333
-    }
+    },
+    "remarks": ""
   },
   {
+    "change": "",
     "country": "DJ",
     "location": "DCT",
     "name": "Doraleh Container Terminal",
@@ -86,56 +105,70 @@
       0,
       2
     ],
-    "date": 901,
+    "date": "0901",
+    "iata": "",
     "coordinates": {
       "lat": 11.6,
       "lon": 44.6
-    }
+    },
+    "remarks": ""
   },
   {
+    "change": "",
     "country": "DJ",
     "location": "MHI",
     "name": "Musha",
     "nameWoDiacritics": "Musha",
+    "subdivision": "",
     "status": 7,
     "function": [
       2,
       3
     ],
-    "date": 907,
+    "date": "0907",
+    "iata": "",
     "coordinates": {
       "lat": 11.333333333333334,
       "lon": 43.016666666666666
-    }
+    },
+    "remarks": ""
   },
   {
+    "change": "",
     "country": "DJ",
     "location": "OBC",
     "name": "Obock",
     "nameWoDiacritics": "Obock",
+    "subdivision": "",
     "status": 9,
     "function": [
       3
     ],
-    "date": 901,
+    "date": "0901",
+    "iata": "",
     "coordinates": {
       "lat": 11.966666666666667,
       "lon": 43.25
-    }
+    },
+    "remarks": ""
   },
   {
+    "change": "",
     "country": "DJ",
     "location": "TDJ",
     "name": "Tadjoura",
     "nameWoDiacritics": "Tadjoura",
+    "subdivision": "",
     "status": 9,
     "function": [
       3
     ],
-    "date": 901,
+    "date": "0901",
+    "iata": "",
     "coordinates": {
       "lat": 11.766666666666667,
       "lon": 42.9
-    }
+    },
+    "remarks": ""
   }
 ]
