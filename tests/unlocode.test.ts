@@ -43,10 +43,10 @@ describe('query', () => {
 
     it('should cache the file and load it only once', async () => {
         const mockFileContents = JSON.stringify([{
-            country: 'US',
-            location: 'NYC',
-            name: 'New York',
-            subdivision: 'NY',
+            country: 'AU',
+            location: 'ABP',
+            name: 'Name',
+            subdivision: 'Sub',
             status: Status.CODE_ADOPTED_BY_INTERNATIONAL_ORGANISATION,
             function: [FunctionCode.PORT],
             coordinates: { lat: 40.7, lon: -74 }
@@ -54,10 +54,10 @@ describe('query', () => {
 
         const readFileSpy = jest.spyOn(fs, 'readFile').mockResolvedValue(mockFileContents);
 
-        await query("US", "NYC");
+        await query("AU", "ABP");
         expect(readFileSpy).toHaveBeenCalledTimes(1);
 
-        await query("US", "NYC");
+        await query("AU", "ABP");
         expect(readFileSpy).toHaveBeenCalledTimes(1); // Still called only once
     });
 });
