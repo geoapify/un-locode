@@ -7,7 +7,7 @@ const xlsx = require('xlsx');
 
 export class Utility {
    static directoryPath = 'data-source';
-   static outputDirectory = 'json-data';
+   static outputDirectory = 'src/json-data';
    static formatCSV = ".csv";
    static formatXLS = ".xls";
    static acceptedFormats = [Utility.formatCSV, Utility.formatXLS];

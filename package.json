@@ -10,7 +10,8 @@
     "generate-files": "ts-node src/utility/execute-utility.ts",
     "test": "jest",
     "test-coverage": "jest --coverage",
-    "build": "tsc",
+    "copy-json": "cp -r ./src/json-data ./dist",
+    "build": "tsc && npm run copy-json",
     "build-all": "npm run build && npm run build-minimized",
     "build-minimized": "rollup -c rollup-config.mjs",
     "start:demo": "ts-node demo/demo.ts"

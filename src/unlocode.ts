@@ -34,7 +34,7 @@ async function loadJsonFile(countryName: string): Promise<Array<UnlocodeJsonItem
         return loadedFiles.get(countryName).data;
     }
     const fileName = countryName + '.json';
-    const filePath = path.join(__dirname, '../json-data', fileName);
+    const filePath = path.join(__dirname, 'json-data', fileName);
 
     try {
         const fileContents = await fs.readFile(filePath, 'utf-8');
