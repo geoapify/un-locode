@@ -1,4 +1,4 @@
-import {query} from "../src";
+const { query } = require("../dist/index.cjs");
 
 async function runDemo() {
     try {
