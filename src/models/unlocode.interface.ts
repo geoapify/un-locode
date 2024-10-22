@@ -18,7 +18,7 @@ export interface UnlocodeJsonItem {
     function: Array<FunctionCode>;
     date: string;
     iata: string
-    coordinates: Coordinates;
+    coordinates?: Coordinates;
     remarks: string;
 }
 
@@ -54,4 +54,9 @@ export enum FunctionCode {
 export interface Coordinates {
     lat: number;
     lon: number;
+}
+
+export interface LoadedFile {
+    loadDate: Date;
+    data: Array<UnlocodeJsonItem>;
 }

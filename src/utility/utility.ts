@@ -13,7 +13,7 @@ export class Utility {
    static acceptedFormats = [Utility.formatCSV, Utility.formatXLS];
 
    static DELAY_BETWEEN_REQUESTS = 0;
-   static API_KEY = `6dc7fb95a3b246cfa0f3bcef5ce9ed9a`;
+   static API_KEY = `API_KEY`;
 
    static async generateFiles() {
       let loadedFiles = this.loadFiles();
