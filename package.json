@@ -1,7 +1,24 @@
 {
   "name": "@geoapify/un-locode",
-  "version": "0.1.0",
-  "description": "Query the UN/LOCODE dataset by providing a combination of the country code and location code",
+  "version": "1.0.0",
+  "description": "A Node.js library for querying United Nations Location Code (UN/LOCODE) data",
+  "keywords": [
+    "UN/LOCODE",
+    "location code",
+    "UN location codes",
+    "Geoapify",
+    "geolocation",
+    "location data",
+    "country codes",
+    "city codes",
+    "geocoding",
+    "coordinates",
+    "Node.js",
+    "API",
+    "npm library",
+    "geography",
+    "logistics"
+  ],
   "main": "dist/index.cjs.js",
   "typings": "dist/index.d.ts",
   "minimized": "dist/index.min.js",
@@ -10,8 +27,8 @@
     "generate-files": "ts-node src/utility/execute-utility.ts",
     "test": "jest",
     "test-coverage": "jest --coverage",
-    "copy-json": "cp -r ./src/json-data ./dist",
-    "build": "tsc && npm run copy-json",
+    "copy-data": "cp -r ./src/data ./dist",
+    "build": "tsc && npm run copy-data",
     "build-all": "npm run build && npm run build-minimized",
     "build-minimized": "rollup -c rollup-config.mjs",
     "start:demo": "ts-node demo/demo.ts"
@@ -20,12 +37,7 @@
     "type": "git",
     "url": "git+https://git@github.com/geoapify/un-locode.git"
   },
-  "keywords": [],
-  "author": {
-    "name": "Geoapify GmbH",
-    "email": "info@geoapify.com",
-    "url": "https://geoapify.com"
-  },
+  "author": "Geoapify <info@geoapify.com> (https://geoapify.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/geoapify/un-locode/issues"
@@ -48,6 +60,13 @@
     "ts-node": "^10.9.2",
     "tslib": "^2.7.0",
     "typescript": "^5.5.4",
-    "xlsx": "0.18.5"
+    "xlsx": "0.18.5",
+    "json-2-csv": "^5.5.6"
+  },
+  "dependencies": {
+    "convert-csv-to-json": "^2.49.0"
+  },
+  "directories": {
+    "test": "tests"
   }
 }

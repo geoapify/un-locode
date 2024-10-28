@@ -1,3 +1,3 @@
-import { Utility } from "./utility";
+import { generateFiles } from "./utility";
 
-Utility.generateFiles();
+generateFiles();
