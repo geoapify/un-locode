@@ -6,9 +6,9 @@ import csvToJson from 'convert-csv-to-json';
 const loadedFiles: Map<string, LoadedFile> = new Map();
 const fileExpiryTime = 1000 * 60 * 60 * 24; // 24 hours
 
-export async function query(countryCode: string, locationCode: string): Promise<UnlocodeItem> {
+export function query(countryCode: string, locationCode: string): UnlocodeItem {
     clearOldFiles();
-    let file = await loadDataFile(countryCode);
+    let file = loadDataFile(countryCode);
 
     if(!file) {
         return null;
@@ -42,7 +42,7 @@ export async function query(countryCode: string, locationCode: string): Promise<
     }
 }
 
-async function loadDataFile(countryName: string): Promise<Array<UnlocodeJsonItem>> {
+function loadDataFile(countryName: string): Array<UnlocodeJsonItem> {
     if(loadedFiles.has(countryName)) {
         return loadedFiles.get(countryName).data;
     }
