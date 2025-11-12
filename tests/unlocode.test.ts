@@ -1,17 +1,16 @@
 import { query } from "../src/unlocode";
-import { FunctionCode, Status } from "../src/models/unlocode.interface";
-import { promises as fs } from 'fs';
+import csvToJson from "convert-csv-to-json";
 
 describe('query', () => {
     it('query should return data', async () => {
         let queryResult = await query("US", "NYC");
         expect(queryResult).toStrictEqual({
-            fullCode: 'USNYC',
+            country: 'US',
+            location: "NYC",
             locationName: 'New York',
             subdivision: 'NY',
-            status: Status.CODE_ADOPTED_BY_INTERNATIONAL_ORGANISATION,
-            functionCodes: [FunctionCode.PORT, FunctionCode.RAIL_TERMINAL,
-                FunctionCode.ROAD_TERMINAL, FunctionCode.AIRPORT, FunctionCode.POSTAL_EXCHANGE_OFFICE],
+            status: "AI",
+            functionCodes: ["1", "2", "3", "4", "5"],
             coordinates: {
                 lat: 40.7,
                 lon: -74,
@@ -20,14 +19,60 @@ describe('query', () => {
     });
 
     it('query should work if coordinates are null', async () => {
-        let queryResult = await query("US", "TFY");
+        let queryResult = await query("US", "TLJ");
         expect(queryResult).toStrictEqual({
-            fullCode: 'USTFY',
-            locationName: 'Taneytown',
-            subdivision: 'MD',
-            status: Status.REQUEST_UNDER_CONSIDERATION,
-            functionCodes: [FunctionCode.ROAD_TERMINAL],
-            coordinates: null,
+            country: 'US',
+            location: 'TLJ',
+            locationName: 'Tatalina',
+            subdivision: 'AK',
+            status: "AI",
+            functionCodes: ["4"]
+        });
+    });
+
+    it('query should work fine for Bhutan (issue#2)', async () => {
+        let queryResult = await query("BT", "CCS");
+        expect(queryResult).toStrictEqual({
+            country: 'BT',
+            location: 'CCS',
+            locationName: 'Chuchungsa',
+            subdivision: '14',
+            status: "",
+            functionCodes: ["3", "6"],
+            coordinates: {
+                lat: NaN,
+                lon: 27.466666666666665,
+            },
+        });
+
+        let queryResult2 = await query("BT", "NYP");
+        expect(queryResult2).toStrictEqual({
+            country: 'BT',
+            location: 'NYP',
+            locationName: 'Nyonpaling',
+            subdivision: '14',
+            status: "",
+            functionCodes: ["3", "6"],
+            coordinates: {
+                lat: NaN,
+                lon: 81.48333333333333,
+            },
+        });
+    });
+
+    it('query should work fine for name with comma', async () => {
+        let queryResult = await query("AT", "MLD");
+        expect(queryResult).toStrictEqual({
+            country: 'AT',
+            location: 'MLD',
+            locationName: 'Mollersdorf, Baden',
+            subdivision: '3',
+            status: "RL",
+            functionCodes: ["3"],
+            coordinates: {
+                lat: 48.016666666666666,
+                lon: 16.3,
+            },
         });
     });
 
@@ -42,17 +87,23 @@ describe('query', () => {
     });
 
     it('should cache the file and load it only once', async () => {
-        const mockFileContents = JSON.stringify([{
-            country: 'AU',
-            location: 'ABP',
-            name: 'Name',
-            subdivision: 'Sub',
-            status: Status.CODE_ADOPTED_BY_INTERNATIONAL_ORGANISATION,
-            function: [FunctionCode.PORT],
-            coordinates: { lat: 40.7, lon: -74 }
-        }]);
+        const mockFileContents = [
+            {
+                country: 'AU',
+                location: 'ABP',
+                name: 'Abbot Point',
+                nameWoDiacritics: 'Abbot Point',
+                subdivision: 'QLD',
+                status: 'AC',
+                function: '1-------',
+                iata: '',
+                lat: '-19.9',
+                lon: '148.08333333333334',
+                geocoded: undefined
+            }
+        ];
 
-        const readFileSpy = jest.spyOn(fs, 'readFile').mockResolvedValue(mockFileContents);
+        const readFileSpy = jest .spyOn(csvToJson, 'getJsonFromCsv').mockReturnValue(mockFileContents);
 
         await query("AU", "ABP");
         expect(readFileSpy).toHaveBeenCalledTimes(1);
