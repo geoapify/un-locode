@@ -40,8 +40,8 @@ describe('query', () => {
             status: "",
             functionCodes: ["3", "6"],
             coordinates: {
-                lat: NaN,
-                lon: 27.466666666666665,
+                lat: 26.966666666666665,
+                lon: 88.93333333333334,
             },
         });
 
@@ -54,8 +54,8 @@ describe('query', () => {
             status: "",
             functionCodes: ["3", "6"],
             coordinates: {
-                lat: NaN,
-                lon: 81.48333333333333,
+                lat: 26.816666666666666,
+                lon: 89.21666666666667,
             },
         });
     });
