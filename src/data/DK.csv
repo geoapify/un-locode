@@ -1,6 +1,6 @@
 country,location,name,nameWoDiacritics,subdivision,status,function,iata,lat,lon,geocoded
 DK,AAF,Aalbaek,Aalbaek,81,RL,-----6--,,57.583333333333336,10.4,
-DK,AAL,Aalborg,Aalborg,,AF,12345---,,57.094452950000004,9.85549096981994,true
+DK,AAL,Aalborg,Aalborg,,AF,12345---,,57.0462626,9.9215263,true
 DK,ROR,Aalborg Portland Cementfabrikk,Aalborg Portland Cementfabrikk,,RQ,1-------,,57.034773,9.902536,true
 DK,AEY,Aalestrup,Aalestrup,,AF,-23-----,,56.6952989,9.4930029,true
 DK,AAR,Aarhus,Aarhus,82,AF,12345---,,56.15,10.216666666666667,
@@ -15,11 +15,11 @@ DK,ARK,�r�sk�bing,Aroskobing,,RQ,1-------,,,,
 DK,AED,Agedrup,Agedrup,83,RL,--3-----,,55.416666666666664,10.5,
 DK,AGD,Agerb�k,Agerbak,83,RL,--3-----,,55.6,8.8,
 DK,AGR,Agerskov,Agerskov,82,RL,--3-----,,56.416666666666664,9.316666666666666,
-DK,AGO,Agers�,Agerso,,AI,1-------,,55.2174327,11.184306651304228,true
+DK,AGO,Agers�,Agerso,,AI,1-------,,55.2122845,11.1908488,true
 DK,AGH,Agger Havn,Agger Havn,,AF,1-3-----,,56.77656375,8.255179170345752,true
 DK,ASH,Aggersund,Aggersund,,RQ,1-------,,57.0043224,9.2799491,true
 DK,AK3,�kirkeby,Akirkeby,84,RL,1-3-----,,55.06666666666667,14.933333333333334,
-DK,ABT,Albertslund,Albertslund,,RQ,0-------,,55.6586018,12.3562849,true
+DK,ABT,Albertslund,Albertslund,,RQ,0-------,,55.67651935,12.352465699568619,true
 DK,ABK,�leb�k,Alebak,81,RL,--3-----,,57.016666666666666,10.266666666666667,
 DK,ALL,Allerod,Allerod,84,RL,--3-----,,55.86666666666667,12.383333333333333,
 DK,ALV,Allerslev,Allerslev,85,RL,--3-----,,55.083333333333336,12.05,
@@ -28,8 +28,8 @@ DK,ALN,Alling�bro,Allingabro,,RQ,--3-----,,56.4643421,10.336854,true
 DK,AGE,Allinge,Allinge,,RL,1-3-----,,55.266666666666666,14.8,
 DK,ALM,Almind,Almind,82,RL,--3-----,,56.36666666666667,9.4,
 DK,ALS,�lsg�rde,Alsgarde,84,RL,-23-----,,56.083333333333336,12.55,
-DK,ANH,Anholt,Anholt,,AI,1-------,,56.71282975,11.562026006688171,true
-DK,ANB,Ans by,Ans by,,RQ,--3-----,,54.67854,11.95546,true
+DK,ANH,Anholt,Anholt,,AI,1-------,,56.7040812,11.5449467,true
+DK,ANB,Ans by,Ans by,,RQ,--3-----,,55.17271,11.6708,true
 DK,ANS,Ansager,Ansager,,RQ,--3-----,,55.7049419,8.7526017,true
 DK,ADN,Arden,Arden,,RL,--3-----,,56.7678869,9.8568821,true
 DK,ARO,�ro,Aro,83,AI,1-------,,55.266666666666666,9.75,
@@ -38,11 +38,11 @@ DK,ARR,Arre,Arre,,RL,-----6--,,55.56666666666667,8.666666666666666,
 DK,ARL,�rslev,Arslev,83,RL,-23-----,,55.3,10.483333333333333,
 DK,ASA,Asaa,Asaa,,RL,1-3-----,,57.15,10.416666666666666,
 DK,ABY,Askeby,Askeby,83,RL,--3-----,,55.516666666666666,10.216666666666667,
-DK,ASK,Ask�,Asko,,AI,1-------,,54.8934613,11.49159722103522,true
+DK,ASK,Ask�,Asko,,AI,1-------,,54.7583779,11.2853975,true
 DK,ASS,Asn�s,Asnas,,RQ,--3-----,,,,
 DK,ASV,Asn�sv�rkets Havn,Asnasvarkets Havn,,AI,1-------,,54.95628,10.22434,true
 DK,ASE,Asperup,Asperup,83,RL,--3-----,,55.483333333333334,9.916666666666666,
-DK,ASN,Assens,Assens,,AF,12------,,55.265798,9.9002174,true
+DK,ASN,Assens,Assens,,AF,12------,,55.2766167,10.065772595631408,true
 DK,AUB,Augustenborg,Augustenborg,,AI,1-------,,54.9506719,9.8743203,true
 DK,ABE,Auning,Auning,82,RL,-----6--,,56.43333333333333,10.383333333333333,
 DK,VRE,Avedore,Avedore,,RQ,1-------,,55.631426,12.4601622,true
@@ -59,13 +59,13 @@ DK,BGS,Bagsv�rd,Bagsvard,,RQ,0-------,,,,
 DK,BLE,Balle,Balle,,RQ,--3-----,,56.3,10.266666666666667,
 DK,BLB,Ballebro,Ballebro,,AI,1-------,,54.9987913,9.6681055,true
 DK,BAL,Ballen,Ballen,,RL,1-------,,55.81666666666667,10.65,
-DK,BLP,Ballerup,Ballerup,,RQ,--3-----,,55.7303589,12.3612313,true
+DK,BLP,Ballerup,Ballerup,,RQ,--3-----,,55.730391100000006,12.365220938239741,true
 DK,BLG,Balling,Balling,,RQ,--3-----,,56.6157838,8.8821834,true
 DK,BDX,Bandholm,Bandholm,,AI,1-------,,54.8364445,11.4830145,true
 DK,AAH,Barrit,Barrit,83,RL,-----6--,,55.71666666666667,9.9,
 DK,BED,Beder,Beder,82,RL,--3-----,,56.06666666666667,10.216666666666667,
-DK,BDD,Bedsted,Bedsted,83,RL,--3-----,,55.05,9.1,
 DK,BES,Bedsted,Bedsted,81,RQ,--3-----,,56.81666666666667,8.416666666666666,
+DK,BDD,Bedsted,Bedsted,83,RL,--3-----,,55.05,9.1,
 DK,BEL,Bellinge,Bellinge,,RQ,0-------,,55.3380846,10.3125787,true
 DK,BEV,Bevtoft,Bevtoft,,RQ,--3-----,,55.2,9.216666666666667,
 DK,BIL,Billum,Billum,,RQ,--3-----,,55.61666666666667,8.333333333333334,
@@ -92,12 +92,12 @@ DK,BKP,Borkop,Borkop,,RL,--3-----,,55.63333333333333,9.633333333333333,
 DK,BHL,Bornholm,Bornholm,84,RL,--3-----,,55.13333333333333,14.916666666666666,
 DK,BRR,Borre,Borre,,RQ,--3-----,,55.63333333333333,8.3,
 DK,BOR,Borup,Borup,,RQ,--3-----,,55.4954852,11.9832516,true
-DK,BTP,Bostrup,Bostrup,,RQ,0-------,,56.6575763,9.0007803,true
+DK,BTP,Bostrup,Bostrup,,RQ,0-------,,56.6545561,9.0084753,true
 DK,BBG,B�vlingbjerg,Bovlingbjerg,,RL,1-3-----,,56.43333333333333,8.2,
 DK,BRB,Brabrand,Brabrand,,RQ,1-------,,56.1565872,10.1056465,true
 DK,BSU,Braedstrup,Braedstrup,,RL,--3-----,,55.96666666666667,9.6,
 DK,BMG,Bramming,Bramming,,RQ,-23-----,,55.4655911,8.7027506,true
-DK,BRA,Brande,Brande,,RQ,--3-----,,55.9445468,9.1282868,true
+DK,BRA,Brande,Brande,,RQ,--3-----,,56.0533577,9.256025758737742,true
 DK,BRV,Brandelev,Brandelev,,RQ,--3-----,,55.21666666666667,11.883333333333333,
 DK,BRH,Branden Havn,Branden Havn,,AI,1-------,,56.79601,9.03645,true
 DK,BRL,Branderslev,Branderslev,,RL,--3-----,,54.86666666666667,11.133333333333333,
@@ -105,7 +105,7 @@ DK,BDE,Branderup,Branderup,,RQ,--3-----,,55.11666666666667,9.066666666666666,
 DK,BRE,Bredebro,Bredebro,,RQ,--3-----,,55.0556028,8.8270664,true
 DK,BRD,Bredsten,Bredsten,,RQ,--3-----,,55.7,9.366666666666667,
 DK,BGR,Brejning,Brejning,83,RL,-----6--,,55.666666666666664,9.683333333333334,
-DK,BRU,"""Brenderup"," Ejby""","""Brenderup"," Ejby""",,--3-----,55.484547,9.978074,true
+DK,BRU,"Brenderup, Ejby","Brenderup, Ejby",,RQ,--3-----,,55.46666666666667,9.966666666666667,
 DK,BRG,Broager,Broager,,RQ,--3-----,,54.88333333333333,9.683333333333334,
 DK,BOY,Broby Overdrev,Broby Overdrev,,RL,--3--6--,,55.4,11.6,
 DK,BBY,Brobyvark,Brobyvark,83,RL,-23-----,,55.233333333333334,10.25,
@@ -119,7 +119,7 @@ DK,BRP,Br�rup,Brorup,,RQ,--3-----,,55.4846109,9.0155482,true
 DK,BRT,Brovst,Brovst,,RL,--3-----,,57.0973209,9.5228664,true
 DK,YRP,Bryrup,Bryrup,82,RL,--3-----,,56.016666666666666,9.516666666666667,
 DK,BRS,Burso,Burso,85,RQ,-----6--,,54.733333333333334,11.5,
-DK,BYL,Bylderup,Bylderup,,RQ,--3-----,,54.9447815,9.1017036,true
+DK,BYL,Bylderup,Bylderup,,RQ,--3-----,,54.9441897,9.0910721,true
 DK,DAN,Cementfabriken Dania,Cementfabriken Dania,,AI,1-------,,,,
 DK,KON,Cementfabrikken Kongsdal Havn,Cementfabrikken Kongsdal Havn,,AI,1-------,,,,
 DK,OOT,Charlottenlund,Charlottenlund,,RQ,1-------,,55.7552973,12.5671103,true
@@ -132,7 +132,7 @@ DK,DAS,Dansk Salts Havn,Dansk Salts Havn,,RQ,1-------,,,,
 DK,DAU,Daugard,Daugard,,RQ,--3-----,,55.733333333333334,9.716666666666667,
 DK,DIA,Dianalund,Dianalund,85,RL,-23-----,,55.516666666666666,11.483333333333333,
 DK,DKD,Dokkedal,Dokkedal,,RQ,--3-----,,56.9035514,10.2535433,true
-DK,DRA,Drag�r,Dragor,,RL,1-------,,55.592487,12.6719953,true
+DK,DRA,Drag�r,Dragor,,RL,1-------,,55.58168105,12.638926388249875,true
 DK,DRO,Dronningborg,Dronningborg,,RL,--3-----,,56.483333333333334,10.083333333333334,
 DK,DLD,Dronninglund,Dronninglund,81,RL,--3-----,,57.15,10.283333333333333,
 DK,DRN,Dronningmolle,Dronningmolle,,RQ,--3-----,,56.1,12.4,
@@ -148,7 +148,7 @@ DK,EGN,Egense,Egense,,AI,1-------,,56.96192245,10.26929865647991,true
 DK,END,Egernsund,Egernsund,,AI,1-3-----,,54.9065871,9.6032632,true
 DK,EGV,Egtved,Egtved,,RL,--3-----,,55.61666666666667,9.3,
 DK,EJY,Ejby,Ejby,,RQ,--3-----,,55.4278872,9.930492,true
-DK,EJS,Ejstrup,Ejstrup,,RQ,--3-----,,56.5532599,9.8969167,true
+DK,EJS,Ejstrup,Ejstrup,,RQ,--3-----,,55.50358845,9.378805942239868,true
 DK,ETH,Ejstrupholm,Ejstrupholm,83,RL,--3-----,,55.983333333333334,9.283333333333333,
 DK,EDL,Endelave,Endelave,,AI,1-------,,55.7675093,10.312636430160268,true
 DK,ENV,Engesvang,Engesvang,,RQ,--3-----,,56.1703216,9.3511945,true
@@ -159,8 +159,8 @@ DK,EBJ,Esbjerg,Esbjerg,,AF,1234----,,55.4664892,8.4520751,true
 DK,ESK,Eskebjerg,Eskebjerg,,RQ,--3-----,,55.71666666666667,11.316666666666666,
 DK,EK4,Eskilstrup,Eskilstrup,85,RL,1-3-----,,55.85,11.633333333333333,
 DK,ESP,Esperg�rde,Espergarde,84,RL,--3-----,,55.983333333333334,12.566666666666666,
-DK,FAA,Faaborg,Faaborg,,RL,1-------,,55.097087,10.2428246,true
-DK,FVJ,Faarevejle,Faarevejle,,RQ,--3-----,,55.78569,11.46673,true
+DK,FAA,Faaborg,Faaborg,,RL,1-------,,55.1967236,10.4280927748914,true
+DK,FVJ,Faarevejle,Faarevejle,,RQ,--3-----,,55.786534,11.467833,true
 DK,FUP,Faarup,Faarup,,RQ,--3-----,,55.16133,11.89521,true
 DK,FVG,Faarvang,Faarvang,,RQ,--3-----,,,,
 DK,AAM,Fakse,Fakse,85,RL,-----6--,,55.25,12.133333333333333,
@@ -181,7 +181,7 @@ DK,FNS,Forn�s,Fornas,,RQ,--3-----,,,,
 DK,FOV,Fovling,Fovling,,RQ,--3-----,,55.93333333333333,9.633333333333333,
 DK,FRK,F�vling,Fovling,83,RL,1-3-----,,55.45,8.95,
 DK,FRA,Fraugde,Fraugde,83,RL,--3-----,,55.35,10.483333333333333,
-DK,FRE,Fredensborg,Fredensborg,,AF,-23-----,,55.9740003,12.4050622,true
+DK,FRE,Fredensborg,Fredensborg,,AF,-23-----,,55.950742500000004,12.441505373386224,true
 DK,FRC,Fredericia,Fredericia,,AF,12--5---,,55.565268,9.7562169,true
 DK,FBG,Frederiksberg,Frederiksberg,,RQ,--3-----,,55.678016,12.5326186,true
 DK,FDH,Frederikshavn,Frederikshavn,,AF,12------,,57.4412134,10.5336225,true
@@ -218,7 +218,7 @@ DK,GTS,Glatved Strand,Glatved Strand,82,RL,1-------,,56.3,105.31666666666666,
 DK,GLJ,Glejbjerg,Glejbjerg,83,RL,--3-----,,55.55,8.833333333333334,
 DK,GLB,Glejbjerg Stationsby,Glejbjerg Stationsby,83,RL,--3-----,,55.56666666666667,8.833333333333334,
 DK,AAN,Glesborg,Glesborg,82,RL,-----6--,,56.483333333333334,10.733333333333333,
-DK,GLS,Glostrup,Glostrup,,RQ,--3-----,,55.6835672,12.4128011280619,true
+DK,GLS,Glostrup,Glostrup,,RQ,--3-----,,55.68391205,12.412926193799077,true
 DK,GLU,Glumso,Glumso,,RQ,--3-----,,55.35,11.7,
 DK,GLY,Glyng�re,Glyngore,,RL,1-------,,56.759744,8.8739004,true
 DK,GRG,Gording,Gording,,RL,--3-----,,55.483333333333334,8.8,
@@ -239,7 +239,7 @@ DK,GUD,Gudbjerg,Gudbjerg,,RQ,--3-----,,55.1545835,10.6658276,true
 DK,GDM,Gudhjem,Gudhjem,,RL,1-3-----,,55.21666666666667,14.966666666666667,
 DK,GUM,Gudme,Gudme,,RQ,--3-----,,55.15,10.716666666666667,
 DK,GDB,Guldborg,Guldborg,,RQ,--3-----,,54.86666666666667,11.75,
-DK,GFH,Gulfhavn,Gulfhavn,,AI,1-------,,55.1994475,11.257016653997196,true
+DK,GFH,Gulfhavn,Gulfhavn,,AI,1-------,,55.2054177,11.26386979278255,true
 DK,HBY,Haarby,Haarby,,RQ,0-------,,55.2203305,10.1258184,true
 DK,HAD,Haderslev,Haderslev,,AI,1-------,,55.2500715,9.4997871,true
 DK,HDP,Haderup,Haderup,82,RL,--3-----,,56.38333333333333,8.983333333333333,
@@ -267,7 +267,7 @@ DK,HNB,Havneby,Havneby,,AI,1-------,,55.0868902,8.563597,true
 DK,HVG,Havnegade,Havnegade,,RQ,0-------,,55.675337,12.594607,true
 DK,HVN,Havns�,Havnso,,AI,1-------,,55.7518479,11.3232496,true
 DK,HHS,Hedehusene,Hedehusene,84,RL,--3-----,,55.65,121.33333333333333,
-DK,HED,Hedensted,Hedensted,,RQ,--3-----,,55.7705233,9.6994255,true
+DK,HED,Hedensted,Hedensted,,RQ,--3-----,,55.79690585,9.78128527016317,true
 DK,HEJ,Hejls,Hejls,83,RL,1-------,,55.38333333333333,9.6,
 DK,HJN,Hejnsvig,Hejnsvig,,RQ,--3-----,,55.68333333333333,8.983333333333333,
 DK,HVT,Helleb�k,Hellebak,81,RL,1-3-----,,56.06666666666667,12.566666666666666,
@@ -278,7 +278,7 @@ DK,HLS,Helsing�r,Helsingor,,AF,12------,,56.0348739,12.6130073,true
 DK,HEM,Hemmet,Hemmet,,RQ,--3-----,,55.85,8.383333333333333,
 DK,HEN,Henne,Henne,,RQ,--3-----,,55.733333333333334,8.25,
 DK,HFE,Herf�lge,Herfolge,,RL,--3-----,,55.4138346,12.1411987,true
-DK,HRV,Herlev,Herlev,,RQ,--3-----,,55.733719300000004,12.429451647608477,true
+DK,HRV,Herlev,Herlev,,RQ,--3-----,,55.733752800000005,12.429448594707353,true
 DK,HEU,Herlufmagle,Herlufmagle,,RQ,--3-----,,55.31666666666667,11.766666666666667,
 DK,HER,Herning,Herning,,RL,1-------,,56.1379757,8.9746623,true
 DK,HRS,Herskind,Herskind,,RQ,--3-----,,56.1829328,9.965903,true
@@ -315,9 +315,9 @@ DK,HSY,Hornsyld,Hornsyld,,RL,--3-----,,55.75,9.866666666666667,
 DK,HOR,Horsens,Horsens,,AI,1-------,,55.8611696,9.8444774,true
 DK,HHM,H�rsholm,Horsholm,,RL,--3-----,,55.8832986,12.5000112,true
 DK,HOS,Horslunde,Horslunde,,RQ,--3-----,,54.9,11.233333333333333,
-DK,HRU,H�rup,Horup,,RL,--3-----,,55.8523953,12.1333879,true
+DK,HRU,H�rup,Horup,,RL,--3-----,,54.9269384,9.903814768260121,true
 DK,HRE,H�rve,Horve,,RL,--3-----,,55.75,11.466666666666667,
-DK,HOH,Hou Havn,Hou Havn,,AI,1-------,,56.65586,10.01444,true
+DK,HOH,Hou Havn,Hou Havn,,AI,1-------,,57.06346,10.36699,true
 DK,HBG,Houborg,Houborg,,RQ,0-------,,,,
 DK,HWO,Hov,Hov,,RQ,1-------,,55.916666666666664,10.25,
 DK,HVB,Hovborg,Hovborg,,RQ,--3-----,,55.6,8.95,
@@ -333,19 +333,19 @@ DK,AAO,Hurup Thy,Hurup Thy,82,RL,-----6--,,56.75,8.416666666666666,
 DK,HVA,Hvalpsund,Hvalpsund,,AI,1-------,,56.7013574,9.2070497,true
 DK,HVL,Hvals�,Hvalso,85,RL,--3--6--,,55.6,11.85,
 DK,HVS,Hvide Sande,Hvide Sande,,RL,1-3-----,,55.983333333333334,8.133333333333333,
-DK,HVV,Hvidovre,Hvidovre,,RQ,--3-----,,55.6441712,12.4772091,true
+DK,HVV,Hvidovre,Hvidovre,,RQ,--3-----,,55.6320452,12.467192029011699,true
 DK,HVI,Hvims,Hvims,83,RQ,--3-----,,55.483333333333334,8.666666666666666,
 DK,HYL,Hyllinge,Hyllinge,85,RL,--3-----,,55.266666666666666,11.616666666666667,
 DK,IDE,Idestrup,Idestrup,,RQ,--3-----,,54.733333333333334,11.966666666666667,
-DK,IKA,Ikast,Ikast,,AF,-23-----,,56.1390178,9.1547931,true
-DK,ISJ,Ish�j,Ishoj,,RQ,0-------,,55.6094468,12.3582555,true
+DK,IKA,Ikast,Ikast,,AF,-23-----,,56.0533577,9.256025758737742,true
+DK,ISJ,Ish�j,Ishoj,,RQ,0-------,,55.6158131,12.337238908165677,true
 DK,JAE,J�gersborg,Jagersborg,84,RL,--3-----,,55.766666666666666,12.55,
 DK,JGP,J�gerspris,Jagerspris,84,RL,--3-----,,55.85,11.983333333333333,
 DK,JAN,Janderup,Janderup,,RQ,--3-----,,55.61666666666667,8.383333333333333,
 DK,JEL,Jelling,Jelling,83,RL,1-------,,55.75,9.433333333333334,
 DK,JSD,Jersie Strand,Jersie Strand,85,RL,--3-----,,55.516666666666666,12.216666666666667,
-DK,JER,Jerslev,Jerslev,85,RL,--3-----,,55.6,11.233333333333333,
 DK,JSL,Jerslev,Jerslev,81,RL,--3-----,,57.28333333333333,10.083333333333334,
+DK,JER,Jerslev,Jerslev,85,RL,--3-----,,55.6,11.233333333333333,
 DK,JUP,Jerup,Jerup,,RQ,--3-----,,57.53333333333333,10.433333333333334,
 DK,JRD,Jordl�se,Jordlose,,RQ,--3-----,,55.2001097,10.1560718,true
 DK,JOR,Jordrup,Jordrup,,RQ,--3-----,,55.55,9.316666666666666,
@@ -361,7 +361,7 @@ DK,KAI,Karise,Karise,,RQ,--3-----,,55.3,12.216666666666667,
 DK,KAR,Karlslunde,Karlslunde,85,RL,1-3-----,,55.56666666666667,12.216666666666667,
 DK,KBK,Karreb�ksminde,Karrebaksminde,85,RL,1-3-----,,55.18333333333333,11.666666666666666,
 DK,KRP,Karup,Karup,,AI,---4----,,56.3081026,9.095409583535908,true
-DK,KTP,Kastrup,Kastrup,,AI,1-------,,55.6378428,12.6379955,true
+DK,KTP,Kastrup,Kastrup,,AI,1-------,,55.0321913,11.8969056,true
 DK,KTD,Kerteminde,Kerteminde,,AI,1-------,,55.4532771,10.6547783,true
 DK,KT4,Kettinge,Kettinge,85,RL,1-3-----,,54.7,11.75,
 DK,KIB,Kib�k,Kibak,,RQ,--3-----,,,,
@@ -380,7 +380,7 @@ DK,KPV,Kliplev,Kliplev,,RQ,--3-----,,54.9377073,9.4011265,true
 DK,KLI,Klippinge,Klippinge,,RQ,--3-----,,55.35,12.333333333333334,
 DK,KVB,Klovborg,Klovborg,,RQ,--3-----,,55.9319642,9.4905654,true
 DK,KNB,Knebel,Knebel,,RQ,--3-----,,56.2139417,10.4864395,true
-DK,KHV,Knudshoved,Knudshoved,,RQ,1-------,,56.5521086,9.3060992,true
+DK,KHV,Knudshoved,Knudshoved,,RQ,1-------,,,,
 DK,CPH,K�benhavn,Kobenhavn,84,AF,12345---,,55.666666666666664,12.583333333333334,
 DK,KOG,K�ge,Koge,,AF,12------,,55.4565009,12.1818964,true
 DK,KKK,Kokkedal,Kokkedal,,RQ,--3-----,,55.9,12.516666666666667,
@@ -395,7 +395,7 @@ DK,KRR,Kors�r,Korsor,,AF,12------,,55.3266045,11.1425876,true
 DK,KRA,Kragen�s,Kragenas,,AI,1-------,,,,
 DK,KRS,Krus�,Krusa,,AF,-23-----,,54.8479278,9.4075596,true
 DK,KVR,Kv�rndrup,Kvarndrup,,RQ,1-------,,,,
-DK,KVG,Kvistgaard,Kvistgaard,,RQ,--3-----,,55.99348,12.50446,true
+DK,KVG,Kvistgaard,Kvistgaard,,RQ,--3-----,,,,
 DK,KBY,Kyndbyvaerkets Havn,Kyndbyvaerkets Havn,,AI,1-------,,54.95628,10.22434,true
 DK,LES,Laeso,Laeso,81,RL,--3-----,,54.78333333333333,11.1,
 DK,LAN,Lang�,Langa,82,RL,-23-----,,56.38333333333333,9.883333333333333,
@@ -406,7 +406,7 @@ DK,LAA,L�sby,Lasby,,RQ,--3-----,,56.1526374,9.809458,true
 DK,LEJ,Lejre,Lejre,,RL,--3-----,,55.6,11.966666666666667,
 DK,LEM,Lem,Lem,82,RL,--3-----,,56.016666666666666,8.383333333333333,
 DK,LMM,Lemming,Lemming,,RQ,--3-----,,56.233333333333334,9.55,
-DK,LVG,Lemvig,Lemvig,,AI,1-------,,56.5486971,8.3046456,true
+DK,LVG,Lemvig,Lemvig,,AI,1-------,,56.5288228,8.302984882026257,true
 DK,LLS,Lille Skensved,Lille Skensved,,AF,-23-----,,55.5101491,12.138218,true
 DK,LHH,Lindholm Havn,Lindholm Havn,83,RQ,1-------,,55.28333333333333,10.8,
 DK,LIN,Lind� Havn,Lindo Havn,,AI,1-------,,54.95628,10.22434,true
@@ -435,14 +435,14 @@ DK,MLT,Marslet,Marslet,,RQ,--3-----,,56.06666666666667,10.166666666666666,
 DK,MAR,Marslev,Marslev,,RQ,--3-----,,55.3902304,10.5213062,true
 DK,MRS,Marstal,Marstal,,AI,1-------,,54.8558332,10.5174056,true
 DK,MTF,Martofte,Martofte,,RQ,--3-----,,55.55,10.666666666666666,
-DK,MAS,Masned�,Masnedo,,AI,1-------,,54.9874964,11.887458383889323,true
+DK,MAS,Masned�,Masnedo,,AI,1-------,,54.991045,11.8872124,true
 DK,MKH,Masnedovaerkets Havn/Vordingborg,Masnedovaerkets Havn/Vordingborg,85,RL,1-3-----,,54.96666666666667,11.883333333333333,
 DK,MNS,Masnedsund,Masnedsund,85,AA,1-3-----,,55,11.866666666666667,
 DK,UNX,Masnedsund Godningshamn,Masnedsund Godningshamn,85,AI,1-------,,55,11.916666666666666,
 DK,MBY,Melby,Melby,,RQ,--3-----,,55.65,11.116666666666667,
 DK,MER,Mern,Mern,,RQ,--3-----,,55.05,12.066666666666666,
 DK,MES,Mesinge,Mesinge,,RQ,--3-----,,55.5,10.65,
-DK,MID,Middelfart,Middelfart,,AF,12------,,55.4470245,9.93698091984884,true
+DK,MID,Middelfart,Middelfart,,AF,12------,,55.44699795,9.93698602688241,true
 DK,MLL,Millinge,Millinge,,RQ,--3-----,,55.13333333333333,10.216666666666667,
 DK,MUP,Moldrup,Moldrup,,RQ,--3-----,,56.614641,9.5011335,true
 DK,MOM,Mommark,Mommark,,AI,1-------,,54.9213988,10.040313,true
@@ -465,7 +465,7 @@ DK,NIV,Niva,Niva,,RQ,--3-----,,55.93333333333333,12.516666666666667,
 DK,NAG,N�rager,Norager,81,RL,--3-----,,56.7,9.633333333333333,
 DK,NBR,Nordborg,Nordborg,,RL,--3-----,,55.03333333333333,9.8,
 DK,NOB,Nordby,Nordby,83,RL,-----6--,,55.96666666666667,10.566666666666666,
-DK,NDB,"""Nordby Havn"," Fan�""","""Nordby Havn"," Fano""",,1-------,97.06666666666666,NaN,
+DK,NDB,"Nordby Havn, Fan�","Nordby Havn, Fano",,AI,1-------,,55.424273,8.380508,true
 DK,NKV,Nordenskov,Nordenskov,,RQ,--3-----,,55.6510244,8.68429,true
 DK,NHN,Nordhavn,Nordhavn,84,RL,1-------,,55.7,12.6,
 DK,VSV,Norjyllandsvarkets havn,Norjyllandsvarkets havn,,AI,1-------,,54.95628,10.22434,true
@@ -493,9 +493,9 @@ DK,OSB,Oksbol,Oksbol,,RL,-----6--,,55.63333333333333,8.283333333333333,
 DK,OLG,Olgod,Olgod,,RL,--3-----,,55.81666666666667,8.616666666666667,
 DK,OTK,�lstykke,Olstykke,,RL,-23-----,,55.8,12.166666666666666,
 DK,OEL,�lstykke Stationsby,Olstykke Stationsby,84,RL,--3-----,,55.78333333333333,12.133333333333333,
-DK,OMO,Om�,Omo,,AI,1-------,,55.1582696,11.14957989972121,true
+DK,OMO,Om�,Omo,,AI,1-------,,55.1614651,11.1553502,true
 DK,OFQ,Orb�k,Orbak,83,AA,--3-----,,55.266666666666666,10.666666666666666,
-DK,ORE,"""Orehoved"," Falster""","""Orehoved"," Falster""",,1-------,54.9518091,11.8551947,true
+DK,ORE,"Orehoved, Falster","Orehoved, Falster",,AI,1-------,,54.9518091,11.8551947,true
 DK,OHJ,Ornhoj,Ornhoj,,RL,--3-----,,56.2,8.583333333333334,
 DK,ORO,Or�,Oro,,AI,1-------,,55.779682699999995,11.811672512192652,true
 DK,ORS,Orsted,Orsted,,RQ,--3-----,,56.5,10.35,
@@ -530,7 +530,7 @@ DK,RIB,Ribe,Ribe,,RQ,--3-----,,55.3284036,8.7647838,true
 DK,RIN,Ringe,Ringe,,RQ,--3-----,,55.2351317,10.481895,true
 DK,RKG,Ringk�bing,Ringkobing,82,RL,-23-----,,56.083333333333336,8.233333333333333,
 DK,RNG,Ringsted,Ringsted,,AF,-23-----,,55.446817,11.7975218,true
-DK,RSS,Risskov,Risskov,,RL,--3-----,,56.2017679,10.2419582,true
+DK,RSS,Risskov,Risskov,,RL,--3-----,,56.1855866,10.212842,true
 DK,ROF,R�dby,Rodby,85,AI,1-3-----,,54.68333333333333,11.383333333333333,
 DK,ROD,R�dbyhavn,Rodbyhavn,85,AA,123--6--,,54.65,11.35,
 DK,RDG,R�dding,Rodding,83,RL,--3-----,,55.35,9.05,
@@ -556,7 +556,7 @@ DK,RYM,Ryomg�rd,Ryomgard,,RQ,--3-----,,56.3842243,10.5020848,true
 DK,RYS,Ryslinge,Ryslinge,83,RL,1-------,,55.25,10.55,
 DK,SAB,Sabro,Sabro,82,RL,--3-----,,56.21666666666667,10.216666666666667,
 DK,SAE,S�by,Saby,,RL,123-----,,57.333333333333336,10.533333333333333,
-DK,SLV,S�lvig Havn,Salvig Havn,,AI,1-------,,,,
+DK,SLV,S�lvig Havn,Salvig Havn,,AI,1-------,,54.95628,10.22434,true
 DK,KII,Saint Kilian,Saint Kilian,81,RQ,1-------,,55.681132,12.595248,true
 DK,SAX,Saksk�bing,Sakskobing,,AI,1-------,,54.798788,11.6341381,true
 DK,SAL,Saltum,Saltum,81,RL,--3-----,,57.266666666666666,9.683333333333334,
@@ -581,7 +581,7 @@ DK,SDO,Skar�/Drej�,Skaro/Drejo,,AI,1-------,,54.96968,10.42026,true
 DK,SJB,Skejby,Skejby,,RQ,0-------,,56.1985875,10.1819444,true
 DK,SKY,Skibby,Skibby,,RL,--3-----,,55.7500014,11.9619362,true
 DK,SKV,Skive,Skive,,AF,12------,,56.6459244,8.932732160154906,true
-DK,SKJ,Skjern,Skjern,,AF,-23-----,,55.9469339,8.4909186,true
+DK,SKJ,Skjern,Skjern,,AF,-23-----,,56.01767955,8.547337560871473,true
 DK,SKO,Skodborg,Skodborg,,RQ,--3-----,,55.4187528,9.1529678,true
 DK,SK3,Skodsborg,Skodsborg,84,RL,1-3-----,,55.81666666666667,12.566666666666666,
 DK,SKT,Skodstrup,Skodstrup,,RQ,--3-----,,56.2629757,10.3039321,true
@@ -590,10 +590,10 @@ DK,SKD,Skovlund,Skovlund,83,RL,--3-----,,55.733333333333334,8.7,
 DK,SVL,Skovlunde,Skovlunde,,RL,-2---6--,,55.71666666666667,12.4,
 DK,SKH,Skovshoved,Skovshoved,84,RL,1-------,,55.766666666666666,12.6,
 DK,SKR,Skrydstrup,Skrydstrup,,RL,--34----,SKS,55.233333333333334,9.25,
-DK,SLG,Slagelse,Slagelse,,AF,-23-----,,55.34789495,11.351126849869559,true
+DK,SLG,Slagelse,Slagelse,,AF,-23-----,,55.3478511,11.351111178735273,true
 DK,SLA,Slangerup,Slangerup,,RQ,--3-----,,55.8455905,12.1743536,true
 DK,SMG,Slimminge,Slimminge,85,RL,--3-----,,55.45,11.933333333333334,
-DK,SMO,Sm�rum,Smorum,,RQ,0-------,,55.761345,12.325926,true
+DK,SMO,Sm�rum,Smorum,,RQ,0-------,,55.7303736,12.2930045,true
 DK,SDD,Snedsted,Snedsted,82,RL,--3-----,,56.88333333333333,8.516666666666667,
 DK,SNE,Snekkersten,Snekkersten,,AI,1-------,,56.0107273,12.579952,true
 DK,SN2,Snertinge,Snertinge,85,RL,1-3-----,,55.06666666666667,11.916666666666666,
@@ -603,7 +603,7 @@ DK,SLS,Sollested,Sollested,85,RL,--3-----,,54.81666666666667,11.283333333333333,
 DK,SL2,S�llested,Sollested,83,RL,1-3-----,,55.3,10.05,
 DK,SOL,Solr�d Strand,Solrod Strand,85,RL,--3--6--,,55.53333333333333,12.233333333333333,
 DK,SOD,Sommersted,Sommersted,85,RL,--3-----,,55.31666666666667,9.316666666666666,
-DK,SND,S�nder,Sonder,,RQ,--3-----,,54.90446,10.78576,true
+DK,SND,S�nder,Sonder,,RQ,--3-----,,54.7628854,11.9117016,true
 DK,ABA,S�nder Bjert,Sonder Bjert,83,RL,-----6--,,55.25,11.4,
 DK,SFG,S�nder Felding,Sonder Felding,82,RL,--3-----,,55.95,8.783333333333333,
 DK,SOM,S�nder Omme,Sonder Omme,,RL,--3-----,,55.833333333333336,8.9,
@@ -642,8 +642,8 @@ DK,STD,Strandby,Strandby,,RL,--3-----,,57.5,10.5,
 DK,STY,Strandby,Strandby,81,RL,-----6--,,56.78333333333333,9.216666666666667,
 DK,STB,Strib Havn,Strib Havn,,AI,1-------,,55.535506,9.777351,true
 DK,SB2,Str�by,Stroby,85,RL,1-3-----,,55.38333333333333,12.3,
-DK,STR,Struer,Struer,,AF,12------,,56.4866768,8.5951427,true
-DK,SNO,Stryn�,Stryno,,AI,1-------,,54.904216899999994,10.610147002683757,true
+DK,STR,Struer,Struer,,AF,12------,,56.634217899999996,8.539353455465557,true
+DK,SNO,Stryn�,Stryno,,AI,1-------,,54.898806699999994,10.577181578095063,true
 DK,SBK,Stubbek�bing,Stubbekobing,85,AI,1-------,,54.88333333333333,12.05,
 DK,SSV,Studstrupv�rkets Havn,Studstrupvarkets Havn,,AI,1-------,,54.95628,10.22434,true
 DK,EOT,Styrtom,Styrtom,,RL,1-------,,55.016666666666666,9.433333333333334,
@@ -653,7 +653,7 @@ DK,SUS,Sunds,Sunds,,RL,--3-----,,56.2043516,9.0148142,true
 DK,SUE,Sunds�re,Sundsore,,AI,1-------,,56.7083874,9.1723864,true
 DK,SVA,Svaneke,Svaneke,,RL,1-3-----,,55.13333333333333,15.15,
 DK,SVB,Sveb�lle,Svebolle,85,RL,-23-----,,55.65,11.283333333333333,
-DK,SVE,Svendborg,Svendborg,,AF,12------,,55.0636926,10.6085377,true
+DK,SVE,Svendborg,Svendborg,,AF,12------,,55.0636625,10.6084725,true
 DK,SVN,Svenstrup,Svenstrup,81,RL,--3-----,,56.96666666666667,9.833333333333334,
 DK,SNN,Svinninge,Svinninge,,RQ,--3-----,,55.7200463,11.4613759,true
 DK,SDA,Sydals,Sydals,,RL,1-3--6--,,54.9,9.883333333333333,
@@ -668,9 +668,9 @@ DK,TTR,T�strup-Valby,Tastrup-Valby,84,RL,--3-----,,55.63333333333333,12.316666
 DK,TLV,Taulov,Taulov,,RQ,--3-----,,55.5388,9.6091733,true
 DK,TER,Terndrup,Terndrup,81,RL,--3-----,,56.81666666666667,10.066666666666666,
 DK,THM,Them,Them,,RL,--3-----,,56.0901518,9.5465183,true
-DK,TED,Thisted,Thisted,,AF,12-4----,,56.9562093,8.6848749,true
+DK,TED,Thisted,Thisted,,AF,12-4----,,57.0698586,8.698246553187925,true
 DK,TSO,Thorso,Thorso,82,RL,--3-----,,56.3,9.8,
-DK,THO,Thur�,Thuro,,RQ,--3-----,,55.0426356,10.681921051914895,true
+DK,THO,Thur�,Thuro,,RQ,--3-----,,55.046453,10.6657959,true
 DK,THN,Thybor�n,Thyboron,,RL,-----6--,,56.7,8.216666666666667,
 DK,THY,Thyholm,Thyholm,,RL,-23-----,,56.65,8.516666666666667,
 DK,TKB,Tik�b,Tikob,84,RL,1-3-----,,56.016666666666666,12.466666666666667,
@@ -690,7 +690,7 @@ DK,TB4,Toreby,Toreby,85,RL,1-3-----,,54.75,11.8,
 DK,TRG,Torrig,Torrig,85,RL,1-3-----,,54.9,11.333333333333334,
 DK,TOE,T�rring,Torring,,RQ,--3-----,,55.8499627,9.483801,true
 DK,TMD,Torsminde,Torsminde,82,RL,1-3-----,,56.36666666666667,8.116666666666667,
-DK,TOR,Torup,Torup,82,RQ,--3-----,,54.85,10.43333,true
+DK,TOR,Torup,Torup,82,RQ,--3-----,,55.9831,11.942,true
 DK,TAG,Tranbjerg,Tranbjerg,81,RL,-----6--,,56.1,10.15,
 DK,TRN,Tranebjerg,Tranebjerg,82,RQ,--3-----,,55.833333333333336,10.6,
 DK,TKA,Tranekaer,Tranekaer,,RL,--3-----,,55,10.85,
@@ -699,7 +699,7 @@ DK,TRO,Troense,Troense,83,RL,1-------,,55.03333333333333,10.65,
 DK,TRU,Trustrup,Trustrup,82,RL,--3-----,,55.9,10.05,
 DK,TUB,Tuborg,Tuborg,,AF,12------,,55.7385971,12.53294482009271,true
 DK,TN3,Tune,Tune,85,RL,1-3-----,,55.6,12.183333333333334,
-DK,TNO,Tun�,Tuno,,AI,1-------,,55.95211105,10.437565178709193,true
+DK,TNO,Tun�,Tuno,,AI,1-------,,55.9520828,10.438164809419643,true
 DK,TUR,Tureby,Tureby,85,RL,--3-----,,55.36666666666667,12.083333333333334,
 DK,TYB,Tybor�n,Tyboron,,AF,12------,,,,
 DK,TYL,Tylstrup,Tylstrup,81,RL,--3-----,,57.18333333333333,9.95,
@@ -711,18 +711,18 @@ DK,ULS,Ulstrup,Ulstrup,82,RL,--3-----,,56.38333333333333,9.783333333333333,
 DK,VAD,Vadum,Vadum,,RQ,--3-----,,57.1155958,9.8589601,true
 DK,VG4,V�ggerl�se,Vaggerlose,85,RL,1-3-----,,54.7,11.933333333333334,
 DK,VLE,V�rl�se,Varlose,,RL,--34----,,55.266666666666666,12.133333333333333,
-DK,VAL,Valby,Valby,,RQ,0-------,,55.6618019,12.5169523,true
+DK,VAL,Valby,Valby,,RQ,0-------,,56.0568941,12.2057033,true
 DK,VAE,Vallensb�k,Vallensbak,84,RL,123-----,,55.63333333333333,12.35,
 DK,VLL,Vall�,Vallo,85,RL,--3-----,,55.4,12.25,
 DK,VDP,Vamdrup,Vamdrup,,RQ,--3-----,,55.4284473,9.2889565,true
 DK,VDL,Vandel,Vandel,83,RL,--3-----,,55.7,9.216666666666667,
 DK,VNG,Vang Havn,Vang Havn,,RQ,1-------,,55.24732,14.73524,true
 DK,VAN,Vanl�se,Vanlose,85,RL,-23--6--,,55.68333333333333,12.483333333333333,
-DK,VDE,Varde,Varde,,RQ,--3-----,,55.6176702,8.4811757,true
+DK,VDE,Varde,Varde,,RQ,--3-----,,55.662994299999994,8.509659755103332,true
 DK,VBK,Vedb�k,Vedbak,84,RL,--3-----,,55.85,12.566666666666666,
 DK,VB2,Vejby,Vejby,84,RL,1-3-----,,56.06666666666667,12.15,
-DK,VJN,Vejen,Vejen,,RQ,--3-----,,55.4743417,9.1317951,true
-DK,VEJ,Vejle,Vejle,,AF,12------,,55.7000057,9.5333238,true
+DK,VJN,Vejen,Vejen,,RQ,--3-----,,55.45868135,9.03165915507365,true
+DK,VEJ,Vejle,Vejle,,AF,12------,,55.707931,9.5329419,true
 DK,VJT,Vejstrup,Vejstrup,83,RL,--3-----,,55.1,10.716666666666667,
 DK,VK7,Veks�,Vekso,84,RL,1-3-----,,55.75,12.25,
 DK,VMB,Vemb,Vemb,,RQ,-23-----,,56.3439338,8.3386659,true
@@ -730,11 +730,11 @@ DK,VM2,Vemmelev,Vemmelev,85,RL,1-3-----,,55.36666666666667,11.266666666666667,
 DK,VEN,Ven� Havn,Veno Havn,,AI,1-------,,54.95628,10.22434,true
 DK,VBJ,Vestbjerg,Vestbjerg,81,RL,--3--6--,QXF,57.11666666666667,9.95,
 DK,VT2,Vesterborg,Vesterborg,85,RL,1-3-----,,54.85,11.283333333333333,
-DK,VES,"""Vester� Havn"," L�s�""","""Vestero Havn"," Laso""",,1-------,57.2950657,10.9265417,true
+DK,VES,"Vester� Havn, L�s�","Vestero Havn, Laso",,AI,1-------,,54.95628,10.22434,true
 DK,VSK,Vester-Skerninge,Vester-Skerninge,,RQ,--3-----,,55.06666666666667,10.45,
 DK,VIB,Viborg,Viborg,,AF,-23-----,,56.4469128,9.4059354,true
-DK,VBI,Viby,Viby,85,RL,--3-----,,55.53333333333333,12.016666666666667,
 DK,VIY,Viby,Viby,82,RL,--3--6--,,56.11666666666667,10.15,
+DK,VBI,Viby,Viby,85,RL,--3-----,,55.53333333333333,12.016666666666667,
 DK,VID,Videb�k,Videbak,82,RL,--3-----,,56.083333333333336,8.616666666666667,
 DK,VIG,Vig,Vig,,RQ,--3-----,,55.8519079,11.5845861,true
 DK,VAS,Vigsn�s,Vigsnas,,RL,--3-----,,,,

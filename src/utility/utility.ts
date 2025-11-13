@@ -5,6 +5,7 @@ const path = require('path');
 const readline = require('readline');
 const xlsx = require('xlsx');
 import { json2csv } from 'json-2-csv';
+import { parse } from 'csv-parse/sync';
 
 const directoryPath = 'data-source';
 const outputDirectory = 'src/data';
@@ -123,7 +124,7 @@ async function generateJSONFromXLS(file: LoadedFile): Promise<{ [key: string]: U
 }
 
 function convertCSVLineToJSON(line: string): UnlocodeJsonItem {
-   let lineParsed = line.split(",");
+   const [lineParsed] = parse(line, { relaxQuotes: true });
    let coordinates = getCoordinates(lineParsed[10]);
    return {
       change: lineParsed[0],
@@ -132,8 +133,8 @@ function convertCSVLineToJSON(line: string): UnlocodeJsonItem {
       name: lineParsed[3],
       nameWoDiacritics: lineParsed[4],
       subdivision: lineParsed[5],
-      status: lineParsed[6],
-      function: lineParsed[7],
+      status: lineParsed[7],
+      function: lineParsed[6],
       date: lineParsed[8],
       iata: lineParsed[9],
       lat: coordinates ? coordinates.latitude : undefined,
@@ -195,7 +196,12 @@ function isFileExtensionMatching(file: LoadedFile, format: string): boolean {
 
 function getCoordinates(coordinates: any): { latitude: number, longitude: number } {
    if (coordinates) {
-      return dmsToDecimal(coordinates);
+      if(isValidDMS(coordinates)) {
+         return dmsToDecimal(coordinates);
+      } else {
+         console.error("[WARNING] Invalid DMS coordinates: " + coordinates);
+         return undefined;
+      }
    } else {
       return undefined;
    }
@@ -411,6 +417,10 @@ function dmsToDecimal(coordinate: string): { latitude: number, longitude: number
 
 function delay(ms: number): Promise<void> {
    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+function isValidDMS(coordinate: string): boolean {
+  return /^(\d{2})(\d{2})([NS])\s*(\d{3})(\d{2})([EW])$/.test(coordinate.trim());
 }
 
 interface LoadedFile {

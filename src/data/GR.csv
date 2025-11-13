@@ -36,9 +36,10 @@ GR,GRA,Agios Ioannis Rentis,Agios Ioannis Rentis,A1,AA,-23-----,,37.95,23.666666
 GR,AKI,Agios K�rykos,Agios Kirykos,84,AI,1-------,,37.61666666666667,26.3,
 GR,AKO,Agios Konstant�nos,Agios Konstantinos,,AI,1-------,,38.75,22.866666666666667,
 GR,AGF,Agios Nikolaos Fokidas,Agios Nikolaos Fokidas,,RQ,1-------,,38.333333333333336,22.15,
-GR,ANI,"""Agios Nik�laos"," Kr�ti""","""Agios Nikolaos"," Kriti""",92,1-------,35.19139,25.71333,true
+GR,ANI,"Agios Nik�laos, Kr�ti","Agios Nikolaos, Kriti",92,AI,1-------,,35.18333333333333,25.716666666666665,
 GR,AGP,Agios P�vlos,Agios Pavlos,,RL,--3-----,,40.63333333333333,22.966666666666665,
 GR,AGS,Agios Stefanos,Agios Stefanos,,RQ,0-------,,38.1410051,23.8575845,true
+GR,OTO,Agios Stefanos Avliotes,Agios Stefanos Avliotes,F,RQ,1-3-----,,39.75,19.65,
 GR,ASF,Agios Stefanos Corfu,Agios Stefanos Corfu,22,AA,1-------,,39.766666666666666,19.95,
 GR,AGG,Agistri Aiginas,Agistri Aiginas,A1,AI,1-------,,37.71666666666667,23.35,
 GR,ANL,Agnontas Skopelos,Agnontas Skopelos,43,AA,1-------,,39.083333333333336,23.7,
@@ -63,7 +64,7 @@ GR,ALI,Al�artos,Aliartos,,RL,--3-----,,38.36666666666667,23.1,
 GR,AIO,Alimos,Alimos,A1,AA,1-3-----,,37.916666666666664,23.716666666666665,
 GR,LVR,Aliverio,Aliverio,,AI,1-------,,38.4,24.05,
 GR,ALV,Aliv�rion,Aliverion,,RL,--3-----,,38.416666666666664,24.033333333333335,
-GR,ALM,Almiros,Almiros,,RQ,--3-----,,39.1807614,22.7609792,true
+GR,ALM,Almiros,Almiros,,RQ,--3-----,,39.127845199999996,22.708632962708926,true
 GR,ALY,Almyropotamos Evvoias,Almyropotamos Evvoias,H,AM,--3-----,,38.266666666666666,24.183333333333334,
 GR,ALO,Al�nnisos,Alonnisos,,AI,1-------,,39.15,23.866666666666667,
 GR,ATS,Altsi,Altsi,,AA,1-3-----,,35.166666666666664,25.883333333333333,
@@ -100,13 +101,14 @@ GR,ANX,Anoixis,Anoixis,A1,RL,--3-----,,38.13333333333333,23.85,
 GR,THO,Anthousa,Anthousa,A1,RQ,--3-----,,38.03333333333333,23.866666666666667,
 GR,ATK,Antikyra,Antikyra,,AI,1-------,,38.38333333333333,22.633333333333333,
 GR,ANP,Antiparos,Antiparos,,AI,1-------,,37.03333333333333,25.083333333333332,
+GR,PXO,Antipaxoi,Antipaxoi,F,RQ,1-3-----,,39.15,20.233333333333334,
 GR,APS,Apsalos,Apsalos,,RL,--3-----,,40.9,22.05,
 GR,ARX,Araxos,Araxos,,RQ,1-------,,38.2,21.383333333333333,
 GR,ARE,Are�polis,Areopolis,,RL,--3-----,,36.65,22.383333333333333,
 GR,ARG,Argos (Argolis),Argos (Argolis),,AA,--3-----,,37.6349668,22.7285084,true
 GR,ARM,Argost�lion,Argostolion,,AI,1-------,,38.18333333333333,20.483333333333334,
 GR,ARY,Argyropouli,Argyropouli,42,RL,--3-----,,39.81666666666667,22.3,
-GR,AGY,Argyroupoli,Argyroupoli,A1,RL,--3-----,,40.9928332,22.9283797,true
+GR,AGY,Argyroupoli,Argyroupoli,A1,RL,--3-----,,35.2853662,24.3348295,true
 GR,GAC,Argyroupolis,Argyroupolis,57,RL,--3--6--,,40.983333333333334,22.933333333333334,
 GR,ARI,Arida�a,Aridaia,,RL,--3-----,,40.96666666666667,22.05,
 GR,ARD,Arkioi Dodekanissou,Arkioi Dodekanissou,81,AA,1-------,,37.38333333333333,26.733333333333334,
@@ -141,7 +143,8 @@ GR,AYA,Ay�a Mar�na,Ayia Marina,04,RL,--3-----,,38.03333333333333,24.31666666
 GR,AYM,Ay�a Mar�na,Ayia Marina,06,RL,--3-----,,38.56666666666667,22.7,
 GR,ATR,Ay�a Tri�s,Ayia Trias,,RL,--3-----,,38.983333333333334,21.8,
 GR,ATM,�yios Thom�s,Ayios Thomas,03,RL,--3-----,,38.28333333333333,23.583333333333332,
-GR,CHI,"""Cha�dari"," Athens""","""Chaidari"," Athens""",,--3-----,38.0070659,23.6563151,true
+GR,TSA,Benitsa,Benitsa,F,RQ,1-3-----,,39.55,19.9,
+GR,CHI,"Cha�dari, Athens","Chaidari, Athens",,RL,--3-----,,38.016666666666666,23.65,
 GR,HLS,Chalastra,Chalastra,,RL,--3-----,,40.61666666666667,22.75,
 GR,CLK,Chalkida,Chalkida,04,AA,1-------,,38.46666666666667,23.583333333333332,
 GR,FOS,Chalkid�n,Chalkidon,B,RL,--3-----,,40.71666666666667,22.583333333333332,
@@ -230,6 +233,7 @@ GR,GLY,Glyfa Fthiotidas,Glyfa Fthiotidas,06,AI,1-------,,38.95,22.96666666666666
 GR,GFD,Glyfada,Glyfada,A1,AA,1-3-----,,37.86666666666667,23.75,
 GR,GON,G�nnoi,Gonnoi,42,RL,--3-----,,39.86666666666667,22.466666666666665,
 GR,GSA,Goum�nissa,Goumenissa,B,RL,--3-----,,40.93333333333333,22.433333333333334,
+GR,GOV,Gouvion,Gouvion,F,RQ,1-3-----,,39.65,19.85,
 GR,GVA,Greven�,Grevena,,AA,--3-----,,40.083333333333336,21.433333333333334,
 GR,GYT,Gythion,Gythion,,AA,1-------,,36.766666666666666,22.566666666666666,
 GR,HRI,Halandri,Halandri,A1,RQ,--3-----,,38.0215202,23.7984139,true
@@ -288,6 +292,7 @@ GR,KAY,Kary�,Karya,42,RL,--3-----,,39.983333333333334,22.383333333333333,
 GR,KST,Karystos,Karystos,,AI,1-------,,38.016666666666666,24.416666666666668,
 GR,KAD,Kass�ndra,Kassandra,64,RL,--3-----,,40.05,23.416666666666668,
 GR,KSP,Kassiopi Corfu,Kassiopi Corfu,22,RQ,1-------,,39.78333333333333,19.916666666666668,
+GR,KSA,Kassiopis,Kassiopis,F,RQ,1-3-----,,39.78333333333333,19.916666666666668,
 GR,KSJ,Kassos,Kassos,,AI,1--4----,,35.416666666666664,26.916666666666668,
 GR,KIS,Kastelli Kissamou,Kastelli Kissamou,,AI,1-------,,35.516666666666666,23.633333333333333,
 GR,KAS,Kastellorizou (ex Meg�sti),Kastellorizou (ex Megisti),81,AI,1-------,,36.15,29.6,
@@ -307,7 +312,7 @@ GR,KAA,Kattav�a,Kattavia,81,RL,--3-----,,35.95,27.766666666666666,
 GR,KVA,Kav�la,Kavala,55,AI,1-34----,,40.93333333333333,24.4,
 GR,3KR,Kavall�rion,Kavallarion,B,RL,--3-----,,40.71666666666667,23.05,
 GR,KEA,K�a (Tzia),Kea (Tzia),,AI,1-------,,37.65,24.316666666666666,
-GR,KFL,Kefallinia,Kefallinia,,RQ,--3-----,EFL,,,
+GR,KFL,Kefallinia,Kefallinia,,RQ,--3-----,EFL,38.12227,20.50246,true
 GR,K33,Kefalonia,Kefalonia,33,RL,--3-----,,38.25,20.5,
 GR,KEF,Kefalos Ko,Kefalos Ko,,AA,1-------,,36.733333333333334,26.966666666666665,
 GR,KFO,Kefal�vrison,Kefalovrison,33,RL,--3-----,,39.666666666666664,20.616666666666667,
@@ -338,7 +343,7 @@ GR,KPS,Kopan�s,Kopanos,53,RL,1-3-----,,40.63333333333333,22.116666666666667,
 GR,KRK,Korakochori,Korakochori,14,RL,--3-----,,37.666666666666664,21.316666666666666,
 GR,KRT,K�rinthos,Korinthos,15,RL,1-3-----,,37.93333333333333,22.916666666666668,
 GR,KMT,Korm�sta,Kormista,62,RL,-----6--,,40.983333333333334,-24.05,
-GR,KPO,Koropi,Koropi,,RQ,--3-----,,37.9019302,23.8771098,true
+GR,KPO,Koropi,Koropi,,RQ,--3-----,,37.8986169,23.8740711,true
 GR,KOR,Koropion,Koropion,,RQ,0-------,,37.8986169,23.8740711,true
 GR,KYD,Korydall�s,Korydallos,44,RL,--3-----,,39.81666666666667,21.333333333333332,
 GR,KGS,Kos,Kos,,AI,1--4----,,36.86666666666667,27.25,
@@ -346,6 +351,7 @@ GR,KEM,Kosta Ermionidas,Kosta Ermionidas,,AA,1-------,,37.3,23.166666666666668,
 GR,KOU,Kouf�lia,Koufalia,54,RL,--3-----,,40.766666666666666,22.566666666666666,
 GR,KOF,Koufonissia Kykladon,Koufonissia Kykladon,,AA,1-------,,36.93333333333333,25.6,
 GR,GAM,Kounavoi,Kounavoi,HK,RL,-----6--,,35.233333333333334,25.183333333333334,
+GR,AON,Kounoupidiana,Kounoupidiana,M,AM,1-3-----,,35.53333333333333,24.083333333333332,
 GR,KZI,Koz�ni,Kozani,,AI,---4----,,40.3,21.783333333333335,
 GR,KGR,Kremasti,Kremasti,81,RL,--3-----,,36.4,28.116666666666667,
 GR,KRI,Krioneri,Krioneri,,RQ,--3-----,,37.5806297,22.5377352,true
@@ -376,7 +382,7 @@ GR,LEF,Lefkandi,Lefkandi,,RQ,1-------,,38.416666666666664,23.683333333333334,
 GR,LEV,Lefk�s (Lefk�da),Lefkas (Lefkada),,AI,1-------,,38.833333333333336,20.7,
 GR,LKI,Lefk�,Lefki,34,RL,--3-----,,39.333333333333336,20.916666666666668,
 GR,LFK,Lefk�mmi,Lefkimmi,22,AI,1-------,,39.416666666666664,20.1,
-GR,LXS,Lemnos,Lemnos,,AI,---4----,,38.4734892,25.9106765,true
+GR,LXS,Lemnos,Lemnos,,AI,---4----,,,,
 GR,KAN,Leond�rion,Leondarion,,RL,--3-----,,37.983333333333334,23.866666666666667,
 GR,LND,Leon�dion,Leonidion,,AI,1-------,,37.15,22.9,
 GR,LPK,Leptokari�,Leptokaria,71,RL,--3-----,,41.06666666666667,25.9,
@@ -400,9 +406,9 @@ GR,LOD,Loudias,Loudias,54,RL,--3-----,,40.78333333333333,22.4,
 GR,LOU,Loutraki,Loutraki,,RQ,--3-----,,37.9743673,22.9777228,true
 GR,LTR,Loutro Chanion,Loutro Chanion,,RQ,1-------,,35.2,24.083333333333332,
 GR,MGO,Magiko,Magiko,,RL,--3-----,,41.06666666666667,24.883333333333333,
+GR,MGU,Mago�la,Magoula,41,RL,--3-----,,39.45,21.8,
 GR,M8L,Mago�la,Magoula,42,RL,1-------,,39.81666666666667,22.083333333333332,
 GR,MGL,Mago�la,Magoula,A1,RL,1-3-----,,38.083333333333336,23.516666666666666,
-GR,MGU,Mago�la,Magoula,41,RL,--3-----,,39.45,21.8,
 GR,MKR,Makriyialos,Makriyialos,92,RL,-23-----,,35.03333333333333,25.966666666666665,
 GR,MLK,Malak�sa,Malakasa,,RL,-23-----,,38.233333333333334,23.8,
 GR,MAL,Malaoi,Malaoi,,AA,0-------,,,,
@@ -415,7 +421,7 @@ GR,MAN,Manol�s,Manolas,,RL,--3-----,,38.05,21.35,
 GR,MTI,Manto�dion,Mantoudion,,RL,--3-----,,38.8,23.483333333333334,
 GR,MRT,Marath�tis,Marathitis,HK,RL,--3-----,,35.28333333333333,25.133333333333333,
 GR,MKP,Marathokampos Samou,Marathokampos Samou,84,AA,1-------,,37.7,26.7,
-GR,MHO,Marathonas,Marathonas,A1,RQ,--3-----,,38.1619804,23.9890647164548,true
+GR,MHO,Marathonas,Marathonas,A1,RQ,--3-----,,38.1532724,23.9620892,true
 GR,GAQ,Markopoulo,Markopoulo,A1,RL,-----6--,,37.88333333333333,23.933333333333334,
 GR,MAR,Markopoulon,Markopoulon,,RQ,--3-----,,38.291016,23.823889,true
 GR,MRM,Marmari,Marmari,,AI,1-------,,38.05,24.316666666666666,
@@ -434,6 +440,7 @@ GR,MKN,Melissokhorion,Melissokhorion,54,RQ,--3-----,,40.766666666666666,22.91666
 GR,MEN,Menidi,Menidi,,AA,1-------,,39.03333333333333,21.116666666666667,
 GR,MEL,Mesol�ngion,Mesolongion,,AI,1-------,,38.36666666666667,21.433333333333334,
 GR,MNI,Mess�ni,Messini,17,RL,--3-----,,37.05,22,
+GR,MSS,Messongis,Messongis,F,RQ,1-3-----,,39.46666666666667,19.933333333333334,
 GR,MHI,Mesta Hiou,Mesta Hiou,,AI,1-------,,38.28333333333333,25.933333333333334,
 GR,MMS,Metamorfosis,Metamorfosis,,RQ,0-------,,36.8055132,22.9161326,true
 GR,MEA,Methana,Methana,A1,AA,1-------,,37.583333333333336,23.55,
@@ -452,6 +459,7 @@ GR,MKT,Moskhaton,Moskhaton,A1,RL,-----6--,,37.95,23.666666666666668,
 GR,MDR,Mo�dhros,Moudhros,,AI,1-------,,39.86666666666667,25.266666666666666,
 GR,MRA,Mouria�,Mouriai,,RL,--3-----,,41.25,22.8,
 GR,MOU,Moutso�na,Moutsouna,,AA,1-------,,37.083333333333336,25.583333333333332,
+GR,MPO,Mpoukaris,Mpoukaris,F,RQ,1-3-----,,39.45,19.983333333333334,
 GR,JMK,Mykonos,Mykonos,82,AI,1--4----,,37.45,25.333333333333332,
 GR,MYL,Mylaki,Mylaki,,AA,1-------,,38.38333333333333,24.066666666666666,
 GR,MRS,Myrties Kalymnou,Myrties Kalymnou,L,RL,1-------,,36.983333333333334,26.916666666666668,
@@ -553,7 +561,7 @@ GR,PEB,Petani Beach,Petani Beach,23,RQ,1-------,,38.266666666666666,20.366666666
 GR,PLV,Petra,Petra,83,AI,1-------,,39.333333333333336,26.183333333333334,
 GR,PET,P�tra Lesvou,Petra Lesvou,83,AA,-23-----,,38.36666666666667,23.066666666666666,
 GR,PRE,Petries Evvoias,Petries Evvoias,04,RQ,1-------,,38.4,24.183333333333334,
-GR,PTC,Petrit�,Petriti,22,RL,--3-----,,39.45,20,
+GR,PTC,Petriti,Petriti,22,RL,1-3-----,,39.45,20,
 GR,PYV,Peyki Evvoias,Peyki Evvoias,04,RQ,1-------,,39,23.216666666666665,
 GR,PSE,Phserimos Dodekanisou,Phserimos Dodekanisou,81,AA,1-------,,36.93333333333333,27.133333333333333,
 GR,PIK,Pik�rmion,Pikermion,A1,RL,--3--6--,,38,23.95,
@@ -568,7 +576,7 @@ GR,ALG,Plakias,Plakias,M,AA,1-------,,35.18333333333333,24.383333333333333,
 GR,PIA,Platania,Platania,43,RQ,1-------,,39.13333333333333,23.266666666666666,
 GR,PTN,Pl�tanos,Platanos,,RL,--3-----,,40.55,22.55,
 GR,PTI,Plataria,Plataria,32,RQ,1-------,,39.45,20.283333333333335,
-GR,PLT,Plati,Plati,,RL,0-------,,40.6412166,22.5342458,true
+GR,PLT,Plati,Plati,,RL,0-------,,41.6286072,26.3347031,true
 GR,P5T,Platy,Platy,53,RL,1-3-----,,40.63333333333333,22.533333333333335,
 GR,PLG,Platygiali Etoloakarnanias,Platygiali Etoloakarnanias,,RQ,1-------,,38.46666666666667,21.1,
 GR,PVA,Plevroma,Plevroma,59,RL,--3-----,,40.7,22.116666666666667,
@@ -582,10 +590,12 @@ GR,PLK,Polykastron,Polykastron,57,RL,--3-----,,40.983333333333334,22.55,
 GR,PKE,Poros Kefallinias,Poros Kefallinias,,AI,1-------,,40.89825,26.22302,true
 GR,PTR,Poros Trizinias,Poros Trizinias,,AI,1-------,,40.89825,26.22302,true
 GR,VTH,Port Vath� (Vath�),Port Vathy (Vathy),84,AI,1-------,,37.75,26.983333333333334,
-GR,PHE,Porto Heli,Porto Heli,,AI,1-------,,37.2956985,23.1291374,true
+GR,PHE,Porto Heli,Porto Heli,,AI,1-------,,37.88333,24.01667,true
 GR,PRA,P�rto R�fti (Lim�n Mesoya�as),Porto Rafti (Limin Mesoyaias),A1,RL,--3-----,,37.88333333333333,24.016666666666666,
 GR,PKH,Portoch�lion,Portochelion,,AI,---4----,,37.31666666666667,23.15,
 GR,POA,Potamos Antikithera,Potamos Antikithera,A1,RQ,1-------,,35.88333333333333,23.283333333333335,
+GR,PRN,Prasonisi Rhodes,Prasonisi Rhodes,L,AM,1-3-----,,35.88333333333333,27.766666666666666,
+GR,PKI,Prassa Kimolos,Prassa Kimolos,L,AM,1-3-----,,36.81666666666667,24.583333333333332,
 GR,PVK,Preveza/Lefkas,Preveza/Lefkas,,AI,1--4----,,38.923843700000006,20.768427287254895,true
 GR,PPI,Prinos Thassou,Prinos Thassou,,RQ,1-------,,40.75,24.566666666666666,
 GR,DSD,Prosots�ni,Prosotsani,52,RL,1-3-----,,41.18333333333333,23.966666666666665,
@@ -600,8 +610,8 @@ GR,PLI,Pyli,Pyli,,RL,1-------,,40.766666666666666,21.033333333333335,
 GR,PYL,P�los,Pylos,17,RL,1-3-----,,36.9,21.683333333333334,
 GR,PYR,Pyrgos,Pyrgos,,AI,1--4----,,37.6136204,21.495919003848567,true
 GR,PYT,Pythag�reion,Pythagoreion,84,AI,1-------,,37.7,26.95,
-GR,RAF,Rafina,Rafina,,AI,1-------,,38.0203695,24.0073367,true
-GR,REN,Rentis,Rentis,,RQ,0-------,,37.97507,23.67121,true
+GR,RAF,Rafina,Rafina,,AI,1-------,,38.020615899999996,23.953695013476164,true
+GR,REN,Rentis,Rentis,,RQ,0-------,,37.974701249999995,23.670873109733876,true
 GR,RET,R�thymnon,Rethymnon,,AI,1-------,ZRE,35.36666666666667,24.466666666666665,
 GR,REV,Revithoussa,Revithoussa,,RQ,1-------,,37.95,23.383333333333333,
 GR,RHO,Rhodes,Rhodes,,AI,1--45---,,36.4437233,28.227369,true
@@ -614,7 +624,7 @@ GR,SGT,Sagiada Thesprotias,Sagiada Thesprotias,32,RQ,1-------,,39.63333333333333
 GR,SGB,Saint George,Saint George,,RQ,1-------,,40.6038684,22.1948634,true
 GR,STN,Saint Nicolas,Saint Nicolas,03,RQ,1-------,,38.35,22.683333333333334,
 GR,SAL,Salam�s,Salamis,,RL,1-------,,37.96666666666667,23.483333333333334,
-GR,SNK,Salonika,Salonika,54,RQ,1-------,,40.65432465,22.931475273464873,true
+GR,SNK,Salonika,Salonika,54,RQ,1-------,,,,
 GR,SAI,S�mi,Sami,23,RL,1-3-----,,38.25,20.65,
 GR,SMI,Samos,Samos,,AI,1--4----,,37.7576156,26.9727416,true
 GR,SAM,Samothr�ki,Samothraki,,AI,1-------,,40.483333333333334,25.516666666666666,
@@ -646,7 +656,7 @@ GR,SKA,Skaramang�s,Skaramangas,,RL,1-------,,38,23.583333333333332,
 GR,SKH,Skhimat�rion,Skhimatarion,03,RL,--3-----,,38.35,23.583333333333332,
 GR,JSI,Sk�athos,Skiathos,,AI,1--4----,,39.166666666666664,23.483333333333334,
 GR,SKU,Sk�ros,Skiros,,AI,1--4----,,38.9,24.566666666666666,
-GR,SKO,Skopelos,Skopelos,,AI,1-------,,39.14020475,23.681463611177293,true
+GR,SKO,Skopelos,Skopelos,,AI,1-------,,39.122169,23.7272519,true
 GR,SKY,Skydra,Skydra,,RQ,0-------,,40.7677111,22.1552339,true
 GR,SFD,Sofades,Sofades,41,RL,--3-----,,39.333333333333336,22.1,
 GR,QW3,Sofiko,Sofiko,15,RL,--3-----,,37.8,23.05,
@@ -666,25 +676,25 @@ GR,STM,Stam�ta,Stamata,A1,RL,--3-----,,38.13333333333333,23.883333333333333,
 GR,SCR,Stavrochorion,Stavrochorion,57,RQ,1-------,,35.062499700000004,25.94293652546213,true
 GR,SAP,Stavros Agias Paraskevis,Stavros Agias Paraskevis,,RQ,--3-----,,39.04729,26.27346,true
 GR,SHA,Stavros Halkidikis,Stavros Halkidikis,,AI,1-------,,39.04729,26.27346,true
-GR,STA,Stavroupolis,Stavroupolis,,RQ,--3-----,,40.661889,22.933959,true
+GR,STA,Stavroupolis,Stavroupolis,,RQ,--3-----,,41.35181035,24.745940278694384,true
 GR,STE,Steni Evvias,Steni Evvias,,RQ,0-------,,37.57615,25.19731,true
 GR,GBE,Stenimahos,Stenimahos,,RL,-----6--,,40.6,22.116666666666667,
 GR,STI,Stratoni,Stratoni,,AI,1-------,,40.5137744,23.8253831,true
 GR,SYS,Styl�da (Stylis),Stylida (Stylis),06,AI,1-3-----,,38.916666666666664,22.616666666666667,
 GR,STY,Stylinda,Stylinda,,RQ,0-------,,,,
 GR,SYS,Stylis (Styl�da),Stylis (Stylida),06,AI,1-3-----,,38.916666666666664,22.616666666666667,
-GR,SUD,Suda Bay,Suda Bay,,AI,1-------,,35.50007275,24.061207732233633,true
+GR,SUD,Suda Bay,Suda Bay,,AI,1-------,,,,
 GR,SYM,Symi,Symi,,AI,1-------,,36.6,27.833333333333332,
-GR,JSY,Syra (Syros),Syra (Syros),,AI,1-------,,37.442451500000004,24.934881453154798,true
+GR,JSY,Syra (Syros),Syra (Syros),,AI,1-------,,37.444599,24.93967,true
 GR,SYO,Syra Island,Syra Island,,RL,--3-----,,37.43333333333333,24.916666666666668,
-GR,JSY,Syros (Syra),Syros (Syra),,AI,1-------,,37.442451500000004,24.934881453154798,true
+GR,JSY,Syros (Syra),Syros (Syra),,AI,1-------,,37.42698,24.91631,true
 GR,SYV,Syvota,Syvota,32,AA,1-------,,39.4,20.233333333333334,
 GR,TAK,Taktikoupolis,Taktikoupolis,A1,RL,--3-----,,37.55,23.366666666666667,
 GR,TAN,Tan�gra,Tanagra,03,RL,--3-----,,38.31666666666667,23.533333333333335,
 GR,TVR,T�vros,Tavros,A1,RL,1-3--6--,,37.96666666666667,23.683333333333334,
 GR,TPS,Terpn�,Terpni,62,RL,--3-----,,40.916666666666664,23.483333333333334,
 GR,TPA,Terpsith�a,Terpsithea,42,RL,--3-----,,39.61666666666667,22.366666666666667,
-GR,TSO,Thasos,Thasos,,AI,1-------,,40.7787007,24.7090735,true
+GR,TSO,Thasos,Thasos,,AI,1-------,,,,
 GR,THR,Th�rmi,Thermi,54,RL,--3-----,,40.55,23.016666666666666,
 GR,SKG,Thessalon�ki,Thessaloniki,,AI,1--45---,,40.63333333333333,22.95,
 GR,TKO,Thessi Kyrillo,Thessi Kyrillo,,RQ,1-------,,,,
@@ -706,10 +716,10 @@ GR,TFP,Trachia Fafplio,Trachia Fafplio,,RQ,--3-----,,,,
 GR,TGN,Traganon,Traganon,,RQ,--3-----,,37.89789,21.31245,true
 GR,TRA,Tran�valton,Tranovalton,,RL,--3-----,,40.05,21.866666666666667,
 GR,TRI,Trikala,Trikala,,RQ,0-------,,39.5560869,21.7678844,true
-GR,TRK,Trikeri,Trikeri,43,RQ,1-------,,39.083333333333336,23.066666666666666,
+GR,TRK,Trikeri Island,Trikeri Island,43,RQ,1-------,,39.083333333333336,23.066666666666666,
 GR,TLF,Trilofon,Trilofon,53,RL,--3-----,,40.56666666666667,22.15,
 GR,TFS,Tr�lofos,Trilofos,61,RL,--3-----,,40.38333333333333,22.45,
-GR,TRP,Tripolis,Tripolis,,RQ,--3-----,,37.5102911,22.3724241,true
+GR,TRP,Tripolis,Tripolis,,RQ,--3-----,,37.52646585,22.34874426880834,true
 GR,TRY,Trypiti Chalkidikis,Trypiti Chalkidikis,,RQ,1-------,,40.36666666666667,23.916666666666668,
 GR,TSI,Tsing�li,Tsingeli,,RL,1-------,,39.166666666666664,22.85,
 GR,TYR,T�rnavos,Tyrnavos,42,RL,--3-----,,39.733333333333334,22.283333333333335,
@@ -744,12 +754,15 @@ GR,VRI,Vris�kia,Vrisakia,,RL,1-------,,38.56666666666667,23.6,
 GR,VYR,Vyronas,Vyronas,A1,RL,--3-----,,37.95,23.75,
 GR,XAN,X�nthi,Xanthi,,RL,--3-----,,41.13333333333333,24.883333333333333,
 GR,XKB,Xirok�mbion,Xirokambion,16,RL,1----6--,,36.96666666666667,22.45,
+GR,XIR,Xirokampos Leros,Xirokampos Leros,L,AM,1-3-----,,37.11666666666667,26.866666666666667,
 GR,XYL,Xyl�kastron,Xylokastron,,RL,-----6--,,38.083333333333336,22.633333333333333,
+GR,XYT,Xylokeratia Milos,Xylokeratia Milos,L,,1-3-----,,36.666666666666664,24.366666666666667,
 GR,YLI,Yali Island,Yali Island,,RQ,1-------,,36.660815,27.112161148286653,true
 GR,YAL,Yaltra,Yaltra,04,RQ,1-------,,38.85,22.983333333333334,
 GR,YER,Yerakin�,Yerakini,64,AI,1-------,,40.28333333333333,23.45,
 GR,YNN,Yiannitsa,Yiannitsa,,RQ,--3-----,,,,
 GR,GRG,Ypato,Ypato,03,RL,--3-----,,38.38333333333333,23.383333333333333,
+GR,YPS,Ypsos,Ypsos,F,RQ,1-3-----,,39.7,19.833333333333332,
 GR,ZGA,Zagor�,Zagora,E,RL,--3-----,,39.45,23.1,
 GR,ZTH,Z�kynthos,Zakynthos,21,AI,1--4----,,37.78333333333333,20.9,
 GR,ZEA,Zea Island,Zea Island,,RQ,0-------,,37.9388082,23.6475384,true

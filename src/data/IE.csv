@@ -20,7 +20,7 @@ IE,ARH,Arklow Head (Ie009),Arklow Head (Ie009),WW,RQ,1-------,,52.793689,-6.1683
 IE,ATS,Arthurstown,Arthurstown,KE,RL,--3-----,,53.21666666666667,-6.566666666666666,
 IE,ASH,Ashbourne,Ashbourne,,AF,--3-----,,53.5116146,-6.3981743,true
 IE,ASD,Ashford,Ashford,WW,RL,--3-----,,53,-6.116666666666666,
-IE,ASK,Askeaton,Askeaton,,AF,--3-----,,52.59458265000001,-8.96615477662709,true
+IE,ASK,Askeaton,Askeaton,,AF,--3-----,,52.599722,-8.975556,true
 IE,ABY,Athboy,Athboy,,RL,--3-----,,53.61666666666667,-6.916666666666667,
 IE,ARY,Athenry,Athenry,,RL,--3-----,,53.28333333333333,-8.733333333333333,
 IE,ATE,Athleague,Athleague,RN,RL,--3-----,,53.56666666666667,-8.25,
@@ -34,7 +34,7 @@ IE,BIT,B & I Terminal,B & I Terminal,,AF,1-------,,,,
 IE,BAG,Bagenalstown,Bagenalstown,CW,RL,-23-----,,52.7,-6.95,
 IE,BAI,Bailieborough,Bailieborough,CN,RL,--3-----,,53.9,-6.966666666666667,
 IE,BBG,Balbriggan,Balbriggan,D,RL,123-----,,53.61666666666667,-6.183333333333334,
-IE,BAL,Baldonnel,Baldonnel,,AF,---4----,,,,
+IE,BAL,Baldonnel,Baldonnel,,AF,---4----,,53.3069194,-6.4285651,true
 IE,BAY,Baldoyle,Baldoyle,D,AF,--3-----,,53.4,-6.133333333333334,
 IE,BLH,Ballagh,Ballagh,LK,RL,--3-----,,52.36666666666667,-9.066666666666666,
 IE,BGD,Ballaghaderreen,Ballaghaderreen,RN,RL,--3-----,,53.9,-8.583333333333334,
@@ -117,7 +117,7 @@ IE,BRT,Bunratty,Bunratty,CE,RL,--3-----,,52.68333333333333,-8.8,
 IE,BFO,Burnfoot,Burnfoot,,RL,--3--6--,,55.05,-7.4,
 IE,BUR,Burtonport,Burtonport,,RL,1-3-----,,54.983333333333334,-8.433333333333334,
 IE,BUT,Butlerstown,Butlerstown,CO,RL,--3-----,,51.583333333333336,-8.716666666666667,
-IE,CHR,Caher,Caher,,AF,--3-----,,52.3749915,-7.92424,true
+IE,CHR,Caher,Caher,,AF,--3-----,,52.3573727,-7.89794704295273,true
 IE,CAI,Cahir (An Chathair),Cahir (An Chathair),,AF,--3-----,,52.36666666666667,-7.916666666666667,
 IE,CHE,Cahirciveen,Cahirciveen,,AF,1-34----,,51.95,-10.216666666666667,
 IE,LLN,Callan,Callan,KK,RL,-----6--,,52.53333333333333,-7.383333333333334,
@@ -173,7 +173,7 @@ IE,CKY,Clonakilty,Clonakilty,CO,RL,--3-----,,51.61666666666667,-8.88333333333333
 IE,CSL,Clonaslee,Clonaslee,LS,RL,--3-----,,53.13333333333333,-7.516666666666667,
 IE,CFY,Clonbulloge,Clonbulloge,OY,RL,-----6--,,53.25,-7.083333333333333,
 IE,CLK,Clondalkin,Clondalkin,,AF,--3-----,,53.3219624,-6.3942689,true
-IE,CLE,Clonee,Clonee,,AF,--3-----,,53.4104332,-6.4404037,true
+IE,CLE,Clonee,Clonee,,AF,--3-----,,53.4104228,-6.4403825,true
 IE,CLS,Clones,Clones,,RL,--3-----,,54.166666666666664,-7.233333333333333,
 IE,CLL,Clonmel,Clonmel,,AF,--3-----,,52.355,-7.703889,true
 IE,CHU,Clonshaugh,Clonshaugh,D,RL,--3-----,,53.38333333333333,-6.233333333333333,
@@ -203,7 +203,7 @@ IE,DAL,Dalkey,Dalkey,D,RL,-23-----,,53.266666666666666,-6.1,
 IE,DEA,Deans Grange,Deans Grange,D,AF,--3-----,,53.28333333333333,-6.166666666666667,
 IE,DEL,Delgany,Delgany,WW,RL,--3-----,,53.11666666666667,-6.083333333333333,
 IE,DYB,Derrybeg,Derrybeg,DL,RL,--3-----,,55.083333333333336,-8.283333333333333,
-IE,DER,Derryveagh,Derryveagh,,AF,0-------,,54.36033905,-7.017341253000499,true
+IE,DER,Derryveagh,Derryveagh,,AF,0-------,,53.6005585,-7.8461707,true
 IE,DIN,Dingle,Dingle,,AF,1-------,,52.1407781,-10.2687161,true
 IE,DAT,Donabate,Donabate,D,RL,--3-----,,53.483333333333334,-6.15,
 IE,CFN,Donegal,Donegal,DL,AI,1-34----,,54.6537924,-8.1102616,true
@@ -212,7 +212,7 @@ IE,DLN,Doolin,Doolin,CE,RL,--3-----,,53.016666666666666,-9.383333333333333,
 IE,DBG,Doonbeg,Doonbeg,CE,RL,-23--6--,,52.733333333333334,-9.516666666666667,
 IE,DNE,Dooneen,Dooneen,CO,RL,--3-----,,51.5,-9.216666666666667,
 IE,DGS,Douglas,Douglas,CO,RQ,--3-----,,51.86666666666667,-8.433333333333334,
-IE,DRI,Drinagh,Drinagh,CO,RL,--3-----,,51.65,-149.75,
+IE,DRI,Drinagh,Drinagh,CO,RL,--3-----,,51.65,-9.15,
 IE,DRO,Drogheda,Drogheda,,AF,1-------,,53.7149877,-6.3524183,true
 IE,DMF,Drogheda Maxol Facility,Drogheda Maxol Facility,LH,AA,1-------,,53.71666666666667,-6.333333333333333,
 IE,DPP,Drogheda Premiere Periclase,Drogheda Premiere Periclase,LH,RL,1-------,,53.71666666666667,-62.516666666666666,
@@ -223,7 +223,7 @@ IE,DRM,Dromod,Dromod,LM,RL,--3-----,,53.86666666666667,-7.916666666666667,
 IE,DMN,Drumone,Drumone,MH,RL,--3-----,,53.71666666666667,-7.15,
 IE,DMR,Drumree,Drumree,MH,RL,--3-----,,53.5,-6.566666666666666,
 IE,DRU,Drumshanbo,Drumshanbo,LM,RL,--3-----,,54.15,-8.033333333333333,
-IE,DUB,Dublin,Dublin,,AF,12-45---,,53.3493795,-6.2605593,true
+IE,DUB,Dublin,Dublin,,AF,12345---,,53.3493795,-6.2605593,true
 IE,DFT,Dublin-Dublin Ferryport Terminals,Dublin-Dublin Ferryport Terminals,D,AA,1-------,,53.31666666666667,-6.233333333333333,
 IE,DFA,Dublin-Ferryport Terminal 1,Dublin-Ferryport Terminal 1,D,AA,1-------,,53.31666666666667,-6.183333333333334,
 IE,DFB,Dublin-Ferryport Terminal 2,Dublin-Ferryport Terminal 2,D,AA,1-------,,53.31666666666667,-6.2,
@@ -296,12 +296,12 @@ IE,HYS,Hollystown,Hollystown,D,RL,--3-----,,53.416666666666664,-6.36666666666666
 IE,HOL,Holywood,Holywood,CW,RQ,--3-----,,53.5757083,-6.268026827696958,true
 IE,HOW,Howth,Howth,,AI,1-------,,53.3858337,-6.0651186,true
 IE,INS,Inishannon (Inis Eonain),Inishannon (Inis Eonain),CO,RL,--3-----,,51.766666666666666,-8.65,
-IE,INQ,Inisheer,Inisheer,,AI,---4----,,53.06433765,-9.510315177443115,true
+IE,INQ,Inisheer,Inisheer,,AI,---4----,,,,
 IE,IIA,Inishmaan,Inishmaan,,AI,---4----,,,,
 IE,IOR,Inishmore,Inishmore,,AI,---4----,,53.06433765,-9.510315177443115,true
 IE,INV,Inveran,Inveran,,RQ,--3-----,,53.233333333333334,-9.433333333333334,
 IE,IRD,Irish Rail Freight Depot,Irish Rail Freight Depot,,AF,-2------,,,,
-IE,JMT,Jamestown,Jamestown,LM,RQ,--3-----,,53.9268765,-8.0303119,true
+IE,JMT,Jamestown,Jamestown,LM,RQ,--3-----,,53.92567535,-8.03616738061982,true
 IE,JTD,Johnstown,Johnstown,MH,RL,--3-----,,53.4,-6.833333333333333,
 IE,JUL,Julianstown,Julianstown,MH,RL,--3-----,,53.666666666666664,-6.266666666666667,
 IE,KNT,Kanturk,Kanturk,,RQ,--3-----,,52.1774522,-8.9065541,true
@@ -321,7 +321,7 @@ IE,RRR,Kildorrery,Kildorrery,CO,RL,1-------,,52.233333333333334,-8.4166666666666
 IE,KLK,Kilkenny,Kilkenny,,AF,--3-----,KKY,52.6506255,-7.2514438,true
 IE,IKN,Kilkieran,Kilkieran,G,RL,-----6--,,53.31666666666667,-9.733333333333333,
 IE,KKS,kilkishen,kilkishen,CE,RL,--3-----,,52.8,-8.75,
-IE,KIK,"""Kill"," Kildare""","""Kill"," Kildare""",,--3-----,53.2487139,-6.589208,true
+IE,KIK,"Kill, Kildare","Kill, Kildare",,RQ,--3-----,,52.176111,-7.335,true
 IE,KLA,Killala,Killala,,RL,1-3-----,,54.2138959,-9.2209417,true
 IE,KLE,Killaloe,Killaloe,CE,RQ,--3-----,,52.8,-8.433333333333334,
 IE,KLY,Killarney,Killarney,,RQ,-23-----,,52.0595746,-9.505322,true
@@ -337,12 +337,12 @@ IE,KGD,Killygordon,Killygordon,DL,RL,--3-----,,54.8,-7.683333333333334,
 IE,KMT,Kilmacthomas,Kilmacthomas,WD,RL,--3-----,,52.2,-7.416666666666667,
 IE,KWD,Kilmainham Wood,Kilmainham Wood,MH,RL,--3-----,,53.85,-6.8,
 IE,KMK,Kilmallock,Kilmallock,LK,RL,--3-----,,52.4,-8.566666666666666,
-IE,KKA,Kilmokea,Kilmokea,,AF,1-------,,52.29560265,-6.970142505109233,true
+IE,KKA,Kilmokea,Kilmokea,,AF,1-------,,52.29557255,-6.977591318403071,true
 IE,KRL,Kilmore Quay,Kilmore Quay,WX,RL,--3-----,,52.166666666666664,-6.583333333333333,
 IE,KRY,Kilmurry,Kilmurry,CE,RL,-----6--,,52.8,-9.45,
 IE,KNL,Kilnaleck,Kilnaleck,CN,RL,--3-----,,53.86666666666667,-7.316666666666666,
-IE,KIN,Kilronan,Kilronan,G,RL,1-34----,,53.11666666666667,-9.666666666666666,
 IE,KRN,Kilronan,Kilronan,CE,RQ,--3-----,,52.65,-9.666666666666666,
+IE,KIN,Kilronan,Kilronan,G,RL,1-34----,,53.11666666666667,-9.666666666666666,
 IE,KLR,Kilrush,Kilrush,,AI,1-------,,52.6397222,-9.4833283,true
 IE,KHE,Kilsheelan,Kilsheelan,TA,RL,--3-----,,52.35,-7.566666666666666,
 IE,IKH,Kiltamagh,Kiltamagh,MO,RL,-----6--,,53.85,-9,
@@ -352,13 +352,13 @@ IE,KWH,Kilworth,Kilworth,CO,RL,--3-----,,52.166666666666664,-8.233333333333333,
 IE,KCT,Kingscourt,Kingscourt,,RL,--3-----,,53.9080467,-6.8054428,true
 IE,KNG,Kinnegad,Kinnegad,WH,RQ,1-------,,53.4548146,-7.1011946,true
 IE,KLN,Kinsale,Kinsale,,AF,1-------,,51.705737,-8.5229823,true
-IE,KSL,Kinsealy,Kinsealy,D,RQ,--3-----,,53.4229766,-6.1672838665668355,true
+IE,KSL,Kinsealy,Kinsealy,D,RQ,--3-----,,53.42291045,-6.169826660981201,true
 IE,KIA,Kinvarra,Kinvarra,G,RL,--3-----,,53.13333333333333,-8.933333333333334,
 IE,NOC,Knock,Knock,,AI,---4----,,53.7947992,-8.9193547,true
 IE,NOK,Knockalough,Knockalough,CE,RL,--3-----,,52.7,-9.25,
 IE,KTH,Knocktopher,Knocktopher,KK,RL,--3-----,,52.483333333333334,-7.2,
 IE,LBH,Lanesborough,Lanesborough,LD,RL,--3-----,,53.666666666666664,-7.983333333333333,
-IE,LEI,Leitrim,Leitrim,,AF,--3-----,,53.9905176,-8.065392,true
+IE,LEI,Leitrim,Leitrim,,AF,--3-----,,52.173416950000004,-8.202532292600107,true
 IE,LEX,Leixlip,Leixlip,,AF,--3-----,,53.3644766,-6.4897438,true
 IE,LTR,Letterkenny,Letterkenny,,AF,--3-----,,54.9517941,-7.7354368,true
 IE,LIF,Lifford,Lifford,,AF,--3-----,,54.8326995,-7.4834739,true
@@ -383,7 +383,7 @@ IE,MAL,Mallow,Mallow,,AF,--3-----,,52.1374642,-8.6462922,true
 IE,MHN,Manorhamilton,Manorhamilton,LM,RL,-----6--,,54.3,-8.166666666666666,
 IE,MAP,Marino Point,Marino Point,,AF,1-------,,55.157738,-7.127165,true
 IE,MAR,Marshmeadows/New Ross,Marshmeadows/New Ross,WX,AA,1-------,,52.38333333333333,-6.95,
-IE,MAY,Maynooth,Maynooth,,AF,--3-----,,53.38001345,-6.591600317241495,true
+IE,MAY,Maynooth,Maynooth,,AF,--3-----,,53.3830239,-6.5922806,true
 IE,MYO,Mayo,Mayo,MO,RL,--3-----,,53.75,-9.116666666666667,
 IE,MID,Midleton,Midleton,,AF,--3-----,,51.9142741,-8.1700962,true
 IE,MIL,Millstreet,Millstreet,CO,RL,--3-----,,52.05,-9.05,
@@ -405,7 +405,7 @@ IE,MOY,Moycullen,Moycullen,G,RL,--3-----,,53.333333333333336,-9.2,
 IE,MLT,Mulhurddart,Mulhurddart,D,RL,--3-----,,53.4,-6.4,
 IE,MLA,Mullagh,Mullagh,CN,RL,--3-----,,53.8,-6.933333333333334,
 IE,MUG,Mullagh,Mullagh,MH,RQ,--3-----,,53.45,-6.633333333333333,
-IE,MLL,Mulligan,Mulligan,,RQ,--3-----,,,,
+IE,MLL,Mulligan,Mulligan,,RQ,--3-----,,53.6105625,-6.7878630356032374,true
 IE,MUE,Mullinahone,Mullinahone,TA,RL,--3-----,,52.5,-7.5,
 IE,MUL,Mullingar,Mullingar,,AF,--3-----,,53.525822,-7.341304,true
 IE,MLM,Multyfarnham,Multyfarnham,WH,RL,--3-----,,53.61666666666667,-7.383333333333334,
@@ -424,7 +424,7 @@ IE,NMR,Newmarket,Newmarket,CO,RL,--3-----,,52.21666666666667,-9,
 IE,NOF,Newmarket on Fergus,Newmarket on Fergus,CE,RL,--3-----,,52.75,-8.883333333333333,
 IE,NET,Newport,Newport,MO,RL,1-3-----,,53.88333333333333,-9.533333333333333,
 IE,NAY,Newtonabbey,Newtonabbey,,RL,123-----,,54.65,-5.933333333333334,
-IE,NEX,Newtown,Newtown,WX,RQ,1-------,,52.221667,-7.388889,true
+IE,NEX,Newtown,Newtown,WX,RQ,1-------,,52.5175783,-6.644794723091686,true
 IE,NMK,Newtown Mount Kennedy,Newtown Mount Kennedy,WW,RL,--3-----,,53.083333333333336,-6.116666666666666,
 IE,OCA,Ocallaghansmills,Ocallaghansmills,,RQ,--3-----,,52.833333333333336,-8.683333333333334,
 IE,NOV,Oldcastle,Oldcastle,,RL,--3--6--,,53.766666666666666,-7.166666666666667,
@@ -460,7 +460,7 @@ IE,RHO,Rhode,Rhode,OY,RQ,--3-----,,53.35,-7.2,
 IE,RIN,Ringaskiddy,Ringaskiddy,CO,AF,1-------,,51.833333333333336,-8.316666666666666,
 IE,RDT,Ringaskiddy Deepwater Terminal,Ringaskiddy Deepwater Terminal,CO,AA,1-------,,51.833333333333336,-8.316666666666666,
 IE,RPT,Ringaskiddy Passenger Terminal,Ringaskiddy Passenger Terminal,CO,AA,1-------,,51.833333333333336,-8.316666666666666,
-IE,RVM,River Moy,River Moy,,AF,1-------,,52.5025,-6.7525,true
+IE,RVM,River Moy,River Moy,,AF,1-------,,54.06444,-6.21861,true
 IE,RVT,Riverstown,Riverstown,LH,RL,--3-----,,53.983333333333334,-6.216666666666667,
 IE,RCM,Rockmills,Rockmills,CO,RL,--3-----,,52.21666666666667,-8.4,
 IE,ROO,Roosky,Roosky,RN,RL,--3-----,,53.833333333333336,-7.916666666666667,
@@ -518,7 +518,7 @@ IE,THR,Thurles,Thurles,,RQ,-23-----,,52.6801547,-7.8151008,true
 IE,TLG,Timoleague,Timoleague,CO,RL,--3-----,,51.63333333333333,-8.766666666666667,
 IE,TIN,Tinahely,Tinahely,WW,RL,--3-----,,52.8,-6.466666666666667,
 IE,TPY,Tipperary,Tipperary,,AF,--3-----,,52.4734839,-8.1614446,true
-IE,TIV,Tivoli,Tivoli,,AF,1-------,,51.9039427,-8.428996,true
+IE,TIV,Tivoli,Tivoli,,AF,1-------,,51.902984,-8.4092329,true
 IE,TOB,Tober,Tober,OY,RL,1-3-----,,53.36666666666667,-7.65,
 IE,TOG,Togher,Togher,CO,RQ,--3-----,,51.86666666666667,-8.483333333333333,
 IE,TRP,Tom Roes Point Terminal/Drogheda,Tom Roes Point Terminal/Drogheda,LH,AA,1-------,,53.71666666666667,-6.3,
@@ -527,13 +527,14 @@ IE,TRA,Tralee,Tralee,,AI,1-------,,52.2692116,-9.7057047,true
 IE,TME,Tramore,Tramore,,RL,1-------,,52.1606951,-7.1494391,true
 IE,TRI,Trim,Trim,,AF,--3-----,,53.5556419,-6.7925109,true
 IE,ITM,Tuam,Tuam,G,RL,-----6--,,53.516666666666666,-8.85,
-IE,TUB,Tubbercurry,Tubbercurry,,AF,--3-----,,54.0539302,-8.730565,true
+IE,TUB,Tubbercurry,Tubbercurry,,AF,--3-----,,54.10472555,-8.552776017848075,true
 IE,TLA,Tulla,Tulla,CE,RL,--3-----,,52.85,-8.75,
 IE,TUL,Tullamore,Tullamore,OY,AF,-23-----,,53.266666666666666,-7.483333333333333,
 IE,TUW,Tullow,Tullow,,AF,--3-----,,52.803146,-6.7377301,true
 IE,TYL,Tullylease,Tullylease,CO,RQ,--3-----,,52.3,-8.95,
 IE,TLN,Tullynamalra,Tullynamalra,MN,RL,--3-----,,54.05,-6.816666666666666,
 IE,TYA,Tynagh,Tynagh,G,RL,--3--6--,,53.13333333333333,-8.366666666666667,
+IE,UHL,Unionhall,Unionhall,CO,RQ,1-3-----,,51.55,-9.15,
 IE,UTN,Urlingford,Urlingford,,RQ,--3-----,,52.71666666666667,-7.583333333333333,
 IE,VIR,Virginia,Virginia,,AF,--3-----,,53.8350708,-7.0831588,true
 IE,WAL,Walkinstown,Walkinstown,,AF,0-------,,53.3216133,-6.3301177,true
